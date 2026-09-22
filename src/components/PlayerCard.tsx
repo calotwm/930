@@ -1,21 +1,16 @@
 import { POSITION_LABEL } from '../lib/positions'
 import type { Player } from '../lib/types'
 
+/** Search result. Goals stay hidden until the player is placed on the pitch. */
 export function PlayerCard({
   player,
   onPick,
   disabledReason,
-  resultingTotal,
-  target,
 }: {
   player: Player
   onPick: (player: Player) => void
   disabledReason?: string
-  resultingTotal: number
-  target: number
 }) {
-  const busts = resultingTotal > target
-  const hits = resultingTotal === target
   return (
     <li>
       <button
@@ -35,14 +30,12 @@ export function PlayerCard({
             {disabledReason && <span className="text-bust">· {disabledReason}</span>}
           </div>
         </div>
-        <div className="flex shrink-0 flex-col items-end">
-          <span className="font-display tabular text-3xl leading-none">{player.goals}</span>
-          <span
-            className={`tabular mt-1 text-[10px] font-semibold ${hits ? 'text-gold' : busts ? 'text-bust' : 'text-chalk-dim'}`}
-          >
-            {hits ? '¡930!' : `→ ${resultingTotal}`}
-          </span>
-        </div>
+        <span
+          className="font-display flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-dashed border-chalk/30 text-lg text-chalk-dim"
+          aria-hidden="true"
+        >
+          ?
+        </span>
       </button>
     </li>
   )

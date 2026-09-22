@@ -35,15 +35,15 @@ export function buildIndex(players: Player[]): IndexedPlayer[] {
 
 export interface SearchOptions {
   role?: SlotRole
-  limit?: number
 }
 
-/** Every query token must start a word in the player's name, clubs or position. Sorted by goals desc. */
-export function searchPlayers(
-  index: IndexedPlayer[],
-  query: string,
-  { role, limit = 60 }: SearchOptions = {},
-): Player[] {
+const collator = new Intl.Collator('es', { sensitivity: 'base' })
+
+/**
+ * Every query token must start a word in the player's name, clubs or position.
+ * Sorted by surname: sorting by goals would leak the hidden number.
+ */
+export function searchPlayers(index: IndexedPlayer[], query: string, { role }: SearchOptions = {}): Player[] {
   const tokens = normalize(query)
     .split(' ')
     .filter(Boolean)
@@ -53,6 +53,6 @@ export function searchPlayers(
     if (role && !canPlay(player.position, role)) continue
     if (tokens.every((t) => haystack.includes(t))) out.push(player)
   }
-  out.sort((a, b) => b.goals - a.goals || a.name.localeCompare(b.name))
-  return out.slice(0, limit)
+  out.sort((a, b) => collator.compare(a.shortName, b.shortName) || collator.compare(a.name, b.name))
+  return out
 }

@@ -49,8 +49,11 @@ describe('searchPlayers', () => {
     expect(searchPlayers(index, '', { role: 'DEL' }).map((p) => p.id)).toEqual(['erico', 'labruna'])
   })
 
-  it('ordena por goles desc', () => {
-    const g = searchPlayers(index, '').map((p) => p.goals)
-    expect(g).toEqual([...g].sort((a, b) => b - a))
+  it('ordena por apellido, no por goles (los goles están ocultos)', () => {
+    expect(searchPlayers(index, '').map((p) => p.id)).toEqual(['gk', 'erico', 'labruna', 'lema'])
+  })
+
+  it('devuelve todos los resultados, sin tope', () => {
+    expect(searchPlayers(index, '')).toHaveLength(4)
   })
 })

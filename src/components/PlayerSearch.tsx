@@ -4,13 +4,13 @@ import { searchPlayers, type IndexedPlayer } from '../lib/searchPlayers'
 import type { Player, Position, SlotRole } from '../lib/types'
 import { PlayerCard } from './PlayerCard'
 
+const PAGE = 60
+
 export function PlayerSearch({
   index,
   role,
   current,
   usedIds,
-  total,
-  target,
   onPick,
   onRemove,
 }: {
@@ -18,22 +18,24 @@ export function PlayerSearch({
   role: SlotRole
   current: Player | null
   usedIds: Set<string>
-  total: number
-  target: number
   onPick: (player: Player) => void
   onRemove: () => void
 }) {
   const [query, setQuery] = useState('')
   const [pos, setPos] = useState<Position | null>(null)
+  const [shown, setShown] = useState(PAGE)
   const deferred = useDeferredValue(query)
   const allowed = positionsForRole(role)
 
   const results = useMemo(() => {
-    const found = searchPlayers(index, deferred, { role, limit: pos ? 400 : 80 })
-    return (pos ? found.filter((p) => p.position === pos) : found).slice(0, 80)
+    const found = searchPlayers(index, deferred, { role })
+    return pos ? found.filter((p) => p.position === pos) : found
   }, [index, deferred, role, pos])
 
-  const base = total - (current?.goals ?? 0)
+  const selectPos = (p: Position | null) => {
+    setPos(p)
+    setShown(PAGE)
+  }
 
   return (
     <div className="flex min-h-0 flex-1 flex-col">
@@ -63,7 +65,10 @@ export function PlayerSearch({
           <input
             autoFocus
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => {
+              setQuery(e.target.value)
+              setShown(PAGE)
+            }}
             placeholder="Buscar jugador o club…"
             aria-label="Buscar jugador"
             enterKeyHint="search"
@@ -73,29 +78,41 @@ export function PlayerSearch({
         </label>
         {allowed.length > 1 && (
           <div className="flex gap-1.5 overflow-x-auto" role="group" aria-label="Filtrar por posición">
-            <FilterChip active={pos === null} onClick={() => setPos(null)}>
+            <FilterChip active={pos === null} onClick={() => selectPos(null)}>
               Todos
             </FilterChip>
             {allowed.map((p) => (
-              <FilterChip key={p} active={pos === p} onClick={() => setPos(pos === p ? null : p)}>
+              <FilterChip key={p} active={pos === p} onClick={() => selectPos(pos === p ? null : p)}>
                 {POSITION_LABEL[p]}
               </FilterChip>
             ))}
           </div>
         )}
+        <p className="text-[11px] font-semibold text-chalk-dim" aria-live="polite">
+          {results.length} {results.length === 1 ? 'jugador' : 'jugadores'} · los goles se revelan al elegir
+        </p>
       </div>
       <ul className="min-h-0 flex-1 space-y-2 overflow-y-auto overscroll-contain px-5 pb-6">
         {results.length === 0 && <li className="py-10 text-center text-sm text-chalk-dim">Sin resultados</li>}
-        {results.map((p) => (
+        {results.slice(0, shown).map((p) => (
           <PlayerCard
             key={p.id}
             player={p}
             onPick={onPick}
-            target={target}
-            resultingTotal={base + p.goals}
             disabledReason={p.id === current?.id ? 'ya está acá' : usedIds.has(p.id) ? 'ya en tu equipo' : undefined}
           />
         ))}
+        {results.length > shown && (
+          <li>
+            <button
+              type="button"
+              onClick={() => setShown((n) => n + PAGE)}
+              className="w-full rounded-2xl border border-white/10 py-3 text-sm font-bold text-chalk-dim active:scale-[0.98]"
+            >
+              Ver más ({results.length - shown})
+            </button>
+          </li>
+        )}
       </ul>
     </div>
   )

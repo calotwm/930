@@ -64,7 +64,8 @@ export function Home() {
         <FootballPitch formation={formation} lineup={game.lineup} activeSlot={activeSlot} onSelectSlot={setActiveSlot} />
         {game.filled === 0 && (
           <p className="mt-3 text-center text-xs text-chalk-dim">
-            Tocá un puesto y sumá goleadores históricos. La suma tiene que dar <b className="text-chalk">{TARGET}</b> exacto.
+            Tocá un puesto y elegí un jugador histórico. Sus goles se revelan en la cancha. La suma tiene que dar{' '}
+            <b className="text-chalk">{TARGET}</b> exacto.
           </p>
         )}
       </main>
@@ -77,8 +78,6 @@ export function Home() {
             role={slot.role}
             current={game.lineup[slot.id] ?? null}
             usedIds={usedPlayerIds(game.lineup)}
-            total={game.total}
-            target={TARGET}
             onPick={pick}
             onRemove={() => {
               game.remove(slot.id)

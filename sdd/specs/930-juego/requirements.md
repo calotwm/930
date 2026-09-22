@@ -28,7 +28,7 @@ Regla de prioridad (consistente, no arbitraria):
 - FR1 Pantalla principal: logo 930, "DESAFÍO HISTÓRICO", contador grande, barra de progreso, estado compacto (jugadores, goles, restantes), cancha.
 - FR2 Tocar slot abre bottom sheet con buscador filtrado por posición del slot.
 - FR3 Búsqueda por nombre, apellido, club, posición; insensible a acentos y mayúsculas.
-- FR4 Resultado muestra nombre, club relevante, posición, goles (destacado), época.
+- FR4 Resultado muestra nombre, club relevante, posición, época y alcance del dato. Los goles quedan ocultos ("?") y se revelan al colocar al jugador en la cancha (cambio pedido por el usuario el 22/09/2026). Resultados ordenados por apellido (ordenar por goles delataría el número), con contador y "Ver más".
 - FR5 Asignar jugador actualiza el contador con animación corta y delta "+N".
 - FR6 Tocar slot lleno permite cambiar o quitar al jugador.
 - FR7 Un jugador no puede estar en dos slots.

@@ -37,6 +37,10 @@ Regla de prioridad (consistente, no arbitraria):
 - FR10 Más de 930: estado "Te pasaste por N".
 - FR11 Compartir: Web Share API (imagen si se puede, si no texto); fallback copiar texto.
 - FR12 Reiniciar equipo.
+- FR13 Cambios limitados (propuesta Game Designer, 22/09/2026): quitar o reemplazar a un jugador ya colocado usa 1 de 5 cambios. Llenar un puesto vacío no cuesta nada.
+- FR14 Derrota: sin cambios y sin forma de llegar a 930 (te pasaste o ya es imposible) muestra "SIN CAMBIOS" con "Jugar de nuevo".
+- FR15 Identidad con colores de la bandera argentina (propuesta UI Designer): azul noche de base, celeste y blanco en franjas y acentos, dorado Sol de Mayo en victoria, cancha verde.
+- FR16 Dataset ampliado a todos los jugadores con goles registrados por Transfermarkt en Primera (2012/13–2026) y ascenso (2008/09–2026), más los arqueros.
 
 ## Non-functional
 - Mobile-first real (375–430 px). Desktop: misma experiencia, cancha más grande.

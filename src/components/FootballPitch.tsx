@@ -4,7 +4,7 @@ import { PlayerSlot } from './PlayerSlot'
 function PitchLines() {
   return (
     <svg viewBox="0 0 68 100" preserveAspectRatio="none" className="absolute inset-0 h-full w-full" aria-hidden="true">
-      <g fill="none" stroke="rgb(243 234 211 / 0.38)" strokeWidth="0.35" vectorEffect="non-scaling-stroke">
+      <g fill="none" stroke="rgb(247 244 236 / 0.42)" strokeWidth="0.35" vectorEffect="non-scaling-stroke">
         <rect x="2" y="2" width="64" height="96" rx="0.5" />
         <line x1="2" y1="50" x2="66" y2="50" />
         <ellipse cx="34" cy="50" rx="9.15" ry="9.15" />
@@ -30,12 +30,14 @@ export function FootballPitch({
   activeSlot = null,
   onSelectSlot,
   compact = false,
+  highlight = false,
 }: {
   formation: Formation
   lineup: Lineup
   activeSlot?: string | null
   onSelectSlot?: (slotId: string) => void
   compact?: boolean
+  highlight?: boolean
 }) {
   return (
     <div className="pitch relative aspect-[68/100] w-full overflow-hidden rounded-3xl">
@@ -48,6 +50,7 @@ export function FootballPitch({
           active={activeSlot === slot.id}
           onSelect={onSelectSlot}
           compact={compact}
+          highlight={highlight}
         />
       ))}
     </div>

@@ -1,8 +1,8 @@
 import type { ScoreStatus } from '../lib/scoring'
 
 const FILL: Record<ScoreStatus, string> = {
-  under: 'bg-go',
-  exact: 'bg-gold',
+  under: 'bg-celeste',
+  exact: 'bg-sol',
   over: 'bg-bust',
 }
 

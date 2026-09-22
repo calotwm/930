@@ -28,23 +28,32 @@ export async function renderShareImage(players: Player[], total: number): Promis
     // font not available; canvas falls back to Impact/sans-serif
   }
 
-  ctx.fillStyle = '#07130d'
+  ctx.fillStyle = '#0a1626'
   ctx.fillRect(0, 0, W, H)
-  for (let i = 0; i < 10; i++) {
-    ctx.fillStyle = i % 2 ? '#0b1c13' : '#091710'
-    ctx.fillRect(0, (H / 10) * i, W, H / 10)
+  const flag = (y: number, h: number) => {
+    ;['#75aadb', '#ffffff', '#75aadb'].forEach((c, i) => {
+      ctx.fillStyle = c
+      ctx.fillRect(0, y + (h / 3) * i, W, h / 3)
+    })
   }
+  flag(0, 24)
+  flag(H - 12, 12)
 
   const display = 'Anton, Impact, sans-serif'
-  ctx.fillStyle = '#f3ead3'
+  ctx.fillStyle = '#f7f4ec'
   ctx.font = `140px ${display}`
-  ctx.fillText('930', 80, 210)
+  ctx.fillText('93', 80, 210)
+  const x0 = 80 + ctx.measureText('93').width + 58
+  ctx.fillStyle = '#f6b40e'
+  ctx.beginPath()
+  ctx.arc(x0, 158, 46, 0, Math.PI * 2)
+  ctx.fill()
   ctx.font = `bold 34px Inter, sans-serif`
-  ctx.fillStyle = '#b9b29f'
+  ctx.fillStyle = '#a9bcd3'
   ctx.fillText('DESAFÍO HISTÓRICO', 84, 270)
 
   ctx.font = `110px ${display}`
-  ctx.fillStyle = total === TARGET ? '#e8b84a' : '#f3ead3'
+  ctx.fillStyle = total === TARGET ? '#f6b40e' : '#f7f4ec'
   const score = `${total} / ${TARGET}`
   ctx.fillText(score, W - 80 - ctx.measureText(score).width, 210)
 
@@ -52,9 +61,9 @@ export async function renderShareImage(players: Player[], total: number): Promis
   const row = (H - top - 120) / Math.max(players.length, 1)
   players.forEach((p, i) => {
     const y = top + row * i + row * 0.7
-    ctx.fillStyle = i % 2 ? 'rgba(243,234,211,0.03)' : 'rgba(243,234,211,0.06)'
+    ctx.fillStyle = i % 2 ? 'rgba(117,170,219,0.06)' : 'rgba(117,170,219,0.12)'
     ctx.fillRect(60, top + row * i + 6, W - 120, row - 12)
-    ctx.fillStyle = '#f3ead3'
+    ctx.fillStyle = '#f7f4ec'
     ctx.font = `800 40px Inter, sans-serif`
     ctx.fillText(p.name.toUpperCase(), 90, y)
     ctx.font = `56px ${display}`
@@ -62,7 +71,7 @@ export async function renderShareImage(players: Player[], total: number): Promis
     ctx.fillText(g, W - 90 - ctx.measureText(g).width, y + 4)
   })
 
-  ctx.fillStyle = '#b9b29f'
+  ctx.fillStyle = '#a9bcd3'
   ctx.font = `600 30px Inter, sans-serif`
   ctx.fillText(`${players.length} jugadores · ${total} goles`, 84, H - 60)
 

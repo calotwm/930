@@ -7,12 +7,13 @@ const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
 const OUT = path.join(ROOT, 'src', 'data', 'players.json')
 const REPORT = path.join(ROOT, 'data-sources', 'REPORT.md')
+const FULL = path.join(ROOT, 'data-sources', 'players.full.json')
 
 const RSSSF_URL = 'https://www.rsssf.org/tablesa/argtops-allt.html'
 const RSSSF_UPDATED = '17/08/2023'
 const CURRENT_YEAR = 2026
 // first season Transfermarkt's all-time scorer lists cover (checked by querying season windows)
-const TM_COVERAGE_START = { AR1N: 2012, ARG2: 2008 }
+const TM_COVERAGE_START = { P1: 1990, ARG2: 2008 }
 
 const norm = (s) =>
   s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim()
@@ -31,6 +32,33 @@ function titleCase(upper) {
         .join('')
     })
     .join(' ')
+}
+
+const decode = (s) =>
+  s
+    .replace(/&#0?39;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+
+// Transfermarkt uses official club names ("CD Godoy Cruz Antonio Tomba"); cards need the common one
+const CLUB_ALIASES = {
+  'Club Atlético Tucumán': 'Atlético Tucumán',
+  'CD Godoy Cruz Antonio Tomba': 'Godoy Cruz',
+  'CA San Lorenzo de Almagro': 'San Lorenzo',
+  'Club de Gimnasia y Esgrima La Plata': 'Gimnasia LP',
+  'Club Estudiantes de La Plata': 'Estudiantes LP',
+  'Club Atlético Belgrano': 'Belgrano',
+  'Defensa y Justicia': 'Defensa y Justicia',
+}
+function cleanClub(raw) {
+  const name = decode(raw).trim()
+  if (CLUB_ALIASES[name]) return CLUB_ALIASES[name]
+  const short = name
+    .replace(/^(Club Atlético|Club Deportivo|Club Social y Deportivo|Asociación Atlética|Club Sportivo|Club)\s+/i, '')
+    .replace(/^(CA|CD|CSD|AA|CS|CSyD)\s+/, '')
+    .trim()
+  return short || name
 }
 
 function eraFromYears(minY, maxY) {
@@ -91,6 +119,7 @@ const TM_POS = {
   'Defensive Midfield': 'DM',
   'Central Midfield': 'CM',
   Midfield: 'CM',
+  Midfielder: 'CM',
   'Attacking Midfield': 'AM',
   'Left Midfield': 'LW',
   'Right Midfield': 'RW',
@@ -99,6 +128,7 @@ const TM_POS = {
   'Second Striker': 'ST',
   'Centre-Forward': 'ST',
   Attack: 'ST',
+  Striker: 'ST',
 }
 
 const YOUTH = /\bU\d{2}\b|reserve|res\.|youth|juv|\bII\b|\bB\b$/i
@@ -171,31 +201,71 @@ function main() {
   }
   report.push(`RSSSF: ${rs.length} jugadores parseados. Suma por club = total en ${players.filter((p) => !p.review.some((x) => x.startsWith('club-breakdown'))).length}.`)
 
-  // Transfermarkt
-  const rows = JSON.parse(fs.readFileSync(path.join(RAW, 'transfermarkt-rows.json'), 'utf8'))
+  // Transfermarkt: per-season lists (complete per season) summed per player and division.
+  // Primera = AR1N (liga 2014–2023) + ARG1 (Apertura/Inicial) + ARGC (Clausura/Final), 1990/91 onwards.
+  // The AR1N all-time list (capped at 150 per position) is used to cross-check the AR1N sums.
+  const readJson = (name) => JSON.parse(fs.readFileSync(path.join(RAW, name), 'utf8'))
+  const seasonRows = [...readJson('transfermarkt-season-rows.json'), ...readJson('transfermarkt-season-rows-ap.json')]
+  const allTime = readJson('transfermarkt-rows.json')
+  const truncatedLists = [...readJson('transfermarkt-season-truncated.json'), ...readJson('transfermarkt-season-truncated-ap.json')]
+  const allTimeGoals = new Map(allTime.filter((r) => r.comp === 'AR1N').map((r) => [r.tmId, r.goals]))
+  const DIVISION_OF = { AR1N: 'P1', ARG1: 'P1', ARGC: 'P1', ARG2: 'ARG2' }
   const byId = new Map()
-  for (const r of rows) {
-    const e = byId.get(r.tmId) ?? { ...r, recs: {} }
-    e.recs[r.comp] = r
+  for (const r of seasonRows) {
+    const div = DIVISION_OF[r.comp]
+    const e = byId.get(r.tmId) ?? { tmId: r.tmId, name: decode(r.name), slug: r.slug, posCount: new Map(), recs: {} }
+    e.posCount.set(r.pos, (e.posCount.get(r.pos) ?? 0) + 1)
+    const rec = (e.recs[div] ??= { goals: 0, seasons: [], clubs: new Map(), byComp: {}, comps: new Set() })
+    rec.goals += r.goals
+    rec.byComp[r.comp] = (rec.byComp[r.comp] ?? 0) + r.goals
+    rec.comps.add(r.comp)
+    rec.seasons.push(r.season)
+    if (r.club && !/\d+ Clubs/.test(r.club)) {
+      const c = cleanClub(r.club)
+      rec.clubs.set(c, (rec.clubs.get(c) ?? 0) + 1)
+    }
     byId.set(r.tmId, e)
   }
   let tmAdded = 0
   let tmMissingPos = 0
+  let tmNoGoals = 0
+  let crossChecked = 0
+  const sumMismatch = []
   const skipped = []
   for (const e of byId.values()) {
+    e.pos = [...e.posCount.entries()].sort((a, b) => b[1] - a[1])[0][0]
     const position = TM_POS[e.pos]
     if (!position) {
       tmMissingPos++
       skipped.push(`${e.name}: posición desconocida "${e.pos}"`)
       continue
     }
+    // Primera if he scored there (or is a goalkeeper who played there); otherwise ascenso
+    const scored = (d) => e.recs[d] && (e.recs[d].goals > 0 || position === 'GK')
+    const comp = scored('P1') ? 'P1' : scored('ARG2') ? 'ARG2' : null
+    if (!comp) {
+      tmNoGoals++
+      continue
+    }
+    const rec = e.recs[comp]
+    const review = []
+    let goals = rec.goals
+    const listed = comp === 'P1' ? allTimeGoals.get(e.tmId) : undefined
+    if (listed !== undefined) {
+      crossChecked++
+      const ar1n = rec.byComp.AR1N ?? 0
+      if (listed !== ar1n) {
+        sumMismatch.push(`${e.name} (AR1N): suma por temporada ${ar1n} vs histórico ${listed}`)
+        goals += listed - ar1n
+        review.push(`season-sum-${ar1n}`)
+      }
+    }
+
     const stints = argentineStints(e.tmId)
-    const years = stints?.flatMap((s) => [s.start, s.end]) ?? []
+    const seasonYears = rec.seasons
+    const years = [...(stints?.flatMap((s) => [s.start, s.end]) ?? []), ...seasonYears]
     const minY = years.length ? Math.min(...years) : null
     const maxY = years.length ? Math.max(...years) : null
-
-    const rec = e.recs.AR1N ?? e.recs.ARG2
-    const comp = e.recs.AR1N ? 'AR1N' : 'ARG2'
 
     // duplicate with RSSSF? same surname + a given name + overlapping years
     const n = norm(e.name).split(' ')
@@ -208,15 +278,15 @@ function main() {
         maxY >= k.minY - 1,
     )
     if (hit) {
-      if (e.recs.AR1N) {
+      // keep the record with more Primera goals when two Transfermarkt entries match (homonyms)
+      if (e.recs.P1 && (hit.p.discrepancies?.[0]?.goals ?? -1) < e.recs.P1.goals) {
         hit.p.discrepancies = [
           {
-            source: 'Transfermarkt (Primera, AR1N)',
-            goals: e.recs.AR1N.goals,
-            note: 'Cobertura histórica parcial de Transfermarkt; se usa RSSSF por prioridad.',
+            source: 'Transfermarkt (Primera desde 1990/91)',
+            goals: e.recs.P1.goals,
+            note: 'Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad.',
           },
         ]
-        if (e.recs.AR1N.goals !== hit.p.goals) discrepancyLog.push(`${hit.p.name}: RSSSF ${hit.p.goals} vs Transfermarkt ${e.recs.AR1N.goals}`)
       }
       // Transfermarkt gives the real position for modern RSSSF players
       hit.p.position = position
@@ -225,48 +295,56 @@ function main() {
       continue
     }
 
-    const argClubs = stints ? [...new Set(stints.map((s) => s.club))] : []
+    // club: where he played most seasons in that division; fall back to transfer history
     const clubMonths = new Map()
-    for (const s of stints ?? []) clubMonths.set(s.club, (clubMonths.get(s.club) ?? 0) + s.months)
-    let club = [...clubMonths.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]
-    const review = []
-    if (!club) {
-      club = /\d+ Clubs/.test(rec.club || '') ? 'Varios clubes' : rec.club
-      if (rec.club && !/\d+ Clubs/.test(rec.club)) argClubs.push(rec.club)
-      review.push('club-era-unverified')
+    for (const s of stints ?? []) clubMonths.set(cleanClub(s.club), (clubMonths.get(cleanClub(s.club)) ?? 0) + s.months)
+    const seasonClub = [...rec.clubs.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]
+    const club = seasonClub ?? [...clubMonths.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? 'Varios clubes'
+    const clubs = [...new Set([...rec.clubs.keys(), ...clubMonths.keys()])]
+    if (club === 'Varios clubes') review.push('club-unverified')
+    const coverageStart = TM_COVERAGE_START[comp]
+    if (minY !== null && minY <= coverageStart) review.push(`seasons-before-${coverageStart}-not-counted`)
+    if (truncatedLists.some((t) => DIVISION_OF[t.split(' ')[0]] === comp && rec.seasons.includes(Number(t.split(' ')[1])))) {
+      review.push('season-list-truncated')
     }
     const parts = e.name.split(' ')
-    const compName = comp === 'AR1N' ? 'Primera División (AR1N)' : 'Primera Nacional (ARG2)'
-    const coverageStart = TM_COVERAGE_START[comp]
-    if (minY !== null && minY < coverageStart) review.push(`seasons-before-${coverageStart}-not-counted`)
     players.push({
       id: slug(e.name),
       name: e.name,
       shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
       position,
-      goals: rec.goals,
+      goals,
       club,
-      clubs: argClubs,
-      division: comp === 'AR1N' ? 'Primera' : 'Primera Nacional',
-      scope: comp === 'AR1N' ? 'Primera desde 2012/13' : 'Ascenso desde 2008/09',
+      clubs,
+      division: comp === 'P1' ? 'Primera' : 'Primera Nacional',
+      scope: comp === 'P1' ? 'Primera desde 1990/91' : 'Ascenso desde 2008/09',
       era: eraFromYears(minY, maxY),
       source: {
-        name: `Transfermarkt — ${compName}, goleadores históricos`,
-        url: `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}/wettbewerb/${comp}`,
-        note: `Goles de liga registrados por Transfermarkt en ${compName}, que cubre desde la temporada ${coverageStart}/${String(coverageStart + 1).slice(2)}. No incluye Copa de la Liga ni copas.${
-          comp === 'AR1N' && e.recs.ARG2 ? ` En ascenso (ARG2) registra ${e.recs.ARG2.goals}, no sumados.` : ''
-        }`,
-      },
-      secondarySource: {
-        name: 'Transfermarkt — historial de transferencias (clubes y época)',
-        url: `https://www.transfermarkt.com/${e.slug}/transfers/spieler/${e.tmId}`,
+        name:
+          comp === 'P1'
+            ? 'Transfermarkt — Primera División (Apertura, Clausura y Liga Profesional)'
+            : 'Transfermarkt — Primera Nacional (ARG2)',
+        url:
+          comp === 'P1'
+            ? `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}`
+            : `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}/wettbewerb/ARG2`,
       },
       tmId: e.tmId,
       review,
     })
     tmAdded++
   }
-  report.push(`Transfermarkt: ${byId.size} jugadores únicos, ${tmAdded} agregados, ${byId.size - tmAdded - tmMissingPos} fusionados con RSSSF, ${tmMissingPos} descartados por posición desconocida.`)
+  report.push(
+    `Transfermarkt: ${byId.size} jugadores únicos en listas por temporada, ${tmAdded} agregados, ${
+      byId.size - tmAdded - tmMissingPos - tmNoGoals
+    } fusionados con RSSSF, ${tmNoGoals} sin goles (no arqueros) descartados, ${tmMissingPos} descartados por posición desconocida.`,
+  )
+  report.push(
+    `Control cruzado: ${crossChecked} jugadores figuran también en la lista histórica de la Liga Profesional (AR1N) de Transfermarkt; la suma por temporada coincide en ${
+      crossChecked - sumMismatch.length
+    }. Si difiere, se usa el total histórico y se marca \`season-sum-N\`.`,
+  )
+  report.push(`Listas por temporada truncadas (150 filas con goles): ${truncatedLists.length ? truncatedLists.join(', ') : 'ninguna'}.`)
 
   // unique ids
   const seen = new Map()
@@ -279,9 +357,19 @@ function main() {
     delete p.tmId
     if (p.review && p.review.length === 0) delete p.review
   }
+  for (const p of players) {
+    const d = p.discrepancies?.[0]
+    if (d && d.goals !== p.goals) discrepancyLog.push(`${p.name}: RSSSF ${p.goals} vs Transfermarkt ${d.goals}`)
+  }
   players.sort((a, b) => b.goals - a.goals || a.name.localeCompare(b.name))
 
-  fs.writeFileSync(OUT, JSON.stringify(players, null, 2) + '\n')
+  // full audit copy (review flags, discrepancies) next to the report; the app ships a slim copy
+  fs.writeFileSync(FULL, JSON.stringify(players, null, 1) + '\n')
+  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, ...p }) => ({
+    ...p,
+    source: { name: p.source.name, url: p.source.url },
+  }))
+  fs.writeFileSync(OUT, JSON.stringify(runtime))
 
   const count = (f) => players.filter(f).length
   const md = [
@@ -291,7 +379,7 @@ function main() {
     '',
     '## Definición de goles',
     'Goles de liga argentina en la división indicada. Sin copas, sin selección, sin clubes extranjeros, sin amistosos.',
-    'Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (AR1N) > Transfermarkt Primera Nacional (ARG2).',
+    'Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura + Liga Profesional, desde 1990/91, si hizo goles ahí o es arquero) > Transfermarkt Primera Nacional (ARG2, desde 2008/09). Los goles de Transfermarkt salen de sumar las listas por temporada (completas) y se controlan contra su lista histórica. No incluye Copa de la Liga ni copas.',
     '',
     '## Resumen',
     ...report.map((r) => `- ${r}`),
@@ -302,15 +390,20 @@ function main() {
     '## Discrepancias entre fuentes (se usa RSSSF)',
     ...(discrepancyLog.length ? discrepancyLog.map((d) => `- ${d}`) : ['- Ninguna']),
     '',
+    '## Suma por temporada vs histórico de Transfermarkt',
+    ...(sumMismatch.length ? sumMismatch.map((d) => `- ${d}`) : ['- Todas coinciden']),
+    '',
     '## Revisión pendiente',
     '- `position-unverified`: RSSSF no informa posición; se asumió delantero (ST).',
     '- `active-in-source-update-2023`: jugador activo cuando RSSSF actualizó (17/08/2023); el total puede estar desactualizado.',
-    '- `club-era-unverified`: Transfermarkt no devolvió clubes argentinos en el historial.',
+    '- `club-unverified`: Transfermarkt no informa un club único para ese jugador.',
+    '- `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.',
+    '- `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.',
     '- `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).',
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players
-      .filter((p) => p.review?.some((r) => r !== 'position-unverified' && !r.startsWith('seasons-before')))
+      .filter((p) => p.review?.some((r) => r !== 'position-unverified' && !r.startsWith('seasons-before') && r !== 'season-list-truncated'))
       .map((p) => `- ${p.name}: ${p.review.join(', ')}`),
     '',
     '## Descartados',

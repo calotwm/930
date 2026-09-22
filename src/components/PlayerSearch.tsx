@@ -11,6 +11,7 @@ export function PlayerSearch({
   role,
   current,
   usedIds,
+  changesLeft,
   onPick,
   onRemove,
 }: {
@@ -18,9 +19,12 @@ export function PlayerSearch({
   role: SlotRole
   current: Player | null
   usedIds: Set<string>
+  changesLeft: number
   onPick: (player: Player) => void
   onRemove: () => void
 }) {
+  // replacing or removing a placed player spends a change
+  const locked = current !== null && changesLeft === 0
   const [query, setQuery] = useState('')
   const [pos, setPos] = useState<Position | null>(null)
   const [shown, setShown] = useState(PAGE)
@@ -43,7 +47,14 @@ export function PlayerSearch({
         {current && (
           <div className="flex items-center justify-between rounded-2xl border border-white/10 px-4 py-2.5">
             <div className="min-w-0">
-              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">En este puesto</p>
+              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">
+                En este puesto ·{' '}
+                {locked ? (
+                  <span className="text-bust">sin cambios</span>
+                ) : (
+                  <span className="text-celeste-soft">cambiarlo usa 1 de {changesLeft}</span>
+                )}
+              </p>
               <p className="truncate font-extrabold uppercase">
                 {current.name} · <span className="font-display tabular">{current.goals}</span>
               </p>
@@ -51,13 +62,14 @@ export function PlayerSearch({
             <button
               type="button"
               onClick={onRemove}
-              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95"
+              disabled={locked}
+              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95 disabled:opacity-40"
             >
               Quitar
             </button>
           </div>
         )}
-        <label className="flex items-center gap-2 rounded-2xl bg-white/8 px-4 py-3 focus-within:ring-2 focus-within:ring-gold/60">
+        <label className="flex items-center gap-2 rounded-2xl bg-white/8 px-4 py-3 focus-within:ring-2 focus-within:ring-sol/60">
           <svg viewBox="0 0 20 20" className="h-4 w-4 shrink-0 text-chalk-dim" aria-hidden="true">
             <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" strokeWidth="2" />
             <path d="M13 13l4 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -99,7 +111,15 @@ export function PlayerSearch({
             key={p.id}
             player={p}
             onPick={onPick}
-            disabledReason={p.id === current?.id ? 'ya está acá' : usedIds.has(p.id) ? 'ya en tu equipo' : undefined}
+            disabledReason={
+              p.id === current?.id
+                ? 'ya está acá'
+                : usedIds.has(p.id)
+                  ? 'ya en tu equipo'
+                  : locked
+                    ? 'sin cambios'
+                    : undefined
+            }
           />
         ))}
         {results.length > shown && (
@@ -125,7 +145,7 @@ function FilterChip({ active, onClick, children }: { active: boolean; onClick: (
       onClick={onClick}
       aria-pressed={active}
       className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-bold tracking-wide transition active:scale-95 ${
-        active ? 'bg-chalk text-night' : 'bg-white/8 text-chalk-dim'
+        active ? 'bg-celeste text-night' : 'bg-white/8 text-chalk-dim'
       }`}
     >
       {children}

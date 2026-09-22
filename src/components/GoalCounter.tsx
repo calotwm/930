@@ -30,7 +30,7 @@ function useTweenedNumber(value: number, duration = 450) {
 
 const COLOR: Record<ScoreStatus, string> = {
   under: 'text-chalk',
-  exact: 'text-gold',
+  exact: 'text-sol',
   over: 'text-bust',
 }
 
@@ -47,9 +47,9 @@ export function GoalCounter({
   return (
     <div className="relative flex items-end gap-2">
       <span
-        key={status === 'over' ? `over-${delta?.key}` : 'steady'}
+        key={status === 'under' ? 'steady' : `${status}-${delta?.key}`}
         className={`font-display tabular text-[5.5rem] leading-[0.85] ${COLOR[status]} transition-colors duration-300 ${
-          status === 'over' ? 'animate-shake' : ''
+          status === 'over' ? 'animate-shake' : status === 'exact' ? 'animate-win-pulse' : ''
         }`}
         aria-live="polite"
         aria-label={`${total} de ${TARGET} goles`}
@@ -61,7 +61,7 @@ export function GoalCounter({
         <span
           key={delta.key}
           className={`animate-float-up font-display pointer-events-none absolute -top-3 left-1 text-2xl ${
-            delta.value > 0 ? 'text-go' : 'text-chalk-dim'
+            delta.value > 0 ? 'text-celeste-soft' : 'text-chalk-dim'
           }`}
           aria-hidden="true"
         >

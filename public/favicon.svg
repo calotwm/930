@@ -1,7 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#07130d"/>
-  <text x="5" y="44" font-family="Anton, Impact, 'Arial Narrow', sans-serif" font-size="32" fill="#f3ead3" letter-spacing="-0.5">93</text>
-  <circle cx="48" cy="33" r="10" fill="#f3ead3"/>
-  <path d="M48 28.2l4.2 3-1.6 4.9h-5.2l-1.6-4.9z" fill="#07130d"/>
-  <path d="M48 23v5.2M52.2 31.2l5-1.6M50.6 36.1l3 4.2M45.4 36.1l-3 4.2M43.8 31.2l-5-1.6" stroke="#07130d" stroke-width="1.3"/>
+  <rect width="64" height="64" rx="14" fill="#0A1626"/>
+  <g fill="#F6B40E">
+    <rect x="30" y="4" width="4" height="9" rx="1.2"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(45 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(90 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(135 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(180 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(225 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(270 32 32)"/>
+    <rect x="30" y="4" width="4" height="9" rx="1.2" transform="rotate(315 32 32)"/>
+    <circle cx="32" cy="32" r="15"/>
+  </g>
+  <path d="M32 24L39.6 29.5L36.7 38.5H27.3L24.4 29.5Z" fill="#0A1626"/>
+  <rect x="14" y="56" width="36" height="3" rx="1.5" fill="#75AADB"/>
 </svg>

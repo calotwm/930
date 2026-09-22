@@ -4,16 +4,19 @@
   --font-display: 'Anton', Impact, 'Arial Narrow', sans-serif;
   --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
 
-  --color-night: #07130d;
-  --color-night-2: #0d1f16;
-  --color-night-3: #15302a;
-  --color-grass-1: #1c6b3d;
-  --color-grass-2: #1a6238;
-  --color-chalk: #f3ead3;
-  --color-chalk-dim: #b9b29f;
-  --color-gold: #e8b84a;
-  --color-go: #4ade80;
-  --color-bust: #ff5a4e;
+  --color-night: #0a1626;
+  --color-night-2: #11233a;
+  --color-night-3: #1a3252;
+  --color-line: #24406a;
+  --color-grass-1: #1e6b43;
+  --color-grass-2: #195c39;
+  --color-chalk: #f7f4ec;
+  --color-chalk-dim: #a9bcd3;
+  --color-celeste: #75aadb;
+  --color-celeste-soft: #8ec1ec;
+  --color-celeste-deep: #1f5c99;
+  --color-sol: #f6b40e;
+  --color-bust: #ff6b5e;
 
   --animate-pop: pop 320ms cubic-bezier(0.34, 1.56, 0.64, 1);
   --animate-shake: shake 380ms ease-in-out;
@@ -21,6 +24,27 @@
   --animate-sheet-up: sheet-up 260ms cubic-bezier(0.22, 1, 0.36, 1);
   --animate-fade-in: fade-in 200ms ease-out;
   --animate-slot-pulse: slot-pulse 2.4s ease-in-out infinite;
+  --animate-reveal: reveal 480ms cubic-bezier(0.34, 1.56, 0.64, 1) 140ms both;
+  --animate-shine: shine 400ms ease-out 520ms both;
+  --animate-win-pulse: win-pulse 480ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  --animate-sun-spin: sun-spin 24s linear infinite;
+
+  @keyframes reveal {
+    0% { transform: rotateY(90deg) scale(1); opacity: 0; }
+    45% { transform: rotateY(0deg) scale(1.25); opacity: 1; }
+    100% { transform: rotateY(0deg) scale(1); opacity: 1; }
+  }
+  @keyframes shine {
+    from { transform: translateX(-120%); }
+    to { transform: translateX(120%); }
+  }
+  @keyframes win-pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.12); }
+  }
+  @keyframes sun-spin {
+    to { transform: rotate(360deg); }
+  }
 
   @keyframes pop {
     0% { transform: scale(0.6); opacity: 0; }
@@ -49,7 +73,7 @@
   }
   @keyframes slot-pulse {
     0%, 100% { box-shadow: 0 0 0 0 rgb(243 234 211 / 0); }
-    50% { box-shadow: 0 0 0 4px rgb(243 234 211 / 0.12); }
+    50% { box-shadow: 0 0 0 4px rgb(117 170 219 / 0.18); }
   }
 }
 
@@ -80,10 +104,34 @@ body {
       var(--color-grass-1) 0 10%,
       var(--color-grass-2) 10% 20%
     );
+  perspective: 600px;
   box-shadow:
     inset 0 0 0 1px rgb(255 255 255 / 0.06),
     inset 0 -60px 80px -40px rgb(0 0 0 / 0.35),
     0 20px 40px -20px rgb(0 0 0 / 0.6);
+}
+
+/* celeste / blanco / celeste, like the flag */
+.flag-stripe {
+  background: linear-gradient(
+    180deg,
+    var(--color-celeste) 0 33%,
+    #ffffff 33% 67%,
+    var(--color-celeste) 67% 100%
+  );
+}
+
+.flag-collar {
+  background: linear-gradient(
+    90deg,
+    var(--color-celeste) 0 33%,
+    #ffffff 33% 67%,
+    var(--color-celeste) 67% 100%
+  );
+}
+
+.sun-halo {
+  background: radial-gradient(circle, rgb(246 180 14 / 0.18) 0%, rgb(246 180 14 / 0) 70%);
 }
 
 .confetti-piece {
@@ -110,5 +158,8 @@ body {
   }
   .confetti-piece {
     display: none;
+  }
+  .reveal-number {
+    animation: fade-in 120ms ease-out both !important;
   }
 }

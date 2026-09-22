@@ -1,9 +1,21 @@
 import { describe, expect, it } from 'vitest'
 import { DEFAULT_FORMATION as F } from '../formations'
-import { assignPlayer, emptyLineup, filledCount, isComplete, isWin, removePlayer, validateLineup } from '../gameRules'
+import {
+  MAX_CHANGES,
+  assignPlayer,
+  changesLeft,
+  costsChange,
+  emptyLineup,
+  filledCount,
+  isComplete,
+  isWin,
+  outcome,
+  removePlayer,
+  validateLineup,
+} from '../gameRules'
 import { canPlay } from '../positions'
 import { TARGET, overBy, remainingGoals, scoreStatus, totalGoals } from '../scoring'
-import { findCompletion } from '../solver'
+import { findCompletion, findCompletionBounded } from '../solver'
 import type { Lineup, Player, Position } from '../types'
 
 let n = 0
@@ -171,6 +183,26 @@ describe('duplicados', () => {
   })
 })
 
+describe('cambios y derrota', () => {
+  it('sólo quitar/reemplazar un jugador colocado cuesta un cambio', () => {
+    const l = place(emptyLineup(F), 'del-c', mk('ST', 10))
+    expect(costsChange(l, 'del-c')).toBe(true)
+    expect(costsChange(l, 'del-l')).toBe(false)
+  })
+
+  it('cuenta cambios restantes sin bajar de cero', () => {
+    expect(changesLeft(0)).toBe(MAX_CHANGES)
+    expect(changesLeft(MAX_CHANGES + 2)).toBe(0)
+  })
+
+  it('pierde sólo sin cambios y sin forma de llegar', () => {
+    expect(outcome(true, true, MAX_CHANGES)).toBe('won')
+    expect(outcome(false, false, MAX_CHANGES)).toBe('lost')
+    expect(outcome(false, false, MAX_CHANGES - 1)).toBe('playing')
+    expect(outcome(false, true, MAX_CHANGES)).toBe('playing')
+  })
+})
+
 describe('solver (restricciones futuras / factibilidad)', () => {
   it('encuentra una completación exacta respetando posiciones y sin repetir', () => {
     const { players } = winningLineup()
@@ -186,6 +218,13 @@ describe('solver (restricciones futuras / factibilidad)', () => {
     const { players } = winningLineup()
     const pool = Object.values(players).map((p) => ({ ...p, goals: p.goals + 1 }))
     expect(findCompletion(F, emptyLineup(F), pool, TARGET)).toBeNull()
+  })
+
+  it('con tope de pasos agotado responde "unknown" en vez de colgarse', () => {
+    const { players } = winningLineup()
+    const pool = [...Object.values(players), mk('ST', 5), mk('GK', 3)]
+    expect(findCompletionBounded(F, emptyLineup(F), pool, TARGET, 1)).toBe('unknown')
+    expect(findCompletionBounded(F, emptyLineup(F), pool, TARGET)).not.toBe('unknown')
   })
 
   it('devuelve null si ya se pasó', () => {

@@ -10,11 +10,13 @@
     "preview": "vite preview",
     "test": "vitest run",
     "typecheck": "tsc -b",
-    "build:data": "node scripts/build-dataset.mjs"
+    "build:data": "node scripts/build-dataset.mjs",
+    "start": "serve -s dist -l tcp://0.0.0.0:${PORT:-3000}"
   },
   "dependencies": {
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "serve": "^14.2.6"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.3",
@@ -30,5 +32,8 @@
     "typescript": "~6.0.2",
     "vite": "^8.3.0",
     "vitest": "^5.0.1"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

@@ -43,6 +43,26 @@ export function isWin(formation: Formation, lineup: Lineup, target = TARGET): bo
   return isComplete(formation, lineup) && totalGoals(lineup) === target
 }
 
+/** Like real substitutions: removing or replacing an already placed player costs one change. */
+export const MAX_CHANGES = 5
+
+export function costsChange(lineup: Lineup, slotId: string): boolean {
+  return lineup[slotId] != null
+}
+
+export function changesLeft(changesUsed: number): number {
+  return Math.max(0, MAX_CHANGES - changesUsed)
+}
+
+export type Outcome = 'playing' | 'won' | 'lost'
+
+/** Lost when out of changes and the target can no longer be reached (over, or impossible). */
+export function outcome(won: boolean, reachable: boolean, changesUsed: number): Outcome {
+  if (won) return 'won'
+  if (!reachable && changesLeft(changesUsed) === 0) return 'lost'
+  return 'playing'
+}
+
 export function usedPlayerIds(lineup: Lineup): Set<string> {
   return new Set(lineupPlayers(lineup).map((p) => p.id))
 }

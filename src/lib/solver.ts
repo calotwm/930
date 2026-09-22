@@ -27,6 +27,7 @@ export function findCompletion(
   lineup: Lineup,
   pool: Player[],
   target: number,
+  maxSteps = Infinity,
 ): Record<string, Player> | null {
   const used = new Set<string>()
   let current = 0
@@ -62,11 +63,13 @@ export function findCompletion(
   if (!reach[0][need]) return null
 
   const picked: Record<string, Player> = {}
+  let steps = 0
   const dfs = (i: number, remaining: number): boolean => {
     if (i === open.length) return remaining === 0
     for (const [v, players] of open[i].byGoals) {
       if (v > remaining || !reach[i + 1][remaining - v]) continue
       for (const p of players) {
+        if (++steps > maxSteps) throw BUDGET
         if (used.has(p.id)) continue
         used.add(p.id)
         picked[open[i].slotId] = p
@@ -80,11 +83,34 @@ export function findCompletion(
   return dfs(0, need) ? picked : null
 }
 
+const BUDGET = new Error('solver budget exhausted')
+
+export type Completion = Record<string, Player> | null | 'unknown'
+
+/**
+ * Like findCompletion but never runs away: after `maxSteps` search steps it answers
+ * 'unknown' (the relaxed DP already said the sum is reachable).
+ */
+export function findCompletionBounded(
+  formation: Formation,
+  lineup: Lineup,
+  pool: Player[],
+  target: number,
+  maxSteps = 200_000,
+): Completion {
+  try {
+    return findCompletion(formation, lineup, pool, target, maxSteps)
+  } catch (e) {
+    if (e === BUDGET) return 'unknown'
+    throw e
+  }
+}
+
 export function isStillPossible(
   formation: Formation,
   lineup: Lineup,
   pool: Player[],
   target: number,
 ): boolean {
-  return findCompletion(formation, lineup, pool, target) !== null
+  return findCompletionBounded(formation, lineup, pool, target) !== null
 }

@@ -7,6 +7,7 @@ export function GameStatus({
   overBy,
   status,
   possible,
+  changesLeft,
 }: {
   filled: number
   slots: number
@@ -14,14 +15,18 @@ export function GameStatus({
   overBy: number
   status: ScoreStatus
   possible: boolean
+  changesLeft: number
 }) {
   let message: string
   let tone = 'text-chalk'
   if (status === 'exact') {
-    message = filled === slots ? '¡930 exactos!' : `930 con ${filled}. Faltan ${slots - filled} jugadores sin goles`
-    tone = 'text-gold'
+    message = filled === slots ? '¡930 exactos!' : `930 con ${filled}. Completá el XI`
+    tone = 'text-sol'
   } else if (status === 'over') {
     message = `Te pasaste por ${overBy}`
+    tone = 'text-bust'
+  } else if (!possible) {
+    message = 'Así ya no llegás a 930'
     tone = 'text-bust'
   } else {
     message = `${remaining} goles restantes`
@@ -34,14 +39,14 @@ export function GameStatus({
         <span className="tabular rounded-full bg-white/8 px-2.5 py-1 text-chalk-dim">
           {filled}/{slots}
         </span>
-        {status === 'under' && (
-          <span
-            className={`rounded-full px-2.5 py-1 ${possible ? 'bg-go/15 text-go' : 'bg-bust/15 text-bust'}`}
-            title={possible ? 'Existe al menos una combinación para llegar a 930' : 'Con estos jugadores ya no se llega a 930'}
-          >
-            {possible ? 'Se puede' : 'Imposible'}
-          </span>
-        )}
+        <span
+          className={`tabular rounded-full px-2.5 py-1 ${
+            changesLeft === 0 ? 'bg-bust/15 text-bust' : 'bg-celeste/15 text-celeste-soft'
+          }`}
+          title="Quitar o reemplazar un jugador usa un cambio"
+        >
+          {changesLeft} {changesLeft === 1 ? 'cambio' : 'cambios'}
+        </span>
       </div>
     </div>
   )

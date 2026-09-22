@@ -1,0 +1,10838 @@
+[
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 1,
+  "name": "Cristian Lema",
+  "slug": "cristian-lema",
+  "tmId": "147128",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 140,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 2,
+  "name": "Marcos Acuña",
+  "slug": "marcos-acuna",
+  "tmId": "60410",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Racing Club",
+  "apps": 59,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 3,
+  "name": "Bruno Pittón",
+  "slug": "bruno-pitton",
+  "tmId": "395216",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 144,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 4,
+  "name": "Emanuel Brítez",
+  "slug": "emanuel-britez",
+  "tmId": "262851",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 117,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 5,
+  "name": "Carlos Quintana",
+  "slug": "carlos-quintana",
+  "tmId": "54596",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "4 Clubs",
+  "apps": 99,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 6,
+  "name": "Kevin Mac Allister",
+  "slug": "kevin-mac-allister",
+  "tmId": "428920",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "AA Argentinos Juniors",
+  "apps": 71,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 7,
+  "name": "Alexander Barboza",
+  "slug": "alexander-barboza",
+  "tmId": "379752",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay",
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 8,
+  "name": "Paulo Díaz",
+  "slug": "paulo-diaz",
+  "tmId": "271478",
+  "pos": "Centre-Back",
+  "nat": [
+   "Chile",
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 101,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 9,
+  "name": "Facundo Sánchez",
+  "slug": "facundo-sanchez",
+  "tmId": "107523",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 132,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 10,
+  "name": "Leonardo Godoy",
+  "slug": "leonardo-godoy",
+  "tmId": "369556",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 161,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 11,
+  "name": "Gastón Díaz",
+  "slug": "gaston-diaz",
+  "tmId": "46532",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Aldosivi",
+  "apps": 34,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 12,
+  "name": "Fabián Noguera",
+  "slug": "fabian-noguera",
+  "tmId": "267431",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 73,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 13,
+  "name": "Nicolás Colazo",
+  "slug": "nicolas-colazo",
+  "tmId": "116277",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 86,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 14,
+  "name": "Alejandro Donatti",
+  "slug": "alejandro-donatti",
+  "tmId": "119646",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 83,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 15,
+  "name": "Matías Caruzzo",
+  "slug": "matias-caruzzo",
+  "tmId": "56573",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 89,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 16,
+  "name": "Frank Fabra",
+  "slug": "frank-fabra",
+  "tmId": "156561",
+  "pos": "Left-Back",
+  "nat": [
+   "Colombia",
+   "Argentina"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 118,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 17,
+  "name": "Damián Martínez",
+  "slug": "damian-martinez",
+  "tmId": "107282",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 138,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 18,
+  "name": "Jonathan Schunke",
+  "slug": "jonathan-schunke",
+  "tmId": "78232",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 135,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 19,
+  "name": "Cristian Chimino",
+  "slug": "cristian-chimino",
+  "tmId": "143951",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 146,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 20,
+  "name": "Eric Meza",
+  "slug": "eric-meza",
+  "tmId": "830857",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 21,
+  "name": "Francisco Álvarez",
+  "slug": "francisco-alvarez",
+  "tmId": "565766",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 65,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 22,
+  "name": "Gonzalo Piovi",
+  "slug": "gonzalo-piovi",
+  "tmId": "284120",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "3 Clubs",
+  "apps": 68,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 23,
+  "name": "Gino Peruzzi",
+  "slug": "gino-peruzzi",
+  "tmId": "138110",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 80,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 24,
+  "name": "Leonardo Sigali",
+  "slug": "leonardo-sigali",
+  "tmId": "54570",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Racing Club",
+  "apps": 85,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 25,
+  "name": "Luciano Lollo",
+  "slug": "luciano-lollo",
+  "tmId": "76153",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 104,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 26,
+  "name": "Yonathan Cabral",
+  "slug": "yonathan-cabral",
+  "tmId": "318819",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 104,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 27,
+  "name": "Jonatan Galván",
+  "slug": "jonatan-galvan",
+  "tmId": "216730",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 140,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 28,
+  "name": "Matías Aguirregaray",
+  "slug": "matias-aguirregaray",
+  "tmId": "74232",
+  "pos": "Right-Back",
+  "nat": [
+   "Uruguay",
+   "Spain"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 23,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 29,
+  "name": "Malcom Braida",
+  "slug": "malcom-braida",
+  "tmId": "552185",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 65,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 30,
+  "name": "Ezequiel Bonifacio",
+  "slug": "ezequiel-bonifacio",
+  "tmId": "334224",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 73,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 31,
+  "name": "Facundo Mura",
+  "slug": "facundo-mura",
+  "tmId": "642759",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 93,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 32,
+  "name": "Sergio Vittor",
+  "slug": "sergio-vittor",
+  "tmId": "91597",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 76,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 33,
+  "name": "Enzo Díaz",
+  "slug": "enzo-diaz",
+  "tmId": "540458",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 81,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 34,
+  "name": "Maximiliano Coronel",
+  "slug": "maximiliano-coronel",
+  "tmId": "125082",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club de Gimnasia y Esgrima La Plata",
+  "apps": 85,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 35,
+  "name": "Tomás Cardona",
+  "slug": "tomas-cardona",
+  "tmId": "422700",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "2 Clubs",
+  "apps": 86,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 36,
+  "name": "Leonardo Morales",
+  "slug": "leonardo-morales",
+  "tmId": "457061",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club de Gimnasia y Esgrima La Plata",
+  "apps": 83,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 37,
+  "name": "Nicolás Figal",
+  "slug": "nicolas-figal",
+  "tmId": "334055",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 87,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 38,
+  "name": "Guillermo Ortiz",
+  "slug": "guillermo-ortiz",
+  "tmId": "213543",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 98,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 39,
+  "name": "Emmanuel Más",
+  "slug": "emmanuel-mas",
+  "tmId": "77153",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 104,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 40,
+  "name": "Lucas Acevedo",
+  "slug": "lucas-acevedo",
+  "tmId": "284306",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 39,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 41,
+  "name": "Robert Rojas",
+  "slug": "robert-rojas",
+  "tmId": "527494",
+  "pos": "Centre-Back",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CA River Plate",
+  "apps": 51,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 42,
+  "name": "Carlos Rodríguez",
+  "slug": "carlos-rodriguez",
+  "tmId": "125510",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 45,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 43,
+  "name": "Sebastián Luna",
+  "slug": "sebastian-luna",
+  "tmId": "89259",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 59,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 44,
+  "name": "Victor Cuesta",
+  "slug": "victor-cuesta",
+  "tmId": "104326",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Brazil"
+  ],
+  "club": "CA Independiente",
+  "apps": 54,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 45,
+  "name": "Nahuel Tenaglia",
+  "slug": "nahuel-tenaglia",
+  "tmId": "533568",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Talleres",
+  "apps": 62,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 46,
+  "name": "Yeimar Gómez Andrade",
+  "slug": "yeimar-gomez-andrade",
+  "tmId": "343359",
+  "pos": "Centre-Back",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA Unión (Santa Fe)",
+  "apps": 64,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 47,
+  "name": "Lucas Licht",
+  "slug": "lucas-licht",
+  "tmId": "30815",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Israel"
+  ],
+  "club": "Club de Gimnasia y Esgrima La Plata",
+  "apps": 78,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 48,
+  "name": "Julio Buffarini",
+  "slug": "julio-buffarini",
+  "tmId": "89281",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 70,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 49,
+  "name": "Leonardo Jara",
+  "slug": "leonardo-jara",
+  "tmId": "116163",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 80,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 50,
+  "name": "Jonathan Bottinelli",
+  "slug": "jonathan-bottinelli",
+  "tmId": "19947",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 75,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 51,
+  "name": "Nery Domínguez",
+  "slug": "nery-dominguez",
+  "tmId": "267413",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 90,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 52,
+  "name": "Leandro González Pírez",
+  "slug": "leandro-gonzalez-pirez",
+  "tmId": "113130",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Portugal"
+  ],
+  "club": "3 Clubs",
+  "apps": 87,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 53,
+  "name": "Marcelo Benítez",
+  "slug": "marcelo-benitez",
+  "tmId": "96432",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 111,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 54,
+  "name": "Gonzalo Bettini",
+  "slug": "gonzalo-bettini",
+  "tmId": "211087",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "5 Clubs",
+  "apps": 164,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 55,
+  "name": "Federico Rosso",
+  "slug": "federico-rosso",
+  "tmId": "76249",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Chacarita Juniors",
+  "apps": 24,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 56,
+  "name": "Lucas Olaza",
+  "slug": "lucas-olaza",
+  "tmId": "216240",
+  "pos": "Left-Back",
+  "nat": [
+   "Uruguay",
+   "Spain"
+  ],
+  "club": "CA Talleres",
+  "apps": 24,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 57,
+  "name": "Marcos Rojo",
+  "slug": "marcos-rojo",
+  "tmId": "93176",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 28,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 58,
+  "name": "Lisandro López",
+  "slug": "lisandro-lopez",
+  "tmId": "125019",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 31,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 59,
+  "name": "Alfonso Parot",
+  "slug": "alfonso-parot",
+  "tmId": "84238",
+  "pos": "Centre-Back",
+  "nat": [
+   "Chile"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 40,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 60,
+  "name": "Facundo Almada",
+  "slug": "facundo-almada",
+  "tmId": "639390",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 43,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 61,
+  "name": "Leonardo Sánchez",
+  "slug": "leonardo-sanchez",
+  "tmId": "56045",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Unión (Santa Fe)",
+  "apps": 45,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 62,
+  "name": "Juan Cruz Komar",
+  "slug": "juan-cruz-komar",
+  "tmId": "319691",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 63,
+  "name": "Emiliano Amor",
+  "slug": "emiliano-amor",
+  "tmId": "348273",
+  "pos": "Centre-Back",
+  "nat": [
+   "Syria",
+   "Spain"
+  ],
+  "club": "2 Clubs",
+  "apps": 48,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 64,
+  "name": "Jonathan Sandoval",
+  "slug": "jonathan-sandoval",
+  "tmId": "74268",
+  "pos": "Right-Back",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "AA Argentinos Juniors",
+  "apps": 49,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 65,
+  "name": "Ayrton Costa",
+  "slug": "ayrton-costa",
+  "tmId": "842910",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 48,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 66,
+  "name": "Marcelo Ortiz",
+  "slug": "marcelo-ortiz",
+  "tmId": "267772",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 53,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 67,
+  "name": "Maximiliano Velázquez",
+  "slug": "maximiliano-velazquez",
+  "tmId": "54552",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Lanús",
+  "apps": 56,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 68,
+  "name": "Fernando Tobio",
+  "slug": "fernando-tobio",
+  "tmId": "69802",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 59,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 69,
+  "name": "Federico Milo",
+  "slug": "federico-milo",
+  "tmId": "283395",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 79,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 70,
+  "name": "Matías Catalán",
+  "slug": "matias-catalan",
+  "tmId": "237051",
+  "pos": "Centre-Back",
+  "nat": [
+   "Chile",
+   "Argentina"
+  ],
+  "club": "CA Talleres",
+  "apps": 59,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 71,
+  "name": "Diego Braghieri",
+  "slug": "diego-braghieri",
+  "tmId": "55149",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Lanús",
+  "apps": 64,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 72,
+  "name": "Nazareno Colombo",
+  "slug": "nazareno-colombo",
+  "tmId": "688207",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 67,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 73,
+  "name": "Javier Pinola",
+  "slug": "javier-pinola",
+  "tmId": "7358",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 62,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 74,
+  "name": "Gustavo Velázquez",
+  "slug": "gustavo-velazquez",
+  "tmId": "389399",
+  "pos": "Centre-Back",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 65,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 75,
+  "name": "José Luis Gómez",
+  "slug": "jose-luis-gomez",
+  "tmId": "282357",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 68,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 76,
+  "name": "Leandro Desábato",
+  "slug": "leandro-desabato",
+  "tmId": "27454",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 72,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 77,
+  "name": "Emanuel Insúa",
+  "slug": "emanuel-insua",
+  "tmId": "226006",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "5 Clubs",
+  "apps": 83,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 78,
+  "name": "Elías Gómez",
+  "slug": "elias-gomez",
+  "tmId": "302139",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 82,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 79,
+  "name": "Iván Pillud",
+  "slug": "ivan-pillud",
+  "tmId": "77720",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Racing Club",
+  "apps": 90,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 80,
+  "name": "Francisco Mattia",
+  "slug": "francisco-mattia",
+  "tmId": "213542",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 81,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 81,
+  "name": "Matías Orihuela",
+  "slug": "matias-orihuela",
+  "tmId": "338170",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 92,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 82,
+  "name": "Fabricio Bustos",
+  "slug": "fabricio-bustos",
+  "tmId": "275381",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Independiente",
+  "apps": 100,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 83,
+  "name": "Germán Conti",
+  "slug": "german-conti",
+  "tmId": "284321",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Colón",
+  "apps": 97,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 84,
+  "name": "Rafael Delgado",
+  "slug": "rafael-delgado",
+  "tmId": "167314",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 108,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 85,
+  "name": "Juan Sánchez Miño",
+  "slug": "juan-sanchez-mino",
+  "tmId": "169249",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 144,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 86,
+  "name": "Claudio Corvalán",
+  "slug": "claudio-corvalan",
+  "tmId": "125108",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 174,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 87,
+  "name": "Mateo Mendoza",
+  "slug": "mateo-mendoza",
+  "tmId": "1103933",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 16,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 88,
+  "name": "Sergio Escudero",
+  "slug": "sergio-escudero",
+  "tmId": "54836",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 13,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 89,
+  "name": "Mauro Cetto",
+  "slug": "mauro-cetto",
+  "tmId": "5501",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 16,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 90,
+  "name": "Alan Alegre",
+  "slug": "alan-alegre",
+  "tmId": "238117",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Aldosivi",
+  "apps": 18,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 91,
+  "name": "Gastón Ávila",
+  "slug": "gaston-avila",
+  "tmId": "748601",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 17,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 92,
+  "name": "Eros Mancuso",
+  "slug": "eros-mancuso",
+  "tmId": "888545",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 25,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 93,
+  "name": "Willer Ditta",
+  "slug": "willer-ditta",
+  "tmId": "609255",
+  "pos": "Centre-Back",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 22,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 94,
+  "name": "Gastón Martirena",
+  "slug": "gaston-martirena",
+  "tmId": "744324",
+  "pos": "Right-Back",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "Racing Club",
+  "apps": 23,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 95,
+  "name": "Lautaro Valenti",
+  "slug": "lautaro-valenti",
+  "tmId": "625202",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Lanús",
+  "apps": 22,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 96,
+  "name": "Gianluca Ferrari",
+  "slug": "gianluca-ferrari",
+  "tmId": "340507",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 30,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 97,
+  "name": "Fabricio Domínguez",
+  "slug": "fabricio-dominguez",
+  "tmId": "621793",
+  "pos": "Right-Back",
+  "nat": [
+   "Uruguay",
+   "Spain"
+  ],
+  "club": "3 Clubs",
+  "apps": 53,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 98,
+  "name": "Abel Luciatti",
+  "slug": "abel-luciatti",
+  "tmId": "220751",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tigre",
+  "apps": 24,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 99,
+  "name": "Lucas Suárez",
+  "slug": "lucas-suarez",
+  "tmId": "322190",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 29,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 4,
+  "rank": 100,
+  "name": "Augusto Schott",
+  "slug": "augusto-schott",
+  "tmId": "670566",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Platense",
+  "apps": 24,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 101,
+  "name": "Fabricio Fontanini",
+  "slug": "fabricio-fontanini",
+  "tmId": "87396",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 24,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 102,
+  "name": "Emanuel Mammana",
+  "slug": "emanuel-mammana",
+  "tmId": "275512",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA River Plate",
+  "apps": 29,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 103,
+  "name": "Claudio Pérez",
+  "slug": "claudio-perez",
+  "tmId": "89294",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 25,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 104,
+  "name": "Kevin Lomónaco",
+  "slug": "kevin-lomonaco",
+  "tmId": "661136",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 29,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 105,
+  "name": "Franco Paredes",
+  "slug": "franco-paredes",
+  "tmId": "749016",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 33,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 106,
+  "name": "Gastón Benedetti",
+  "slug": "gaston-benedetti",
+  "tmId": "843156",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 36,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 107,
+  "name": "Fabián Monzón",
+  "slug": "fabian-monzon",
+  "tmId": "67084",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 33,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 108,
+  "name": "Nicolás Sánchez",
+  "slug": "nicolas-sanchez",
+  "tmId": "58911",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "Racing Club",
+  "apps": 35,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 109,
+  "name": "Nicolás Romat",
+  "slug": "nicolas-romat",
+  "tmId": "67827",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 35,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 110,
+  "name": "Lucas Márquez",
+  "slug": "lucas-marquez",
+  "tmId": "142625",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 39,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 111,
+  "name": "Diego Sosa",
+  "slug": "diego-sosa",
+  "tmId": "464365",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tigre",
+  "apps": 45,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 112,
+  "name": "Elías López",
+  "slug": "elias-lopez",
+  "tmId": "491691",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 43,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 113,
+  "name": "Facundo Mallo",
+  "slug": "facundo-mallo",
+  "tmId": "347193",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 41,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 114,
+  "name": "Rodrigo Insúa",
+  "slug": "rodrigo-insua",
+  "tmId": "721235",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Barracas Central",
+  "apps": 41,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 115,
+  "name": "Alexis Niz",
+  "slug": "alexis-niz",
+  "tmId": "133915",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 43,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 116,
+  "name": "Matías Pérez Acuña",
+  "slug": "matias-perez-acuna",
+  "tmId": "300312",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 49,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 117,
+  "name": "Lisandro Martínez",
+  "slug": "lisandro-martinez",
+  "tmId": "480762",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Defensa y Justicia",
+  "apps": 46,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 118,
+  "name": "Sasha Marcich",
+  "slug": "sasha-marcich",
+  "tmId": "867621",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "Club Atlético Platense",
+  "apps": 49,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 119,
+  "name": "Fabián Cubero",
+  "slug": "fabian-cubero",
+  "tmId": "26438",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 50,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 120,
+  "name": "Nicolás Morgantini",
+  "slug": "nicolas-morgantini",
+  "tmId": "615253",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 61,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 121,
+  "name": "Miguel Torrén",
+  "slug": "miguel-torren",
+  "tmId": "19992",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "AA Argentinos Juniors",
+  "apps": 57,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 122,
+  "name": "Andrés Herrera",
+  "slug": "andres-herrera",
+  "tmId": "621369",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 69,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 123,
+  "name": "Nehuén Paz",
+  "slug": "nehuen-paz",
+  "tmId": "284724",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 124,
+  "name": "Oliver Benítez",
+  "slug": "oliver-benitez",
+  "tmId": "107529",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 62,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 5,
+  "rank": 125,
+  "name": "Maximiliano Caire",
+  "slug": "maximiliano-caire",
+  "tmId": "79974",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Bolivia"
+  ],
+  "club": "4 Clubs",
+  "apps": 63,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 126,
+  "name": "Juan Manuel Insaurralde",
+  "slug": "juan-manuel-insaurralde",
+  "tmId": "65072",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 64,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 127,
+  "name": "Damián Pérez",
+  "slug": "damian-perez",
+  "tmId": "71106",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 69,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 128,
+  "name": "Camilo Mayada",
+  "slug": "camilo-mayada",
+  "tmId": "130197",
+  "pos": "Right-Back",
+  "nat": [
+   "Uruguay",
+   "Argentina"
+  ],
+  "club": "CA River Plate",
+  "apps": 83,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 129,
+  "name": "Diego Viera",
+  "slug": "diego-viera",
+  "tmId": "178660",
+  "pos": "Centre-Back",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 65,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 130,
+  "name": "Mathías Abero",
+  "slug": "mathias-abero",
+  "tmId": "142370",
+  "pos": "Left-Back",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 70,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 131,
+  "name": "Francisco Ortega",
+  "slug": "francisco-ortega",
+  "tmId": "553663",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 75,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 132,
+  "name": "Marcos Curado",
+  "slug": "marcos-curado",
+  "tmId": "334371",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Arsenal FC",
+  "apps": 75,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 133,
+  "name": "Fabrizio Angileri",
+  "slug": "fabrizio-angileri",
+  "tmId": "268506",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 87,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 134,
+  "name": "Braian Cufré",
+  "slug": "braian-cufre",
+  "tmId": "401521",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 80,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 135,
+  "name": "Érik Godoy",
+  "slug": "erik-godoy",
+  "tmId": "225479",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 80,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 136,
+  "name": "Lautaro Giannetti",
+  "slug": "lautaro-giannetti",
+  "tmId": "225963",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 91,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 137,
+  "name": "Bruno Bianchi",
+  "slug": "bruno-bianchi",
+  "tmId": "55998",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 103,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 138,
+  "name": "Milton Casco",
+  "slug": "milton-casco",
+  "tmId": "115183",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 149,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 139,
+  "name": "Sebastián Dubarbier",
+  "slug": "sebastian-dubarbier",
+  "tmId": "55866",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "France"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 29,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 140,
+  "name": "Alan Rodríguez",
+  "slug": "alan-rodriguez",
+  "tmId": "491592",
+  "pos": "Left-Back",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 39,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 141,
+  "name": "Nahuel Molina",
+  "slug": "nahuel-molina",
+  "tmId": "424042",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 38,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 142,
+  "name": "Ángelo Martino",
+  "slug": "angelo-martino",
+  "tmId": "471641",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 143,
+  "name": "Lucas Rodríguez",
+  "slug": "lucas-rodriguez",
+  "tmId": "171593",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 52,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 144,
+  "name": "Gastón Benavídez",
+  "slug": "gaston-benavidez",
+  "tmId": "696719",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Talleres",
+  "apps": 51,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 145,
+  "name": "Luciano Gómez",
+  "slug": "luciano-gomez",
+  "tmId": "423705",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 69,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 146,
+  "name": "Gastón Díaz",
+  "slug": "gaston-diaz",
+  "tmId": "68748",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 70,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 147,
+  "name": "Leonel Di Plácido",
+  "slug": "leonel-di-placido",
+  "tmId": "322843",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 71,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 148,
+  "name": "Gastón Campi",
+  "slug": "gaston-campi",
+  "tmId": "292174",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 79,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 149,
+  "name": "Nicolás Pasquini",
+  "slug": "nicolas-pasquini",
+  "tmId": "270987",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 120,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Abwehr",
+  "page": 6,
+  "rank": 150,
+  "name": "Lucas Villalba",
+  "slug": "lucas-villalba",
+  "tmId": "240913",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 138,
+  "goals": 2
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 1,
+  "name": "Ignacio Malcorra",
+  "slug": "ignacio-malcorra",
+  "tmId": "87518",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 129,
+  "goals": 31
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 2,
+  "name": "Matías Rojas",
+  "slug": "matias-rojas",
+  "tmId": "417327",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 98,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 3,
+  "name": "Gonzalo Martínez",
+  "slug": "gonzalo-martinez",
+  "tmId": "281405",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA River Plate",
+  "apps": 103,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 4,
+  "name": "Nacho Fernández",
+  "slug": "nacho-fernandez",
+  "tmId": "50669",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 164,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 5,
+  "name": "Ramiro Carrera",
+  "slug": "ramiro-carrera",
+  "tmId": "282283",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 111,
+  "goals": 20
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 6,
+  "name": "Martín Ojeda",
+  "slug": "martin-ojeda",
+  "tmId": "440988",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 7,
+  "name": "Franco Cristaldo",
+  "slug": "franco-cristaldo",
+  "tmId": "332259",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Paraguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 59,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 8,
+  "name": "Martín Benítez",
+  "slug": "martin-benitez",
+  "tmId": "189418",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Independiente",
+  "apps": 103,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 9,
+  "name": "Gabriel Carabajal",
+  "slug": "gabriel-carabajal",
+  "tmId": "280157",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 113,
+  "goals": 17
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 10,
+  "name": "Gervasio Núñez",
+  "slug": "gervasio-nunez",
+  "tmId": "55211",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 97,
+  "goals": 17
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 11,
+  "name": "Alexis Castro",
+  "slug": "alexis-castro",
+  "tmId": "364602",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 143,
+  "goals": 17
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 12,
+  "name": "Pol Fernández",
+  "slug": "pol-fernandez",
+  "tmId": "220647",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 153,
+  "goals": 17
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 13,
+  "name": "Nicolás de la Cruz",
+  "slug": "nicolas-de-la-cruz",
+  "tmId": "397458",
+  "pos": "Central Midfield",
+  "nat": [
+   "Uruguay",
+   "Argentina"
+  ],
+  "club": "CA River Plate",
+  "apps": 97,
+  "goals": 16
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 14,
+  "name": "Brahian Alemán",
+  "slug": "brahian-aleman",
+  "tmId": "76886",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 116,
+  "goals": 16
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 15,
+  "name": "Washington Camacho",
+  "slug": "washington-camacho",
+  "tmId": "76490",
+  "pos": "Left Midfield",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 92,
+  "goals": 15
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 16,
+  "name": "Óscar Romero",
+  "slug": "oscar-romero",
+  "tmId": "217886",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 103,
+  "goals": 14
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 17,
+  "name": "Augusto Solari",
+  "slug": "augusto-solari",
+  "tmId": "282694",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 101,
+  "goals": 14
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 18,
+  "name": "Rodrigo Aliendro",
+  "slug": "rodrigo-aliendro",
+  "tmId": "424045",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 136,
+  "goals": 14
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 19,
+  "name": "Nicolás Giménez",
+  "slug": "nicolas-gimenez",
+  "tmId": "364946",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "United Arab Emirates",
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 66,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 20,
+  "name": "Leonardo Heredia",
+  "slug": "leonardo-heredia",
+  "tmId": "538367",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 87,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 21,
+  "name": "Juan Brunetta",
+  "slug": "juan-brunetta",
+  "tmId": "466268",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 76,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 22,
+  "name": "Jesús Dátolo",
+  "slug": "jesus-datolo",
+  "tmId": "30759",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Banfield",
+  "apps": 85,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 23,
+  "name": "Lorenzo Faravelli",
+  "slug": "lorenzo-faravelli",
+  "tmId": "181706",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Ecuador"
+  ],
+  "club": "Club de Gimnasia y Esgrima La Plata",
+  "apps": 82,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 24,
+  "name": "Pablo Pérez",
+  "slug": "pablo-perez",
+  "tmId": "55884",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 126,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 25,
+  "name": "Guillermo Acosta",
+  "slug": "guillermo-acosta",
+  "tmId": "422917",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 171,
+  "goals": 13
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 26,
+  "name": "Gastón Fernández",
+  "slug": "gaston-fernandez",
+  "tmId": "23882",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 70,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 27,
+  "name": "Lucas Robertone",
+  "slug": "lucas-robertone",
+  "tmId": "457221",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 61,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 28,
+  "name": "Alan Ruiz",
+  "slug": "alan-ruiz",
+  "tmId": "190442",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 69,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 29,
+  "name": "Román Martínez",
+  "slug": "roman-martinez",
+  "tmId": "53134",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 65,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 30,
+  "name": "Mauro Formica",
+  "slug": "mauro-formica",
+  "tmId": "55870",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 79,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 31,
+  "name": "Esequiel Barco",
+  "slug": "esequiel-barco",
+  "tmId": "456623",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 92,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 32,
+  "name": "David Barbona",
+  "slug": "david-barbona",
+  "tmId": "356089",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 122,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 33,
+  "name": "Néstor Ortigoza",
+  "slug": "nestor-ortigoza",
+  "tmId": "26726",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Paraguay",
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 112,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 34,
+  "name": "Lucas Menossi",
+  "slug": "lucas-menossi",
+  "tmId": "225481",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 134,
+  "goals": 12
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 35,
+  "name": "Juan Fernando Quintero",
+  "slug": "juan-fernando-quintero",
+  "tmId": "122582",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "2 Clubs",
+  "apps": 74,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 36,
+  "name": "Thiago Almada",
+  "slug": "thiago-almada",
+  "tmId": "576028",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 58,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 37,
+  "name": "Fernando Belluschi",
+  "slug": "fernando-belluschi",
+  "tmId": "26460",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 88,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 38,
+  "name": "Agustín Bouzat",
+  "slug": "agustin-bouzat",
+  "tmId": "422699",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 102,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 39,
+  "name": "Gabriel Alanís",
+  "slug": "gabriel-alanis",
+  "tmId": "342149",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 128,
+  "goals": 11
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 40,
+  "name": "Cristian Ferreira",
+  "slug": "cristian-ferreira",
+  "tmId": "548468",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 62,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 41,
+  "name": "Andrés Roa",
+  "slug": "andres-roa",
+  "tmId": "304892",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "3 Clubs",
+  "apps": 66,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 42,
+  "name": "Sebastián Blanco",
+  "slug": "sebastian-blanco",
+  "tmId": "54576",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA San Lorenzo de Almagro",
+  "apps": 62,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 43,
+  "name": "Diego González",
+  "slug": "diego-gonzalez",
+  "tmId": "54578",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 44,
+  "name": "Mauro Luna Diale",
+  "slug": "mauro-luna-diale",
+  "tmId": "653266",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Unión (Santa Fe)",
+  "apps": 67,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 45,
+  "name": "Israel Damonte",
+  "slug": "israel-damonte",
+  "tmId": "20129",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 86,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 46,
+  "name": "Mauro Bogado",
+  "slug": "mauro-bogado",
+  "tmId": "54822",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "3 Clubs",
+  "apps": 114,
+  "goals": 10
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 47,
+  "name": "Jorge Velázquez",
+  "slug": "jorge-velazquez",
+  "tmId": "87356",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 61,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 48,
+  "name": "Claudio Aquino",
+  "slug": "claudio-aquino",
+  "tmId": "141813",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 59,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 49,
+  "name": "Renzo Tesuri",
+  "slug": "renzo-tesuri",
+  "tmId": "457666",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 63,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 50,
+  "name": "Matías Zaracho",
+  "slug": "matias-zaracho",
+  "tmId": "480774",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Racing Club",
+  "apps": 68,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 51,
+  "name": "Francisco González Metilli",
+  "slug": "francisco-gonzalez-metilli",
+  "tmId": "442679",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 76,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 52,
+  "name": "Iván Tapia",
+  "slug": "ivan-tapia",
+  "tmId": "697405",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Barracas Central",
+  "apps": 71,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 53,
+  "name": "Nicolás Domínguez",
+  "slug": "nicolas-dominguez",
+  "tmId": "497291",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 75,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 54,
+  "name": "Gonzalo Abrego",
+  "slug": "gonzalo-abrego",
+  "tmId": "836493",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 93,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 55,
+  "name": "Marcelino Moreno",
+  "slug": "marcelino-moreno",
+  "tmId": "456617",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Lanús",
+  "apps": 110,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 56,
+  "name": "Mauro Pittón",
+  "slug": "mauro-pitton",
+  "tmId": "376710",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "5 Clubs",
+  "apps": 141,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 57,
+  "name": "Emiliano Vecchio",
+  "slug": "emiliano-vecchio",
+  "tmId": "75728",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 29,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 58,
+  "name": "Ricardo Noir",
+  "slug": "ricardo-noir",
+  "tmId": "74688",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 41,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 59,
+  "name": "Hernán López Muñoz",
+  "slug": "hernan-lopez-munoz",
+  "tmId": "665309",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 43,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 60,
+  "name": "Edwin Cardona",
+  "slug": "edwin-cardona",
+  "tmId": "119342",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 43,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 61,
+  "name": "Nicolás Aguirre",
+  "slug": "nicolas-aguirre",
+  "tmId": "88166",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 55,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 62,
+  "name": "Alan Lescano",
+  "slug": "alan-lescano",
+  "tmId": "991134",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 45,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 63,
+  "name": "Rodrigo Garro",
+  "slug": "rodrigo-garro",
+  "tmId": "565009",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Talleres",
+  "apps": 49,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 64,
+  "name": "Agustín Palavecino",
+  "slug": "agustin-palavecino",
+  "tmId": "610590",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA River Plate",
+  "apps": 67,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 65,
+  "name": "Alexis Mac Allister",
+  "slug": "alexis-mac-allister",
+  "tmId": "534033",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 57,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 66,
+  "name": "Diego Morales",
+  "slug": "diego-morales",
+  "tmId": "87492",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tigre",
+  "apps": 56,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 67,
+  "name": "Santiago Ascacíbar",
+  "slug": "santiago-ascacibar",
+  "tmId": "423436",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 48,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 68,
+  "name": "Rubén Botta",
+  "slug": "ruben-botta",
+  "tmId": "88542",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 83,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 69,
+  "name": "Víctor Ayala",
+  "slug": "victor-ayala",
+  "tmId": "122519",
+  "pos": "Central Midfield",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 74,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 70,
+  "name": "Leandro Maciel",
+  "slug": "leandro-maciel",
+  "tmId": "438923",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 95,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 71,
+  "name": "Gastón Lodico",
+  "slug": "gaston-lodico",
+  "tmId": "563878",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 103,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 72,
+  "name": "Juan Ramírez",
+  "slug": "juan-ramirez",
+  "tmId": "190756",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 112,
+  "goals": 8
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 73,
+  "name": "Juan Cavallaro",
+  "slug": "juan-cavallaro",
+  "tmId": "221037",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 43,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 74,
+  "name": "Gastón Álvarez Suarez",
+  "slug": "gaston-alvarez-suarez",
+  "tmId": "213191",
+  "pos": "Central Midfield",
+  "nat": [
+   "United Arab Emirates",
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 29,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 75,
+  "name": "Ezequiel Bullaude",
+  "slug": "ezequiel-bullaude",
+  "tmId": "627068",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 38,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 76,
+  "name": "Fernando Luna",
+  "slug": "fernando-luna",
+  "tmId": "386611",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 49,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 77,
+  "name": "Alan Soñora",
+  "slug": "alan-sonora",
+  "tmId": "688779",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "United States",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 45,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 78,
+  "name": "Gonzalo Maroni",
+  "slug": "gonzalo-maroni",
+  "tmId": "441385",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 56,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 79,
+  "name": "Favio Álvarez",
+  "slug": "favio-alvarez",
+  "tmId": "280149",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 61,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 80,
+  "name": "Federico Mancuello",
+  "slug": "federico-mancuello",
+  "tmId": "96313",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 55,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 81,
+  "name": "Agustín Almendra",
+  "slug": "agustin-almendra",
+  "tmId": "491698",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 55,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 82,
+  "name": "Brian Sarmiento",
+  "slug": "brian-sarmiento",
+  "tmId": "58319",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 55,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 83,
+  "name": "Jonatan Blanco",
+  "slug": "jonatan-blanco",
+  "tmId": "68744",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Olimpo",
+  "apps": 60,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 84,
+  "name": "Emiliano Tellechea",
+  "slug": "emiliano-tellechea",
+  "tmId": "76821",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 62,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 85,
+  "name": "Aníbal Moreno",
+  "slug": "anibal-moreno",
+  "tmId": "642758",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 76,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 86,
+  "name": "Tomás Belmonte",
+  "slug": "tomas-belmonte",
+  "tmId": "483446",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Lanús",
+  "apps": 94,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 87,
+  "name": "Mauricio Martínez",
+  "slug": "mauricio-martinez",
+  "tmId": "309388",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 92,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 88,
+  "name": "Federico Lértora",
+  "slug": "federico-lertora",
+  "tmId": "125104",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 125,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 89,
+  "name": "Fernando Zuqui",
+  "slug": "fernando-zuqui",
+  "tmId": "248763",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 181,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 90,
+  "name": "Walter Acuña",
+  "slug": "walter-acuna",
+  "tmId": "267409",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Olimpo",
+  "apps": 24,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 91,
+  "name": "Facundo Pereyra",
+  "slug": "facundo-pereyra",
+  "tmId": "123497",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 34,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 92,
+  "name": "Leonardo Pisculichi",
+  "slug": "leonardo-pisculichi",
+  "tmId": "26744",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "2 Clubs",
+  "apps": 42,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 93,
+  "name": "Nicolás Lodeiro",
+  "slug": "nicolas-lodeiro",
+  "tmId": "72653",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Uruguay",
+   "United States"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 30,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 94,
+  "name": "Nicolás Bertocchi",
+  "slug": "nicolas-bertocchi",
+  "tmId": "146289",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 50,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 95,
+  "name": "Martín Payero",
+  "slug": "martin-payero",
+  "tmId": "555820",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 51,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 96,
+  "name": "Cristian Llama",
+  "slug": "cristian-llama",
+  "tmId": "30882",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "2 Clubs",
+  "apps": 41,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 97,
+  "name": "Giuliano Galoppo",
+  "slug": "giuliano-galoppo",
+  "tmId": "567249",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Banfield",
+  "apps": 30,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 98,
+  "name": "Joel Soñora",
+  "slug": "joel-sonora",
+  "tmId": "346644",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "United States",
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 63,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 99,
+  "name": "Alejandro Silva",
+  "slug": "alejandro-silva",
+  "tmId": "138872",
+  "pos": "Central Midfield",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "CA Lanús",
+  "apps": 37,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 4,
+  "rank": 100,
+  "name": "Nahitan Nández",
+  "slug": "nahitan-nandez",
+  "tmId": "315063",
+  "pos": "Right Midfield",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 36,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 101,
+  "name": "Gino Infantino",
+  "slug": "gino-infantino",
+  "tmId": "831162",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 55,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 102,
+  "name": "Matías Garrido",
+  "slug": "matias-garrido",
+  "tmId": "267746",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 55,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 103,
+  "name": "Facundo Farías",
+  "slug": "facundo-farias",
+  "tmId": "728221",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Colón",
+  "apps": 46,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 104,
+  "name": "Lucas Rodríguez",
+  "slug": "lucas-rodriguez",
+  "tmId": "380996",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 55,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 105,
+  "name": "Aarón Molinas",
+  "slug": "aaron-molinas",
+  "tmId": "575999",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 78,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 106,
+  "name": "Federico Carrizo",
+  "slug": "federico-carrizo",
+  "tmId": "148710",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 59,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 107,
+  "name": "Joel Amoroso",
+  "slug": "joel-amoroso",
+  "tmId": "267721",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 84,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 108,
+  "name": "Nicolás Tripichio",
+  "slug": "nicolas-tripichio",
+  "tmId": "275614",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 87,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 109,
+  "name": "Pablo Ledesma",
+  "slug": "pablo-ledesma",
+  "tmId": "19976",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 86,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 110,
+  "name": "Leonel Miranda",
+  "slug": "leonel-miranda",
+  "tmId": "259246",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 92,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 111,
+  "name": "Marcos Gelabert",
+  "slug": "marcos-gelabert",
+  "tmId": "20130",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 107,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 112,
+  "name": "Damián Arce",
+  "slug": "damian-arce",
+  "tmId": "423708",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 22,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 113,
+  "name": "Jorge Carrascal",
+  "slug": "jorge-carrascal",
+  "tmId": "354145",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA River Plate",
+  "apps": 29,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 114,
+  "name": "Nicolás Castro",
+  "slug": "nicolas-castro",
+  "tmId": "565899",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 22,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 115,
+  "name": "José Sosa",
+  "slug": "jose-sosa",
+  "tmId": "20137",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 38,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 116,
+  "name": "Damián Puebla",
+  "slug": "damian-puebla",
+  "tmId": "1106216",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Instituto ACC",
+  "apps": 27,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 117,
+  "name": "Lucas Zelarayán",
+  "slug": "lucas-zelarayan",
+  "tmId": "230030",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Armenia",
+   "Argentina"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 27,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 118,
+  "name": "Sebastián Medina",
+  "slug": "sebastian-medina",
+  "tmId": "840774",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 39,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 119,
+  "name": "Mario Bolatti",
+  "slug": "mario-bolatti",
+  "tmId": "52343",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 31,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 120,
+  "name": "Vicente Taborda",
+  "slug": "vicente-taborda",
+  "tmId": "906748",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Platense",
+  "apps": 47,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 121,
+  "name": "Sebastián Romero",
+  "slug": "sebastian-romero",
+  "tmId": "30691",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Quilmes AC",
+  "apps": 37,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 122,
+  "name": "Walter Erviti",
+  "slug": "walter-erviti",
+  "tmId": "53583",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 41,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 123,
+  "name": "José Florentín",
+  "slug": "jose-florentin",
+  "tmId": "741965",
+  "pos": "Central Midfield",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 48,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 124,
+  "name": "Nicolás Oroz",
+  "slug": "nicolas-oroz",
+  "tmId": "332250",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 59,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 5,
+  "rank": 125,
+  "name": "Jonatan Gómez",
+  "slug": "jonatan-gomez",
+  "tmId": "84377",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 64,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 126,
+  "name": "Federico Gino",
+  "slug": "federico-gino",
+  "tmId": "273130",
+  "pos": "Central Midfield",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "CA Aldosivi",
+  "apps": 50,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 127,
+  "name": "Daniel Montenegro",
+  "slug": "daniel-montenegro",
+  "tmId": "25020",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Huracán",
+  "apps": 68,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 128,
+  "name": "Nicolás Castro",
+  "slug": "nicolas-castro",
+  "tmId": "441160",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 47,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 129,
+  "name": "Tomás Pochettino",
+  "slug": "tomas-pochettino",
+  "tmId": "348354",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 70,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 130,
+  "name": "Facundo Mater",
+  "slug": "facundo-mater",
+  "tmId": "538774",
+  "pos": "Central Midfield",
+  "nat": [
+   "Syria",
+   "Argentina"
+  ],
+  "club": "CA Barracas Central",
+  "apps": 51,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 131,
+  "name": "Lucas Wilchez",
+  "slug": "lucas-wilchez",
+  "tmId": "56059",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 132,
+  "name": "Franco Mussis",
+  "slug": "franco-mussis",
+  "tmId": "74821",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 82,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 133,
+  "name": "Marcelo Meli",
+  "slug": "marcelo-meli",
+  "tmId": "263557",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 74,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 134,
+  "name": "Santiago Hezze",
+  "slug": "santiago-hezze",
+  "tmId": "742803",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina",
+   "Poland"
+  ],
+  "club": "CA Huracán",
+  "apps": 72,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 135,
+  "name": "Adrián Arregui",
+  "slug": "adrian-arregui",
+  "tmId": "358016",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Temperley",
+  "apps": 70,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 136,
+  "name": "Jesús Soraire",
+  "slug": "jesus-soraire",
+  "tmId": "610251",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 99,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 137,
+  "name": "Enzo Kalinski",
+  "slug": "enzo-kalinski",
+  "tmId": "67818",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Poland"
+  ],
+  "club": "4 Clubs",
+  "apps": 102,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 138,
+  "name": "Leonardo Gil",
+  "slug": "leonardo-gil",
+  "tmId": "125907",
+  "pos": "Central Midfield",
+  "nat": [
+   "Chile",
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 105,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 139,
+  "name": "Iván Gómez",
+  "slug": "ivan-gomez",
+  "tmId": "459318",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 117,
+  "goals": 5
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 140,
+  "name": "Walter Montillo",
+  "slug": "walter-montillo",
+  "tmId": "19984",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Tigre",
+  "apps": 20,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 141,
+  "name": "Fernando Gaibor",
+  "slug": "fernando-gaibor",
+  "tmId": "147263",
+  "pos": "Central Midfield",
+  "nat": [
+   "Ecuador"
+  ],
+  "club": "CA Independiente",
+  "apps": 33,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 142,
+  "name": "Patricio Toranzo",
+  "slug": "patricio-toranzo",
+  "tmId": "26256",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Huracán",
+  "apps": 43,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 143,
+  "name": "Exequiel Palacios",
+  "slug": "exequiel-palacios",
+  "tmId": "401578",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA River Plate",
+  "apps": 46,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 144,
+  "name": "Matías Esquivel",
+  "slug": "matias-esquivel",
+  "tmId": "739996",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 57,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 145,
+  "name": "Emanuel Reynoso",
+  "slug": "emanuel-reynoso",
+  "tmId": "439626",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 70,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 146,
+  "name": "Kaku",
+  "slug": "kaku",
+  "tmId": "355817",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Paraguay",
+   "Argentina"
+  ],
+  "club": "CA Huracán",
+  "apps": 72,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 147,
+  "name": "Jorge Ortiz",
+  "slug": "jorge-ortiz",
+  "tmId": "55212",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 63,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 148,
+  "name": "Jacobo Mansilla",
+  "slug": "jacobo-mansilla",
+  "tmId": "55928",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 149,
+  "name": "Joaquín Pereyra",
+  "slug": "joaquin-pereyra",
+  "tmId": "424043",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 107,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Mittelfeld",
+  "page": 6,
+  "rank": 150,
+  "name": "Kevin Gutiérrez",
+  "slug": "kevin-gutierrez",
+  "tmId": "554799",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 89,
+  "goals": 4
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 1,
+  "name": "José Sand",
+  "slug": "jose-sand",
+  "tmId": "26269",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 167,
+  "goals": 82
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 2,
+  "name": "Marco Ruben",
+  "slug": "marco-ruben",
+  "tmId": "30825",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 122,
+  "goals": 57
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 3,
+  "name": "Ramón Ábila",
+  "slug": "ramon-abila",
+  "tmId": "88049",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 136,
+  "goals": 55
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 4,
+  "name": "Lisandro López",
+  "slug": "lisandro-lopez",
+  "tmId": "27661",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 178,
+  "goals": 51
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 5,
+  "name": "Martín Cauteruccio",
+  "slug": "martin-cauteruccio",
+  "tmId": "76599",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 120,
+  "goals": 50
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 6,
+  "name": "Walter Bou",
+  "slug": "walter-bou",
+  "tmId": "334233",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 161,
+  "goals": 47
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 7,
+  "name": "Santiago García",
+  "slug": "santiago-garcia",
+  "tmId": "102432",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 96,
+  "goals": 46
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 8,
+  "name": "Ignacio Scocco",
+  "slug": "ignacio-scocco",
+  "tmId": "51088",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 137,
+  "goals": 46
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 9,
+  "name": "Leandro Díaz",
+  "slug": "leandro-diaz",
+  "tmId": "140214",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 146,
+  "goals": 46
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 10,
+  "name": "Luis Miguel Rodríguez",
+  "slug": "luis-miguel-rodriguez",
+  "tmId": "87497",
+  "pos": "Second Striker",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 155,
+  "goals": 46
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 11,
+  "name": "Gabriel Ávalos",
+  "slug": "gabriel-avalos",
+  "tmId": "358418",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "5 Clubs",
+  "apps": 149,
+  "goals": 44
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 12,
+  "name": "Nicolás Fernández",
+  "slug": "nicolas-fernandez",
+  "tmId": "333921",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 148,
+  "goals": 43
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 13,
+  "name": "Nicolás Blandi",
+  "slug": "nicolas-blandi",
+  "tmId": "153022",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA San Lorenzo de Almagro",
+  "apps": 96,
+  "goals": 41
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 14,
+  "name": "Darío Benedetto",
+  "slug": "dario-benedetto",
+  "tmId": "92693",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Mexico"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 81,
+  "goals": 40
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 15,
+  "name": "Braian Romero",
+  "slug": "braian-romero",
+  "tmId": "357937",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 120,
+  "goals": 39
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 16,
+  "name": "Mateo Retegui",
+  "slug": "mateo-retegui",
+  "tmId": "554903",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Italy",
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 90,
+  "goals": 38
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 17,
+  "name": "Lucas Gamba",
+  "slug": "lucas-gamba",
+  "tmId": "125906",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 209,
+  "goals": 38
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 18,
+  "name": "Leandro Fernández",
+  "slug": "leandro-fernandez",
+  "tmId": "131840",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 112,
+  "goals": 37
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 19,
+  "name": "Mariano Pavone",
+  "slug": "mariano-pavone",
+  "tmId": "27462",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 107,
+  "goals": 33
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 20,
+  "name": "Maxi Rodríguez",
+  "slug": "maxi-rodriguez",
+  "tmId": "7895",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 108,
+  "goals": 33
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 21,
+  "name": "Santiago Silva",
+  "slug": "santiago-silva",
+  "tmId": "7274",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "7 Clubs",
+  "apps": 128,
+  "goals": 33
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 22,
+  "name": "Matías Suárez",
+  "slug": "matias-suarez",
+  "tmId": "66660",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Belgium"
+  ],
+  "club": "2 Clubs",
+  "apps": 135,
+  "goals": 32
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 23,
+  "name": "Carlos Tévez",
+  "slug": "carlos-tevez",
+  "tmId": "4276",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 82,
+  "goals": 31
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 24,
+  "name": "Javier Toledo",
+  "slug": "javier-toledo",
+  "tmId": "72620",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 132,
+  "goals": 31
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 25,
+  "name": "Darío Cvitanich",
+  "slug": "dario-cvitanich",
+  "tmId": "30758",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "2 Clubs",
+  "apps": 90,
+  "goals": 30
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 26,
+  "name": "Javier Correa",
+  "slug": "javier-correa",
+  "tmId": "130413",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 87,
+  "goals": 29
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 27,
+  "name": "Lucas Janson",
+  "slug": "lucas-janson",
+  "tmId": "238448",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 147,
+  "goals": 29
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 28,
+  "name": "Miguel Merentiel",
+  "slug": "miguel-merentiel",
+  "tmId": "481367",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay",
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 86,
+  "goals": 28
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 29,
+  "name": "Silvio Romero",
+  "slug": "silvio-romero",
+  "tmId": "88082",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 85,
+  "goals": 28
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 30,
+  "name": "Fernando Márquez",
+  "slug": "fernando-marquez",
+  "tmId": "75597",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 113,
+  "goals": 27
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 31,
+  "name": "Sebastián Palacios",
+  "slug": "sebastian-palacios",
+  "tmId": "262861",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 116,
+  "goals": 27
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 32,
+  "name": "Milton Giménez",
+  "slug": "milton-gimenez",
+  "tmId": "730779",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Paraguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 71,
+  "goals": 26
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 33,
+  "name": "Maximiliano Romero",
+  "slug": "maximiliano-romero",
+  "tmId": "365758",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 122,
+  "goals": 26
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 34,
+  "name": "Franco Soldano",
+  "slug": "franco-soldano",
+  "tmId": "358212",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 145,
+  "goals": 26
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 35,
+  "name": "Lautaro Acosta",
+  "slug": "lautaro-acosta",
+  "tmId": "45307",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Lanús",
+  "apps": 162,
+  "goals": 26
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 36,
+  "name": "Miguel Borja",
+  "slug": "miguel-borja",
+  "tmId": "211397",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA River Plate",
+  "apps": 61,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 37,
+  "name": "Michael Santos",
+  "slug": "michael-santos",
+  "tmId": "178107",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 73,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 38,
+  "name": "Lucas Alario",
+  "slug": "lucas-alario",
+  "tmId": "193782",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 56,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 39,
+  "name": "Sebastián Ribas",
+  "slug": "sebastian-ribas",
+  "tmId": "45577",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 80,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 40,
+  "name": "Fernando Zampedri",
+  "slug": "fernando-zampedri",
+  "tmId": "104006",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Chile",
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 79,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 41,
+  "name": "Carlos Luna",
+  "slug": "carlos-luna",
+  "tmId": "57916",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tigre",
+  "apps": 94,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 42,
+  "name": "Federico González",
+  "slug": "federico-gonzalez",
+  "tmId": "77380",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 100,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 43,
+  "name": "Cristian Pavón",
+  "slug": "cristian-pavon",
+  "tmId": "373170",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Boca Juniors",
+  "apps": 98,
+  "goals": 25
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 44,
+  "name": "Claudio Bieler",
+  "slug": "claudio-bieler",
+  "tmId": "63403",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Ecuador"
+  ],
+  "club": "3 Clubs",
+  "apps": 81,
+  "goals": 24
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 45,
+  "name": "Carlos Auzqui",
+  "slug": "carlos-auzqui",
+  "tmId": "100001",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 137,
+  "goals": 24
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 46,
+  "name": "Gustavo Bou",
+  "slug": "gustavo-bou",
+  "tmId": "71608",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "United States"
+  ],
+  "club": "2 Clubs",
+  "apps": 67,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 47,
+  "name": "Diego Vera",
+  "slug": "diego-vera",
+  "tmId": "72657",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "4 Clubs",
+  "apps": 92,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 48,
+  "name": "Cristian Tarragona",
+  "slug": "cristian-tarragona",
+  "tmId": "422698",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 104,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 49,
+  "name": "Franco Troyansky",
+  "slug": "franco-troyansky",
+  "tmId": "424673",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Poland"
+  ],
+  "club": "4 Clubs",
+  "apps": 143,
+  "goals": 23
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 50,
+  "name": "Julián Alvarez",
+  "slug": "julian-alvarez",
+  "tmId": "576024",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA River Plate",
+  "apps": 31,
+  "goals": 22
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 51,
+  "name": "Lautaro Martínez",
+  "slug": "lautaro-martinez",
+  "tmId": "406625",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Racing Club",
+  "apps": 44,
+  "goals": 22
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 52,
+  "name": "Nahuel Bustos",
+  "slug": "nahuel-bustos",
+  "tmId": "439629",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 70,
+  "goals": 22
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 53,
+  "name": "Bruno Sepúlveda",
+  "slug": "bruno-sepulveda",
+  "tmId": "690718",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 81,
+  "goals": 22
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 54,
+  "name": "Gabriel Hauche",
+  "slug": "gabriel-hauche",
+  "tmId": "54845",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 105,
+  "goals": 22
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 55,
+  "name": "Emmanuel Gigliotti",
+  "slug": "emmanuel-gigliotti",
+  "tmId": "87365",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "France"
+  ],
+  "club": "CA Independiente",
+  "apps": 49,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 56,
+  "name": "Rafael Santos Borré",
+  "slug": "rafael-santos-borre",
+  "tmId": "323831",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Colombia"
+  ],
+  "club": "CA River Plate",
+  "apps": 62,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 57,
+  "name": "Sebastián Driussi",
+  "slug": "sebastian-driussi",
+  "tmId": "294853",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA River Plate",
+  "apps": 55,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 58,
+  "name": "Ricardo Centurión",
+  "slug": "ricardo-centurion",
+  "tmId": "230058",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 82,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 59,
+  "name": "Mateo Coronel",
+  "slug": "mateo-coronel",
+  "tmId": "685179",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 84,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 60,
+  "name": "Juan Garro",
+  "slug": "juan-garro",
+  "tmId": "174042",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 117,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 61,
+  "name": "Ignacio Pussetto",
+  "slug": "ignacio-pussetto",
+  "tmId": "283528",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 77,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 62,
+  "name": "Francisco Pizzini",
+  "slug": "francisco-pizzini",
+  "tmId": "213122",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "5 Clubs",
+  "apps": 151,
+  "goals": 21
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 63,
+  "name": "Juan Manuel García",
+  "slug": "juan-manuel-garcia",
+  "tmId": "457244",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 102,
+  "goals": 20
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 64,
+  "name": "Juan Martín Lucero",
+  "slug": "juan-martin-lucero",
+  "tmId": "162807",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 58,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 65,
+  "name": "Mauro Zárate",
+  "slug": "mauro-zarate",
+  "tmId": "26456",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Chile"
+  ],
+  "club": "3 Clubs",
+  "apps": 68,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 66,
+  "name": "Cristian Menéndez",
+  "slug": "cristian-menendez",
+  "tmId": "74086",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 89,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 67,
+  "name": "Jonathan Herrera",
+  "slug": "jonathan-herrera",
+  "tmId": "485880",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 65,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 68,
+  "name": "Emiliano Rigoni",
+  "slug": "emiliano-rigoni",
+  "tmId": "282544",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 74,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 69,
+  "name": "Salomón Rodríguez",
+  "slug": "salomon-rodriguez",
+  "tmId": "745670",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 75,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 70,
+  "name": "Lucas Albertengo",
+  "slug": "lucas-albertengo",
+  "tmId": "266903",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "5 Clubs",
+  "apps": 116,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 71,
+  "name": "Diego Zabala",
+  "slug": "diego-zabala",
+  "tmId": "177562",
+  "pos": "Right Winger",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 123,
+  "goals": 19
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 72,
+  "name": "Adrián Martínez",
+  "slug": "adrian-martinez",
+  "tmId": "598769",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 46,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 73,
+  "name": "Jaime Ayoví",
+  "slug": "jaime-ayovi",
+  "tmId": "139494",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Ecuador"
+  ],
+  "club": "2 Clubs",
+  "apps": 63,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 74,
+  "name": "Claudio Riaño",
+  "slug": "claudio-riano",
+  "tmId": "238011",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 77,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 75,
+  "name": "Andrés Chávez",
+  "slug": "andres-chavez",
+  "tmId": "193768",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 98,
+  "goals": 18
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 1,
+  "name": "Luis Ardente",
+  "slug": "luis-ardente",
+  "tmId": "60876",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 70,
+  "goals": 9
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 2,
+  "name": "Diego Rodríguez",
+  "slug": "diego-rodriguez",
+  "tmId": "90800",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "2 Clubs",
+  "apps": 56,
+  "goals": 7
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 3,
+  "name": "Sebastián Bértoli",
+  "slug": "sebastian-bertoli",
+  "tmId": "107709",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 42,
+  "goals": 6
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 4,
+  "name": "Gaspar Servio",
+  "slug": "gaspar-servio",
+  "tmId": "305076",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Rosario Central",
+  "apps": 22,
+  "goals": 3
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 5,
+  "name": "Matías Ibáñez",
+  "slug": "matias-ibanez",
+  "tmId": "73586",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 23,
+  "goals": 1
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 6,
+  "name": "Sebastián Saja",
+  "slug": "sebastian-saja",
+  "tmId": "3777",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Racing Club",
+  "apps": 28,
+  "goals": 1
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 7,
+  "name": "Guido Herrera",
+  "slug": "guido-herrera",
+  "tmId": "230014",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Talleres",
+  "apps": 49,
+  "goals": 1
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 8,
+  "name": "Mariano Andújar",
+  "slug": "mariano-andujar",
+  "tmId": "35491",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Estudiantes de La Plata",
+  "apps": 11,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 9,
+  "name": "Julio Chiarini",
+  "slug": "julio-chiarini",
+  "tmId": "140668",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA River Plate",
+  "apps": 12,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 10,
+  "name": "Juan Espínola",
+  "slug": "juan-espinola",
+  "tmId": "532557",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "Club Atlético Belgrano",
+  "apps": 15,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 11,
+  "name": "Luciano Pocrnjic",
+  "slug": "luciano-pocrnjic",
+  "tmId": "26469",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "CA Newell&#039;s Old Boys",
+  "apps": 16,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 12,
+  "name": "Lucas Hoyos",
+  "slug": "lucas-hoyos",
+  "tmId": "75462",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Vélez Sarsfield",
+  "apps": 19,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 13,
+  "name": "Lucas Chaves",
+  "slug": "lucas-chaves",
+  "tmId": "360791",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "AA Argentinos Juniors",
+  "apps": 20,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 14,
+  "name": "Juan Musso",
+  "slug": "juan-musso",
+  "tmId": "242359",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Racing Club",
+  "apps": 22,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 15,
+  "name": "Ignacio Arce",
+  "slug": "ignacio-arce",
+  "tmId": "131206",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Riestra",
+  "apps": 25,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 16,
+  "name": "Ezequiel Unsain",
+  "slug": "ezequiel-unsain",
+  "tmId": "337600",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Defensa y Justicia",
+  "apps": 25,
+  "goals": 0
+ },
+ {
+  "comp": "AR1N",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 17,
+  "name": "Augusto Batalla",
+  "slug": "augusto-batalla",
+  "tmId": "275218",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA River Plate",
+  "apps": 29,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 1,
+  "name": "Rodrigo Moreira",
+  "slug": "rodrigo-moreira",
+  "tmId": "294878",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 122,
+  "goals": 17
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 2,
+  "name": "Osvaldo Barsottini",
+  "slug": "osvaldo-barsottini",
+  "tmId": "87829",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 155,
+  "goals": 17
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 3,
+  "name": "Gabriel Díaz",
+  "slug": "gabriel-diaz",
+  "tmId": "345004",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 162,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 4,
+  "name": "Walter Rueda",
+  "slug": "walter-rueda",
+  "tmId": "708737",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 141,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 5,
+  "name": "Leonardo Baroni",
+  "slug": "leonardo-baroni",
+  "tmId": "126468",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Boca Unidos",
+  "apps": 116,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 6,
+  "name": "Juan González",
+  "slug": "juan-gonzalez",
+  "tmId": "457536",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Chacarita Juniors",
+  "apps": 126,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 7,
+  "name": "Abel Masuero",
+  "slug": "abel-masuero",
+  "tmId": "56574",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 172,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 8,
+  "name": "Maximiliano Padilla",
+  "slug": "maximiliano-padilla",
+  "tmId": "189442",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 95,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 9,
+  "name": "Diego Mondino",
+  "slug": "diego-mondino",
+  "tmId": "279793",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 138,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 10,
+  "name": "Ignacio Boggino",
+  "slug": "ignacio-boggino",
+  "tmId": "82463",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 139,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 11,
+  "name": "Pedro Souto",
+  "slug": "pedro-souto",
+  "tmId": "924999",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Temperley",
+  "apps": 80,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 12,
+  "name": "Imanol González",
+  "slug": "imanol-gonzalez",
+  "tmId": "426529",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 65,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 13,
+  "name": "Delfor Minervino",
+  "slug": "delfor-minervino",
+  "tmId": "970644",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 97,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 14,
+  "name": "Daniel Delgado",
+  "slug": "daniel-delgado",
+  "tmId": "119645",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 106,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 15,
+  "name": "Alejandro Rébola",
+  "slug": "alejandro-rebola",
+  "tmId": "88080",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 142,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 16,
+  "name": "Leonardo Ferreyra",
+  "slug": "leonardo-ferreyra",
+  "tmId": "132347",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 151,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 17,
+  "name": "Nicolás Monserrat",
+  "slug": "nicolas-monserrat",
+  "tmId": "873232",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 57,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 18,
+  "name": "Oscar Carniello",
+  "slug": "oscar-carniello",
+  "tmId": "87394",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "AMSD Atlético de Rafaela",
+  "apps": 71,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 19,
+  "name": "Yamil Garnier",
+  "slug": "yamil-garnier",
+  "tmId": "89306",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 90,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 20,
+  "name": "Rodrigo Mazur",
+  "slug": "rodrigo-mazur",
+  "tmId": "414669",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 100,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 21,
+  "name": "Cristian González",
+  "slug": "cristian-gonzalez",
+  "tmId": "443575",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 127,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 22,
+  "name": "Guillermo Cosaro",
+  "slug": "guillermo-cosaro",
+  "tmId": "262854",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+  "apps": 116,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 23,
+  "name": "Federico Murillo",
+  "slug": "federico-murillo",
+  "tmId": "554559",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 140,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 24,
+  "name": "Alejo Montero",
+  "slug": "alejo-montero",
+  "tmId": "649998",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Agropecuario",
+  "apps": 142,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 1,
+  "rank": 25,
+  "name": "Leandro Allende",
+  "slug": "leandro-allende",
+  "tmId": "865002",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 133,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 26,
+  "name": "Leandro Martínez Montagnoli",
+  "slug": "leandro-martinez-montagnoli",
+  "tmId": "249731",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 141,
+  "goals": 9
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 27,
+  "name": "Nicolás Correa",
+  "slug": "nicolas-correa",
+  "tmId": "74361",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "CA Unión (Santa Fe)",
+  "apps": 64,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 28,
+  "name": "Facundo Giacopuzzi",
+  "slug": "facundo-giacopuzzi",
+  "tmId": "742653",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CS Deportivo Madryn",
+  "apps": 71,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 29,
+  "name": "Fernando Bersano",
+  "slug": "fernando-bersano",
+  "tmId": "533569",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 74,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 30,
+  "name": "Wilfredo Olivera",
+  "slug": "wilfredo-olivera",
+  "tmId": "238153",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 76,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 31,
+  "name": "Iván Furios",
+  "slug": "ivan-furios",
+  "tmId": "79395",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 75,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 32,
+  "name": "Lucas Angelini",
+  "slug": "lucas-angelini",
+  "tmId": "971407",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 106,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 33,
+  "name": "Deivis Barone",
+  "slug": "deivis-barone",
+  "tmId": "66294",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 101,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 34,
+  "name": "Ezequiel Parnisari",
+  "slug": "ezequiel-parnisari",
+  "tmId": "210742",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 134,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 35,
+  "name": "Javier Páez",
+  "slug": "javier-paez",
+  "tmId": "44888",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 142,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 36,
+  "name": "Diego Martínez",
+  "slug": "diego-martinez",
+  "tmId": "265307",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 191,
+  "goals": 8
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 37,
+  "name": "Julio Mozzo",
+  "slug": "julio-mozzo",
+  "tmId": "59300",
+  "pos": "Centre-Back",
+  "nat": [
+   "Uruguay",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 50,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 38,
+  "name": "Nahuel Banegas",
+  "slug": "nahuel-banegas",
+  "tmId": "697041",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético San Martín (Tucumán)",
+  "apps": 52,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 39,
+  "name": "Lucas Blondel",
+  "slug": "lucas-blondel",
+  "tmId": "503348",
+  "pos": "Right-Back",
+  "nat": [
+   "Switzerland",
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 68,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 40,
+  "name": "Sebastián Prieto",
+  "slug": "sebastian-prieto",
+  "tmId": "613708",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 71,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 41,
+  "name": "César González",
+  "slug": "cesar-gonzalez",
+  "tmId": "30852",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 78,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 42,
+  "name": "Nicolás Ortiz",
+  "slug": "nicolas-ortiz",
+  "tmId": "441114",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 87,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 43,
+  "name": "Darío Cajaravilla",
+  "slug": "dario-cajaravilla",
+  "tmId": "87320",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Aldosivi",
+  "apps": 91,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 44,
+  "name": "Patricio Boolsen",
+  "slug": "patricio-boolsen",
+  "tmId": "697057",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 107,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 45,
+  "name": "Alejandro Manchot",
+  "slug": "alejandro-manchot",
+  "tmId": "87519",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 104,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 46,
+  "name": "Alejandro Molina",
+  "slug": "alejandro-molina",
+  "tmId": "538529",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 109,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 47,
+  "name": "Sebastián Pena",
+  "slug": "sebastian-pena",
+  "tmId": "51774",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 101,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 48,
+  "name": "Raúl Damiani",
+  "slug": "raul-damiani",
+  "tmId": "89264",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 108,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 49,
+  "name": "Lucas Landa",
+  "slug": "lucas-landa",
+  "tmId": "55875",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 110,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 2,
+  "rank": 50,
+  "name": "Cristian Díaz",
+  "slug": "cristian-diaz",
+  "tmId": "113021",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "4 Clubs",
+  "apps": 144,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 51,
+  "name": "Walter Andrade",
+  "slug": "walter-andrade",
+  "tmId": "28563",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 128,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 52,
+  "name": "Damián Adín",
+  "slug": "damian-adin",
+  "tmId": "572895",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 139,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 53,
+  "name": "Nicolás Dematei",
+  "slug": "nicolas-dematei",
+  "tmId": "176278",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 195,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 54,
+  "name": "Emiliano Endrizzi",
+  "slug": "emiliano-endrizzi",
+  "tmId": "441269",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 231,
+  "goals": 7
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 55,
+  "name": "Leandro Corulo",
+  "slug": "leandro-corulo",
+  "tmId": "285609",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 27,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 56,
+  "name": "Juan Elordi",
+  "slug": "juan-elordi",
+  "tmId": "728602",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CS Independiente Rivadavia",
+  "apps": 33,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 57,
+  "name": "Facundo Nasif",
+  "slug": "facundo-nasif",
+  "tmId": "87331",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Aldosivi",
+  "apps": 49,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 58,
+  "name": "Juan Alvacete",
+  "slug": "juan-alvacete",
+  "tmId": "142348",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 53,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 59,
+  "name": "Marcelo Cardozo",
+  "slug": "marcelo-cardozo",
+  "tmId": "56580",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 59,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 60,
+  "name": "Emiliano Purita",
+  "slug": "emiliano-purita",
+  "tmId": "471638",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 92,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 61,
+  "name": "Ulises Abreliano",
+  "slug": "ulises-abreliano",
+  "tmId": "578760",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Almirante Brown",
+  "apps": 70,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 62,
+  "name": "Facundo Ardiles",
+  "slug": "facundo-ardiles",
+  "tmId": "426471",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 60,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 63,
+  "name": "Paolo Impini",
+  "slug": "paolo-impini",
+  "tmId": "442676",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 63,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 64,
+  "name": "Adrián Torres",
+  "slug": "adrian-torres",
+  "tmId": "121131",
+  "pos": "Left-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 74,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 65,
+  "name": "Luciano Goux",
+  "slug": "luciano-goux",
+  "tmId": "196161",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Defensores de Belgrano",
+  "apps": 67,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 66,
+  "name": "Diego López",
+  "slug": "diego-lopez",
+  "tmId": "279645",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+  "apps": 90,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 67,
+  "name": "Julián Navas",
+  "slug": "julian-navas",
+  "tmId": "274970",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "3 Clubs",
+  "apps": 74,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 68,
+  "name": "Mauro Osores",
+  "slug": "mauro-osores",
+  "tmId": "532351",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 79,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 69,
+  "name": "Pier Barrios",
+  "slug": "pier-barrios",
+  "tmId": "118756",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 81,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 70,
+  "name": "Nahuel Arena",
+  "slug": "nahuel-arena",
+  "tmId": "552629",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Ferro Carril Oeste",
+  "apps": 81,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 71,
+  "name": "Lucas Faggioli",
+  "slug": "lucas-faggioli",
+  "tmId": "985003",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Maipú",
+  "apps": 77,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 72,
+  "name": "Alejandro Frezzotti",
+  "slug": "alejandro-frezzotti",
+  "tmId": "54592",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 77,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 73,
+  "name": "Ivo Chaves",
+  "slug": "ivo-chaves",
+  "tmId": "439625",
+  "pos": "Right-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 79,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 74,
+  "name": "Gabriel Fernández",
+  "slug": "gabriel-fernandez",
+  "tmId": "441116",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 81,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Abwehr",
+  "page": 3,
+  "rank": 75,
+  "name": "Alan Barrionuevo",
+  "slug": "alan-barrionuevo",
+  "tmId": "865491",
+  "pos": "Centre-Back",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Almirante Brown",
+  "apps": 77,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 1,
+  "name": "Ricardo Blanco",
+  "slug": "ricardo-blanco",
+  "tmId": "423635",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 170,
+  "goals": 35
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 2,
+  "name": "Juan Manuel Olivares",
+  "slug": "juan-manuel-olivares",
+  "tmId": "67824",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 238,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 3,
+  "name": "Gastón González",
+  "slug": "gaston-gonzalez",
+  "tmId": "193945",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 177,
+  "goals": 31
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 4,
+  "name": "Ramiro López",
+  "slug": "ramiro-lopez",
+  "tmId": "125063",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "8 Clubs",
+  "apps": 208,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 5,
+  "name": "Walter Acuña",
+  "slug": "walter-acuna",
+  "tmId": "267409",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 107,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 6,
+  "name": "Milton Céliz",
+  "slug": "milton-celiz",
+  "tmId": "260652",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 104,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 7,
+  "name": "Francisco Molina",
+  "slug": "francisco-molina",
+  "tmId": "196038",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina",
+   "Uruguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 145,
+  "goals": 23
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 8,
+  "name": "Miguel Caneo",
+  "slug": "miguel-caneo",
+  "tmId": "30919",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Quilmes AC",
+  "apps": 69,
+  "goals": 22
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 9,
+  "name": "Juan Galeano",
+  "slug": "juan-galeano",
+  "tmId": "196159",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 138,
+  "goals": 22
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 10,
+  "name": "Emiliano Romero",
+  "slug": "emiliano-romero",
+  "tmId": "87536",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 76,
+  "goals": 21
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 11,
+  "name": "Arnaldo González",
+  "slug": "arnaldo-gonzalez",
+  "tmId": "182301",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "8 Clubs",
+  "apps": 160,
+  "goals": 21
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 12,
+  "name": "Luciano Nieto",
+  "slug": "luciano-nieto",
+  "tmId": "87455",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 196,
+  "goals": 21
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 13,
+  "name": "Gabriel Bustos",
+  "slug": "gabriel-bustos",
+  "tmId": "54825",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 128,
+  "goals": 20
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 14,
+  "name": "Facundo Pereyra",
+  "slug": "facundo-pereyra",
+  "tmId": "123497",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 105,
+  "goals": 18
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 15,
+  "name": "Jorge Velázquez",
+  "slug": "jorge-velazquez",
+  "tmId": "87356",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 98,
+  "goals": 18
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 16,
+  "name": "Diego García",
+  "slug": "diego-garcia",
+  "tmId": "67806",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 179,
+  "goals": 18
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 17,
+  "name": "Gonzalo Berterame",
+  "slug": "gonzalo-berterame",
+  "tmId": "697651",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 193,
+  "goals": 18
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 18,
+  "name": "Diego Cardozo",
+  "slug": "diego-cardozo",
+  "tmId": "80347",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 59,
+  "goals": 17
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 19,
+  "name": "Diego Sosa",
+  "slug": "diego-sosa",
+  "tmId": "345545",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 178,
+  "goals": 17
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 20,
+  "name": "Federico Bisanz",
+  "slug": "federico-bisanz",
+  "tmId": "866060",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Atlanta",
+  "apps": 90,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 21,
+  "name": "Martín Rolle",
+  "slug": "martin-rolle",
+  "tmId": "67235",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 92,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 22,
+  "name": "Marcelo Eggel",
+  "slug": "marcelo-eggel",
+  "tmId": "993661",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Maipú",
+  "apps": 104,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 23,
+  "name": "Nicolás Castro",
+  "slug": "nicolas-castro",
+  "tmId": "55159",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 87,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 24,
+  "name": "Fausto Montero",
+  "slug": "fausto-montero",
+  "tmId": "144237",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 142,
+  "goals": 16
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 1,
+  "rank": 25,
+  "name": "Braian Miranda",
+  "slug": "braian-miranda",
+  "tmId": "723755",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 79,
+  "goals": 15
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 26,
+  "name": "Martín Fabro",
+  "slug": "martin-fabro",
+  "tmId": "75528",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 96,
+  "goals": 15
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 27,
+  "name": "Sebastián González",
+  "slug": "sebastian-gonzalez",
+  "tmId": "106404",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 149,
+  "goals": 15
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 28,
+  "name": "Jonathan Chávez",
+  "slug": "jonathan-chavez",
+  "tmId": "55864",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 90,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 29,
+  "name": "Maximiliano Meléndez",
+  "slug": "maximiliano-melendez",
+  "tmId": "1234986",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Chacarita Juniors",
+  "apps": 88,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 30,
+  "name": "Diego Becker",
+  "slug": "diego-becker",
+  "tmId": "549603",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 115,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 31,
+  "name": "Jorge Luna",
+  "slug": "jorge-luna",
+  "tmId": "55925",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+  "apps": 86,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 32,
+  "name": "Nicolás Rinaldi",
+  "slug": "nicolas-rinaldi",
+  "tmId": "539160",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 105,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 33,
+  "name": "Claudio Pombo",
+  "slug": "claudio-pombo",
+  "tmId": "443832",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 146,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 34,
+  "name": "Martín Zapata",
+  "slug": "martin-zapata",
+  "tmId": "75606",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 114,
+  "goals": 14
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 35,
+  "name": "Jorge Ferrero",
+  "slug": "jorge-ferrero",
+  "tmId": "730397",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Miguel",
+  "apps": 92,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 36,
+  "name": "Sebastián Longo",
+  "slug": "sebastian-longo",
+  "tmId": "87489",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 98,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 37,
+  "name": "Jeremías Puch",
+  "slug": "jeremias-puch",
+  "tmId": "821924",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 112,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 38,
+  "name": "Emanuel Moreno",
+  "slug": "emanuel-moreno",
+  "tmId": "148728",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 181,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 39,
+  "name": "Renso Pérez",
+  "slug": "renso-perez",
+  "tmId": "440174",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 164,
+  "goals": 13
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 40,
+  "name": "Francisco González Metilli",
+  "slug": "francisco-gonzalez-metilli",
+  "tmId": "442679",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 81,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 41,
+  "name": "Marcos Astina",
+  "slug": "marcos-astina",
+  "tmId": "288782",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 109,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 42,
+  "name": "Guillermo Acosta",
+  "slug": "guillermo-acosta",
+  "tmId": "422917",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 94,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 43,
+  "name": "Damián Arce",
+  "slug": "damian-arce",
+  "tmId": "423708",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 94,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 44,
+  "name": "Jorge Valdez Chamorro",
+  "slug": "jorge-valdez-chamorro",
+  "tmId": "189456",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "4 Clubs",
+  "apps": 109,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 45,
+  "name": "Ramiro Luna",
+  "slug": "ramiro-luna",
+  "tmId": "818912",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 121,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 46,
+  "name": "Enzo Acosta",
+  "slug": "enzo-acosta",
+  "tmId": "459245",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 129,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 47,
+  "name": "Nahuel Luján",
+  "slug": "nahuel-lujan",
+  "tmId": "325147",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 126,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 48,
+  "name": "Exequiel Narese",
+  "slug": "exequiel-narese",
+  "tmId": "108749",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 123,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 49,
+  "name": "Nicolás Sánchez",
+  "slug": "nicolas-sanchez",
+  "tmId": "268846",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 153,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 2,
+  "rank": 50,
+  "name": "Nicolás Talpone",
+  "slug": "nicolas-talpone",
+  "tmId": "440865",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 171,
+  "goals": 12
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 51,
+  "name": "Daniel Imperiale",
+  "slug": "daniel-imperiale",
+  "tmId": "420445",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina",
+   "Chile"
+  ],
+  "club": "CS Independiente Rivadavia",
+  "apps": 54,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 52,
+  "name": "Diego Lagos",
+  "slug": "diego-lagos",
+  "tmId": "54593",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 50,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 53,
+  "name": "Gonzalo Bravo",
+  "slug": "gonzalo-bravo",
+  "tmId": "464349",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Riestra",
+  "apps": 74,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 54,
+  "name": "Juan Pablo Gobetto",
+  "slug": "juan-pablo-gobetto",
+  "tmId": "543588",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 75,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 55,
+  "name": "Mariano Miño",
+  "slug": "mariano-mino",
+  "tmId": "538092",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 86,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 56,
+  "name": "Iván Colman",
+  "slug": "ivan-colman",
+  "tmId": "380603",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 96,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 57,
+  "name": "Matías Kabalin",
+  "slug": "matias-kabalin",
+  "tmId": "538538",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 91,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 58,
+  "name": "Leandro Becerra",
+  "slug": "leandro-becerra",
+  "tmId": "87482",
+  "pos": "Left Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 104,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 59,
+  "name": "Emanuel Molina",
+  "slug": "emanuel-molina",
+  "tmId": "174411",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Colombia"
+  ],
+  "club": "4 Clubs",
+  "apps": 100,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 60,
+  "name": "José Luis Fernández",
+  "slug": "jose-luis-fernandez",
+  "tmId": "75407",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 95,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 61,
+  "name": "Gonzalo Bustamante",
+  "slug": "gonzalo-bustamante",
+  "tmId": "88057",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 98,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 62,
+  "name": "Ignacio Malcorra",
+  "slug": "ignacio-malcorra",
+  "tmId": "87518",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 104,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 63,
+  "name": "José Luis García",
+  "slug": "jose-luis-garcia",
+  "tmId": "54349",
+  "pos": "Defensive Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 133,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 64,
+  "name": "César Montiglio",
+  "slug": "cesar-montiglio",
+  "tmId": "87491",
+  "pos": "Right Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 118,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 65,
+  "name": "Martín Rivero",
+  "slug": "martin-rivero",
+  "tmId": "77131",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 161,
+  "goals": 11
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 66,
+  "name": "Claudio Sarría",
+  "slug": "claudio-sarria",
+  "tmId": "87500",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 27,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 67,
+  "name": "Mauro Milano",
+  "slug": "mauro-milano",
+  "tmId": "52398",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 39,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 68,
+  "name": "Yair González",
+  "slug": "yair-gonzalez",
+  "tmId": "646078",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 36,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 69,
+  "name": "Daniel Montenegro",
+  "slug": "daniel-montenegro",
+  "tmId": "25020",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Independiente",
+  "apps": 41,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 70,
+  "name": "Iván Molinas",
+  "slug": "ivan-molinas",
+  "tmId": "406629",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 90,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 71,
+  "name": "Patricio Pérez",
+  "slug": "patricio-perez",
+  "tmId": "65432",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 59,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 72,
+  "name": "Paulo Rosales",
+  "slug": "paulo-rosales",
+  "tmId": "26472",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 62,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 73,
+  "name": "Federico Boasso",
+  "slug": "federico-boasso",
+  "tmId": "381325",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 74,
+  "name": "Brian Orosco",
+  "slug": "brian-orosco",
+  "tmId": "495124",
+  "pos": "Attacking Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 82,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Mittelfeld",
+  "page": 3,
+  "rank": 75,
+  "name": "Marcos Brítez Ojeda",
+  "slug": "marcos-britez-ojeda",
+  "tmId": "88056",
+  "pos": "Central Midfield",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 82,
+  "goals": 10
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 1,
+  "name": "Luis Miguel Rodríguez",
+  "slug": "luis-miguel-rodriguez",
+  "tmId": "87497",
+  "pos": "Second Striker",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 175,
+  "goals": 80
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 2,
+  "name": "Pablo Vegetti",
+  "slug": "pablo-vegetti",
+  "tmId": "334229",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 150,
+  "goals": 76
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 3,
+  "name": "Alejandro Gagliardi",
+  "slug": "alejandro-gagliardi",
+  "tmId": "88071",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 253,
+  "goals": 64
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 4,
+  "name": "Matías Quiroga",
+  "slug": "matias-quiroga",
+  "tmId": "103456",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 209,
+  "goals": 62
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 5,
+  "name": "Pablo Magnin",
+  "slug": "pablo-magnin",
+  "tmId": "144236",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 119,
+  "goals": 59
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 6,
+  "name": "Emanuel Dening",
+  "slug": "emanuel-dening",
+  "tmId": "124904",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 192,
+  "goals": 59
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 7,
+  "name": "Gonzalo Klusener",
+  "slug": "gonzalo-klusener",
+  "tmId": "87367",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "9 Clubs",
+  "apps": 221,
+  "goals": 56
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 8,
+  "name": "Claudio Bieler",
+  "slug": "claudio-bieler",
+  "tmId": "63403",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Ecuador"
+  ],
+  "club": "3 Clubs",
+  "apps": 139,
+  "goals": 53
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 9,
+  "name": "Mateo Acosta",
+  "slug": "mateo-acosta",
+  "tmId": "439646",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 176,
+  "goals": 52
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 10,
+  "name": "Luis Silba",
+  "slug": "luis-silba",
+  "tmId": "145731",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 163,
+  "goals": 49
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 11,
+  "name": "Javier Velázquez",
+  "slug": "javier-velazquez",
+  "tmId": "121761",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 141,
+  "goals": 45
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 12,
+  "name": "Diego Jara",
+  "slug": "diego-jara",
+  "tmId": "89257",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 130,
+  "goals": 43
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 13,
+  "name": "Bruno Nasta",
+  "slug": "bruno-nasta",
+  "tmId": "728528",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 148,
+  "goals": 43
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 14,
+  "name": "Alan Bonansea",
+  "slug": "alan-bonansea",
+  "tmId": "538609",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "8 Clubs",
+  "apps": 169,
+  "goals": 43
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 15,
+  "name": "Gonzalo Castillejos",
+  "slug": "gonzalo-castillejos",
+  "tmId": "58383",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 73,
+  "goals": 42
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 16,
+  "name": "Matías Gigli",
+  "slug": "matias-gigli",
+  "tmId": "76149",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 119,
+  "goals": 41
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 17,
+  "name": "Javier Rossi",
+  "slug": "javier-rossi",
+  "tmId": "89322",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 118,
+  "goals": 40
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 18,
+  "name": "Sebastián Penco",
+  "slug": "sebastian-penco",
+  "tmId": "30688",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "2 Clubs",
+  "apps": 117,
+  "goals": 39
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 19,
+  "name": "Lautaro Parisi",
+  "slug": "lautaro-parisi",
+  "tmId": "610569",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 194,
+  "goals": 38
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 20,
+  "name": "Martín Pino",
+  "slug": "martin-pino",
+  "tmId": "556906",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 109,
+  "goals": 37
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 21,
+  "name": "Leandro González",
+  "slug": "leandro-gonzalez",
+  "tmId": "54345",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 183,
+  "goals": 37
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 22,
+  "name": "Agustín Lavezzi",
+  "slug": "agustin-lavezzi",
+  "tmId": "627952",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 123,
+  "goals": 36
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 23,
+  "name": "David Romero",
+  "slug": "david-romero",
+  "tmId": "540468",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Paraguay"
+  ],
+  "club": "2 Clubs",
+  "apps": 130,
+  "goals": 36
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 24,
+  "name": "Germán Rivero",
+  "slug": "german-rivero",
+  "tmId": "396869",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 159,
+  "goals": 36
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 1,
+  "rank": 25,
+  "name": "Ezequiel Aguirre",
+  "slug": "ezequiel-aguirre",
+  "tmId": "613356",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Defensores de Belgrano",
+  "apps": 172,
+  "goals": 36
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 26,
+  "name": "Enzo Díaz",
+  "slug": "enzo-diaz",
+  "tmId": "610272",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 137,
+  "goals": 35
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 27,
+  "name": "Cristian Chávez",
+  "slug": "cristian-chavez",
+  "tmId": "70132",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 101,
+  "goals": 35
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 28,
+  "name": "Luis López",
+  "slug": "luis-lopez",
+  "tmId": "366666",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 155,
+  "goals": 35
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 29,
+  "name": "Aldo Visconti",
+  "slug": "aldo-visconti",
+  "tmId": "53165",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 100,
+  "goals": 34
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 30,
+  "name": "Patricio Cucchi",
+  "slug": "patricio-cucchi",
+  "tmId": "596911",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 125,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 31,
+  "name": "Lautaro Gordillo",
+  "slug": "lautaro-gordillo",
+  "tmId": "577743",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 123,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 32,
+  "name": "Diego Diellos",
+  "slug": "diego-diellos",
+  "tmId": "270906",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "8 Clubs",
+  "apps": 177,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 33,
+  "name": "César Carignano",
+  "slug": "cesar-carignano",
+  "tmId": "17617",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "3 Clubs",
+  "apps": 120,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 34,
+  "name": "Brian Blando",
+  "slug": "brian-blando",
+  "tmId": "530444",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Agropecuario",
+  "apps": 152,
+  "goals": 33
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 35,
+  "name": "Franco Toloza",
+  "slug": "franco-toloza",
+  "tmId": "726764",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 124,
+  "goals": 32
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 36,
+  "name": "Fernando Brandán",
+  "slug": "fernando-brandan",
+  "tmId": "358014",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina",
+   "Romania"
+  ],
+  "club": "4 Clubs",
+  "apps": 150,
+  "goals": 32
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 37,
+  "name": "Mauricio Asenjo",
+  "slug": "mauricio-asenjo",
+  "tmId": "333762",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Chile"
+  ],
+  "club": "6 Clubs",
+  "apps": 153,
+  "goals": 32
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 38,
+  "name": "Leandro Armani",
+  "slug": "leandro-armani",
+  "tmId": "82325",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "CA Tiro Federal Argentino (Rosario)",
+  "apps": 62,
+  "goals": 31
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 39,
+  "name": "Nicolás Servetto",
+  "slug": "nicolas-servetto",
+  "tmId": "440688",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 130,
+  "goals": 31
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 40,
+  "name": "Santiago Rosales",
+  "slug": "santiago-rosales",
+  "tmId": "357424",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Mitre",
+  "apps": 120,
+  "goals": 31
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 41,
+  "name": "Mauro Albertengo",
+  "slug": "mauro-albertengo",
+  "tmId": "431183",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 197,
+  "goals": 31
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 42,
+  "name": "Lucas González",
+  "slug": "lucas-gonzalez",
+  "tmId": "660198",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 130,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 43,
+  "name": "Víctor Píriz Álvez",
+  "slug": "victor-piriz-alvez",
+  "tmId": "26743",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Uruguay"
+  ],
+  "club": "3 Clubs",
+  "apps": 86,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 44,
+  "name": "Nicolás Benegas",
+  "slug": "nicolas-benegas",
+  "tmId": "438926",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 86,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 45,
+  "name": "Felipe Cadenazzi",
+  "slug": "felipe-cadenazzi",
+  "tmId": "440979",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 109,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 46,
+  "name": "Alejandro Melo",
+  "slug": "alejandro-melo",
+  "tmId": "373623",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 162,
+  "goals": 30
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 47,
+  "name": "Axel Rodríguez",
+  "slug": "axel-rodriguez",
+  "tmId": "397218",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 110,
+  "goals": 29
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 48,
+  "name": "Fernando Telechea",
+  "slug": "fernando-telechea",
+  "tmId": "90105",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 78,
+  "goals": 29
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 49,
+  "name": "Facundo Castro",
+  "slug": "facundo-castro",
+  "tmId": "332252",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "6 Clubs",
+  "apps": 142,
+  "goals": 29
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 2,
+  "rank": 50,
+  "name": "Ignacio Lago",
+  "slug": "ignacio-lago",
+  "tmId": "813459",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 123,
+  "goals": 29
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 51,
+  "name": "Franco Coronel",
+  "slug": "franco-coronel",
+  "tmId": "730119",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 122,
+  "goals": 28
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 52,
+  "name": "Julián Marcioni",
+  "slug": "julian-marcioni",
+  "tmId": "633041",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 180,
+  "goals": 28
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 53,
+  "name": "Alexis Blanco",
+  "slug": "alexis-blanco",
+  "tmId": "96309",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 75,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 54,
+  "name": "Federico Anselmo",
+  "slug": "federico-anselmo",
+  "tmId": "343163",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Quilmes AC",
+  "apps": 80,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 55,
+  "name": "Mauricio Carrasco",
+  "slug": "mauricio-carrasco",
+  "tmId": "69801",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 94,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 56,
+  "name": "Cristian Núñez",
+  "slug": "cristian-nunez",
+  "tmId": "119682",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Boca Unidos",
+  "apps": 86,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 57,
+  "name": "Ramón Lentini",
+  "slug": "ramon-lentini",
+  "tmId": "93174",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "7 Clubs",
+  "apps": 114,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 58,
+  "name": "Matías Romero",
+  "slug": "matias-romero",
+  "tmId": "853464",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 138,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 59,
+  "name": "Martín Michel",
+  "slug": "martin-michel",
+  "tmId": "89266",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 149,
+  "goals": 27
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 60,
+  "name": "Álex Arce",
+  "slug": "alex-arce",
+  "tmId": "970518",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CS Independiente Rivadavia",
+  "apps": 30,
+  "goals": 26
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 61,
+  "name": "Nazareno Fúnez",
+  "slug": "nazareno-funez",
+  "tmId": "960200",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 76,
+  "goals": 26
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 62,
+  "name": "Juan Martín",
+  "slug": "juan-martin",
+  "tmId": "88093",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 62,
+  "goals": 25
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 63,
+  "name": "Facundo Pons",
+  "slug": "facundo-pons",
+  "tmId": "615257",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 93,
+  "goals": 25
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 64,
+  "name": "Nicolás Ferreyra",
+  "slug": "nicolas-ferreyra",
+  "tmId": "840865",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 115,
+  "goals": 25
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 65,
+  "name": "Cristian Menéndez",
+  "slug": "cristian-menendez",
+  "tmId": "74086",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 141,
+  "goals": 25
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 66,
+  "name": "Nazareno Solís",
+  "slug": "nazareno-solis",
+  "tmId": "419660",
+  "pos": "Left Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 167,
+  "goals": 25
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 67,
+  "name": "Jonathan Herrera",
+  "slug": "jonathan-herrera",
+  "tmId": "485880",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 55,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 68,
+  "name": "Héctor Álvarez",
+  "slug": "hector-alvarez",
+  "tmId": "125185",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 64,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 69,
+  "name": "Lázaro Romero",
+  "slug": "lazaro-romero",
+  "tmId": "971557",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 83,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 70,
+  "name": "Juan Sánchez Sotelo",
+  "slug": "juan-sanchez-sotelo",
+  "tmId": "82550",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "5 Clubs",
+  "apps": 91,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 71,
+  "name": "Lucas Cano",
+  "slug": "lucas-cano",
+  "tmId": "216036",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 120,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 72,
+  "name": "Maximiliano Casa",
+  "slug": "maximiliano-casa",
+  "tmId": "441338",
+  "pos": "Right Winger",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "5 Clubs",
+  "apps": 152,
+  "goals": 24
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 73,
+  "name": "Ezequiel Cérica",
+  "slug": "ezequiel-cerica",
+  "tmId": "440181",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "4 Clubs",
+  "apps": 120,
+  "goals": 23
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 74,
+  "name": "Ijiel Protti",
+  "slug": "ijiel-protti",
+  "tmId": "376852",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 84,
+  "goals": 23
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Sturm",
+  "page": 3,
+  "rank": 75,
+  "name": "Mateo Levato",
+  "slug": "mateo-levato",
+  "tmId": "538373",
+  "pos": "Centre-Forward",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "3 Clubs",
+  "apps": 119,
+  "goals": 23
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 1,
+  "name": "Sebastián Bértoli",
+  "slug": "sebastian-bertoli",
+  "tmId": "107709",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Patronato",
+  "apps": 82,
+  "goals": 6
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 2,
+  "name": "Darío Sand",
+  "slug": "dario-sand",
+  "tmId": "526432",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético San Martín (Tucumán)",
+  "apps": 33,
+  "goals": 2
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 3,
+  "name": "Joaquín Pucheta",
+  "slug": "joaquin-pucheta",
+  "tmId": "131217",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Miguel",
+  "apps": 37,
+  "goals": 2
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 4,
+  "name": "Diego Rodríguez",
+  "slug": "diego-rodriguez",
+  "tmId": "90800",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Spain"
+  ],
+  "club": "CA Independiente",
+  "apps": 39,
+  "goals": 2
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 5,
+  "name": "Gonzalo Carniel",
+  "slug": "gonzalo-carniel",
+  "tmId": "440166",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Chacarita Juniors",
+  "apps": 1,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 6,
+  "name": "Joaquín Enrico",
+  "slug": "joaquin-enrico",
+  "tmId": "1146689",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Telmo",
+  "apps": 6,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 7,
+  "name": "Ariel Griffo",
+  "slug": "ariel-griffo",
+  "tmId": "295131",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CSD Flandria",
+  "apps": 13,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 8,
+  "name": "Ignacio Arce",
+  "slug": "ignacio-arce",
+  "tmId": "131206",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Atlético San Martín (Tucumán)",
+  "apps": 21,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 9,
+  "name": "Darío Capogrosso",
+  "slug": "dario-capogrosso",
+  "tmId": "87322",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Comisión de Actividades Infantiles",
+  "apps": 30,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 10,
+  "name": "Martín Perafán",
+  "slug": "martin-perafan",
+  "tmId": "125131",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 72,
+  "goals": 1
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 11,
+  "name": "Lautaro López Kaleniuk",
+  "slug": "lautaro-lopez-kaleniuk",
+  "tmId": "688589",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Lithuania"
+  ],
+  "club": "CA Atlanta",
+  "apps": 4,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 12,
+  "name": "Daniel Sciutti",
+  "slug": "daniel-sciutti",
+  "tmId": "87529",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Comisión de Actividades Infantiles",
+  "apps": 7,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 13,
+  "name": "Luciano Acosta",
+  "slug": "luciano-acosta",
+  "tmId": "1305327",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Agropecuario",
+  "apps": 10,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 14,
+  "name": "Lucas Ruiz",
+  "slug": "lucas-ruiz",
+  "tmId": "1107753",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Ferro Carril Oeste",
+  "apps": 17,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 15,
+  "name": "Joaquín Mattalia",
+  "slug": "joaquin-mattalia",
+  "tmId": "600498",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Racing (Córdoba)",
+  "apps": 19,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 16,
+  "name": "Roberto Ramírez",
+  "slug": "roberto-ramirez",
+  "tmId": "332248",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CD Godoy Cruz Antonio Tomba",
+  "apps": 19,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 17,
+  "name": "Miguel Cárdenas",
+  "slug": "miguel-cardenas",
+  "tmId": "38787",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Paraguay"
+  ],
+  "club": "CA Tiro Federal Argentino (Rosario)",
+  "apps": 23,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 18,
+  "name": "Juan Mendonça",
+  "slug": "juan-mendonca",
+  "tmId": "359228",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Güemes",
+  "apps": 24,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 19,
+  "name": "Juan Carrera",
+  "slug": "juan-carrera",
+  "tmId": "54828",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CS Independiente Rivadavia",
+  "apps": 24,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 20,
+  "name": "Sebastián Díaz Robles",
+  "slug": "sebastian-diaz-robles",
+  "tmId": "906751",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 26,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 21,
+  "name": "Matías Vega",
+  "slug": "matias-vega",
+  "tmId": "75445",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Riestra",
+  "apps": 29,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 22,
+  "name": "Nicolás Carrizo",
+  "slug": "nicolas-carrizo",
+  "tmId": "486027",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA All Boys",
+  "apps": 30,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 23,
+  "name": "Nahuel Galardi",
+  "slug": "nahuel-galardi",
+  "tmId": "1251312",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "Club Deportivo Maipú",
+  "apps": 30,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 24,
+  "name": "Emilio Di Fulvio",
+  "slug": "emilio-di-fulvio",
+  "tmId": "487393",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Colegiales",
+  "apps": 30,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 1,
+  "rank": 25,
+  "name": "Mayco Bergia",
+  "slug": "mayco-bergia",
+  "tmId": "1151379",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "AMSD Atlético de Rafaela",
+  "apps": 30,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 26,
+  "name": "Esteban Glellel",
+  "slug": "esteban-glellel",
+  "tmId": "840859",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Syria",
+   "Argentina"
+  ],
+  "club": "Quilmes AC",
+  "apps": 32,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 27,
+  "name": "Laureano Tombolini",
+  "slug": "laureano-tombolini",
+  "tmId": "30734",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Olimpo",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 28,
+  "name": "Joaquín Papaleo",
+  "slug": "joaquin-papaleo",
+  "tmId": "359231",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Güemes",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 29,
+  "name": "Luciano Pocrnjic",
+  "slug": "luciano-pocrnjic",
+  "tmId": "26469",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 30,
+  "name": "Fernando Otárola",
+  "slug": "fernando-otarola",
+  "tmId": "440176",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Chile"
+  ],
+  "club": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 31,
+  "name": "Fabricio Henricot",
+  "slug": "fabricio-henricot",
+  "tmId": "267751",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Defensores Unidos (Zarate)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 32,
+  "name": "Lisandro Mitre",
+  "slug": "lisandro-mitre",
+  "tmId": "729555",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA All Boys",
+  "apps": 36,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 33,
+  "name": "Facundo Ferrero",
+  "slug": "facundo-ferrero",
+  "tmId": "267677",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Nueva Chicago",
+  "apps": 38,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 34,
+  "name": "Cristian Lucchetti",
+  "slug": "cristian-lucchetti",
+  "tmId": "30685",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 40,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 35,
+  "name": "Emanuel Tripodi",
+  "slug": "emanuel-tripodi",
+  "tmId": "69575",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 68,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 2,
+  "rank": 36,
+  "name": "Julio Salvá",
+  "slug": "julio-salva",
+  "tmId": "67828",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 71,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 26,
+  "name": "Esteban Glellel",
+  "slug": "esteban-glellel",
+  "tmId": "840859",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Syria",
+   "Argentina"
+  ],
+  "club": "Quilmes AC",
+  "apps": 32,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 27,
+  "name": "Laureano Tombolini",
+  "slug": "laureano-tombolini",
+  "tmId": "30734",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Olimpo",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 28,
+  "name": "Joaquín Papaleo",
+  "slug": "joaquin-papaleo",
+  "tmId": "359231",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Güemes",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 29,
+  "name": "Luciano Pocrnjic",
+  "slug": "luciano-pocrnjic",
+  "tmId": "26469",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Croatia"
+  ],
+  "club": "CA San Martín (San Juan)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 30,
+  "name": "Fernando Otárola",
+  "slug": "fernando-otarola",
+  "tmId": "440176",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Chile"
+  ],
+  "club": "Club Atlético Gimnasia y Esgrima (Jujuy)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 31,
+  "name": "Fabricio Henricot",
+  "slug": "fabricio-henricot",
+  "tmId": "267751",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Defensores Unidos (Zarate)",
+  "apps": 34,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 32,
+  "name": "Lisandro Mitre",
+  "slug": "lisandro-mitre",
+  "tmId": "729555",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA All Boys",
+  "apps": 36,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 33,
+  "name": "Facundo Ferrero",
+  "slug": "facundo-ferrero",
+  "tmId": "267677",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "CA Nueva Chicago",
+  "apps": 38,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 34,
+  "name": "Cristian Lucchetti",
+  "slug": "cristian-lucchetti",
+  "tmId": "30685",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina",
+   "Italy"
+  ],
+  "club": "Club Atlético Tucumán",
+  "apps": 40,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 35,
+  "name": "Emanuel Tripodi",
+  "slug": "emanuel-tripodi",
+  "tmId": "69575",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 68,
+  "goals": 0
+ },
+ {
+  "comp": "ARG2",
+  "posFilter": "Torwart",
+  "page": 3,
+  "rank": 36,
+  "name": "Julio Salvá",
+  "slug": "julio-salva",
+  "tmId": "67828",
+  "pos": "Goalkeeper",
+  "nat": [
+   "Argentina"
+  ],
+  "club": "2 Clubs",
+  "apps": 71,
+  "goals": 0
+ }
+]

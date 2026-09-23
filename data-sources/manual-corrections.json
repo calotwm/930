@@ -1,0 +1,22 @@
+[
+  { "name": "José Luis Chilavert", "position": "GK", "goals": 48, "note": "aporte del autor del juego" },
+  { "name": "Cristian Lucchetti", "position": "GK", "goals": 24, "note": "aporte del autor del juego" },
+  { "name": "Sebastián Saja", "position": "GK", "goals": 19, "note": "aporte del autor del juego" },
+  { "name": "Luis Ardente", "position": "GK", "goals": 9, "note": "aporte del autor del juego" },
+  {
+    "name": "Ignacio González",
+    "position": "GK",
+    "goals": 8,
+    "note": "aporte del autor del juego",
+    "add": {
+      "shortName": "González",
+      "club": "Racing Club",
+      "clubs": ["Racing Club"],
+      "division": "Primera",
+      "era": "1990s–2000s",
+      "source": { "name": "Wikipedia — Ignacio Carlos «Nacho» González (arquero, debutó en Racing Club)", "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez" }
+    }
+  },
+  { "name": "Mario Cuenca", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
+  { "name": "Sebastián Cejas", "position": "GK", "goals": 7, "note": "aporte del autor del juego" }
+]

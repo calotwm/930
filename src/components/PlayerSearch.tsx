@@ -6,6 +6,9 @@ import { PlayerCard } from './PlayerCard'
 
 const PAGE = 60
 
+// on touch screens focusing the input pops the keyboard over the sheet as it opens; let the user tap it
+const focusOnOpen = typeof window !== 'undefined' && window.matchMedia?.('(pointer: fine)').matches
+
 export function PlayerSearch({
   index,
   role,
@@ -80,7 +83,7 @@ export function PlayerSearch({
             <path d="M13 13l4 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
           </svg>
           <input
-            autoFocus
+            autoFocus={focusOnOpen}
             value={query}
             onChange={(e) => {
               setQuery(e.target.value)

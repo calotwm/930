@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { BottomSheet } from '../components/BottomSheet'
+import { Credits } from '../components/Cafecito'
 import { FootballPitch } from '../components/FootballPitch'
 import { GameHeader } from '../components/GameHeader'
 import { GameStatus } from '../components/GameStatus'
@@ -62,7 +63,7 @@ export function Home() {
       <div className="mx-auto flex min-h-dvh w-full max-w-md flex-col gap-4 px-4 pt-[calc(1rem+env(safe-area-inset-top))] pb-[calc(1.25rem+env(safe-area-inset-bottom))] md:max-w-xl lg:max-w-2xl">
         <GameHeader onReset={restart} canReset={game.filled > 0} />
 
-        <section aria-label="Marcador" className="space-y-3">
+        <section aria-label="Marcador" className="scoreboard space-y-3 rounded-3xl px-4 pt-4 pb-3.5">
           <GoalCounter total={game.total} status={game.status} delta={game.delta} />
           <ProgressBar value={progress(game.total)} status={game.status} />
           <GameStatus
@@ -91,6 +92,8 @@ export function Home() {
             </p>
           )}
         </main>
+
+        <Credits />
 
         <BottomSheet open={slot !== null} title={slot ? `Elegí ${ROLE_TITLE[slot.role]}` : ''} onClose={close}>
           {slot && (

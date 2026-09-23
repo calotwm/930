@@ -29,9 +29,9 @@ function useTweenedNumber(value: number, duration = 450) {
 }
 
 const COLOR: Record<ScoreStatus, string> = {
-  under: 'text-chalk',
-  exact: 'text-sol',
-  over: 'text-bust',
+  under: 'text-chalk glow-chalk',
+  exact: 'text-sol glow-sol',
+  over: 'text-bust glow-bust',
 }
 
 export function GoalCounter({
@@ -48,7 +48,7 @@ export function GoalCounter({
     <div className="relative flex items-end gap-2">
       <span
         key={status === 'under' ? 'steady' : `${status}-${delta?.key}`}
-        className={`font-display tabular text-[5.5rem] leading-[0.85] ${COLOR[status]} transition-colors duration-300 ${
+        className={`font-display tabular text-[5.75rem] leading-[0.82] ${COLOR[status]} transition-colors duration-300 ${
           status === 'over' ? 'animate-shake' : status === 'exact' ? 'animate-win-pulse' : ''
         }`}
         aria-live="polite"

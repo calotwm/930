@@ -788,6 +788,23 @@ function main() {
     `Fichas de jugadores (Wikipedia): ${Object.values(pageStats).filter(Boolean).length} con tabla de estadísticas; ${statsLog.raised.length} totales subidos a los goles con clubes argentinos de la ficha, ${statsLog.skipped} sin usar porque ninguna ficha (o más de una) coincide por club, ${statsLog.lower.length} con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: ${statsLog.added.join(', ') || 'ninguno'}.`,
   )
 
+  // corrections given by hand (data-sources/manual-corrections.json): applied last so no source overrides
+  // them; matched by name and position, or added when missing (`add` holds the card fields)
+  const corrections = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'manual-corrections.json'), 'utf8'))
+  const corrected = []
+  for (const c of corrections) {
+    const p = players.find((x) => norm(x.name) === norm(c.name) && x.position === c.position)
+    const fields = { goals: c.goals, scope: 'Goles oficiales con clubes argentinos (corrección manual)' }
+    if (p) {
+      if (p.goals !== c.goals) corrected.push(`${p.name}: ${p.goals} → ${c.goals}`)
+      Object.assign(p, fields, { review: [...(p.review ?? []), 'manual-correction'], secondarySource: { name: `Corrección manual: ${c.note}`, url: p.source.url } })
+    } else if (c.add) {
+      players.push({ id: slug(c.name), name: c.name, position: c.position, ...c.add, ...fields, review: ['manual-correction'] })
+      corrected.push(`${c.name}: agregado (${c.goals})`)
+    } else skipped.push(`${c.name}: corrección manual sin jugador que coincida`)
+  }
+  report.push(`Correcciones manuales (data-sources/manual-corrections.json): ${corrected.join('; ') || 'ninguna'}.`)
+
   // unique ids
   const seen = new Map()
   for (const p of players) {

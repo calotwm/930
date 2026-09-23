@@ -7,6 +7,9 @@ export function GameStatus({
   overBy,
   status,
   possible,
+  changesLeft,
+  windowsLeft,
+  windowOpen,
 }: {
   filled: number
   slots: number
@@ -14,6 +17,9 @@ export function GameStatus({
   overBy: number
   status: ScoreStatus
   possible: boolean
+  changesLeft: number
+  windowsLeft: number
+  windowOpen: boolean
 }) {
   let message: string
   let tone = 'text-chalk'
@@ -33,9 +39,19 @@ export function GameStatus({
   return (
     <div className="flex items-center justify-between gap-3 text-sm">
       <p className={`font-semibold ${tone}`}>{message}</p>
-      <span className="tabular shrink-0 rounded-full bg-white/8 px-2.5 py-1 text-xs font-semibold text-chalk-dim">
-        {filled}/{slots}
-      </span>
+      <div className="flex shrink-0 items-center gap-1.5 text-xs font-semibold">
+        <span className="tabular rounded-full bg-white/8 px-2.5 py-1 text-chalk-dim">
+          {filled}/{slots}
+        </span>
+        <span
+          className={`tabular rounded-full px-2.5 py-1 ${
+            changesLeft === 0 || (windowsLeft === 0 && !windowOpen) ? 'bg-bust/15 text-bust' : 'bg-celeste/15 text-celeste-soft'
+          }`}
+          title="Sacar o reemplazar a un jugador ya puesto usa un cambio. Los cambios seguidos van en la misma ventana."
+        >
+          {changesLeft} {changesLeft === 1 ? 'cambio' : 'cambios'} · {windowOpen ? 'ventana abierta' : `${windowsLeft} ${windowsLeft === 1 ? 'ventana' : 'ventanas'}`}
+        </span>
+      </div>
     </div>
   )
 }

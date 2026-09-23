@@ -13,6 +13,7 @@ export function PlayerSearch({
   usedIds,
   onPick,
   onRemove,
+  changeHint,
 }: {
   index: IndexedPlayer[]
   role: SlotRole
@@ -20,12 +21,16 @@ export function PlayerSearch({
   usedIds: Set<string>
   onPick: (player: Player) => void
   onRemove: () => void
+  /** when this slot is filled: text about the change it would cost, or null if no change is possible */
+  changeHint: string | null
 }) {
   const [query, setQuery] = useState('')
   const [pos, setPos] = useState<Position | null>(null)
   const [shown, setShown] = useState(PAGE)
   const deferred = useDeferredValue(query)
   const allowed = positionsForRole(role)
+  // replacing or removing a placed player spends a change
+  const locked = current !== null && changeHint === null
 
   const results = useMemo(() => {
     const found = searchPlayers(index, deferred, { role })
@@ -51,7 +56,10 @@ export function PlayerSearch({
         {current && (
           <div className="flex items-center justify-between rounded-2xl border border-white/10 px-4 py-2.5">
             <div className="min-w-0">
-              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">En este puesto</p>
+              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">
+                En este puesto ·{' '}
+                {locked ? <span className="text-bust">sin cambios</span> : <span className="text-celeste-soft">{changeHint}</span>}
+              </p>
               <p className="truncate font-extrabold uppercase">
                 {current.name} · <span className="font-display tabular">{current.goals}</span>
               </p>
@@ -59,7 +67,8 @@ export function PlayerSearch({
             <button
               type="button"
               onClick={onRemove}
-              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95"
+              disabled={locked}
+              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95 disabled:opacity-40"
             >
               Quitar
             </button>
@@ -114,7 +123,9 @@ export function PlayerSearch({
                 ? 'ya está acá'
                 : usedIds.has(p.id)
                   ? 'ya en tu equipo'
-                  : undefined
+                  : locked
+                    ? 'sin cambios'
+                    : undefined
             }
           />
         ))}

@@ -1,6 +1,23 @@
 import { describe, expect, it } from 'vitest'
 import { DEFAULT_FORMATION as F } from '../formations'
-import { assignPlayer, emptyLineup, filledCount, isComplete, isWin, removePlayer, validateLineup } from '../gameRules'
+import {
+  MAX_CHANGES,
+  MAX_WINDOWS,
+  NO_CHANGES,
+  assignPlayer,
+  canChange,
+  changesLeft,
+  costsChange,
+  emptyLineup,
+  fillSlot,
+  filledCount,
+  isComplete,
+  isWin,
+  removePlayer,
+  spendChange,
+  validateLineup,
+  windowsLeft,
+} from '../gameRules'
 import { canPlay } from '../positions'
 import { TARGET, overBy, remainingGoals, scoreStatus, totalGoals } from '../scoring'
 import { findCompletion, findCompletionBounded } from '../solver'
@@ -208,5 +225,43 @@ describe('solver (restricciones futuras / factibilidad)', () => {
     const am = mk('AM', 15)
     const sol = findCompletion(F, l, [am], TARGET)
     expect(sol).toBeNull()
+  })
+})
+
+describe('cambios: 5 en 3 ventanas', () => {
+  it('sólo quitar/reemplazar un jugador colocado cuesta un cambio', () => {
+    const l = place(emptyLineup(F), 'del-c', mk('ST', 10))
+    expect(costsChange(l, 'del-c')).toBe(true)
+    expect(costsChange(l, 'del-l')).toBe(false)
+  })
+
+  it('cambios seguidos y rellenar lo que se vació comparten ventana', () => {
+    let c = spendChange(NO_CHANGES, 'a', true)
+    c = fillSlot(c, 'a')
+    c = spendChange(c, 'b', false)
+    expect(c.used).toBe(2)
+    expect(c.windows).toBe(1)
+    expect(c.open).not.toBeNull()
+  })
+
+  it('completar un puesto que ya estaba vacío cierra la ventana', () => {
+    let c = spendChange(NO_CHANGES, 'a', false)
+    c = fillSlot(c, 'z')
+    expect(c.open).toBeNull()
+    c = spendChange(c, 'b', false)
+    expect(c.windows).toBe(2)
+  })
+
+  it('se acaban los cambios o las ventanas', () => {
+    let c = NO_CHANGES
+    for (let i = 0; i < MAX_CHANGES; i++) c = spendChange(c, `s${i}`, false)
+    expect(changesLeft(c)).toBe(0)
+    expect(canChange(c)).toBe(false)
+
+    let w = NO_CHANGES
+    for (let i = 0; i < MAX_WINDOWS; i++) w = fillSlot(spendChange(w, `s${i}`, false), 'otro')
+    expect(windowsLeft(w)).toBe(0)
+    expect(changesLeft(w)).toBe(MAX_CHANGES - MAX_WINDOWS)
+    expect(canChange(w)).toBe(false)
   })
 })

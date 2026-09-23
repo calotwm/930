@@ -122,11 +122,14 @@ export function LostScreen({
   overBy,
   onRestart,
   onClose,
+  canFix,
 }: {
   total: number
   overBy: number
   onRestart: () => void
   onClose: () => void
+  /** a change is still available to fix the team */
+  canFix: boolean
 }) {
   const over = overBy > 0
   return (
@@ -144,18 +147,19 @@ export function LostScreen({
         {total} <span className="text-2xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>
       <p className="mt-3 max-w-xs text-sm text-chalk-dim">
-        {over
-          ? `La mandaste a la tribuna: ${overBy} goles de más. Sacá o cambiá a alguien.`
-          : `Completaste el XI y te faltan ${TARGET - total} goles. Cambiá a alguien.`}
+        {over ? `La mandaste a la tribuna: ${overBy} goles de más.` : `Te faltan ${TARGET - total} goles.`}{' '}
+        {canFix ? (over ? 'Sacá o cambiá a alguien.' : 'Cambiá a alguien.') : 'Y no te quedan cambios: partido terminado.'}
       </p>
       <div className="mt-7 flex w-full flex-col gap-3">
-        <button
-          type="button"
-          onClick={onClose}
-          className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
-        >
-          Corregir mi equipo
-        </button>
+        {canFix && (
+          <button
+            type="button"
+            onClick={onClose}
+            className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
+          >
+            Corregir mi equipo
+          </button>
+        )}
         <button
           type="button"
           onClick={onRestart}

@@ -641,17 +641,17 @@ function main() {
     const f = path.join(saDir, `${div}.json`)
     if (!fs.existsSync(f)) continue
     const snaps = JSON.parse(fs.readFileSync(f, 'utf8'))
-    // season of a copy: calendar tournaments from 2021 (a January/February copy still shows the previous
-    // year's final table), July-June seasons before
-    const seasonOf = (ts) => {
-      const y = +ts.slice(0, 4)
-      const m = +ts.slice(4, 6)
-      return y >= 2021 ? (m <= 2 ? y - 1 : y) : m >= 7 ? y : y - 1
+    // the page keeps showing a finished tournament until the next one starts, so dates do not mark seasons:
+    // the next copy continues the same tournament when most of this copy's scorers are still listed with
+    // at least as many goals
+    const sameTournament = (a, b) => {
+      const later = new Map(b.rows.map(([n, , g]) => [norm(n), g]))
+      const top = a.rows.slice(0, 20)
+      return top.filter(([n, , g]) => (later.get(norm(n)) ?? -1) >= g).length >= top.length / 2
     }
     snaps.forEach((s, i) => {
       const next = snaps[i + 1]
-      const ends = !next || seasonOf(next.timestamp) !== seasonOf(s.timestamp) || next.rows[0][2] < s.rows[0][2]
-      if (ends) saSeasons.push({ div, label: meta.label, season: seasonOf(s.timestamp), ...s })
+      if (!next || !sameTournament(s, next)) saSeasons.push({ div, label: meta.label, ...s })
     })
   }
   const saPlayers = new Map()
@@ -664,7 +664,7 @@ function main() {
       const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, teams: [], seasons: [] }
       e.goals += goals
       e.teams.push(team)
-      e.seasons.push(`${s.label} ${s.season} (copia ${s.timestamp.slice(0, 8)}): ${goals}`)
+      e.seasons.push(`${s.label} (copia del ${s.timestamp.slice(6, 8)}/${s.timestamp.slice(4, 6)}/${s.timestamp.slice(0, 4)}): ${goals}`)
       saPlayers.set(norm(name), e)
     }
   }

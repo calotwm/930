@@ -1428,6 +1428,31 @@
   ]
  },
  {
+  "id": "humberto-bravo",
+  "name": "Humberto Bravo",
+  "shortName": "Bravo",
+  "position": "ST",
+  "goals": 140,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Humberto_Bravo"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "luis-ravaschino",
   "name": "Luis Ravaschino",
   "fullName": "Luis Alfonso Ravaschino",
@@ -2242,6 +2267,31 @@
   ]
  },
  {
+  "id": "rogelio-cuello",
+  "name": "Rogelio Cuello",
+  "shortName": "Cuello",
+  "position": "ST",
+  "goals": 122,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Rogelio_Cuello"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "jose-iglesias",
   "name": "José Iglesias",
   "fullName": "José Raúl Iglesias",
@@ -2271,6 +2321,28 @@
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 117. Años: 1976/1979/1981-1991."
   },
   "review": [
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "pablo-frers",
+  "name": "Pablo Frers",
+  "shortName": "Frers",
+  "position": "ST",
+  "goals": 121,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Racing Club",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Racing Club",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "review": [
+   "club-total-only",
    "position-unverified"
   ]
  },
@@ -2359,6 +2431,31 @@
   },
   "review": [
    "position-unverified"
+  ]
+ },
+ {
+  "id": "daniel-onega",
+  "name": "Daniel Onega",
+  "shortName": "Onega",
+  "position": "CM",
+  "goals": 118,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en River Plate",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Futbolistas del Club Atlético River Plate",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AFutbolistas_del_Club_Atl%C3%A9tico_River_Plate"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Daniel_Onega"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -2580,6 +2677,31 @@
   ]
  },
  {
+  "id": "luis-antonio-luduena",
+  "name": "Luis Antonio Ludueña",
+  "shortName": "Antonio Ludueña",
+  "position": "CM",
+  "goals": 113,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Luis_Antonio_Ludue%C3%B1a"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "vicente-zito",
   "name": "Vicente Zito",
   "fullName": "Vicente Antonio Zito",
@@ -2627,6 +2749,31 @@
   },
   "review": [
    "position-unverified"
+  ]
+ },
+ {
+  "id": "natalio-perinetti",
+  "name": "Natalio Perinetti",
+  "shortName": "Perinetti",
+  "position": "ST",
+  "goals": 112,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Racing Club",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Racing Club",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Natalio_Perinetti"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -2743,6 +2890,31 @@
   ]
  },
  {
+  "id": "pedro-ochoa",
+  "name": "Pedro Ochoa",
+  "shortName": "Ochoa",
+  "position": "ST",
+  "goals": 109,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Racing Club",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Racing Club",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Pedro_Ochoa"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "facundo-sava",
   "name": "Facundo Sava",
   "fullName": "Facundo Sava",
@@ -2777,6 +2949,33 @@
    "name": "Transfermarkt — posición",
    "url": "https://www.transfermarkt.com/facundo-sava/profil/spieler/3709"
   }
+ },
+ {
+  "id": "andres-silvera",
+  "name": "Andrés Silvera",
+  "shortName": "Silvera",
+  "position": "ST",
+  "goals": 107,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "",
+   "Independiente",
+   "San Lorenzo",
+   "Belgrano"
+  ],
+  "division": "Primera",
+  "scope": "Liga (Primera), carrera",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores de la Primera División de Argentina (tabla histórica, 100+ goles, hasta 2026)",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_de_la_Primera_Divisi%C3%B3n_de_Argentina"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Silvera"
+  },
+  "leagueGoals": 107
  },
  {
   "id": "guillermo-trama",
@@ -2863,6 +3062,31 @@
   },
   "review": [
    "position-unverified"
+  ]
+ },
+ {
+  "id": "edgardo-paruzzo",
+  "name": "Edgardo Paruzzo",
+  "shortName": "Paruzzo",
+  "position": "ST",
+  "goals": 105,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Tigre (Primera y ascenso)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Club Atlético Tigre",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Edgardo_Luis_Paruzzo"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -3124,6 +3348,33 @@
   ]
  },
  {
+  "id": "juan-marvezy",
+  "name": "Juan Marvezy",
+  "shortName": "Marvezy",
+  "position": "ST",
+  "goals": 103,
+  "leagueGoals": 103,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga (Primera), carrera",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores de la Primera División de Argentina (tabla histórica, 100+ goles, hasta 2026)",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_de_la_Primera_Divisi%C3%B3n_de_Argentina"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Juan_Andr%C3%A9s_Marvezy"
+  },
+  "review": [
+   "position-unverified"
+  ]
+ },
+ {
   "id": "juan-marvezzi",
   "name": "Juan Marvezzi",
   "fullName": "Juan Andrés Marvezzi",
@@ -3147,6 +3398,33 @@
   "review": [
    "position-unverified"
   ]
+ },
+ {
+  "id": "mariano-pavone",
+  "name": "Mariano Pavone",
+  "shortName": "Pavone",
+  "position": "ST",
+  "goals": 103,
+  "leagueGoals": 103,
+  "club": "Estudiantes de La Plata",
+  "clubs": [
+   "Estudiantes de La Plata",
+   "River Plate",
+   "Lanús",
+   "Vélez Sarsfield",
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga (Primera), carrera",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores de la Primera División de Argentina (tabla histórica, 100+ goles, hasta 2026)",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_de_la_Primera_Divisi%C3%B3n_de_Argentina"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Mariano_Pavone"
+  }
  },
  {
   "id": "ernesto-grillo",
@@ -3226,6 +3504,31 @@
   ]
  },
  {
+  "id": "juan-perinetti",
+  "name": "Juan Perinetti",
+  "shortName": "Perinetti",
+  "position": "RW",
+  "goals": 99,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Racing Club",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Racing Club",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Juan_Perinetti"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "pablo-vegetti",
   "name": "Pablo Vegetti",
   "shortName": "Vegetti",
@@ -3300,6 +3603,28 @@
   }
  },
  {
+  "id": "horacio-bustos",
+  "name": "Horacio Bustos",
+  "shortName": "Bustos",
+  "position": "ST",
+  "goals": 95,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "norberto-outes",
   "name": "Norberto Outes",
   "shortName": "Outes",
@@ -3319,6 +3644,31 @@
   "secondarySource": {
    "name": "Wikipedia — posición",
    "url": "https://es.wikipedia.org/wiki/Norberto_Outes"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
+  "id": "angel-bocanelli",
+  "name": "Ángel Bocanelli",
+  "shortName": "Bocanelli",
+  "position": "RW",
+  "goals": 93,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Bocanelli"
   },
   "review": [
    "club-total-only"
@@ -3649,6 +3999,28 @@
   }
  },
  {
+  "id": "pedro-farias",
+  "name": "Pedro Farías",
+  "shortName": "Farías",
+  "position": "ST",
+  "goals": 84,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "alfredo-graciani",
   "name": "Alfredo Graciani",
   "shortName": "Graciani",
@@ -3960,6 +4332,28 @@
   }
  },
  {
+  "id": "amable-lopez",
+  "name": "Amable López",
+  "shortName": "López",
+  "position": "ST",
+  "goals": 77,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "bernardo-romeo",
   "name": "Bernardo Romeo",
   "shortName": "Romeo",
@@ -4008,6 +4402,28 @@
   ]
  },
  {
+  "id": "antonio-gambino",
+  "name": "Antonio Gambino",
+  "shortName": "Gambino",
+  "position": "ST",
+  "goals": 76,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "dario-cvitanich",
   "name": "Darío Cvitanich",
   "shortName": "Cvitanich",
@@ -4029,6 +4445,53 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/dario-cvitanich/leistungsdaten/spieler/30758"
   }
+ },
+ {
+  "id": "mario-bevilacqua",
+  "name": "Mario Bevilacqua",
+  "shortName": "Bevilacqua",
+  "position": "ST",
+  "goals": 75,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Mario_Bevilacqua"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
+  "id": "pedro-gordillo",
+  "name": "Pedro Gordillo",
+  "shortName": "Gordillo",
+  "position": "ST",
+  "goals": 75,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "german-denis",
@@ -4343,6 +4806,53 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/josemir-lujambio/leistungsdaten/spieler/54350"
   }
+ },
+ {
+  "id": "orfilio-pinaroli",
+  "name": "Orfilio Pinaroli",
+  "shortName": "Pinaroli",
+  "position": "ST",
+  "goals": 67,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "daniel-willington",
+  "name": "Daniel Willington",
+  "shortName": "Willington",
+  "position": "ST",
+  "goals": 66,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Daniel_Willington"
+  },
+  "review": [
+   "club-total-only"
+  ]
  },
  {
   "id": "mauro-boselli",
@@ -4750,6 +5260,28 @@
   }
  },
  {
+  "id": "horacio-salvatelli",
+  "name": "Horacio Salvatelli",
+  "shortName": "Salvatelli",
+  "position": "ST",
+  "goals": 62,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "juan-roman-riquelme",
   "name": "Juan Román Riquelme",
   "shortName": "Román Riquelme",
@@ -4840,6 +5372,31 @@
   "review": [
    "club-total-only",
    "position-unverified"
+  ]
+ },
+ {
+  "id": "ernesto-pieri",
+  "name": "Ernesto Pieri",
+  "shortName": "Pieri",
+  "position": "ST",
+  "goals": 61,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Ernesto_Pieri"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -4960,6 +5517,28 @@
   ]
  },
  {
+  "id": "carlos-godoy",
+  "name": "Carlos Godoy",
+  "shortName": "Godoy",
+  "position": "ST",
+  "goals": 58,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "gaston-fernandez",
   "name": "Gastón Fernández",
   "shortName": "Fernández",
@@ -4982,6 +5561,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/gaston-fernandez/leistungsdaten/spieler/23882"
   }
+ },
+ {
+  "id": "ricardo-ceballos",
+  "name": "Ricardo Ceballos",
+  "shortName": "Ceballos",
+  "position": "ST",
+  "goals": 58,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "santiago-salcedo",
@@ -5262,6 +5863,31 @@
   "secondarySource": {
    "name": "Wikipedia — posición",
    "url": "https://es.wikipedia.org/wiki/Ra%C3%BAl_Armando_Savoy"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
+  "id": "humberto-taborda",
+  "name": "Humberto Taborda",
+  "shortName": "Taborda",
+  "position": "CM",
+  "goals": 53,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Humberto_Taborda"
   },
   "review": [
    "club-total-only"
@@ -5707,6 +6333,50 @@
   ]
  },
  {
+  "id": "pablo-farias",
+  "name": "Pablo Farías",
+  "shortName": "Farías",
+  "position": "ST",
+  "goals": 51,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "roberto-cortez",
+  "name": "Roberto Cortez",
+  "shortName": "Cortez",
+  "position": "ST",
+  "goals": 51,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "daniel-tilger",
   "name": "Daniel Tilger",
   "shortName": "Tilger",
@@ -5989,6 +6659,50 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "miguel-angel-patire",
+  "name": "Miguel Ángel Patire",
+  "shortName": "Ángel Patire",
+  "position": "ST",
+  "goals": 49,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "renato-manzzolli",
+  "name": "Renato Manzzolli",
+  "shortName": "Manzzolli",
+  "position": "ST",
+  "goals": 49,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -6331,6 +7045,31 @@
   ]
  },
  {
+  "id": "miguel-oviedo",
+  "name": "Miguel Oviedo",
+  "shortName": "Oviedo",
+  "position": "CB",
+  "goals": 46,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Miguel_Oviedo"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "santiago-garcia",
   "name": "Santiago García",
   "shortName": "García",
@@ -6425,6 +7164,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/emilio-zelaya/leistungsdaten/spieler/30832"
   }
+ },
+ {
+  "id": "fermin-flamini",
+  "name": "Fermín Flamini",
+  "shortName": "Flamini",
+  "position": "ST",
+  "goals": 45,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "javier-saviola",
@@ -6564,6 +7325,31 @@
   }
  },
  {
+  "id": "miguel-angel-luduena",
+  "name": "Miguel Ángel Ludueña",
+  "shortName": "Ángel Ludueña",
+  "position": "CM",
+  "goals": 45,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Ludue%C3%B1a"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "rolando-schiavi",
   "name": "Rolando Schiavi",
   "shortName": "Schiavi",
@@ -6585,31 +7371,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/rolando-schiavi/leistungsdaten/spieler/20002"
   }
- },
- {
-  "id": "andres-silvera",
-  "name": "Andrés Silvera",
-  "shortName": "Silvera",
-  "position": "ST",
-  "goals": 44,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Silvera"
-  },
-  "review": [
-   "club-total-only"
-  ]
  },
  {
   "id": "diego-vera",
@@ -7076,6 +7837,28 @@
   }
  },
  {
+  "id": "pedro-heredia",
+  "name": "Pedro Heredia",
+  "shortName": "Heredia",
+  "position": "ST",
+  "goals": 42,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "ramon-hector-ponce",
   "name": "Ramón Héctor Ponce",
   "shortName": "Héctor Ponce",
@@ -7213,6 +7996,28 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "francisco-armenante",
+  "name": "Francisco Armenante",
+  "shortName": "Armenante",
+  "position": "ST",
+  "goals": 41,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -8195,6 +9000,28 @@
   }
  },
  {
+  "id": "pedro-acevedo",
+  "name": "Pedro Acevedo",
+  "shortName": "Acevedo",
+  "position": "ST",
+  "goals": 38,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "roberto-nanni",
   "name": "Roberto Nanni",
   "shortName": "Nanni",
@@ -8428,6 +9255,32 @@
   }
  },
  {
+  "id": "oscar-tedini",
+  "name": "Oscar Tedini",
+  "shortName": "Tedini",
+  "position": "ST",
+  "goals": 37,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Oscar_Tedini"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "pablo-luguercio",
   "name": "Pablo Lugüercio",
   "shortName": "Lugüercio",
@@ -8473,6 +9326,31 @@
   "secondarySource": {
    "name": "Wikipedia — posición",
    "url": "https://es.wikipedia.org/wiki/Ra%C3%BAl_Mart%C3%ADnez_(futbolista_argentino)"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
+  "id": "ricardo-cherini",
+  "name": "Ricardo Cherini",
+  "shortName": "Cherini",
+  "position": "ST",
+  "goals": 37,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Ricardo_Cherini"
   },
   "review": [
    "club-total-only"
@@ -8534,6 +9412,31 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "carlos-guerini",
+  "name": "Carlos Guerini",
+  "shortName": "Guerini",
+  "position": "ST",
+  "goals": 36,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Carlos_Guerini"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -8913,6 +9816,28 @@
   ]
  },
  {
+  "id": "ramon-taborda",
+  "name": "Ramón Taborda",
+  "shortName": "Taborda",
+  "position": "ST",
+  "goals": 36,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "ruben-sune",
   "name": "Rubén Suñé",
   "shortName": "Suñé",
@@ -8935,6 +9860,28 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "alberto-de-sa",
+  "name": "Alberto De Sá",
+  "shortName": "De Sá",
+  "position": "ST",
+  "goals": 35,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -9399,6 +10346,31 @@
   }
  },
  {
+  "id": "alberto-sanchez",
+  "name": "Alberto Sánchez",
+  "shortName": "Sánchez",
+  "position": "ST",
+  "goals": 34,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Alberto_Dolores_S%C3%A1nchez"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "aldo-visconti",
   "name": "Aldo Visconti",
   "shortName": "Visconti",
@@ -9433,6 +10405,28 @@
   ]
  },
  {
+  "id": "alfredo-bazan",
+  "name": "Alfredo Bazán",
+  "shortName": "Bazán",
+  "position": "ST",
+  "goals": 34,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "david-romero-540468",
   "name": "David Romero",
   "shortName": "Romero",
@@ -9459,6 +10453,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "emilio-castro",
+  "name": "Emilio Castro",
+  "shortName": "Castro",
+  "position": "ST",
+  "goals": 34,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -9820,6 +10836,28 @@
   ]
  },
  {
+  "id": "eugenio-maldonado",
+  "name": "Eugenio Maldonado",
+  "shortName": "Maldonado",
+  "position": "ST",
+  "goals": 33,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "facundo-ferreyra",
   "name": "Facundo Ferreyra",
   "shortName": "Ferreyra",
@@ -10047,6 +11085,28 @@
   }
  },
  {
+  "id": "luis-oviedo",
+  "name": "Luis Oviedo",
+  "shortName": "Oviedo",
+  "position": "ST",
+  "goals": 33,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "marcelo-gallardo",
   "name": "Marcelo Gallardo",
   "shortName": "Gallardo",
@@ -10113,6 +11173,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mauro-rosales/leistungsdaten/spieler/22813"
   }
+ },
+ {
+  "id": "oscar-fachetti",
+  "name": "Oscar Fachetti",
+  "shortName": "Fachetti",
+  "position": "ST",
+  "goals": 33,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "aldo-osorio",
@@ -10588,6 +11670,50 @@
   }
  },
  {
+  "id": "benito-albarracin",
+  "name": "Benito Albarracín",
+  "shortName": "Albarracín",
+  "position": "ST",
+  "goals": 31,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "eduardo-sanchez",
+  "name": "Eduardo Sánchez",
+  "shortName": "Sánchez",
+  "position": "ST",
+  "goals": 31,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "fernando-coniglio",
   "name": "Fernando Coniglio",
   "shortName": "Coniglio",
@@ -11009,6 +12135,31 @@
   }
  },
  {
+  "id": "angel-hoyos",
+  "name": "Ángel Hoyos",
+  "shortName": "Hoyos",
+  "position": "CM",
+  "goals": 30,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Guillermo_Hoyos"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "antonio-medina",
   "name": "Antonio Medina",
   "shortName": "Medina",
@@ -11253,6 +12404,28 @@
   }
  },
  {
+  "id": "juan-prax",
+  "name": "Juan Prax",
+  "shortName": "Prax",
+  "position": "ST",
+  "goals": 30,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "leandro-lazzaro",
   "name": "Leandro Lazzaro",
   "shortName": "Lazzaro",
@@ -11380,6 +12553,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/paulo-ferrari/leistungsdaten/spieler/30807"
   }
+ },
+ {
+  "id": "alfredo-calderon",
+  "name": "Alfredo Calderón",
+  "shortName": "Calderón",
+  "position": "ST",
+  "goals": 29,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "carlos-auzqui",
@@ -11538,6 +12733,53 @@
   }
  },
  {
+  "id": "francisco-gallardo",
+  "name": "Francisco Gallardo",
+  "shortName": "Gallardo",
+  "position": "ST",
+  "goals": 29,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "gustavo-albella",
+  "name": "Gustavo Albella",
+  "shortName": "Albella",
+  "position": "ST",
+  "goals": 29,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Gustavo_Albella"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "ignacio-lago",
   "name": "Ignacio Lago",
   "shortName": "Lago",
@@ -11687,6 +12929,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mauro-formica/leistungsdaten/spieler/55870"
   }
+ },
+ {
+  "id": "miguel-rivarola",
+  "name": "Miguel Rivarola",
+  "shortName": "Rivarola",
+  "position": "ST",
+  "goals": 29,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "milton-celiz",
@@ -12004,6 +13268,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "hugo-salvatelli",
+  "name": "Hugo Salvatelli",
+  "shortName": "Salvatelli",
+  "position": "ST",
+  "goals": 28,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -13051,6 +14337,53 @@
   }
  },
  {
+  "id": "roberto-ortiz",
+  "name": "Roberto Ortiz",
+  "shortName": "Ortiz",
+  "position": "ST",
+  "goals": 26,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "antonio-alderete",
+  "name": "Antonio Alderete",
+  "shortName": "Alderete",
+  "position": "LW",
+  "goals": 25,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Alderete"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "ariel-pereyra",
   "name": "Ariel Pereyra",
   "shortName": "Pereyra",
@@ -13072,6 +14405,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ariel-pereyra/leistungsdaten/spieler/30729"
   }
+ },
+ {
+  "id": "celedonio-fernandez",
+  "name": "Celedonio Fernández",
+  "shortName": "Fernández",
+  "position": "ST",
+  "goals": 25,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "christian-gomez",
@@ -13296,6 +14651,53 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jorge-luna/leistungsdaten/spieler/55925"
   }
+ },
+ {
+  "id": "jorge-weschta",
+  "name": "Jorge Weschta",
+  "shortName": "Weschta",
+  "position": "ST",
+  "goals": 25,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "jose-luis-pochettino",
+  "name": "José Luis Pochettino",
+  "shortName": "Luis Pochettino",
+  "position": "ST",
+  "goals": 25,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Pochettino"
+  },
+  "review": [
+   "club-total-only"
+  ]
  },
  {
   "id": "juan-martin",
@@ -14079,6 +15481,28 @@
   }
  },
  {
+  "id": "andres-sosa",
+  "name": "Andrés Sosa",
+  "shortName": "Sosa",
+  "position": "ST",
+  "goals": 23,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "carlos-sanchez",
   "name": "Carlos Sánchez",
   "shortName": "Sánchez",
@@ -14345,6 +15769,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/diego-latorre/leistungsdaten/spieler/227278"
   }
+ },
+ {
+  "id": "eduardo-zarate",
+  "name": "Eduardo Zárate",
+  "shortName": "Zárate",
+  "position": "ST",
+  "goals": 23,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "esteban-cambiasso",
@@ -15026,6 +16472,32 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ricardo-noir/leistungsdaten/spieler/74688"
   }
+ },
+ {
+  "id": "roberto-oste",
+  "name": "Roberto Oste",
+  "shortName": "Oste",
+  "position": "ST",
+  "goals": 23,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Roberto_Oste"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "santiago-rodriguez",
@@ -15755,6 +17227,28 @@
   }
  },
  {
+  "id": "narciso-contreras",
+  "name": "Narciso Contreras",
+  "shortName": "Contreras",
+  "position": "ST",
+  "goals": 22,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "nicolas-miracco",
   "name": "Nicolás Miracco",
   "shortName": "Miracco",
@@ -15956,6 +17450,31 @@
   }
  },
  {
+  "id": "alejandro-kenig",
+  "name": "Alejandro Kenig",
+  "shortName": "Kenig",
+  "position": "ST",
+  "goals": 21,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Alejandro_Kenig"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "alexis-cuello",
   "name": "Alexis Cuello",
   "shortName": "Cuello",
@@ -16036,6 +17555,32 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/angel-gonzalez/leistungsdaten/spieler/347920"
   }
+ },
+ {
+  "id": "antonio-reynoso",
+  "name": "Antonio Reynoso",
+  "shortName": "Reynoso",
+  "position": "ST",
+  "goals": 21,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Reynoso"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "cristian-llama",
@@ -16273,6 +17818,28 @@
   }
  },
  {
+  "id": "julio-rivero",
+  "name": "Julio Rivero",
+  "shortName": "Rivero",
+  "position": "ST",
+  "goals": 21,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "leonardo-sigali",
   "name": "Leonardo Sigali",
   "shortName": "Sigali",
@@ -16354,6 +17921,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mariano-echeverria/leistungsdaten/spieler/87486"
   }
+ },
+ {
+  "id": "mario-salvatelli",
+  "name": "Mario Salvatelli",
+  "shortName": "Salvatelli",
+  "position": "ST",
+  "goals": 21,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "martin-benitez",
@@ -16557,6 +18146,28 @@
   }
  },
  {
+  "id": "raul-allende",
+  "name": "Raúl Allende",
+  "shortName": "Allende",
+  "position": "ST",
+  "goals": 21,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "santiago-solari",
   "name": "Santiago Solari",
   "shortName": "Solari",
@@ -16657,6 +18268,28 @@
   }
  },
  {
+  "id": "antonio-adasse",
+  "name": "Antonio Adasse",
+  "shortName": "Adasse",
+  "position": "ST",
+  "goals": 20,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "ariel-carreno",
   "name": "Ariel Carreño",
   "shortName": "Carreño",
@@ -16680,6 +18313,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ariel-carreno/leistungsdaten/spieler/19956"
   }
+ },
+ {
+  "id": "arturo-rodas",
+  "name": "Arturo Rodas",
+  "shortName": "Rodas",
+  "position": "ST",
+  "goals": 20,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
  },
  {
   "id": "daniel-bilos",
@@ -16786,6 +18441,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "ignacio-pereyra",
+  "name": "Ignacio Pereyra",
+  "shortName": "Pereyra",
+  "position": "ST",
+  "goals": 20,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -17590,6 +19267,28 @@
   }
  },
  {
+  "id": "angel-pereyra",
+  "name": "Ángel Pereyra",
+  "shortName": "Pereyra",
+  "position": "ST",
+  "goals": 19,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "carlos-quintana",
   "name": "Carlos Quintana",
   "shortName": "Quintana",
@@ -18283,6 +19982,28 @@
   }
  },
  {
+  "id": "ramon-salas",
+  "name": "Ramón Salas",
+  "shortName": "Salas",
+  "position": "ST",
+  "goals": 19,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "renzo-tesuri",
   "name": "Renzo Tesuri",
   "shortName": "Tesuri",
@@ -18308,6 +20029,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "roque-riquelme",
+  "name": "Roque Riquelme",
+  "shortName": "Riquelme",
+  "position": "ST",
+  "goals": 19,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -19707,6 +21450,31 @@
   }
  },
  {
+  "id": "francisco-rivadero",
+  "name": "Francisco Rivadero",
+  "shortName": "Rivadero",
+  "position": "CM",
+  "goals": 17,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Francisco_Rivadero"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "franco-fagundez",
   "name": "Franco Fagúndez",
   "shortName": "Fagúndez",
@@ -20599,6 +22367,28 @@
   }
  },
  {
+  "id": "victor-heredia",
+  "name": "Víctor Heredia",
+  "shortName": "Heredia",
+  "position": "ST",
+  "goals": 17,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "victorio-ramis",
   "name": "Victorio Ramis",
   "shortName": "Ramis",
@@ -20624,6 +22414,31 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/victorio-ramis/leistungsdaten/spieler/381065"
   }
+ },
+ {
+  "id": "adolfino-canete",
+  "name": "Adolfino Cañete",
+  "shortName": "Cañete",
+  "position": "CM",
+  "goals": 16,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Adolfino_Ca%C3%B1ete"
+  },
+  "review": [
+   "club-total-only"
+  ]
  },
  {
   "id": "alejandro-quintana",
@@ -21281,6 +23096,28 @@
   }
  },
  {
+  "id": "manuel-peralta",
+  "name": "Manuel Peralta",
+  "shortName": "Peralta",
+  "position": "ST",
+  "goals": 16,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "marcelo-eggel",
   "name": "Marcelo Eggel",
   "shortName": "Eggel",
@@ -21490,6 +23327,28 @@
   },
   "review": [
    "seasons-before-2008-not-counted"
+  ]
+ },
+ {
+  "id": "miguel-angel-frullingui",
+  "name": "Miguel Ángel Frullingui",
+  "shortName": "Ángel Frullingui",
+  "position": "ST",
+  "goals": 16,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "position-unverified"
   ]
  },
  {
@@ -66690,29 +68549,6 @@
   }
  },
  {
-  "id": "ezequiel-cannavo",
-  "name": "Ezequiel Cannavo",
-  "shortName": "Cannavo",
-  "position": "RB",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia",
-   "Racing Club",
-   "Defensa"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ezequiel-cannavo/leistungsdaten/spieler/844791"
-  }
- },
- {
   "id": "ezequiel-canete",
   "name": "Ezequiel Cañete",
   "shortName": "Cañete",
@@ -66738,6 +68574,29 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "ezequiel-cannavo",
+  "name": "Ezequiel Cannavo",
+  "shortName": "Cannavo",
+  "position": "RB",
+  "goals": 3,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia",
+   "Racing Club",
+   "Defensa"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/ezequiel-cannavo/leistungsdaten/spieler/844791"
+  }
  },
  {
   "id": "ezequiel-filippetto",

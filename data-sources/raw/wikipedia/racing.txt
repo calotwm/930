@@ -1,0 +1,980 @@
+{{Ficha de equipo de fútbol con datos de temporada
+| Nombre = Racing Club
+| Imagen principal = Escudo de Racing Club (2014).svg
+<!-- Sección de datos generales -->
+| Nombre Completo = Racing Club
+| Apodo(s) = ''La Academia''<ref name="akd">{{Cita web|url=https://www.clarin.com/deportes/grandes-historias-escondidas-apodos-clubes-argentinos_0_7-Kz-BHv_.html|título=Las grandes historias escondidas tras los apodos de los clubes argentinos|fechaacceso=2024-06-22|apellido=García|nombre=Matías|fecha=2020-04-12|sitioweb=Clarín}}</ref><br>''El Primer Grande''<ref name="pg">{{Cita web|url=https://www.laizquierdadiario.com/Racing-cumple-120-anos-el-primer-grande-del-futbol-argentino|título=Cumple 120 años el primer grande del fútbol argentino|fechaacceso=2025-09-01|apellido=Dorado|nombre=Augusto|fecha=2023-03-25|sitioweb=La Izquierda Diario}}</ref>
+| Fundación = {{fecha|25|3|1903|edad}}<ref>[http://www.rsssf.com/tablesr/racingclub.html Racing Club] en RSSSF. Consultado el 8 de octubre de 2018.</ref>
+| Propietario = 103&nbsp;422 [[socio]]s<ref>{{Cita web|url=https://www.tycsports.com/racing-club/racing-calento-previa-clasico-avellaneda-independiente-anuncio-record-socios-id688732.html|título=Racing calentó la previa del clásico con Independiente en su anuncio por el récord de socios "reales"|fechaacceso=2025-09-26|sitioweb=TyC Sports|editor=TyC}}</ref>
+| Presidente = {{Bandera|ARG}} [[Diego Milito]]
+| Entrenador = {{Bandera|ARG}} [[Juan Pablo Vojvoda]] 
+| Director deportivo = {{Bandera|ARG}} [[Sebastián Saja]]
+| colores = {{Cuadro color|#6AB5FF}} {{Cuadro color|#FFFFFF}} Celeste y blanco
+<!-- Sección de instalaciones -->
+| Estadio = [[Estadio Presidente Perón|Presidente Perón]]
+| Ubicación = Mozart y Corbatta B1870<br>[[Avellaneda (Buenos Aires)|Avellaneda]], [[Provincia de Buenos Aires|Buenos Aires]], [[Argentina]]<br>{{coord|34|39|59.77|S|58|22|6.80|W|region:AR-M_type:landmark_source:dewiki}}
+| Capacidad = 55&nbsp;000<ref>[https://www.transfermarkt.com.ar/racing-club/stadion/verein/1444 Racing Club - Estadio - Presidente Perón]</ref> espectadores
+| Inauguración = {{fecha|3|9|1950|edad}}
+| Otro complejo = Sede Avellaneda<br> [[Sede Norberto Perone]]<br> [[Predio Tita Mattiussi]]<br> Casa Tita Mattiussi<br> Polideportivo Jorge Camba<br> Colegio Racing Club<br> Predio Ezeiza
+<!-- Uniforme -->
+| pattern_la1 = _racing26h
+| pattern_b1 = _racing26h
+| pattern_ra1 = _racing26h
+| pattern_sh1 = _racing26h
+| pattern_so1 = _white_band_color
+| leftarm1 = 
+| body1 = 
+| rightarm1 = 
+| shorts1 = FFFFFF
+| socks1 = 44a3fc
+| pattern_la2 = _racing26a
+| pattern_b2 = _racing26a
+| pattern_ra2 = _racing26a
+| pattern_sh2 = _racing26a
+| pattern_so2 = _racing26a
+| leftarm2 = 
+| body2 = 
+| rightarm2 = 
+| shorts2 =
+| socks2 = 000000
+| pattern_la3 = 
+| pattern_b3 = _racing2026t
+| pattern_ra3 = 
+| pattern_sh3 = _racing2026t
+| pattern_so3 = 
+| leftarm3 = 000000
+| body3 = 
+| rightarm3 = 000000
+| shorts3 = 000000
+| socks3 = 000000
+<!-- Última temporada -->
+| Última temporada = {{Última temporada Conmebol
+| | [[Anexo:Torneo Apertura 2026 (Argentina)|1/4 final]] | 18
+| | [[Copa Argentina 2025|1/4 final]] | -
+| | |
+| | |
+| | [[Copa Sudamericana 2026|Fase de grupos]] | 1
+| | | 
+| | |
+|país=Argentina1
+|torneoconmebol=tier2
+|torneoconmebol2=tierA
+|supercopa=sí
+|recopa=no
+|torneomundial1=
+|liga=0|copa=0|copa2=|copa3=|copa4=|conmebol1=0|conmebol2=|mundial1=
+}}
+<!-- Sección de actualidad -->
+| actualidad = [[Anexo:Temporada 2026 del Racing Club|Temporada 2026]]
+<!-- Sección de sitio web oficial -->
+| Web = https://www.racingclub.com.ar/
+}}
+
+El '''Racing Club''' es una entidad polideportiva con sede en la ciudad de [[Avellaneda (Buenos Aires)|Avellaneda]], [[Argentina]]. Fue fundado como [[club de fútbol]] el 25 de marzo de 1903, constituyéndose el primero de su país creado íntegramente por [[criollo]]s.<ref>{{cita web|título=Los 119 años de Racing Club: la historia del primer grande|url=https://tn.com.ar/deportes/futbol/2022/03/25/los-119-anos-de-racing-club-la-historia-del-primer-campeon-de-los-grandes/|fechaacceso=2022-03-25|autor=[[Todo Noticias|TN]]}}</ref> Su principal actividad es el [[fútbol]] masculino profesional, el cual participa en la [[Primera División de Argentina]].
+
+Según la clasificación de la [[IFFHS|Federación Internacional de Historia y Estadística de Fútbol (IFFHS)]] de noviembre de 2025, es el {{Ord|1.|er}} [[Fútbol en Argentina|club argentino]] con mayor puntaje, el 5.º de [[Sudamérica]] y el 20.º del globo.<ref>{{cita web|url=https://www.iffhs.com/posts/4741|título=IFFHS MEN'S CLUB WORLD RANKINGS 2025|fechaacceso= 2025-11-20|sitioweb=IFFHS}}</ref> Por otra parte, el [[Anexo:Ranking de clubes de la Conmebol|''ranking'' de clubes]] 2025 de la [[Conmebol]] lo ubica en el 9.º puesto, siendo el {{Ord|3.|er}} club argentino con mayor puntaje.<ref>{{cita web|título=Así está el ránking completo de los clubes Conmebol|url=https://www.elgrafico.com.ar/articulo/la-jornada-esta-aqui/95958/asi-esta-el-ranking-completo-de-los-clubes-conmebol|fechaacceso=2025-12-15|autor=[[El Gráfico]]}}</ref>
+
+Su estadio es el [[Estadio Presidente Perón|Presidente Perón]], conocido popularmente como «el Cilindro». Inaugurado en 1950, posee una capacidad de 55&nbsp;880 espectadores y se localiza en el centro del [[Avellaneda (Buenos Aires)|Avellaneda]].<ref>{{cita web|título=El Presidente Perón, una fortaleza de ayer y hoy|url=https://www.pagina12.com.ar/289458-el-presidente-peron-una-fortaleza-de-ayer-y-hoy|autor=[[Página 12]]|fechaacceso=2020-09-03}}</ref> Los colores que identifican a la institución son el [[celeste (color)|celeste]] y el [[blanco (color)|blanco]], utilizados como homenaje por ser los [[Bandera de la Argentina|colores patrios]] de la [[Argentina|República Argentina]].<ref>{{cita web|título=Así es como Racing se vistió de bandera argentina|url=https://urgente24.com/eternals/asi-es-como-racing-se-vistio-de-bandera-argentina|autor=Diario Urgente24|fechaacceso=2023-03-15}}</ref>
+
+Estadísticamente, es el 4.º equipo argentino con mayor cantidad de [[Anexo:Competiciones oficiales del fútbol argentino|títulos]] logrados en la historia ([[Anexo:Estadísticas de la primera división del fútbol argentino#Sumatoria entre amateurismo y profesionalismo 3|41]]), el 3.º con mayor cantidad de [[Copas nacionales del fútbol argentino|copas nacionales]] (15) y también el 3.º con la mayor cantidad de [[Primera División de Argentina|campeonatos de liga]] (18).<ref name="Sin_nombre-20230526120130">{{cita web|url=https://www.racingclub.com.ar/palmares|título=Palmarés|fechaacceso=2023-01-25|autor=Racing Club - Sitio Oficial}}</ref> A nivel internacional, es el 4.º equipo argentino con mayor cantidad de [[Anexo:Clubes de fútbol ganadores de competiciones internacionales a nivel confederativo e interconfederativo|copas internacionales]] (8), habiendo conseguido dos [[Copa Aldao]], una [[Copa de Honor Cusenier]], una [[Copa Libertadores de América]], una [[Copa Intercontinental]], una [[Supercopa Sudamericana]], una [[Copa Sudamericana]] y una [[Recopa Sudamericana]].<ref name="Sin_nombre_2-20240627215746">[http://www.rsssf.com/intclub.html#sam Competiciones de Sudamérica] en RSSSF. Consultado el 21 de septiembre de 2008.</ref>
+
+En la era amateur del fútbol argentino, el club consiguió nueve campeonatos locales, siete de ellos en forma consecutiva, siendo el primer equipo del mundo reconocido como ''heptacampeón''<ref name="Sin_nombre-20240627215746">[[#Martolio|Martolio]], p.29</ref> (en [[Campeonato de Primera División 1913 (Argentina)|1913]], [[Campeonato de Primera División 1914 (Argentina)|1914]], [[Campeonato de Primera División 1915 (Argentina)|1915]], [[Campeonato de Primera División 1916 (Argentina)|1916]], [[Campeonato de Primera División 1917 (Argentina)|1917]], [[Campeonato de Primera División 1918 (Argentina)|1918]] y [[Campeonato de Primera División 1919 de la AAmF (Argentina)|1919]]);<ref name="racingclub_2">{{cita web|url=https://www.racingclub.com.ar/efemerides/nota/2015/12/5121_hazanas-academicas-el-heptacampeonato-celeste-y-blanco/|título=El heptacampeonato celeste y blanco|autor=Racing Club - Sitio Oficial|fechaacceso=2015-12-14}}</ref> sumados a otras dos ligas más en [[Campeonato de Primera División 1921 de la AAmF (Argentina)|1921]] y [[Campeonato de Primera División 1925 de la AAmF (Argentina)|1925]]. De estos nueve campeonatos, cinco fueron logrados de forma invicta.<ref name="Sin_nombre-20240627215746"/> También el club acopió en esa era nueve copas nacionales (cinco [[Copa Ibarguren|Copas Ibarguren]] y cuatro [[Copa de Honor MCBA|Copas de Honor]]), siendo el equipo más ganador de estas competiciones, y tres copas internacionales [[Campeonatos rioplatenses de fútbol|rioplatenses]].<ref>[http://www.rsssf.com/tablesa/argcuphist.html Argentina Domestic Cup History] en RSSSF. Consultado el 10 de febrero de 2023.</ref> A raíz de todos estos logros recibió el apodo popular de ''«la Academia de Football Nacional»'' que lo identifica hasta la actualidad.<ref>{{cita web|url=https://www.tycsports.com/liga-profesional-de-futbol/el-origen-de-los-apodos-del-futbol-argentino-id580808.html|título=Cuál es el origen de los apodos de los 28 equipos de la Liga Profesional|autor=TyC Sports|fechaacceso=2024-5-1}}</ref>
+
+En la era profesional, iniciada en 1931, obtuvo otros nueve campeonatos más ([[Campeonato de Primera División 1949 (Argentina)|1949]], [[Campeonato de Primera División 1950 (Argentina)|1950]], [[Campeonato de Primera División 1951 (Argentina)|1951]], [[Campeonato de Primera División 1958 (Argentina)|1958]], [[Campeonato de Primera División 1961 (Argentina)|1961]], [[Campeonato de Primera División 1966 (Argentina)|1966]], [[Torneo Apertura 2001 (Argentina)|2001]], [[Campeonato de Primera División 2014 (Argentina)|2014]] y [[Campeonato de Primera División 2018-19 (Argentina)|2019]]); otras seis copas nacionales ([[Copa Beccar Varela 1932]], [[Copa de Competencia de la Liga Argentina 1933|Copa de Competencia 1933]], [[Copa de Competencia Británica 1945|Copa Británica 1945]], [[Trofeo de Campeones de la Superliga 2018-19|Trofeo de Campeones 2019]], [[Trofeo de Campeones de la Liga Profesional 2022|Trofeo de Campeones 2022]] y [[Supercopa Internacional 2022]]); y otras cinco copas internacionales ([[Copa Libertadores 1967]], [[Copa Intercontinental 1967]], [[Supercopa Sudamericana 1988]], [[Copa Sudamericana 2024]] y [[Recopa Sudamericana 2025]]).<ref>[http://www.rsssf.com/tablesa/argchamp.html Todos los campeonatos de Argentina] en RSSSF. Consultado el 21 de septiembre de 2008.</ref>
+
+En esta era, además, fue consagrado como el primer equipo argentino en conseguir un [[Campeonato argentino de fútbol|tricampeonato local]], el primer [[Copa Intercontinental|campeón del mundo argentino]],  el primer [[Supercopa Sudamericana|campeón de campeones de América]], el campeón de la [[Copa Libertadores de América|Copa Libertadores]] más extensa de la historia de la competición, el equipo más goleador en la historia de la [[Copa Sudamericana]] (con 33 goles convertidos en una misma edición del torneo), el primer [[Trofeo de Campeones de la Superliga Argentina|campeón de campeones de Superliga]] y el primer equipo campeón de la [[Supercopa Internacional]] de campeones.<ref>[http://www.rsssf.com/tablest/toyota.html Copa Intercontinental] en RSSSF. Consultado el 21 de septiembre de 2008.</ref><ref>[http://www.rsssf.com/sacups/copalib.html Copa Libertadores] en RSSSF. Consultado el 21 de septiembre de 2008.</ref><ref>[http://www.rsssf.com/sacups/sasup.html Supercopa Sudamericana] en RSSSF. Consultado el 21 de septiembre de 2008.</ref><ref>[https://www.rsssf.org/sacups/sudamcup.html Copa Sudamericana] en RSSSF. Consultado el 26 de noviembre de 2024.</ref>
+
+Desde 1930, es considerado por la prensa especializada como uno de los «[[cinco grandes del fútbol argentino]]», junto a [[Boca Juniors]], [[Club Atlético River Plate|River Plate]], [[Club Atlético Independiente|Independiente]] y [[Club Atlético San Lorenzo de Almagro|San Lorenzo]].<ref>{{cita libro|apellidos=Fabbri|nombre=Alejandro|enlaceautor=Alejandro Fabbri|título=[[Historias Negras del Fútbol Argentino]]|año=2008|ubicación=[[Buenos Aires]]|editorial=Capital Intelectual|isbn=9789876140584}}</ref> De todos ellos, Racing fue el primero en salir campeón de liga, de una copa nacional y de una copa internacional, siendo reconocido institucionalmente por ello como ''«el Primer Grande»''. Su máximo rival deportivo es Independiente, con quién disputa el [[clásico de Avellaneda]],<ref>{{cita web|título=¿Cómo nació el apodo de los cinco grandes del fútbol argentino?|url=https://www.clarin.com/deportes/futbol/nacio-apodo-grandes-futbol-argentino_0_HJ7PFsPwb.html?gad_source=1&gclid=EAIaIQobChMI9bDXoZLehAMVYAytBh2-ZwaEEAMYASAAEgKFDvD_BwE|autor=[[Diario Clarín]]|fechaacceso=2017-08-10}}</ref> aunque los encuentros con los otros 3 grandes también se consideran 'clásicos'.
+
+== Historia ==
+{{AP|Anexo:Historia del Racing Club|l1=Historia del Racing Club}}
+
+=== 1901-1909: el primer grande ===
+[[Archivo:Racing club equipo 2da division 1903.jpg|miniatura|El primer equipo íntegramente criollo dentro del fútbol argentino (1903)]]
+El 12 de mayo de 1901, un grupo de estudiantes del [[Colegio Nacional de Buenos Aires]] fundó el «Football Club Barracas al Sud», siendo este el antiguo nombre del actual [[Partido de Avellaneda]]. Surgido como una escisión del «Argentinos Excelsior Club» de 1898, se trató del primer equipo de fútbol fundado íntegramente por jóvenes [[criollo]]s; hasta entonces, las principales instituciones de fútbol del país habían sido creadas o administradas, en forma total o parcial, por [[Inmigración británica en Argentina|inmigrantes británicos]]. 
+
+Los miembros fundadores fueron: Arturo y Zenón Artola, Germán Vidaillac, Leandro Boloque, Pedro Viazzi, Pedro Werner, Alfredo y Raimundo Lamoure, Ignacio Oyarzábal, Ricardo Martín, Ernesto Martín, Salvador Sorhondo, Julio Planisi, Francisco Balestrieri, Bernardo Etcheverry, los hermanos Evaristo y Alfredo Paz, Enrique Poujade, Elías Camels, José Güimil, Juan Sepich, José Paz, Antonio Capurro y Alejandro Carbone.<ref>{{cita web|url=https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/34673/historia-del-futbol-argentino-por-juvenal-capitulo-i-%281857--1886%29|título=Historia del fútbol argentino. Capítulo I (1857 -1886).|fechaacceso=2024-03-08|apellido=Pasquato|nombre=Julio|año=1990|sitioweb=El Gráfico}}</ref><ref>{{cita web|url=https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/34686/historia-del-futbol-argentino-por-juvenal-capitulo-ii-%281886---1900%29|título=Historia del fútbol argentino. Capítulo II (1886 - 1900).|fechaacceso=2024-03-08|apellido=Pasquato|nombre=Julio|año=1990|sitioweb=El Gráfico}}</ref><ref>{{cita web|url=https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/34711/historia-del-futbol-argentino-por-juvenal-capitulo-iii-%281900-1905%29|título=Historia del fútbol argentino. Capítulo III (1900-1905).|fechaacceso=2024-03-08|apellido=Pasquato|nombre=Julio|año=1990|sitioweb=El Gráfico}}</ref>
+
+El 16 de marzo de 1902, debido a desavenencias, un numeroso grupo de socios abandonó el club para fundar al «Club Atlético Colorados Unidos». Esta separación no duró mucho, dado que Barracas al Sud había quedado sin futbolistas y Colorados Unidos no lograba el vuelo pretendido. Poco después, los miembros de ambas instituciones limarían asperezas e impondrían el lema: ''«Unidos hasta la muerte»''.<ref>[[#Gotta|Gotta]], p.6-10</ref>
+
+Así, el 25 de marzo de 1903, se unieron ambas instituciones bajo un mismo nombre y bandera: Germán Vidaillac, un socio fundador de ascendencia francesa, mostró ante sus compañeros una revista de automovilismo del país galo, cuya portada poseía la palabra «''Racing''». La moción sería aprobada por todos los presentes.<ref>{{Cita web|url=https://urgente24.com/al-hueso/del-cilindro-y-del-potrero-como-nacio-racing|título=Del cilindro y del potrero: cómo nació Racing|fechaacceso=2025-08-31|apellido=Molkuc|nombre=Germán|fecha=2023-03-14|sitioweb=Urgente24}}</ref>
+
+Un acta redactada el 7 de febrero de 1904 oficializa la creación del «'''Racing Football Club'''» en la finca de los hermanos Lamoure. La votación nombró como primer presidente a [[Arturo Artola]]. Finalmente, el club se afilió a la actual [[Asociación del Fútbol Argentino]] en 1905.<ref>[[#Gotta|Gotta]], p.14-24</ref>
+
+=== 1910-1930: el heptacampeón argentino ===
+[[Archivo:Racing-Club-1910.jpg|miniatura|El equipo que ascendió a la Primera División (1910)]]
+[[Archivo:Racing equipo 1919.jpg|miniatura|El único equipo argentino que se consagró heptacampeón, récord histórico nacional y continental (1919)]]
+
+El 18 de diciembre de 1910, Racing ascendió a la [[Primera División de Argentina]] tras vencer 2–1 a [[Club Atlético Boca Juniors|Boca Juniors]] en la final del [[Campeonato de Segunda División 1910 (Argentina)|Campeonato de Segunda División]]. <ref>{{cita web|url=https://www.tycsports.com/racing-club/racing-esta-de-fiesta-se-cumplen-120-anos-de-su-fundacion-id501028.html|título=Racing está de fiesta: se cumplen 120 años de su fundación|fechaacceso=2023-03-26|fecha=2023-03-25|sitioweb=TyC Sports|editor=TyC}}</ref> Su debut en primera ocurrió el 7 de mayo de 1911, un empate 1–1 con San Isidro.<ref>{{Cita web|url=https://www.elprimergrande.com/noticias/el-primer-partido-de-racing-club-en-primera-division/|título=El primer partido de Racing Club en Primera División|fechaacceso=2025-09-02|apellido=Ferreira|nombre=Fernando|fecha=2025-05-07|sitioweb=El Primer Grande}}</ref> 
+
+En la máxima categoría, el club se transformó en uno de los equipos de fútbol más importantes del país. Su primer título de liga fue el [[Campeonato de Primera División 1913 (Argentina)|Campeonato de Primera División 1913]], donde venció 2–0 al avezado San Isidro en una final disputada el 28 de diciembre.<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg13.html|título=Argentina 1913|fechaacceso=2025-08-26|apellido=Gorgazzi|nombre=Osvaldo|fecha=2018-05-02|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Esta conquista marcó el inicio de una consecución de torneos, los de [[Campeonato de Primera División 1914 (Argentina)|1914]], [[Campeonato de Primera División 1915 (Argentina)|1915]], [[Campeonato de Primera División 1916 (Argentina)|1916]], [[Campeonato de Primera División 1917 (Argentina)|1917]], [[Campeonato de Primera División 1918 (Argentina)|1918]] y [[Campeonato de Primera División 1919 de la AAmF (Argentina)|1919]]; tres de ellos, ganados de forma invicta.<ref>{{Cita web|url=https://www.tycsports.com/al-angulo/el-1412-no-es-un-dia-mas-racing-tigre-el-heptacampeonato-y-el-mote-de-la-academia-20191214.html|título=El 14/12 no es un día más|fechaacceso=2023-08-20|apellido=Gullo|nombre=Federico|fecha=2019-12-14|sitioweb=TyC Sports}}</ref> De este modo, Racing consiguió el heptacampeonato, estableciendo un récord internacional en la historia del deporte.<ref>{{Cita web|url=https://www.espn.com.ar/futbol/argentina/nota/_/id/222769/campeones-del-futbol-argentino|título=El historial de campeones del fútbol argentino|fechaacceso=2025-08-31|fecha=2025-06-01|sitioweb=ESPN|editor=ESPN}}</ref> Antes de finalizar su etapa en el amateurismo y comenzar el profesionalismo en 1931, ganó también los torneos de [[Campeonato de Primera División 1921 de la AAmF (Argentina)|1921]] y [[Campeonato de Primera División 1925 de la AAmF (Argentina)|1925]], que —al igual que la edición 1919— fueron organizados por la [[Asociación Amateurs de Football]] debido a una división con el ente oficial.<ref>{{Cita web|url=https://alejandrofabbri.com.ar/site/el-sinuoso-camino-del-futbol-argentino-al-profesionalismo/|título=El sinuoso camino del fútbol argentino al profesionalismo|fechaacceso=2025-08-31|apellido=Fabbri|nombre=Alejandro|fecha=2025-06-24|sitioweb=Fabbri}}</ref>
+
+Asimismo, ganó un total de nueve copas nacionales durante este período. La [[Copa de Honor MCBA 1912]] se trató de su primera conquista en la máxima división, donde venció 3–0 a Newell's Old Boys en una final disputada el 20 de noviembre.<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg-hon12.html|título=Argentina - Copa de Honor "Municipalidad de la Ciudad de Buenos Aires" - 1912|fechaacceso=2025-08-26|apellido=Gorgazzi|nombre=Osvaldo|fecha=2019-10-31|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> De este certamen, también obtuvo las ediciones de [[Copa de Honor MCBA 1913|1913]], [[Copa de Honor MCBA 1915|1915]] y [[Copa de Honor MCBA 1917|1917]],<ref name="MCBA">{{Cita web|url=https://www.rsssf.org/tablesa/argcuphist.html#:~:text=1905%2D1936%20Copa%20de%20Honor%20Municipalidad%20de%20Buenos%20Aires|título=1905-1936 Copa de Honor Municipalidad de Buenos Aires|fechaacceso=2025-08-31|apellido=Gorgazzi|nombre=Osvaldo|fecha=2025-07-24|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> mientras que también obtuvo la [[Copa Ibarguren]] en [[Copa Ibarguren 1913|1913]], [[Copa Ibarguren 1914|1914]], [[Copa Ibarguren 1916|1916]], [[Copa Ibarguren 1917|1917]] y [[Copa Ibarguren 1918|1918]], siendo el máximo ganador de ambas.<ref name="IBA">{{Cita web|url=https://www.rsssf.org/tablesa/argibargurencuphist.html|título=Argentina - Copa Ibarguren|fechaacceso=2025-08-31|apellido=Gorgazzi|nombre=Osvaldo|fecha=2022-07-19|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Dentro del plano internacional, ganó tres [[Campeonatos rioplatenses de fútbol|copas rioplatenses]].<ref>{{Cita web|url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/6856984/el-origen-del-torneo-mas-importante-america|título=El origen de la Copa Libertadores|fechaacceso=2025-08-31|fecha=2025-04-19|sitioweb=ESPN|editor=ESPN}}</ref> Su primera consagración fue en la [[Copa de Honor Cusenier 1913]], donde derrotó 4–3 a Nacional en el resultado global.<ref>{{Cita web|url=https://www.rsssf.org/sacups/arguruhonordet.html#:~:text=M.Benincasa%2034.-,1913,-%5BNov%2016%5D|título=Copa de Honor Cousenier - Match Details|títulotrad=Copa de Honor Cusenier - Detalle|fechaacceso=2025-08-26|apellido=Ciullini|nombre=Pablo|fecha=2019-12-12|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> También consiguió dos Copa Aldao en [[Copa Aldao 1917|1917]] y [[Copa Aldao 1918|1918]].<ref>{{Cita web|url=https://www.rsssf.org/sacups/aldao.html|título=Campeonato Rioplatense - Copa Dr. Ricardo C. Aldao (1913 - 1957)|fechaacceso=2025-08-31|apellido=Gorgazzi|nombre=Osvaldo|fecha=2017-05-18|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref>
+
+Por todos esos logros, el equipo recibió el apelativo de «''la Academia del Fútbol Nacional''». Adoptado a partir de 1915, el mismo hacía referencia a la excelsa calidad de los futbolistas y a sus desempeños en cada una de sus presentaciones deportivas.<ref name="akd" />
+
+=== 1931-1983: el primer campeón mundial argentino ===
+[[Archivo:Racing vs banfield equipo.jpg|miniatura|El primer equipo argentino tricampeón profesional (1951)]]
+[[Archivo:Racing vs celtic montevideo 1967.jpg|miniatura|El primer equipo argentino que se consagró campeón mundial (1967)]]
+
+Racing debutó en el profesionalismo el 4 de junio de 1931, ganándole 5–1 a Platense.<ref>{{Cita web|url=https://cap.org.ar/2021/03/racing-club-el-primer-rival-de-la-historia/|título=Racing Club, el primer rival de la historia|fechaacceso=2025-09-02|apellido=Fabbri|nombre=Alejandro|fecha=2021-03-13|sitioweb=Club Atlético Platense}}</ref> Su primer título fue la [[Copa Beccar Varela 1932]], venciendo en un grupo triangular final a Tigre y a Boca Juniors.<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg-bec32.html|título=Argentina - Copa de Honor "Sr. Beccar Varela" - 1932|fechaacceso=2025-09-02|apellido=Gorgazzi|nombre=Osvaldo|fecha=2016-12-08|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Posteriormente, obtendría la [[Copa de Competencia de la Liga Argentina 1933]] y la [[Copa de Competencia Británica 1945]], en ambas goleando a San Lorenzo (4–0) y a Boca Juniors (4–1) en las finales respectivamente.<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg-com33.html|título=Argentina - Copa de Competencia - 1933|fechaacceso=2025-09-02|apellido=Gorgazzi|nombre=Osvaldo|fecha=2018-11-22|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref><ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg-bri45.html|título=Argentina - Torneo Competencia - II Copa Británica - 1945|fechaacceso=2025-09-02|apellido=Gorgazzi|nombre=Osvaldo|fecha=2016-11-03|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> 
+
+Pese a su sequía de ligas, el 4 de agosto de 1937, la AFA le otorgó tres votos en la toma de decisiones y la prensa especializada lo reconoció entre los «[[cinco grandes del fútbol argentino]]».<ref>{{Cita web|url=https://www.clarin.com/deportes/futbol/nacio-apodo-grandes-futbol-argentino_0_HJ7PFsPwb.html|título=¿Cómo nació el apodo de los cinco grandes del fútbol argentino?|fechaacceso=2025-09-01|apellido=Barnade|nombre=Oscar|fecha=2017-08-10|sitioweb=Clarín|idioma=es}}</ref> Desde entonces, Racing es considerado «''el Primer Grande''» por haber sido pionero en conquistar campeonatos, copas nacionales e internacionales.<ref name="pg" />
+
+Con el [[Campeonato de Primera División 1949 (Argentina)|Campeonato 1949]], Racing rompió una sequía de 24 años y, al conquistar también los títulos de [[Campeonato de Primera División 1950 (Argentina)|1950]] y [[Campeonato de Primera División 1951 (Argentina)|1951]], se convirtió en el primer tricampeón del fútbol profesional argentino.<ref name="tri">{{Cita web|url=https://www.elgrafico.com.ar/articulo/1088/31160/1949-50-51-el-primer-tricampeon-fue-la-academia|título=El primer tricampeón fue la Academia|fechaacceso=2025-09-02|fecha=2023-12-05|sitioweb=El Gráfico|editor=EG}}</ref> Particularmente, el último se dirimió en un [[Anexo:Desempate por el primer puesto del Campeonato de Primera División 1951 (Argentina)|desempate]] contra Banfield, que fue altamente polarizado por la política nacional.<ref>{{Cita web|url=https://www.infobae.com/deportes/2021/01/17/la-historia-de-la-otra-gran-final-que-jugo-banfield-uno-de-los-partidos-mas-politizados-de-la-historia-en-el-que-se-consagro-campeon-moral/|título=La otra gran final que jugó Banfield|fechaacceso=2025-09-02|apellido=Levinsky|nombre=Sergio|fecha=2021-01-17|sitioweb=Infobae}}</ref> De cualquier modo, aquel equipo dirigido por [[Guillermo Stábile]] destacó por su resiliencia frente a la adversidad.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1090/33553/1949-%C2%A1racing-campeon!|título=¡Racing campeón!|fechaacceso=2025-09-02|fecha=2019-04-01|sitioweb=El Gráfico|editor=EG}}</ref>
+
+Años después, consiguió los torneos de [[Campeonato de Primera División 1958 (Argentina)|1958]] y [[Campeonato de Primera División 1961 (Argentina)|1961]], bajo los períodos de [[José Della Torre]] y [[Saúl Ongaro]] respectivamente. En ambos, el equipo tuvo una fórmula que combinó una defensa sólida y un ataque versátil y contundente.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/34914/historia-del-futbol-argentino-por-juvenal-capitulo-xii-(1957-1960)|título=Historia del fútbol argentino. Capítulo XII (1957-1960)|fechaacceso=2024-12-18|apellido=Pasquato|nombre=Julio|fecha=1990|sitioweb=El Gráfico}}</ref> Concretamente, Racing se abstuvo de promover el «fútbol espectáculo» y prefirió apostar por jugadores autóctonos (a excepción de dos uruguayos), siendo el principal promotor de los futbolistas de la [[selección de fútbol de Argentina]] por aquellos años.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/34939/historia-del-futbol-argentino-por-juvenal-capitulo-xiii-(1961-1965)|título=Historia del fútbol argentino. Capítulo XIII (1961-1965)|fechaacceso=2024-12-18|apellido=Pasquato|nombre=Julio|fecha=1990|sitioweb=El Gráfico}}</ref>
+
+En 1965, tras una mala campaña, se contrata como entrenador al ídolo [[Juan José Pizzuti]]. Artífice del denominado «[[Equipo de José]]», quien ganó el [[Campeonato de Primera División 1966 (Argentina)|Campeonato 1966]] con sólo una derrota en 38 partidos, habiendo establecido con anterioridad un invicto de 39 partidos.<ref>{{Cita web|url=https://www.clarin.com/deportes/-equipo-jose-creacion-pizzuti-marco-cambio-historia-racing_0_mjQXg_sf.html|título="El equipo de José", la creación de Pizzuti que marcó una era y cambió la historia de Racing|fechaacceso=2025-09-02|apellido=Vinker|nombre=Luis|fecha=2020-01-24|sitioweb=Clarín}}</ref> Pizzuti apostó por el desarrollo de los juveniles, y por un juego combativo y dinámico de asociación.<ref>{{Cita web|url=https://www.clarin.com/deportes/gracias-juan-jose-pizzuti-futboleros-sentimos-campeones-equipo-jose-_0_R9PWSZ8g.html|título=Gracias a Juan José Pizzuti, todos los futboleros nos sentimos campeones con "el equipo de José"|fechaacceso=2025-09-02|apellido=Pagani|nombre=Horacio|fecha=2020-01-25|sitioweb=Clarín}}</ref> 
+
+Al año siguiente, el 29 de agosto, Racing ganó la [[Copa Libertadores 1967|Copa Libertadores]] más extensa de la historia, tras disputar 20 partidos y superar 2–1 a Nacional de Uruguay en una serie con ida, vuelta y un desempate en Santiago de Chile por la final.<ref>{{cita web|url=http://www.rsssf.com/sacups/copa67.html|título=Copa Libertadores 1967|fechaacceso=2008-08-17|apellido=Pierrend|nombre=José|año=1999|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Meses después, enfrentó al Celtic de Escocia en la [[Copa Intercontinental 1967]]: cayó 1–0 en Glasgow, ganó 2–1 en Avellaneda y se impuso 1–0 en el [[Batalla de Montevideo|desempate]] del 4 de noviembre en Montevideo con gol de [[Juan Carlos Cárdenas]].<ref name="wc">{{Cita web|url=https://www.elgrafico.com.ar/articulo/hemeroteca/36021/racing-de-avellaneda-al-mundo|título=¡Campeón!|fechaacceso=2025-03-29|apellido=Pasquato|nombre=Julio|fecha=1967-11-06|sitioweb=El Gráfico|página=10}}</ref> Así, Racing se convirtió en el primer club argentino en consagrarse campeón mundial.<ref name="FIFA">{{Cita web|url=https://www.espn.com.ar/futbol/nota/_/id/3656990/fifa-reconoce-intercontinentales-como-mundiales|título=FIFA reconoce Intercontinentales como Mundiales|fechaacceso=2023-05-20|fecha=2017-10-27|sitioweb=ESPN|editor=[[DyN]]}}</ref>
+
+=== 1984-2013: el descenso y los años de inestabilidad ===
+[[Archivo:Racing vs atlanta 1985.jpg|miniatura|En 1985, Racing logra el ascenso para nunca más dejar la Primera División]]
+[[Archivo:Racing1988.jpg|miniatura|El primer equipo campeón de campeones de América (1988)]]
+Luego de numerosas campañas inestables, dificultades institucionales y con la restauración del [[Anexo:Movilidad interdivisional en el fútbol argentino|sistema de promedios]] en la AFA, Racing sufrió su único descenso a la [[segunda categoría del fútbol argentino]] el 18 de diciembre de 1983, tras la derrota 4–3 contra su [[Club Atlético Racing|homónimo]] de Córdoba.<ref>{{Cita web|url=https://abrilacancha.com.ar/2021/06/13/1983-el-ano-del-durisimo-descenso-de-racing/|título=El año del durísimo descenso de Racing|fechaacceso=2025-09-03|apellido=Aira|nombre=Carlos|fecha=2021-06-13|sitioweb=Abri La Cancha}}</ref>
+
+Disputó dos temporadas de la Primera División B. En la segunda, durante la final del torneo octogonal por el segundo ascenso, Racing venció 5–1 a [[Club Atlético Atlanta|Atlanta]] en el global; y de la mano de [[Alfio Basile]], regresó a Primera División el 27 de diciembre de 1985.<ref>{{Cita web|url=https://www.infobae.com/deportes/2020/12/27/a-35-anos-del-ascenso-de-racing-la-noche-que-la-academia-recupero-la-memoria/|título=A 35 años del ascenso de Racing|fechaacceso=2025-09-03|apellido=Bolaños|nombre=Eduardo|fecha=2020-12-27|sitioweb=Infobae}}</ref> Sin embargo, por un cambio de los calendarios en AFA, el equipo debió esperar seis meses para volver a jugar partidos oficiales, período durante el cual para generar ingresos el plantel fue alquilado a [[Club Atlético Argentino (Mendoza)|Atlético Argentino]] de la [[Liga Mendocina de Fútbol]] y el [[Estadio Presidente Perón]] fue utilizado como depósito.<ref>{{Cita web|url=https://www.infobae.com/deportes/2020/07/04/la-insolita-historia-que-vivio-racing-tras-ascender-a-primera-por-que-le-presto-el-plantel-completo-a-argentino-de-mendoza/|título=La insólita historia que vivió Racing tras ascender a primera|fechaacceso=2025-09-03|apellido=Bolaños|nombre=Eduardo|fecha=2020-07-04|sitioweb=Infobae}}</ref>
+
+Con la obtención de la [[Supercopa Sudamericana 1988]], la primera edición del certamen, Racing volvió a la élite internacional.<ref>{{Cita web|url=https://www.rsssf.org/sacups/supcopa88.html|título=Supercopa Libertadores 1988|fechaacceso=2025-09-03|apellido=Ciullini|nombre=Pablo|fecha=2019-01-17|sitioweb=Rec.Sport.Soccer Statistics Foundation|nombre2=Fernando|apellido2=Semproni|nombre3=Guillermo|apellido3=Rivera}}</ref> Enfrentó a Cruzeiro de Brasil en la final y lo venció 3–2 en global, siendo la primera vez que un club argentino dio la vuelta olímpica en territorio brasileño (Belo Horizonte).<ref>{{Cita web|url=https://www.c5n.com/deportes/los-6-clubes-argentinos-que-salieron-campeon-brasil-solo-uno-pudo-el-maracana-n156116|título=Los 6 clubes argentinos que salieron campeón en Brasil|fechaacceso=2025-09-03|fecha=2024-04-30|sitioweb=C5N|editor=C5N}}</ref>
+
+Años después, durante las controvertidas presidencias de Juan De Stéfano (1987-1995) y Osvaldo Otero (1995-1998), la institución enfrentó una crisis económica sin precedentes debido a gastos excesivos y desvíos de fondos.<ref>{{Cita web|url=https://www.pagina12.com.ar/1998/98-07/98-07-20/bue05.htm|título=Racing puede desaparecer|fechaacceso=2025-09-03|apellido=De Benedectis|nombre=Adrián|fecha=1998-07-20|sitioweb=Página/12}}</ref> Esto derivó a que, el 10 de julio de 1998, el presidente [[Daniel Lalín]] solicitase la quiebra al no poder hacer frente a las abrumadoras deudas.<ref>{{Cita web|url=https://www.pagina12.com.ar/1999/99-03/99-03-05/pag21.htm|título=No hay Racing que dure cien años|fechaacceso=2025-09-03|apellido=Greco|nombre=Ariel|fecha=1999-03-05|sitioweb=Página/12}}</ref> El 4 de marzo de 1999, el club fue clausurado, mientras que la síndico Liliana Ripoll pronunció la frase: «Ha dejado de existir Racing Club Asociación Civil».<ref>{{Cita web|url=https://www.clarin.com/deportes/futbol/racing-club/20-anos-racing-quebrado-final-dejo-existir_0_VQrGmQOee.html|título=A 20 años de un Racing quebrado que al final nunca dejó de existir|fechaacceso=2023-08-20|apellido=Avellaneda|nombre=Daniel|fecha=2019-03-04|sitioweb=Clarín}}</ref>
+
+Los hinchas, indignados, presionaron al [[Poder Judicial de la Nación (Argentina)|Poder Judicial de la Nación]] para evitar la quiebra, la liquidación de los bienes y el remate de la Sede Capital.<ref>{{Cita web|url=https://razonyrevolucion.org/el-racingazo-el-espejo-de-una-coyuntura-de-la-lucha-de-clases/|título=El Racingazo. El espejo de una coyuntura de la lucha de clases|fechaacceso=2023-08-20|apellido=Cominiello|nombre=Sebastián|fecha=2004-12-01|sitioweb=Razón y Revolución}}</ref> El 7 de marzo de 1999 se autoconvocaron en el Cilindro para exigir que Racing volviese a jugar, dado que se encontraba inhabilitado por la AFA.<ref>{{Cita web|url=https://www.tycsports.com/al-angulo/7-de-marzo-el-dia-del-hincha-de-racing-tras-la-pagina-mas-negra-de-la-historia-del-club-id238634.html|título=7 de marzo, el día del hincha de Racing tras la página más negra de la historia del club|fechaacceso=2023-08-20|apellido=Gullo|nombre=Federico|fecha=2021-03-07|sitioweb=TyC Sports}}</ref> Estas manifestaciones lograron la aprobación de la «Ley de Fideicomiso» el 25 de julio de 2000,<ref>{{Cita web|url=https://www.clarin.com/deportes/ley-racing-podria-salvar-independiente-millonaria-deuda-gonzalo-veron_0_hQJKtUwrQ0.html|título=Por qué la "Ley Racing" podría salvar a Independiente|fechaacceso=2023-08-20|apellido=González|nombre=Luciano|fecha=2023-03-31|sitioweb=Clarín}}</ref> llevando a que, el 29 de diciembre de ese mismo año, el club comenzase a ser gestionado por la empresa [[Blanquiceleste]].<ref>{{Cita web|url=https://www.pagina12.com.ar/2000/00-12/00-12-30/pag25.htm|título=Racing ya está gerenciado|fechaacceso=2025-09-03|fecha=2000-12-30|sitioweb=Página/12|editor=P12}}</ref>
+
+Bajo la dirección de [[Reinaldo Merlo]], Racing ganó el [[Anexo:Torneo Apertura 2001 (Argentina)|Apertura 2001]] y cortó con una sequía de 35 años sin campeonatos.<ref>{{Cita web|url=https://www.infobae.com/deportes/2021/12/27/a-dos-decadas-del-titulo-de-racing-que-termino-con-la-sequia-de-los-35-anos-una-cuestion-de-estado/|título=A dos décadas del título de Racing que terminó con la sequía de los 35 años|fechaacceso=2025-09-03|apellido=Taveira|nombre=Fernando|fecha=2021-12-27|sitioweb=Infobae}}</ref> Pese a esto, después de campañas inestables, en el [[Anexo:Torneo Clausura 2008 (Argentina)|Clausura 2008]] se salvó del descenso tras vencer 2–1 a Belgrano en el global de la promoción.<ref>{{Cita web|url=https://www.clarin.com/ultimo-momento/racing-salvo-descenso_0_SJAe0h2RaYl.html|título=Racing se salvó del descenso|fechaacceso=2025-09-03|fecha=2008-06-29|sitioweb=Clarín|editor=Clarín}}</ref> Asimismo, tras intensas protestas contra el gerenciamiento debido a numerosas deudas y problemas financieros, se logró poner fin a esta gestión y restaurar las elecciones democráticas en el club en diciembre de 2008.<ref>{{Cita web|url=http://edant.ole.com.ar/notas/2008/07/07/futbollocal/01710387.html|título=No existe más|fechaacceso=2008-07-07|fecha=2008-07-08|sitioweb=Diario Olé|editor=Olé|urlarchivo=https://web.archive.org/web/20160326050709/http://edant.ole.com.ar/notas/2008/07/07/futbollocal/01710387.html|fechaarchivo=2016-03-28}}</ref>
+
+=== 2014-2026: la refundación y estabilización ===
+
+En [[Campeonato de Primera División 2014 (Argentina)|2014]], Racing volvió a salir campeón bajo el mando de [[Diego Cocca]].<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg2015.html|título=Argentina 2014|fechaacceso=2025-09-03|apellido=Gorgazzi|nombre=Osvaldo|fecha=2021-02-11|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Tras campañas desfavorables, el equipo volvió a revitalizarse con el retorno de [[Diego Milito]] y la implementación de la filosofía del «Racing Positivo», misma que le permitió retornar a competir seriamente en torneos nacionales e internacionales.<ref>{{Cita web|url=https://www.lanacion.com.ar/deportes/futbol/como-surgio-el-racingpositivo-el-sueno-de-la-academia-y-el-optimismo-de-cocca-nid1978702/|título=Cómo surgió el #RacingPositivo|fechaacceso=2024-06-22|apellido=Zuberman|nombre=Nicolás|fecha=2017-01-25|sitioweb=La Nación (Buenos Aires)}}</ref> Años después, con la conducción de [[Eduardo Coudet]] y sobre la misma premisa, con el liderazgo de [[Lisandro López]], el club ganó la [[Campeonato de Primera División 2018-19 (Argentina)|Superliga 2018-19]] y el [[Trofeo de Campeones de la Superliga 2018-19]].<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg2019.html|título=Argentina 2018/19|fechaacceso=2025-09-03|apellido=Gorgazzi|nombre=Osvaldo|fecha=2021-03-18|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref>
+
+Pese a ganar el [[Trofeo de Campeones de la Liga Profesional 2022|Trofeo de Campeones 2022]] y la [[Supercopa Internacional 2022]] bajo la dirección de [[Fernando Gago]], en ambas venciendo 2–1 a Boca Juniors,<ref>{{Cita web|url=https://www.rsssf.org/tablesa/arg2022.html|título=Argentina 2021/22|fechaacceso=2025-09-03|apellido=Gorgazzi|nombre=Osvaldo|fecha=2023-04-20|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> vendrían años de mayor exigencia.<ref>{{Cita web|url=https://www.tycsports.com/racing-club/por-que-la-gente-de-racing-se-volvio-tan-exigente-intolerante-cambio-de-paradigma-id539499.html|título=Por qué la gente de Racing se volvió tan intolerante|fechaacceso=2024-06-22|apellido=Marrón|nombre=Juan|fecha=2023-10-05|sitioweb=TyC Sports}}</ref> [[Gustavo Costas]], ídolo del club, regresó a Racing como entrenador y capitalizó el deseo de volver a la gloria con la promesa de «lograr un título internacional luego de 36 años».<ref>{{Cita web|url=https://www.pagina12.com.ar/696477-gustavo-costas-en-racing-lograr-algo-internacional-es-lo-que|título=Gustavo Costas en Racing|fechaacceso=2025-04-02|fecha=2023-12-18|sitioweb=Página/12|editor=P12}}</ref> Esto se concretó con la obtención de la [[Copa Sudamericana 2024]], donde venció 3–1 a Cruzeiro en una final disputada en Asunción.<ref>{{Cita web|url=https://www.rsssf.org/sacups/sudamcup2024.html|título=Copa Sudamericana 2024|fechaacceso=2025-09-03|apellido=Gorgazzi|nombre=Osvaldo|fecha=2025-01-29|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Poco tiempo después, obtuvo la [[Recopa Sudamericana 2025]] tras vencer 4–0 a Botafogo, último campeón de la Libertadores, en el resultado global.<ref>{{Cita web|url=https://www.rsssf.org/sacups/recopa2024.html|título=Recopa 2024|fechaacceso=2025-09-03|apellido=Di Maggio|nombre=Roberto|fecha=2025-03-10|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> Su fórmula estuvo en fomentar la unión, definiendo constantemente al plantel como un «grupo de guerreros».<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1122/86358/gustavo-costas-y-sus-soldados-vamos-a-tener-que-ir-a-una-guerra-a-brasil|título=Gustavo Costas y sus soldados|fechaacceso=2025-09-03|fecha=2025-02-20|sitioweb=El Gráfico|editor=EG}}</ref>
+
+== Simbología ==
+=== Escudo ===
+Si bien desde 1903 el club cuenta con diversas simbologías para identificarse, fue a partir del año 1928 que se comienza a difundir el [[Escudo (heráldica)|escudo]] oficial de la institución, que continúa prácticamente inalterable hasta nuestros días. El mismo posee un diseño en forma de escudo francés moderno, con siete franjas verticales intercaladas entre sí (cuatro celestes y tres blancas), y la palabra «''Racing''» en letras mayúsculas (en fuente «Clan») situada en la parte superior del emblema.<ref>{{cita web|url=https://www.racingclub.com.ar/escudo|título=Escudo|fechaacceso=2013-12-10|fecha=2012-08-02|sitioweb=Racing Club|editor=Racing}}</ref>
+
+<center>
+[[Archivo:EscudosRacing.png|thumb|center|450px|Evolución del escudo de Racing desde 1903 hasta 2014, con el diseño actualmente utilizado.]]
+</center>
+
+=== Himno ===
+La ''Marcha del Racing Club'' es el [[himno]] oficial de la institución, compuesto en 1951 por el músico italoargentino [[Antonio Rodio]] y el letrista Daniel Piscicelli.<ref>{{Cita web|url=https://45football.com/#:~:text=Next-,Racing%20Club,-Marcha%20del%20Racing|título=Racing Club|fechaacceso=2025-02-14|año=2016|sitioweb=45football.com}}</ref> En 2017, el mismo fue renovado junto a la ''Orquesta Municipal de Tango de Avellaneda'' para conmemorar el 50.° aniversario de la obtención de la [[Copa Intercontinental 1967]].<ref>{{cita web|url=https://twitter.com/RacingClub/status/927622586300813317|título=#Racing ¡Escuchá la nueva versión del himno del club!|fechaacceso=2024-03-13|autor=@RacingClub|fecha=2017-11-06|sitioweb=X (formerly Twitter)}}</ref>
+
+{{Caja de cita|align=center|
+;'''''Marcha del Racing Club'''''
+
+:Se eleva majestuosa la bandera,<br>
+:viva la patria, saludo al pabellón<br>
+:y viva Racing que escribes en tu historia<br>
+:por tantas veces el nombre de campeón.
+
+:Reverdecen los laureles de tus glorias<br>
+:paladín del deporte popular<br>
+:que no en vano te llaman Academia,<br>
+:Academia del Fútbol Nacional.
+
+;''(Coro)''
+:Racing, Racing, Racing,<br>
+:cantemos todos con gran fervor<br>
+:mientras blanca y celeste once divisas<br>
+:hacen del fútbol destreza y valor.
+
+:Racing, Racing, Racing,<br>
+:todos te aclaman con emoción<br>
+:y es la América grandiosa que te admira<br>
+:por tu gloriosa tradición.|[[Antonio Rodio]] y Daniel Piscicelli (1951).
+|}}
+
+== Indumentaria ==
+[[Archivo:PerfumoRacing.jpg|200px|thumb|right|[[Roberto Perfumo]] con el uniforme tradicional de franjas verticales albicelestes (1968)]]
+{{AP|Historia del uniforme del Racing Club}}
+
+Inicialmente, se utilizó una indumentaria blanca para abaratar costos.<ref>{{Cita web|url=https://enunabaldosa.com/2016/05/11/racing-de-blanco-1978/|título=Racing de blanco|fechaacceso=2025-09-05|apellido=Castro|nombre=Juan|fecha=2016-05-11|sitioweb=En Una Baldosa|idioma=es}}</ref> El 23 de julio de 1904, una asamblea aprobó una camiseta con bastones aurinegros, similar a la del [[Central Uruguay Railway Cricket Club|CURCC]] de Uruguay.<ref>{{Cita web|url=https://enunabaldosa.com/2009/07/06/racing-amarillo-y-negro-1973/|título=Racing amarillo y negro|fechaacceso=2025-09-05|apellido=Turdera|nombre=Nano de|fecha=2009-07-07|sitioweb=En Una Baldosa|idioma=es}}</ref> Sin embargo, el diseño fue reemplazado a tan solo una semana del debut, adoptándose la propuesta de Alejandro Carbone: un modelo celeste y salmón a cuadros.<ref>{{Cita web|url=https://www.canaltrans.com/deportes/futbol1/historias/067.html|título=El Color de mi Sangre|fechaacceso=2025-09-05|apellido=Ivan|nombre=Pablo|fecha=2009-05-18|sitioweb=canalTrans}}</ref> En 1908, el club pasó a vestir una indumentaria azul con una franja blanca en el pecho, que se mantuvo hasta 1910.<ref>{{Cita web|url=https://www.clarin.com/deportes/mundial-2018/camiseta-seleccion-celeste-blanca_0_SkHZgWDbm.html|título=¿Por qué la camiseta de la Selección es celeste y blanca?|fechaacceso=2025-09-05|apellido=Barnade|nombre=Oscar|fecha=2018-06-20|sitioweb=Clarín|idioma=es}}</ref> Ese mismo año, en una asamblea impulsada por Pedro Werner, se resolvió adoptar los colores de la [[Bandera de la Argentina|bandera nacional]] en homenaje al [[centenario argentino]], decisión que llevó a que el 8 de junio de 1913 se utilizara definitivamente el celeste y blanco como uniforme titular, en uso ininterrumpido desde entonces.<ref>{{Cita web|url=http://arogeraldes.blogspot.com/2024/01/historia-en-celeste-y-blanco.html|título=Historia en celeste y blanco|fechaacceso=2025-09-05|apellido=Geraldes|nombre=Aro|fecha=024-11-17|sitioweb=Periodismo de fútbol mundial}}</ref><center>
+
+{| style="width:38%;text-align:center;"
+ |- align=left bgcolor="#ffffff"
+ |
+{{Football kit
+ |pattern_la = _whiteborder
+ |pattern_b  = _River 1901
+ |pattern_ra = _whiteborder
+ |pattern_sh = _blanco
+ |pattern_so = _socks
+ |leftarm    = FFFFFF
+ |body       = FFFFFF
+ |rightarm   = FFFFFF
+ |shorts     = FFFFFF
+ |socks      = FFFFFF
+ |título     = Primero
+ }}
+|
+{{football kit
+ |pattern_la = 
+ |pattern_b  = _unknown
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _socks
+ |leftarm    = a6deff
+ |body       = a6deff
+ |rightarm   = a6deff
+ |shorts     = a6deff
+ |socks      = a6deff
+ |título     = {{nowrap|[[Historia del uniforme del Racing Club#Cronología|(Ver evolución)]]}}
+ }}
+ |
+{{Football kit
+ |pattern_la = _racing26h
+ |pattern_b  = _racing26h
+ |pattern_ra = _racing26h
+ |pattern_sh = _racing26h
+ |pattern_so = _white_band_color
+ |leftarm    =
+ |body       =
+ |rightarm   =
+ |shorts     =
+ |socks      = 44a3fc
+ |título     = Actual
+ }}
+|}
+</center>
+
+== Infraestructura ==
+=== Estadio ===
+{{AP|Estadio Presidente Perón}}
+{{VT|Estadio de Alsina y Colón}}
+En 1906, se inició la construcción del primer estadio en la intersección de las calles Alsina y Colón, en Avellaneda.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1088/35031/racing-100x100-%281903-2003%29|título=Racing 100x100 (1903-2003)|fechaacceso=2019-12-11|apellido=Levy|nombre=Ignacio|año=2003|sitioweb=El Gráfico|idioma=es}}</ref> Previamente, el club había jugado en baldíos pertenecientes al [[Ferrocarril del Sud]]: uno situado en ese mismo emplazamiento y otro en O'Gorman y Roca.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1088/33351/vida-y-milagros-de-racing-el-digno-reemplazante-de-alumni|título=Vida y milagros de Racing, el digno reemplazante de Alumni|fechaacceso=2020-03-25|año=1925|sitioweb=El Gráfico|editor=EG}}</ref> Con el paso del tiempo, dicho recinto fue ampliado y reformado, hasta alcanzar una capacidad cercana a los 50&nbsp;000 espectadores.<ref>{{Cita web|url=http://viejosestadios.blogspot.com/p/racing.html|título=Racing|fechaacceso=2025-09-06|apellido=Marzoratti|nombre=Luis|fecha=2025-05-18|sitioweb=Viejos Estadios}}</ref>
+
+El 16 de agosto de 1946, el [[Poder Ejecutivo Nacional (Argentina)|Poder Ejecutivo Nacional]] aprobó un decreto que le otorgó al club un crédito destinado a la remodelación del estadio.<ref>{{Cita web|url=https://www.infobae.com/deportes/2020/09/03/brujerias-records-y-gloria-mitos-y-verdades-del-cilindro-de-avellaneda-a-70-anos-de-su-inauguracion/|título=Mitos y verdades del Cilindro de Avellaneda a 70 años de su inauguración|fechaacceso=2025-09-06|apellido=Taveira|nombre=Fernando|fecha=2020-09-03|sitioweb=Infobae}}</ref> Alsina y Colón albergó su último partido el 1 de diciembre y, posteriormente, comenzó a ser desmantelado.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1088/34852/historia-del-futbol-argentino-por-juvenal-capitulo-x-%281946%E2%80%931950%29|título=Historia del fútbol argentino. Capítulo X (1946–1950)|fechaacceso=2019-11-12|apellido=Pasquato|nombre=Julio|sitioweb=El Gráfico}}</ref> Años más tarde, el 3 de septiembre de 1950, se inauguró su actual estadio «Presidente Perón», nombrado en honor al entonces presidente de la Nación, [[Juan Domingo Perón]].<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1098/35899/%C2%A1feliz-cumpleanios-cilindro!|título=El estadio y nada más|fechaacceso=2024-05-29|apellido=Frascara|nombre=Félix|fecha=1950-09-04|sitioweb=El Gráfico}}</ref> Sin embargo, popularmente se lo comenzó a conocer como «el Cilindro» dada su estructura perfectamente circular.<ref>{{Cita web|url=https://www.clarin.com/deportes/grandes-historias-escondidas-nombres-estadios_0_A3kgtujV.html?srsltid=AfmBOoo99NXdkYrIH1XAi-mBvR5USGImoVvoIsx0uKrH_does4zO0ll5|título=Las grandes historias escondidas tras los nombres de los estadios|fechaacceso=2025-03-20|apellido=García|nombre=Matías|fecha=2020-03-04|sitioweb=Clarín (periódico)}}</ref>
+
+Las dimensiones del campo de juego son de 105 × 68 metros.<ref>{{Cita web|url=https://www.tycsports.com/racing-club/racing-agrando-el-cesped-del-cilindro-para-cumplir-con-las-exigencias-de-conmebol--id630165.html|título=Racing agrandó el Cilindro|fechaacceso=2025-09-06|fecha=2025-01-23|sitioweb=TyC Sports|editor=TyC}}</ref> En un principio, llegó a albergar hasta 120&nbsp;000 personas, pero sus distintas remodelaciones redujeron dicha capacidad.<ref>{{Cita web|url=https://www.diarioconvos.com/2021/09/11/tribuna-caliente-el-partido-con-mas-espectadores-del-futbol-argentino/|título=El partido con más espectadores del fútbol argentino|fechaacceso=2023-08-20|apellido=Yañez|nombre=Federico|fecha=2021-09-11|sitioweb=Diario Con Vos}}</ref> Hoy en día se tiene un aforo para 55&nbsp;880 espectadores, pudiendo llegar a un total de 67&nbsp;389.<ref>{{Cita web|url=https://www.racingclub.com.ar/estadio/|título=Estadio Presidente Perón|fechaacceso=2025-09-06|fecha=2008-02-23|sitioweb=Racing Club|editor=Racing}}</ref> Tiene la particularidad de localizarse a tan solo tres cuadras del [[Estadio Libertadores de América-Ricardo Enrique Bochini|estadio de Independiente]], su clásico rival.<ref>{{Cita web|url=https://www.infobae.com/deportes-2/2018/07/25/como-el-clasico-de-avellaneda-pero-en-el-mundo-14-estadios-vecinos-divididos-por-escasos-metros/|título=Como el clásico de Avellaneda, pero en el mundo|fechaacceso=2022-10-21|fecha=2018-07-25|sitioweb=Infobae|editor=Infobae}}</ref>
+
+[[Archivo:Panoramica Cilindro.jpg|miniatura|centrado|1000px|Vista panorámica del Cilindro (2013)]]
+
+=== Otras instalaciones ===
+{{AP|Anexo:Instalaciones del Racing Club}}
+* '''Sede Avellaneda''': es la principal sede social de la institución.<ref>{{cita web|url=http://www.racingclub.com.ar/sede-avellaneda|título=Sede Avellaneda|fechaacceso=2024-03-08|fecha=2016-12-12|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''[[Sede Norberto Perone]]''': anexo comercial, social y deportivo dentro del barrio de [[Villa del Parque (Buenos Aires)|Villa del Parque]] en la Ciudad de Buenos Aires.<ref>{{cita web|url=http://www.racingclub.com.ar/sede-capital|título=Sede Capital|fechaacceso=2024-03-08|fecha=2015-05-18|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''[[Predio Tita Mattiussi]]''': centro de entrenamiento para los futbolistas juveniles.<ref>{{cita web|url=http://www.racingclub.com.ar/predio-tita-mattiussi|título=Predio Tita Mattiussi|fechaacceso=2024-03-08|fecha=2012-08-02|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''Casa Tita Mattiussi''': edificio de hospedaje para los futbolistas juveniles.<ref>{{cita web|url=http://www.racingclub.com.ar/casa-tita-mattiussi|título=Casa Tita Mattiussi|fechaacceso=2024-03-08|fecha=2012-08-02|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''Polideportivo Jorge Camba''': centro deportivo donde se desarrollan actividades ''amateur''.<ref>{{cita web|url=http://www.racingclub.com.ar/polideportivo|título=Polideportivo|fechaacceso=2024-03-08|fecha=2011-03-30|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''Colegio Racing Club''': escuela fundada en 1961, que posee los niveles de enseñanza inicial, primario y secundario.<ref>{{cita web|url=http://www.racingclub.com.ar/colegio|título=Colegio Racing Club|fechaacceso=2024-03-08|fecha=2016-07-25|sitioweb=Racing Club|editor=Racing}}</ref>
+* '''Predio Ezeiza''': centro de entrenamiento, concentración y ocio para los futbolistas dentro del [[Partido de Ezeiza]].<ref>{{cita web|url=http://www.racingclub.com.ar/predio-ezeiza|título=Predio Ezeiza|fechaacceso=2024-03-08|fecha=2012-08-02|sitioweb=Racing Club|editor=Racing}}</ref>
+
+== Datos del club ==
+{{VT|Anexo:Récords del Racing Club}}
+[[Archivo:Equipo de José.jpg|miniatura|El multicampeón [[Equipo de José]], dirigido por [[Juan José Pizzuti]], uno de los planteles más emblemáticos de la historia de la institución albiceleste y trascendental en el [[Fútbol en Argentina|fútbol argentino]]. Parados: Luis Ángel Carrizo, Agustín Mario Cejas, Alfio Basile, Roberto Perfumo, Rubén Osvaldo Díaz, Nelson Chabay, Oscar Martín y Juan José Pizzuti (DT). Agachados: Miguel Ángel Mori, Jaime Martinoli, Juan Carlos Rulli, Juan Carlos Cárdenas, Juan José Rodríguez y Humberto Maschio, en 1966.]]
+* '''Temporadas en [[Primera División de Argentina|Primera División]]:''' 115 ([[Campeonato de Primera División 1911 (Argentina)|1911]] a [[Campeonato de Primera División 1983 (Argentina)|1983]] y [[Campeonato de Primera División 1986-87 (Argentina)|1986/87]] a [[Campeonato de Primera División 2026 (Argentina)|2026]]).<ref name="PD">{{cita web|url=https://www.tycsports.com/liga-profesional-de-futbol/los-anos-en-primera-alejandro-fabbri-id421945.html|título=Los años en Primera|fechaacceso=2024-03-08|apellido=Fabbri|nombre=Alejandro|fecha=2022-03-28|sitioweb=TyC Sports}}</ref>
+** '''Mejor puesto:''' 1.º (18 veces).<ref name="CAM">{{cita web|url=https://www.afa.com.ar/es/pages/campeones-de-primera-division|título=Campeones de Primera División|fechaacceso=2024-07-05|fecha=2024-03-05|sitioweb=Asociación del Fútbol Argentino|editor=AFA}}</ref>
+** '''Peor puesto:''' 20.º ([[Anexo:Torneo Apertura 2000 (Argentina)|Apertura 2000]]).<ref>{{Cita web|url=https://www.lanacion.com.ar/deportes/la-peor-campana-de-racing-nid45481/|título=La peor campaña de Racing|fechaacceso=2025-09-07|fecha=2000-12-19|sitioweb=La Nación|editor=LN}}</ref>
+* '''Temporadas en [[Segunda categoría del fútbol argentino|Segunda División]]:''' 7 ([[Campeonato de Segunda División 1906 (Argentina)|1906]] a [[Campeonato de Segunda División 1910 (Argentina)|1910]], [[Campeonato de Primera División B 1984 (Argentina)|1984]], [[Campeonato de Primera División B 1985 (Argentina)|1985]]).
+* '''Temporadas en [[Tercera categoría del fútbol argentino|Tercera División]]:''' 1 ([[Campeonato de Tercera División 1905 (Argentina)|1905]]).<ref>{{Cita web|url=https://442.perfil.com/noticias/opinion/2015-04-08-352945-el-ascenso-fue-un-paso-necesario.phtml|título=El ascenso fue un paso necesario|fechaacceso=2025-09-07|fecha=2015-04-08|sitioweb=Editorial Perfil|editor=442}}</ref>
+*'''Récord de títulos sucesivos:''' Heptacampeón (récord histórico nacional y continental).<ref name="racingclub_2"/>
+* '''Mayor cantidad de partidos sucesivos invicto:''' 51 (récord de la historia nacional).<ref>{{Cita web|url=https://www.rsssf.org/miscellaneous/unbeaten.html|título=Unbeaten|títulotrad=Invictos|fechaacceso=2025-09-07|apellido=Diehl|nombre=Alexander|fecha=2025-08-15|sitioweb=Rec.Sport.Soccer Statistics Foundation|nombre2=Karel|apellido2=Stokkermans}}</ref>
+*'''Mayor cantidad de partidos consecutivos ganados:''' 28 (récord nacional).<ref>[http://www.rsssf.com/tablesa/arg18.html Argentina 1918] en RSSSF. Consultado el 21 de septiembre de 2008.</ref><ref>[http://www.rsssf.com/tablesa/arg19.html Argentina 1919] en RSSSF. Consultado el 21 de septiembre de 2008.</ref><ref>[http://www.rsssf.com/tablesa/arg20.html Argentina 1920] en RSSSF. Consultado el 21 de septiembre de 2008.</ref>
+* '''Mayor cantidad de partidos seguidos empatados:''' 10 (récord nacional).<ref>{{Cita web|url=http://www.clarin.com:80/diario/2001/08/13/d-01215.htm|título=Los más y los menos del fútbol argentino|fechaacceso=2025-09-07|apellido=Urquiza|nombre=Pedro|fecha=2001-08-03|sitioweb=Clarín|urlarchivo=http://web.archive.org/web/20100526081103/http://www.clarin.com:80/diario/2001/08/13/d-01215.htm|fechaarchivo=2010-05-26|nombre2=Oscar|apellido2=Bernard}}</ref>
+* '''Mayor cantidad de minutos con la valla invicta:''' 1077' con el arquero [[Marcos Croce]] entre 1920 y 1921 (récord histórico nacional).<ref>{{cita web|título=El dueño del récord|url=https://www.clarin.com/deportes/futbol/racing-club/dueno-record-persigue-franco-armani-carlos-barisio-arquero-racing_0_rkzxB7xwX.html|autor=[[Diario Clarín]]|fechaacceso=2018-8-26}}</ref><ref>{{cita web|url=https://www.racingclub.com.ar/efemerides/nota/2020/07/11602_marcos-croce-la-primera-leyenda-bajo-los-tres-palos/|título=Marcos Croce: la primera leyenda bajo los tres palos|fechaacceso= 2020-07-10|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Mayor goleada a favor:''' 11–3 contra [[Rosario Central]] el 2 de octubre de [[Campeonato de Primera División 1960 (Argentina)|1960]].<ref>[http://www.rsssf.com/tablesa/arg60.html Campeonato Argentino 1960] en RSSSF. Consultado el 25 de febrero de 2023.</ref>
+* '''Mayor goleada en contra:''' 0–10 contra [[Rosario Central]] el 14 de agosto de 1975.<ref group="n" name="Huelga">Debido a una huelga de futbolistas, Racing se vio obligado a disputar el partido con jugadores de la 8.ª y 9.ª división; mientras que Rosario Central hizo lo propio con su reserva profesional más experimentada.</ref><ref>[http://www.rsssf.com/tablesa/arg75.html Campeonato 1975] en RSSSF. Consultado el 10 de febrero de 2023.</ref>
+* '''Jugador con más partidos disputados:''' [[Natalio Perinetti]] (405 partidos oficiales).<ref>{{cita web|url=https://www.racingclub.com.ar/idolos/natalio-perinetti/|título=Ídolos: Natalio Perinetti|fechaacceso= 2019-5-13|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Jugador con más goles convertidos:''' [[Alberto Ohaco]] (244 en competiciones oficiales).<ref>{{cita web|url=https://www.racingclub.com.ar/efemerides/nota/2015/01/3698_idolos-academicos-alberto-ohaco-un-campeon-nato/|título=Ídolos académicos: Alberto Ohaco, un campeón nato|fechaacceso= 2015-01-03|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Jugador con más goles anotados en copas nacionales:''' [[Alberto Marcovecchio]] (52 goles convertidos en total).<ref>{{cita web|url=https://www.racingclub.com.ar/idolos/alberto-marcovecchio/|título=Ídolos: Alberto Marcovecchio|fechaacceso= 2012-2-8|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Jugador con más goles anotados en copas internacionales:''' [[Adrián Emmanuel Martínez]] (18 goles convertidos en total).
+* '''Jugador con más goles anotados en un mismo partido:''' [[Alberto Marcovecchio]] (7 tantos convertidos en [[Copa de Competencia Jockey Club|1913]]).<ref>{{cita web|título=Sólo 18 de 25 mil futbolistas marcaron 6 o más goles en la historia del fútbol argentino|url=https://www.clarin.com/deportes/julian-alvarez-club-selecto-solo-18-25-mil-futbolistas-marcaron-6-goles-historia-futbol-argentino_0_JDRUGTq8jR.html|autor=[[Diario Clarín]]|fechaacceso=2022-5-26}}</ref>
+* '''Jugador con más goles anotados en un mismo torneo nacional:''' [[Evaristo Barrera]] (19 goles en la [[Campeonato de Primera División 1936 (Argentina)|Copa Campeonato 1936]]).
+* '''Jugador con más goles anotados en un mismo torneo internacional:''' [[Norberto Raffo]] (14 goles convertidos en [[Copa Libertadores 1967|1967]]).<ref>{{cita web|url=https://www.racingclub.com.ar/idolos/norberto-raffo/|título=Ídolos: Norberto Raffo|fechaacceso= 2014-4-2|autor=Racing Club - Sitio Oficial}}</ref><ref>[https://www.rsssf.org/sacups/copa67.html Copa Libertadores 1967] en RSSSF. Consultado el 12 de marzo de 2023.</ref>
+* '''Jugadores con más títulos obtenidos:''' [[Alberto Ohaco]], [[Alberto Marcovecchio]] y [[Armando Reyes]] (con 20 títulos oficiales c/u).
+* '''Jugador extranjero con más títulos:''' [[Zoilo Canavery]] ([[Uruguay]]) con 6 conquistas (3 campeonatos y 3 copas nacionales).
+* '''Entrenador con más títulos:''' [[Guillermo Stábile]] (4 títulos oficiales: un tricampeonato de liga y una copa nacional).<ref>{{cita web|url=https://www.racingclub.com.ar/idolos/guillermo-stabile/|título=Ídolos: Guillermo Stábile|fechaacceso= 2018-9-14|autor=Racing Club - Sitio Oficial}}</ref><ref>{{cita web|título=De la mano de Boyé y Stábile, Racing era el primer tricampeón argentino|url=https://www.infobae.com/2012/12/04/684878-de-la-mano-boye-y-stabile-racing-era-el-primer-tricampeon-argentino/|autor=[[Infobae]]|fechaacceso=2017-11-06}}</ref>
+
+=== Línea de tiempo ===
+<timeline>
+TimeAxis   = orientation:horizontal
+ImageSize  = width:1500 height:100
+PlotArea   = width:1000 height:55 bottom:30 left:120
+DateFormat = yyyy
+Period     = from:1900 till:2030
+ScaleMajor = unit:year increment:5 start:1900
+ScaleMinor = unit:year increment:1 start:1900
+AlignBars  = justify
+
+Colors =
+ id:pri value:blue
+ id:seg value:purple
+ id:ter value:green
+ id:cua value:red
+ id:qui value:orange
+
+BarData =
+ bar:primera text:"copas nacionales"
+ bar:segunda text:"copas internacionales"
+ bar:tercera text:"primera división"
+ bar:cuarta  text:"segunda división"
+ bar:quinta  text:"tercera división"
+
+PlotData =
+
+# set defaults
+ width:10.8 fontsize:s textcolor:white align:left anchor:from shift:(5,-5)
+
+ bar:primera color:seg
+            from:1904 till:1933
+            from:1939 till:1958
+            from:1969 till:1970
+            from:1993 till:1994
+            from:2011 till:2027
+
+ bar:segunda color:ter
+            from:1912 till:1918
+            from:1962 till:1969
+            from:1988 till:2003
+            from:2012 till:2026
+
+ bar:tercera color:pri
+            from:1911 till:1984
+            from:1986 till:2027
+
+ bar:cuarta color:cua
+            from:1906 till:1911
+            from:1984 till:1986
+
+ bar:quinta color:qui
+            from:1905 till:1906
+</timeline>
+
+== Palmarés ==
+{{AP|Anexo:Palmarés del Racing Club}}
+
+=== Torneos nacionales (35) ===
+[[Archivo:Superliga Quilmes Clásica 2018-19.jpg|miniatura|Celebración de la [[Superliga 2018-19]]]]
+{{AP|Anexo:Historial del Racing Club en competiciones nacionales}}
+Ha disputado 115 temporadas en la [[Primera División de Argentina]],<ref name="PD" /> obteniendo 18 campeonatos y 10 subcampeonatos.<ref name="CAM" /> Es el único equipo argentino consagrado como heptacampeón;<ref>{{Cita web|url=https://www.ole.com.ar/racing/racing-heptacampeon-bayern-bundesliga_0_O-Iy3n42P.html|título=Lo que tienen en común Racing y el Bayern...|fechaacceso=2025-09-09|fecha=2019-07-24|sitioweb=Olé|editor=Olé}}</ref><ref>{{Cita web|url=https://www.racingclub.com.ar/efemerides/nota/2021/01/12128_el-ano-del-primer-tricampeonato/|título=El año del primer tricampeonato|fechaacceso=2025-09-09|fecha=2021-01-06|sitioweb=Racing Club|editor=Racing}}</ref> también ostenta los récords de tetracampeonato, pentacampeonato y hexacampeonato, y es el único de América en alcanzar siete títulos consecutivos.<ref>{{Cita web|url=https://tn.com.ar/deportes/futbol/2023/03/26/los-120-anos-de-racing-club-por-que-se-autoproclama-el-primer-grande-del-futbol-argentino/|título=Los 120 años de Racing Club|fechaacceso=2025-09-09|fecha=2023-03-26|sitioweb=Todo Noticias|editor=TN}}</ref> Asimismo, fue primer equipo tricampeón en el profesionalismo.<ref name="tri" /> Estadísticamente, es el {{ord|3.|er}} equipo con la mayor cantidad de campeonatos de Argentina.<ref name="CN">{{Cita web|url=https://www.elgrafico.com.ar/articulo/1053/46876/como-quedo-la-tabla-historica-de-campeones-del-futbol-argentino|título=Cómo quedó la tabla histórica de campeones del fútbol argentino|fechaacceso=2025-09-09|apellido=Maverino|nombre=Silvio|fecha=2025-09-05|sitioweb=El Gráfico|idioma=es}}</ref>
+
+En cuanto a las [[copas nacionales del fútbol argentino]], ha participado en 78 torneos, logrando 16 campeonatos y 12 subcampeonatos. Obtuvo cuatro veces la [[Copa de Honor MCBA]] y cinco la [[Copa Ibarguren]], siendo el máximo ganador de ambas y el primero en obtener esta última.<ref name="MCBA" /><ref name="IBA" /> Además, conquistó la [[Copa Bullrich]] (de segunda división), la [[Copa Beccar Varela]], la [[Copa de Competencia de Primera División]], la [[Copa de Competencia Británica]], dos Trofeos de Campeones ([[Trofeo de Campeones de la Superliga Argentina|SAF]] y [[Trofeo de Campeones de la Liga Profesional de Fútbol|LPF]]), y la [[Supercopa Internacional]], siendo en varios casos el primer equipo en lograr dichos títulos.<ref>{{Cita web|url=https://www.rsssf.org/tablesa/argcuphist.html|título=Domestic Cup History|títulotrad=Historial de copas nacionales|fechaacceso=2025-09-09|apellido=Gorgazzi|nombre=Osvaldo|fecha=2025-07-24|sitioweb=Rec.Sport.Soccer Statistics Foundation}}</ref> En conjunto, según la estadística también es el {{ord|3.|er}} equipo con más copas nacionales de Argentina.<ref name="CN" />
+*<small>''Indicado el récord del torneo [[Archivo:Article de qualité.svg|13px]] y el récord compartido'' [[Archivo:Estrella Plateada.png|15px]]</small>
+
+{| border="1" cellspacing="0" style="background: #f9f9f9; border: 2px #aaa solid; border-collapse: collapse; border-color: white; color:black; font-size: 85%;" width=100%
+|- bgcolor=#6AB5FF style="color: white;"
+!colspan="4" style="font-size: 120%;"|Organizados por AFA
+|- bgcolor=#122562 style="color: white;"
+! width=20% colspan=2|{{bandera|tamaño=15px|Argentina}} Competición nacional
+! width=32%|Títulos
+! width=30%|Subcampeonatos
+|-
+|bgcolor="D8E2EE" |'''[[Primera División de Argentina]]''' || bgcolor="#d8e2ee" width=3% align=center |'''18/10'''
+|bgcolor="#ECF1F7"|[[Campeonato de Primera División 1913 (Argentina)|1913]], [[Campeonato de Primera División 1914 (Argentina)|1914]], [[Campeonato de Primera División 1915 (Argentina)|1915]] [[Archivo:Estrella Plateada.png|12px]], [[Campeonato de Primera División 1916 (Argentina)|1916]] [[Archivo:Article de qualité.svg|10px]], [[Campeonato de Primera División 1917 (Argentina)|1917]] [[Archivo:Article de qualité.svg|10px]], [[Campeonato de Primera División 1918 (Argentina)|1918]] [[Archivo:Article de qualité.svg|10px]], [[Campeonato de Primera División 1919 de la AAmF (Argentina)|1919]] [[Archivo:Article de qualité.svg|10px]], [[Campeonato de Primera División 1921 de la AAmF (Argentina)|1921]], [[Campeonato de Primera División 1925 de la AAmF (Argentina)|1925]], [[Campeonato de Primera División 1949 (Argentina)|1949]], [[Campeonato de Primera División 1950 (Argentina)|1950]], [[Campeonato de Primera División 1951 (Argentina)|1951]] [[Archivo:Article de qualité.svg|10px]], [[Campeonato de Primera División 1958 (Argentina)|1958]], [[Campeonato de Primera División 1961 (Argentina)|1961]], [[Campeonato de Primera División 1966 (Argentina)|1966]], [[Anexo:Torneo Apertura 2001 (Argentina)|2001-A]], [[Campeonato de Primera División 2014 (Argentina)|2014]], [[Campeonato de Primera División 2018-19 (Argentina)|2018-19]].
+| bgcolor="#F3F5F7"| [[Campeonato de Primera División 1920 de la AAmF (Argentina)|1920]], [[Campeonato de Primera División 1952 (Argentina)|1952]], [[Campeonato de Primera División 1955 (Argentina)|1955]], [[Campeonato de Primera División 1959 (Argentina)|1959]], [[Campeonato Metropolitano 1967 (Argentina)|1967-M]], [[Campeonato Metropolitano 1972 (Argentina)|1972-M]], [[Anexo:Torneo Apertura 1995 (Argentina)|1995-A]], [[Anexo:Torneo Apertura 2011 (Argentina)|2011-A]], [[Campeonato de Primera División 2022 (Argentina)|2022]], [[Anexo:Torneo Clausura 2025 (Argentina)|2025-C]].
+|-
+|bgcolor="D8E2EE" |'''[[Segunda División (1899-1932)|Segunda División de Argentina]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/2'''
+|bgcolor="#ECF1F7"|[[Campeonato de Segunda División 1910 (Argentina)|1910]].
+|bgcolor="#F3F5F7"|[[Campeonato de Segunda División 1908 (Argentina)|1908]], [[Campeonato de Primera División B 1985 (Argentina)|1985]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa Bullrich]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/1'''
+|bgcolor="#ECF1F7"|[[Copa de Competencia Adolfo Bullrich 1910|1910]].
+|bgcolor="#F3F5F7"|[[Copa de Competencia Adolfo Bullrich 1917|1917]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa de Honor MCBA]]''' || bgcolor="#d8e2ee" width=3% align=center |'''4/0'''
+|bgcolor="#ECF1F7"|[[Copa de Honor MCBA 1912|1912]], [[Copa de Honor MCBA 1913|1913]], [[Copa de Honor MCBA 1915|1915]], [[Copa de Honor MCBA 1917|1917]]. [[Archivo:Article de qualité.svg|10px]]
+|bgcolor="#F3F5F7" style="text-align: center"| -
+|-
+|bgcolor="D8E2EE" |'''[[Copa Ibarguren]]''' || bgcolor="#d8e2ee" width=3% align=center |'''5/3'''
+|bgcolor="#ECF1F7"|[[Copa Ibarguren 1913|1913]], [[Copa Ibarguren 1914|1914]], [[Copa Ibarguren 1916|1916]], [[Copa Ibarguren 1917|1917]], [[Copa Ibarguren 1918|1918]]. [[Archivo:Estrella Plateada.png|12px]]
+|bgcolor="#F3F5F7"|[[Copa Ibarguren 1915|1915]], [[Copa Ibarguren 1950|1950]], [[Copa Ibarguren 1958|1958]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa Beccar Varela]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/1'''
+|bgcolor="#ECF1F7"|[[Copa Beccar Varela 1932|1932]]. [[Archivo:Estrella Plateada.png|12px]]
+|bgcolor="#F3F5F7"|[[Copa Beccar Varela 1933|1933]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa de Competencia]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/2'''
+|bgcolor="#ECF1F7"|[[Copa de Competencia de la Liga Argentina 1933|1933]].
+|bgcolor="#F3F5F7"|[[Copa de Competencia de la Liga Argentina 1913|1913]], [[Copa de Competencia de la Liga Argentina 1915|1915]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa de Competencia Británica]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Copa de Competencia Británica 1945|1945]]. [[Archivo:Estrella Plateada.png|12px]]
+|bgcolor="#F3F5F7" style="text-align: center"| -
+|-
+|bgcolor="D8E2EE" |'''[[Trofeo de Campeones de la Superliga Argentina|Trofeo de Campeones (SAF)]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Trofeo de Campeones de la Superliga 2018-19|2019]]. [[Archivo:Article de qualité.svg|10px]]
+|bgcolor="#F3F5F7" style="text-align: center"| -
+|-
+|bgcolor="D8E2EE" |'''[[Trofeo de Campeones de la Liga Profesional de Fútbol|Trofeo de Campeones (LPF)]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Trofeo de Campeones de la Liga Profesional 2022|2022]].
+|bgcolor="#F3F5F7" style="text-align: center" | -
+|-
+|bgcolor="D8E2EE" |'''[[Supercopa Internacional]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Supercopa Internacional 2022|2022]]. [[Archivo:Estrella Plateada.png|12px]]
+|bgcolor="#F3F5F7" style="text-align: center" | -
+|-
+|bgcolor="D8E2EE" |[[Copa Escobar]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Copa Adrián C. Escobar 1949|1949]].
+|-
+|bgcolor="D8E2EE" |[[Copa Suecia]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Copa Suecia|1958]].
+|-
+|bgcolor="D8E2EE" |[[Copa Argentina de fútbol|Copa Argentina]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Copa Argentina 2011/12|2011-12]].
+|-
+|bgcolor="D8E2EE" |[[Copa del Bicentenario de la Independencia|Copa Bicentenario]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Copa del Bicentenario de la Independencia|2016]].
+|-
+|bgcolor="D8E2EE" |[[Supercopa Argentina]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Supercopa Argentina 2019|2019]].
+|-
+|bgcolor="D8E2EE" |[[Copa de la Liga Profesional]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center" | -
+|bgcolor="#F3F5F7"|[[Copa de la Liga Profesional 2021|2021]].
+|}
+
+=== Torneos internacionales (8) ===
+[[Archivo:Jugadores Copa intercontinental67.jpg|miniatura|El plantel de Racing celebrando la obtención de la Copa Intercontinental (1967)]]
+{{AP|Anexo:Historial del Racing Club en competiciones internacionales}}
+Ha participado de 46 [[Anexo:Clubes de fútbol ganadores de competiciones internacionales a nivel confederativo e interconfederativo|competiciones internacionales]], obteniendo 8 campeonatos y 7 subcampeonatos.<ref>{{Cita web|url=https://www.sportingnews.com/ar/futbol/news/finales-internacionales-racing/318f57f9cf1db30487c36b8f|título=Todas las finales internacionales que jugó Racing|fechaacceso=2025-09-11|apellido=Codocea|nombre=Mauricio|fecha=2025-02-28|sitioweb=The Sporting News}}</ref> Estadísticamente, es el {{ord|4.|to}} equipo con más copas internacionales de Argentina.<ref>{{Cita web|url=https://www.infobae.com/deportes/2025/02/28/racing-acecha-a-independiente-tras-la-obtencion-de-la-recopa-ante-botafogo-asi-quedo-la-tabla-historica-de-titulos/|título=Tras el título de Racing, así quedó la tabla histórica de títulos|fechaacceso=2025-09-11|fecha=2025-02-28|sitioweb=Infobae|editor=Infobae}}</ref>
+
+Disputando 7 [[campeonatos rioplatenses de fútbol]] organizados por [[AFA]] y [[AUF]], ganó tres títulos: obtuvo una vez la [[Copa de Honor Cusenier]] y dos veces la [[Copa Aldao]], siendo el primer equipo argentino en ganar esta última, y el máximo subcampeón de la primera.<ref>{{Cita web|url=http://www.el-area.com/sudamerica/subpaginas/copas-rioplatenses.html|título=Copas Rioplatenses|fechaacceso=2025-09-11|apellido=Barragán|nombre=Claudio|fecha=2024-10-13|sitioweb=El Área}}</ref> 
+
+Asimismo, con 39 participaciones en las [[Anexo:Competiciones de clubes de la Conmebol|competiciones de clubes]] de la [[Conmebol]] ha logrado cinco consagraciones: la [[Copa Libertadores de América]], la [[Copa Intercontinental]] (siendo el primer equipo argentino campeón), la [[Supercopa Sudamericana]] (en su primera edición), la [[Copa Sudamericana]] y la [[Recopa Sudamericana]].<ref>{{Cita web|url=https://www.lanacion.com.ar/deportes/futbol/racing-campeon-de-la-recopa-como-quedo-la-tabla-de-equipos-mas-ganadores-de-titulos-internacionales-nid27022025/|título=Racing, campeón de la Recopa|fechaacceso=2025-09-11|fecha=2025-02-28|sitioweb=La Nación|editor=LN}}</ref>
+
+Racing Club es uno de los 7 equipos, junto con [[Club Atlético Boca Juniors|Boca Juniors]], [[Club Atlético River Plate|River Plate]], [[Club Atlético Independiente|Independiente]], [[São Paulo Futebol Clube|São Paulo]], [[Sport Club Internacional|Internacional]] y [[Liga Deportiva Universitaria de Quito|Liga de Quito]], que lograron consagrarse en las tres máximas competiciones vigentes de clubes de Conmebol: la Copa Libertadores, la Copa Sudamericana y la Recopa Sudamericana.
+
+El 27 de octubre de 2017, la [[FIFA]] certificó que los campeones de la Copa Intercontinental organizada por Conmebol y [[UEFA]] tenían el mismo título del «[[Campeonato Mundial de Clubes (fútbol)|Campeonato Mundial de Clubes]]» que los ganadores de la [[Copa Mundial de Clubes de la FIFA]].<ref name="FIFA" />
+*<small>''Indicado el récord del torneo [[Archivo:Article de qualité.svg|13px]]</small>
+
+{| border="1" cellspacing="0" style="background: #f9f9f9; border: 2px #aaa solid; border-collapse: collapse; border-color: white; color:black; font-size: 85%;" width=100%
+|- bgcolor=#6AB5FF style="color: white;"
+!colspan="4" style="font-size: 120%;"|Organizados por Conmebol
+|- bgcolor=#122562 style="color: white;"
+! width=20% colspan=2|[[Archivo:World Flag (2004).svg|15px|borde]] Competición internacional
+! width=32%|Títulos
+! width=30%|Subcampeonatos
+|-
+|bgcolor="D8E2EE" |'''[[Copa Libertadores de América]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Copa Libertadores 1967|1967]].
+|bgcolor="#F3F5F7" style="text-align: center"| -
+|-
+|bgcolor="D8E2EE" |'''[[Copa Intercontinental]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Copa Intercontinental 1967|1967]].
+|bgcolor="#F3F5F7" style="text-align: center"| -
+|-
+|bgcolor="D8E2EE" |'''[[Supercopa Sudamericana]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/1'''
+|bgcolor="#ECF1F7"|[[Supercopa Sudamericana 1988|1988]]. [[Archivo:Article de qualité.svg|10px]]
+|bgcolor="#F3F5F7"|[[Supercopa Sudamericana 1992|1992]].
+|-
+|bgcolor="D8E2EE" |'''[[Copa Sudamericana]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/0'''
+|bgcolor="#ECF1F7"|[[Copa Sudamericana 2024|2024]].
+|bgcolor="#F3F5F7" style="text-align: center" | -
+|-
+| bgcolor="D8E2EE" |'''[[Recopa Sudamericana]]''' || bgcolor="#d8e2ee" width="3%" align="center" |'''1/1'''
+| bgcolor="#ECF1F7" |[[Recopa Sudamericana 2025|2025]].
+| bgcolor="#F3F5F7" |[[Recopa Sudamericana 1989|1989]].
+|-
+|bgcolor="D8E2EE" |[[Supercopa de Campeones Intercontinentales|Recopa Intercontinental]] || bgcolor="#d8e2ee" width=3% align=center |0/1
+|bgcolor="#ECF1F7" style="text-align: center"| -
+|bgcolor="#F3F5F7"|[[Supercopa de Campeones Intercontinentales 1969|1969]].
+|}
+{| border="1" cellspacing="0" style="background: #f9f9f9; border: 2px #aaa solid; border-collapse: collapse; border-color: white; color:black; font-size: 85%;" width=100%
+|- bgcolor=#6AB5FF style="color: white;"
+!colspan="4" style="font-size: 120%;"|Organizados por <span style="color:white">AFA y</span> <span style="color:white">AUF</span>
+|- bgcolor=#122562 style="color: white;"
+! width=20% colspan=2|[[Archivo:Uruguay and Argentina hybrid.png|15px|borde]] Competición Rioplatense
+! width=32%|Títulos
+! width=30%|Subcampeonatos
+|-
+|bgcolor="D8E2EE" |'''[[Copa de Honor Cusenier]]''' || bgcolor="#d8e2ee" width=3% align=center |'''1/3'''
+|bgcolor="#ECF1F7"|[[Copa de Honor Cusenier 1913|1913]].
+|bgcolor="#F3F5F7"|[[Copa de Honor Cusenier 1912|1912]], [[Copa de Honor Cusenier 1915|1915]], [[Copa de Honor Cusenier 1917|1917]]. [[Archivo:Article de qualité.svg|10px]]
+|-
+|bgcolor="D8E2EE" |'''[[Copa Aldao]]''' || bgcolor="#d8e2ee" width=3% align=center |'''2/1'''
+|bgcolor="#ECF1F7"|[[Copa Aldao 1917|1917]], [[Copa Aldao 1918|1918]].
+|bgcolor="#F3F5F7"|[[Copa Aldao 1916|1916]].
+|}
+
+== Organigrama deportivo ==
+=== Jugadores ===
+{{Multiple image
+| total_width       = 400
+| image1            = Rodrigo De Paul Argentina v Egypt 7 July 2026-238.jpg
+| image2            = Lautaro Martinez Argentina v Egypt 7 July 2026-258.jpg
+| footer            = [[Rodrigo De Paul]] y [[Lautaro Martínez]], productos de las [[Anexo:Divisiones inferiores del Racing Club|divisiones inferiores]] y multicampeones en la [[Selección de fútbol de Argentina]].}}
+{{AP|Anexo:Futbolistas del Racing Club}}
+A lo largo de sus {{edad|25|03|1903}} de historia, Racing Club ha contado con un numerosos de futbolistas considerados «ídolos» por sus aportes al equipo.<ref>{{Cita web|url=https://www.racingclub.com.ar/idolos/|título=Ídolos|fechaacceso=2025-09-16|fecha=2012-08-02|sitioweb=Racing Club|editor=Racing}}</ref> Entre los más destacados se encuentra el delantero [[Alberto Ohaco]], jugador de [[Anexo:Futbolistas que militaron en un solo equipo|un solo club]], máximo goleador histórico (244) y ganador de títulos (20) de la institución;<ref>{{Cita web|url=https://www.racingclub.com.ar/idolos/alberto-ohaco/|título=Alberto Ohaco|fechaacceso=2025-09-16|fecha=2008-02-23|sitioweb=Racing Club|editor=Racing}}</ref> compartiendo el último récord con [[Armando Reyes]], aguerrido defensor, y [[Alberto Marcovecchio]].<ref>{{Cita web|url=https://www.racingclub.com.ar/idolos/alberto-marcovecchio/|título=Alberto Marcovecchio|fechaacceso=2025-09-16|fecha=2008-02-23|sitioweb=Racing Club|editor=Racing}}</ref><ref name="reyes">{{Cita web|url=https://www.racingclub.com.ar/idolos/armando-reyes/|título=Armando Reyes|fechaacceso=2025-09-16|fecha=2015-11-24|sitioweb=Racing Club|editor=Racing}}</ref> Este último es, además, el futbolista que más veces lideró la tabla de goleadores del fútbol argentino con Racing (en 11 oportunidaes: 2 en Primera División y 9 en copas nacionales).<ref>{{Cita web|url=https://www.rsssf.org/tablesa/argtops.html|título=List of Topscorers|títulotrad=Tabla de Goleadores|fechaacceso=2025-09-16|apellido=Ciullini|nombre=Pablo|fecha=2025-01-15|sitioweb=Rec.Sport.Soccer Statistics Foundation|nombre2=Emmanuel|apellido2=Castro Serna}}</ref> En el amateurismo, también sobresalió el atacante [[Natalio Perinetti]], quien disputó la mayor cantidad de partidos en el club (405)<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1038/58240/%C2%BFcuantos-jugadores-llegaron-a-300-partidos-en-racing%3F|título=¿Cuántos jugadores llegaron a 300 partidos en Racing?|fechaacceso=2025-09-16|apellido=Maverino|nombre=Silvio|fecha=2022-10-18|sitioweb=El Gráfico}}</ref> y fue habitual dupla en ataque del talentoso [[Pedro Ochoa]], considerado «el rey de la gambeta».<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1056/22372/las-duplas-perinetti-y-ochoa|título=Perinetti y Ochoa|fechaacceso=2025-09-16|fecha=1946-04-05|sitioweb=El Gráfico|editor=EG}}</ref>
+
+El arquero [[Marcos Croce]] ostenta el récord absoluto de mayor cantidad de minutos con la valla invicta en la historia del fútbol argentino, con un total de 1077 minutos, superando en su momento a su compañero [[Syla Arduino]], quien había alcanzado 891 minutos sin recibir goles.<ref>{{Cita web|url=https://www.clarin.com/futbol/trece_decadas-1921-racing-records-croce_y_saja_0_SJUs8N9DQx.html|título=Los récords de Croce y Saja|fechaacceso=2025-09-16|apellido=Barnade|nombre=Oscar|fecha=2015-02-17|sitioweb=Clarín|idioma=es}}</ref> Otros [[Guardameta (fútbol)|guardametas]] récord de la institución son [[Agustín Mario Cejas]], invicto durante casi ocho encuentros —666 minutos— entre 1965 y 1966, y [[Ubaldo Fillol]], con el récord de más penales atajados (6) en una misma temporada, correspondiente al año 1972.<ref>{{Cita web|url=https://www.clarin.com/deportes/pato-fillol-cumple-70-anos-exitos-golpes-vida-campeon-mundo-quedo-medalla_0_z3PYuQvmF.html|título=El Pato Fillol cumple 70 años|fechaacceso=2025-10-10|apellido=Barnade|nombre=Oscar|fecha=2020-07-21|sitioweb=Clarín}}</ref> También contó con arqueros imbatibles como [[Juan Botasso]], [[Osvaldo Negri]], [[Rogelio Domínguez]], [[Ignacio Carlos González|Nacho González]], [[Sergio Goycoechea]], [[Gustavo Campagnuolo]], [[Sergio Romero]], [[Gabriel Arias]] y [[Juan Musso]].<ref>{{Cita web|url=https://www.racingdealma.com.ar/racing-y-sus-arqueros-de-seleccion/|título=Racing y sus arqueros de Selección|fechaacceso=2025-10-10|apellido=Morales Chena|nombre=Lucas|fecha=2019-03-21|sitioweb=Racing de Alma}}</ref> 
+
+En la defensa, [[Gustavo Costas]] fue el futbolista con más partidos en el club durante el profesionalismo (337).<ref>{{Cita web|url=https://www.tycsports.com/racing-club/gustavo-costas-por-y-para-racing-una-vida-ligada-a-su-gran-amor-id620364.html|título=La historia de Gustavo Costas, por y para Racing|fechaacceso=2025-10-11|apellido=Gullo|nombre=Federico|fecha=2024-11-24|sitioweb=TyC Sports}}</ref>  Numerosos [[Defensa (fútbol)|defensores]] argentinos mundialistas con el club fueron [[José Della Torre]] y [[Fernando Paternoster]] ([[Uruguay 1930]]); [[Pedro Dellacha]] ([[Suecia 1958]]); [[Federico Sacchi]] ([[Chile 1962]]); [[Roberto Perfumo]] ([[Inglaterra 1966]]); [[Carlos Squeo]] ([[Alemania 1974]]); [[Daniel Killer]] ([[Argentina 1978]]), [[Néstor Fabbri]] y [[Julio Olarticoechea]] ([[Italia 1990]]).<ref>{{Cita web|url=https://elcrackdeportivo.com.ar/racing/Jugadores-de-Racing-que-hayan-disputado-un-Mundial-con-Argentina-20230806-0044.html|título=Jugadores de Racing que hayan disputado un Mundial con Argentina|fechaacceso=2025-10-11|apellido=Mazzara|nombre=Julián|fecha=2023-08-06|sitioweb=El Crack}}</ref> De todos ellos, el más destacado fue Perfumo, quien formó una impresionante dupla defensiva junto con [[Alfio Basile]] en el [[Equipo de José]], y fue elegido por la [[AFA]] como integrante del equipo ideal de la selección argentina.<ref>{{Cita web|url=https://www.lanacion.com.ar/deportes/futbol/la-afa-publico-la-seleccion-argentina-de-todos-los-tiempos-nid1859330/|título=La AFA eligió a la selección ideal de toda su historia|fechaacceso=2025-10-11|fecha=2016-01-05|sitioweb=La Nación|editor=LN}}</ref> Sin olvidar a [[Oscar Martín]], el capitán de dicho equipo multicampeón argentino.<ref>{{Cita web|url=https://www.clarin.com/deportes/futbol/racing-club/murio-oscar-martin-gran-capitan-racing-campeon-mundo_0_SkfxM3kwM.html|título=Murió Oscar Martín, el gran capitán del Racing campeón del mundo|apellido=Avellaneda|nombre=Daniel|fecha=2018-02-12|sitioweb=Diario Clarín}}</ref>
+
+En el [[Centrocampista|mediocampo]] disfrutó de los talentos de [[Enrique García (futbolista)|Enrique García]], [[Norberto Méndez]], [[Arnaldo Balay]], [[Juan Carlos Rulli]], [[Humberto Maschio]], [[Miguel Ángel Colombatti]], [[Rubén Capria]], [[Diego Simeone]], [[Maxi Morález]] y [[Rodrigo De Paul]]. Mientras que en la [[Delantero|delantera]] se destacaron los contundentes artilleros [[Alberico Zabaleta]], [[Evaristo Barrera]], [[Llamil Simes]], [[Oreste Corbatta]], [[Raúl Oscar Belén]],  [[Juan Carlos Cárdenas]], [[Marcelo Alejandro Delgado|Marcelo Delgado]], [[Claudio Javier López|Claudio López]], [[Diego Milito]], [[Lisandro López]], [[Lautaro Martínez]] y [[Adrián Emmanuel Martínez|Adrián Martínez]]. Asimismo brillaron en el club los jugadores extranjeros [[Sergio Livingstone]], [[Eugenio Mena]] y [[Marcelo Díaz (futbolista)|Marcelo Díaz]] ([[Chile]]); [[Wálter Machado da Silva]] y [[João Cardoso]] ([[Brasil]]); [[Zoilo Canavery]], [[Nelson Chabay]] y [[Rubén Paz]] ([[Uruguay]]); [[Gerardo Bedoya]], [[Giovanni Moreno]], [[Juan Fernando Quintero]] y [[Roger Martínez]] ([[Colombia]]); [[Delfín Benítez Cáceres]] y [[Matías Nicolás Rojas]] ([[Paraguay]]), entre otros.<ref>{{Cita web|url=https://www.racingclub.com.ar/idolos/|título=Ídolos de Racing Club|fechaacceso=2025-10-20|sitioweb=Racing Club}}</ref>
+
+=== Plantel 2026 ===
+<!--Antes de modificar y grabar la página, por favor actualice la fecha al día de los cambios.-->
+{{Equipo de fútbol inicio|equipo=Racing Club|temporada=2026|texto=white|fondo=#6AB5FF|procedencia=sí|contrato=sí|formativo=sí|internacional=sí|edad=sí}}
+| colspan=9 bgcolor=#6AB5FF style="color:#FFFFFF;" align=center| '''Arqueros'''
+{{Jugador de fútbol|no=1|nat=AR|name=[[Francisco Gómez (futbolista argentino)|Francisco Gómez]]|edad={{edad|06|04|2004}}|procedencia= Inferiores|contrato=31-12-2027|formativo= Inferiores|pos=POR|internacional={{bandera|AR}} [[Selección de fútbol sub-20 de Argentina|Sub-20]]}}
+{{Jugador de fútbol|no=12|nat=AR|name=[[Thiago De Bellis]]|edad={{edad|01|02|2005}}|procedencia= Inferiores|contrato=31-12-2027|formativo= Inferiores|pos=POR|internacional={{bandera|AR}} [[Selección de fútbol sub-20 de Argentina|Sub-20]]}}
+{{Jugador de fútbol|no=25|nat=AR|name=[[Facundo Cambeses]]|edad={{edad|09|04|1997}}|procedencia={{bandera|AR}} [[Club Atlético Banfield|Banfield]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Atlético Banfield|Banfield]]|pos=POR|internacional={{bandera|AR}} [[Selección de fútbol de Argentina|Absoluta]]}}
+{{Jugador de fútbol|no=30|nat=AR|name=[[Matías Tagliamonte]]|edad={{edad|19|02|1998}}|procedencia={{bandera|AR}} [[Club Atlético Unión (Santa Fe)|Unión]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético Rafaela]]|pos=POR}}
+|-
+| colspan=9 bgcolor=#6AB5FF style="color:#FFFFFF;" align=center| '''Defensores'''
+{{Jugador de fútbol|no=2|nat=PAR|name=[[Matías Damián Pérez]] {{lesión}}|edad={{edad|03|03|1999}}|procedencia={{bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]|contrato=31-12-2031|formativo={{bandera|AR}} [[Club Atlético Lanús|Lanús]]|pos=DEF}}
+{{Jugador de fútbol|no=3|nat=AR|name=[[Marco Di Cesare]] {{lesión}}|edad={{edad|30|01|2002}}|procedencia={{bandera|AR}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]|pos=DEF|internacional={{bandera|AR}} [[Selección de fútbol sub-23 de Argentina|Sub-23]]}}
+{{Jugador de fútbol|no=4|nat=AR|name=[[Ezequiel Cannavo]]|edad={{edad|12|06|2002}}|procedencia={{bandera|AR}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]|contrato=31-12-2026|formativo={{bandera|AR}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]|pos=DEF}}
+{{Jugador de fútbol|no=6|nat=AR|name=[[Marcos Rojo]]|edad={{edad|20|03|1990}}|procedencia={{bandera|AR}} [[Club Atlético Boca Juniors|Boca Juniors]]|contrato=31-12-2026|formativo={{bandera|AR}} [[Club Estudiantes de La Plata|Estudiantes LP]]|pos=DEF|internacional={{bandera|AR}} [[Selección de fútbol de Argentina|Absoluta]]}}
+{{Jugador de fútbol|no=14|nat=AR|name=[[Juan Barinaga]] {{lesión}}|edad={{edad|10|10|2000}}|procedencia={{bandera|AR}} [[Club Atlético Boca Juniors|Boca Juniors]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Atlético Belgrano|Belgrano]]|pos=DEF}}
+{{Jugador de fútbol|no=18|nat=URU|name=[[Luis Alfonso Espino García|Alfonso Espino]]|edad={{edad|05|01|1992}}|procedencia={{bandera|ESP}} [[Rayo Vallecano de Madrid|Rayo Vallecano]]|contrato=31-12-2028|formativo={{bandera|URU}} [[Club Nacional de Football|Nacional]]|pos=DEF}}
+{{Jugador de fútbol|no=19|nac=AR|name=[[Ignacio Agustín Rodríguez|Ignacio Rodríguez]]|edad={{edad|22|02|2001}}|procedencia={{bandera|AR}} [[Club Atlético Banfield|Banfield]]|contrato=31-12-2028|formativo={{bandera|AR}} [[Club Atlético Banfield|Banfield]]|pos=DEF}}
+{{Jugador de fútbol|no=23|nat=AR|name=[[Nazareno Colombo]]|edad={{edad|20|03|1999}}|procedencia={{bandera|AR}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Estudiantes de La Plata|Estudiantes LP]]|pos=DEF|internacional={{bandera|AR}} [[Selección de fútbol sub-23 de Argentina|Sub-23]]}}
+{{Jugador de fútbol|no=38|nat=AR|name=[[Mateo Ezequiel Martínez|Mateo Martínez]]|edad={{edad|27|04|2008}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=DEF}}
+{{Jugador de fútbol|no=43|nat=AR|name=[[Gonzalo Escudero (futbolista)|Gonzalo Escudero]]|edad={{edad|01|04|2007}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=DEF|internacional={{bandera|AR}} [[Selección de fútbol sub-20 de Argentina|Sub-20]]}}
+|-
+| colspan=9 bgcolor=#6AB5FF style="color:#FFFFFF;" align=center| '''Mediocampistas'''
+{{Jugador de fútbol|num=5|nat=AR|name=[[Matías Kranevitter]]|edad={{edad|21|05|1993}}|procedencia={{bandera|TUR}} [[Fatih Karagümrük Spor Kulübü|Fatih Karagümrük]]|contrato=31-12-2028|formativo={{bandera|AR}} [[Club Atlético River Plate|River Plate]]|pos=MED|internacional={{bandera|AR}} [[Selección de fútbol de Argentina|Absoluta]]}}
+{{Jugador de fútbol|no=8|nat=AR|name=[[Alan Forneris]] {{lesión}}|edad={{edad|28|01|2005}}|procedencia={{bandera|AR}} [[Club Atlético Colón|Colón]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Club Atlético Colón|Colón]]|pos=MED}}
+{{Jugador de fútbol|no=10|nat=USA|name=[[Matko Miljevic]]|edad={{edad|9|5|2001}}|procedencia={{bandera|AR}} [[Club Atlético Huracán|Huracán]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]|pos=MED|internacional={{bandera|USA}} [[Selección de fútbol de Estados Unidos|Absoluta]]}}
+{{Jugador de fútbol|no=11|nat=AR|name=[[Matías Zaracho]]|edad={{edad|10|03|1998}}|procedencia= {{bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]|contrato=31-12-2028|formativo= Inferiores|pos=MED|internacional={{bandera|AR}} [[Selección de fútbol de Argentina|Absoluta]]}}
+{{Jugador de fútbol|no=16|nat=CHI|name=[[Ulises Ortegoza]]|edad={{edad|19|04|1997}}|procedencia={{bandera|AR}} [[Club Atlético Talleres (Córdoba)|Talleres]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Club Atlético Los Andes|Los Andes]]|pos=MED|internacional={{bandera|CHI}} [[Selección de fútbol de Chile|Absoluta]]}}
+{{Jugador de fútbol|no=20|nat=AR|name=[[Gastón Lodico]]|edad={{edad|28|05|1998}}|procedencia={{bandera|AR}} [[Instituto Atlético Central Córdoba|Instituto]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Club Atlético Lanús|Lanús]]|pos=MED}}
+{{Jugador de fútbol|no=24|nat=AR|name=[[Adrián Marcos Fernández|Adrián Fernández]]|edad={{edad|20|05|2001}}|procedencia={{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]|contrato=31-12-2028|formativo={{bandera|AR}} [[Club Atlético San Telmo|San Telmo]]|pos=MED}}
+{{Jugador de fútbol|no=33|nac=AR|name=[[Leonel Pérez]]|edad={{edad|09|08|2004}}|procedencia={{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Gremio]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Atlético Huracán|Huracán]]|pos=MED}}
+{{Jugador de fútbol|no=37|nat=AR|name=[[Santino Benjamín Aguirre|Santino Aguirre]]|edad={{edad|15|03|2007}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=MED}}
+{{Jugador de fútbol|no=46|nat=AR|name=[[Alejandro Joaquín Tello|Alejandro Tello]]|edad={{edad|08|02|2008}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=MED|internacional={{bandera|AR}} [[Selección de fútbol sub-17 de Argentina|Sub-17]]}}
+|-
+| colspan=9 bgcolor=#6AB5FF style="color:#FFFFFF;" align=center| '''Delanteros'''
+{{Jugador de fútbol|no=7|nat=COL|name=[[Duván Vergara]]|edad={{edad|09|09|1996}}|procedencia={{bandera|COL}} [[América de Cali]]|contrato=31-12-2028|formativo={{bandera|COL}} [[Envigado Fútbol Club|Envigado]]|pos=DEL}}
+{{jugador de fútbol|no=9|nat=AR|name=[[Adrián Emmanuel Martínez|Adrián Martínez]]|edad={{edad|07|07|1992}}|procedencia={{bandera|AR}} [[Instituto Atlético Central Córdoba|Instituto]]|contrato=31-12-2028|formativo={{bandera|AR}} [[Club Atlético Defensores Unidos|Defensores Unidos]]|pos=DEL}}
+{{Jugador de fútbol|no=17|nat=AR|name=[[Tomás Conechny]]|edad={{edad|30|03|1998}}|procedencia= {{bandera|ESP}} [[Deportivo Alavés]]|contrato=31-12-2029|formativo= {{bandera|AR}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]|pos=DEL|internacional={{bandera|AR}} [[Selección de fútbol sub-17 de Argentina|Sub-17]]}}
+{{Jugador de fútbol|num=21|nat=AR|name=[[Valentín Carboni]] {{lesión}}|edad={{edad|5|3|2005}}|procedencia={{bandera|ITA}} [[Inter de Milán]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Atlético Lanús|Lanús]]|pos=DEL|internacional={{bandera|AR}} [[Selección de fútbol de Argentina|Absoluta]]}}
+{{Jugador de fútbol|no=22|nat=AR|name=[[Elías David Torres|Elías Torres]]|edad={{edad|02|03|2001}}|procedencia= {{bandera|AR}} [[Club Atlético Aldosivi|Aldosivi]]|contrato=31-12-2029|formativo={{bandera|AR}} [[Club Deportivo Atalaya (Córdoba)|Atalaya]]|pos=DEL}}
+{{Jugador de fútbol|no=27|nat=AR|name=[[Leandro Córdoba]]|edad={{edad|12|05|2005}}|procedencia={{bandera|AR}} [[Club Atlético Racing|Racing (C)]]|contrato=31-12-2030|formativo={{bandera|AR}} [[Club Sportivo Belgrano|Sportivo Belgrano]]|pos=DEL}}
+{{Jugador de fútbol|no=32|nat=AR|name=[[Lautaro Ariel Díaz|Lautaro Díaz]]|edad={{edad|21|05|1998}}|procedencia={{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]|contrato=31-12-2027|formativo={{bandera|AR}} [[Club Atlético Estudiantes|Estudiantes BA]]|pos=DEL}}
+{{Jugador de fútbol|no=35|nat=ECU|name=[[Driden Alberto Campo Deusa|Alberto Campo]]|edad={{edad|14|09|2006}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=DEL}}
+{{Jugador de fútbol|no=40|nat=AR|name=[[Francisco Fraga]]|edad={{edad|17|02|2006}}|procedencia= Inferiores|contrato=31-12-2030|formativo= Inferiores|pos=DEL}}
+|-
+{{Equipo de fútbol fin
+|entrenador= {{bandera|AR}} [[Juan Pablo Vojvoda]]
+|adjunto= {{bandera|AR}} Gastón Liendo <br> {{bandera|AR}} Nahuel Martínez
+|preparador= {{bandera|AR}} Luis Azpiazu <br> {{bandera|AR}} Danilo Volonte
+|porteros= {{bandera|AR}} [[Ignacio Carlos González|Ignacio González]]
+|médico= {{bandera|AR}} Ariel De Toma <br> {{bandera|AR}} Juan Linares 
+<p>'''Kinesiólogo(s)''' </p> {{bandera|AR}} Rosendo Regueiro <br> {{bandera|AR}} Hernán Peláez <br> {{bandera|AR}} Ignacio Astraldi 
+<p>'''Readaptador''' </p> {{bandera|AR}} Matías Nasif Balín
+<p>'''Analista(s) de videos'''</p> {{bandera|AR}} Federico Anastasi <br> {{bandera|ALE}} Alejandro Fusario <br> {{bandera|AR}} Ezequiel Scher
+|actualización= 3 de septiembre de 2026|url plantilla= https://www.racingclub.com.ar/futbol/primer-equipo/plantel}}
+
+=== Mercado de invierno de 2026 ===
+{{caja de cita|[[Archivo:Red Arrow Down.svg|15px]] '''Gastos en fichajes: 6&nbsp;850&nbsp;000 USD USD}}
+{|class="wikitable collapsible collapsed col1izq col4izq" style="font-size:90%; text-align: center; width:800px;"
+! colspan=5 style="color:white; background:#6AB5FF" align="center"|'''Altas invierno 2026
+|- bgcolor=FFFFFF style="color:black;"
+!'''Jugador
+!width=30|{{abreviación|'''Pos.|Posición}}
+!'''Origen
+!'''Tipo
+!'''Coste
+|-
+|align=left|[[Archivo:Fairytale up.png|20x20px]] {{bandera|AR}} [[Juan Pablo Vojvoda]]
+|align=left|{{ent}}
+|align=left|{{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+|align=left|Contratación
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up.png|20x20px]] [[Archivo:Flag Argentina and Paraguay.png|20px]] [[Matías Damián Pérez]]
+|align=left|{{def}}
+|align=left|{{bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]
+|align=left|Traspaso
+|align=center|2&nbsp;700&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale up blue.png|20x20px]] {{bandera|AR}} [[Juan Barinaga]]
+|align=left|{{def}}
+|align=left|{{bandera|AR}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|align=left|Préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up red.png|20x20px]] {{bandera|URU}} [[Luis Alfonso Espino García|Alfonso Espino]]
+|align=left|{{def}}
+|align=left|{{bandera|ESP}} [[Rayo Vallecano de Madrid|Rayo Vallecano]]
+|align=left|Libre
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up.png|20x20px]] [[Archivo:Flag of Argentina and Chile (vector).svg|20px]] [[Ulises Ortegoza]]
+|align=left|{{med}}
+|align=left|{{bandera|AR}} [[Club Atlético Talleres (Córdoba)|Talleres (Cba)]]
+|align=left|Traspaso
+|align=center|1&nbsp;500&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale up.png|20x20px]] {{bandera|AR}} [[Gastón Lodico]]
+|align=left|{{med}}
+|align=left|{{bandera|AR}} [[Instituto Atlético Central Córdoba|Instituto (Cba)]]
+|align=left|Traspaso
+|align=center|2&nbsp;000&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale up blue.png|20x20px]] {{bandera|AR}} [[Leonel Pérez]]
+|align=left|{{med}}
+|align=left|{{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Gremio]]
+|align=left|Préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up red.png|20x20px]] {{bandera|AR}} [[Matías Kranevitter]]
+|align=left|{{med}}
+|align=left|{{bandera|TUR}} [[Fatih Karagümrük Spor Kulübü|Fatih Karagümrük]]
+|align=left|Libre
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up.png|20x20px]] {{bandera|AR}} [[Leandro Córdoba]]
+|align=left|{{del}}
+|align=left|{{bandera|AR}} [[Club Atlético Racing|Racing (Cba)]]
+|align=left|Traspaso (50%)
+|align=center|650&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale up blue.png|20x20px]] {{bandera|AR}} [[Lautaro Ariel Díaz|Lautaro Díaz]]
+|align=left|{{del}}
+|align=left|{{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|align=left|Préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale up blue.png|20x20px]] {{bandera|AR}} [[Valentín Carboni]]
+|align=left|{{del}}
+|align=left|{{bandera|ITA}} [[Inter de Milán]]
+|align=left|Extensión de préstamo
+|align=center|-
+|-
+|}
+
+{{caja de cita|[[Archivo:Green Arrow Up.svg|15px]] '''Ingresos por ventas/préstamos: 18&nbsp;900&nbsp;000 USD}}
+{|class="wikitable collapsible collapsed col1izq col4izq" style="font-size:90%; text-align: center; width:800px;"
+! colspan=5 style="color:white; background:#6AB5FF" align="center"|'''Bajas invierno 2026
+|- bgcolor=FFFFFF style="color:black;"
+!'''Jugador
+!width=30|{{abreviación|'''Pos.|Posición}}
+!'''Destino
+!'''Tipo
+!'''Coste
+|-
+|align=left|[[Archivo:Fairytale down red.png|20x20px]] {{bandera|AR}} [[Gustavo Costas]]
+|align=left|{{ent}}
+|align=left|{{bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]
+|align=left|Desvinculación
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale down.png|20x20px]] {{bandera|AR}} [[Gabriel Rojas (futbolista argentino)|Gabriel Rojas]]
+|align=left|{{def}}
+|align=left|{{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|align=left|Traspaso
+|align=center|6&nbsp;000&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down.png|20x20px]] {{bandera|AR}} [[Franco Pardo]]
+|align=left|{{def}}
+|align=left|{{bandera|MEX}} [[Club Santos Laguna|Santos Laguna]]
+|align=left|Traspaso
+|align=center|2&nbsp;500&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down red.png|20x20px]] {{bandera|AR}} [[Agustín García Basso]]
+|align=left|{{def}}
+|align=left|{{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|align=left|Rescisión
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale down blue.png|20x20px]] {{bandera|URU}} [[Gastón Martirena]]
+|align=left|{{def}}
+|align=left|{{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|align=left|Préstamo
+|align=center|300&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down blue.png|20x20px]] {{bandera|AR}} [[Tobías Rubio]]
+|align=left|{{def}}
+|align=left|{{bandera|AR}} [[Club Atlético Unión (Santa Fe)|Unión]]
+|align=left|Préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale down.png|20x20px]] {{bandera|AR}} [[Santiago Sosa]]
+|align=left|{{med}}
+|align=left|{{bandera|BRA}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|align=left|Traspaso
+|align=center|7&nbsp;500&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down.png|20x20px]] {{bandera|AR}} [[Baltasar Rodríguez]]
+|align=left|{{med}}
+|align=left|{{bandera|AR}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|align=left|Traspaso (50%)
+|align=center|2&nbsp;000&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down red.png|20x20px]] {{bandera|AR}} [[Bruno Zuculini]]
+|align=left|{{med}}
+|align=left|{{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|align=left|Rescisión
+|align=center|400&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down blue.png|20x20px]] {{bandera|AR}} [[Gonzalo Sebastián Sosa|Gonzalo Sosa]]
+|align=left|{{med}}
+|align=left|{{bandera|URU}} [[Club Deportivo Maldonado|Deportivo Maldonado]]
+|align=left|Préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale down grey.png|20x20px]] {{bandera|CHI}} [[Damián Pizarro]]
+|align=left|{{del}}
+|align=left|{{bandera|ITA}} [[Udinese Calcio|Udinese]]
+|align=left|Fin de préstamo
+|align=center|-
+|-
+|align=left|[[Archivo:Fairytale down blue.png|20x20px]] {{bandera|AR}} [[Santiago Germán Solari|Santiago Solari]]
+|align=left|{{del}}
+|align=left|{{bandera|AR}} [[Club Atlético Newell's Old Boys|Newell's]]
+|align=left|Préstamo
+|align=center|200&nbsp;000 USD
+|-
+|align=left|[[Archivo:Fairytale down blue.png|20x20px]] {{bandera|AR}} [[Tomás Agustín Pérez|Tomás Pérez]]
+|align=left|{{del}}
+|align=left|{{bandera|AR}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|align=left|Préstamo
+|align=center|-
+|-
+|}
+
+=== Máximos goleadores ===
+[[Archivo:Ohaco Alberto.jpg|miniatura|200px|[[Alberto Ohaco]]: máximo goleador en la historia del club]]
+
+* Se contabilizan a los 10 jugadores con más goles convertidos.
+{| cellpadding="4" border=1 cellspacing="0" style="margin: 0.5em 1em 0.5em 0; LightSkyGreen: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; "width=50%
+|- bgcolor=#EFEFEF
+!Jugador
+!Goles convertidos
+|-
+|style="; background:#a6deff;"|{{bandera|AR}} '''[[Alberto Ohaco]]'''||style="text-align:center; background:#a6deff;"|'''244'''
+|-
+||{{bandera|AR}} [[Alberto Marcovecchio]]||style="text-align:center;"|207
+|-
+||{{bandera|AR}} [[Alberico Zabaleta]]|| style="text-align:center;" |141
+|-
+||{{bandera|AR}} [[Evaristo Barrera]] <small>(en la era profesional)</small>||style="text-align:center;"|138
+|-
+||{{bandera|AR}} [[Juan José Pizzuti]]||style="text-align:center;"|125
+|-
+||{{bandera|AR}} [[Pablo Frers]]|| style="text-align:center;" |121
+|-
+||{{bandera|AR}} [[Natalio Perinetti]]||style="text-align:center;"|112
+|-
+||{{bandera|AR}} [[Pedro Ochoa]]||style="text-align:center;"|109
+|-
+||{{bandera|AR}} [[Llamil Simes]]||style="text-align:center;"|106
+|-
+||{{bandera|AR}} [[Juan Perinetti]]|| style="text-align:center;" |99
+|}
+
+=== Mayores participaciones ===
+[[Archivo:Natalio Perinetti.jpg|miniatura|200px|[[Natalio Perinetti]]: máximo exponente en participaciones de la historia del club]]
+* Se contabilizan a los 10 jugadores con más partidos disputados.
+{| cellpadding="4" border=1 cellspacing="0" style="margin: 0.5em 1em 0.5em 0; LightSkyGreen: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; "width=50%
+|- bgcolor=#EFEFEF
+!Jugador
+!Partidos disputados
+|-
+|style="; background:#a6deff;"|{{bandera|AR}} '''[[Natalio Perinetti]]'''||style="text-align:center; background:#a6deff;"| '''405'''
+|-
+||{{bandera|AR}} [[Gustavo Costas]] <small>(en la era profesional)</small>||style="text-align:center;"|337
+|-
+||{{bandera|AR}} [[Agustín Mario Cejas]]||style="text-align:center;"|334
+|-
+||{{bandera|AR}} [[Claudio Úbeda]]||style="text-align:center;"|329
+|-
+||{{bandera|AR}} [[Juan Carlos Cárdenas]]|| style="text-align:center;" |321
+|-
+||{{bandera|AR}} [[Iván Pillud]]|| style="text-align:center;" |321
+|-
+||{{bandera|AR}} [[Ezra Sued]]||style="text-align:center;"|308
+|-
+||{{bandera|AR}} [[Carlos Squeo]]||style="text-align:center;"|306
+|-
+||{{bandera|AR}} [[José García]]||style="text-align:center;"|272
+|-
+||{{bandera|AR}} [[Armando Reyes]]||style="text-align:center;"|269
+|}
+
+=== Entrenadores ===
+{{AP|Anexo:Entrenadores del Racing Club}}
+[[Archivo:Sulamericana CUP 2023 Semifinal - Corinthians x Fortaleza-CE (53554974274).jpg|miniatura|200px|[[Juan Pablo Vojvoda]], actual entrenador del club]] 
+Previo a 1931, los [[entrenador]]es eran jugadores de campo o dirigentes que se hacían cargo también del entrenamiento, armado y dirección del equipo. En la era profesional Racing ha tenido 94 entrenadores distintos: 2 [[uruguayos]], 1 [[Hungría|húngaro]], 1 [[austríaco]], 1 [[Italia|italiano]] y 89 [[argentinos]]. El club ha cambiado de entrenador unas 135 veces (contando 37 [[Administración interina|interinatos]] y 98 cargos efectivos).<ref>{{cita web|url=https://www.transfermarkt.com.ar/racing-club/mitarbeiterhistorie/verein/1444/personalie_id/0/plus/1|título=Historial del Organigrama de Racing Club|fechaacceso=2023-6-16|sitioweb=Transfermarkt|editor=[[Transfermarkt]]}}</ref>
+
+El primer entrenador del club en el profesionalismo fue el exjugador académico [[Armando Reyes]], quien fue también el primer director técnico consagrado campeón de la institución.<ref name="reyes" /> A lo largo de la historia, otros casos singulares fueron los de [[José Della Torre]], [[Saúl Ongaro]], [[Juan José Pizzuti]], [[Alfio Basile]] y [[Gustavo Costas]], quienes lograron el doble mérito de consagrarse campeones tanto en su etapa como jugadores como en la de entrenadores.<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1121/83678/campeones-con-racing-como-jugador-y-como-entrenador|título=Campeones con Racing como jugador y como entrenador|fechaacceso=2025-09-27|apellido=Maverino|nombre=Silvio|fecha=2024-11-23|sitioweb=El Gráfico}}</ref> Asimismo se destaca [[Reinaldo Merlo]], quién es muy querido por haber cortado con la racha de 35 años sin un nuevo campeonato.<ref>{{cita web|url=https://www.racingclub.com.ar/idolos/reinaldo-merlo/|título=Ídolos: Reinaldo Merlo|fechaacceso= 2020-6-18|sitioweb=Racing Club - Sitio Oficial}}</ref>
+
+Entre las figuras más relevantes de la dirección técnica se encuentra [[Guillermo Stábile]], máximo ganador en la historia del club y primer entrenador tricampeón del fútbol argentino.<ref name="tri" /> No obstante, el hito más trascendente corresponde a Pizzuti, conductor del «[[Equipo de José]]», plantel emblemático que logró posicionamiento a nivel mundial por ser el primer equipo argentino campeón mundial.<ref name="wc" />
+
+<div style="float:left; width:600px; font-size:100%; border:0px; padding:0px; margin-left:1em; margin-right:5px; margin-bottom:0px; text-align:left">
+{{cuadro|azul|logo=Racing Club (2014).svg |border=1px|col1=#ffffff|col2= blue|col3=#FFFFff|título=Cuerpo técnico 2026|contenido=
+* '''Entrenador:''' [[Juan Pablo Vojvoda]].<ref>{{cita web |url=https://www.racingclub.com.ar/futbol/primer-equipo/plantel|título=Plantel Profesional de Racing Club|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Entrenador adjunto:''' Gastón Liendo.
+* '''Ayudantes de campo:''' Nahuel Martínez.
+* '''Entrenador de arqueros:''' [[Ignacio Carlos González|Ignacio González]].
+* '''Preparadores físicos:''' Luis Azpiazu y Danilo Volonte.
+* '''Analistas de videos:''' Federico Anastasi, Ezequiel Scher y Alejandro Fusario.
+* '''Médicos:''' Ariel De Toma y Juan Linares.
+* '''Kinesiólogos:''' Rosendo Regueiro, Hernán Peláez e Ignacio Astraldi.
+* '''Readaptador:''' Matías Nasif Balín.
+* '''Masajista:''' Aníbal González.
+* '''Nutricionistas:''' Karina Gavini y Matías Beier.
+* '''Psicólogo:''' Christian Rodríguez.
+* '''Psicóloga Deportiva:''' Andrea Ricagno.
+* '''Utileros:''' Oscar Álvarez y Carlos Chirón.
+* '''Coordinador de plantel:''' Damián Kimelman.
+}}
+</div>{{clear|left}}
+
+=== Presidentes ===
+{{AP|Anexo:Presidentes del Racing Club}}
+[[Archivo:Diego Milito (22677058983) (cropped).jpg|miniatura|200px|[[Diego Milito]], actual presidente del Racing Club desde el 2024. Bicampeón del club como jugador y también bicampeón como director deportivo. Fue el impulsor del «Racing Positivo». Es junto con Alejandro Carbone, Pedro Werner, Julio Planisi y Ernesto Malbec, uno de los cinco presidentes del club que también fueron jugadores de la institución académica.]]
+
+En su historia Racing ha tenido 37 presidentes distintos, habiendo elegido a su máximo representante en 54 ocasiones.<ref>[http://www.rsssf.com/tablesr/racingclub.html Presidentes] en RSSSF. Consultado el 21 de septiembre de 2008.</ref> Durante la [[Blanquiceleste|quiebra del club]] entre los años 1999 y 2008 (por 9 años), Racing no tuvo presidentes ni elecciones para tal fin.<ref>{{cita web|autor=Racing Club - Sitio Oficial|url=https://www.racingclub.com.ar/areas/comision-memoria/|título=Comisión de la memoria}}</ref>
+Se destacan los mandatos de [[Arturo Artola]], Arturo Giro, Leopoldo Siri, Luis Carbone, Manuel Vázquez, Julio Planisi, [[Pedro Groppo]], Alberto Sordelli, Ernesto Malbec, Carlos Paillot, Sigifredo Manuel Sisco, Juan Carlos Athor, Santiago Saccol, Baldomero Pico, Juan De Stéfano, Rodolfo Molina y [[Víctor Blanco]].
+
+<div style="float:left; width:600px; font-size:100%; border:0px; padding:0px; margin-left:1em; margin-right:5px; margin-bottom:0px; text-align:left">
+{{cuadro|azul|logo=Racing Club (2014).svg |border=1px|col1=#ffffff|col2= blue|col3=#FFFFff|título=Comisión Directiva 2024-2028|contenido=
+* '''Presidente:''' [[Diego Milito]].<ref>{{cita web |url=https://www.racingclub.com.ar/comision-directiva/|título=Comisión Directiva de Racing Club|autor=Racing Club - Sitio Oficial}}</ref>
+* '''Vicepresidente {{Ord|1.|ero}}:''' [[Hernán Lacunza]].
+* '''Vicepresidente {{Ord|2.|do}}:''' Martín Ferré.
+* '''Director Deportivo:''' [[Sebastián Saja]].
+* '''Secretario General:''' Kevin Feldman.
+* '''Prosecretario:''' Federico Ferioli.
+* '''Tesorero:''' Diego Cifarelli.
+* '''Protesorero:''' Daniel Grobocopatel.
+* '''Gerente General:''' Sebastián Blanklejder.
+* '''Secretario Técnico:''' Javier Weiner.
+* '''Director general del fútbol amateur:''' Miguel Gomis.
+* '''Coordinador del fútbol juvenil:''' [[Hugo Donato]].
+* '''Team Mánager:''' [[Franco Zuculini]].
+* '''Vocales:''' Rodolfo Molina, Gustavo Domínguez, Mariano Cejas, Diego Bartalotta, [[Delfina Merino]], Leandro Rodríguez Hevia, Diego Raiman, Carlos Muttoni, Fernando Ramírez, [[Leandro Leunis]], [[Camila Crescimbeni]] y Leonardo Jakim.
+}}
+</div>{{clear|left}}
+
+== Rivalidades ==
+[[Archivo:Racing Independiente 1966.jpg|miniatura|[[Club Atlético Independiente|Independiente]] felicita a Racing por obtener la [[Campeonato de Primera División 1966 (Argentina)|Primera División 1966]].]]
+{{AP|Anexo:Rivalidades del Racing Club}}
+{{VT|Clásico de Avellaneda|Clásico Racing Club-Boca Juniors|Clásico Racing Club-River Plate|Clásico Racing Club-San Lorenzo}}
+El histórico rival de Racing Club es el [[Club Atlético Independiente]], institución vecina con la que comparte el «[[Clásico de Avellaneda]]». Considerado el segundo partido de mayor relevancia del fútbol argentino, por detrás del [[Superclásico del fútbol argentino|Superclásico]],<ref>{{Cita web|url=http://fourfourtwo.com/features/where-theres-smoke-theres-fire-independiente-vs-racing-club-argentinas-real-derby-real-fans|título=Where there’s smoke, there’s fire: Independiente vs Racing Club, Argentina's 'real derby for real fans'|títulotrad=Donde hay humo, hay fuego: Independiente vs. Racing Club, el «verdadero clásico para verdaderos aficionados» de Argentina.|fechaacceso=2026-08-09|apellido=Neilson|nombre=Daniel|fecha=2008-08-01|sitioweb=FourFourTwo|idioma=en}}</ref> su importancia está vinculada —entre otros factores— a la proximidad de los estadios, distantes a menos de 300 metros,<ref>{{Cita web|url=https://www.infobae.com/deportes-2/2018/07/25/como-el-clasico-de-avellaneda-pero-en-el-mundo-14-estadios-vecinos-divididos-por-escasos-metros/|título=14 estadios vecinos divididos por escasos metros|fechaacceso=2022-10-21|fecha=2018-07-25|sitioweb=Infobae|editor=Infobae}}</ref>y a una rivalidad desarrollada desde comienzos del {{Siglo|XX|3=s}}.<ref>{{Cita web|url=https://www.90min.com/posts/independiente-vs-racing-club-a-story-of-hatred-noisy-neighbours-7-black-cats-01e8esc1skrz|título=Independiente vs Racing Club: A Story of Hatred, Noisy Neighbours & 7 Black Cats|fechaacceso=2026-09-15|fecha=2020-05-18|sitioweb=90min.com|idioma=en-GB}}</ref> La misma estuvo marcada por disputas en torno a la localía, diferencias ideológicas entre los socios fundadores y diversas supersticiones incorporadas posteriormente por las hinchadas.<ref>{{Cita web|url=https://www.tiempoar.com.ar/ta_article/historia-de-independiente-racing-dos-vecinos-intimos/|título=Historia de Independiente-Racing, dos vecinos íntimos|fechaacceso=2026-09-15|apellido=Fabbri|nombre=Alejandro|fecha=2022-03-15|sitioweb=Tiempo Argentino}}</ref>El enfrentamiento también ha sido incluido entre los clásicos de mayor trascendencia internacional por las revistas británicas especializadas ''[[FourFourTwo]]'', ''[[The Sun]]'' y ''[[World Soccer Magazine]]''.<ref>{{cita web|título=Los 50 clásicos más importantes del mundo|url=https://www.tycsports.com/futbol/los-50-clasicos-mas-importantes-del-mundo.html|editorial=[[TyC Sports]]|fecha=5 de mayo de 2016|fechaacceso=}}</ref>
+
+Con los otros integrantes de los denominados «[[Cinco grandes del fútbol argentino|Cinco Grandes]]» —[[Club Atlético Boca Juniors|Boca Juniors]],<ref>{{cita web|título=Los Boca-Racing históricos|url=http://442.perfil.com/2011-11-19-98902-los-boca-racing-historicos-1a-parte/|fechaacceso=2011-11-19|editor=Perfil|sitioweb=Perfil}}</ref> [[Club Atlético River Plate|River Plate]]<ref>{{cita web|título=Cumple 114 años el clásico más antiguo|url=https://www.ole.com.ar/river-plate/racing-river-clasico_0_kRrbebg0l.html|autor=[[Diario Olé]]|fechaacceso=2020-4-22}}</ref> y [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]—,<ref>{{cita web|título=Efemérides Racing-San Lorenzo, 102 años de rivalidad|url=http://www.elprimergrande.com/noticia/efemerides-racing-san-lorenzo-102-anos-rivalidad-el-primer-grande/|autor=El Primer Grande|fechaacceso=2017-5-16}}</ref> Racing Club también mantiene rivalidades. Estos enfrentamientos adquirieron carácter de clásicos principalmente por su trascendencia deportiva y mediática,<ref>{{Cita web|url=https://www.airedesantafe.com.ar/deportes/rompiendo-mitos-por-que-se-llaman-los-cinco-grandes-n119052|título=Rompiendo mitos: ¿por qué son “los cinco grandes” del fútbol argentino Boca, River, Independiente, Racing y San Lorenzo?|fechaacceso=2026-09-15|apellido=Yossen|nombre=Andrés|fecha=2023-08-04|sitioweb=Aire de Santa Fe|cita=Con el paso del tiempo, el cruce de estos equipos conllevó al mote de “El Clásico del Domingo”, utilizado por la televisación para maximizar sus ventas del fútbol premium. Generalmente, los fixtures se armaban con tal de que exista un enfrentamiento entre los cinco equipos grandes, por fecha.}}</ref> por aunque no constituyen [[Derbi (deporte)|derbis]] en sentido estricto como el disputado frente a Independiente.<ref>{{Cita web|url=https://www.fundeu.es/consulta/derbi-clasico-superclasico-2635/|título=derbi, clásico y superclásico|fechaacceso=2026-08-09|fecha=2010-11-26|sitioweb=FundéuRAE|editor=FundéuRAE|cita=[...] derbi se define como ‘encuentro, por lo común futbolístico, entre dos equipos cuyos seguidores mantienen constante rivalidad, casi siempre por motivos regionales o localistas’. [...] el Libro de estilo de Marca especializa clásico para el ‘encuentro disputado entre dos equipos de un mismo país, ambos muy laureados y relacionados por una rivalidad que persiste en el tiempo’.}}</ref> Particularmente, el [[Clásico Racing Club-River Plate]] —disputado desde el 22 de abril de 1906— es denominado por la prensa especializada como «el clásico más antiguo del fútbol argentino»,<ref>{{Cita web|url=https://www.ole.com.ar/river-plate/racing-river-clasico_0_kRrbebg0l.html|título=Cumple 114 años el clásico más antiguo|fechaacceso=2023-12-14|apellido=Olé|nombre=Diario Deportivo|fecha=2020-04-22|sitioweb=Olé|idioma=es}}</ref> aunque esta denominación suele ser puesta en debate.{{refn|La consideración de cuál es el «clásico más antiguo» varía según el criterio empleado y las fuentes consultadas.<ref>{{Cita web|url=https://elcirculo.com.ar/nacionales/deportes-nacionales/por-que-river-y-racing-son-el-clasico-mas-viejo-del-futbol-argentino/|título=¿CUÁL ES EL CLÁSICO MÁS VIEJO DEL FÚTBOL ARGENTINO?|fechaacceso=2023-12-14|apellido=Vergari|nombre=Agustín|fecha=2023-07-28|sitioweb=El Círculo de Periodistas|idioma=es}}</ref> El [[clásico rosarino]] entre [[Club Atlético Newell's Old Boys|Newell's Old Boys]] y [[Club Atlético Rosario Central|Rosario Central]], cuyo primer enfrentamiento oficial se remonta al 18 de junio de 1905, también ha sido considerado el más antiguo del fútbol argentino.<ref>{{Cita web|url=https://alejandrofabbri.com.ar/racing-river-es-el-clasico-mas-antiguo/|título=¿Racing-River es el clásico más antiguo?|fechaacceso=2026-08-09|apellido=Fabbri|nombre=Alejandro|fecha=2020-08-13|sitioweb=Alejandro Fabbri}}</ref> Sin embargo, en el caso del enfrentamiento entre Racing Club y River Plate, además, existen antecedentes vinculados con entidades predecesoras de River Plate, como el partido disputado por Racing ante el [[Club La Rosales]] en 1903.<ref>{{Cita web|url=http://martinestevez.blogspot.com/2014/06/racing-club-temporada-1903.html|título=Racing Club - Temporada 1903|fechaacceso=2014-06-18|apellido=Estévez|nombre=Martín|fecha=|sitioweb=Derrota digna}}</ref>|grupo=n}}
+
+== Secciones deportivas ==
+{{AP|Anexo:Secciones deportivas del Racing Club}}
+
+La principal actividad deportiva del club es el [[fútbol|fútbol masculino]], que disputa la [[Primera División de Argentina|Liga Profesional]], aunque también compite a nivel profesional en otros deportes como [[fútbol femenino]], [[baloncesto]], [[fútbol sala]], [[hockey sobre césped|hockey]] y [[fútbol playa]]. Mientras que el [[tenis]], [[boxeo]], [[voleibol]], [[balonmano]], [[judo]], [[Patinaje artístico sobre ruedas|patín artístico]], [[aikido]], [[gimnasia artística]], [[taekwondo]], [[muay thai]], [[sibpalki]], [[atletismo]], [[esgrima]], [[Natación (deporte)|natación]], [[saltos ornamentales]], [[Fútbol en silla motorizada|powerchair]], [[danza]] y [[ajedrez]] se practican a nivel amateur.<ref>{{cita web|url=https://www.racingclub.com.ar/deportes|título=Deportes de Racing Club|fechaacceso= 2019-06-30|autor=Racing Club - Sitio Oficial}}</ref>
+
+{{Galería de imágenes
+|Ricardo Alix - El Gráfico 1973.jpg|[[Selección de básquetbol de Argentina|Ricardo Alix]], figura histórica del [[baloncesto]] racinguista.
+|Argentina v South Africa (7718234646).jpg|[[Daniela Sruoga]], figura del [[Selección femenina de hockey sobre césped de Argentina|hockey femenino nacional]].
+|Horacio Acavallo vs Kutsuyoshi Takayama.png|[[Horacio Acavallo]], campeón mundial de [[peso mosca]].
+|Con-29.jpg|[[Rocío Bueno]], goleadora del [[Racing Club (fútbol femenino)|fútbol femenino académico]].
+}}
+
+== Área social y cultural ==
+[[Archivo:Guillermo Francella en Premios Platino 2023.jpg|miniatura|150px|izquierda|[[Guillermo Francella]], declarado ilustre hincha académico en 2010<ref>{{cita noticia|título=Racing agasajó a Guillermo Francella por haber ganado el Oscar|url=https://www.elcomercioonline.com.ar/articulos/50032260-Racing-agasajo-a-Guillermo-Francella-por-haber-ganado-el-Oscar.html|fechaacceso=16 de marzo de 2024}}</ref>]]
+=== Racing en la cultura ===
+{{AP|Anexo:Racing Club en la cultura}}
+Debido a su historia, Racing Club ha trascendido el ámbito deportivo y ha calado en la cultura popular argentina, gozando de una amplia cantidad de personalidades simpatizantes del club, se tienen por ejemplo, a los artistas [[Carlos Gardel]], [[Gustavo Cerati]], [[Ricardo Iorio]], [[Jorge Porcel]], [[Alfredo Casero]], [[Diego Capusotto]] y [[Guillermo Francella]];<ref>{{cita web|título=Racing campeón: de Mirtha Legrand a Guillermo Francella, el festejo de los hinchas famosos de la Academia|url=https://www.clarin.com/deportes/futbol/racing-club/racing-campeon-mirtha-legrand-guillermo-francella-festejo-hinchas-famosos-academia_0_DFiOJJtjm.html|autor=[[Diario Clarín]]|fechaacceso=2019-04-01}}</ref> políticos como [[Juan Domingo Perón]] y [[Néstor Kirchner]];<ref>{{cita web|título=Racing: Sus hinchas más famosos|url=https://www.losandes.com.ar/sus-hinchas-mas-famosos/|autor=[[Diario Los Andes]]|fechaacceso=2014-12-15}}</ref> y personalidades mundiales como [[Pelé]] (gloria del [[Selección de fútbol de Brasil|fútbol de Brasil]]),<ref>{{cita noticia|título=Pelé: el día que dijo que era hincha de Racing|url=https://www.lanacion.com.ar/deportes/futbol/pele-el-dia-que-dijo-que-era-hincha-de-racing-y-los-dos-clubes-grandes-que-lo-tentaron-para-jugar-en-nid29122022/|editorial=[[La Nación (Buenos Aires)|La Nación]]|fechaacceso=2022-12-29}}</ref> [[Guy Williams]] (actor de la serie [[El Zorro]]),<ref>{{cita noticia|título=All you need is Gol|url=https://www.pagina12.com.ar/diario/suplementos/radar/9-7649-2012-01-22.html|editorial=[[Página 12]]|fechaacceso=2012-01-22}}</ref> y [[René Goscinny]] (creador de [[Asterix]]).<ref>{{cita noticia|título=Obelix: la historia secreta del hincha de Racing menos pensado|url=https://www.infobae.com/deportes/2019/10/18/obelix-la-historia-secreta-del-hincha-de-racing-menos-pensado/|editorial=[[Infobae]]|fechaacceso=2019-10-18}}</ref> Del mismo modo, el club sirvió de [[Anexo:Racing Club en la cultura#Clubes en homenaje|inspiración para la creación]] de otros clubes de fútbol por todo el globo como [[América de Cali]],<ref>{{cita web|url=https://www.americadecali.co/historia/|título=Historia de América de Cali|fechaacceso= 2023-05-18|sitioweb=América de Cali - Sitio Oficial}}</ref> [[Deportes Tolima]],<ref>{{cita web|url=http://soydelvinotintoyoro.blogspot.com.ar/p/historia-deportes-tolima_09.html|título=Historia del Deportes Tolima|fechaacceso= 2021-07-12|sitioweb=Soy del Binotinto y Oro}}</ref> [[Club Deportivo Magallanes|Deportivo Magallanes]],<ref>{{cita web|url=https://www.clubmagallanes.cl/el-club/historia/|título=Historia del Club Magallanes|fechaacceso= 2023-05-18|sitioweb=Club Magallanes - Sitio Oficial}}</ref> [[Sociedad Deportivo Quito|Deportivo Quito]],<ref>{{cita web|url=https://www.eldestapeweb.com/deportes/racing-club/insolito-se-llama-independiente-pero-tiene-el-escudo-y-los-colores-de-racing-202391314390|título=Insólito: se llama Independiente pero tiene el escudo y los colores de Racing|fechaacceso= 2023-09-13|sitioweb=[[El Destape]]}}</ref> [[Racing Foot Ball Club]],<ref>{{cita web|url=http://dechalaca.com/copaperu/la-replica/la-replica-albiceleste-aunque-le-cueste|título=Racing: Albiceleste aunque le cueste|fechaacceso= 2015-03-09|sitioweb=De Chalaca}}</ref> [[Arsenal Fútbol Club]]<ref>{{cita web|url=http://www.arsenaldesarandiweb.com.ar/historia.html#footer6-l|título=Historia de Arsenal de Sarandí|fechaacceso= 2023-05-18|sitioweb=Arsenal de Sarandí - Sitio Oficial}}</ref> o [[Club Atlético Racing]].<ref>{{cita web|url=https://racingcba.com.ar/bienvenido/historia/|título=Historia de Racing de Córdoba|fechaacceso= 2023-05-18|sitioweb=Racing de Córdoba - Sitio Oficia}}</ref>
+
+=== Hinchada ===
+{{AP|Hinchada del Racing Club}}
+[[Archivo:Racing 2.jpg|miniatura|250px|«La N.º1» cuando se jugaba la promoción para no descender en 2008]]
+La hinchada del club, es comúnmente denominada como «La N.° 1», un acrónimo de «La Hinchada Número Uno», debido a que durante la mitad del {{Siglo|XX|3=s|4=0}} Racing era el equipo más convocante y popular del país.<ref>{{Cita publicación|url=https://twitter.com/HernandoRC/status/1257430531584806912|título=Nuestra Bandera Recibió el Bautismo de la "Hora 0"|fecha=1945|publicación=Revista Racing|fechaacceso=18 de julio de 2023}}</ref> También es conocida como «La Guardia Imperial» debido a la fidelidad constante de los más [[Fanatismo|fanáticos]].<ref>{{Cita noticia|apellidos=Albamonte|nombre=Luis María|título=La Guardia Imperial|url=https://twitter.com/RCArchivo/status/1589759023636963328/photo/1|fechaacceso=18 de julio de 2023|periódico=[[La Razón (diario de Buenos Aires)|La Razón]]|ubicación=[[Buenos Aires]]|número=945|año=1948}}</ref>
+
+Racing es el cuarto equipo con mayor cantidad de simpatizantes en todo el país, por detrás de [[Boca Juniors]] (42,10 % de simpatizantes), [[Club Atlético River Plate|River Plate]] (35,30 %) y palmo a palmo con [[Club Atlético Independiente|Independiente]] (4,90 %). Racing cuenta con 4,80 % del total de hinchas.<ref>{{cita web|título=Los 10 equipos con más hinchas del fútbol argentino según informes|url=https://www.90min.com/es/posts/10-equipos-mas-hinchas-futbol-argentino|autor=90min|fechaacceso=2022-5-31}}</ref><ref>{{cita web|título=Los 10 clubes de Argentina con más hinchas en el país, según un nuevo estudio|url=https://bolavip.com/ar/futbolargentino/Los-10-clubes-de-Argentina-con-mas-hinchas-en-el-pais-segun-un-nuevo-estudio-20220530-0021.html|autor=BolaVip|fechaacceso=2022-5-31}}</ref> Por otro lado, al 2017, según datos extraídos de todas las ''Memorias y Balances'' de la [[AFA]], Racing es el tercer equipo luego de Boca y River, con mayor número de boletos vendidos, con 35&nbsp;972&nbsp;574 entradas expendidas, teniendo un promedio por partido de 10 524 y siendo el primero en ventas 14 veces.<ref name="infobae_1">{{cita web |url=http://www.infobae.com/deportes-2/2016/11/02/boca-el-equipo-argentino-que-vendio-mas-entradas-en-toda-la-historia/|título=el-equipo-argentino-que-vendio-mas-entradas-en-toda-la-historia/|autor=[[Infobae]]|fechaacceso=02 de noviembre de 2016}}</ref><ref name="Marketing Registrado">{{cita web |url=https://www.marketingregistrado.com/ar/futbol/2020/03/16729_cuales-son-los-clubes-argentinos-que-mas-entradas-vendieron-entre-1917-y-2017/|título=Los clubes argentinos que más entradas vendieron|autor=Marketing Registrado|fechaacceso=16 de marzo de 2020}}</ref>
+
+El [[Clásico Racing Club-River Plate|clásico entre Racing Club y River Plate]] jugado el [[Campeonato Nacional 1968 (Argentina)|15-12-1968]], es el partido de campeonato con mayor asistencia de público en la historia del fútbol argentino, con 106&nbsp;000 espectadores.<ref name="90min.com">{{cita web|título=Los cinco partidos con más público en la historia del fútbol argentino|url=https://www.90min.com/es/posts/6357915-los-cinco-partidos-con-mas-publico-en-la-historia-del-futbol-argentino|autor=90min|fechaacceso=2019-4-29}}</ref>
+
+A nivel internacional, según datos oficiales de la [[Confederación Sudamericana de Fútbol|Conmebol]] en 2015, Racing es el cuarto equipo con mayor asistencia de público en la historia de la [[Copa Libertadores de América]], por detrás de [[Clube de Regatas do Flamengo|Flamengo]], [[Club Universidad de Chile|Universidad de Chile]] y [[Club Atlético River Plate|River Plate]], con 479 327 localidades vendidas en lo que va del máximo torneo sudamericano.<ref name="twitter_1">{{Cita web|url=https://twitter.com/CBrLibertadores/status/459788225062518784/photo/1|título=Mejores asistencias de público en la historia de la Copa Libertadores de América|editor=Confederación Sudamericana de Fútbol|fecha=25 de abril de 2014}}</ref>
+
+=== Sedes y filiales ===
+[[Archivo:Racing VDP.png|miniatura|150px|Emblema de la sede]]
+El club cuenta con dos sedes sociales: la principal en [[Avellaneda (Buenos Aires)|Avellaneda]], en la [[Provincia de Buenos Aires]] y un [[Sede Norberto Perone|anexo]] en el barrio de [[Villa del Parque (Buenos Aires)|Villa del Parque]], en la [[Buenos Aires|Ciudad de Buenos Aires]]. Además dispone de un total de 180 filiales distribuidas por todo el mundo, de las cuales 45 de ellas se encuentran en el extranjero.<ref>{{cita web|url=http://www.racingclub.com.ar/filiales/|título=Filiales|fechaacceso=2023-01-25|autor=Racing Club - Sitio Oficial}}</ref><ref>{{Cita web |url=https://www.ole.com.ar/racing/racing-filiales-relaciones-internacional_0_mUzFArYZ.html|título=A la conquista del mundo|fechaacceso=31 de enero de 2020 |autor= [[Diario Olé]]}}</ref>
+
+=== Colegio Racing Club ===
+[[Archivo:Colegio Racing.png|miniatura|150px|Emblema del colegio]]
+Es una escuela perteneciente al club, se ubica lindante a la sede social de Avellaneda. La puerta de ingreso al establecimiento educativo se encuentra decorada con un amplio mural realizado por el [[artista plástico]] ''Catriel López''.<ref>{{cita web|url=https://www.clarin.com/sociedad/artistas-argentinos-prestigiosa-exposicion-praga_0_NkbskvWVW.html|título=Artistas argentinos exponen por primera vez en una prestigiosa exposición en Praga|fechaacceso=2016-06-09|autor=[[Diario Clarín]]}}</ref> El 16 de julio de 2025 se adquiere un nuevo edificio de 1&nbsp;200m<sup>2</sup> en la calle Palaá al 524 para funcionar como sede principal del nuevo colegio Racing Club.<ref>{{cita web|url=https://www.racingclub.com.ar/colegio/nota/2025/07/15394_cada-vez-mas-grande/|título=Cada vez más grande|fechaacceso=2025-07-18|autor=Racing Club - Sitio Oficial}}</ref>
+
+==== Efemérides ====
+El colegio comenzó a funcionar en 1961 dentro de la Sede social, con el [[Educación preescolar|nivel inicial]].<ref>{{cita web|url=https://www.racingclub.com.ar/colegio/nota/2015/02/3839_el-jardin-de-infantes-al-borde-de-abrir-sus-puertas-en-el-cilindro/|título=El jardín de infantes, al borde de abrir sus puertas en el Cilindro|fechaacceso=2015-02-26|autor=Racing Club - Sitio Oficial}}</ref> En 2003, el edificio es trasladado hacia la calle Ameghino, paralela a Bartolomé Mitre, y comienza a funcional el [[Educación primaria|nivel primario]]. Finalmente en 2009, comienza a funcionar el [[Educación secundaria|nivel secundario]], logrando alcanzar los tres niveles educativos básicos.<ref>{{Cita web|url=https://www.racingclub.com.ar/colegio|título=Colegio Racing Club|fechaacceso=2023-06-01|sitioweb=Racing Club - Sitio Oficial|idioma=es}}</ref> Una gran cantidad de jugadores del club se graduaron allí como [[Carlos Jonás Alcaraz|Carlos Alcaraz]], [[Catriel Cabellos]], [[Tomás Avilés]] y [[Axel Agustín Ojeda|Agustín Ojeda]].<ref>{{cita web|url=https://www.racingclub.com.ar/colegio/nota/2021/03/12297_graduados-para-la-vida/|título=Graduados para la vida|fechaacceso=2023-01-25|autor=Racing Club - Sitio Oficial}}</ref> En 2025 se oficializa la compra de un nuevo edificio en donde funcionará el nivel inicial y primario, dejando al viejo edificio para el nivel secundario.<ref>{{cita web|url=https://www.racingclub.com.ar/colegio/nota/2025/07/15394_cada-vez-mas-grande/|título=Cada vez más grande|fechaacceso=2025-07-16|autor=Racing Club - Sitio Oficial}}</ref>
+
+=== Racing de Mozambique ===
+El [[Racing Club Mozambique|Racing Club de Mozambique]] fue fundado en marzo de 2016 en [[Maputo]], capital de [[Mozambique]], [[África]]. Debido a las labores de ayuda social del club en ese continente. Mediante el ''Departamento de Relaciones Internacionales'' del club y de la Filial «Juan Gabriel Arias» de Mozambique; formando un club homónimo para participar en el [[Campeonato mozambiqueño de fútbol]] y brindar ayuda humanitaria a los jóvenes de dicho país.<ref>{{Cita web|url=https://argentina.as.com/argentina/2019/10/11/futbol/1570808313_203201.html|título=Racing de Mozambique: de Avellaneda a Maputo|fecha=2019-10-11|sitioweb=Diario AS}}</ref><ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/1089/51242/juan-gabriel-arias-el-hombre-detras-del-racing-de-mozambique|título=Juan Gabriel Arias, el hombre detrás del Racing de Mozambique|fecha=2022-04-09|sitioweb=Diario El Gráfico}}</ref>
+Dicha labor humanitaria es llevada a cabo por el [[Presbítero|Padre]] Juan Gabriel Arias y fue asistida por el [[papa Francisco]] y por la [[Leo Messi|Fundación Leo Messi]].<ref>{{Cita web|url=https://www.clarin.com/sociedad/cura-vive-pobreza-extrema-mozambique-solo-extrana-racing_0_NPXHNEK87x.html|título=El cura que vive en la pobreza extrema en Mozambique y sólo extraña a Racing|fecha=2023-10-03|sitioweb=Diario Clarín}}</ref>
+
+=== Locademia ===
+[[Archivo:Locademia.png|miniatura|150px|Logo de Locademia]]
+«Locademia» es la tienda oficial de ''[[merchandising]]'' del Racing Club. Fue creada el 25 de marzo de 2009 y también cuenta con una tienda en línea.<ref>{{cita web|url=https://www.clarin.com/entremujeres/llego-locademia-tienda-racing-club_0_Sk77IpFP7g.html|título=Llegó Locademia, la tienda online de Racing|fechaacceso=2016-12-08|sitioweb=Clarín (periódico)|editor=Clarín|fecha=2013-04-24}}</ref> Actualmente dispone de siete puntos de venta. Entre ellos se destacan tres sucursales principales: una ubicada en la [[Anexo:Instalaciones del Racing Club#Sede Avellaneda|sede de Avellaneda]] y otras dos en la ciudad de Buenos Aires, específicamente en los barrios de [[San Nicolás (Buenos Aires)|San Nicolás]] ([[Anexo:Instalaciones del Racing Club#Sede Microcentro|sede Microcentro]]) y [[Villa del Parque (Buenos Aires)|Villa del Parque]] ([[sede Norberto Perone]]).<ref>{{Cita web|url=https://locademia.racingclub.com.ar/tienda/sucursales?srsltid=AfmBOopIVTVv5aThqkQyCS52PgD5B4-E2xTaArIyfLUJKiD44iUAHotl|título=Sucursales|fechaacceso=2026-03-10|fecha=2017-08-07|sitioweb=Locademia Tienda Oficial Racing Club|editor=Racing Club}}</ref>
+
+== Anexos ==
+<center>
+{| border="1" cellspacing="0" style="background: #f9f9f9; border: 2px #aaa solid; border-collapse: collapse; " width="100%"
+|- bgcolor=#EFEFEF
+! colspan="4" |Anexos y páginas relacionadas del Racing Club
+|- bgcolor=#EFEFEF
+! width="25%" |Entidades relacionadas
+! width="25%" |Datos estadísticos
+! width="25%" |Historia y hechos relevantes
+! width="25%" |Infraestructuras
+|-
+|
+* [[Hinchada del Racing Club|Hinchada]]
+* [[Anexo:Secciones deportivas del Racing Club|Secciones deportivas]]
+* [[Anexo:Divisiones inferiores del Racing Club|Divisiones inferiores]]
+* [[Racing Club (fútbol femenino)|Racing Femenino]]
+* [[Racing Club Mozambique|Racing de Mozambique]]
+* [[Equipo de José]]
+* [[Cinco grandes del fútbol argentino|Cinco Grandes]]
+|
+* [[Anexo:Palmarés del Racing Club|Palmarés]]
+* [[Anexo:Historial del Racing Club en competiciones nacionales|Partidos nacionales]]
+* [[Anexo:Historial del Racing Club en competiciones internacionales|Partidos internacionales]]
+* [[Clásico de Avellaneda]]
+* [[Clásico Boca Juniors-Racing Club|Clásico con Boca Juniors]]
+* [[Clásico Racing Club-River Plate|Clásico con River Plate]]
+* [[Clásico Racing Club-San Lorenzo|Clásico con San Lorenzo]]
+|
+* [[Anexo:Historia del Racing Club|Historia]]
+* [[Anexo:Récords del Racing Club|Récords]]
+* [[Historia del uniforme del Racing Club|Uniforme]]
+* [[Anexo:Futbolistas del Racing Club|Jugadores]]
+* [[Anexo:Entrenadores del Racing Club|Entrenadores]]
+* [[Anexo:Presidentes del Racing Club|Presidentes]]
+* [[Anexo:Racing Club en la cultura|Impacto cultural]]
+|
+* [[Anexo:Instalaciones del Racing Club|Instalaciones]]
+* [[Estadio Presidente Perón]]
+* [[Estadio de Alsina y Colón]]
+* [[Sede Norberto Perone]]
+* [[Predio Tita Mattiussi]]
+|}
+</center>
+
+== Véase también ==
+{{Portal|Fútbol en América}}
+{{Portal|Deporte en Argentina}}
+* [[Fútbol en Argentina]]
+* [[Asociación del Fútbol Argentino]]
+* [[Primera División de Argentina]]
+* [[Competiciones oficiales del fútbol argentino]]
+* [[Anexo:Estadísticas de los equipos de la primera categoría del fútbol argentino|Estadísticas de la Primera División de Argentina]]
+
+== Notas ==
+<references group="n"/>
+
+== Referencias ==
+{{listaref|3}}
+
+== Bibliografía ==
+* {{cita libro|apellido=Gotta|nombre=Guido|título=Historia de Racing: La Academia de Campeones|idioma=español|edición=1.ª|año=1988|editor=GAM|editorial=R.R. Ediciones|ubicación=Buenos Aires, Argentina|isbn=9789876480345|páginas=400|ref=Gotta}}
+* {{cita libro|apellido=Martolio|nombre=Edgardo|título=Racing Hepta. El libro del centenario - 1913/1919|idioma=español|edición=1.ª|url=https://www.google.com.pe/books/edition/Racing_Hepta/HNkCEAAAQBAJ?hl=es-419&gbpv=0|año=2020|editor=Ediciones del Empedrado|ubicación=Buenos Aires, Argentina|isbn=9789874727435|páginas=428|ref=Martolio}}
+* {{cita libro|apellido=Vásquez|nombre=Jorge|título=Racing. Historia, política y psicoanálisis|idioma=español|edición=1.ª|url=https://www.google.com.pe/books/edition/Racing/TzEoEAAAQBAJ?hl=es-419&gbpv=0|año=2021|editor=Ediciones Continente|ubicación=Buenos Aires, Argentina|isbn=9789507547126|páginas=428|ref=Vásquez}}
+
+== Enlaces externos ==
+{{Commonscat|Racing Club}}
+* [http://www.racingclub.com.ar/ Sitio web oficial]
+* {{facebook|racingcluboficial}}
+* {{twitter|RacingClub}}
+* {{Instagram|racingclub}}
+* {{TikTok|racingclub}}
+
+{{Control de autoridades}}
+{{ORDENAR:Racing}}
+[[Categoría:Racing Club| ]]

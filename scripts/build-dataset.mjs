@@ -3,6 +3,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs'
+import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -435,6 +436,83 @@ function main() {
   )
   for (const r of clubRejected) skipped.push(`${r.club} — ${r.name}: ${r.why} (${r.league}+${r.cups}+${r.intl} vs ${r.total})`)
 
+  // Wikipedia scorer tables (Primera career tables + more club tables). Only players still missing are
+  // added; a Primera career total wins over club totals, club totals are summed across clubs.
+  const wikiDir = path.join(RAW, 'wikipedia')
+  const { rows: wikiRows, rejected: wikiRejected } = parseWikiTables(wikiDir)
+  const wikiInfo = JSON.parse(fs.readFileSync(path.join(wikiDir, 'positions.json'), 'utf8'))
+  for (const p of players) known.push(norm(p.name).split(' '))
+  const wikiAdds = new Map()
+  const primeraCheck = []
+  const upgraded = []
+  for (const r of wikiRows) {
+    const existing = players.find((p) => norm(p.name) === norm(r.name))
+    if (existing) {
+      const league = existing.leagueGoals ?? existing.goals
+      // a one-club total is partial; a larger Primera career total replaces it
+      if (r.table.kind === 'primera' && existing.review?.includes('club-total-only') && r.goals > existing.goals) {
+        const clubs = r.clubs.map((c) => cleanClub(c.club))
+        Object.assign(existing, {
+          goals: r.goals,
+          leagueGoals: r.goals,
+          club: clubs[0] ?? existing.club,
+          clubs: clubs.length ? clubs : existing.clubs,
+          scope: 'Liga (Primera), carrera',
+          source: { name: r.table.label, url: r.table.url },
+          review: existing.review.filter((x) => x !== 'club-total-only'),
+        })
+        upgraded.push(`${existing.name}: ${league} (un club) → ${r.goals} (Primera, carrera)`)
+        continue
+      }
+      if (r.table.kind === 'primera' && existing.division === 'Primera' && Math.abs(league - r.goals) >= 5)
+        primeraCheck.push(`${existing.name}: dataset ${league} vs Wikipedia ${r.goals} (${r.table.file})`)
+      continue
+    }
+    if (isKnown(r.name)) continue
+    const key = norm(r.name)
+    const prev = wikiAdds.get(key)
+    if (prev) {
+      // first Primera row wins; club rows add up only among themselves
+      if (prev.kind === 'club' && r.table.kind === 'club' && !prev.clubs.includes(r.table.club)) {
+        prev.goals += r.goals
+        prev.clubs.push(r.table.club)
+        prev.scope = `Goles oficiales en ${prev.clubs.join(' y ')}`
+      }
+      if (prev.kind === 'club' && r.table.kind === 'primera') wikiAdds.delete(key)
+      else continue
+    }
+    const info = wikiInfo[r.page]
+    const position = positionFromWiki(info?.raw)
+    const display = r.name
+    const parts = display.split(' ')
+    const clubs = r.table.kind === 'primera' ? r.clubs.map((c) => cleanClub(c.club)) : [r.table.club]
+    wikiAdds.set(key, {
+      kind: r.table.kind,
+      id: slug(display),
+      name: display,
+      shortName: parts.length > 1 ? parts.slice(1).join(' ') : display,
+      position: position ?? 'ST',
+      goals: r.goals,
+      ...(r.table.kind === 'primera' ? { leagueGoals: r.goals } : {}),
+      club: clubs[0] ?? '—',
+      clubs,
+      division: 'Primera',
+      scope: r.table.kind === 'primera' ? 'Liga (Primera), carrera' : r.table.scope,
+      era: '—',
+      source: { name: r.table.label, url: r.table.url },
+      secondarySource: info ? { name: 'Wikipedia — posición', url: `https://es.wikipedia.org/wiki/${encodeURIComponent(r.page.replace(/ /g, '_'))}` } : undefined,
+      review: [...(r.table.kind === 'club' ? ['club-total-only'] : []), ...(position ? [] : ['position-unverified'])],
+    })
+  }
+  for (const { kind, ...p } of wikiAdds.values()) {
+    players.push(p)
+    known.push(norm(p.name).split(' '))
+  }
+  report.push(
+    `Tablas de Wikipedia (${WIKI_TABLES.length}: ${WIKI_TABLES.map((t) => t.club ?? 'Primera').join(', ')}): ${wikiRows.length} filas válidas, ${wikiAdds.size} jugadores agregados, ${wikiRejected.length} filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: ${upgraded.length}${upgraded.length ? ` (${upgraded.join('; ')})` : ''}. Diferencias de 5+ goles con la tabla de Primera: ${primeraCheck.length} (ver abajo).`,
+  )
+  for (const r of wikiRejected) skipped.push(`${r.table} — ${r.name}: ${r.why}`)
+
   // players the scraped sources don't cover (mostly pre-1990 with <100 goals), each with a quoted source
   const manual = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'manual-additions.json'), 'utf8'))
   let manualAdded = 0
@@ -492,6 +570,9 @@ function main() {
     '',
     '## Discrepancias entre fuentes (se usa RSSSF)',
     ...(discrepancyLog.length ? discrepancyLog.map((d) => `- ${d}`) : ['- Ninguna']),
+    '',
+    '## Primera: dataset vs tablas de Wikipedia (5+ goles de diferencia; se mantiene el dato del dataset)',
+    ...(primeraCheck.length ? primeraCheck.map((d) => `- ${d}`) : ['- Ninguna']),
     '',
     '## Suma por temporada vs histórico de Transfermarkt',
     ...(sumMismatch.length ? sumMismatch.map((d) => `- ${d}`) : ['- Todas coinciden']),

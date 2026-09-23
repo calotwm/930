@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **4815** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **4895** jugadores.
 
 ## Definición de goles
 Goles de liga argentina en la división indicada. Sin copas, sin selección, sin clubes extranjeros, sin amistosos.
@@ -13,10 +13,11 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Control cruzado: 392 jugadores figuran también en la lista histórica de la Liga Profesional (AR1N) de Transfermarkt; la suma por temporada coincide en 391. Si difiere, se usa el total histórico y se marca `season-sum-N`.
 - Listas por temporada truncadas (150 filas con goles): AR1N 2021 Sturm, ARG2 2020 Sturm, ARG2 2021 Sturm, ARG2 2022 Sturm, ARG2 2023 Sturm, ARG2 2024 Sturm, ARG2 2025 Sturm.
 - Tablas de goleadores por club (Independiente, Lanús, Boca): 131 filas válidas, 73 jugadores agregados (faltaban en las fuentes principales), 3 filas descartadas por totales inconsistentes.
+- Tablas de Wikipedia (8: Primera, Primera, River Plate, San Lorenzo, Huracán, Tigre, Racing Club, Talleres): 349 filas válidas, 80 jugadores agregados, 4 filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: 1 (Andrés Silvera: 44 (un club) → 107 (Primera, carrera)). Diferencias de 5+ goles con la tabla de Primera: 10 (ver abajo).
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 1.
-- Primera: 3200 · Primera Nacional: 1615
-- Por posición: GK 86 · CB 798 · LB 271 · RB 267 · DM 335 · CM 455 · AM 513 · LW 358 · RW 429 · ST 1303
-- Marcados para revisión: 1745
+- Primera: 3280 · Primera Nacional: 1615
+- Por posición: GK 86 · CB 799 · LB 271 · RB 267 · DM 335 · CM 462 · AM 513 · LW 359 · RW 431 · ST 1372
+- Marcados para revisión: 1823
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -33,6 +34,18 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Hugo Pavone: RSSSF 122 vs Transfermarkt 111
 - Daniel Montenegro: RSSSF 109 vs Transfermarkt 100
 
+## Primera: dataset vs tablas de Wikipedia (5+ goles de diferencia; se mantiene el dato del dataset)
+- Martín Palermo: dataset 227 vs Wikipedia 272 (goleadores-primera.txt)
+- José Sand: dataset 162 vs Wikipedia 175 (goleadores-primera.txt)
+- Norberto Alonso: dataset 164 vs Wikipedia 169 (goleadores-primera.txt)
+- Alberto Ohaco: dataset 138 vs Wikipedia 244 (maximos-goleadores-primera.txt)
+- Roberto Cherro: dataset 236 vs Wikipedia 230 (maximos-goleadores-primera.txt)
+- Francisco Varallo: dataset 216 vs Wikipedia 210 (maximos-goleadores-primera.txt)
+- José Sand: dataset 162 vs Wikipedia 175 (maximos-goleadores-primera.txt)
+- Alberto Zozaya: dataset 183 vs Wikipedia 144 (maximos-goleadores-primera.txt)
+- Carlos Peucelle: dataset 144 vs Wikipedia 113 (maximos-goleadores-primera.txt)
+- Diego García: dataset 165 vs Wikipedia 100 (maximos-goleadores-primera.txt)
+
 ## Suma por temporada vs histórico de Transfermarkt
 - Santiago Silva (AR1N): suma por temporada 32 vs histórico 33
 
@@ -43,53 +56,82 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 120 jugadores
+- position-unverified: 174 jugadores
 - seasons-before-*-not-counted: 226 jugadores
 - José Sand: active-in-source-update-2023
 - Santiago Silva: active-in-source-update-2023
+- Humberto Bravo: club-total-only
 - Hugo Pavone: active-in-source-update-2023
+- Rogelio Cuello: club-total-only
+- Pablo Frers: club-total-only, position-unverified
+- Daniel Onega: club-total-only
 - Gilmar Villagrán: club-total-only
+- Luis Antonio Ludueña: club-total-only
+- Natalio Perinetti: club-total-only
+- Pedro Ochoa: club-total-only
+- Edgardo Paruzzo: club-total-only
 - Ricardo Bochini: club-total-only
 - Daniel Passarella: secondary-source-club-statistics
+- Juan Perinetti: club-total-only
 - Pedro Calomino: club-total-only
+- Horacio Bustos: club-total-only, position-unverified
 - Norberto Outes: club-total-only
+- Ángel Bocanelli: club-total-only
 - Ángel Silva: club-total-only
 - Camilo Cervino: club-total-only
 - Daniel Bertoni: club-total-only
 - Bernardo Acosta: club-total-only
 - Claudio Nigretti: club-total-only
+- Pedro Farías: club-total-only, position-unverified
 - Alfredo Graciani: club-total-only
 - Aníbal Tarabini: club-total-only
 - Osvaldo Rubén Potente: club-total-only, position-unverified
 - Jorge Burruchaga: club-total-only
 - Ángel Clemente Rojas: club-total-only
+- Amable López: club-total-only, position-unverified
+- Antonio Gambino: club-total-only, position-unverified
+- Mario Bevilacqua: club-total-only
+- Pedro Gordillo: club-total-only, position-unverified
 - Paulo Valentim: club-total-only
 - Hugo Curioni: club-total-only
 - José Zorrilla: club-total-only
+- Orfilio Pinaroli: club-total-only, position-unverified
+- Daniel Willington: club-total-only
 - Ricardo Pavoni: club-total-only
 - Osvaldo Rubén Gil: club-total-only
 - Ángel Alfonso: club-total-only, position-unverified
 - Carlos Lacasia: club-total-only
 - Eduardo Maglioni: club-total-only
+- Horacio Salvatelli: club-total-only, position-unverified
 - Daniel Picaro: club-total-only, position-unverified
+- Ernesto Pieri: club-total-only
+- Carlos Godoy: club-total-only, position-unverified
+- Ricardo Ceballos: club-total-only, position-unverified
 - Enzo Trossero: club-total-only
 - Raúl Armando Savoy: club-total-only
+- Humberto Taborda: club-total-only
 - Ricardo Bonelli: club-total-only
 - Rodolfo Micheli: club-total-only
 - Carlos Cecconato: club-total-only
 - José Borello: club-total-only
+- Pablo Farías: club-total-only, position-unverified
+- Roberto Cortez: club-total-only, position-unverified
 - Juan Crespín: club-total-only, position-unverified
 - Benito Cejas: club-total-only
 - José Percudani: club-total-only
 - Juan José De Mario: club-total-only
+- Miguel Ángel Patire: club-total-only, position-unverified
+- Renato Manzzolli: club-total-only, position-unverified
 - Raúl Bernao: club-total-only
 - Alejandro Barberón: club-total-only
 - Agustín Balbuena: club-total-only
 - Alfredo Garasini: club-total-only, position-unverified
 - Juan Romay: club-total-only
 - Mario Fernández: club-total-only
+- Miguel Oviedo: club-total-only
 - Severino Varela: club-total-only
-- Andrés Silvera: club-total-only
+- Fermín Flamini: club-total-only, position-unverified
+- Miguel Ángel Ludueña: club-total-only
 - Osvaldo Héctor Cruz: club-total-only, position-unverified
 - Osvaldo Nardiello: club-total-only, position-unverified
 - Ramón Enrique: club-total-only, position-unverified
@@ -97,9 +139,11 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - José Pastoriza: club-total-only
 - Carlos Fuentes: club-total-only, position-unverified
 - Juan Nani: club-total-only, position-unverified
+- Pedro Heredia: club-total-only, position-unverified
 - Ramón Héctor Ponce: club-total-only
 - Ezequiel Reynoso: club-total-only, position-unverified
 - Fernando Walter: club-total-only
+- Francisco Armenante: club-total-only, position-unverified
 - Francisco Taggino: club-total-only
 - Oscar Pianetti: club-total-only
 - Pablo Bozzo: club-total-only, position-unverified
@@ -111,17 +155,63 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Norberto Madurga: club-total-only
 - Pierino González: club-total-only
 - Horacio Attadía: club-total-only
+- Pedro Acevedo: club-total-only, position-unverified
+- Oscar Tedini: club-total-only, position-unverified
 - Raúl Martínez: club-total-only
+- Ricardo Cherini: club-total-only
+- Carlos Guerini: club-total-only
 - Darío Felman: club-total-only
 - Miguel Ángel Gambier: club-total-only
 - Nicolás Daponte: club-total-only
 - Norberto Pairoux: club-total-only, position-unverified
+- Ramón Taborda: club-total-only, position-unverified
 - Rubén Suñé: club-total-only
+- Alberto De Sá: club-total-only, position-unverified
 - Antonio Cerrotti: club-total-only, position-unverified
+- Alberto Sánchez: club-total-only
+- Alfredo Bazán: club-total-only, position-unverified
+- Emilio Castro: club-total-only, position-unverified
+- Eugenio Maldonado: club-total-only, position-unverified
 - Humberto Epifanio: club-total-only, position-unverified
+- Luis Oviedo: club-total-only, position-unverified
+- Oscar Fachetti: club-total-only, position-unverified
 - Clotardo Dendi: club-total-only
 - Alfredo Veira: club-total-only, position-unverified
+- Benito Albarracín: club-total-only, position-unverified
+- Eduardo Sánchez: club-total-only, position-unverified
+- Ángel Hoyos: club-total-only
 - Fernando Di Carlo: club-total-only, position-unverified
+- Juan Prax: club-total-only, position-unverified
+- Alfredo Calderón: club-total-only, position-unverified
+- Francisco Gallardo: club-total-only, position-unverified
+- Gustavo Albella: club-total-only
+- Miguel Rivarola: club-total-only, position-unverified
+- Hugo Salvatelli: club-total-only, position-unverified
+- Roberto Ortiz: club-total-only, position-unverified
+- Antonio Alderete: club-total-only
+- Celedonio Fernández: club-total-only, position-unverified
+- Jorge Weschta: club-total-only, position-unverified
+- José Luis Pochettino: club-total-only
+- Andrés Sosa: club-total-only, position-unverified
+- Eduardo Zárate: club-total-only, position-unverified
+- Roberto Oste: club-total-only, position-unverified
+- Narciso Contreras: club-total-only, position-unverified
+- Alejandro Kenig: club-total-only
+- Antonio Reynoso: club-total-only, position-unverified
+- Julio Rivero: club-total-only, position-unverified
+- Mario Salvatelli: club-total-only, position-unverified
+- Raúl Allende: club-total-only, position-unverified
+- Antonio Adasse: club-total-only, position-unverified
+- Arturo Rodas: club-total-only, position-unverified
+- Ignacio Pereyra: club-total-only, position-unverified
+- Ángel Pereyra: club-total-only, position-unverified
+- Ramón Salas: club-total-only, position-unverified
+- Roque Riquelme: club-total-only, position-unverified
+- Francisco Rivadero: club-total-only
+- Víctor Heredia: club-total-only, position-unverified
+- Adolfino Cañete: club-total-only
+- Manuel Peralta: club-total-only, position-unverified
+- Miguel Ángel Frullingui: club-total-only, position-unverified
 - Ezequiel Bulacio: club-unverified, season-list-truncated
 - Juan Cruz Vega: club-unverified, season-list-truncated
 - Maximiliano Rogoski: club-unverified, season-list-truncated
@@ -133,3 +223,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Independiente — Zoilo Canavery: liga + copas + internacional no suman el total (40+8+0 vs 65)
 - Independiente — Guillermo Ronzoni: liga + copas + internacional no suman el total (35+5+0 vs 56)
 - Independiente — Alberto Lalín: liga + copas + internacional no suman el total (39+8+0 vs 54)
+- Anexo:Máximos goleadores de la Primera División de Argentina — Estudiantes de La Plata: sin número de goles legible
+- Anexo:Máximos goleadores de la Primera División de Argentina — San Lorenzo: sin número de goles legible
+- Anexo:Estadísticas del Club Atlético San Lorenzo de Almagro — Rinaldo Martino: 230 goles en 151 partidos (columnas probablemente invertidas)
+- Anexo:Goleadores del Club Atlético Talleres — Jorge Campos: 35 goles en 30 partidos (columnas probablemente invertidas)

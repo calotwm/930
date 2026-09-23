@@ -22,7 +22,7 @@ npm run build
 
 `goals` = goles oficiales con clubes argentinos (liga + copas nacionales + internacionales) cuando la fuente los da; si no, solo liga. Cada jugador trae su alcance (`scope`) y su fuente. Detalle, discrepancias y datos a revisar en `data-sources/REPORT.md`.
 
-Fuentes adicionales: tablas de goleadores por club (Wikipedia: Independiente, Lanús/Museo Granate; Historia de Boca) y altas manuales con cita (`data-sources/manual-additions.json`).
+Fuentes adicionales: tablas de goleadores por club (Wikipedia: Independiente, Lanús/Museo Granate; Historia de Boca), tablas de Wikipedia descargadas con `node scripts/fetch-wikipedia.mjs` a `data-sources/raw/wikipedia/` (goleadores históricos de Primera y goleadores de River, San Lorenzo, Huracán, Tigre, Racing y Talleres, más la posición de cada jugador según su ficha) y altas manuales con cita (`data-sources/manual-additions.json`). En la nube, correr el fetch con `NODE_USE_ENV_PROXY=1`.
 
 Nota: los términos de uso de Transfermarkt prohíben el acceso automatizado. No se descargan más datos de ahí.
 

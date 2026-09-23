@@ -1,5 +1,13 @@
 # 930 — Review
 
+## Iteración 2 (22/09/2026)
+- Dataset ampliado a 4741 jugadores (3126 Primera, 1615 ascenso). Transfermarkt por temporada: Primera = Liga Profesional (AR1N 2014–2023) + Apertura (ARG1) + Clausura (ARGC), 1990/91–2025; ascenso ARG2 2008/09–2025. Control cruzado con la lista histórica AR1N: 391/392 coinciden. Donde Transfermarkt cubre toda la carrera coincide con RSSSF por 0–1 gol (Sand, Pavone, Silva).
+- Goles ocultos en la búsqueda hasta colocar al jugador; orden por apellido; "Ver más".
+- Cambios limitados (5) y derrota (propuesta del Game Designer). Paleta de la bandera, revelado con giro, logo con Sol de Mayo (propuesta del UI Designer + Whimsy Injector).
+- Agency Agents: Game Designer, UI Designer y Whimsy Injector corrieron como subagentes que leyeron su archivo de definición real (`~/.claude/agents/*.md`), porque Claude Code todavía no los cargó como tipos de subagente en esta sesión.
+- Checks: `tsc -b` OK, 38/38 tests, build OK, navegador (búsqueda, revelado, cambios, derrota, Riquelme/Palermo), producción en Railway respondiendo 200 con fallback SPA.
+- Pendiente: 7 listas por temporada truncadas a 150 (delanteros 2020–2025, marcados `season-list-truncated`); arqueros solo si hicieron goles o figuran en listas (86); 6 jugadores con "Varios clubes".
+
 Estado: COMPLETE (v1), con follow-ups de datos listados abajo.
 
 ## Resumen de implementación

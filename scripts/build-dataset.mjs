@@ -346,6 +346,20 @@ function main() {
   )
   report.push(`Listas por temporada truncadas (150 filas con goles): ${truncatedLists.length ? truncatedLists.join(', ') : 'ninguna'}.`)
 
+  // players the scraped sources don't cover (mostly pre-1990 with <100 goals), each with a quoted source
+  const manual = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'manual-additions.json'), 'utf8'))
+  let manualAdded = 0
+  for (const m of manual) {
+    if (players.some((p) => norm(p.name) === norm(m.name))) {
+      skipped.push(`${m.name}: alta manual omitida, ya está en las fuentes principales`)
+      continue
+    }
+    const { quote, checkedOn, ...p } = m
+    players.push({ id: slug(m.name), ...p, source: { ...m.source, note: `"${quote}" (verificado ${checkedOn})` } })
+    manualAdded++
+  }
+  report.push(`Altas manuales con fuente citada (data-sources/manual-additions.json): ${manualAdded}.`)
+
   // unique ids
   const seen = new Map()
   for (const p of players) {

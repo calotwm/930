@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **4741** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **4742** jugadores.
 
 ## Definición de goles
 Goles de liga argentina en la división indicada. Sin copas, sin selección, sin clubes extranjeros, sin amistosos.
@@ -11,9 +11,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Transfermarkt: 4964 jugadores únicos en listas por temporada, 4628 agregados, 14 fusionados con RSSSF, 322 sin goles (no arqueros) descartados, 0 descartados por posición desconocida.
 - Control cruzado: 392 jugadores figuran también en la lista histórica de la Liga Profesional (AR1N) de Transfermarkt; la suma por temporada coincide en 391. Si difiere, se usa el total histórico y se marca `season-sum-N`.
 - Listas por temporada truncadas (150 filas con goles): AR1N 2021 Sturm, ARG2 2020 Sturm, ARG2 2021 Sturm, ARG2 2022 Sturm, ARG2 2023 Sturm, ARG2 2024 Sturm, ARG2 2025 Sturm.
-- Primera: 3126 · Primera Nacional: 1615
-- Por posición: GK 86 · CB 795 · LB 270 · RB 267 · DM 335 · CM 448 · AM 512 · LW 358 · RW 429 · ST 1241
-- Marcados para revisión: 1671
+- Altas manuales con fuente citada (data-sources/manual-additions.json): 1.
+- Primera: 3127 · Primera Nacional: 1615
+- Por posición: GK 86 · CB 796 · LB 270 · RB 267 · DM 335 · CM 448 · AM 512 · LW 358 · RW 429 · ST 1241
+- Marcados para revisión: 1672
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 227 vs Transfermarkt 192
@@ -45,6 +46,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - José Sand: active-in-source-update-2023
 - Santiago Silva: active-in-source-update-2023
 - Hugo Pavone: active-in-source-update-2023
+- Daniel Passarella: secondary-source-club-statistics
 - Ezequiel Bulacio: club-unverified, season-list-truncated
 - Juan Cruz Vega: club-unverified, season-list-truncated
 - Maximiliano Rogoski: club-unverified, season-list-truncated

@@ -120034,6 +120034,32 @@
   }
  },
  {
+  "id": "hugo-gatti",
+  "name": "Hugo Gatti",
+  "shortName": "Gatti",
+  "position": "GK",
+  "goals": 0,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Atlanta",
+   "River Plate",
+   "Gimnasia LP",
+   "Unión (Santa Fe)",
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Arquero: sin goles oficiales registrados",
+  "era": "1960s–1980s",
+  "source": {
+   "name": "Wikipedia — Hugo Gatti (estadísticas por club: partidos, goles recibidos y vallas invictas)",
+   "url": "https://es.wikipedia.org/wiki/Hugo_Orlando_Gatti",
+   "note": "\"La tabla de estadísticas por club de la ficha registra partidos, goles recibidos y vallas invictas; no registra goles convertidos.\" (verificado 2026-09-23)"
+  },
+  "review": [
+   "goalkeeper-goals-assumed-zero"
+  ]
+ },
+ {
   "id": "javier-garcia-7966",
   "name": "Javier García",
   "shortName": "García",
@@ -120977,5 +121003,31 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/sebastian-torrico/leistungsdaten/spieler/68040"
   }
+ },
+ {
+  "id": "ubaldo-fillol",
+  "name": "Ubaldo Fillol",
+  "shortName": "Fillol",
+  "position": "GK",
+  "goals": 0,
+  "club": "River Plate",
+  "clubs": [
+   "Quilmes",
+   "Racing Club",
+   "River Plate",
+   "Argentinos Juniors",
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Arquero: sin goles oficiales registrados",
+  "era": "1960s–1980s",
+  "source": {
+   "name": "Wikipedia — Ubaldo Fillol (estadísticas por club: partidos, goles recibidos y vallas invictas)",
+   "url": "https://es.wikipedia.org/wiki/Ubaldo_Mat%C3%ADldo_Fillol",
+   "note": "\"La tabla de estadísticas por club de la ficha registra partidos, goles recibidos y vallas invictas; no registra goles convertidos.\" (verificado 2026-09-23)"
+  },
+  "review": [
+   "goalkeeper-goals-assumed-zero"
+  ]
  }
 ]

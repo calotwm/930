@@ -38,7 +38,8 @@ export function parseStatsTable(tbl, isArgClub) {
   const h2i = g.findIndex((r, i) => i > 0 && r.some((c) => /Goles/.test(clean(c))))
   if (h2i < 0) return null
   const h2 = g[h2i].map(clean)
-  const goalCol = (re) => h1.findIndex((c, i) => re.test(c) && /Goles/.test(h2[i] ?? ''))
+  // goalkeeper tables list goals conceded ("GR", "Goles recibidos/en contra"): never counted
+  const goalCol = (re) => h1.findIndex((c, i) => re.test(c) && /Goles/.test(h2[i] ?? '') && !/contra|recibid/i.test(h2[i]))
   const cols = {
     league: goalCol(/^Liga/i),
     cups: goalCol(/Copas?\s*nacional/i),

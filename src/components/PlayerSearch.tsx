@@ -1,5 +1,5 @@
 import { useDeferredValue, useMemo, useState } from 'react'
-import { POSITION_LABEL, positionsForRole } from '../lib/positions'
+import { POSITION_LABEL, canPlay, positionsForRole } from '../lib/positions'
 import { searchPlayers, type IndexedPlayer } from '../lib/searchPlayers'
 import type { Player, Position, SlotRole } from '../lib/types'
 import { PlayerCard } from './PlayerCard'
@@ -35,6 +35,14 @@ export function PlayerSearch({
     const found = searchPlayers(index, deferred, { role })
     return pos ? found.filter((p) => p.position === pos) : found
   }, [index, deferred, role, pos])
+
+  // when searching by name, show matches that play elsewhere so they don't look missing
+  const elsewhere = useMemo(() => {
+    if (!deferred.trim()) return []
+    return searchPlayers(index, deferred)
+      .filter((p) => !canPlay(p.position, role))
+      .slice(0, 8)
+  }, [index, deferred, role])
 
   const selectPos = (p: Position | null) => {
     setPos(p)
@@ -105,7 +113,9 @@ export function PlayerSearch({
         </p>
       </div>
       <ul className="min-h-0 flex-1 space-y-2 overflow-y-auto overscroll-contain px-5 pb-6">
-        {results.length === 0 && <li className="py-10 text-center text-sm text-chalk-dim">Sin resultados</li>}
+        {results.length === 0 && elsewhere.length === 0 && (
+          <li className="py-10 text-center text-sm text-chalk-dim">Sin resultados</li>
+        )}
         {results.slice(0, shown).map((p) => (
           <PlayerCard
             key={p.id}
@@ -132,6 +142,19 @@ export function PlayerSearch({
               Ver más ({results.length - shown})
             </button>
           </li>
+        )}
+        {elsewhere.length > 0 && results.length <= shown && (
+          <>
+            <li className="pt-3 text-[11px] font-bold tracking-widest text-chalk-dim uppercase">En otros puestos</li>
+            {elsewhere.map((p) => (
+              <PlayerCard
+                key={p.id}
+                player={p}
+                onPick={onPick}
+                disabledReason={`juega de ${POSITION_LABEL[p.position]}`}
+              />
+            ))}
+          </>
         )}
       </ul>
     </div>

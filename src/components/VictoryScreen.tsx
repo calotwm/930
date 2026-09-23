@@ -3,7 +3,6 @@ import { TARGET } from '../lib/scoring'
 import type { Formation, Lineup } from '../lib/types'
 import { CafecitoButton } from './Cafecito'
 import { FootballPitch } from './FootballPitch'
-import { Trophy } from './Illustrations'
 
 const COLORS = ['#75aadb', '#ffffff', '#f6b40e']
 
@@ -41,6 +40,7 @@ function Confetti() {
 }
 
 const DEFEAT_PHOTOS = [1, 2, 3, 4, 5].map((n) => `/resultados/derrota-${n}.jpg`)
+const VICTORY_PHOTOS = [1, 2, 3].map((n) => `/resultados/victoria-${n}.jpg`)
 
 /** One photo picked at random when the screen opens. */
 function ResultPhoto({ photos, alt, tone }: { photos: string[]; alt: string; tone: 'win' | 'lose' }) {
@@ -98,7 +98,7 @@ export function VictoryScreen({
   return (
     <EndShell label="Dale campeón" tone="win">
       <Confetti />
-      <Trophy className="drop-in bob h-36 w-32 drop-shadow-[0_12px_30px_rgb(246_180_14/0.45)]" />
+      <ResultPhoto photos={VICTORY_PHOTOS} alt="Messi victoria" tone="win" />
       <p className="font-display tabular glow-sol mt-3 text-7xl leading-none text-sol">
         {total} <span className="text-3xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>

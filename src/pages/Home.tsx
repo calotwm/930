@@ -25,7 +25,9 @@ export function Home() {
   const index = useMemo(() => buildIndex(PLAYERS), [])
   const [activeSlot, setActiveSlot] = useState<string | null>(null)
   const [shareLabel, setShareLabel] = useState('Compartir resultado')
-  const [lostDismissed, setLostDismissed] = useState(false)
+  // the over/lost screen is dismissed per move: a new pick that goes over shows it again
+  const [dismissedMove, setDismissedMove] = useState<number | null>(null)
+  const moveKey = game.delta?.key ?? -1
 
   const deltaKey = game.delta?.key
   useEffect(() => {
@@ -38,7 +40,7 @@ export function Home() {
 
   const restart = () => {
     game.reset()
-    setLostDismissed(false)
+    setDismissedMove(null)
   }
 
   const slot = formation.slots.find((s) => s.id === activeSlot) ?? null
@@ -124,12 +126,13 @@ export function Home() {
           />
         )}
 
-        {game.outcome === 'lost' && !lostDismissed && (
+        {(game.status === 'over' || game.outcome === 'lost') && dismissedMove !== moveKey && (
           <LostScreen
             total={game.total}
             overBy={game.overBy}
+            changesLeft={game.changesLeft}
             onRestart={restart}
-            onClose={() => setLostDismissed(true)}
+            onClose={() => setDismissedMove(moveKey)}
           />
         )}
       </div>

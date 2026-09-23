@@ -55,13 +55,13 @@ const clean = (s) =>
     .replace(/<[^>]*>/g, ' ')
     .replace(/'''?/g, '')
     .trim()
-const links = (c) =>
+export const links = (c) =>
   [...c.matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)]
     .filter((m) => !/^(Archivo|File|Imagen|Anexo):/i.test(m[1]))
     .map((m) => ({ page: m[1].trim(), name: clean(m[2] || m[1]).replace(/\s*\([^)]*\)\s*$/, '').trim() }))
 
 // wikitable -> grid of cell strings, expanding rowspan/colspan
-function grid(tbl) {
+export function grid(tbl) {
   // the first chunk is the "{|" line, sometimes followed by the header cells
   const rows = tbl.split(/\n\|-[^\n]*/)
   rows[0] = rows[0].replace(/^\{\|[^\n]*/, '')

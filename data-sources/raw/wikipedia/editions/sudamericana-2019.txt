@@ -1,0 +1,1654 @@
+{{Ficha de campeonato
+| nombre        = Copa Sudamericana 2019
+| nombre_original = [[Copa Sudamericana]]
+| anterior      = [[Copa Sudamericana 2018]]
+| actual        =
+| siguiente     = [[Copa Sudamericana 2020]]
+| ubicación     = [[Archivo:South America (orthographic projection).svg|20px|link=|América del Sur]] [[América del Sur]]
+| deporte       = Fútbol
+| imagen        = Hinchada Sabalera en la Final Sudamericana 2019.jpg
+| imagen_tamaño = 300px
+| imagen_pie    = El [[estadio General Pablo Rojas]] ([[Asunción]]) fue sede de la [[Anexo:Final de la Copa Sudamericana 2019|final]]
+| organizador   = [[Confederación Sudamericana de Fútbol|Conmebol]]
+|fecha de inicio = {{fecha2|5|2|2019}}
+|fecha de cierre = {{fecha2|9|11|2019}}
+| edición       = XVIII
+| recinto       = {{bandera|Paraguay}} [[Asunción]], [[Paraguay]] ([[Anexo:Final de la Copa Sudamericana 2019|final]])
+| participantes = 54 (de 10 países)
+| televisión    = {{Lista desplegable
+|[[DirecTV Sports]] (Latinoamérica y el Caribe)<br />[[DAZN]] (Brasil)<br />[[Bein Sports|beIN Sports]] (Estados Unidos y Canadá)<br />'''Sublicencias:'''<br />[[ESPN (Latinoamérica)|ESPN]] (Argentina, Paraguay y Uruguay)<br />[[RedeTV!]] (Brasil)<br>[[Tigo Sports]] (Paraguay)<br />[[Cotas Cable TV]], [[Comteco]] e [[TuVes HD|Inter Satelital]] (Bolivia)<br />[[Canal del Fútbol|CDF HD]] (Chile)<br />'''Sublicencias en Uruguay:'''<br />[[TCC (Uruguay)|TCC]]<br />Montecable<br />Nuevosiglo<br />Equital
+}}
+| partidos      = 105
+| campeón       = {{Bandera|ECU}} '''[[Independiente del Valle]]''' <small>({{Ord|1.|er}} título)</small>
+| subcampeón    = {{Bandera|ARG}} [[Club Atlético Colón|Colón]]
+| semifinalistas = {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]<br>{{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| goleador      = {{bandera|ARG}} [[Silvio Ezequiel Romero|Silvio Romero]] (5)<br /><small>([[Club Atlético Independiente|Independiente]])</small>
+| goles         = 223 (2,12 por partido)
+| página web    = https://www.copasudamericana.com/es
+}}
+
+La '''[[Copa Sudamericana]] 2019''', denominada oficialmente '''Copa Conmebol Sudamericana 2019''', fue la decimoctava edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. El certamen tuvo un receso entre la segunda fase y los octavos de final, con motivo de la realización de la [[Copa América 2019]] en Brasil.
+
+El sorteo de la primera fase se realizó el 17 de diciembre de 2018 en [[Luque (Paraguay)|Luque]], [[Paraguay]], el mismo día que se sortearon las primeras fases de la [[Copa Libertadores 2019]]. La final de esta edición del torneo fue la primera a disputarse en estadio neutral, algo que fue ratificado el 14 de agosto de 2018. Inicialmente, el recinto elegido para la final era el [[Estadio Nacional del Perú|Estadio Nacional]] de la ciudad de [[Lima]], pero la [[Conmebol]], en su reunión de Consejo Directivo del 9 de mayo de 2019, decidió cambiarlo por el [[Estadio Defensores del Chaco]] de [[Asunción]], [[Paraguay]]. No obstante, el 21 de junio de 2019 se trasladó nuevamente la sede, esta vez al [[Estadio General Pablo Rojas]]<ref>{{Cita web|url=https://elcomercio.pe/deporte-total/futbol-mundial/copa-sudamericana-2019-conmebol-quito-lima-final-torneo-sera-asuncion-noticia-nndc-633799|título=Copa Sudamericana 2019: Conmebol le quitó la sede de la final a Lima|fechaacceso=9 de mayo de 2019|apellido=DT|nombre=Redacción|fecha=9 de mayo de 2019|sitioweb=El Comercio|idioma=es}}</ref> de la misma ciudad.
+
+El campeón fue [[Independiente del Valle]] de Ecuador que derrotó a [[Club Atlético Colón|Colón]] de Argentina. Gracias al título, clasificó a la [[Recopa Sudamericana 2020]] y la [[Copa J.League/Sudamericana 2020]], aunque esta última fue cancelada por la realización de los [[Juegos Olímpicos de Tokio 2020]]. Además, consiguió un cupo para la fase de grupos de la [[Copa Libertadores 2020]].
+
+== Formato del torneo ==
+El formato de esta competencia es igual a la edición anterior, con la diferencia de que a partir de este certamen la final se jugó a un solo partido.<ref>{{cita web|título=Reglamento de la Copa Sudamericana 2019
+|url=http://www.conmebol.com/sites/default/files/reglamento-conmebol-sudamericana-2019-esp.pdf
+|fechaacceso =14 de mayo de 2019
+|editorial=[[CONMEBOL]]}}</ref>
+
+{| class="wikitable"
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+{{nowrap|(44 equipos)}}
+|
+* 22 equipos clasificados de la '''Zona Norte''':
+** 6 equipos de Brasil y 4 equipos de Colombia, Ecuador, Perú y Venezuela
+* 22 equipos clasificados de la '''Zona Sur''':
+** 6 equipos de Argentina y 4 equipos de Chile, Bolivia, Paraguay y Uruguay
+|
+|-
+! colspan="2" |Segunda fase
+(32 equipos)
+|
+* 8 terceros puestos de la fase de grupos de la '''Copa Libertadores'''
+* 2 mejores perdedores de la fase 3 de la '''Copa Libertadores'''
+|
+* 22 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+*
+|
+* 16 equipos clasificados de la Segunda fase
+|}
+
+=== Distribución de cupos ===
+
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! Segunda fase
+! Primera fase
+|-
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| –
+|6
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''6'''
+| –
+|6
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |Fase anterior
+| –
+|22
+| –
+|-
+| align="left" |Transferidos de la Copa Libertadores 
+|'''10'''
+|10
+| –
+|-
+!Total
+!54
+!32
+!44
+|}
+
+=== Calendario ===
+Calendario de la competencia de acuerdo a  la página oficial de Conmebol:<ref>{{Cita web|url=http://www.conmebol.com/es/calendario-de-disputa-de-la-libertadores-sudamericana-y-recopa-2019|fechaacceso=|autor=|enlaceautor=|fecha=|sitioweb=|editorial=|idioma=|título=Calendario de Libertadores, Sudamericana y Recopa}}</ref>
+{| class="wikitable" style="text-align:center"
+!Fase
+!Fecha de sorteo
+!Ronda
+!Ida
+!Vuelta
+|-
+| rowspan="4" |'''Primera Fase'''
+| rowspan="4" |17 de diciembre de 2018
+|Semana 1 y 3
+|5 al 7 de febrero
+|19 al 21 de febrero
+|-
+|Semana 2 y 4
+|12 al 14 de febrero
+|26 al 28 de febrero
+|-
+|Semana 5 y 7
+|19 al 21 de marzo
+|16 al 18 de abril
+|-
+|Semana 6 y 8
+|2 al 4 de abril
+|30 de abril al 8 de mayo
+|-
+|'''Segunda Fase'''
+| rowspan="7" |13 de mayo de 2019
+|Semana 1 y 2
+|21 al 23 de mayo
+|28 al 30 de mayo
+|-
+| rowspan="2" |'''Octavos de final'''
+|Semana 1 y 3
+|9 al 11 de julio
+|16 al 18 de julio
+|-
+|Semana 2 y 4
+|23 al 25 de julio
+|30 de julio al 1 de agosto
+|-
+| rowspan="2" |'''Cuartos de final'''
+|Semana 1 y 3
+|6 al 8 de agosto
+|13 al 15 de agosto
+|-
+|Semana 2 y 4
+|20 al 22 de agosto
+|27 al 29 de agosto
+|-
+|'''Semifinales'''
+|Semana 1 y 2
+|18 y 19 de septiembre
+|25 y 26 de septiembre
+|-
+|'''Final'''
+| colspan="3" |9 de noviembre
+|}
+
+== Elección de la sede de la final ==
+{{AP|Anexo:Final de la Copa Sudamericana 2019|l1=Final de la Copa Sudamericana 2019}}{{AP|Anexo:Sedes de Finales Únicas de Competiciones de CONMEBOL}}
+A partir de esta edición la [[Conmebol]] decidió que la final se jugará a un solo partido, en una sede elegida de antemano, al igual que la de la [[Copa Libertadores de América|Copa Libertadores]]. En el Congreso del 14 de agosto de 2018<ref>{{cita web|título=Histórica decisión: Final Única de la Libertadores 2019 en Santiago y Final Única de la Sudamericana 2019 en Lima|url=http://conmebol.com/es/historica-decision-final-unica-de-la-libertadores-2019-en-santiago-y-final-unica-de-la-sudamericana|editorial=Conmebol|fecha=14 de agosto de 2018|fechaacceso=14 de agosto de 2018}}</ref> se eligieron ambos escenarios, entre tres estadios propuestos, recayendo la designación en el [[Estadio Nacional del Perú|Estadio Nacional]]<nowiki/>l de [[Lima]].
+
+No obstante, el 9 de mayo de 2019, el Consejo Directivo de la Conmebol decidió cambiar la sede de la final, que en primera instancia iba a ser disputada el 9 de noviembre en el [[Estadio Defensores del Chaco]] de [[Asunción]], por estrictas “cuestiones organizativas”.
+
+El 21 de junio, la Conmebol anunció el cambio de sede de la final, esta vez al [[Estadio General Pablo Rojas]] de [[Asunción]].
+
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+|colspan="2"| {{Paraguay}}
+|-
+!Ciudad
+!Estadio
+|-
+|{{escudo2|Asunción}}
+|[[Estadio General Pablo Rojas|General Pablo Rojas]]
+|-
+|[[Archivo:Asuncion Montage.jpg|borde|250x250px]]
+|[[Archivo:Estadio_General_Pablo_Rojas.jpg|borde|388x388px]]
+|-
+|colspan="2"| 45{{Esd}}000 espectadores
+|-
+|colspan="2"| <small>'''Final Copa Sudamericana 2019'''</small>
+|}
+</center>
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Sudamericana 2019|l1=Anexo:Equipos participantes en la Copa Sudamericana 2019}}<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="15%" |País
+! width="20%" |Equipo
+! width="65%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|'''{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]'''
+<small>6 cupos</small>
+|[[Club Atlético Independiente|Independiente]]<br>[[Racing Club]]<br>[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br>[[Club Atlético Unión (Santa Fe)|Unión]]<br>[[Club Atlético Colón|Colón]]<br>[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|6.º puesto de la [[Campeonato de Primera División 2017-18 (Argentina)|Superliga Argentina 2017-18]]<br>7.º puesto de la Superliga Argentina 2017-18<br>9.º puesto de la Superliga Argentina 2017-18<br>10.º puesto de la Superliga Argentina 2017-18<br>11.º puesto de la Superliga Argentina 2017-18<br>12.º puesto de la Superliga Argentina 2017-18
+|- bgcolor="#ddeeff"
+|'''{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]'''
+<small>4 cupos</small>
+|[[Royal Pari Fútbol Club|Royal Pari]]<br>[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]<br>[[Club Atlético Nacional Potosí|Nacional Potosí]]<br>[[Club Deportivo Guabirá|Guabirá]]
+|3.º puesto del [[Anexo:Torneo Clausura 2018 (Bolivia)|Torneo Clausura 2018]]<br>6.º puesto de la [[Campeonato de Primera División 2018 (Bolivia)|Tabla acumulada de la División Profesional 2018]]<br>7.º puesto de la Tabla acumulada de la División Profesional 2018<br>Ganador de la Liguilla de Perdedores del [[Anexo:Torneo Apertura 2018 (Bolivia)|Torneo Apertura 2018]]
+|- bgcolor="#f5faff"
+|'''{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]'''
+<small>6 cupos</small>
+|[[Botafogo de Futebol e Regatas|Botafogo]]<br>[[Santos Futebol Clube|Santos]]<br>[[Esporte Clube Bahia|Bahia]]<br>[[Fluminense Football Club|Fluminense]]<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Associação Chapecoense de Futebol|Chapecoense]]
+|9.º puesto del [[Campeonato Brasileño de Fútbol Serie A 2018]]<br>10.º puesto del Campeonato Brasileño Serie A 2018<br>11.º puesto del Campeonato Brasileño Serie A 2018<br>12.º puesto del Campeonato Brasileño Serie A 2018<br>13.º puesto del Campeonato Brasileño Serie A 2018<br>14.º puesto del Campeonato Brasileño Serie A 2018
+|- bgcolor="#ddeeff"
+|'''{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]'''
+<small>4 cupos</small>
+|[[Club de Deportes Antofagasta|Deportes Antofagasta]]<br>[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Club de Deportes Unión La Calera|Unión La Calera]]<br>[[Unión Española]]
+|4.º puesto de la [[Primera División de Chile 2018]]<br>5.º puesto de la Primera División de Chile 2018<br>6.º puesto de la Primera División de Chile 2018<br>7.º puesto de la Primera División de Chile 2018
+|- bgcolor="#f5faff"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''
+<small>4 cupos</small>
+|[[Once Caldas]]<br>[[Club Deportivo La Equidad|La Equidad]]<br>[[Rionegro Águilas]]<br>[[Deportivo Cali]]
+|5.º puesto de la [[Temporada 2018 del fútbol colombiano|Tabla de reclasificación de la Categoría Primera A 2018]]<br>6.º puesto de la Tabla de reclasificación de la Categoría Primera A 2018<br>7.º puesto de la Tabla de reclasificación de la Categoría Primera A 2018<br>8.º puesto de la Tabla de reclasificación de la Categoría Primera A 2018
+|- bgcolor="#ddeeff"
+|'''{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''
+<small>4 cupos</small>
+|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]<br>[[Club Deportivo Macará|Macará]]<br>[[Club de Alto Rendimiento Especializado Independiente del Valle|Independiente del Valle]]<br>[[Mushuc Runa Sporting Club|Mushuc Runa]]
+|5.º puesto de la [[Campeonato Ecuatoriano de Fútbol 2018|Tabla acumulada del Campeonato Ecuatoriano Serie A 2018]]<br>6.º puesto de la Tabla acumulada del Campeonato Ecuatoriano Serie A 2018<br>7.º puesto de la Tabla acumulada del Campeonato Ecuatoriano Serie A 2018<br>Ganador del [[Campeonato Ecuatoriano de Fútbol 2018#Clasificación a la Copa Sudamericana 2019|Repechaje por Copa Sudamericana]] del Campeonato Ecuatoriano Serie A 2018
+|- bgcolor="#f5faff"
+|'''{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''
+<small>4 cupos</small>
+|[[Club Sol de América (Asunción)|Sol de América]]<br>[[Independiente de Campo Grande|Independiente de CG]]<br>[[Club Deportivo Santaní|Deportivo Santaní]]<br>[[Club Guaraní|Guaraní]]
+|5.º puesto de la [[Torneo Clausura 2018 (Paraguay)#Puntaje acumulado|Tabla acumulada del Campeonato de Primera División 2018]]<br>6.º puesto de la Tabla acumulada del Campeonato de Primera División 2018<br>7.º puesto de la Tabla acumulada del Campeonato de Primera División 2018<br>Campeón de la [[Copa Paraguay 2018]]
+|- bgcolor="#ddeeff"
+|'''{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]'''
+<small>4 cupos</small>
+|[[Club Centro Deportivo Municipal|Deportivo Municipal]]<br>[[Club Sport Huancayo|Sport Huancayo]]<br>[[Club Universidad Técnica de Cajamarca|UTC]]<br>[[Escuela Municipal Deportivo Binacional|Binacional]]
+|5.º puesto de la [[Campeonato Descentralizado 2018#Tabla acumulada|Tabla acumulada del Campeonato Descentralizado 2018]]<br>6.º puesto de la Tabla acumulada del Campeonato Descentralizado 2018<br>7.º puesto de la Tabla acumulada del Campeonato Descentralizado 2018<br>8.º puesto de la Tabla acumulada del Campeonato Descentralizado 2018
+|- bgcolor="#f5faff"
+|'''{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''
+<small>4 cupos</small>
+|[[Club Atlético Cerro|Cerro]]<br>[[Liverpool Fútbol Club|Liverpool]]<br>[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]<br>[[Club Atlético River Plate (Uruguay)|River Plate]]
+|5.º puesto de la Tabla anual del [[Campeonato Uruguayo de Primera División 2018]]<br>6.º puesto de la Tabla anual del Campeonato Uruguayo de Primera División 2018<br>7.º puesto de la Tabla anual del Campeonato Uruguayo de Primera División 2018<br>8.º puesto de la Tabla anual del Campeonato Uruguayo de Primera División 2018
+|- bgcolor="#ddeeff"
+|'''{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]'''
+<small>4 cupos</small>
+|[[Zulia Fútbol Club|Zulia]]<br>[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]<br>[[Monagas Sport Club|Monagas]]<br>[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|Campeón de la [[Copa Venezuela 2018]]<br>Subcampeón del [[Torneo Apertura 2018 (Venezuela)|Torneo Apertura 2018]]<br>1.º puesto de la Tabla general del [[Torneo Clausura 2018 (Venezuela)|Torneo Clausura 2018]]<br>6.º puesto de la [[Primera División de Venezuela 2018|Tabla acumulada de la Primera División 2018]]
+|}
+
+=== Equipos transferidos ===
+{{AP|Copa Libertadores 2019|l1=Copa Libertadores 2019}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:96%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="15%" |Fase
+! width="20%" |Equipo
+! width="65%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|'''Fase de grupos'''<br><small>8 cupos</small>
+|{{bandera|Chile}} [[Club Deportivo Palestino|Palestino]]<br>{{bandera|Venezuela}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]<br>{{bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]<br>{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]<br>''{{bandera|Brasil}}'' [[Clube Atlético Mineiro|Atlético Mineiro]]<br>{{bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]<br>{{bandera|Colombia}} [[Club Deportes Tolima|Deportes Tolima]]<br>{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|3.º puesto del Grupo A de la Copa Libertadores 2019<br>3.º puesto del Grupo B de la Copa Libertadores 2019<br>3.º puesto del Grupo C de la Copa Libertadores 2019<br>3.º puesto del Grupo D de la Copa Libertadores 2019<br>3.º puesto del Grupo E de la Copa Libertadores 2019<br>3.º puesto del Grupo F de la Copa Libertadores 2019<br>3.º puesto del Grupo G de la Copa Libertadores 2019<br>3.º puesto del Grupo H de la Copa Libertadores 2019
+|- bgcolor="#ddeeff"
+|'''Fase clasificatoria'''<br><small>2 cupos</small>
+|{{bandera|COL}} [[Atlético Nacional]]<br>{{Bandera|VEN}} [[Caracas FC|Caracas]]
+|1.º puesto entre los eliminados de la Fase 3 de la Copa Libertadores 2019<br>2.º puesto entre los eliminados de la Fase 3 de la Copa Libertadores 2019
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Sudamericana 2019'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos<br>Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos del <br> Gran Buenos Aires:}}'''<br>{{esd|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]}}<br>{{esd|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br>{{esd|[[Club Atlético Independiente|Independiente]]}}<br>{{esd|[[Racing Club]]}}}}</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-31.633333|long=-60.7|label=<small>'''{{esd|Santa Fe}}'''<br></small>|position=right}}
+{{Location map~|América del Sur|lat=-30|long=-69|label=<small>'''{{Esd|Equipos de<br>Santa Fe:}}'''<br>[[Club Atlético Colón|Colón]]<br>[[Club Atlético Unión (Santa Fe)|Unión]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.342855|long=-63.261423|label=<small>{{esd|[[Club Deportivo Guabirá|Guabirá]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.796067|long=-63.183873|label=<small>'''Santa Cruz<br>de la Sierra'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-10|long=-64|label=<small>'''{{esd|Equipos de<br>Santa Cruz<br>de la Sierra:}}'''<br>{{esd|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]}}<br>{{esd|[[Royal Pari Fútbol Club|Royal Pari]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-19.578611|long=-65.761111|label=<small>{{esd|[[Club Atlético Nacional Potosí|Nacional Potosí]]}}</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-12.978819|long=-38.504253|label=<small>{{esd|[[Esporte Clube Bahia|Bahia]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>'''Río de Janerio'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-25|long=-38|label=<small>'''{{esd|Equipos de<br>Río de Janeiro:}}'''<br>{{esd|[[Botafogo de Futebol e Regatas|Botafogo]]}}<br>{{esd|[[Fluminense Football Club|Fluminense]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-23.545556|long=-46.474|label=<small><br>{{esd|[[Sport Club Corinthians Paulista|Corinthians]]}}</small>|position=top}}
+{{Location map~|América del Sur|lat=-23.951111|long=-46.338889|label=<small>{{esd|[[Santos Futebol Clube|Santos]]}}</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-27.1041|long=-52.607|label=<small>[[Associação Chapecoense de Futebol|Chapecoense]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-23.670139|long=-70.404583|label=<small>[[Club de Deportes Antofagasta|Antofagasta]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-32.784167 |long=-71.199444 |label=<small>{{esd|[[Club de Deportes Unión La Calera|Unión La Calera]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><br>'''Santiago'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-35|long=-86|label=<small>'''{{esd|Equipos de<br>Santiago:}}'''<br>{{esd|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]}}<br>{{esd|[[Unión Española]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.146678|long=-75.372754|label=<small>[[Rionegro Águilas|R. Águilas]]</small>|position=left}}
+{{Location map~|América del Sur|lat=5.056233|long=-75.489807|label=<small>[[Once Caldas]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.623545|long=-74.135611|label=<small>{{esd|[[Club Deportivo La Equidad|La Equidad]]}}</small>}}
+{{Location map~|América del Sur|lat=3.521642|long=-76.417036|label=<small>{{esd|[[Deportivo Cali]]}}</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.177528|long=-78.476583|label=<small>[[Club Deportivo de la Universidad Católica (Ecuador)|U. Católica]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-0.329167|long=-78.445|label=<small>[[Independiente del Valle|Ind. del Valle]]</small>}}
+{{Location map~|América del Sur|lat=-1.241667|long=-78.619722|label=<small>'''Ambato'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-0.5|long=-89|label=<small>'''{{esd|Equipos de<br>Ambato:}}'''<br>{{esd|[[Club Deportivo Macará|Macará]]}}<br>{{esd|[[Mushuc Runa Sporting Club|Mushuc Runa]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-23|long=-69|label=<small>'''{{esd|Equipos de Asunción:}}'''<br>{{esd|[[Club Sol de América (Asunción)|Sol de América]]}}<br>{{esd|[[Independiente de Campo Grande|Independiente de CG]]}}<br>{{esd|[[Club Guaraní|Guaraní]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-24.656756|long=-56.441553|label=<small>[[Club Deportivo Santaní|Deportivo Santaní]]</small>|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-15.502667|long=-70.123333|label=<small>[[Escuela Municipal Deportivo Binacional|Binacional]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.072778|long=-75.201944|label=<small>[[Club Deportivo Sport Huancayo|Sport Huancayo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.05972|long=-77.11995|label=<small>[[Club Centro Deportivo Municipal|Deportivo Municipal]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-7.150503|long=-78.513182|label=<small>[[Club Universidad Técnica de Cajamarca|UTC]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.86694|long=-56.166667|label=<small>'''Montevideo'''</small>}}
+{{Location map~|América del Sur|lat=-35|long=-48|label=<small>'''{{esd|Equipos de Montevideo:}}'''<br>{{esd|[[Club Atlético Cerro|Cerro]]}}<br>{{esd|[[Liverpool Fútbol Club|Liverpool]]}}<br>{{esd|[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]}}<br>{{esd|[[Club Atlético River Plate (Uruguay)|River Plate]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=10.674114|long=-71.645011|label=<small>{{esd|[[Zulia Fútbol Club|Zulia]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=9.71684|long=-63.224258|label=<small>[[Monagas Sport Club|Monagas]]</small>|position=left}}
+{{Location map~|América del Sur|lat=8.556389|long=-71.216667|label=<small>[[Estudiantes de Mérida Fútbol Club|Estudiantes]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=8.3125|long=-62.696667|label=<small>{{esd|[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]}}</small>|position=bottom}}
+}}
+
+== Sorteo ==
+
+=== Primera fase ===
+El sorteo de la primera fase se realizó el 17 de diciembre de 2018 en Luque, Paraguay, el mismo día en que se sorteó la [[Copa Libertadores 2019]]. Se dividió a todos los clasificados en dos bombos, según su ubicación geográfica, en norte y sur. Luego se emparejó a uno de una región con uno de la otra.<ref>{{Cita web|url=https://www.publimetro.cl/cl/grafico-chile/2018/12/10/copa-sudamericana-2019-sorteo.html|título=Copa Sudamericana 2019: ¿Cuándo, dónde y cómo se realiza el sorteo?|fechaacceso=13 de diciembre de 2018|apellido=Lagos|nombre=Felipe|sitioweb=Publimetro Chile|idioma=es}}</ref>
+
+{| cellpadding="2" width=50% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=50% | Bombo 1 (Zona Sur)
+! width=50% | Bombo 2 (Zona Norte)
+|-
+|
+* {{Bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+* {{Bandera|Argentina}} [[Club Atlético Colón|Colón]]
+* {{Bandera|Argentina}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+* {{Bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+* {{Bandera|Argentina}} [[Racing Club]]
+* {{Bandera|Argentina}} [[Club Atlético Unión (Santa Fe)|Unión]]
+* {{Bandera|Bolivia}} [[Club Deportivo Guabirá|Guabirá]]
+* {{Bandera|Bolivia}} [[Club Atlético Nacional Potosí|Nacional Potosí]]
+* {{Bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+* {{Bandera|Bolivia}} [[Royal Pari Fútbol Club|Royal Pari]]
+* {{Bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+* {{Bandera|Chile}} [[Club de Deportes Antofagasta|Deportes Antofagasta]]
+* {{Bandera|Chile}} [[Unión Española]]
+* {{Bandera|Chile}} [[Club de Deportes Unión La Calera|Unión La Calera]]
+* {{Bandera|Paraguay}} [[Club Deportivo Santaní|Deportivo Santaní]]
+* {{Bandera|Paraguay}} [[Club Guaraní|Guaraní]]
+* {{Bandera|Paraguay}} [[Independiente de Campo Grande|Independiente de CG]]
+* {{Bandera|Paraguay}} [[Club Sol de América (Asunción)|Sol de América]]
+* {{Bandera|Uruguay}} [[Club Atlético Cerro|Cerro]]
+* {{Bandera|Uruguay}} [[Liverpool Fútbol Club|Liverpool]]
+* {{Bandera|Uruguay}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+* {{Bandera|Uruguay}} [[Club Atlético River Plate (Uruguay)|River Plate]]
+|
+* {{bandera|Brasil}} [[Esporte Clube Bahia|Bahia]]
+* {{bandera|Brasil}} [[Botafogo de Futebol e Regatas|Botafogo]]
+* {{bandera|Brasil}} [[Chapecoense]]
+* {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+* {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]]
+* {{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+* {{bandera|Colombia}} [[Deportivo Cali]]
+* {{bandera|Colombia}} [[Club Deportivo La Equidad|La Equidad]]
+* {{bandera|Colombia}} [[Once Caldas]]
+* {{bandera|Colombia}} [[Rionegro Águilas]]
+* {{bandera|Ecuador}} [[Independiente del Valle]]
+* {{bandera|Ecuador}} [[Club Deportivo Macará|Macará]]
+* {{bandera|Ecuador}} [[Mushuc Runa Sporting Club|Mushuc Runa]]
+* {{bandera|Ecuador}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+* {{bandera|Perú}} [[Escuela Municipal Deportivo Binacional|Binacional]]
+* {{bandera|Perú}} [[Club Centro Deportivo Municipal|Deportivo Municipal]]
+* {{bandera|Perú}} [[Club Sport Huancayo|Sport Huancayo]]
+* {{bandera|Perú}} [[Club Universidad Técnica de Cajamarca|UTC]]
+* {{bandera|Venezuela}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+* {{bandera|Venezuela}} [[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+* {{bandera|Venezuela}} [[Monagas Sport Club|Monagas]]
+* {{bandera|Venezuela}} [[Zulia Fútbol Club|Zulia]]
+|}
+
+=== Segunda fase ===
+El sorteo de la segunda fase se realizó el 13 de mayo. Se colocó a los equipos en dos bombos, en el 1 fueron ubicados los diez que provienen de la [[Copa Libertadores 2019]], más los seis equipos con mejor desempeño de la primera fase; mientras que en el bombo 2 se ubicaron los dieciséis equipos restantes clasificados en la primera fase. Se extrajeron primero los del bolillero 2 y se fueron ubicando en el primer lugar de cada llave, denominadas O1 al O16. Luego se completaron los emparejamientos con los equipos del primer bolillero, los que serán locales en el partido de vuelta. Luego, los equipos ganadores serán numerados del 1 al 16, según el orden de las llaves de octavos, enfrentándose en forma predeterminada los mejor con los peor ubicados (O1 vs. O16, O2 vs. O15 y así sucesivamente). En los cruces posteriores ejercerá la localía en el desquite aquel que tenga menor número de orden.
+{| cellpadding="2" width=50% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="50%" |Bombo 1
+! width="50%" |Bombo 2
+|-calla oe bes..ia
+
+|
+* {{Bandera|Argentina}} [[Club Atlético Colón|Colón]]
+* {{Bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+* {{bandera|Brasil}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+* {{bandera|Brasil}} [[Botafogo de Futebol e Regatas|Botafogo]]
+* {{bandera|Chile}} [[Club Deportivo Palestino|Palestino]]
+* {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+* {{bandera|Colombia}} [[Atlético Nacional]]
+* {{bandera|Colombia}} [[Club Deportes Tolima|Deportes Tolima]]
+* {{bandera|Ecuador}} [[Club Deportivo Macará|Macará]]
+* {{bandera|Paraguay}} [[Club Deportivo Santaní|Deportivo Santaní]]
+* {{bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]
+* {{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+* {{bandera|URU}} [[Club Atlético Cerro|Cerro]]
+* {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+* {{bandera|Venezuela}} [[Caracas Fútbol Club|Caracas]]
+* {{bandera|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|
+* {{Bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+* {{Bandera|Bolivia}} [[Royal Pari Fútbol Club|Royal Pari]]
+* {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+* {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]]
+* {{Bandera|Chile}} [[Unión Española]]
+* {{Bandera|Chile}} [[Club de Deportes Unión La Calera|Unión La Calera]]
+* {{bandera|Colombia}} [[Deportivo Cali]]
+* {{bandera|Colombia}} [[Club Deportivo La Equidad|La Equidad]]
+* {{bandera|Colombia}} [[Rionegro Águilas]]
+* {{bandera|ECU}} [[Independiente del Valle]]
+* {{bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+* {{bandera|PAR}} [[Club Sol de América (Asunción)|Sol de América]]
+* {{bandera|URU}} [[Liverpool Fútbol Club|Liverpool]]
+* {{bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+* {{Bandera|Uruguay}} [[Club Atlético River Plate (Uruguay)|River Plate]]
+* {{Bandera|Venezuela}} [[Zulia Fútbol Club|Zulia]]
+|}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2019|l1=Primera fase de la Copa Sudamericana 2019}}Los partidos de ida se jugaron entre el 5 de febrero y el 4 de abril, y los de vuelta entre el 30 de abril y el 8 de mayo.
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fechas
+!width=20%|Local en la ida
+!width=8%|Global
+!width=20%|Local en la vuelta
+!width=8%|Ida
+!width=8%|Vuelta
+|-align=center
+|21 de marzo y 18 de abril
+|align=right|'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]''' {{bandera|URU}}
+|'''3:1'''
+|align=left|{{Bandera|Perú}} [[Club Sport Huancayo|Sport Huancayo]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460772&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460794&lang=es_LA 1:1]
+|-align="center"
+|7 y 21 de febrero
+|align="right" |[[Esporte Clube Bahia|Bahia]] {{bandera|BRA}}
+|'''0:1'''
+|align="left" |{{bandera|URU}} '''[[Liverpool Fútbol Club|Liverpool]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460773&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460795&lang=es_LA 0:0]
+|-align="center"
+|3 de abril y 1 de mayo
+|align="right" |'''[[Club Atlético Independiente|Independiente]]''' {{bandera|Argentina}}
+|'''6:2'''
+|align="left" |{{Bandera|Perú}} [[Escuela Municipal Deportivo Binacional|Binacional]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460774&lang=es_LA 4:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460796&lang=es_LA 2:1]
+|-align="center"
+|21 de marzo y 17 de abril
+|align="right" |'''[[Rionegro Águilas]]''' {{bandera|Colombia}}
+|'''2:2''' <small>('''3:0''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{Bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460775&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460797&lang=es_LA 1:1]
+|-align="center"
+|4 de abril y 8 de mayo{{refn|group=n.|name=ARGMER|El partido originalmente estaba programado para el 2 de mayo, pero debido a [[Levantamiento contra Nicolás Maduro|problemas civiles en Venezuela]] fue reprogramado para el 8 de mayo.}}
+|align="right" |'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]''' {{Bandera|Argentina}}
+|'''2:1'''
+|align="left" |{{bandera|Venezuela}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460776&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460798&lang=es_LA 0:1]
+|-align="center"
+|19 de marzo y 16 de abril
+|align="right" |[[Club Centro Deportivo Municipal|Deportivo Municipal]] {{bandera|PER}}
+|'''0:5'''
+|align="left" |{{Bandera|Argentina}} '''[[Club Atlético Colón|Colón]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460777&lang=es_LA 0:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460799&lang=es_LA 0:2]
+|-align="center"
+|19 de marzo y 18 de abril
+|align="right" |'''[[Unión Española]]''' {{bandera|Chile}}
+|'''2:2''' <small>('''6:5''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Ecuador}} [[Mushuc Runa Sporting Club|Mushuc Runa]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460778&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460800&lang=es_LA 1:1]
+|-align="center"
+|3 y 30 de abril
+|align="right" |[[Club Universidad Técnica de Cajamarca|UTC]] {{bandera|PER}}
+|'''2:4'''
+|align="left" |{{bandera|URU}} '''[[Club Atlético Cerro|Cerro]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460779&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460801&lang=es_LA 1:3]
+|-align="center"
+|7 y 21 de febrero
+|align="right" |'''[[Club Deportivo Santaní|Deportivo Santaní]]''' {{bandera|Paraguay}}
+|'''3:1'''
+|align="left" |{{bandera|Colombia}} [[Once Caldas]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460780&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460802&lang=es_LA 2:0]
+|-align=center
+|2 y 30 de abril
+|align=right|'''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]''' {{bandera|ECU}}
+|'''1:1''' <small>('''3:0''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460781&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460803&lang=es_LA 1:0]
+|-align="center"
+|12 y 26 de febrero
+|align="right" |'''[[Club Atlético River Plate (Uruguay)|River Plate]]''' <small>([[Regla del gol de visitante|v.]])</small> {{bandera|Uruguay}}
+|'''1:1'''
+|align="left" |{{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460782&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460804&lang=es_LA 1:1]
+|-align="center"
+|12 y 28 de febrero
+|align="right" |'''[[Club Deportivo Macará|Macará]]''' {{bandera|ECU}}
+|'''5:1'''
+|align="left" |{{bandera|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460783&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460805&lang=es_LA 3:0]
+|-align="center"
+|14 y 27 de febrero
+|align="right" |'''[[Royal Pari Fútbol Club|Royal Pari]]''' {{bandera|Bolivia}}
+|'''3:3''' <small>('''4:2''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Venezuela}} [[Monagas Sport Club|Monagas]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460784&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460806&lang=es_LA 1:2]
+|-align=center
+|2 de abril y 1 de mayo
+|align=right|[[Club Deportivo Mineros de Guayana|Mineros de Guayana]] {{bandera|VEN}}
+|'''1:1''' <small>('''3:4''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|PAR}} '''[[Club Sol de América (Asunción)|Sol de América]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460785&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460807&lang=es_LA 0:1]
+|-align="center"
+|5 y 19 de febrero
+|align="right"| '''[[Club de Deportes Unión La Calera|Unión La Calera]]''' <small>([[Regla del gol de visitante|v.]])</small> {{bandera|Chile}}
+|'''1:1'''
+|align="left" |{{bandera|Brasil}} [[Associação Chapecoense de Futebol|Chapecoense]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460786&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460808&lang=es_LA 1:1]
+|-align=center
+|4 de abril y 2 de mayo
+|align=right|'''[[Deportivo Cali]]''' {{bandera|COL}}
+|'''1:1''' <small>('''4:1''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|PAR}} [[Club Guaraní|Guaraní]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460787&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460809&lang=es_LA 0:1]
+|-align="center"
+|19 de marzo y 16 de abril
+|align="right" |[[Club Atlético Nacional Potosí|Nacional Potosí]]  {{bandera|Bolivia}}
+|'''1:1''' <small>('''0:2''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Venezuela}} '''[[Zulia Fútbol Club|Zulia]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460788&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460810&lang=es_LA 1:0]
+|-align="center"
+|14 y 27 de febrero
+|align="right" |'''[[Sport Club Corinthians Paulista|Corinthians]]''' {{Bandera|Brasil}}
+|'''2:2''' <small>('''5:4''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Argentina}} [[Racing Club]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460789&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460811&lang=es_LA 1:1]
+|-align="center"
+|20 de marzo y 16 de abril
+|align="right" |[[Independiente de Campo Grande|Independiente de CG]] {{Bandera|Paraguay}}
+|'''0:0''' <small>('''3:4''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Colombia}} '''[[Club Deportivo La Equidad|La Equidad]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460790&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460812&lang=es_LA 0:0]
+|-align="center"
+|26 de febrero y 21 de marzo
+|align="right" |'''[[Fluminense Football Club|Fluminense]]''' {{Bandera|BRA}}
+|'''2:1'''
+|align="left" |{{bandera|CHI}} [[Club de Deportes Antofagasta|Deportes Antofagasta]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460791&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460813&lang=es_LA 2:1]
+|-align="center"
+|20 de marzo y 17 de abril
+|align="right" |[[Club Atlético Unión (Santa Fe)|Unión]] {{Bandera|ARG}}
+|'''2:2''' <small>('''2:4''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|ECU}} '''[[Independiente del Valle]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460792&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460814&lang=es_LA 0:2]
+|-align="center"
+|6 y 20 de febrero
+|align="right" |'''[[Botafogo de Futebol e Regatas|Botafogo]]''' {{Bandera|BRA}}
+|'''4:0'''
+|align="left" |{{bandera|ARG}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460793&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460815&lang=es_LA 3:0]
+|}
+
+== Segunda fase ==
+{{AP|Anexo:Segunda fase de la Copa Sudamericana 2019|l1=Segunda fase de la Copa Sudamericana 2019}}
+Los partidos de ida se jugaron entre el 21 y el 23 de mayo y los de vuelta entre el 28 y el 30 de mayo. En esta etapa participaron los 22 equipos clasificados en la Primera fase y los 10 transferidos de la [[Copa Libertadores 2019]].
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+! width="15%" |Fechas
+! width="15%" |Local en la ida
+! width="9%" |Global
+! width="15%" |Local en la vuelta
+! width="9%" |Ida
+! width="9%" |Vuelta
+! width="9%" |Llave
+|-align="center"
+|22 y 29 de mayo
+|align="right" |'''[[Club Deportivo La Equidad|La Equidad]]''' {{bandera|COL}}
+|'''4:1'''
+|align="left" |{{bandera|Paraguay}} [[Club Deportivo Santaní|Deportivo Santaní]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460816&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460832&lang=es_LA 2:1]
+|'''Octavo 1'''
+|-align="center"
+|23 y 30 de mayo
+|align="right" |'''[[Independiente del Valle]]''' {{bandera|ECU}}
+|'''7:3'''
+|align="left" |{{bandera|CHI}} [[Club Deportivo Universidad Católica_(fútbol)|Universidad Católica]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460817&lang=es_LA 5:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460833&lang=es_LA 2:3]
+|'''Octavo 2'''
+|-align="center"
+|23 y 29 de mayo
+|align="right" |'''[[Fluminense Football Club|Fluminense]]''' {{bandera|BRA}}
+|'''4:2'''
+|align="left" |{{bandera|Colombia}} [[Atlético Nacional]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460818&lang=es_LA 4:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460834&lang=es_LA 0:1]
+|'''Octavo 3'''
+|-align="center"
+|21 y 28 de mayo
+|align="right" |[[Unión Española]] {{bandera|CHI}}
+|'''0:6'''
+|align="left" |{{bandera|Perú}} '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460819&lang=es_LA 0:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460835&lang=es_LA 0:3]
+|'''Octavo 4'''
+|-align="center"
+|23 y 30 de mayo
+|align="right" |'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]''' {{bandera|ARG}}
+|'''1:0'''
+|align="left" |{{bandera|Colombia}} [[Club Deportes Tolima|Deportes Tolima]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460820&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460836&lang=es_LA 0:0]
+|'''Octavo 5'''
+|-align="center"
+|23 y 30 de mayo
+|align="right" |'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]''' {{bandera|URU}}
+|'''1:0'''
+|align="left" |{{bandera|URU}} [[Club Atlético Cerro|Cerro]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460821&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460837&lang=es_LA 1:0]
+|'''Octavo 6'''
+|-align="center"
+|21 y 28 de mayo
+|align="right" |'''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]''' {{bandera|ECU}}
+|'''6:0'''
+|align="left" |{{bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460822&lang=es_LA 6:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460838&lang=es_LA 0:0]
+|'''Octavo 7'''
+|-align="center"
+|21 y 28 de mayo
+|align="right" |[[Club de Deportes Unión La Calera|Unión La Calera]] {{bandera|CHI}}
+|'''1:1''' <small>('''0:3''' [[Tiros desde el punto penal|p.]])</small>
+|align="left" |{{bandera|Brasil}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460823&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460839&lang=es_LA 0:1]
+|'''Octavo 8'''
+|-align="center"
+|22 y 29 de mayo
+|align="right" |[[Club Sol de América (Asunción)|Sol de América]] {{bandera|PAR}}
+|'''0:5'''
+|align="left" |{{bandera|Brasil}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460824&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460840&lang=es_LA 0:4]
+|'''Octavo 9'''
+|-align="center"
+|21 y 28 de mayo
+|align="right" |[[Rionegro Águilas]] {{bandera|COL}}
+|'''3:4'''
+|align="left" |{{Bandera|Argentina}} '''[[Club Atlético Independiente|Independiente]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460825&lang=es_LA 3:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460841&lang=es_LA 0:2]
+|'''Octavo 10'''
+|-align="center"
+|23 y 30 de mayo
+|align="right" |'''[[Sport Club Corinthians Paulista|Corinthians]]''' {{bandera|BRA}}
+|'''4:0'''
+|align="left" |{{bandera|VEN}} [[Asociación Civil Deportivo Lara|Deportivo Lara]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460826&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460842&lang=es_LA 2:0]
+|'''Octavo 11'''
+|-align="center"
+|21 y 28 de mayo
+|align="right" |[[Club Atlético River Plate (Uruguay)|River Plate]] {{bandera|URU}}
+|'''1:3'''
+|align="left" |{{Bandera|Argentina}} '''[[Club Atlético Colón|Colón]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460827&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460843&lang=es_LA 1:3]
+|'''Octavo 12'''
+|-align="center"
+|22 y 29 de mayo
+|align="right" |'''[[Zulia Fútbol Club|Zulia]]''' {{bandera|VEN}}
+|'''3:1'''
+|align="left" |{{bandera|Chile}} [[Club Deportivo Palestino|Palestino]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460828&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460844&lang=es_LA 1:0]
+|'''Octavo 13'''
+|-align="center"
+|22 y 29 de mayo
+|align="right" |[[Deportivo Cali]] {{bandera|COL}}
+|'''1:3'''
+|align="left" |{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460829&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460845&lang=es_LA 0:2]
+|'''Octavo 14'''
+|-align="center"
+|22 y 28 de mayo
+|align="right" |[[Liverpool Fútbol Club|Liverpool]] {{bandera|URU}}
+|'''1:2'''
+|align="left" |{{bandera|Venezuela}} '''[[Caracas Fútbol Club|Caracas]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460830&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460846&lang=es_LA 0:2]
+|'''Octavo 15'''
+|-align="center"
+|21 y 29 de mayo
+|align="right" |'''[[Royal Pari Fútbol Club|Royal Pari]]''' <small>([[Regla del gol de visitante|v.]])</small> {{bandera|BOL}}
+|'''3:3''' 
+|align="left" |{{bandera|Ecuador}} [[Club Deportivo Macará|Macará]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460831&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460847&lang=es_LA 2:3]
+|'''Octavo 16'''
+|}
+
+== Fase final ==
+La fase final constó de cuatro etapas: octavos de final, cuartos de final, semifinales y final.<ref>{{Cita web|url=https://es.besoccer.com/copa_sudamericana|título=Todos los resultados de la Conmebol Sudamericana 2019|fechaacceso=23 de julio de 2019|sitioweb=BeSoccer|idioma=es-ES}}</ref> Se disputaron por [[eliminación directa]] en partidos de ida y vuelta, excepto la final, que se jugó a partido único. A partir de los octavos de final, se utilizó el [[árbitro asistente de video]] (VAR).
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20| team-width= 200| score-width= 20
+| seeds = 
+
+<!--Octavos-->
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2019|Octavos de final]]
+| RD1-date= 9 de julio al 1 de agosto
+
+| RD1-seed1 = 2 
+| RD1-seed2 = 15
+| RD1-team1 = {{bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD1-team2 = {{Bandera|VEN}} [[Caracas Fútbol Club|Caracas]]
+| RD1-score1-1 = 0
+| RD1-score2-1 = 0
+| RD1-score1-2 = 2
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''2'''
+| RD1-score2-3 = '''0'''
+
+| RD1-seed3 = 7
+| RD1-seed4 = 10 
+| RD1-team3 = {{Bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+| RD1-team4 = {{Bandera|ARG}} '''[[Club Atlético Independiente|Independiente]] <small>([[Regla del gol de visitante|v]])</small>'''
+| RD1-score3-1 = 0
+| RD1-score4-1 = 1
+| RD1-score3-2 = 3
+| RD1-score4-2 = 2
+| RD1-score3-3 = '''3'''
+| RD1-score4-3 = '''3'''
+
+| RD1-seed5 = 3
+| RD1-seed6 = 14 
+| RD1-team5 = {{bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+| RD1-team6 = {{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score5-1 = 2
+| RD1-score6-1 = 1
+| RD1-score5-2 = 3
+| RD1-score6-2 = 1
+| RD1-score5-3 ='''5'''
+| RD1-score6-3 = '''2'''
+
+| RD1-seed7 = 6 
+| RD1-seed8 = 11 
+| RD1-team7 = {{bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+| RD1-team8 = {{Bandera|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+| RD1-score7-1 = 0
+| RD1-score8-1 = 2
+| RD1-score7-2 = 1
+| RD1-score8-2 = 2
+| RD1-score7-3 = '''1'''
+| RD1-score8-3 = '''4'''
+
+| RD1-seed9 = 1
+| RD1-seed10 = 16 
+| RD1-team9 = {{Bandera|COL}} '''[[Club Deportivo La Equidad|La Equidad]]'''
+| RD1-team10 = {{Bandera|BOL}} [[Royal Pari Fútbol Club|Royal Pari]]
+| RD1-score9-1 = 2 
+| RD1-score10-1 = 1 
+| RD1-score9-2 = 2 
+| RD1-score10-2 = 1 
+| RD1-score9-3 ='''4''' 
+| RD1-score10-3 ='''2'''
+
+| RD1-seed11 = 8 
+| RD1-seed12 = 9
+| RD1-team11 = {{Bandera|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+| RD1-team12 = {{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD1-score11-1 = 1
+| RD1-score12-1 = 0
+| RD1-score11-2 = 2
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''3'''
+| RD1-score12-3 = '''0'''
+
+| RD1-seed13 = 5
+| RD1-seed14 = 12 
+| RD1-team13 = {{Bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| RD1-team14 = {{Bandera|ARG}} '''[[Club Atlético Colón|Colón]] <small>([[Tiros desde el punto penal|p]])</small>'''
+| RD1-score13-1 = 1
+| RD1-score14-1 = 0
+| RD1-score13-2 = 0
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''1&nbsp;{{small|(3)}}''' 
+| RD1-score14-3 = '''1&nbsp;{{small|(4)}}'''
+
+| RD1-seed15 = 4 
+| RD1-seed16 = 13 
+| RD1-team15 = {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+| RD1-team16 = {{Bandera|VEN}} '''[[Zulia Fútbol Club|Zulia]] <small>([[Regla del gol de visitante|v]])</small>'''
+| RD1-score15-1 =0
+| RD1-score16-1 =1
+| RD1-score15-2 = 3
+| RD1-score16-2 =2
+| RD1-score15-3 ='''3'''
+| RD1-score16-3 ='''3'''
+
+<!--Cuartos-->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2019|Cuartos de final]]
+| RD2-date= 6 al 29 de agosto
+
+| RD2-seed1 = 2
+| RD2-seed2 = 10
+| RD2-team1 = {{bandera|ECU}} '''[[Independiente del Valle]] <small>([[Regla del gol de visitante|v]])</small>'''
+| RD2-team2 = {{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| RD2-score1-1 = 1
+| RD2-score2-1 = 2
+| RD2-score1-2 = 1
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''2'''
+| RD2-score2-3 = '''2'''
+
+| RD2-seed3 = 3
+| RD2-seed4 = 11
+| RD2-team3 = {{bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+| RD2-team4 = {{Bandera|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]] <small>([[Regla del gol de visitante|v]])</small>'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 0
+| RD2-score3-2 = 1
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''1'''
+
+| RD2-seed5 = 1
+| RD2-seed6 = 8
+| RD2-team5 = {{Bandera|COL}} [[Club Deportivo La Equidad|La Equidad]]
+| RD2-team6 = {{Bandera|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+| RD2-score5-1 = 1
+| RD2-score6-1 = 2
+| RD2-score5-2 = 1
+| RD2-score6-2 = 3
+| RD2-score5-3 = '''2'''
+| RD2-score6-3 = '''5'''
+
+| RD2-seed7 = 12
+| RD2-seed8 = 13
+| RD2-team7 = {{bandera|ARG}} '''[[Club Atlético Colón|Colón]]'''
+| RD2-team8 = {{Bandera|VEN}} [[Zulia Fútbol Club|Zulia]]
+| RD2-score7-1 = 0
+| RD2-score8-1 = 1
+| RD2-score7-2 = 4
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''4'''
+| RD2-score8-3 = '''1'''
+
+<!--Semifinal-->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2019|Semifinales]]
+| RD3-date= 18 al 26 de septiembre
+
+| RD3-seed1 = 2
+| RD3-seed2 = 11
+| RD3-team1 = {{bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD3-team2 = {{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD3-score1-1 = 2
+| RD3-score2-1 = 0
+| RD3-score1-2 = 2
+| RD3-score2-2 = 2
+| RD3-score1-3 = '''4'''
+| RD3-score2-3 = '''2'''
+
+| RD3-seed3 = 8
+| RD3-seed4 = 12
+| RD3-team3 = {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD3-team4 = {{bandera|ARG}} '''[[Club Atlético Colón|Colón]] <small>([[Tiros desde el punto penal|p]])</small>'''
+| RD3-score3-1 = 1
+| RD3-score4-1 = 2
+| RD3-score3-2 = 2
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''3&nbsp;{{small|(3)}}'''
+| RD3-score4-3 = '''3&nbsp;{{small|(4)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2019|Final]]
+| RD4-date= 9 de noviembre
+
+| RD4-seed1 = 2
+| RD4-seed2 = 12
+| RD4-team1 = {{bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD4-team2 = {{bandera|ARG}} [[Club Atlético Colón|Colón]]
+| RD4-score1-1 = '''3'''
+| RD4-score2-1 = 1
+}}
+*<small>'''Nota''': En cada llave, el equipo con el menor número de orden es el que define la serie como local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2019|l1=Octavos de final de la Copa Sudamericana 2019}}
+
+{{Partido
+|paíslocal = BOL
+|local = [[Royal Pari Fútbol Club|Royal Pari]]
+|resultado = 1:2''' (1:0)
+|paísvisita = COL
+|visita = [[Club Deportivo La Equidad|La Equidad]]
+|refe = {{árbitro|PAR|Arnaldo Samaniego (árbitro)|Arnaldo Samaniego}}
+|fecha = 9 de julio de 2019, 20:30
+|estadio = [[Estadio Ramón Aguilera Costas|Estadio Ramón Aguilera]]
+|ciudad = [[Santa Cruz de la Sierra|Santa Cruz]]
+|asistencia = 8453
+|goleslocal = [[Rodrigo Vargas Castillo|Vargas]] {{gol|6}}
+|golesvisita = [[Ethan González|E. González]] {{gol|79||89}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460856&lang=es_LA
+}}
+{{Partido
+|paíslocal  = COL
+|local = [[Club Deportivo La Equidad|La Equidad]]
+|resultado = 2:1''' (0:1)
+|paísvisita = BOL
+|visita = [[Royal Pari Fútbol Club|Royal Pari]]
+|refe = {{árbitro|VEN|Alexis Herrera}}
+|fecha = 16 de julio de 2019, 19:30 
+|estadio = [[Estadio Nemesio Camacho|Estadio El Campín]]
+|ciudad = [[Bogotá]]
+|asistencia = 14 467
+|goleslocal = [[Jáider Riquett|Riquett]] {{gol|76}}<br />[[Ethan González|E. González]] {{gol|86}}
+|golesvisita = [[John Jairo Mosquera|Mosquera]] {{gol|15}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460848&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal = BRA
+|local = [[Botafogo de Futebol e Regatas|Botafogo]]
+|resultado = 0:1''' (0:1)
+|paísvisita = BRA
+|visita = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|refe = {{árbitro|BRA|Raphael Claus}}
+|fecha = 24 de julio de 2019, 21:30
+|estadio = [[Estadio Nilton Santos]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 30 276
+|golesvisita = [[Vinícius Goes Barbosa de Souza|Vinícius]] {{gol|36}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460855&lang=es_LA
+}}
+{{Partido
+|paíslocal  = BRA
+|local = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado = 2:0''' (0:0)
+|paísvisita = BRA
+|visita = [[Botafogo de Futebol e Regatas|Botafogo]]
+|refe = {{árbitro|BRA|Wilton Sampaio}}
+|fecha = 31 de julio de 2019, 21:30 
+|estadio = [[Estadio Raimundo Sampaio|Estadio Independencia]]
+|ciudad = [[Belo Horizonte]]
+|asistencia = 28 019
+|goleslocal = [[Fábio Santos Romeu|Fábio Santos]] {{penalti|77}}<br />[[Vinícius Goes Barbosa de Souza|Vinícius]] {{gol|86}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460863&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal  = VEN
+|local = [[Zulia Fútbol Club|Zulia]]
+|resultado = 1:0''' (0:0)
+|paísvisita  = PER
+|visita = [[Club Sporting Cristal|Sporting Cristal]]
+|refe = {{árbitro|PAR|Eber Aquino}}
+|fecha = 23 de julio de 2019, 16:00 
+|estadio = [[Estadio José Encarnación Romero|Estadio José Encarnación]]
+|ciudad = [[Maracaibo]]
+|asistencia = 6156
+|goleslocal = [[Frank Feltscher|Feltscher]] {{gol|59}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460850&lang=es_LA
+}}
+{{Partido
+|paíslocal = PER
+|local = [[Club Sporting Cristal|Sporting Cristal]]
+|resultado = 3:2''' (0:1)
+|paísvisita = VEN
+|visita = [[Zulia Fútbol Club|Zulia]]
+|refe = {{árbitro|BRA|Anderson Daronco}}
+|fecha = 30 de julio de 2019, 17:15
+|estadio = [[Estadio Alejandro Villanueva]]
+|ciudad = [[Lima]]
+|asistencia = 15 033
+|goleslocal = [[Kevin Sandoval Laynes|Sandoval]] {{gol|69||90+5}}<br />[[Christofer Gonzales|C. Gonzales]] {{gol|75}}
+|golesvisita = [[Andrés Maldonado|Maldonado]] {{gol|12}}<br />[[Brayan Moya|Velásquez]] {{gol|85}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460858&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal  = ARG
+|local = [[Club Atlético Colón|Colón]]
+|resultado = 0:1''' (0:1)
+|paísvisita = ARG
+|visita = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|refe = {{árbitro|URU|Esteban Ostojich}}
+|fecha = 11 de julio de 2019, 21:30
+|estadio = [[Estadio Brigadier General Estanislao López|Estadio Estanislao López]]
+|ciudad = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia = 24 714
+|golesvisita = [[Matías Alexis Romero|M. Romero]] {{gol|38}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460860&lang=es_LA
+}}
+{{Partido
+|paíslocal  = ARG
+|local = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|resultado = 0:1 {{sin negrita|(0:0)}}
+|paísvisita  = ARG
+|visita = [[Club Atlético Colón|Colón]]
+|refe = {{árbitro|BRA|Anderson Daronco}}
+|fecha = 18 de julio de 2019, 21:30 
+|estadio = [[Estadio Diego Armando Maradona (Argentina)|Estadio Diego Maradona]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 20 605
+|golesvisita = [[Christian Bernardi|Bernardi]] {{gol|69}}
+|resultado penalti = 3:4
+|penaltis1 = [[Santiago Silva|Silva]] {{penfallo|travesaño}}<br />[[Damián Batallini|Batallini]] {{penfallo|desviado}}<br />[[Fausto Montero|Montero]] {{pengol}}<br />[[Gabriel Hauche|Hauche]] {{pengol}}<br />[[Miguel Torrén|Torrén]] {{pengol}}<br/>[[Francis Mac Allister|F. Mac Allister]] {{penfallo|atajado}}<br />[[Enzo Ybáñez|Ybáñez]] {{penfallo|atajado}}
+|penaltis2 = {{penfallo|atajado}} [[Guillermo Luis Ortiz|Ortiz]]<br />{{penfallo|atajado}} [[Matías Fritzler|Fritzler]]<br />{{pengol}} [[Tomás Chancalay|Chancalay]]<br />{{pengol}} [[Rodrigo Aliendro|Aliendro]]<br />{{pengol}} [[Luis Miguel Rodríguez|L. Rodríguez]]<br />{{penfallo|travesaño}} [[Christian Bernardi|Bernardi]]<br />{{pengol}} [[Emanuel Olivera|Olivera]]
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460852&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal  = VEN
+|local = [[Caracas Fútbol Club|Caracas]]
+|resultado = 0:0
+|paísvisita  = ECU
+|visita = [[Independiente del Valle]]
+|refe = {{árbitro|BOL|Ivo Méndez}}
+|fecha = 10 de julio de 2019, 16:00
+|estadio = [[Estadio Olímpico de la Universidad Central de Venezuela|Estadio Olímpico de la UCV]]
+|ciudad = [[Caracas]]
+|asistencia = 10 219
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460849&lang=es_LA
+}}
+{{Partido
+|paíslocal  = ECU
+|local = [[Independiente del Valle]]
+|resultado = 2:0''' (0:0)
+|paísvisita  = VEN
+|visita = [[Caracas Fútbol Club|Caracas]]
+|refe = {{árbitro|URU|Leodán González}}
+|fecha = 17 de julio de 2019, 19:30
+|estadio = [[Estadio Olímpico Atahualpa]]
+|ciudad = [[Quito]]
+|asistencia = 15 031
+|goleslocal = [[Alan Franco Palma|Franco]] {{gol|62}}<br />[[Cristian Dájome|Dájome]] {{gol|76}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460857&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 1:0''' (0:0)
+|paísvisita = ECU
+|visita = [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|refe = {{árbitro|VEN|Jesús Valenzuela}}
+|fecha = 25 de julio de 2019, 21:30
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (ciudad de Buenos Aires)|Avellaneda]]
+|asistencia = 28 500
+|goleslocal = [[Pedro Pablo Hernández|Hernández]] {{gol|55}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460854&lang=es_LA
+}}
+{{Partido
+|paíslocal = ECU
+|local = [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|resultado = 3:2''' (1:0) 
+|paísvisita = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|CHI|Piero Maza}}
+|fecha = 1 de agosto de 2019, 19:30
+|estadio = [[Estadio Olímpico Atahualpa]]
+|ciudad = [[Quito]]
+|asistencia = 10 346
+|goleslocal = [[Bruno Vides|Vides]] {{gol|19|pen.}}<br />[[Walter Chalá|W. Chalá]] {{gol|79}}<br />[[Luis Amarilla|Amarilla]] {{gol|90+1}}
+|golesvisita = [[Martín Benítez|Benítez]] {{gol|51}}<br />[[Pedro Pablo Hernández|Hernández]] {{gol|71}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460862&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal  = URU
+|local = [[Club Atlético Peñarol|Peñarol]]
+|resultado = 1:2''' (0:1)
+|paísvisita  = BRA
+|visita = [[Fluminense Football Club|Fluminense]]
+|refe = {{árbitro|PAR|Arnaldo Samaniego (árbitro)|Arnaldo Samaniego}}
+|fecha = 23 de julio de 2019, 21:30 
+|estadio = [[Estadio Campeón del Siglo]]
+|ciudad = [[Montevideo]]
+|asistencia = 22 659
+|goleslocal = [[Gastón Rodríguez Maeso|G. Rodríguez]] {{gol|89}}
+|golesvisita = [[Yony González|Y. González]] {{gol|15||70}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460851&lang=es_LA
+}}
+{{Partido
+|paíslocal  = BRA
+|local = [[Fluminense Football Club|Fluminense]]
+|resultado = 3:1''' (2:0)
+|paísvisita  = URU
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|refe = {{árbitro|ARG|Patricio Loustau}}
+|fecha = 30 de julio de 2019, 21:30 
+|estadio = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia =  35 071
+|goleslocal = [[Marcos Paulo Costa do Nascimento|Marcos Paulo]] {{gol|1||47}}<br />[[Yony González|Y. González]] {{gol|25}}
+|golesvisita = [[Lucas Viatri|Viatri]] {{gol|69}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460859&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal  = BRA
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|resultado = 2:0''' (1:0)
+|paísvisita = URU
+|visita = [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|refe = {{árbitro|VEN|José Argote}}
+|fecha = 25 de julio de 2019, 21:30 ([[UTC-3]])
+|estadio = [[Arena Corinthians]]
+|ciudad = [[São Paulo]]
+|asistencia = 24 400
+|goleslocal = [[Clayson Henrique da Silva Vieira|Clayson]] {{gol|20}}<br />[[Pedro Victor Delmino da Silva|Pedrinho]] {{gol|86}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460853&lang=es_LA
+}}
+{{Partido
+|paíslocal  = URU
+|local = [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|resultado = 1:2''' (0:0)
+|paísvisita  = BRA
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|refe = {{árbitro|PAR|Eber Aquino}}
+|fecha = 1 de agosto de 2019, 21:30
+|estadio = [[Estadio Gran Parque Central]]
+|ciudad = [[Montevideo]]
+|asistencia = 9030
+|goleslocal = [[Christian Bravo|Bravo]] {{gol|50}}
+|golesvisita = [[Vágner Love]] {{gol|47||61}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460861&lang=es_LA
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2019|l1=Cuartos de final de la Copa Sudamericana 2019}}
+
+{{Partido
+|paíslocal   = BRA
+|local = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado = 2:1''' (1:1)
+|paísvisita   = COL
+|visita = [[Club Deportivo La Equidad|La Equidad]]
+|refe = {{árbitro|PAR|Mario Díaz de Vivar}}
+|fecha = {{fecha|20|8|2019}}, 21:30 
+|estadio = [[Estadio Raimundo Sampaio|Estadio Independencia]]
+|ciudad = [[Belo Horizonte]]
+|asistencia = 22 445
+|goleslocal = [[Jair Rodrigues Júnior|Jair]] {{gol|28}}<br />[[Elias Mendes Trindade|Elias]] {{gol|80}}
+|golesvisita = [[David Camacho|Camacho]] {{gol|7|pen.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460868&lang=es_LA
+}}
+{{Partido
+|paíslocal   = COL
+|local = [[Club Deportivo La Equidad|La Equidad]]
+|resultado = 1:3''' (0:1)
+|paísvisita   = BRA
+|visita = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|refe = {{árbitro|URU|Esteban Ostojich}}
+|fecha = {{fecha|27|8|2019}}, 19:30
+|estadio = [[Estadio Nemesio Camacho|Estadio El Campín]]
+|ciudad = [[Bogotá]]
+|asistencia = 19 941
+|goleslocal = [[Matías Mier|Mier]] {{gol|47}}
+|golesvisita = [[Réver]] {{gol|19}}<br />[[Yimmi Chará|Chará]] {{gol|52}}<br />[[Elias Mendes Trindade|Elias]] {{gol|76}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460864&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal   = VEN
+|local =  [[Zulia Fútbol Club|Zulia]]
+|resultado = 1:0''' (0:0)
+|paísvisita = ARG
+|visita = [[Club Atlético Colón|Colón]]
+|refe = {{árbitro|URU|Andrés Cunha}}
+|fecha = {{fecha|8|8|2019}}, 16:00
+|estadio = [[Estadio José Encarnación Romero|Estadio José Encarnación]]
+|ciudad = [[Maracaibo]]
+|asistencia = 25 232
+|goleslocal = [[Abel Casquete|Casquete]] {{gol|88}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460869&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Colón|Colón]]
+|resultado = 4:0''' (0:0)
+|paísvisita   = VEN
+|visita = [[Zulia Fútbol Club|Zulia]]
+|refe = {{árbitro|PAR|Eber Aquino}}
+|fecha = {{fecha|15|8|2019}}, 21:30
+|estadio = [[Estadio Brigadier General Estanislao López|Estadio Estanislao López]]
+|ciudad = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia = 33 018
+|goleslocal = [[Wilson Morelo|Morelo]] {{gol|46}}<br />[[Luis Miguel Rodríguez|L. Rodríguez]] {{gol|64}}<br />[[Tomás Chancalay|Chancalay]] {{gol|81}}<br />[[Federico Lértora|Lértora]] {{gol|89}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460865&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 2:1''' (0:0)
+|paísvisita   = ECU
+|visita = [[Independiente del Valle]]
+|refe = {{árbitro|PER|Diego Haro}}
+|fecha = {{fecha|6|8|2019}}, 21:30
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (ciudad de Buenos Aires)|Avellaneda]]
+|asistencia = 38 533
+|goleslocal = [[Silvio Ezequiel Romero|Romero]] {{gol|74|pen.|90+1}}
+|golesvisita = [[Jhon Jairo Sánchez|J. Sánchez]] {{gol|60}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460870&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ECU
+|local = [[Independiente del Valle]]
+|resultado = 1:0''' (0:0)
+|paísvisita   = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|CHI|Roberto Tobar}}
+|fecha = {{fecha|13|8|2019}}, 19:30
+|estadio = [[Estadio Olímpico Atahualpa]]
+|ciudad = [[Quito]]
+|asistencia = 20 344
+|goleslocal = [[Daniel Nieto Vela|Nieto]] {{gol|77}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460866&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|resultado = 0:0
+|paísvisita   = BRA
+|visita =  [[Fluminense Football Club|Fluminense]]
+|refe = {{árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|fecha = {{fecha|22|8|2019}}, 21:30
+|estadio = [[Arena Corinthians]]
+|ciudad = [[São Paulo]]
+|asistencia = 38 444
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460871&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Fluminense Football Club|Fluminense]]
+|resultado = 1:1''' (0:0)
+|paísvisita   = BRA
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|refe = {{árbitro|PER|Diego Haro}}
+|fecha = {{fecha|29|8|2019}}, 21:30
+|estadio = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 49 349
+|goleslocal = [[Pablo Dyego]] {{gol|83}}
+|golesvisita = [[Pedro Victor Delmino da Silva|Pedrinho]] {{gol|54}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460867&lang=es_LA
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2019|l1=Semifinales de la Copa Sudamericana 2019}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Colón|Colón]]
+|resultado = 2:1''' (0:1) 
+|paísvisita   = BRA
+|visita = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|refe = {{árbitro|VEN|Alexis Herrera}}
+|fecha = {{fecha|19|9|2019}}, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Brigadier General Estanislao López|Estadio Brig. Gral. Estanislao López]]
+|ciudad = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia = 36 517
+|goleslocal = [[Wilson Morelo|Morelo]] {{gol|51}}<br />[[Luis Miguel Rodríguez|L. Rodríguez]] {{gol|85}}
+|golesvisita = [[Yimmi Chará|Chará]] {{gol|35}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460874&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado = 2:1 {{sin negrita|(1:0)}} 
+|paísvisita = ARG
+|visita = [[Club Atlético Colón|Colón]]
+|refe = {{árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|fecha = {{fecha|26|9|2019}}, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Mineirão]]
+|ciudad = [[Belo Horizonte]]
+|asistencia = 59 109
+|goleslocal = [[Franco Di Santo|Di Santo]] {{gol|38}}<br/>[[Yimmi Chará|Chará]] {{gol|50}}
+|golesvisita = [[Luis Miguel Rodríguez|L. Rodríguez]] {{gol|81|pen.}}
+|resultado penalti = 3:4
+|penaltis1 = [[Fábio Santos Romeu|Fábio Santos]] {{pengol}}<br />[[Vinícius Goes Barbosa de Souza|Vinícius]] {{pengol}}<br />[[Franco Di Santo|Di Santo]] {{pengol}}<br />[[Réver]] {{penfallo|atajado}}<br/>[[Juan Cazares|Cazares]] {{penfallo|atajado}}
+|penaltis2 = {{penfallo|atajado}} [[Wilson Morelo|Morelo]]<br />{{pengol}} [[Guillermo Luis Ortiz|Ortiz]]<br />{{pengol}} [[Tomás Chancalay|Chancalay]]<br />{{pengol}} [[Emanuel Olivera|Olivera]]<br />{{pengol}} [[Luis Miguel Rodríguez|L. Rodríguez]]
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460872&lang=es_LA
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|resultado = 0:2''' (0:1) 
+|paísvisita   = ECU
+|visita = [[Independiente del Valle]]
+|refe = {{árbitro|URU|Leodán González}}
+|fecha = {{fecha|18|9|2019}}, 21:30 ([[UTC-3]])
+|estadio = [[Arena Corinthians]]
+|ciudad = [[São Paulo]]
+|asistencia = 44 509
+|golesvisita = [[Gabriel Torres|Torres]] {{gol|44||68}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460875&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ECU
+|local = [[Independiente del Valle]]
+|resultado = 2:2''' (0:1) 
+|paísvisita   = BRA
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|refe = {{árbitro|CHI|Piero Maza}}
+|fecha = {{fecha|25|9|2019}}, 19:30 ([[UTC-5]])
+|estadio = [[Estadio Olímpico Atahualpa]]
+|ciudad = [[Quito]]
+|asistencia = 36 884
+|goleslocal = [[Jhon Jairo Sánchez|J. Sánchez]] {{gol|68}}<br />[[Alejandro Cabeza|Cabeza]] {{gol|90}}
+|golesvisita = [[Mauro Boselli|Boselli]] {{gol|29}}<br />[[Clayson Henrique da Silva Vieira|Clayson]] {{gol|87|pen.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460873&lang=es_LA
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2019|l1=Final de la Copa Sudamericana 2019}}
+{{Partido
+|paíslocal = ECU
+|local =  [[Independiente del Valle]]
+|resultado = 3:1''' (2:0)
+|paísvisita = ARG
+|visita = [[Club Atlético Colón|Colón]]
+|refe = {{Bandera|BRA}} [[Raphael Claus]]
+|fecha = {{fecha|9|11|2019}}, 17:30 ([[UTC-3]])
+|estadio = [[Estadio General Pablo Rojas]]
+|ciudad = [[Asunción]]
+|asistencia = 44&nbsp;828
+|goleslocal = [[Luis Fernando León|León]] {{gol|24}}<br />[[Jhon Jairo Sánchez|Sánchez]] {{gol|41}}<br />[[Cristian Dájome|Dájome]] {{gol|90+5}}
+|golesvisita = [[Emanuel Olivera|Olivera]] {{gol|88}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.460876&lang=es_LA
+|suceso = El partido se suspendió momentáneamente a los 30 minutos del primer tiempo debido a la intensa lluvia que cayó sobre el estadio.<ref>{{cita web|título=La final de la Copa Sudamericana se suspendió momentáneamente por lluvia|url=https://www.eluniverso.com/deportes/2019/11/09/nota/7596308/final-copa-sudamericana-esta-momentaneamente-suspendida|autor=[[El Universo (Ecuador)|El Universo]]|obra=eluniverso.com|fecha=9 de noviembre de 2019|fechaacceso=9 de noviembre de 2019}}</ref>
+}}
+<br/>
+{{Campeón
+|equipo = [[Independiente del Valle]]
+|bandera = Ecuador
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos Jugados}}
+|- bgcolor="#d0e7ff"
+|{{Bandera|ARG}} '''[[Silvio Ezequiel Romero|Silvio Romero]]'''
+|{{Bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| align="center" |'''5'''
+| align="center" |'''8'''
+|-
+|{{Bandera|BRA}} [[Erik Lima]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| align="center" |4
+| align="center" |5
+|- 
+|{{Bandera|HON}} [[Brayan Moya]]
+|{{Bandera|VEN}} [[Zulia Fútbol Club|Zulia]]
+| align="center" |4
+| align="center" |8
+|-
+|{{Bandera|ARG}} [[Luis Miguel Rodríguez|Luis Rodríguez]]
+|{{Bandera|ARG}} [[Club Atlético Colón|Colón]]
+| align="center" |4
+| align="center" |10
+|- 
+|{{Bandera|BRA}} [[Vágner Love]]
+|{{Bandera|BRA}} [[Corinthians Paulista|Corinthians]]
+| align="center" |4
+| align="center" |10
+|- 
+|{{Bandera|ECU}} [[Alejandro Cabeza]]
+|{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |4
+| align="center" |11
+|-
+|{{Bandera|COL}} [[Cristian Dájome]]
+|{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |4
+| align="center" |11
+|-
+|{{Bandera|BRA}} [[João Pedro Junqueira de Jesus|João Pedro]]
+|{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+| align="center" |3
+| align="center" |4
+|-
+|{{Bandera|ECU}} [[Michael Estrada]]
+|{{Bandera|ECU}} [[Club Deportivo Macará|Macará]]
+| align="center" |3
+| align="center" |4
+|-
+|{{Bandera|PER}} [[Christofer Gonzales]]
+|{{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+| align="center" |3
+| align="center" |4
+|- 
+|{{Bandera|ARG}} [[Christian Ortiz]]
+|{{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+| align="center" |3
+| align="center" |4
+|-
+|{{Bandera|COL}} [[Ethan González]]
+|{{Bandera|COL}} [[Club Deportivo La Equidad|La Equidad]]
+| align="center" |3
+| align="center" |5
+|-
+|{{Bandera|COL}} [[Wilson Morelo]]
+|{{Bandera|ARG}} [[Club Atlético Colón|Colón]]
+| align="center" |3
+| align="center" |6
+|-
+|{{Bandera|COL}} [[John Jairo Mosquera]]
+|{{Bandera|BOL}} [[Royal Pari Fútbol Club|Royal Pari]]
+| align="center" |3
+| align="center" |6
+|- 
+|{{Bandera|CHI}} [[Pedro Pablo Hernández|Pablo Hernández]]
+|{{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |3
+| align="center" |7
+|- 
+|{{Bandera|PAR}} [[Cecilio Domínguez]]
+|{{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |3
+| align="center" |7
+|- 
+|{{Bandera|COL}} [[Yony González]]
+|{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]] 
+| align="center" |3
+| align="center" |8
+|-
+|{{Bandera|COL}} [[Yimmi Chará]]
+|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |3
+| align="center" |8
+|-
+|{{Bandera|ARG}} [[Christian Bernardi]]
+|{{Bandera|ARG}} [[Club Atlético Colón|Colón]]
+| align="center" |3
+| align="center" |11
+|-
+|{{Bandera|ECU}} [[Jhon Jairo Sánchez|Jhon Sánchez]]
+|{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |3
+| align="center" |11
+|}
+<small><center>Fuente: [https://www.livefutbol.com/goleadores/copa-sudamericana-2019/ Livefutbol]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor="#d0e7ff"
+|{{Bandera|ARG}} '''[[Cristian Pellerano]]'''
+|{{Bandera|ECU}} '''[[Independiente del Valle]]'''
+| align="center" |'''6'''
+|-
+|{{Bandera|ECU}} [[Alejandro Cabeza]]
+|{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |4
+|- 
+|{{Bandera|ARG}} [[Luis Miguel Rodríguez|Luis Rodríguez]]
+|{{Bandera|ARG}} [[Club Atlético Colón|Colón]]
+| align="center" |4
+|- 
+|{{Bandera|ARG}} [[Martín Benítez]]
+|{{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |3
+|- 
+|{{Bandera|COL}} [[Armando Vargas]]
+|{{Bandera|COL}} [[Club Deportivo La Equidad|La Equidad]]
+| align="center" |3
+|-
+|{{Bandera|BRA}} [[Elias Mendes Trindade|Elías]]
+|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |3
+|- 
+|{{Bandera|COL}} [[Yony González]]
+|{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]] 
+| align="center" |3
+|- 
+|{{Bandera|BOL}} [[Omar Siles (futbolista)|Omar Siles]]
+|{{Bandera|BOL}} [[Royal Pari Fútbol Club|Royal Pari]]
+| align="center" |3
+|}
+<small><center>Fuente: [https://www.livefutbol.com/asistencias/copa-sudamericana-2019/ Livefutbol]</small></center>
+
+=== Equipo ideal ===
+{{AP|Equipo Ideal de la Copa Sudamericana}}
+
+{|align=center bgcolor="#006699" cellpadding="3" cellspacing="0" border="0" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#006699 style="color:white;"
+!colspan=3 align=center|Equipo Ideal 2019<ref> [https://www.unosantafe.com.ar/colon/dos-jugadores-colon-el-equipo-ideal-la-sudamericana-n2542145.html]</ref>
+|- align=left bgcolor=#006699 style="color:white;"
+!width="50"|Pos.
+!width="200"|Futbolista
+!width="200"|Equipo
+|---- bgcolor=#F5FAFF style="border-bottom:1px solid #006699;"
+|{{por}}
+|[[Archivo:Flag of Venezuela.svg|borde|20x20px|Venezuela]] [[Leo Morales]]
+|[[Archivo:Flag of Venezuela.svg|borde|20x20px|Venezuela]] [[Zulia Fútbol Club|Zulia]]
+|---- bgcolor=#D0E7FF
+|{{def}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Fagner Conserva Lemos|Fagner]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sport Club Corinthians Paulista|Corinthians]]
+|---- bgcolor=#F5FAFF
+|{{def}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Richard Schunke]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#D0E7FF style="border-bottom:1px solid #006699;"
+|{{def}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Emmanuel Olivera]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Club Atlético Colón|Colón]]
+|---- bgcolor=#F5FAFF 
+|{{mdc}}
+|[[Archivo:Flag of Colombia.svg|border|20px|Colombia]] [[Cristian Dájome]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#D0E7FF
+|{{mdc}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Cristian Pellerano]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#F5FAFF
+|{{mdc}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Elias Mendes Trindade|Elias]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Atlético Mineiro]]
+|---- bgcolor=#D0E7FF style="border-bottom:1px solid #006699;"
+|{{mdc}}
+|[[Archivo:Flag of Honduras.svg|border|20px|Honduras]] [[Brayan Moya]]
+|[[Archivo:Flag of Venezuela.svg|border|20px|Venezuela]] [[Zulia]]
+|---- bgcolor=#F5FAFF 
+|{{del}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Silvio Ezequiel Romero|Silvio Romero]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Club Atlético Independiente|Independiente]]
+|---- bgcolor=#D0E7FF
+|{{del}}
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Alejandro Cabeza]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#F5FAFF
+|{{del}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Luis Miguel Rodríguez]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Club Atlético Colón|Colón]]
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2019]]
+* [[Copa Libertadores Femenina 2019]]
+* [[Campeonato Sudamericano Japonés 2020]]
+* [[Recopa Sudamericana 2020]]
+
+== Notas ==
+{{listaref|group="n."}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com/es/copa-sudamericana-2019 Conmebol Copa Sudamericana] en la página web oficial de [[Conmebol]].
+
+{{ sucesión
+| predecesora = [[Copa Sudamericana 2018|2018]]
+| título = Copa Conmebol Sudamericana 2019
+| período = XVIII edición
+| sucesora = [[Copa Sudamericana 2020|2020]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Fútbol en 2019]]
+[[Categoría:Copa Sudamericana|2019]]
+[[Categoría:Copa Sudamericana 2019]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

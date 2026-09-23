@@ -1,0 +1,747 @@
+{{Ficha de competición deportiva
+|nombre_original = [[Supercopa Sudamericana]]
+|deporte         = fútbol
+|tipo            = 
+|imagen          = DefensoresAPF Color.jpg
+|imagen_tamaño   = 300px
+|imagen_pie      = El [[estadio Defensores del Chaco]] ([[Asunción]]) fue sede del partido de vuelta de la [[Anexo:Final de la Supercopa Sudamericana 1990|final]]
+|ubicación       = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|participantes   = 13
+|calificados     = 
+|plantillapais   = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|fecha           = {{fecha2|18|10|1990}}<br />{{fecha2|11|1|1991}}
+|edición         = III
+|organizador     = [[Confederación Sudamericana de Fútbol|Conmebol]]
+|campeón         = '''{{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]''' <small>(1.º título)</small>
+|subcampeón      = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|semifinalistas  = {{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]] <br /> {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|titulotercero   = Semifinalistas
+|partidos        = 24
+|goles           = 61 (2,54 por partido)
+|goleadores      = {{nowrap|{{bandera|PAR|1990}} [[Raúl Vicente Amarilla]] (7 goles)}}<br /><small>([[Club Olimpia|Olimpia]])</small>
+|anterior        = [[Supercopa Sudamericana 1989]]
+|actual          = Supercopa Sudamericana 1990
+|siguiente       = [[Supercopa Sudamericana 1991]]
+}}
+La '''[[Supercopa Sudamericana]] 1990''' fue la tercera edición del torneo de clubes de [[América del Sur]] que reunía a todos los campeones de la [[Copa Libertadores de América]], organizado por la [[Confederación Sudamericana de Fútbol]]. En esta oportunidad, no participó [[Atlético Nacional]] de [[Colombia]], excluido temporalmente por la confederación continental.
+
+[[Club Olimpia|Olimpia]] de [[Paraguay]] se consagró campeón del torneo por primera vez en su historia, tras vencer en la final a [[Club Nacional de Football|Nacional]] de [[Uruguay]]. El título le otorgó además, y de manera automática, la [[Recopa Sudamericana 1991]], ya que el club se había adjudicado el mismo año la [[Copa Libertadores 1990|Copa Libertadores]].
+
+== Formato ==
+El torneo se desarrolló en un formato plenamente eliminatorio, en cuatro rondas desde los octavos hasta la final. Como la cantidad de participantes no permitía elaborar completamente el cuadro, algunos equipos se vieron favorecidos con clasificaciones automáticas a instancias posteriores, como [[Club Atlético Boca Juniors|Boca Juniors]] —campeón defensor, participó desde cuartos de final— y [[Club Estudiantes de La Plata|Estudiantes (LP)]] —que pasó desde octavos de final a semifinales—. Todas las llaves se disputaron en ida y vuelta. Ante la igualdad de puntos, obtenía la clasificación el equipo con mejor [[diferencia de goles]]; de persistir el empate, se efectuaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Octavos de final
+(12 equipos)
+|
+* [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Club Estudiantes de La Plata|Estudiantes (LP)]], <br />[[Clube de Regatas do Flamengo|Flamengo]], [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Club Atlético Independiente|Independiente]], [[Club Nacional de Football|Nacional]], <br />[[Club Olimpia|Olimpia]], [[Club Atlético Peñarol|Peñarol]], [[Racing Club]], [[Club Atlético River Plate|River Plate]] y [[Santos Futebol Clube|Santos]]
+|
+|-
+! colspan="2" |Cuartos de final
+(6 equipos)
+|
+* [[Club Atlético Boca Juniors|Boca Juniors]]
+|
+* 5 equipos clasificados de los Octavos de final
+|-
+! colspan="2" |Semifinales
+(4 equipos)
+|
+|
+* 1 equipos clasificado de los Octavos de final
+* 3 equipos clasificados de los Cuartos de final
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!País
+!Equipo
+!{{tc|Copa Libertadores de América|Copas Libertadores}} ganadas
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>6 participantes</small>
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br />[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br />[[Club Atlético Independiente|Independiente]]<br />[[Racing Club]]<br />[[Club Atlético River Plate|River Plate]]
+|[[Copa Libertadores 1985|1985]] <br />[[Copa Libertadores 1977|1977]] – [[Copa Libertadores 1978|1978]] <br />[[Copa Libertadores 1968|1968]] – [[Copa Libertadores 1969|1969]] – [[Copa Libertadores 1970|1970]] <br />[[Copa Libertadores 1964|1964]] – [[Copa Libertadores 1965|1965]] – [[Copa Libertadores 1972|1972]] – [[Copa Libertadores 1973|1973]] – [[Copa Libertadores 1974|1974]] – [[Copa Libertadores 1975|1975]] – [[Copa Libertadores 1984|1984]] <br />[[Copa Libertadores 1967|1967]] <br />[[Copa Libertadores 1986|1986]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Brasil|1968}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>4 participantes</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]<br />[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[Santos Futebol Clube|Santos]]
+|[[Copa Libertadores 1976|1976]]<br />[[Copa Libertadores 1981|1981]]<br />[[Copa Libertadores 1983|1983]]<br />[[Copa Libertadores 1962|1962]] – [[Copa Libertadores 1963|1963]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>1 participante</small>
+|[[Club Olimpia|Olimpia]]
+|[[Copa Libertadores 1979|1979]] – [[Copa Libertadores 1990|1990]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>2 participantes</small>
+|[[Club Nacional de Football|Nacional]]<br />[[Club Atlético Peñarol|Peñarol]]
+|[[Copa Libertadores 1971|1971]] – [[Copa Libertadores 1980|1980]] – [[Copa Libertadores 1988|1988]] <br />[[Copa Libertadores 1960|1960]] – [[Copa Libertadores 1961|1961]] – [[Copa Libertadores 1966|1966]] – [[Copa Libertadores 1982|1982]] – [[Copa Libertadores 1987|1987]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Supercopa Sudamericana 1990'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Racing Club|{{Esd|Racing Club}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|Santos]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+
+== Resultados ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20 | team-width= 175| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+| octavos = 18 de octubre al 8 de noviembre
+| cuartos = 14 al 21 de noviembre
+| semifinal = 28 de noviembre al 19 de diciembre
+| final = 5 y 11 de enero de 1991
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 18 de octubre al 8 de noviembre
+
+| RD1-team1 = {{bandera|Argentina}} '''[[Racing Club]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team2 = {{bandera|Brasil|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD1-score1-1 = 0
+| RD1-score2-1 = 1
+| RD1-score1-2 = 1
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''1&nbsp;{{small|(4)}}'''
+| RD1-score2-3 = '''1&nbsp;{{small|(2)}}'''
+
+| RD1-team3 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team4 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-score3-1 = 0
+| RD1-score4-1 = 3
+| RD1-score3-2 = 3
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''3&nbsp;{{small|(4)}}'''
+| RD1-score4-3 = '''3&nbsp;{{small|(3)}}'''
+
+| RD1-team7 = {{bandera|Brasil|1968}} [[Santos Futebol Clube|Santos]]
+| RD1-team8 = {{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score7-1 = 0
+| RD1-score8-1 = 0
+| RD1-score7-2 = 2
+| RD1-score8-2 = 2
+| RD1-score7-3 = '''2&nbsp;{{small|(2)}}'''
+| RD1-score8-3 = '''2&nbsp;{{small|(4)}}'''
+
+| RD1-team9 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+| RD1-team10 = {{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+| RD1-score9-1 = 1
+| RD1-score10-1 = 1
+| RD1-score9-2 = 2
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''2'''
+
+| RD1-team11 = {{bandera|Brasil|1968}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD1-team12 = {{bandera|Argentina}} '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score11-1 = 1
+| RD1-score12-1 = 3
+| RD1-score11-2 = 3
+| RD1-score12-2 = 1
+| RD1-score11-3 = '''4&nbsp;{{small|(3)}}'''
+| RD1-score12-3 = '''4&nbsp;{{small|(4)}}'''
+
+| RD1-team13 = {{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| RD1-team14 = {{bandera|Brasil|1968}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD1-score13-1 = 0
+| RD1-score14-1 = 1
+| RD1-score13-2 = 2
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''2'''
+| RD1-score14-3 = '''1'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 14 al 21 de noviembre
+
+| RD2-team1 = {{bandera|Argentina}} [[Racing Club]]
+| RD2-team2 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-score1-1 = 1
+| RD2-score2-1 = 1
+| RD2-score1-2 = 0
+| RD2-score2-2 = 3
+| RD2-score1-3 = '''1'''
+| RD2-score2-3 = '''4'''
+
+| RD2-team3 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD2-team4 = {{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD2-score3-1 = 1
+| RD2-score4-1 = 0
+| RD2-score3-2 = 0
+| RD2-score4-2 = 2
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''2'''
+
+| RD2-team5 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+| RD2-team6 = {{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 2
+| RD2-score5-2 = 3
+| RD2-score6-2 = 1
+| RD2-score5-3 = '''4'''
+| RD2-score6-3 = '''3'''
+
+| RD2-team7 = {{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| RD2-team8 = {{bandera}} ''Libre''
+| RD2-score7-1 = –
+| RD2-score8-1 = –
+| RD2-score7-2 = –
+| RD2-score8-2 = –
+| RD2-score7-3 = '''–'''
+| RD2-score8-3 = '''–'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 28 de noviembre al 19 de diciembre
+
+| RD3-team1 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD3-team2 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD3-score1-1 = 1
+| RD3-score2-1 = 2
+| RD3-score1-2 = 6
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''7'''
+| RD3-score2-3 = '''2'''
+
+| RD3-team3 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-team4 = {{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| RD3-score3-1 = 0
+| RD3-score4-1 = 0
+| RD3-score3-2 = 0
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''0&nbsp;{{small|(5)}}'''
+| RD3-score4-3 = '''0&nbsp;{{small|(3)}}'''
+
+<!--Final-->
+| RD4= Final
+| RD4-date= 5 y 11 de enero de 1991
+
+| RD4-team1 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD4-team2 = {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+| RD4-score1-1 = 3
+| RD4-score2-1 = 0
+| RD4-score1-2 = 3
+| RD4-score2-2 = 3
+| RD4-score1-3 = '''6'''
+| RD4-score2-3 = '''3'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal = BRA
+|etpaíslocal = 1968
+|resultado = 1:0''' (1:0)
+|visita = [[Racing Club]]
+|paísvisita = ARG
+|fecha = 26 de octubre de 1990
+|estadio = [[Estadio Mineirão]]
+|ciudad = [[Belo Horizonte]]
+|refe = {{árbitro|URU|Eduardo Dluzniewski}}
+|asistencia = 
+|goleslocal = [[Heyder Abas Palheta|Heyder]] {{gol|38}}
+|golesvisita = 
+}}
+{{Partido
+|local = [[Racing Club]]
+|paíslocal = ARG
+|resultado = 1:0''' (1:0)
+|visita = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita = BRA
+|etpaísvisita = 1968
+|fecha = 7 de noviembre de 1990
+|estadio = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe = {{árbitro|URU|Ernesto Filippi}}
+|asistencia = 
+|goleslocal = [[Hugo Leonardo Pérez|H. Pérez]] {{gol|39|pen.}}
+|golesvisita = 
+|penaltis1 = [[Hugo Leonardo Pérez|H. Pérez]] {{pengol}}<br />[[Henry Homann|Homann]] {{pengol}}<br />[[Rubén Paz|Paz]] {{pengol}}<br />[[Néstor Fabbri|Fabbri]] {{pengol}}
+|resultado penalti = 4:2
+|penaltis2 = {{pengol}} [[Ademir Roque Kaefer|Ademir]]<br />{{penfallo|desviado}} [[Luís Fernando Flores|Luís Fernando]]<br />{{pengol}} [[Gilmar Francisco|Francisco]]<br />{{penfallo|atajado}} [[Heyder Abas Palheta|Heyder]]
+}}
+<br />
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 3:0''' (0:0)
+|visita = [[Club Olimpia|Olimpia]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 31 de octubre de 1990
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|refe = {{árbitro|BRA|variante=1968|Renato Marsiglia}}
+|asistencia = 
+|goleslocal = [[Sergio Berti|Berti]] {{gol|61}}<br />[[Ramón Medina Bello|Medina Bello]] {{gol|75||76}}
+|golesvisita = 
+}}
+{{Partido
+|local = [[Club Olimpia|Olimpia]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 3:0''' (2:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 7 de noviembre de 1990
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|refe = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|asistencia = 
+|goleslocal = [[Adriano Samaniego|Samaniego]] {{gol|14}}<br />[[Luis Alberto Monzón|Monzón]] {{gol|36}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{gol|63|pen.}}
+|golesvisita = 
+|penaltis1 = [[Ever Hugo Almeida|Almeida]] {{pengol}}<br />[[Jorge Villalba|Villalba]] {{penfallo|atajado}}<br />[[Luis Alberto Monzón|Monzón]] {{penfallo|desviado}}<br />[[Mario César Ramírez|M. Ramírez]] {{pengol}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{pengol}}<br />[[Silvio Suárez|Suárez]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2 = {{penfallo|atajado}} [[Rubén Da Silva|Da Silva]]<br />{{pengol}} [[Ramón Medina Bello|Medina Bello]]<br />{{penfallo|atajado}} [[Leonardo Astrada|Astrada]]<br />{{pengol}} [[Sergio Berti|Berti]]<br />{{pengol}} [[Daniel Ernesto Gutiérrez|Gutiérrez]]<br />{{penfallo|atajado}} [[Hernán Díaz|H. Díaz]]
+}}
+<br />
+{{Partido
+|local = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal = URU
+|resultado = 0:0
+|visita = [[Santos Futebol Clube|Santos]]
+|paísvisita = BRA
+|etpaísvisita = 1968
+|fecha = 18 de octubre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{bandera|ARG}} [[Juan Carlos Loustau]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = 
+}}
+{{Partido
+|local = [[Santos Futebol Clube|Santos]]
+|paíslocal = BRA
+|etpaíslocal = 1968
+|resultado = 2:2''' (2:1)
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita = URU
+|fecha = 8 de noviembre de 1990
+|estadio = [[Estadio Urbano Caldeira|Estadio de Vila Belmiro]]
+|ciudad = [[Santos]]
+|refe = {{bandera|ARG}} [[Ricardo Calabria]]
+|asistencia = 
+|goleslocal = [[Marcos Lopes (futbolista brasileño)|Mendonça]] {{gol|36||38}}
+|golesvisita = [[Víctor Manuel López Narge|V. Manuel López]] {{gol|24}}<br />[[Adolfo Barán|Barán]] {{gol|83}}
+|penaltis1 = [[Almir de Souza|Almir]] {{pengol}}<br />[[Flávio Antunes Teixeira|Flavinho]] {{pengol}}<br />[[Derval Gomes|Derval]] {{penfallo}}<br />[[Luiz Carlos Canhizares|Luiz Carlos]] {{penfallo}}
+|resultado penalti = 2:4
+|penaltis2 = {{pengol}} [[Jorge Villar|Villar]]<br />{{pengol}} [[Adolfo Barán|Barán]]<br />{{pengol}} [[Eduardo da Silva Díaz|Da Silva]]<br />{{pengol}} [[Paolo Montero|Montero]]
+}}
+<br />
+{{Partido
+|local = [[Club Atlético Independiente|Independiente]]
+|paíslocal = ARG
+|resultado = 1:1''' (0:1)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 24 de octubre de 1990
+|estadio = [[Estadio La Doble Visera]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe = {{árbitro|CHI|Gastón Castro}}
+|asistencia = 
+|goleslocal = [[Rubén Darío Insúa|Insúa]] {{gol|61|pen.}}
+|golesvisita = [[Julio César Dely Valdés|Dely Valdés]] {{gol|39}}
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 2:1''' (1:0)
+|visita = [[Club Atlético Independiente|Independiente]]
+|paísvisita = ARG
+|fecha = 8 de noviembre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|BRA|variante=1968|José Roberto Wright}}
+|asistencia = 
+|goleslocal = [[Wilmar Cabrera|Cabrera]] {{gol|12}}<br />[[Yubert Lemos|Lemos]] {{gol|64}}
+|golesvisita = [[Luis Fabián Artime|Artime]] {{gol|90}}
+}}
+<br />
+{{Partido
+|local = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal = ARG
+|resultado = 3:1''' (2:0)
+|visita = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita = BRA
+|etpaísvisita = 1968
+|fecha = 26 de octubre de 1990
+|estadio = [[Estadio Don León Kolbowski|Estadio Atlanta]]
+|ciudad = [[Buenos Aires]]
+|refe = {{árbitro|BOL|Oscar Ortubé}}
+|asistencia = 
+|goleslocal = [[Osvaldo Coloccini|Coloccini]] {{gol}}<br />[[Wálter Perazzo|Perazzo]] {{gol}}<br />[[Héctor Guillermo Cejas|Cejas]] {{gol}}
+|golesvisita = [[Luís Antônio Venditti Vicente|Luís Antônio]] {{gol}}
+}}
+{{Partido
+|local = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal = BRA
+|etpaíslocal = 1968
+|resultado = 3:1''' (1:1)
+|visita = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita = ARG
+|fecha = 8 de noviembre de 1990
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|refe = {{árbitro|PAR|variante=1990|Estanislao Barrientos}}
+|asistencia = 
+|goleslocal = [[Nélio da Silva Melo|Nélio]] {{gol|16}}<br />[[Renato Gaúcho]] {{gol|52}}<br />[[Luís Carlos Tóffoli|Gaúcho]] {{gol|75}}
+|golesvisita = [[Patricio Hernández|P. Hernández]] {{gol|?}}
+|penaltis1 = [[Josimar]] {{pengol}}<br />[[José Ricardo Kalil de Azeredo|Zé Ricardo]] {{pengol}}<br />[[Renato Gaúcho]] {{pengol}}<br />[[Rogério Moraes Lourenço|Rogério]] {{penfallo}}<br />[[Luís Carlos Tóffoli|Gaúcho]] {{penfallo}}
+|resultado penalti = 3:4
+|penaltis2 = {{pengol}} [[Patricio Hernández|P. Hernández]]<br />{{pengol}} [[Jorge Alberto Ortega|Ortega]]<br />{{pengol}} [[Fernando Cáceres|Cáceres]]<br />{{pengol}} [[Carlos Mac Allister|Mac Allister]]<br />{{penfallo}} [[Osvaldo Coloccini|Coloccini]]
+}}
+<br />
+{{Partido
+|local = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal = BRA
+|etpaíslocal = 1968
+|resultado = 1:0''' (0:0)
+|visita = [[Club Estudiantes de La Plata|Estudiantes]]
+|paísvisita = ARG
+|fecha = 31 de octubre de 1990
+|estadio = [[Estadio Olímpico Monumental]]
+|ciudad = [[Porto Alegre]]
+|refe = {{árbitro|PAR|variante=1990|Carlos Maciel}}
+|asistencia = 
+|goleslocal = [[Edgardo Prátola|Prátola]] {{autogol|88}}
+|golesvisita = 
+}}
+{{Partido
+|local = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita = BRA
+|etpaísvisita = 1968
+|fecha = 8 de noviembre de 1990
+|estadio = [[Estadio Jorge Luis Hirschi]]
+|ciudad = [[La Plata]]
+|refe = {{árbitro|CHI|Enrique Marín Gallo}}
+|asistencia = 
+|goleslocal = [[Roberto Trotta|Trotta]] {{gol|16}}<br />[[Daniel Peinado|Peinado]] {{gol|89}}
+|golesvisita = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local = [[Club Olimpia|Olimpia]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 1:1''' (0:0)
+|visita = [[Racing Club]]
+|paísvisita = ARG
+|fecha = 14 de noviembre de 1990
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|refe = {{árbitro|URU|Ernesto Filippi}}
+|asistencia = 
+|goleslocal = [[Felipe Neri Franco Duarte|Franco]] {{gol|88}} 
+|golesvisita = [[Norberto Ortega Sánchez|Ortega Sánchez]] {{gol|79}} 
+}}
+{{Partido
+|local = [[Racing Club]]
+|paíslocal = ARG
+|resultado = 0:3''' (0:1)
+|visita = [[Club Olimpia|Olimpia]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 21 de noviembre de 1990
+|estadio = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe = {{árbitro|BRA|variante=1968|Luís Carlos Félix}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Jorge Guasch|Guasch]] {{gol|39}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{gol|46}}<br />[[Adriano Samaniego|Samaniego]] {{gol|54}} 
+}}
+<br />
+{{Partido
+|local = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal = URU
+|resultado = 0:1''' (0:1)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 14 de noviembre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|BRA|variante=1968|Renato Marsiglia}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Blas Giunta|Giunta]] {{gol|41}} 
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 0:2''' (0:1)
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita = URU
+|fecha = 21 de noviembre de 1990
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad = [[Buenos Aires]]
+|refe = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[César Fernando Silvera|Silvera]] {{gol|37}}<br />[[Jorge Villar|Villar]] {{gol|82|pen.}} 
+}}
+<br />
+{{Partido
+|local = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal = ARG
+|resultado = 2:1''' (0:1)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 15 de noviembre de 1990<ref group=n name=Arg-Nac>Partido suspendido por falta de luz a los 22 minutos del primer tiempo. Se continuó el 16 de noviembre de 1990.</ref>
+|estadio = [[Estadio León Kolbowski|Estadio Atlanta]]
+|ciudad = [[Buenos Aires]]
+|refe = {{árbitro|PAR|variante=1990|Carlos Maciel}}
+|asistencia = 
+|goleslocal = [[Sergio Javier Pérez|Pérez]] {{gol|47}}<br />[[Jorge Alberto Ortega|Ortega]] {{gol|54}} 
+|golesvisita = [[Julio César Dely Valdés|Dely Valdés]] {{gol|42}} 
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 3:1''' (0:0)
+|visita = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita = ARG
+|fecha = 21 de noviembre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|CHI|Gastón Castro}}
+|asistencia = 
+|goleslocal = [[Ernesto Vargas|Vargas]] {{gol|71}}<br />[[Daniel Felipe Revelez|Revelez]] {{gol|87}}<br />[[Wilmar Cabrera|Cabrera]] {{gol|90+2}} 
+|golesvisita = [[Jorge Alberto Ortega|Ortega]] {{gol|81}} 
+}}
+
+=== Semifinales ===
+{{Partido
+|local = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 28 de noviembre de 1990
+|estadio = [[Estadio de la Doble Visera|Estadio La Doble Visera]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe = {{árbitro|BRA|variante=1968|Renato Marsiglia}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = 
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 0:0
+|visita = [[Club Estudiantes de La Plata|Estudiantes]]
+|paísvisita = ARG
+|fecha = 5 de diciembre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|BRA|variante=1968|Wilson Carlos dos Santos}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = 
+|penaltis1 = [[Venancio Ramos|Ramos]] {{pengol}}<br />[[Yubert Lemos|Lemos]] {{pengol}}<br />[[Carlos Favier Soca|Soca]] {{pengol}}<br />[[Tony Gómez|Gómez]] {{pengol}}<br />[[Daniel Felipe Revelez|Revelez]] {{pengol}}
+|resultado penalti = 5:3
+|penaltis2 = {{pengol}} [[Ricardo Iribarren|Iribarren]]<br />{{pengol}} [[Rubén Capria|Capria]]<br />{{pengol}} [[Pablo Erbín|Erbín]]<br />{{penfallo}} [[Ramón Centurión|Centurión]]
+}}
+<br />
+{{Partido
+|local = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal = URU
+|resultado = 2:1''' (1:0)
+|visita = [[Club Olimpia|Olimpia]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 28 de noviembre de 1990
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|ARG|Juan Bava}}
+|asistencia = 
+|goleslocal = [[Adrián Paz|Paz]] {{gol|18}}<br />[[César Fernando Silvera|Silvera]] {{gol|50}}
+|golesvisita = [[Raúl Vicente Amarilla|Amarilla]] {{gol|82}} 
+}}
+{{Partido
+|local = [[Club Olimpia|Olimpia]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 6:0''' (2:0)
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita = URU
+|fecha = 19 de diciembre de 1990
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|refe = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|asistencia = 
+|goleslocal = [[Gabriel González Chaves|González]] {{gol|29||53}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{gol|42||90+1}}<br />[[Silvio Suárez|Suárez]] {{gol|77}}<br />[[Virginio Cáceres|Cáceres]] {{gol|87}}
+|golesvisita = 
+}}
+
+=== Final ===
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 0:3''' (0:0)
+|visita = [[Club Olimpia|Olimpia]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 5 de enero de 1991
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|refe = {{árbitro|BRA|variante=1968|José Roberto Wright}}
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Gabriel González Chaves|González]] {{gol|61}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{gol|82}}<br />[[Adriano Samaniego|Samaniego]] {{gol|79}} 
+}}
+{{Partido
+|local = [[Club Olimpia|Olimpia]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 3:3''' (1:2)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 11 de enero de 1991
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|refe = {{árbitro|ARG|Juan Carlos Loustau}}
+|asistencia = 
+|goleslocal = [[Adriano Samaniego|Samaniego]] {{gol|26}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{gol|49}}<br />[[Luis Alberto Monzón|Monzón]] {{gol|69}} 
+|golesvisita = [[Jorge Daniel Cardaccio|Cardaccio]] {{gol|4}}<br />[[Héctor Morán|Morán]] {{gol|31}}<br />[[Wilson Núñez (futbolista uruguayo)|W. Núñez]] {{gol|79}} 
+}}
+<br />{{Campeón|equipo=[[Club Olimpia|Olimpia]]|imagen=Flag of Paraguay (1990-2013).svg|orden=1|logo=SupercopaLibertadores1988-1997.png}}
+
+== Estadísticas ==
+=== Clasificación general ===
+{| class="sortable" cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%; margin: auto; text-align: center;" width="55%"
+ |- bgcolor="#006699" style="color: white;"
+ ! width="5%"  | {{abreviación|Pos.|Posición}}
+ ! width="45%" | Equipo
+ ! width="5%"  | {{abreviación|Pts|Puntos}}
+ ! width="5%"  | {{abreviación|PJ|Partidos jugados}}
+ ! width="5%"  | {{abreviación|PG|Partidos ganados}}
+ ! width="5%"  | {{abreviación|PE|Partidos empatados}}
+ ! width="5%"  | {{abreviación|PP|Partidos perdidos}}
+ ! width="5%"  | {{abreviación|GF|Goles a favor}}
+ ! width="5%"  | {{abreviación|GC|Goles en contra}}
+ ! width="5%"  | {{abreviación|Dif.|Diferencia de goles}}
+ ! width="10%" | {{abreviación|Rend.|Rendimiento}}
+ |- bgcolor=gold
+ !1
+ |align=left|{{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+ |'''10'''||8||4||2||2||20||9||11||62,50%
+ |- bgcolor=silver
+ !2
+ |align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+ |'''8'''||8||2||4||2||10||11||−1||50%
+ |-style="border-top:1px solid #222;" bgcolor=#D2B48C
+ !3
+ |align=left|{{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+ |'''4'''||4||1||2||1||2||1||1||50%
+ |-
+ !4
+ |align=left|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+ |'''6'''||6||2||2||2||6||10||−4||50%
+ |-style="border-top:1px solid #222;"
+ !5
+ |align=left|{{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+ |'''4'''||4||2||0||2||7||8||−1||50%
+ |-
+ !6
+ |align=left|{{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+ |'''2'''||2||1||0||1||1||2||−1||50%
+ |-
+ !7
+ |align=left|{{bandera|Argentina}} [[Racing Club]]
+ |'''3'''||4||1||1||2||2||5||−3||37,50%
+ |-style="border-top:1px solid #222;"
+ !8
+ |align=left|{{bandera|Brasil|1968}} [[Clube de Regatas do Flamengo|Flamengo]]
+ |'''2'''||2||1||0||1||4||4||0||50%
+ |-
+ !9
+ |align=left|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+ |'''2'''||2||1||0||1||3||3||0||50%
+ |-
+ !10
+ |align=left|{{bandera|Brasil|1968}} [[Santos Futebol Clube|Santos]]
+ |'''2'''||2||0||2||0||2||2||0||50%
+ |-
+ !11
+ |align=left|{{bandera|Brasil|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+ |'''2'''||2||1||0||1||1||1||0||50%
+ |-
+ !12
+ |align=left|{{bandera|Brasil|1968}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+ |'''2'''||2||1||0||1||1||2||−1||50%
+ |-
+ !13
+ |align=left|{{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+ |'''1'''||2||0||1||1||2||3||−1||25%
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=#D0E7FF
+| {{bandera|PAR|1990}} '''[[Raúl Vicente Amarilla]]'''
+| {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+| align=center|'''7'''
+|- 
+| {{bandera|PAR|1990}} [[Adriano Samaniego]]
+| {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| align=center|4
+|- 
+| {{bandera|PAR|1990}} [[Gabriel González Chaves|Gabriel González]]
+| {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+|align=center|3
+|}
+
+== Véase también ==
+* [[Copa Libertadores 1990]]
+* [[Recopa Sudamericana 1991]]
+
+== Notas ==
+{{listaref|group=n}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/supcopa90.html Supercopa Sudamericana 1990] y [http://www.rsssf.com/sacups/supcopa90full.html Detalles] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Supercopa Sudamericana 1989|1989]]
+| título     = Supercopa Sudamericana 1990
+| período    = III edición
+| sucesor    = [[Supercopa Sudamericana 1991|1991]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Temporadas de la Supercopa Sudamericana|1990]]
+[[Categoría:Fútbol en 1990]]

@@ -1,0 +1,1387 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Preinauguración del Estadio Monumental.png
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Monumental Isidro Romero Carbo|estadio Monumental]] de [[Guayaquil]] fue sede del partido de vuelta de la [[Anexo:Final de la Copa Libertadores 1990|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 19 clubes de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|25|2|1990}}
+| fecha de cierre = {{fecha2|10|10|1990}}
+| edición = XXXI
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]''' <small>(2.º título)</small>
+| subcampeón = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| semifinalistas = {{bandera|COL}} [[Atlético Nacional]] <br> {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| titulotercero = Semifinalistas
+| partidos = 81
+| goles = 182 (2,24 por partido)
+| goleadores = 
+| anterior = [[Copa Libertadores 1989]]
+| actual = Copa Libertadores 1990
+| siguiente = [[Copa Libertadores 1991]]
+|goleador={{bandera|PAR|1990}} [[Adriano Samaniego]] (7 goles)<br><small>([[Club Olimpia|Olimpia]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1990''' fue la trigésima primera edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de nueve países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. No hubo representantes de [[Colombia]], ya que su [[Campeonato colombiano 1989|campeonato de 1989]] fue cancelado a raíz del asesinato de un árbitro de fútbol en manos de un cartel de la droga, por lo que no se declaró ningún campeón ni subcampeón. Sí intervino en el certamen [[Atlético Nacional]], en su calidad de campeón defensor de la copa.
+
+El campeón fue [[Club Olimpia|Olimpia]] de Paraguay, que logró así su segundo título en la competición. De esta forma, disputó la [[Copa Intercontinental 1990]] frente a [[Associazione Calcio Milan|Milan]] de [[Italia]] y la [[Copa Interamericana 1991]] ante [[Club América|América]] de [[México]], y se clasificó automáticamente a los octavos de final de la [[Copa Libertadores 1991]]. Asimismo, debió haber disputado la [[Recopa Sudamericana 1991]] frente al campeón de la [[Supercopa Sudamericana 1990]], pero al haberse consagrado también en esta última, se adjudicó el título de manera automática.
+
+== Formato ==
+El campeón vigente accedió de manera directa a las fases finales, mientras que los 18 equipos restantes disputaron la fase de grupos. En ella, los clubes fueron divididos en cinco grupos, cuatro conformados por 4 equipos y el restante por solo 2 equipos, distribuidos de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. Los tres primeros de cada uno de los grupos conformados por 4 equipos y los 2 integrantes del grupo restante clasificaron a los octavos de final, en donde se les unió el campeón vigente, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(18 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fases finales
+(15 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1989
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 4 equipos terceros de la Fase de grupos
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!width=20%|País
+!width=22%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético River Plate|River Plate]]
+|Campeón del [[Campeonato de Primera División 1988-89 (Argentina)|Campeonato de Primera División 1988-89]]<br>Ganador de la [[Campeonato de Primera División 1988-89 (Argentina)#Torneo de clasificación a la Copa Libertadores|Liguilla Pre-Libertadores 1988-89]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club The Strongest|The Strongest]]<br>[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|Campeón del [[Campeonato de Primera División 1989 (Bolivia)|Campeonato de Primera División 1989]]<br>Subcampeón del Campeonato de Primera División 1989
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil|1968}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|[[Club de Regatas Vasco da Gama|Vasco da Gama]]<br>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1989|Campeonato Brasileño de 1989]]<br>Campeón de la [[Copa de Brasil 1989]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Campeón del [[Primera División de Chile 1989|Campeonato de Primera División 1989]]<br>Ganador de la [[Liguilla Pre-Libertadores 1989 (Chile)|Liguilla Pre-Libertadores 1989]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>Campeón vigente</small>
+|[[Atlético Nacional]]
+|Campeón de la [[Copa Libertadores 1989]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>[[Club Sport Emelec|Emelec]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1989|Campeonato Ecuatoriano de 1989]]<br>Subcampeón del Campeonato Ecuatoriano de 1989
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1989|Campeonato Paraguayo de 1989]]<br>Ganador de los [[Campeonato Paraguayo de Fútbol 1989|Play-offs para la Copa Libertadores 1990]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Sport Unión Huaral|Unión Huaral]]<br>[[Club Sporting Cristal|Sporting Cristal]]
+|Campeón del [[Campeonato Descentralizado 1989]]<br>Subcampeón del Campeonato Descentralizado 1989
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Defensor Sporting Club|Defensor Sporting]]<br>[[Club Atlético Progreso|Progreso]]
+|1.º puesto de la [[Liguilla Pre-Libertadores de América de 1989]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1989
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|''[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]''<br>''[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]''
+|Campeón de la [[Primera División Venezolana 1988-89]]<br>Subcampeón de la Primera División Venezolana 1988-89
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1990'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]<br>[[Club Sport Emelec|Emelec]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-11.50076|long=-77.209061|label=<small>[[Club Sport Unión Huaral|{{Esd|Unión Huaral}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]</small>|position=bottom}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]<br>[[Club Atlético Progreso|Progreso]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=8.359617|long=-62.651653|label=<small>[[Club Deportivo Mineros de Guayana|{{Esd|Mineros de Guayana}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=10.955556|long=-63.847778|label=<small>[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]</small>|position=left}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} '''[[Club Sport Emelec|Emelec]]'''
+|'''6'''||6||2||2||2||9||8||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Bolivia}} '''[[Club The Strongest|The Strongest]]'''
+|'''6'''||6||3||0||3||8||7||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''6'''||6||2||2||2||6||7||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''6'''||6||2||2||2||6||7||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club The Strongest|The Strongest]]'''
+|2:0
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Guayaquil]]
+| align=right |[[Barcelona Sporting Club|Barcelona]]
+|'''0:0'''
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club The Strongest|The Strongest]]'''
+|4:3
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|1:0
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|'''2:2'''
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|1:0
+| align=left |[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|3:1
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club The Strongest|The Strongest]]'''
+|2:1
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''1:1'''
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de abril
+|[[Guayaquil]]
+| align=right |'''[[Barcelona Sporting Club|Barcelona]]'''
+|1:0
+| align=left |[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de abril
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|1:0
+| align=left |[[Club The Strongest|The Strongest]]
+|}
+|}
+
+'''Partidos desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|9 de mayo
+|[[Guayaquil]]
+| align=right |'''[[Barcelona Sporting Club|Barcelona]]'''
+|3:1
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de mayo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|3:2 <small>(4:5 [[Tiros desde el punto penal|p.]])</small>
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Club Atlético Independiente|Independiente]]'''
+|'''3'''||2||1||1||0||1||0||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''1'''||2||0||1||1||0||1||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Buenos Aires]]
+| align=right |[[Club Atlético River Plate|River Plate]]
+|'''0:0'''
+| align=left |[[Club Atlético Independiente|Independiente]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right |'''[[Club Atlético Independiente|Independiente]]'''
+|1:0
+| align=left |[[Club Atlético River Plate|River Plate]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''8'''||6||3||2||1||9||5||4
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''7'''||6||2||3||1||6||4||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Perú}} '''[[Club Sport Unión Huaral|Unión Huaral]]'''
+|'''5'''||6||1||3||2||5||9||-4
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''4'''||6||1||2||3||4||6||-2
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''0:0'''
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''0:0'''
+| align=left |[[Club Sport Unión Huaral|Unión Huaral]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de abril
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''0:0'''
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de abril
+|[[Lima]]
+| align=right |'''[[Club Sport Unión Huaral|Unión Huaral]]'''
+|1:0
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|1:2
+| align=left |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|27 de abril
+|[[Lima]]
+| align=right |[[Club Sport Unión Huaral|Unión Huaral]]
+|'''1:1'''
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|1:2
+| align=left |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de mayo
+|[[Lima]]
+| align=right |[[Club Sport Unión Huaral|Unión Huaral]]
+|0:3
+| align=left |'''[[Club Sporting Cristal|Sporting Cristal]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|2:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|2:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:1
+| align=left |[[Club Sport Unión Huaral|Unión Huaral]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''2:2'''
+| align=left |[[Club Sport Unión Huaral|Unión Huaral]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Progreso|Progreso]]'''
+|'''7'''||6||2||3||1||7||4||3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Defensor Sporting Club|Defensor Sporting]]'''
+|'''7'''||6||2||3||1||5||3||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} '''[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]'''
+|'''6'''||6||3||0||3||4||5||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|'''4'''||6||1||2||3||5||9||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Montevideo]]
+| align=right |[[Defensor Sporting Club|Defensor Sporting]]
+|'''0:0'''
+| align=left |[[Club Atlético Progreso|Progreso]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Ciudad Guayana]]
+| align=right |'''[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]'''
+|1:0
+| align=left |[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Ciudad Guayana]]
+| align=right |[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|1:3
+| align=left |'''[[Club Atlético Progreso|Progreso]]'''
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |'''[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]'''
+|1:0
+| align=left |[[Club Atlético Progreso|Progreso]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |'''[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]'''
+|1:0
+| align=left |[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Ciudad Guayana]]
+| align=right |[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|'''0:0'''
+| align=left |[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Montevideo]]
+| align=right |[[Club Atlético Progreso|Progreso]]
+|'''1:1'''
+| align=left |[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |'''[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]'''
+|2:1
+| align=left |[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Montevideo]]
+| align=right |[[Club Atlético Progreso|Progreso]]
+|'''1:1'''
+| align=left |[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Montevideo]]
+| align=right |'''[[Defensor Sporting Club|Defensor Sporting]]'''
+|1:0
+| align=left |[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Progreso|Progreso]]'''
+|2:0
+| align=left |[[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Montevideo]]
+| align=right |'''[[Defensor Sporting Club|Defensor Sporting]]'''
+|3:1
+| align=left |[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Progreso|Progreso]]'''
+|4:0
+| align=left |[[Defensor Sporting Club|Defensor Sporting]]
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;" |{{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+|'''7'''||6||3||1||2||9||8||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Paraguay|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''6'''||6||2||2||2||8||8||0
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil|1968}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|'''6'''||6||2||2||2||5||5||0
+|- align="center"
+|style="text-align:left;"|{{bandera|Brasil|1968}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''5'''||6||1||3||2||5||6||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|[[Supercopa de Brasil 1990|2:0]]
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:1
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|1:0
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|3:1
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:1
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de abril
+|[[Asunción]]
+| align=right |[[Club Cerro Porteño|Cerro Porteño]]
+|'''1:1'''
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de abril
+|[[Río de Janeiro]]
+| align=right |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''[[Supercopa de Brasil 1990|0:0]]'''
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de abril
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|3:2
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Porto Alegre]]
+| align=right |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''2:2'''
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Río de Janeiro]]
+| align=right |'''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|2:0
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de abril
+|[[Río de Janeiro]]
+| align=right |'''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|1:0
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de abril
+|[[Porto Alegre]]
+| align=right |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''0:0'''
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 180| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+|octavos = 4 al 15 de agosto
+|cuartos = 22 de agosto al 13 de septiembre
+|semifinal = 5 al 26 de septiembre
+|final = 3 y 10 de octubre
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 4 al 15 de agosto
+
+| RD1-team1 = {{bandera|URU}} [[Club Atlético Progreso|Progreso]]
+| RD1-team2 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| RD1-score1-1 = 0
+| RD1-score2-1 = 2
+| RD1-score1-2 = 2
+| RD1-score2-2 = 2
+| RD1-score1-3 = '''2'''
+| RD1-score2-3 = '''4'''
+
+| RD1-team3 = {{bandera|ECU|1900}} '''[[Club Sport Emelec|Emelec]]'''
+| RD1-team4 = {{bandera|PER}} [[Club Sport Unión Huaral|Unión Huaral]]
+| RD1-score3-1 = 0
+| RD1-score4-1 = 1
+| RD1-score3-2 = 2
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''2'''
+| RD1-score4-3 = '''1'''
+
+| RD1-team5 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD1-team6 = {{bandera|VEN|1954}} [[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+| RD1-score5-1 = 6
+| RD1-score6-1 = 0
+| RD1-score5-2 = 3
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''9'''
+| RD1-score6-3 = '''0'''
+
+| RD1-team7 = {{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-team8 = {{Bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+| RD1-score7-1 = 2
+| RD1-score8-1 = 1
+| RD1-score7-2 = 2
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''4'''
+| RD1-score8-3 = '''2'''
+
+| RD1-team9 = {{bandera|BOL}} [[Club The Strongest|The Strongest]]
+| RD1-team10 = {{nowrap|{{bandera|CHI}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''}}
+| RD1-score9-1 = 1
+| RD1-score10-1 = 3
+| RD1-score9-2 = 1
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''2'''
+| RD1-score10-3 = '''4'''
+
+| RD1-team11 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Walkover|w/o.]])</small> <ref group="n.">Al clasificar primero en el Grupo 5, Olimpia debió haber enfrentado al tercero del Grupo 2, lugar que quedó desierto debido a la no participación de los clubes colombianos. Al no asignársele rival, el equipo paraguayo quedó libre y accedió directamente a los cuartos de final.</ref>
+| RD1-team12 = 
+| RD1-score11-1 = –
+| RD1-score12-1 = –
+| RD1-score11-2 = –
+| RD1-score12-2 = –
+| RD1-score11-3 = '''–'''
+| RD1-score12-3 = '''–'''
+
+| RD1-team13 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD1-team14 = {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD1-score13-1 = 0
+| RD1-score14-1 = 0
+| RD1-score13-2 = 1
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''1'''
+| RD1-score14-3 = '''0'''
+
+| RD1-team15 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-team16 = {{bandera|BRA|1968}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score15-1 = 0
+| RD1-score16-1 = 0
+| RD1-score15-2 = 3
+| RD1-score16-2 = 3
+| RD1-score15-3 = '''3&nbsp;{{small|(4)}}'''
+| RD1-score16-3 = '''3&nbsp;{{small|(5)}}'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 22 de agosto al 13 de septiembre
+
+| RD2-team1 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| RD2-team2 = {{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+| RD2-score1-1 = 0
+| RD2-score2-1 = 0
+| RD2-score1-2 = 1
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''1'''
+| RD2-score2-3 = '''0'''
+
+| RD2-team3 = {{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| RD2-team4 = {{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 2
+| RD2-score3-2 = 1
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''3'''
+
+| RD2-team5 = {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| RD2-team6 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-score5-1 = 0
+| RD2-score6-1 = 2
+| RD2-score5-2 = 4
+| RD2-score6-2 = 4
+| RD2-score5-3 = '''4'''
+| RD2-score6-3 = '''6'''
+
+| RD2-team7 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD2-team8 = {{bandera|BRA|1968}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+| RD2-score7-1 = 0
+| RD2-score8-1 = 0
+| RD2-score7-2 = 1
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''1'''
+| RD2-score8-3 = '''0'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 5 al 26 de septiembre
+
+| RD3-team1 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-team2 = {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score1-1 = 0
+| RD3-score2-1 = 1
+| RD3-score1-2 = 1
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''1&nbsp;{{small|(4)}}'''
+| RD3-score2-3 = '''1&nbsp;{{small|(3)}}'''
+
+| RD3-team3 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-team4 = {{bandera|COL}} [[Atlético Nacional]]
+| RD3-score3-1 = 2
+| RD3-score4-1 = 1
+| RD3-score3-2 = 2
+| RD3-score4-2 = 3
+| RD3-score3-3 = '''4&nbsp;{{small|(2)}}'''
+| RD3-score4-3 = '''4&nbsp;{{small|(1)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 1990|Final]]
+| RD4-date= 3 y 10 de octubre
+
+| RD4-team1 = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| RD4-team2 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD4-score1-1 = 0
+| RD4-score2-1 = 2
+| RD4-score1-2 = 1
+| RD4-score2-2 = 1
+| RD4-score1-3 = '''1'''
+| RD4-score2-3 = '''3'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que define la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Atlético Progreso|Progreso]]
+|paísvisita      = URU
+|fecha           = 8 de agosto de 1990
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      =45.000
+|refe            = {{árbitro|CHI|Enrique Marín Gallo}}
+|goleslocal      = [[Jimmy Izquierdo|Izquierdo]] {{gol|19|pen.|87}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Progreso|Progreso]]
+|paíslocal       = URU
+|resultado       = 2:2''' (0:1)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 14 de agosto de 1990
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =1.500
+|refe            = {{árbitro|PAR|variante=1954|Carlos Maciel}}
+|goleslocal      = [[Gustavo Machaín|Machaín]] {{goal|69}}<br>[[Leonardo Ramos|Ramos]] {{goal|74}}
+|golesvisita     = [[Jimmy Izquierdo|Izquierdo]] {{goal|42}}<br>[[David Bravo Bravo|Bravo]] {{goal|86}}
+}}
+<br>
+{{Partido
+|local           = [[Club Sport Unión Huaral|Unión Huaral]]
+|paíslocal       = PER
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Sport Emelec|Emelec]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 9 de agosto de 1990
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      =2.000
+|refe            = {{árbitro|BOL|Jorge Antequera}}
+|goleslocal      = [[Domingo Farfán (futbolista)|Farfán]] {{gol|56}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Sport Emelec|Emelec]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:0''' (0:0)
+|visita          = [[Club Sport Unión Huaral|Unión Huaral]]
+|paísvisita      = PER
+|fecha           = 15 de agosto de 1990
+|estadio         = [[Estadio Modelo Alberto Spencer|Estadio Modelo]]
+|ciudad          = [[Guayaquil]]
+|asistencia      =29.000
+|refe            = {{árbitro|VEN|variante=1954|José Castro Lozada}}
+|goleslocal      = [[Juan Carlos de Lima|de Lima]] {{gol|69}}<br>[[Juan Carlos Daza|Daza]] {{gol|89}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 0:6''' (0:2)
+|visita          = [[Club Atlético Independiente|Independiente]]
+|paísvisita      = ARG
+|fecha           = 4 de agosto de 1990
+|estadio         = [[Polideportivo de Pueblo Nuevo|Estadio de Pueblo Nuevo]]
+|ciudad          = [[San Cristóbal (Venezuela)|San Cristóbal]]
+|asistencia      =4.500 
+|refe            = {{árbitro|COL|Armando Pérez Hoyos}}
+|goleslocal      = 
+|golesvisita     = [[Ricardo Giusti|Giusti]] {{gol|24}}<br>[[Rubén Darío Insúa|Insúa]] {{gol|40}}<br>[[Mario Humberto Lobo|Lobo]] {{gol|59}}<br>[[José María Bianco|Bianco]] {{gol|70||81}}<br>[[Claudio Osterrieth|Osterrieth]] {{gol|84}}
+}}
+{{Partido
+|local           = [[Club Atlético Independiente|Independiente]]
+|paíslocal       = ARG
+|resultado       = 3:0''' (1:0)
+|visita          = [[Club Deportivo Pepeganga Margarita Fútbol Club|Pepeganga]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 15 de agosto de 1990
+|estadio         = [[Estadio de La Doble Visera|Estadio La Doble Visera]]
+|ciudad          = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia      =8.000
+|refe            = {{bandera|CHI}} [[Carlos Manuel Robles Mella]]
+|goleslocal      = [[José María Bianco|Bianco]] {{gol|13}}<br>[[Rubén Darío Insúa|Insúa]] {{gol|57|pen.}}<br>[[Claudio Osterrieth|Osterrieth]] {{gol|69}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal       = URU
+|resultado       = 1:2''' (1:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 5 de agosto de 1990
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =10.000
+|refe            = {{árbitro|PAR|variante=1990|Estanislao Barrientos}}
+|goleslocal      = [[Jose Luis Cardozo|Cardozo]] {{gol|36}}
+|golesvisita     = [[Ernesto Corti|Corti]] {{gol|54}}<br>[[Sergio Berti|Berti]] {{gol|76}}
+}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 2:1''' (0:1)
+|visita          = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita      = URU
+|fecha           = 12 de agosto de 1990
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      =15.000
+|refe            = {{árbitro|CHI|Salvador Imperatore}}
+|goleslocal      = [[Carlos Enrique|Enrique]] {{gol|71}}<br>[[Ernesto Corti|Corti]] {{gol|77}}
+|golesvisita     = [[Jose Luis Cardozo|Cardozo]] {{gol|34}}
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 3:1''' (2:0)
+|visita          = [[Club The Strongest|The Strongest]]
+|paísvisita      = BOL
+|fecha           = 8 de agosto de 1990
+|estadio         = [[Estadio San Carlos de Apoquindo]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      =16.793
+|refe            = {{árbitro|BRA|variante=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Andrés Romero Samaniego|Romero]] {{gol|5||81}}<br>[[Hugo Monardes|Monardes]] {{gol|28}}
+|golesvisita     = [[Mario Ortega|Ortega]] {{gol|84}}
+}}
+{{Partido
+|local           = [[Club The Strongest|The Strongest]]
+|paíslocal       = BOL
+|resultado       = 1:1''' (0:0)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 15 de agosto de 1990
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz]]
+|asistencia      =31.964
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Alberto Illanes|Illanes]] {{goal|88}}
+|golesvisita     = [[José Percudani|Percudani]] {{goal|89}}
+}}
+<br>
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 0:0
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 8 de agosto de 1990
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      =35.000 
+|refe            = {{árbitro|URU|José Luis Martínez Bazán}}
+|goleslocal      = 
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 15 de agosto de 1990
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      =62.000
+|refe            = {{árbitro|BRA|variante=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Rubén Darío Hernández|Hernández]] {{gol|23}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 0:0
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 8 de agosto de 1990
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      =5.000 
+|refe            = {{árbitro|ARG|Ricardo Calabria}}
+|goleslocal      = 
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 3:3''' (2:0)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 15 de agosto de 1990
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      =70.000 
+|refe            = {{árbitro|ARG|Francisco Lamolina}}
+|goleslocal      = [[Rubén Espinoza|Espinoza]] {{gol|9||60|pen.}}<br>[[Marcelo Barticciotto|Barticciotto]] {{gol|44}}
+|golesvisita     = [[Bismarck Barreto Faria|Bismarck]] {{gol|46}}<br>[[Roberto Dinamite]] {{gol|57}}<br>[[William César de Oliveira|William]] {{gol|89}}
+|penaltis1       = [[Sergio Díaz Lazarte|Díaz]] {{pengol}}<br>[[Jaime Pizarro|Pizarro]] {{pengol}}<br>[[Eduardo Vilches|Vilches]] {{pengol}}<br>[[Julio Pastén|Pastén]] {{pengol}}<br>[[Rubén Espinoza|Espinoza]] {{penfallo}}
+|resultado penalti = 4:5
+|penaltis2       = {{pengol}} [[Aguinaldo Luiz Sorato|Sorato]]<br>{{pengol}} [[Bismarck Barreto Faria|Bismarck]]<br>{{pengol}} [[William César de Oliveira|William]]<br>{{pengol}} [[Roberto Dinamite]]<br>{{pengol}} [[Célio Silva|Silva]]
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Club Sport Emelec|Emelec]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 0:0
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 22 de agosto de 1990
+|estadio         = [[Estadio Modelo Alberto Spencer|Estadio Modelo]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Ricardo Calabria}}
+|goleslocal      = 
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Sport Emelec|Emelec]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 29 de agosto de 1990
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia =55.000
+|refe            = {{árbitro|BRA|variante=1968|Renato Marsiglia}}
+|goleslocal      = [[Manuel Uquillas|Uquillas]] {{gol|32}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Atlético Independiente|Independiente]]
+|paísvisita      = ARG
+|fecha           = 22 de agosto de 1990
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      =25.000 
+|refe            = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = [[Sergio Berti|Berti]] {{gol|15}}<br>[[José Tiburcio Serrizuela|Serrizuela]] {{gol|41|pen.}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Atlético Independiente|Independiente]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 29 de agosto de 1990
+|estadio         = [[Estadio de La Doble Visera|Estadio La Doble Visera]]
+|ciudad          = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia =30.000
+|refe            = {{árbitro|ARG|Ricardo Calabria}}
+|goleslocal      = [[Claudio Osterrieth|Osterrieth]] {{gol|9}}
+|golesvisita     = [[Ramón Medina Bello|Medina Bello]] {{gol|89}}
+}}
+<br>
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:0''' (0:0)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 22 de agosto de 1990
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      =40.000 
+|refe            = {{árbitro|BRA|variante=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Raúl Vicente Amarilla|Amarilla]] {{gol|80|pen.||gol|87}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 4:4''' (2:2)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 29 de agosto de 1990
+|estadio         = [[Estadio San Carlos de Apoquindo]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 17.264
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[Jorge Contreras Lira|Contreras]] {{goal|20}}<br>[[Gerardo Reinoso|Reinoso]] {{gol|44|pen.}}<br>[[Andrés Romero Samaniego|Romero]] {{goal|61||89}}
+|golesvisita     = [[Adriano Samaniego|Samaniego]] {{goal|26}}<br>[[Luis Alberto Monzón|Monzón]] {{gol|32|pen.||gol|77}}<br>[[Gabriel González Chaves|González]] {{goal|50}}
+}}
+<br>
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 0:0
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 22 de agosto de 1990
+|estadio         = [[Estadio Maracaná]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 10.000
+|refe            = {{árbitro|PAR|variante=1954|Carlos Maciel}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 2:0''' (0:0)<br><small>'''Anulado'''</small>
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 29 de agosto de 1990
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 55.000
+|refe            = {{árbitro|URU|Juan Daniel Cardellino}}
+|goleslocal      = [[Níver Arboleda|Arboleda]] {{gol|86}}<br>[[Rubén Darío Hernández|Hernández]] {{gol|88}}
+|golesvisita     = 
+|color           = S
+|suceso=El 6 de septiembre de 1990, [[Conmebol]] suspendió a Atlético Nacional a raíz de las amenazas telefónicas recibidas por el árbitro Juan Daniel Cardellino antes del partido de vuelta por los cuartos de final ante Vasco da Gama. El encuentro fue anulado y posteriormente vuelto a jugar en el [[Estadio Santa Laura]] en [[Santiago de Chile|Santiago]], [[Chile]].<ref>{{Cita web |url=https://www.eltiempo.com/archivo/documento/MAM-51130|título=SE REPITE NACIONAL-VASCO|fechaacceso=2023-10-09|sitioweb=[[El Tiempo (Colombia)|El Tiempo]]}}</ref>}}{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 13 de septiembre de 1990
+|estadio         = [[Estadio Santa Laura]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 10.000 
+|refe            = {{árbitro|CHI|Enrique Marín Gallo}}
+|goleslocal      = [[Níver Arboleda|Arboleda]] {{gol|20}}
+|golesvisita     = 
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 5 de septiembre de 1990
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      =25.000 
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[Ariel Beltramo|Beltramo]] {{gol|79}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 12 de septiembre de 1990
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      =55.000 
+|refe            = {{árbitro|PER|Carlos Montálvan Miranda}}
+|goleslocal      = [[Luis Alberto Acosta|Acosta]] {{gol|24}}
+|golesvisita     = 
+|penaltis1       = [[Jimmy Izquierdo|Izquierdo]] {{pengol}}<br>[[David Bravo Bravo|Bravo]] {{pengol}}<br>[[Wilson Macías|Macías]] {{pengol}}<br>[[Mario Saralegui|Saralegui]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2       = {{penfallo}} [[José Tiburcio Serrizuela|Serrizuela]]<br>{{pengol}} [[Sergio Berti|Berti]]<br>{{pengol}} [[Juan José Borrelli|Borrelli]]<br>{{pengol}} [[Gustavo Zapata|Zapata]]<br>{{penfallo}} [[Rubén Da Silva|Da Silva]]
+}}
+<br>
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 1:2''' (1:1)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 20 de septiembre de 1990
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 7.000 
+|refe            = {{árbitro|BRA|variante=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Níver Arboleda|Arboleda]] {{gol|17}}
+|golesvisita     = [[Adriano Samaniego|Samaniego]] {{gol|23}}<br>[[Raúl Vicente Amarilla|Amarilla]] {{gol|65}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:3''' (1:1)
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 26 de septiembre de 1990
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      =35.000 
+|refe            = {{árbitro|ARG|Francisco Lamolina}}
+|goleslocal      = [[Raúl Vicente Amarilla|Amarilla]] {{gol|3}}<br>[[Luis Alberto Monzón|Monzón]] {{gol|88}}
+|golesvisita     = [[Níver Arboleda|Arboleda]] {{gol|18}}<br>[[René Higuita|Higuita]] {{gol|65|pen.}}<br>[[Rubén Darío Hernández|Hernández]] {{gol|73}}
+|penaltis1       = [[Ever Hugo Almeida|Almeida]] {{penfallo}}<br>[[Adriano Samaniego|Samaniego]] {{penfallo}}<br>[[Luis Alberto Monzón|Monzón]] {{pengol}}<br>[[Cristóbal Cubilla|Cubilla]] {{penfallo}}<br>[[Raúl Vicente Amarilla|Amarilla]] {{penfallo}}<br>[[Silvio Suárez|Suárez]] {{pengol}}
+|resultado penalti = 2:1
+|penaltis2       = {{penfallo}} [[René Higuita|Higuita]]<br>{{penfallo}} [[Rubén Darío Hernández|Hernández]]<br>{{penfallo}} [[Óscar Galeano (futbolista)|Galeano]]<br>{{penfallo}} [[Gildardo Biderman Gómez|Gómez]]<br>{{pengol}} [[Jaime Arango|Arango]]<br>{{penfallo}} [[Felipe Pérez Urrea|Pérez]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1990|l1=Final de la Copa Libertadores 1990}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:0''' (0:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 3 de octubre de 1990
+|hora            = 
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 35.000
+|árbitro         = {{árbitro|URU|Juan Daniel Cardellino}}
+|goleslocal      = [[Raúl Vicente Amarilla|Amarilla]] {{gol|46}}<br>[[Adriano Samaniego|Samaniego]] {{gol|50}}
+|golesvisita     = 
+|reporte         = 
+|competición=Ida}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:1''' (0:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 10 de octubre de 1990
+|hora            = 
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 55.360
+|árbitro         = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = [[Marcelo Trobbiani|Trobbiani]] {{gol|61}}
+|golesvisita     = [[Raúl Vicente Amarilla|Amarilla]] {{gol|80}}
+|reporte         = 
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club Olimpia|Olimpia]]
+|imagen = Flag of Paraguay (1990-2013).svg
+|orden = 2
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Paraguay|1990}} '''[[Adriano Samaniego]]'''
+|{{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+|align=center|'''7'''
+|- 
+|{{bandera|Paraguay|1990}} [[Raúl Vicente Amarilla]]
+|{{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+|align=center|6
+|- 
+|{{bandera|Chile}} [[Andrés Romero Samaniego|Andrés Romero]]
+|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|align=center|6
+|- 
+|{{bandera|Uruguay}} [[Luis Alberto Acosta]]
+|{{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+|align=center|4
+|- 
+|{{bandera|Ecuador|1900}} [[Jimmy Izquierdo]]
+|{{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+|align=center|4
+|- 
+|{{bandera|Uruguay}} [[Sergio Daniel Martínez]]
+|{{bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+|align=center|4
+|- 
+|{{bandera|Paraguay|1990}} [[Luis Alberto Monzón]]
+|{{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+|align=center|4
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1990]]
+* [[Supercopa Sudamericana 1990]]
+* [[Recopa Sudamericana 1991]]
+* [[Copa Interamericana 1990]]
+
+== Notas ==
+{{listaref|group="n."}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa90.html Copa Libertadores 1990] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [https://www.conmebol.com Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1989|1989]]
+| título     = Copa Libertadores 1990
+| período    = XXXI edición
+| sucesor    = [[Copa Libertadores 1991|1991]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1990]]
+[[Categoría:Temporadas de la Copa Libertadores|1990]]
+[[Categoría:Fútbol en 1990]]

@@ -1,0 +1,1400 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+| deporte = fútbol
+| imagen = River-plate-2014-primera-división-sudamericana.JPG
+| imagen_tamaño = 300px
+| imagen_pie = El [[Club Atlético River Plate]], de Argentina, se consagró campeón de la [[Copa Sudamericana]] por 1.ª vez
+| año = 2014
+| participantes = 47 de 10 países
+| país = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|19|8|2014}}
+| fecha de cierre = {{fecha2|10|12|2014}}
+| edición = XIII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|COL}} [[Atlético Nacional]]
+| semifinalistas = {{bandera|ARG}} [[Club Atletico Boca Juniors|Boca Juniors]]<br>{{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| partidos = 92
+| goles = 209 (2,27 por partido)
+| mejor_jugador = {{bandera|ARG}} [[Marcelo Barovero]]<ref>{{cita web|url=http://www.espn.cl/news/story/_/id/2251903/marcelo-barovero-fue-elegido-la-figura-de-la-copa-sudamericana |título=Marcelo Barovero fue elegido la figura de la Copa Sudamericana|editorial=espn.cl}}</ref><br><small>([[Club Atlético River Plate|River Plate]])</small>
+| anterior = [[Copa Sudamericana 2013]]
+| actual = Copa Sudamericana 2014
+| siguiente = [[Copa Sudamericana 2015]]
+|goleadores={{bandera|CHI}} [[Andrés Vilches]] (5 goles)<br><small>([[Club Deportivo Huachipato|Huachipato]])</small><br>{{bandera|ECU}} [[Miler Bolaños]] (5 goles)<br><small>([[Club Sport Emelec|Emelec]])</small>}}
+La '''[[Copa Sudamericana]] 2014''', denominada por motivos comerciales '''Copa Total Sudamericana 2014''', fue la decimotercera edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El sorteo se realizó en la ciudad de [[Buenos Aires]], Argentina, el día martes 20 de mayo de 2014, en el [[Sheraton Buenos Aires Hotel]], ubicado en el [[Barrios de la ciudad de Buenos Aires|barrio porteño]] de [[Retiro (Buenos Aires)|Retiro]].<ref name="Sorteo">{{cita web |url=http://www.afa.org.ar/index.php?option=com_content&view=article&id=20277:sorteo-de-la-copa-sudamericana-edicion-2014&catid=174&Itemid=90&lang=es |editor=[[Asociación del Fútbol Argentino|AFA]] |fechaacceso=11 de marzo de 2014 |título=Sorteo de la Copa Sudamericana edición 2014}}</ref>
+
+[[Club Atlético River Plate|River Plate]] de Argentina se consagró campeón por primera vez tras vencer en la final a [[Atlético Nacional]] de Colombia. Por lo mismo, disputó la [[Recopa Sudamericana 2015]] contra [[Club Atlético San Lorenzo de Almagro|San Lorenzo]], campeón de la [[Copa Libertadores 2014]], como así también la [[Copa Suruga Bank 2015]] frente a [[Gamba Osaka]], campeón de la [[Copa J. League 2014]]. Además, clasificó directamente a los octavos de final de la [[Copa Sudamericana 2015]]. River Plate salió campeón de manera invicta (siendo el tercer club en lograrlo en la competición) y eliminó a su [[superclásico del fútbol argentino|clásico rival]] [[Boca Juniors]] en semifinales.
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. El último campeón accedió automáticamente a los octavos de final, mientras que los restantes 46 debieron disputar las dos fases clasificatorias. De allí salieron los últimos 15 clasificados a las fases finales, compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón. Como criterios de desempate en caso de igualdad de puntos y diferencia de goles al finalizar los dos encuentros de una llave, hasta las semifinales inclusive, se aplicaron la [[regla del gol de visitante]] y los [[tiros desde el punto penal]]. En las finales, no rigió la reglamentación de los goles fuera de casa, y frente a la igualdad de puntos y goles, previo a la definición por penales, se disputó una [[Prórroga (deporte)|prórroga]] de 30 minutos.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(32 equipos)
+|
+* 4 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(30 equipos)
+|
+* 8 equipos de Brasil
+* 6 equipos de Argentina
+|
+* 16 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2013
+|
+* 15 equipos clasificados de la Segunda fase
+|}
+
+== Distribución cupos ==
+
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Segunda fase
+! Primera fase
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''8'''
+| –
+|8 
+|  -
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| –
+|6 
+|  -
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+| –
+| –
+|4
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+| -
+| –
+|4
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+| -
+| –
+|4
+|- 
+| align="left" |{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+| –
+| –
+|4
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+| -
+| –
+|4
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |Fase anterior
+| –
+| 15
+| 16
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| 1
+| –
+| –
+|-
+!Total
+!47
+!16
+!30
+!32
+|}
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Sudamericana 2014|l1=Equipos participantes en la Copa Sudamericana 2014}} 
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=9.5%|País
+!width=15.5%|Equipo
+!width=75%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{Bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>6 cupos + campeón vigente</small>
+|[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]<br>[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]<br>[[Club Atlético Rosario Central|Rosario Central]]
+|Campeón de la [[Copa Sudamericana 2013]]<br>Campeón de la [[Campeonato de Primera División 2013-14 (Argentina)#Partido final del campeonato|Copa Campeonato de Primera División 2013-14]]<br>Mejor equipo ubicado en la [[Campeonato de Primera División 2013-14 (Argentina)#Clasificación a la Copa Sudamericana 2014|tabla de posiciones del Campeonato de Primera División 2013-14]] <br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2013-14 <br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2013-14 <br>4.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2013-14 <br>5.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2013-14 
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>4 cupos</small>
+|[[Club San José|San José]]<br>[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]<br>''[[Club Atlético Nacional Potosí|Nacional Potosí]]''<br>[[Universitario de Sucre]]
+|3.º puesto del [[Campeonato de Primera División 2012-13 (Bolivia)#Torneo Clausura 2|Torneo Clausura 2013]]<br>4.º puesto del [[Campeonato de Primera División 2013-14 (Bolivia)#Torneo Apertura|Torneo Apertura 2013]]<br>5.º puesto del Torneo Apertura 2013<br>6.º puesto del Torneo Apertura 2013
+
+|- bgcolor=#F5FAFF
+|'''{{Bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>8 cupos</small>
+|[[Esporte Clube Vitória|Vitória]]<br>[[Goiás Esporte Clube|Goiás]]<br>[[São Paulo Futebol Clube|São Paulo]]<br>[[Esporte Clube Bahia|Bahia]]<br>[[Sport Club Internacional|Internacional]]<br>[[Criciúma Esporte Clube|Criciúma]]<br>[[Fluminense Football Club|Fluminense]]<br>[[Sport Club do Recife|Sport Recife]]
+|Mejor equipo ubicado en el [[Campeonato Brasileño de Fútbol 2013|Campeonato Brasileño de 2013]]<br>2.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>3.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>4.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>5.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>6.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>7.º mejor equipo ubicado en el Campeonato Brasileño de 2013<br>Campeón de la [[Copa do Nordeste 2014]]
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>4 cupos</small>
+|[[Club de Deportes Iquique|Deportes Iquique]]<br>''[[Club de Deportes Cobresal|Cobresal]]''<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>[[Club Deportivo Huachipato|Huachipato]]
+|Campeón de la [[Copa Chile 2013-14]]<br>Ganador de la [[Liguilla Pre-Sudamericana (Chile) 2014|Liguilla Pre-Sudamericana 2014]]<br>Mejor equipo ubicado en la [[Torneo Clausura 2014 (Chile)#Tabla Acumulada 2013-14|tabla acumulada de la temporada 2013-14]]<br>Finalista de la Copa Chile 2013-14
+
+|- bgcolor=#F5FAFF
+|'''{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>4 cupos</small>
+|[[Atlético Nacional]]<br>[[Deportivo Cali]]<br>[[Millonarios Fútbol Club|Millonarios]]<br>[[Águilas Doradas]]
+|Campeón de la [[Copa Colombia 2013]]<br>Campeón de la [[Superliga de Colombia 2014]]<br>Mejor equipo ubicado en la [[Temporada 2013 del fútbol colombiano#Tabla de reclasificación|Reclasificación 2013]]<br>2.º mejor equipo ubicado en la Reclasificación 2013
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Ecuador}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>4 cupos</small>
+|[[Club Sport Emelec|Emelec]]<br>[[Independiente del Valle]]<br>''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]''<br>[[Barcelona Sporting Club|Barcelona]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 2013|Campeonato Ecuatoriano de 2013]]<br>Subcampeón del Campeonato Ecuatoriano de 2013<br>Mejor equipo ubicado en la [[Campeonato Ecuatoriano de Fútbol 2013#Tabla acumulada|tabla acumulada del Campeonato Ecuatoriano de 2013]]<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Ecuatoriano de 2013
+
+|- bgcolor=#F5FAFF
+|'''{{Bandera|Paraguay}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>4 cupos</small>
+|[[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Libertad|Libertad]]<br>''[[Club Deportivo Capiatá|Deportivo Capiatá]]''<br>[[Club General Díaz|''General Díaz'']]
+|Campeón en la temporada 2013 con [[Torneo Clausura 2013 (Paraguay)#Puntaje acumulado|mayor puntaje acumulado]]<br>Mejor equipo ubicado en la [[Torneo Clausura 2013 (Paraguay)#Puntaje acumulado|tabla acumulada de la temporada 2013]]<br>2.º mejor equipo ubicado en la tabla acumulada de la temporada 2013<br>3.º mejor equipo ubicado en la tabla acumulada de la temporada 2013
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>4 cupos</small>
+|[[Club Alianza Lima|Alianza Lima]]<br>[[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]<br>''[[Club Universidad Técnica de Cajamarca|UTC]]''<br>[[Club Inti Gas Deportes Ayacucho|Inti Gas]]
+|Mejor equipo ubicado en la [[Campeonato Descentralizado 2013#Tabla acumulada|tabla acumulada del Campeonato Descentralizado 2013]]<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2013<br>3.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2013<br>4.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2013
+
+|- bgcolor=#F5FAFF
+|'''{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>4 cupos</small>
+|[[Danubio Fútbol Club|Danubio]]<br>[[Club Atlético River Plate (Uruguay)|River Plate]]<br>[[Club Atlético Peñarol|Peñarol]]<br>''[[Club Atlético Rentistas|Rentistas]]''
+|Campeón del [[Campeonato Uruguayo de Primera División 2013-14|Campeonato Uruguayo 2013-14]]<br>Mejor equipo ubicado en la [[Campeonato Uruguayo de Primera División 2013-14#Tabla Anual|tabla anual del Campeonato Uruguayo 2013-14]]<br>2.º mejor equipo ubicado en la tabla anual del Campeonato Uruguayo 2013-14<br>3.º mejor equipo ubicado en la tabla anual del Campeonato Uruguayo 2013-14
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>4 cupos</small>
+|[[Caracas Fútbol Club|Caracas]]<br>[[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]<br>[[Trujillanos Fútbol Club|Trujillanos]]<br>''[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]''
+|Campeón de la [[Copa Venezuela 2013]]<br>Mejor equipo ubicado en la [[Primera División Venezolana 2013-14#Clasificación de equipos|tabla acumulada de la Primera División Venezolana 2013-14]]<br>Finalista de la [[Primera División Venezolana 2013-14#Serie Pre-Sudamericana|Serie Pre-Sudamericana con mayor puntaje acumulado en la temporada 2013-14]]<br>Finalista de la Serie Pre-Sudamericana con menor puntaje acumulado en la temporada 2013-14
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Sudamericana 2014'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95|label=<small>'''{{Esd|La Plata}}'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-40|long=-58|label=<small>'''{{Esd|Equipos del <br>Gran Buenos Aires:}}'''<br>[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético River Plate|River Plate]]<br><br>'''{{Esd|Equipos de La Plata:}}'''<br>[[Club Estudiantes de La Plata|Estudiantes]]<br>[[Club de Gimnasia y Esgrima La Plata|{{Esd|Gimnasia y Esgrima}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-32.95|long=-60.65|label=<small><div style="font-size:100%;position:relative;bottom:7px;">[[Club Atlético Rosario Central|{{Esd|Rosario Central}}]]</div></small>|position=top}}
+{{Location map~|América del Sur|lat=-32.883333|long=-68.833333|label=<small><div style="font-size:100%;position:relative;bottom:8px;">[[Club Deportivo Godoy Cruz Antonio Tomba|{{Esd|Godoy Cruz}}]]</div></small>|position=top}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.966667|long=-67.116667|label=<small>[[Club San José|{{Esd|San José}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Jorge Wilstermann|{{Esd|Jorge Wilstermann}}]]</small>|position=}}
+{{Location map~|América del Sur|lat=-19.05|long=-65.25|label=<small><div style="font-size:100%;position:relative;left:5px;bottom:11.5px;">[[Universitario de Sucre|{{Esd|Universitario de Sucre}}]]</div></small>|position=bottom}}
+{{Location map~|América del Sur|lat=-19.583333|long=-65.75|label=<small><div style="font-size:100%;position:relative;left:5px;bottom:17px;">[[Club Atlético Nacional Potosí|{{Esd|Nacional Potosí}}]]</div></small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-8.053889|long=-34.880833|label=<small>[[Sport Club do Recife|{{Esd|Sport Recife}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.970833|long=-38.510833|label=<small>[[Esporte Clube Bahia|Bahia]]<br>[[Esporte Clube Vitória|Vitória]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-16.678889|long=-49.253889|label=<small>[[Goiás Esporte Clube|Goiás]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Fluminense Football Club|Fluminense]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|São Paulo]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-28.6775|long=-49.369722|label=<small>[[Criciúma Esporte Clube|Criciúma]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Sport Club Internacional|Internacional]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.15|long=-70.666667|label=<small><div style="font-size:100%;position:relative;right:19px;bottom:12.5px;">[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</div></small>|position=left}}
+{{Location map~|América del Sur|lat=-26.25|long=-69.616667|label=<small>[[Club de Deportes Cobresal|Cobresal]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-36.716667|long=-73.116667|label=<small><div style="font-size:100%;position:relative;bottom:7px;">[[Club Deportivo Huachipato|Huachipato]]</div></small>|position=left}}
+{{Location map~|América del Sur|lat=-20.216667|long=-70.166667|label=<div style="font-size:100%;position:relative;right:4px;bottom:12px;"><small>[[Club de Deportes Iquique|{{Esd|Deportes Iquique}}]]</small></div>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[Deportivo Cali]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small><div style="font-size:100%;position:relative;right:2.5px;bottom:15px;">[[Águilas Doradas|{{Esd|Águilas Doradas}}]]<br>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</div></small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Independiente del Valle|{{Esd|Independiente del Valle}}]]<br>[[Club Deportivo de la Universidad Católica (Ecuador)|{{Esd|Universidad Católica}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]<br>[[Club Sport Emelec|Emelec]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>{{Esd|[[Club Cerro Porteño|Cerro Porteño]]}}<br><div style="font-size:100%;position:relative;right:8px;">{{Esd|[[Club Deportivo Capiatá|Deportivo Capiatá]]}}</div>{{Esd|[[Club General Díaz|General Díaz]]}}<br>[[Club Libertad|Libertad]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-7.164444|long=-78.510556|label=<small>[[Club Universidad Técnica de Cajamarca|UTC]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-8.111944|long=-79.028889|label=<small>[[Universidad César Vallejo Club de Fútbol|{{Esd|Universidad César Vallejo}}]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-13.163056|long=-74.224444|label=<small>[[Club Inti Gas Deportes Ayacucho|Inti Gas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|Alianza Lima]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-37|long=-43|label=<small>'''{{Esd|Equipos de Montevideo:}}'''<br>[[Danubio Fútbol Club|Danubio]]<br>[[Club Atlético Peñarol|Peñarol]]<br>[[Club Atlético Rentistas|Rentistas]]<br>[[Club Atlético River Plate (Uruguay)|River Plate]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<div style="font-size:100%;position:relative;bottom:7px;"><small>'''Caracas'''</small></div>|position=top}}
+{{Location map~|América del Sur|lat=11|long=-53|label=<small>'''{{Esd|Equipos de Caracas:}}'''<br>{{Esd|[[Caracas Fútbol Club|Caracas]]<br>[[Deportivo La Guaira Fútbol Club|{{Esd|Deportivo La Guaira}}]]}}</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=10.216667|long=-64.616667|label=<div style="font-size:100%;position:relative;bottom:10px;"><small>[[Deportivo Anzoátegui Sport Club|{{Esd|Deportivo Anzoátegui}}]]</small></div>|position=right}}
+{{Location map~|América del Sur|lat=9.033333|long=-70.6|label=<small>[[Trujillanos Fútbol Club|Trujillanos]]</small>|position=left}}
+}}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2014|l1=Primera fase de la Copa Sudamericana 2014}}
+Los clasificados de todas las asociaciones, exceptuando Argentina y Brasil, fueron separados en dos zonas, Sur y Norte, de acuerdo a la localización geográfica de cada país: la primera zona estuvo integrada por los equipos de Bolivia, Chile, Paraguay y Uruguay, y la segunda, por los de Colombia, Ecuador, Perú y Venezuela. Dentro de cada zona, se establecieron ocho llaves. Los 16 ganadores avanzaron a la segunda fase.
+=== Zona Sur ===
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|19 y 26 de agosto
+| align="right" |'''[[Club Deportivo Huachipato|Huachipato]]''' {{bandera|Chile}}
+| align="2" | '''6:3'''
+| align="left" |{{bandera|Bolivia}} [[Club San José|San José]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200385&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200401&lang=es_LA 3:2]
+!Ganador 1
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |'''[[Universitario de Sucre]]''' {{bandera|Bolivia}}
+| align="2" | '''2:1'''
+| align="left" |{{bandera|Chile}} [[Club de Deportes Iquique|Deportes Iquique]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200386&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200402&lang=es_LA 0:1]
+!Ganador 2
+
+|- align="center"
+|21 y 28 de agosto
+| align="right" |'''[[Club Deportivo Capiatá|Deportivo Capiatá]]''' {{bandera|Paraguay}}
+| align="2" | '''5:3'''
+| align="left" |{{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200387&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200403&lang=es_LA 2:2]
+!Ganador 3
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |[[Club Atlético Rentistas|Rentistas]] {{bandera|Uruguay}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Paraguay}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200404&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200388&lang=es_LA 1:0]
+!Ganador 4
+
+|- align="center"
+|20 y 27 de agosto
+| align="right" |'''[[Club General Díaz|General Díaz]]''' {{bandera|Paraguay}}
+| align="2" | '''4:3'''
+| align="left" |{{bandera|Chile}} [[Club de Deportes Cobresal|Cobresal]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200389&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200405&lang=es_LA 2:2]
+!Ganador 5
+
+|- align="center" style="background:#F5FAFF;"
+|20 y 27 de agosto
+| align="right" |[[Club Atlético Nacional Potosí|Nacional Potosí]] {{bandera|Bolivia}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Paraguay}} '''[[Club Libertad|Libertad]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200390&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200406&lang=es_LA 0:3]
+!Ganador 6
+
+|- align="center"
+|21 y 27 de agosto
+| align="right" |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] {{bandera|Chile}}
+| align="2" | '''0:4'''
+| align="left" |{{bandera|Uruguay}} '''[[Club Atlético River Plate (Uruguay)|River Plate]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200391&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200407&lang=es_LA 0:3]
+!Ganador 7
+
+|- align="center" style="background:#F5FAFF;"
+|20 y 28 de agosto
+| align="right" |'''[[Club Atlético Peñarol|Peñarol]]''' {{bandera|Uruguay}}
+| align="2" | '''6:0'''
+| align="left" |{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200392&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200408&lang=es_LA 4:0]
+!Ganador 8
+
+|}
+
+=== Zona Norte ===
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|21 y 28 de agosto
+| align="right" |[[Club Inti Gas Deportes Ayacucho|Inti Gas]] {{bandera|Perú}}
+| align="2" | '''0:2'''
+| align="left" |{{bandera|Venezuela}} '''[[Caracas Fútbol Club|Caracas]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200393&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200409&lang=es_LA 0:1]
+!Ganador 9
+
+|- align="center" style="background:#F5FAFF;"
+|21 y 27 de agosto
+| align="right" |'''[[Barcelona Sporting Club|Barcelona]]''' {{bandera|ECU}}
+| align="2" | '''3:0'''
+| align="left" |{{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200394&lang=es_LA 3:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200410&lang=es_LA 0:0]
+!Ganador 10
+
+|- align="center"
+|20 y 27 de agosto
+| align="right" |[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]] {{bandera|Venezuela}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Colombia}} '''[[Atlético Nacional]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200395&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200411&lang=es_LA 0:1]
+!Ganador 11
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |[[Águilas Doradas]] {{bandera|Colombia}}
+| align="2" | '''2:3'''
+| align="left" |{{bandera|Ecuador}} '''[[Club Sport Emelec|Emelec]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200396&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200412&lang=es_LA 1:2]
+!Ganador 12
+
+|- align="center"
+|20 y 28 de agosto
+| align="right" |[[Club Universidad Técnica de Cajamarca|UTC]] {{bandera|PER}}
+| align="2" | '''0:3'''
+| align="left" |{{bandera|COL}} '''[[Deportivo Cali]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200397&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200413&lang=es_LA 0:3]
+!Ganador 13
+
+|- align="center" style="background:#F5FAFF;"
+|21 y 28 de agosto
+| align="right" |[[Millonarios Fútbol Club|Millonarios]] {{bandera|COL}}
+| align="2" | '''3:4'''
+| align="left" |{{bandera|PER}} '''[[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200398&lang=es_LA 1:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200414&lang=es_LA 2:2]
+!Ganador 14
+
+|- align="center"
+|21 y 27 de agosto
+| align="right" |[[Trujillanos Fútbol Club|Trujillanos]] {{bandera|Venezuela}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Ecuador}} '''[[Independiente del Valle]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200399&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200415&lang=es_LA 1:1]
+!Ganador 15
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |'''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]''' {{bandera|Ecuador}}
+| align="2" | '''2:2''' <small>('''5:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Venezuela}} [[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200400&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200416&lang=es_LA 1:1]
+!Ganador 16
+
+|}
+
+== Segunda fase ==
+{{AP|Anexo:Segunda fase de la Copa Sudamericana 2014|l1=Segunda fase de la Copa Sudamericana 2014}}
+Por ser el campeón de la [[Copa Sudamericana 2013]], [[Club Atlético Lanús|Lanús]] clasificó automáticamente a octavos de final como ''Octavo 7''. Para determinar a los restantes 15 clasificados a las fases finales, se establecieron quince nuevas llaves. Los seis participantes de Argentina, por un lado, y los ocho de Brasil, por otro, conformaron siete de las llaves, determinadas según la plaza clasificatoria que ocupara cada equipo. En cada uno de los otros ocho cruces, se enfrentó un ganador de la Zona Norte con uno de la Zona Sur de la primera fase. Los 15 ganadores avanzaron a los octavos de final.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|28 de agosto y 3 de septiembre
+| align="right" |[[Sport Club do Recife|Sport Recife]] {{bandera| Brasil}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Brasil}} '''[[Esporte Clube Vitória|Vitória]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200425&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200440&lang=es_LA 1:2]
+!Octavo 1
+
+|- align="center" style="background:#F5FAFF;"
+|16 y 24 de septiembre
+| align="right" | '''[[Club Deportivo Capiatá|Deportivo Capiatá]]''' {{bandera|PAR}}
+| align="2" | '''4:2'''
+| align="left" | {{bandera|VEN}} [[Caracas Fútbol Club|Caracas]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200434&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200419&lang=es_LA 3:1]
+!Octavo 2
+
+|- align="center"
+|3 y 17 de septiembre
+| align="right" |[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]] {{bandera|Argentina}}
+| align="2" | '''0:3'''
+| align="left" |{{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200429&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200444&lang=es_LA 0:2]
+!Octavo 3
+
+|- align="center" style="background:#F5FAFF;"
+|17 y 24 de septiembre
+| align="right" | '''[[Club Deportivo Huachipato|Huachipato]]''' {{bandera|CHI}}
+| align="2" | '''2:1'''
+| align="left" | {{bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200421&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200436&lang=es_LA 0:1]
+!Octavo 4
+
+|- align="center"
+|28 de agosto y 3 de septiembre
+| align="right" |[[Fluminense Football Club|Fluminense]] {{bandera| Brasil}}
+| align="2" | '''2:2'''
+| align="left" |{{bandera|Brasil}} '''[[Goiás Esporte Clube|Goiás]]''' <small>([[Regla del gol de visitante|v.]])</small>
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200426&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200441&lang=es_LA 0:1]
+!Octavo 5
+
+|- align="center" style="background:#F5FAFF;"
+|16 y 24 de septiembre
+| align="right" | '''[[Club Atlético Peñarol|Peñarol]]''' {{bandera|Uruguay}}
+| align="2" | '''3:2'''
+| align="left" | {{bandera|Colombia}} [[Deportivo Cali]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200417&lang=es_LA 2:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200432&lang=es_LA 1:0]
+!Octavo 6
+
+|- align="center"
+|17 y 23 de septiembre
+| align="right" | [[Universitario de Sucre]] {{bandera|BOL}}
+| align="2" | '''2:5'''
+| align="left" | {{bandera|PER}} '''[[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200423&lang=es_LA 2:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana2014.200438&lang=es_LA 0:3]
+!Octavo 8
+
+|- align="center" style="background:#F5FAFF;"
+|27 de agosto y 4 de septiembre
+| align="right" |[[Sport Club Internacional|Internacional]] {{bandera| Brasil}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Brasil}} '''[[Esporte Clube Bahia|Bahia]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200428&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200443&lang=es_LA 1:1]
+!Octavo 9
+
+|- align="center"
+|16 y 23 de septiembre
+| align="right" | [[Independiente del Valle]] {{bandera|ECU}}
+| align="2" | '''1:3'''
+| align="left" | {{bandera|PAR}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[http://www.conmebol.com/es/content/independiente-supero-cerro-porteno- 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana2014.200437&lang=es_LA 0:3]
+!Octavo 10
+
+|- align="center" style="background:#F5FAFF;"
+|3 y 16 de septiembre
+| align="right" |[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]] {{bandera|Argentina}}
+| align="2" | '''0:1'''
+| align="left" |{{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200431&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200446&lang=es_LA 0:1]
+!Octavo 11
+
+|- align="center"
+|18 y 25 de septiembre
+| align="right" | '''[[Club Sport Emelec|Emelec]] {{bandera|ECU}}'''
+| align="2" | '''3:2'''
+| align="left" | {{bandera|Uruguay}} [[Club Atlético River Plate (Uruguay)|River Plate]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200439&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200424&lang=es_LA 1:1]
+!Octavo 12
+
+|- align="center" style="background:#F5FAFF;"
+|28 de agosto y 4 de septiembre
+| align="right" |[[Criciúma Esporte Clube|Criciúma]] {{bandera|Brasil}}
+| align="2" | '''2:3'''
+| align="left" |{{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200427&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200442&lang=es_LA 0:2]
+!Octavo 13
+
+|- align="center"
+|11 y 17 de septiembre
+| align="right" | [[Barcelona Sporting Club|Barcelona]] {{bandera|ECU}}
+| align="2" | '''1:2'''
+| align="left" | {{bandera|PAR}} '''[[Club Libertad|Libertad]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200418&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200433&lang=es_LA 0:2]
+!Octavo 14
+
+|- align="center" style="background:#F5FAFF;"
+|4 y 18 de septiembre
+| align="right" |[[Club Atlético Rosario Central|Rosario Central]] {{bandera|Argentina}}
+| align="2" | '''1:4'''
+| align="left" |{{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200430&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.200445&lang=es_LA 0:3]
+!Octavo 15
+
+|- align="center"
+|10 y 25 de septiembre
+| align="right" |<small>([[Regla del gol de visitante|v.]])</small> '''[[Atlético Nacional]]''' {{bandera|COL}}
+| align="2" | '''3:3'''
+| align="left" | {{bandera|PAR}} [[Club General Díaz|General Díaz]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200435&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200420&lang=es_LA 3:1]
+!Octavo 16
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los 15 ganadores de la primera fase se les sumó [[Club Atlético Lanús|Lanús]], campeón de la [[Copa Sudamericana 2013]]. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta la denominación que se le asignó a cada equipo; en el caso de los cuadros que clasificaron desde la segunda fase, dicha denominación fue determinada por el nombre del cruce que ganaron en aquella instancia. De esa manera, el Octavo 1 enfrentó al Octavo 16, el 2 al 15, el 3 al 14, y así sucesivamente. Desde esta instancia inclusive en adelante, el equipo que ostentara menor número de orden que su rival de turno ejerció la localía en el partido de vuelta. En caso de que dos equipos de un mismo país alcanzaran la ronda de semifinales, se debía alterar, de ser necesario, el orden de las llaves para que ambos se enfrentaran en la mencionada instancia, a fin de evitar que puedan cruzarse en la final.
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 166| score-width= 20
+| seeds = yes
+
+<!-- Octavos de final -->
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2014|Octavos de final]]
+| RD1-date= 30 de septiembre al 23 de octubre
+
+| RD1-seed1 = 1
+| RD1-seed2 = 16
+| RD1-team1 = {{bandera|Brasil}} [[Esporte Clube Vitória|Vitória]]
+| RD1-team2 = {{bandera|Colombia}} '''[[Atlético Nacional]]'''
+| RD1-score1-1 = 2
+| RD1-score2-1 = 2
+| RD1-score1-2 = 0 
+| RD1-score2-2 = 1
+| RD1-score1-3 = '''2'''
+| RD1-score2-3 = '''3'''
+
+| RD1-seed3 = 8
+| RD1-seed4 = 9
+| RD1-team3 = {{nowrap|{{bandera|Perú}} '''[[Universidad César Vallejo Club de Fútbol|Univ. César Vallejo]]''' {{small|([[Tiros desde el punto penal|p]])}}}}
+| RD1-team4 = {{bandera|Brasil}} [[Esporte Clube Bahia|Bahia]]
+| RD1-score3-1 = 0
+| RD1-score4-1 = 2
+| RD1-score3-2 = 2
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''2&nbsp;{{small|(7)}}'''
+| RD1-score4-3 = '''2&nbsp;{{small|(6)}}'''
+
+| RD1-seed5 = 4
+| RD1-seed6 = 13
+| RD1-team5 = {{bandera|Chile}} [[Club Deportivo Huachipato|Huachipato]]
+| RD1-team6 = {{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-score5-1 = 0
+| RD1-score6-1 = 1
+| RD1-score5-2 = 2
+| RD1-score6-2 = 3
+| RD1-score5-3 = '''2'''
+| RD1-score6-3 = '''4'''
+
+| RD1-seed7 = 5
+| RD1-seed8 = 12
+| RD1-team7 = {{bandera|Brasil}} [[Goiás Esporte Clube|Goiás]]
+| RD1-team8 = {{bandera|Ecuador}} '''[[Club Sport Emelec|Emelec]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD1-score7-1 = 0
+| RD1-score8-1 = 1
+| RD1-score7-2 = 1
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''1&nbsp;{{small|(5)}}'''
+| RD1-score8-3 = '''1&nbsp;{{small|(6)}}'''
+
+| RD1-seed9 = 2
+| RD1-seed10 = 15
+| RD1-team9 = {{bandera|Paraguay}} [[Club Deportivo Capiatá|Deportivo Capiatá]]
+| RD1-team10 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD1-score9-1 = 1
+| RD1-score10-1 = 0
+| RD1-score9-2 = 0
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''1&nbsp;{{small|(3)}}'''
+| RD1-score10-3 = '''1&nbsp;{{small|(4)}}'''
+
+| RD1-seed11 = 7
+| RD1-seed12 = 10
+| RD1-team11 = {{bandera|Argentina}} [[Club Atlético Lanús|Lanús]]
+| RD1-team12 = {{bandera|Paraguay}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| RD1-score11-1 = 1
+| RD1-score12-1 = 2
+| RD1-score11-2 = 1
+| RD1-score12-2 = 1
+| RD1-score11-3 = '''2'''
+| RD1-score12-3 = '''3'''
+
+| RD1-seed13 = 3
+| RD1-seed14 = 14
+| RD1-team13 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-team14 = {{bandera|Paraguay}} [[Club Libertad|Libertad]]
+| RD1-score13-1 = 3
+| RD1-score14-1 = 1
+| RD1-score13-2 = 2
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''5'''
+| RD1-score14-3 = '''1'''
+
+| RD1-seed15 = 6
+| RD1-seed16 = 11
+| RD1-team15 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-team16 = {{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD1-score15-1 = 1
+| RD1-score16-1 = 2
+| RD1-score15-2 = 2
+| RD1-score16-2 = 1
+| RD1-score15-3 = '''3&nbsp;{{small|(1)}}'''
+| RD1-score16-3 = '''3&nbsp;{{small|(3)}}'''
+
+<!-- Cuartos de Final -->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2014|Cuartos de final]]
+| RD2-date= 29 de octubre al 6 de noviembre
+
+| RD2-seed1 = 16
+| RD2-seed2 = 8
+| RD2-team1 = {{bandera|Colombia}} '''[[Atlético Nacional]]'''
+| RD2-team2 = {{bandera|Perú}} [[Universidad César Vallejo Club de Fútbol|Univ. César Vallejo]]
+| RD2-score1-1 = 1
+| RD2-score2-1 = 0
+| RD2-score1-2 = 1
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''2'''
+| RD2-score2-3 = '''0'''
+
+| RD2-seed3 = 13
+| RD2-seed4 = 12
+| RD2-team3 = {{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD2-team4 = {{bandera|Ecuador}} [[Club Sport Emelec|Emelec]]
+| RD2-score3-1 = 4
+| RD2-score4-1 = 2
+| RD2-score3-2 = 2
+| RD2-score4-2 = 3
+| RD2-score3-3 = '''6'''
+| RD2-score4-3 = '''5'''
+
+| RD2-seed5 = 15
+| RD2-seed6 = 10
+| RD2-team5 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD2-team6 = {{bandera|Paraguay}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 0
+| RD2-score5-2 = 4
+| RD2-score6-2 = 1
+| RD2-score5-3 = '''5'''
+| RD2-score6-3 = '''1'''
+
+| RD2-seed7 = 3
+| RD2-seed8 = 11
+| RD2-team7 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-team8 = {{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| RD2-score7-1 = 2
+| RD2-score8-1 = 1
+| RD2-score7-2 = 3
+| RD2-score8-2 = 2
+| RD2-score7-3 = '''5'''
+| RD2-score8-3 = '''3'''
+
+<!-- Semifinales -->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2014|Semifinales]]
+| RD3-date= 19 al 27 de noviembre
+
+| RD3-seed1 = 16
+| RD3-seed2 = 13
+| RD3-team1 = {{nowrap|{{bandera|Colombia}} '''[[Atlético Nacional]]''' {{small|([[Tiros desde el punto penal|p]])}}</small>}}
+| RD3-team2 = {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| RD3-score1-1 = 1
+| RD3-score2-1 = 0
+| RD3-score1-2 = 0
+| RD3-score2-2 = 1
+| RD3-score1-3 = '''1&nbsp;{{small|(4)}}'''
+| RD3-score2-3 = '''1&nbsp;{{small|(1)}}'''
+
+| RD3-seed3 = 15
+| RD3-seed4 = 3
+| RD3-team3 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD3-team4 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD3-score3-1 = 0
+| RD3-score4-1 = 0 
+| RD3-score3-2 = 0
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''0'''
+| RD3-score4-3 = '''1'''
+
+<!-- Final -->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2014|Final]]
+| RD4-date= 3 y 10 de diciembre
+
+| RD4-seed1 = 16
+| RD4-seed2 = 3
+| RD4-team1 = {{bandera|Colombia}} [[Atlético Nacional]]
+| RD4-team2 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD4-score1-1 = 1
+| RD4-score2-1 = 1
+| RD4-score1-2 = 0
+| RD4-score2-2 = 2
+| RD4-score1-3 = '''1'''
+| RD4-score2-3 = '''3'''
+}}
+
+* <small>Nota: En cada llave, el equipo con la menor numeración es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2014|l1=Octavos de final de la Copa Sudamericana 2014}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 2:2''' (1:1)
+|visita = [[Esporte Clube Vitória|Vitória]]
+|paísvisita = BRA
+|fecha = 1 de octubre de 2014, 20:00 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|refe = {{árbitro|ECU|Carlos Vera (árbitro de fútbol)|Carlos Vera}}
+|ciudad = [[Medellín]]
+|asistencia = 35 943
+|goleslocal = [[Daniel Bocanegra|Bocanegra]] {{gol|3}} <br> [[Luis Carlos Ruiz|Ruiz]] {{gol|65|pen.}}
+|golesvisita = [[Ednei Barbosa de Souza|Ednei]] {{gol|45}} <br> [[William Henrique]] {{gol|48}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200455&lang=es_LA
+}}
+{{Partido
+|local = [[Esporte Clube Vitória|Vitória]]
+|paíslocal = BRA
+|resultado = 0:1''' (0:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|fecha = 16 de octubre de 2014, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Manoel Barradas]] 
+|refe = {{árbitro|ARG|Diego Abal}}
+|ciudad = [[Salvador (Bahía)|Salvador]]
+|asistencia = 27 409
+|goleslocal = 
+|golesvisita = [[Daniel Bocanegra|Bocanegra]] {{gol|70}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200447&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Esporte Clube Bahia|Bahia]]
+|paíslocal = BRA
+|resultado = 2:0''' (0:0)
+|visita = [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|paísvisita = PER
+|refe = {{árbitro|PAR|Carlos Amarilla}}
+|fecha = 1 de octubre de 2014, 19:30 ([[UTC-3]])
+|estadio = [[Itaipava Arena Fonte Nova|Arena Fonte Nova]]
+|ciudad = [[Salvador de Bahía|Salvador]]
+|asistencia = 37 674
+|goleslocal = [[Cristian Chagas Tarouco|Titi]] {{gol|64}} <br> [[William Barbio|Barbio]] {{gol|79}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200456&lang=es_LA
+}}
+{{Partido
+|local =  [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|paíslocal = PER
+|resultado = 2:0''' (0:0)
+|visita = [[Esporte Clube Bahia|Bahia]]
+|paísvisita = BRA
+|refe = {{árbitro|ECU|Carlos Vera (árbitro de fútbol)|Carlos Vera}}
+|fecha = 15 de octubre de 2014, 20:00 ([[UTC-5]])
+|estadio = [[Estadio Mansiche]]
+|ciudad = [[Trujillo (Perú)|Trujillo]]
+|asistencia = 15 760
+|goleslocal = [[Ronald Quinteros|Quinteros]] {{gol|83}} <br> [[Willian Chiroque|Chiroque]] {{gol|90+2}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200448&lang=es_LA
+| penaltis1 = [[Luis Tejada (futbolista)|Tejada]] {{pengol}} <br> [[Daniel Chávez Castillo|Chávez]] {{penfallo}} <br> [[Willian Chiroque|Chiroque]] {{pengol}} <br> [[Andy Pando|Pando]] {{pengol}} <br> [[Donald Millán|Millán]] {{pengol}} <br> [[Jesús Rabanal|Rabanal]] {{penfallo}} <br> [[Atilio Muente|Muente]] {{penfallo}} <br> [[Juan Gustavo Morales|Morales]] {{pengol}} <br> [[Luis Cardoza|Cardoza]] {{pengol}} <br> [[Salomón Libman|Libman]] {{pengol}}
+| resultado penalti = 7:6
+| penaltis2 = {{pengol}} [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]] <br> {{penfallo}} [[Lucas Fonseca|Fonseca]] <br> {{pengol}} [[Henrique Almeida|Henrique]] <br> {{pengol}} [[Cristian Chagas Tarouco|Titi]] <br> {{pengol}} [[Léo Gago]] <br> {{penfallo}} [[Uelliton da Silva Vieira|Uelliton]] <br> {{penfallo}} [[Anderson Ferreira da Silva|Pará]] <br> {{pengol}} [[William Barbio|Barbio]] <br> {{pengol}} [[Railan dos Santos Reis|Railan]] <br> {{penfallo}} [[Marcelo Lomba|Lomba]]
+}}
+<br>
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Club Deportivo Huachipato|Huachipato]]
+|paísvisita = CHI
+|refe = {{árbitro|URU|Christian Ferreyra}}
+|fecha = 30 de septiembre de 2014, 20:30 ([[UTC-3]])
+|estadio = [[Estadio Morumbi]]
+|ciudad = [[São Paulo]]
+|asistencia = 45 753
+|goleslocal = [[Michel Bastos|Bastos]] {{gol|55}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200457&lang=es_LA
+}}
+{{Partido
+|local = [[Club Deportivo Huachipato|Huachipato]]
+|paíslocal = CHI
+|resultado = 2:3''' (1:2)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|refe = {{árbitro|PAR|Antonio Arias Alvarenga|Antonio Arias}}
+|fecha = 15 de octubre de 2014, 19:30 ([[UTC-3]])
+|estadio = [[Estadio CAP]]
+|ciudad = [[Talcahuano]]
+|asistencia = 9020
+|goleslocal = [[Andrés Vilches|Vilches]] {{gol|20}} <br> [[Ángelo Sagal|Sagal]] {{gol|87}}
+|golesvisita = [[Michel Bastos|Bastos]] {{gol|9}} <br> [[Paulo Henrique Ganso|Ganso]] {{gol|22}} <br> [[Gabriel Boschilia|Boschilia]] {{gol|89}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200449&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Sport Emelec|Emelec]]
+|paíslocal = ECU
+|resultado = 1:0''' (0:0)
+|visita = [[Goiás Esporte Clube|Goiás]]
+|paísvisita = BRA
+|refe = {{árbitro|BOL|Óscar Maldonado}}
+|fecha = 1 de octubre de 2014, 20:00 ([[UTC-5]])
+|estadio = [[Estadio George Capwell]]
+|ciudad = [[Guayaquil]]
+|asistencia = 27 691
+|goleslocal = [[Emanuel Herrera|Herrera]] {{gol|86}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200458&lang=es_LA
+}}
+{{Partido
+|local = [[Goiás Esporte Clube|Goiás]]
+|paíslocal = BRA
+|resultado = 1:0''' (1:0)
+|visita = [[Club Sport Emelec|Emelec]]
+|paísvisita = ECU
+|refe = {{árbitro|COL|Wilmar Roldán}}
+|fecha = 15 de octubre de 2014, 22:00 ([[UTC-3]]) 
+|estadio = [[Estadio Serra Dourada]]
+|ciudad = [[Goiânia]]
+|asistencia = 42 790
+|goleslocal = [[Erik Lima|E. Lima]] {{gol|19}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200450&lang=es_LA
+| penaltis1 = [[Thiago Mendes|Mendes]] {{pengol}} <br> [[Lucas Pedro Alves de Lima|L. Lima]] {{pengol}} <br> [[Bruno Mineiro]] {{penfallo}} <br> [[Jackson de Souza|Souza]] {{pengol}} <br> [[Erik Lima|E. Lima]] {{pengol}} <br> [[Rubens Raimundo da Silva|Esquerdinha]] {{pengol}} <br> [[Pedro Henrique Pereira da Silva|Pedro Henrique]] {{penfallo}}
+| resultado penalti = 5:6
+| penaltis2 = {{pengol}} [[Miller Bolaños|Bolaños]] <br> {{penfallo}} [[Ángel Mena|Mena]] <br> {{pengol}} [[Marcos Mondaini|Mondaini]] <br> {{pengol}} [[Óscar Bagüi|Bagüi]] <br> {{pengol}} [[José Luis Quiñónez|Quiñonez]] <br> {{pengol}} [[Fernando Gaibor|Gaibor]] <br> {{pengol}} [[Fernando Giménez|Giménez]] 
+}}
+<br>
+{{Partido	
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 0:1''' (0:1)
+|visita = [[Club Deportivo Capiatá|Deportivo Capiatá]]
+|paísvisita = PAR
+|refe = {{árbitro|BRA|Sandro Ricci}} 
+|fecha = 15 de octubre de 2014, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 39 423
+|goleslocal = 
+|golesvisita = [[Lisandro Magallán|Magallán]] {{gol|43|a.g.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200459&lang=es_LA
+}}
+{{Partido
+|local = [[Deportivo Capiatá]]
+|paíslocal = PAR
+|resultado = 0:1''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|refe = {{árbitro|COL|Wilmar Roldán}}
+|fecha = 23 de octubre de 2014, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Feliciano Cáceres]]
+|ciudad = [[Luque (Paraguay)|Luque]]
+|asistencia = 15 651
+|goleslocal = 
+|golesvisita = [[Jonathan Calleri|Calleri]] {{gol|73}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200451&lang=es_LA
+|penaltis1 = [[Fabio Escobar|Escobar]] {{pengol}} <br> [[Néstor González|González]] {{pengol}} <br> [[Blas Irala|Irala]] {{penfallo}} <br> [[Julio Irrazábal|Irrazábal]] {{penfallo}} <br> [[Ángel Martínez Rotela|Martínez]] {{pengol}} <br> [[Arturo David Aquino|Aquino]] {{penfallo}}
+|resultado penalti = 3:4
+|penaltis2 = {{pengol}} [[Emmanuel Gigliotti|Gigliotti]] <br> {{penfallo}} [[Claudio Daniel Pérez|Pérez]] <br> {{pengol}} [[Fernando Gago|Gago]] <br> {{penfallo}} [[Nicolás Colazo|Colazo]] <br> {{pengol}} [[Andrés Chávez|Chávez]] <br> {{pengol}} [[Agustín Orion|Orion]]
+}}
+<br>
+{{Partido
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal = PAR
+|resultado = 2:1''' (0:0)
+|visita = [[Club Atlético Lanús|Lanús]]
+|paísvisita = ARG
+|refe = {{árbitro|URU|Darío Ubríaco}} 
+|fecha = 14 de octubre de 2014, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = 25 000
+|goleslocal = [[Óscar Romero Villamayor|Romero]] {{gol|61||63}}
+|golesvisita = [[Santiago Silva|Silva]] {{gol|72}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200452&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético Lanús|Lanús]]
+|paíslocal = ARG
+|resultado = 1:1''' (1:1)
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita = PAR
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 21 de octubre de 2014, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Ciudad de Lanús - Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+|ciudad = [[Lanús]]
+|asistencia = 19 545
+|goleslocal = [[Diego Braghieri|Braghieri]] {{gol|38}}
+|golesvisita = [[Óscar Romero Villamayor|Romero]] {{gol|1}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200460&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Libertad|Libertad]]
+|paíslocal = PAR
+|resultado = 1:3''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|PER|Víctor Hugo Carrillo|Víctor Carrillo}}
+|fecha = 16 de octubre de 2014, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Dr. Nicolás Leoz]]
+|ciudad = [[Asunción]]
+|asistencia = 10 000
+|goleslocal = [[Claudio Vargas|Vargas]] {{gol|45}}
+|golesvisita = [[Carlos Andrés Sánchez|Sánchez]] {{gol|60}} <br> [[Sebastián Driussi|Driussi]] {{gol|71}} <br> [[Giovanni Simeone|Simeone]] {{gol|75}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200462&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Club Libertad|Libertad]]
+|paísvisita = PAR
+|refe = {{árbitro|COL|Hernando Buitrago|José Buitrago}}
+|fecha = 22 de octubre de 2014, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 50 809
+|goleslocal = [[Gabriel Mercado|Mercado]] {{gol|41}} <br> [[Giovanni Simeone|Simeone]] {{gol|90+1}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200454&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal = ARG
+|resultado = 2:1''' (1:0)
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita = URU
+|refe = {{árbitro|CHI|Enrique Osses}}
+|fecha = 14 de octubre de 2014, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Ciudad de La Plata]]
+|ciudad = [[La Plata]]
+|asistencia = 35 155
+|goleslocal = [[Joaquín Correa|Correa]] {{gol|11}} <br> [[Guido Carrillo|Carrillo]] {{gol|90+4|pen.}}
+|golesvisita = [[Fabián Estoyanoff|Estoyanoff]] {{gol|64}} ([[Tiro libre (fútbol)|TL]])
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200461&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal = URU
+|resultado = 2:1''' (2:0)
+|visita = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paísvisita = ARG
+|refe = {{árbitro|BRA|Leandro Pedro Vuaden}}
+|fecha = 22 de octubre de 2014, 19:00 ([[UTC-3]])
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|asistencia = 35 009
+|goleslocal = [[Gonzalo Viera|Viera]] {{gol|22}} <br> [[Jonathan Javier Rodríguez|J. Rodríguez]] {{gol|45+3}}
+|golesvisita = [[Guido Carrillo|Carrillo]] {{gol|71}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200453&lang=es_LA
+|penaltis1 = [[Sergio Órteman|Órteman]] {{pengol}} <br> [[Carlos Rodrigo Núñez|Núñez]] {{penfallo}} <br> [[Fabián Estoyanoff|Estoyanoff]] {{penfallo}} <br> [[Jorge Marcelo Rodríguez|Rodríguez Núñez]] {{penfallo}}
+|resultado penalti = 1:3
+|penaltis2 = {{pengol}} [[Ezequiel Cerutti|Cerutti]] <br> {{pengol}} [[Guido Carrillo|Carrillo]] <br> {{penfallo}} [[Israel Damonte|Damonte]] <br> {{pengol}} [[Mauricio Rosales|Rosales]]
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2014|l1=Cuartos de final de la Copa Sudamericana 2014}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 1:0''' (0:0)
+|visita = [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|paísvisita = PER
+|refe = {{árbitro|BRA|Héber Lopes}}
+|fecha = 29 de octubre de 2014, 20:30 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|ciudad = [[Medellín]]
+|asistencia = 42 548
+|goleslocal = [[Alejandro Bernal|Bernal]] {{gol|56}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200467&lang=es_LA
+}}
+{{Partido
+|local = [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|paíslocal = PER
+|resultado = 0:1''' (0:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|refe = {{árbitro|ARG|Mauro Vigliano}}
+|fecha = 5 de noviembre de 2014, 21:30 ([[UTC-5]])
+|estadio = [[Estadio Mansiche]]
+|ciudad = [[Trujillo (Perú)|Trujillo]]
+|asistencia = 19 025
+|goleslocal =
+|golesvisita = [[Edwin Cardona|Cardona]] {{gol|80}}  
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200463&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 4:2''' (3:0)
+|visita = [[Club Sport Emelec|Emelec]]
+|paísvisita = ECU
+|refe = {{árbitro|PAR|Enrique Cáceres Villafante|Enrique Cáceres}}
+|fecha = 30 de octubre de 2014, 20:15 ([[UTC-2]]) 
+|estadio = [[Estadio Morumbi]] 
+|ciudad = [[São Paulo]]
+|asistencia = 55 743
+|goleslocal = [[Michel Bastos|Bastos]] {{gol|11}} <br> [[Hudson Rodrigues dos Santos|Hudson]] {{gol|35}} <br> [[Alan Kardec|Kardec]] {{gol|44}} <br> [[Antônio Carlos dos Santos Aguiar|Antônio Carlos]] {{gol|69}}
+|golesvisita = [[Miller Bolaños|Bolaños]] {{gol|47}} <br> [[Ángel Mena|Mena]] {{gol|54}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200468&lang=es_LA
+}}
+{{Partido
+|local = [[Club Sport Emelec|Emelec]]
+|paíslocal = ECU
+|resultado = 3:2''' (1:2)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|refe = {{árbitro|CHI|Enrique Osses}}
+|fecha =5 de noviembre de 2014, 19:00 ([[UTC-5]])
+|estadio = [[Estadio George Capwell]] 
+|ciudad = [[Guayaquil]] 
+|asistencia = 32 905
+|goleslocal = [[Miller Bolaños|Bolaños]] {{gol|1||48|pen.|52|pen.}}
+|golesvisita = [[Alan Kardec|Kardec]] {{gol|28}} <br> [[Paulo Henrique Ganso|Ganso]] {{gol|39}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200464&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 1:0''' (0:0)
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita = PAR
+|refe = {{árbitro|PER|Víctor Hugo Carrillo|Víctor Carrillo}}
+|fecha = 30 de octubre de 2014, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 45 000
+|goleslocal = [[Emmanuel Gigliotti|Gigliotti]] {{gol|82}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200465&lang=es_LA
+}}
+{{Partido
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal = PAR
+|resultado = 1:4''' (1:1)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|fecha = 6 de noviembre de 2014, 19:00 ([[UTC-3]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = 32 018
+|goleslocal = [[Dani Güiza|Güiza]] {{gol|27}}
+|golesvisita = [[Jonathan Calleri|Calleri]] {{gol|9}} <br> [[Andrés Chávez|Chávez]] {{gol|66||85}} <br> [[Emmanuel Gigliotti|Gigliotti]] {{gol|73}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200469&lang=es_LA
+}}
+<br>
+{{Partido
+|local =[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal = ARG
+|resultado = 1:2''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Diego Abal}}
+|fecha = 29 de octubre de 2014, 20:15 ([[UTC-3]])
+|estadio =[[Estadio Ciudad de La Plata]]
+|ciudad =[[La Plata]] 
+|asistencia = 40 202
+|goleslocal = [[Diego Vera|Vera]] {{gol|45+1}}
+|golesvisita = [[Rodrigo Mora|Mora]] {{gol|52}} <br> [[Jonathan Schunke|Schunke]] {{gol|71|a.g.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200466&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 3:2''' (1:1)
+|visita = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Néstor Pitana}}
+|fecha = 6 de noviembre de 2014, 21:30 ([[UTC-3]])
+|estadio =[[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad =[[Buenos Aires]]
+|asistencia = 59 677
+|goleslocal = [[Teófilo Gutiérrez|Gutiérrez]] {{gol|3}} <br> [[Rodrigo Mora|Mora]] {{gol|61}} <br> [[Ramiro Funes Mori|Funes Mori]] {{gol|63}}
+|golesvisita = [[Diego Vera|Vera]] {{gol|42}} <br> [[Guido Carrillo|Carrillo]] {{gol|51|pen.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200470&lang=es_LA
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2014|l1=Semifinales de la Copa Sudamericana 2014}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 1:0''' (1:0)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|refe = {{árbitro|URU|Daniel Fedorczuk}}
+|fecha = 19 de noviembre de 2014, 19:00 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|ciudad = [[Medellín]]
+|asistencia = 47 977
+|goleslocal = [[Luis Carlos Ruiz|Ruiz]] {{gol|34}} 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200472&lang=es_LA
+}}
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 26 de noviembre de 2014, 22:00 ([[UTC-2]])
+|estadio = [[Estadio Morumbi]]
+|ciudad = [[São Paulo]]
+|asistencia = 63 548
+|goleslocal = [[Paulo Henrique Ganso|Ganso]] {{gol|53}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200471&lang=es_LA
+|penaltis1 = [[Alan Kardec|Kardec]] {{penfallo|desviado}} <br> [[Rogério Ceni]] {{pengol}} <br> [[Rafael Tolói|Tolói]] {{penfallo|atajado}}
+|resultado penalti = 1:4
+|penaltis2 = {{pengol}} [[Daniel Bocanegra|Bocanegra]] <br> {{pengol}} [[Juan David Valencia|Valencia]] <br> {{pengol}} [[Edwin Cardona|Cardona]] <br> {{pengol}} [[Luis Carlos Ruiz|Ruiz]]
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = [[Superclásico del fútbol argentino|0:0]]
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Silvio Trucco}}
+|fecha = 20 de noviembre de 2014, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 48 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200473&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = [[Superclásico del fútbol argentino|1:0]]''' (1:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Germán Delfino}}
+|fecha = 27 de noviembre de 2014, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 65 950
+|goleslocal = [[Leonardo Pisculichi|Pisculichi]] {{gol|16}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200474&lang=es_LA
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2014|l1=Final de la Copa Sudamericana 2014}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 1:1''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|BRA|Ricardo Marques Ribeiro}}
+|fecha = 3 de diciembre de 2014, 19:15 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|ciudad = [[Medellín]]
+|asistencia = 49&nbsp;000
+|goleslocal = [[Orlando Berrío|Berrío]] {{gol|34}} 
+|golesvisita = [[Leonardo Pisculichi|Pisculichi]] {{gol|65}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200475&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 2:0''' (0:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|refe = {{árbitro|URU|Darío Ubríaco}}
+|fecha = 10 de diciembre de 2014, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 75&nbsp;000
+|goleslocal = [[Gabriel Mercado|Mercado]] {{gol|54}}<br>[[Germán Pezzella|Pezzella]] {{gol|58}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.200476&lang=es_LA
+}}
+<div style="clear: both;"><br/></div>
+{{Campeón
+|equipo = [[Club Atlético River Plate|River Plate]]
+|bandera = Argentina
+|orden = 1
+|invicto = si
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="60%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#D0E7FF
+|{{bandera|CHI}} '''[[Andrés Vilches]]
+|{{bandera|CHI}} '''[[Club Deportivo Huachipato|Huachipato]]'''
+|align=center|'''5'''
+|align=center|'''6'''
+|- bgcolor= #D0E7FF
+|{{bandera|ECU}} '''[[Miler Bolaños]]
+|{{bandera|ECU}} '''[[Club Sport Emelec|Emelec]]'''
+|align=center|'''5'''
+|align=center|'''8'''
+|-
+|{{bandera|PAR}} [[Fabio Escobar]]
+|{{bandera|PAR}} [[Deportivo Capiatá]]
+|align=center|4
+|align=center|6
+|-
+|{{bandera|URU}} [[Rodrigo Mora]]
+|{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|align=center|4
+|align=center|8
+|-
+|{{bandera|ARG}} [[Andrés Chávez]]
+|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|align=center|4
+|align=center|8
+|-
+|{{bandera|PER}} [[Andy Pando]]
+|{{bandera|PER}} [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|align=center|4
+|align=center|8
+|-
+|{{bandera|PAR}} [[Óscar Romero Villamayor|Óscar Romero]]
+|{{bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]
+|align=center|4
+|align=center|8
+|}
+<center><small>'''Fuente:''' [https://web.archive.org/web/20141006091236/https://www.copatotalsudamericana.com/goleadores Página oficial del Torneo]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="60%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#D0E7FF
+|{{bandera|Argentina}} '''[[Leonardo Pisculichi]]'''
+|{{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+|align=center|'''6'''
+|align=center|'''9'''
+|-
+|{{bandera|Paraguay}} [[Diego Doldán]]
+|{{bandera|Paraguay}} [[Club General Díaz|General Díaz]]
+|align=center|3
+|align=center|3
+|-
+|{{bandera|Uruguay}} [[Antonio Pacheco D'Agosti|Antonio Pacheco]]
+|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+|align=center|3
+|align=center|5
+|-
+|{{bandera|ARG}} [[Fernando Gago]]
+|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|align=center|3
+|align=center|6
+|-
+|{{bandera|ARG}} [[Andrés Chávez]]
+|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|align=center|3
+|align=center|8
+|-
+|{{bandera|Colombia}} [[Donald Millán]]
+|{{bandera|Perú}} [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|align=center|3
+|align=center|8
+|-
+|{{bandera|Perú}} [[Daniel Chávez Castillo|Daniel Chávez]]
+|{{bandera|Perú}} [[Universidad César Vallejo Club de Fútbol|Universidad César Vallejo]]
+|align=center|3
+|align=center|8
+|-
+|{{bandera|Ecuador}} [[Pedro Quiñónez]]
+|{{bandera|Ecuador}} [[Club Sport Emelec|Emelec]]
+|align=center|3
+|align=center|8
+|-
+|{{bandera|Ecuador}} [[Ángel Mena]]
+|{{bandera|Ecuador}} [[Club Sport Emelec|Emelec]]
+|align=center|3
+|align=center|8
+|}
+<center><small>'''Fuente:''' [https://web.archive.org/web/20150217154525/http://www.pasionlibertadores.com/seccion/estadisticas Pasión Libertadores]</small></center>
+
+== Véase también ==
+* [[Copa Libertadores 2014]]
+* [[Recopa Sudamericana 2015]]
+* [[Copa Suruga Bank 2015]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com Sitio web] de [[Conmebol]].
+* [http://www.conmebol.com/es/copa-sudamericana Copa Sudamericana] en la página web oficial de [[Conmebol]].
+* [http://www.worldfootball.net/attendance/copa-sudamericana-2014/1/ Espectadores de la Copa Sudamericana 2014]
+* {{Facebook|CopaSudamericanaConmebol|Copa Sudamericana}} por [[Conmebol]].
+* {{Twitter|SudamericanaCSF|Copa Sudamericana}} por [[Conmebol]].
+* [https://web.archive.org/web/20140601001359/http://www.copatotalsudamericana.com/ Página web de la Copa Total Sudamericana] por [[Total S.A.]].
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2013|2013]]
+| título     = Copa Sudamericana 2014
+| período    = XIII edición
+| sucesor    = [[Copa Sudamericana 2015|2015]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana|2014]]
+[[Categoría:Copa Sudamericana 2014]]
+[[Categoría:Fútbol en 2014]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

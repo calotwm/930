@@ -1,0 +1,976 @@
+{{Ficha de competición deportiva
+| nombre_original = 
+| deporte = fútbol
+| tipo = 
+| imagen = Estadio Pedro Bidegain.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Pedro Bidegain|estadio Nuevo Gasómetro]] ([[Buenos Aires]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2002|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 9 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|28|8|2002}}<br>{{fecha2|11|12|2002}}
+| edición = I
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|COL}} [[Atlético Nacional]]
+| semifinalistas = {{bandera|BOL}} [[Club Bolívar|Bolívar]] <br> {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| partidos = 40
+| goles = 98 (2,45 por partido)
+| goleadores = {{bandera|ARG}} [[Rodrigo Astudillo]] (4 goles)<br><small>([[Club Atlético San Lorenzo de Almagro|San Lorenzo]])</small><br>{{bandera|BOL}} [[Gonzalo Galindo]] (4 goles)<br><small>([[Club Bolívar|Bolívar]])</small><br>{{bandera|CMR}} [[Pierre Webó]] (4 goles)<br><small>([[Club Nacional de Football|Nacional]])</small>
+| anterior = [[Copa Conmebol 1999]]<br>[[Copa Merconorte 2001]]<br>[[Copa Mercosur 2001]]
+| actual = Copa Sudamericana 2002
+| siguiente = [[Copa Sudamericana 2003]]
+}}
+La '''[[Copa Sudamericana]] 2002''' fue la primera edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]]. La competición se forjó tras la desaparición de las Copas [[Copa Merconorte|Merconorte]] y [[Copa Mercosur|Mercosur]], siendo usualmente considerada como la unión de ambas. Participaron veintiún equipos de nueve países: [[Argentina]], [[Bolivia]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. Los clubes de [[Brasil]] no participaron por la tardía organización del torneo, lo que ocasionó que no tuvieran lugar en el calendario del segundo semestre.
+
+El campeón fue el club argentino [[Club Atlético San Lorenzo de Almagro|San Lorenzo]], que venció en la final a [[Atlético Nacional]] de Colombia. El triunfo por 4-0 logrado en el partido de ida en [[Medellín]] es la mayor victoria de un equipo visitante en una final de cualquier competición organizada por Conmebol. Gracias al título, obtuvo el derecho de disputar la [[Recopa Sudamericana 2003]] frente a [[Club Olimpia|Olimpia]], campeón de la [[Copa Libertadores 2002]]. Clasificó, además, a la [[Copa Sudamericana 2003]].
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. Contó con una Ronda preliminar, en la que participaron 10 equipos, de los cuales 5 obtuvieron el pase a la Primera ronda, a la cual ya estaban clasificados los 11 cuadros restantes. En dicha instancia, se establecieron los cruces de acuerdo a las ubicaciones geográficas de los equipos, razón por la cual varias llaves quedaron conformadas por dos de una misma asociación nacional. Los ganadores fueron avanzando, paulatinamente, a los cuartos de final, las semifinales y la final, en la que se declaró al campeón. En caso de igualdad de puntos y diferencia de goles al finalizar ambos encuentros, en cualquiera de las fases, se ejecutaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Ronda preliminar
+(10 equipos)
+|
+* 2 equipos de Bolivia, Ecuador, Paraguay, Perú y Venezuela
+|
+|-
+! colspan="2" |Primera ronda
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Mercosur 2001
+* 4 equipos de Argentina
+* 2 equipos de Chile, Colombia y Uruguay
+|
+* 5 equipos clasificados de la Ronda preliminar
+|-
+! colspan="2" |Cuartos de final
+(8 equipos)
+|
+|
+* 8 equipos clasificados de la Primera ronda
+|}
+
+== Distribución de los cupos ==
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Primera fase
+! Ronda preliminar
+|-
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''4'''
+| –
+| 4 
+| –
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+| –
+| 2
+| –
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|ECU|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{Bandera|PAR|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|VEN|1954}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |Fase anterior
+| –
+| 8
+| 5
+| –
+|-
+| align="left" |Campeón de la [[Copa Mercosur 2001]]
+|'''1'''
+| –
+| 1
+| –
+|-
+!Total
+!21
+!8
+!16
+!10
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="90%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="20%" |Equipo
+! width="70%" |Vía de clasificación
+|-
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br>2 cupos<br>''+ 2 invitados''<br>''+ campeón Copa Mercosur''
+|''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>[[Racing Club]]<br>[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]<br>[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético River Plate|River Plate]]''
+|Campeón de la [[Copa Mercosur 2001]]<br>2.º equipo ubicado en la [[Campeonato de Primera División 2001-02 (Argentina)#Clasificación a la Copa Sudamericana 2002|tabla de posiciones del Campeonato de Primera División 2001-02]]<br>4.º equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2001-02<br>''Invitado'' y 3.º equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2001-02<br>''Invitado'' y 1.º equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2001-02
+|- bgcolor=#D0E7FF
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br>2 cupos
+| ''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]<br>[[Club Bolívar|Bolívar]]''
+|Campeón del [[Campeonato de Primera División 2001 (Bolivia)|Campeonato de Primera División 2001]] <br>Subcampeón del Campeonato de Primera División 2001
+|-
+|{{Bandera|CHI}}'''[[Federación de Fútbol de Chile|Chile]]'''<br>2 cupos
+| ''[[Club de Deportes Cobreloa|Cobreloa]]<br>[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]''
+|Ganador de la [[Liguilla Pre-Sudamericana 2002 (Chile)|Liguilla Pre-Sudamericana 2002]]<br>Ganador de la Liguilla Pre-Sudamericana 2002
+|- bgcolor=#D0E7FF
+|{{Bandera|COL}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br>2 cupos
+| ''[[América de Cali]]<br>[[Atlético Nacional]]''
+|Campeón del [[Torneo Apertura 2002 (Colombia)|Torneo Apertura 2002]]<br>Subcampeón del Torneo Apertura 2002
+|-
+|{{Bandera|ECU}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>2 cupos
+| ''[[Barcelona Sporting Club|Barcelona]]<br>[[Sociedad Deportiva Aucas|Aucas]]''
+|Ganador de la [[Campeonato Ecuatoriano de Fútbol 2002#Primera Etapa|primera etapa del Campeonato Ecuatoriano de 2002]]<br>2.º puesto de la primera etapa del Campeonato Ecuatoriano de 2002
+|- bgcolor=#D0E7FF
+|{{Bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>2 cupos
+|''[[Club Libertad|Libertad]]<br>[[Club Cerro Porteño|Cerro Porteño]]''
+|Campeón del [[Campeonato Paraguayo de Fútbol 2002#Torneo Apertura 2002|Torneo Apertura 2002]]<br>Subcampeón del Torneo Apertura 2002
+|-
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br>2 cupos
+| ''[[Club Universitario de Deportes|Universitario]]<br>[[Club Alianza Lima|Alianza Lima]]''
+|Campeón del [[Campeonato Descentralizado 2002#Torneo Apertura|Torneo Apertura 2002]]<br>Subcampeón del Torneo Apertura 2002
+|- bgcolor=#D0E7FF
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>2 cupos
+| ''[[Club Nacional de Football|Nacional]]<br>[[Danubio Fútbol Club|Danubio]]''
+|Campeón del [[Campeonato Uruguayo de Primera División 2001|Campeonato Uruguayo de 2001]]<br>Subcampeón del Campeonato Uruguayo de 2001
+|-
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br>2 cupos
+|''[[Monagas Sport Club|Monagas]]<br>[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]''
+|Mejor equipo ubicado en la [[Primera División Venezolana 2001-02#Acumulada|tabla acumulada de la Primera División Venezolana 2001-02]] no participante de la Copa Libertadores 2003<br>2.º mejor equipo ubicado en la tabla acumulada de la Primera División Venezolana 2001-02 no participante de la Copa Libertadores 2003
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Sudamericana 2002'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos de Buenos Aires:}}'''<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Racing Club|{{Esd|Racing Club}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95}}
+{{Location map~|América del Sur|lat=-34.933333|long=-69|label=<small>[[Club de Gimnasia y Esgrima La Plata|{{Esd|Gimnasia y Esgrima La Plata}}]]</small>|mark=TransparentPlaceholder.png |position=bottom}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-22.466667|long=-68.916667|label=<small>[[Club de Deportes Cobreloa|Cobreloa]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.045944|long=-71.616361|label=<small>[[Club de Deportes Santiago Wanderers|{{Esd|Santiago Wanderers}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Sociedad Deportiva Aucas|Aucas]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Libertad|Libertad]]</small>|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Universitario de Deportes|Universitario]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Danubio Fútbol Club|Danubio]]<br>[[Club Nacional de Football|Nacional]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=9.74569|long=-63.18323|label=<small>[[Monagas Sport Club|Monagas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.768172|long=-72.232242|label=<small>[[Deportivo Táchira Fútbol Club|{{Esd|Deportivo Táchira}}]]</small>|position=right}}
+}}
+
+== Ronda preliminar ==
+{{AP|Anexo:Ronda preliminar de la Copa Sudamericana 2002|l1=Ronda preliminar de la Copa Sudamericana 2002}}
+
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align=center
+|3 y 12 de septiembre
+| align="right" |'''[[Club Bolívar|Bolívar]]''' {{bandera|Bolivia}}
+| align="2" | '''4:3'''
+| align="left" |{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|4:2
+|0:1
+!Ganador Bolivia
+
+|- align=center
+|29 de agosto y 12 de septiembre
+| align="right" |[[Sociedad Deportiva Aucas|Aucas]] {{bandera|Ecuador|1900}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Ecuador|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|1:2
+|0:1
+!Ganador Ecuador
+
+|- align=center
+|3 y 10 de septiembre
+| align="right" |[[Club Cerro Porteño|Cerro Porteño]] {{bandera|Paraguay|1990}}
+| align="2" | '''0:3'''
+| align="left" |{{bandera|Paraguay|1990}} '''[[Club Libertad|Libertad]]'''
+|0:2
+|0:1
+!Ganador Paraguay
+
+|- align=center
+|4 y 11 de septiembre
+| align="right" |'''[[Club Alianza Lima|Alianza Lima]]''' {{bandera|Perú}}
+| align="2" | '''2:0'''
+| align="left" |{{bandera|Perú}} [[Club Universitario de Deportes|Universitario]]
+|1:0
+|1:0
+!Ganador Perú
+
+|- align=center
+|28 de agosto y 6 de septiembre
+| align="right" |[[Deportivo Táchira Fútbol Club|Deportivo Táchira]] {{bandera|Venezuela|1954}}
+| align="2" | '''0:5'''
+| align="left" |{{bandera|Venezuela|1954}} '''[[Monagas Sport Club|Monagas]]'''
+|0:2
+|0:3
+!Ganador Venezuela
+
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!-- ATENCIÓN: Las denominaciones de cada ronda están tomadas de acuerdo a la página de Conmebol. Por favor, ¡no modificar! ¡Gracias! -->
+
+<!-- Octavos de Final -->
+| RD1= [[Anexo:Primera ronda de la Copa Sudamericana 2002|Octavos de final]]
+| RD1-date= 3 al 26 de septiembre
+
+| RD1-team1 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-team2 = {{bandera|Argentina}} '''[[Racing Club]]'''
+| RD1-score1-1 = 0
+| RD1-score2-1 = 1
+| RD1-score1-2 = 0
+| RD1-score2-2 = 0 
+| RD1-score1-3 = '''0'''
+| RD1-score2-3 = '''1'''
+
+| RD1-team3 = {{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD1-team4 = {{bandera|Venezuela|1954}} [[Monagas Sport Club|Monagas]]
+| RD1-score3-1 = 3
+| RD1-score4-1 = 0
+| RD1-score3-2 = 5
+| RD1-score4-2 = 1
+| RD1-score3-3 = '''8'''
+| RD1-score4-3 = '''1'''
+
+| RD1-team5 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD1-team6 ={{nowrap|{{bandera|Argentina}} '''[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]'''}}
+| RD1-score5-1 = 1
+| RD1-score6-1 = 3
+| RD1-score5-2 = 0
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''1'''
+| RD1-score6-3 = '''3'''
+
+| RD1-team7 = {{bandera|Paraguay|1990}} [[Club Libertad|Libertad]]
+| RD1-team8 = {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-score7-1 = 0
+| RD1-score8-1 = 2
+| RD1-score7-2 = 1
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''1'''
+| RD1-score8-3 = '''3'''
+
+| RD1-team9 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+| RD1-team10 = {{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+| RD1-score9-1 = 1
+| RD1-score10-1 = 1
+| RD1-score9-2 = 2
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''1'''
+
+| RD1-team11 = {{bandera|Perú}} '''[[Club Alianza Lima|Alianza Lima]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team12 = {{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+| RD1-score11-1 = 0
+| RD1-score12-1 = 1
+| RD1-score11-2 = 2
+| RD1-score12-2 = 1
+| RD1-score11-3 = '''2&nbsp;{{small|(6)}}'''
+| RD1-score12-3 = '''2&nbsp;{{small|(5)}}'''
+
+| RD1-team13 = {{bandera|Chile}} '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+| RD1-team14 = {{bandera|Chile}} [[Club de Deportes Cobreloa|Cobreloa]]
+| RD1-score13-1 = 1
+| RD1-score14-1 = 0
+| RD1-score13-2 = 3
+| RD1-score14-2 = 2
+| RD1-score13-3 = '''4'''
+| RD1-score14-3 = '''2'''
+
+| RD1-team15 = {{bandera|Colombia}} [[América de Cali]]
+| RD1-team16 = {{bandera|Colombia}} '''[[Atlético Nacional]]'''
+| RD1-score15-1 = 0
+| RD1-score16-1 = 1
+| RD1-score15-2 = 1
+| RD1-score16-2 = 2
+| RD1-score15-3 = '''1'''
+| RD1-score16-3 = '''3'''
+
+<!-- Cuartos de Final -->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2002|Cuartos de final]]
+| RD2-date= 1 al 30 de octubre
+
+| RD2-team1 = {{bandera|Argentina}} [[Racing Club]]
+| RD2-team2 = {{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD2-score1-1 = 1
+| RD2-score2-1 = 3
+| RD2-score1-2 = 2
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''3&nbsp;{{small|(3)}}'''
+| RD2-score2-3 = '''3&nbsp;{{small|(4)}}'''
+
+| RD2-team3 = {{bandera|Argentina}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]
+| RD2-team4 = {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| RD2-score3-1 = 1
+| RD2-score4-1 = 4
+| RD2-score3-2 = 2
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''3'''
+| RD2-score4-3 = '''4'''
+
+| RD2-team5 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+| RD2-team6 = {{bandera|Perú}} [[Club Alianza Lima|Alianza Lima]]
+| RD2-score5-1 = 0
+| RD2-score6-1 = 1
+| RD2-score5-2 = 3
+| RD2-score6-2 = 1
+| RD2-score5-3 = '''3'''
+| RD2-score6-3 = '''2'''
+
+| RD2-team7 = {{bandera|Chile}} [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+| RD2-team8 = {{bandera|Colombia}} '''[[Atlético Nacional]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD2-score7-1 = 1
+| RD2-score8-1 = 2
+| RD2-score7-2 = 1
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''2&nbsp;{{small|(5)}}'''
+| RD2-score8-3 = '''2&nbsp;{{small|(6)}}'''
+
+<!--Semifinales-->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2002|Semifinales]]
+| RD3-date= 5 al 11 de noviembre
+
+| RD3-team1 = {{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD3-team2 = {{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+| RD3-score1-1 = 1
+| RD3-score2-1 = 2
+| RD3-score1-2 = 4
+| RD3-score2-2 = 2
+| RD3-score1-3 = '''5'''
+| RD3-score2-3 = '''4'''
+
+| RD3-team3 = {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+| RD3-team4 = {{bandera|Colombia}} '''[[Atlético Nacional]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-score3-1 = 1
+| RD3-score4-1 = 2
+| RD3-score3-2 = 2
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''3&nbsp;{{small|(3)}}'''
+| RD3-score4-3 = '''3&nbsp;{{small|(5)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2002|Final]]
+| RD4-date= 27 de noviembre y 11 de diciembre
+
+| RD4-team1 = {{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD4-team2 = {{bandera|Colombia}} [[Atlético Nacional]]
+| RD4-score1-1 = 4
+| RD4-score2-1 = 0
+| RD4-score1-2 = 0
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''4'''
+| RD4-score2-3 = '''0'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Primera ronda ===
+{{AP|Anexo:Primera ronda de la Copa Sudamericana 2002|l1=Primera ronda de la Copa Sudamericana 2002}}
+{{Partido
+|local = [[Racing Club]]
+|paíslocal = ARG
+|resultado = 1:0''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|fecha = 4 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio José Amalfitani]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 
+|goleslocal = [[Maximiliano Estévez|Estévez]] {{gol|34|pen.}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Racing Club]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Horacio Elizondo}}
+|fecha = 25 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Monagas Sport Club|Monagas]]
+|paíslocal = VEN
+|etpaíslocal = 1954
+|resultado = 0:3''' (0:0)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|refe = {{árbitro|ECU|var=1900|José Carpio}}
+|fecha = 19 de septiembre de 2002, 21:30 ([[UTC-4]])
+|estadio = [[Estadio Cachamay]]
+|ciudad = [[Puerto Ordaz]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Carlos Daniel Cordone|Cordone]] {{gol|66}}<br>[[José Chatruc|Chatruc]] {{gol|77}}<br>[[Alberto Federico Acosta|Acosta]] {{gol|85}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 5:1''' (2:1)
+|visita = [[Monagas Sport Club|Monagas]]
+|paísvisita = VEN
+|etpaísvisita = 1954
+|refe = {{árbitro|URU|Fernando Cabrera (árbitro)|Fernando Cabrera}}
+|fecha = 26 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 
+|goleslocal = [[Rodrigo Astudillo|Astudillo]] {{gol|7}}<br>[[Gonzalo Javier Rodríguez|G. Rodríguez]] {{gol|27}}<br>[[Carlos Daniel Cordone|Cordone]] {{gol|47|pen.|59|pen.}}<br>[[Félix Benito|Benito]] {{gol|89}}
+|golesvisita = [[Alexander Flores Velasco|Flores]] {{gol|31}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paíslocal = ARG
+|resultado = 3:1''' (1:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Fabián Madorrán}}
+|fecha = 11 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Juan Carmelo Zerillo]]
+|ciudad = [[La Plata]]
+|asistencia = 
+|goleslocal = [[Jorge San Esteban|San Esteban]] {{gol|37}}<br>[[Claudio Enría|Enría]] {{gol|81|pen.|90}}
+|golesvisita = [[Rolando Schiavi|Schiavi]] {{gol|49}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Oscar Sequeira}}
+|fecha = 18 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Padre Ernesto Martearena]]
+|ciudad = [[Salta]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 2:0''' (0:0)
+|visita = [[Club Libertad|Libertad]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|refe = {{árbitro|CHI|Guido Aros}}
+|fecha = 19 de septiembre de 2002, 19:05 ([[UTC-4]])
+|estadio = [[Estadio Libertador Simón Bolívar]]
+|ciudad = [[La Paz]]
+|asistencia = 
+|goleslocal = [[Gonzalo Galindo|Galindo]] {{gol|53}}<br>[[Pedro Guiberguis|Guiberguis]] {{gol|58}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Libertad|Libertad]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 1:1''' (0:0)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|refe = {{árbitro|BRA|Paulo Cesar de Oliveira}}
+|fecha = 24 de septiembre de 2002, 20:05 ([[UTC-3]])
+|estadio = [[Estadio Dr. Nicolás Leoz]]
+|ciudad = [[Asunción]]
+|asistencia = 
+|goleslocal = [[Paulo César Da Silva|Da Silva]] {{gol|69}}
+|golesvisita = [[Joaquín Botero|Botero]] {{gol|90+2}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Danubio Fútbol Club|Danubio]]
+|paíslocal = URU
+|resultado = 1:1''' (1:1)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|refe = {{árbitro|URU|Fernando Cabrera (árbitro)|Fernando Cabrera}}
+|fecha = 5 de septiembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|asistencia = 
+|goleslocal = [[Claudio Biaggio|Biaggio]] {{gol|38}}
+|golesvisita = [[Pierre Webó|Webó]] {{gol|3}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 2:0''' (0:0)
+|visita = [[Danubio Fútbol Club|Danubio]]
+|paísvisita = URU
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|fecha = 17 de septiembre de 2002, 21:30 ([[UTC-3]])
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|asistencia = 
+|goleslocal = [[Richard Morales|R. Morales]] {{gol|52}}<br>[[Horacio Peralta|Peralta]] {{gol|88}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 1:0''' (0:0)
+|visita = [[Club Alianza Lima|Alianza Lima]]
+|paísvisita = PER
+|refe = {{árbitro|URU|Hebert Aguilera}}
+|fecha = 18 de septiembre de 2002, 21:30 ([[UTC-5]])
+|estadio = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad = [[Guayaquil]]
+|asistencia = 
+|goleslocal = [[Ángel Gabriel Escobar|Escobar]] {{gol|83}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Alianza Lima|Alianza Lima]]
+|paíslocal = PER
+|resultado = 2:1''' (1:0)
+|visita = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|refe = {{árbitro|VEN|var=1954|Edison Ibarra}}
+|fecha = 26 de septiembre de 2002, 21:30 ([[UTC-5]])
+|estadio = [[Estadio Alejandro Villanueva]]
+|ciudad = [[Lima]]
+|asistencia = 
+|goleslocal = [[Aldo Olcese|Olcese]] {{gol|35}}<br>[[Luis Alberto Romero (futbolista)|Romero]] {{gol|50}}
+|golesvisita = [[Hernán Biasotto|Biasotto]] {{gol|90+1}}
+|reporte = 
+|penaltis1 = [[José Soto Gómez|Soto]] {{pengol}}<br>[[Nelson Olveira|Olveira]] {{pengol}}<br>[[Luis Alberto Romero (futbolista)|Romero]] {{penfallo|atajado}}<br>[[Cristian García Gonzales|García]] {{pengol}}<br>[[Johan Fano|Fano]] {{pengol}}<br>[[Marko Ciurlizza|Ciurlizza]] {{pengol}}<br>[[Luis Hernández Díaz|Hernández]] {{pengol}}
+|resultado penalti = 6:5
+|penaltis2 = {{pengol}} [[Nicolás Asencio|Asencio]]<br>{{pengol}} [[Luis Gómez Cáceres|Gómez]]<br>{{penfallo|desviado}} [[Jimmy Blandón|Blandón]]<br>{{pengol}} [[Eudalio Arriaga|Arriaga]]<br>{{pengol}} [[Iván Hurtado|Hurtado]]<br>{{pengol}} [[Cristián Chaparro|Chaparro]]<br>{{penfallo|atajado}} [[Arlin Ayoví|Ayoví]]
+}}
+<br>
+{{Partido
+|local = [[Club de Deportes Cobreloa|Cobreloa]]
+|paíslocal = CHI
+|resultado = 0:1''' (0:1)
+|visita = [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|paísvisita = CHI
+|refe = {{árbitro|CHI|Néstor Mondría}}
+|fecha = 3 de septiembre de 2002, 21:15 ([[UTC-4]])
+|estadio = [[Estadio Regional Calvo y Bascuñán|Estadio Regional]]
+|ciudad = [[Antofagasta]]
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Fernando Martel|Martel]] {{gol|10}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|paíslocal = CHI
+|resultado = 3:2''' (0:2)
+|visita = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita = CHI
+|refe = {{árbitro|CHI|Eduardo Ponce}}
+|fecha = 24 de septiembre de 2002, 21:30 ([[UTC-4]])
+|estadio = [[Estadio Elías Figueroa Brander|Estadio Municipal]]
+|ciudad = [[Valparaíso]]
+|asistencia = 
+|goleslocal = [[Manuel Valencia|Valencia]] {{gol|72}}<br>[[Silvio Fernández Dos Santos|Fernández]] {{gol|75}}<br>[[Jaime Riveros|Riveros]] {{gol|80}}
+|golesvisita = [[Mauricio Pozo|Pozo]] {{gol|9}}<br>[[Mauricio Dinamarca|Dinamarca]] {{gol|41}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 1:0''' (0:0)
+|visita = [[América de Cali]]
+|paísvisita = COL
+|refe = {{árbitro|COL|Fernando Paneso}}
+|fecha = 10 de septiembre de 2002, 21:30 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|ciudad = [[Medellín]]
+|asistencia = 
+|goleslocal = [[Rafael Arlex Castillo|Castillo]] {{gol|75}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[América de Cali]]
+|paíslocal = COL
+|resultado = 1:2''' (1:1)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|refe = {{árbitro|COL|Felipe Russi}}
+|fecha = 25 de septiembre de 2002, 21:30 ([[UTC-5]])
+|estadio = [[Estadio Olímpico Pascual Guerrero]]
+|ciudad = [[Cali]]
+|asistencia = 
+|goleslocal = [[Julián Vásquez|Vásquez]] {{gol|41}}
+|golesvisita = [[Iván Velásquez|Velásquez]] {{gol|10||70}}
+|reporte = 
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2002|l1=Cuartos de final de la Copa Sudamericana 2002}}
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 3:1''' (0:1)
+|visita = [[Racing Club]]
+|paísvisita = ARG
+|fecha = 2 de octubre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|refe = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Aldo Paredes|Paredes]] {{gol|62}}<br>[[Alberto Federico Acosta|Acosta]] {{gol|70||80}}
+|golesvisita = [[Sixto Peralta|Peralta]] {{gol|37}}
+|reporte = 
+}}
+{{Partido
+|local = [[Racing Club]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|fecha = 23 de octubre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Presidente Perón]]
+|refe = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal = [[Nicolás Pavlovich|Pavlovich]] {{gol|36}}<br>[[Diego Milito|Milito]] {{gol|69}}
+|reporte = 
+|penaltis1 = [[Gerardo Bedoya|Bedoya]] {{penfallo}} <br> [[Diego Milito|Milito]] {{penfallo}} <br> [[Sixto Peralta|Peralta]] {{pengol}} <br> [[Carlos Arano|Arano]] {{pengol}} <br> [[Maximiliano Estévez|Estévez]] {{pengol}}
+|resultado penalti = 3:4
+|penaltis2 = {{pengol}} [[Alberto Federico Acosta|Acosta]] <br> {{pengol}} [[Claudio Morel Rodríguez|Morel Rodríguez]] <br> {{penfallo}} [[Nicolás Frutos|Frutos]] <br> {{pengol}} [[Leandro Romagnoli|Romagnoli]] <br> {{pengol}} [[Sebastián Saja|Saja]]
+}}
+<br>
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 4:1''' (3:1)
+|visita = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paísvisita = ARG
+|fecha = 9 de octubre de 2002, 20:10 ([[UTC-4]])
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|ECU|var=1900|José Carpio}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Rubén Tufiño|Tufiño]] {{gol|6||18}}<br>[[Gonzalo Galindo|Galindo]] {{gol|23}}<br>[[Iván Castillo|Castillo]] {{gol|70}}
+|golesvisita = [[Martín Pautasso|Pautasso]] {{gol|39}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paíslocal = ARG
+|resultado = 2:0''' (2:0)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|fecha = 30 de octubre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Juan Carmelo Zerillo]]
+|refe = {{árbitro|URU|Gustavo Gallesio}}
+|ciudad = [[La Plata]]
+|goleslocal = [[Víctor Javier Müller|Müller]] {{gol|12||31}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Club Alianza Lima|Alianza Lima]]
+|paíslocal = PER
+|resultado = 1:0''' (0:0)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 1 de octubre de 2002, 19:10 ([[UTC-5]])
+|estadio = [[Estadio Alejandro Villanueva]]
+|refe = {{árbitro|BOL|René Ortubé}}
+|ciudad = [[Lima]]
+|goleslocal = [[José Soto Gómez|Soto]] {{gol|90+1|pen.}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 3:1''' (0:1)
+|visita = [[Club Alianza Lima|Alianza Lima]]
+|paísvisita = PER
+|fecha = 22 de octubre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Centenario]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Pierre Webó|Webó]] {{gol|52||67}}<br>[[Richard Morales|R. Morales]] {{gol|62}}
+|golesvisita = [[Jefferson Farfán|Farfán]] {{gol|36}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 2:1''' (1:0)
+|visita = [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|paísvisita = CHI
+|fecha = 8 de octubre de 2002, 19:10 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|refe = {{árbitro|VEN|var=1954|Luis Solórzano}}
+|ciudad = [[Medellín]]
+|goleslocal = [[Rafael Arlex Castillo|Castillo]] {{gol|44}}<br>[[Martín Echeverría|Echeverría]] {{gol|82}}
+|golesvisita = [[Jaime Riveros|Riveros]] {{gol|74}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|paíslocal = CHI
+|resultado = 1:0''' (1:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|fecha = 29 de octubre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Elías Figueroa Brander|Estadio Municipal]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Valparaíso]]
+|goleslocal = [[Rodrigo Barra|Barra]] {{gol|16}}
+|reporte = 
+|penaltis1 = [[Silvio Fernández Dos Santos|Fernández]] {{pengol}} <br> [[Joel Soto|Soto]] {{pengol}} <br> [[Rodrigo Barra|Barra]] {{pengol}} <br> [[Manuel Valencia|Valencia]] {{pengol}} <br> [[Fernando Martel|Martel]] {{pengol}} <br> [[Moisés Villarroel|Villarroel]] {{penfallo}} <br> [[Emiliano Romay|Romay]] {{penfallo}}
+|resultado penalti = 5:6
+|penaltis2 = {{pengol}} [[Robinson Rentería|Rentería]] <br> {{pengol}} [[Juan Carlos Ramírez (futbolista)|Ramírez]] <br> {{pengol}} [[Samuel Vanegas|Vanegas]] <br> {{pengol}} [[Edigson Velásquez|Velásquez]] <br> {{pengol}} [[Óscar Restrepo|Restrepo]] <br> {{penfallo}} [[Martín Echeverría|Echeverría]] <br> {{pengol}} [[Elkin Calle|Calle]]
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2002|l1=Semifinales de la Copa Sudamericana 2002}}
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 2:1''' (0:1)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|fecha = 5 de noviembre de 2002, 20:10 ([[UTC-4]])
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Óscar Carmelo Sánchez|Sánchez]] {{gol|56}}<br>[[Miguel Mercado|Mercado]] {{gol|87}}
+|golesvisita = [[Rubén Tufiño|Tufiño]] {{gol|10|a.g.}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 4:2''' (3:2)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|fecha = 13 de noviembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[José Chatruc|Chatruc]] {{gol|7}}<br>[[Pablo Michelini|Michelini]] {{gol|9}}<br>[[Rodrigo Astudillo|Astudillo]] {{gol|21||80}}
+|golesvisita = [[Joaquín Botero|Botero]] {{gol|31}}<br>[[Gonzalo Galindo|Galindo]] {{gol|35}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 2:1''' (2:0)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 6 de noviembre de 2002, 19:10 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|refe = {{árbitro|PER|Gilberto Hidalgo}}
+|ciudad = [[Medellín]]
+|goleslocal = [[Martín Echeverría|Echeverría]] {{gol|7||25}}
+|golesvisita = [[Richard Morales|R. Morales]] {{gol|81}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 2:1''' (1:0)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|fecha = 12 de noviembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Centenario]]
+|refe = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Pierre Webó|Webó]] {{gol|18}}<br>[[Gustavo Méndez|Méndez]] {{gol|89}}
+|golesvisita = [[Néider Morantes|Morantes]] {{gol|79|pen.}}
+|reporte = 
+|penaltis1 = [[Richard Morales|R. Morales]] {{penfallo}} <br> [[Carlos Camejo|Camejo]] {{pengol}} <br> [[Horacio Peralta|Peralta]] {{pengol}} <br> [[Óscar Javier Morales|O. Morales]] {{pengol}}
+|resultado penalti = 3:5
+|penaltis2 = {{pengol}} [[Néider Morantes|Morantes]] <br> {{pengol}} [[Juan Carlos Ramírez (futbolista)|Ramírez]] <br> {{pengol}} [[Aquivaldo Mosquera|Mosquera]] <br> {{pengol}} [[Edigson Velásquez|Velásquez]] <br> {{pengol}} [[Freddy Grisales|Grisales]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2002|l1=Final de la Copa Sudamericana 2002}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 0:4''' (0:2)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|fecha = 27 de noviembre de 2002, 19:10 ([[UTC-5]])
+|estadio = [[Estadio Atanasio Girardot]]
+|refe = {{árbitro|BRA|Márcio Rezende}}
+|ciudad = [[Medellín]]
+|goleslocal = 
+|golesvisita = [[Sebastián Saja|Saja]] {{gol|2|pen.}}<br>[[Pablo Michelini|Michelini]] {{gol|25}}<br>[[Leandro Romagnoli|Romagnoli]] {{gol|52}}<br>[[Rodrigo Astudillo|Astudillo]] {{gol|67}}
+|reporte = 
+|asistencia=52 250}}
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|fecha = 11 de diciembre de 2002, 21:10 ([[UTC-3]])
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|refe = {{árbitro|PAR|var=1990|Epifanio González}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+|asistencia=50 779}}
+<br/>{{Campeón
+|equipo = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|bandera = Argentina
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=D0E7FF
+| {{bandera|ARG}} '''[[Rodrigo Astudillo]]'''
+| {{bandera|ARG}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| align=center|'''4'''
+|- bgcolor="D0E7FF"
+| {{bandera|BOL}} '''[[Gonzalo Galindo]]'''
+| {{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| align=center|'''4'''
+|- bgcolor=D0E7FF
+| {{bandera|CMR}} '''[[Pierre Webó]]'''
+| {{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+| align=center|'''4'''
+|-
+| {{bandera|ARG}} [[Alberto Federico Acosta|Alberto Acosta]]
+| {{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| align=center|3
+|-
+| {{bandera|BOL}} [[Joaquín Botero]]
+| {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| align=center|3
+|-
+| {{bandera|ARG}} [[Carlos Cordone]]
+| {{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| align=center|3
+|-
+| {{bandera|COL}} [[Martín Echeverría]]
+| {{bandera|COL}} [[Atlético Nacional]]
+| align=center|3
+|-
+| {{bandera|URU}} [[Richard Morales]]
+| {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| align=center|3
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2002]]
+* [[Recopa Sudamericana 2003]]
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20080717055518/http://www.conmebol.com/competiciones_evento_index_previo.jsp?evento=1154&ano=2002&slangab=S Copa Sudamericana 2002] en Conmebol.com
+* [http://www.rsssf.com/sacups/sudamcup02.html Copa Sudamericana 2002] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Merconorte 2001]]<br>[[Copa Mercosur 2001]]
+| título     = Copa Sudamericana 2002
+| período    = I edición
+| sucesor    = [[Copa Sudamericana 2003|2003]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana 2002| ]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

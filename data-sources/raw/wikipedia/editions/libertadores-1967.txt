@@ -1,0 +1,1290 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| imagen = Libertadores67.png
+| imagen_tamaño = 
+| imagen_pie = El [[Racing Club]], de Argentina, se consagró campeón de la [[Copa Libertadores de América]] por 1.ª vez
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 19 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|11|2|1967}}
+| fecha de cierre = {{fecha2|29|8|1967}}
+| edición = VIII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG|alt}} [[Racing Club]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| semifinalistas = {{bandera|PER}} [[Club Universitario de Deportes|Universitario]]<br>{{bandera|ARG|alt}} [[Club Atlético River Plate|River Plate]]<br>{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>{{bandera|BRA|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 114
+| goles = 356 (3,12 por partido)
+| paisgol = 
+| mejor_jugador = 
+| goleador = {{bandera|ARG|alt}} [[Norberto Raffo]] (14 goles)<br><small>([[Racing Club]])</small>
+| anterior = [[Copa Libertadores 1966]]
+| actual = Copa Libertadores 1967
+| siguiente = [[Copa Libertadores 1968]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]]''' '''1967''' fue la octava edición del torneo de clubes más importante de América del Sur, organizado por la [[Confederación Sudamericana de Fútbol|Conmebol]]. Participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+[[Racing Club]] de Argentina se coronó campeón de esta edición tras derrotar por un global de 2–1 a [[Club Nacional de Football|Nacional]] de Uruguay en la final, obteniendo así su primer título en la competición. Por ello, jugó la [[Copa Intercontinental 1967]] contra [[Celtic Football Club|Celtic]] de Escocia y se clasificó automáticamente a las semifinales de la [[Copa Libertadores 1968]].<ref>{{Cita web|url=https://www.elgrafico.com.ar/articulo/hemeroteca/35880/racing-de-america|título=Racing de América|fechaacceso=2023-11-20|fecha=2020-08-29|sitioweb=El Gráfico}}</ref> Además, su consagración le permitió participar en varias ediciones de la [[Supercopa Sudamericana]], torneo reservado para los campeones de la Copa Libertadores, obteniendo la primera edición de dicho certamen.
+
+[[Racing Club]], al disputar 20 partidos para ser campeón, obtuvo el récord de ganar la Copa Libertadores más extensa de la historia y además habiendo sumado 32 puntos bajo el antiguo sistema de puntuación (2 puntos por victoria y 1 por empate, hoy serían 46 puntos en total) es el campeón con mayor puntuación en una edición de la [[Copa Libertadores de América|Copa]].<ref>{{Cita web|url=https://www.afa.com.ar/30/posts/el-racing-de-jose-campeon-de-la-libertadores-1967|título=El Racing de José, campeón de la Libertadores 1967|fechaacceso=2023-11-20|fecha=2017-08-29|sitioweb=Asociación del Fútbol Argentino (AFA)}}</ref>
+
+== Formato ==
+El campeón vigente accedió de manera directa a las segunda fase, mientras que los 18 equipos restantes iniciaron la competición desde la primera. En ella, los clubes fueron divididos en tres grupos, conformados por 5, 6 y 7 equipos respectivamente, distribuidos de acuerdo a sus países de origen, de manera que de haber dos representantes de una misma asociación nacional, ambos debían caer indefectiblemente en la misma zona. Los dos primeros de cada grupo se unieron al campeón vigente en la segunda fase, en la cual se establecieron dos nuevas zonas, de 3 y 4 equipos, de las que se determinaron los dos finalistas.<ref name=":0">{{Cita web|url=https://www.tycsports.com/racing-club/56-anos-racing-campeon-copa-libertadores-id532022.html|título=A 56 años del día que Racing logró la hazaña histórica de salir campeón de la Copa Libertadores|fechaacceso=2023-11-20|fecha=2023-08-29|sitioweb=TyC Sports|idioma=es}}</ref>
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(18 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú y Venezuela
+* 1 equipo de Brasil y Uruguay
+|
+|-
+! colspan="2" |Segunda fase
+(7 equipos)
+|
+* El campeón de la Copa Libertadores 1966
+|
+* 3 equipos primeros de la primera fase
+* 3 equipos segundos de la primera fase
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos primeros de la segunda fase
+|}
+
+=== Distribución ===
+{| class="wikitable"
+!Asociación
+!Cupos
+!Segunda fase
+!Primera fase
+|- align="center"
+| align="left" |{{Bandera|Brasil|1960}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''1'''
+| rowspan="10" |
+|1
+|- align="center"
+| align="left" |{{Bandera|Argentina|alt}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''1'''
+|1
+|- align="center"
+| align="left" |{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+|2
+|- align="center"
+| align="left" |Campeón de la [[Copa Libertadores 1966]]
+|'''1'''
+|1
+| rowspan="2" |
+|- align="center"
+| align="left" |Fase anterior
+|–
+|6
+|-
+!Total
+!19
+!7
+!18
+|}
+
+== Participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Libertadores 1967|l1=Participantes de la Copa Libertadores 1967}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="59%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|{{Bandera|ARG|alt}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Racing Club]]<br>[[Club Atlético River Plate|River Plate]]
+|Campeón del [[Campeonato de Primera División 1966 (Argentina)|Campeonato de Primera División 1966]]<br>Subcampeón del Campeonato de Primera División 1966
+|- bgcolor="#ddeeff"
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Bolívar|Bolívar]]<br>[[Club Deportivo 31 de Octubre|31 de Octubre]]
+|Campeón del [[Campeonato de Primera División 1966 (Bolivia)|Campeonato de Primera División 1966]]<br>Subcampeón del Campeonato de Primera División 1966
+|- bgcolor="#f5faff"
+|{{Bandera|Brasil|1960}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>1 cupo</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1966]]
+|- bgcolor="#ddeeff"
+|'''{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|Campeón de la [[Primera División de Chile 1966]]<br>Subcampeón de la Primera División de Chile 1966
+|- bgcolor="#f5faff"
+|'''{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Club Independiente Santa Fe|Santa Fe]]<br>[[Deportivo Independiente Medellín|Independiente Medellín]]
+|Campeón del [[Campeonato colombiano 1966|Campeonato]] [[Campeonato colombiano 1966|Colombiano 1966]]<br>Subampeón del Campeonato Colombiano 1966
+|- bgcolor="#ddeeff"
+|{{Bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>[[Club Sport Emelec|Emelec]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1966]]<br>Subcampeón del Campeonato Ecuatoriano de Fútbol 1966
+|- bgcolor="#f5faff"
+|{{Bandera|Paraguay|1954}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Guaraní|Guaraní]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1966]]<br>Subcampeón del Campeonato Paraguayo de Fútbol 1966
+|- bgcolor="#ddeeff"
+|{{Bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Universitario de Deportes|Universitario]]<br>[[Sport Boys Association|Sports Boys]]
+|Campeón del [[Campeonato Descentralizado 1966]]<br>Subcampeón del Campeonato Descentralizado 1966
+|- bgcolor="#f5faff"
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>1 cupo + campeón vigente de la Copa Libertadores</small>
+|[[Club Atlético Peñarol|Peñarol]]<br>[[Club Nacional de Football|Nacional]]
+|Campeón de la [[Copa Libertadores 1966]]<br>Campeón del [[Campeonato Uruguayo de Primera División 1966]]
+|- bgcolor="#ddeeff"
+|{{Bandera|Venezuela}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Deportivo Miranda Fútbol Club|Deportivo Italia]]<br>[[Galicia de Aragua|Deportivo Galicia]]
+|Campeón de la [[Primera División de Venezuela 1966]]<br>Subcampeón de la Primera División de Venezuela 1966
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Libertadores 1967'''.|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.6083|long=-58.3719|label=<small>'''Gran Buenos Aires'''</small>|position=top}}
+{{Location map~|América del Sur|lat=-41.5|long=-61|label=<small>'''{{Esd|Equipos del<br>Gran Buenos Aires:}}'''<br>{{Esd|[[Racing Club]]}}<br>{{Esd|[[Club Atlético River Plate|River Plate]]}}</small>|mark=TransparentPlaceholder.png |position=center}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.499507|long=-68.122798|label=<small>'''La Paz'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-10.54|long=-69|label=<small>'''{{Esd|Equipos de<br>La Paz:}}'''<br>[[Club Bolívar|Bolívar]]<br>{{esd|[[Club Deportivo 31 de Octubre|31 de Octubre]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>'''Santiago'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.5|long=-90|label=<small>'''{{esd|Equipos de<br>Santiago:}}'''<br>{{esd|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]}}<br>{{esd|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.216667|long=-75.566667|label=<small>{{esd|[[Deportivo Independiente Medellín|Independiente Medellín]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=4.60971|long=-74.08175|label=<small>[[Club Independiente Santa Fe|Santa Fe]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.19|long=-79.8875|label=<small>'''Guayaquil'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-1.01|long=-88|label=<small>'''{{esd|Equipos de<br>Guayaquil:}}'''<br>{{esd|[[Barcelona Sporting Club|Barcelona]]}}<br>{{Esd|[[Club Sport Emelec|Emelec]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-20|long=-68|label=<small>'''{{esd|Equipos de<br> Asunción:}}'''<br>[[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Guaraní|Guaraní]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.06|long=-77.0375|label=<small>'''Lima'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-13.2|long=-88|label=<small>'''{{esd|Equipos de<br>Lima:}}'''<br>{{esd|[[Sport Boys Association|Sport Boys]]}}<br>{{esd|[[Club Universitario de Deportes|Universitario]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866|long=-56.16|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-37|long=-48|label=<small>'''{{esd|Equipos de<br>Montevideo:}}'''<br>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.16202|long=-68.00765|label=<small><br>'''Caracas'''</small>|position=right}}
+{{Location map~|América del Sur|lat=15.5|long=-69|label=<small>'''{{esd|Equipos de Caracas:}}'''<br>{{esd|[[Galicia de Aragua|Deportivo Galicia]]}}<br>{{esd|[[Deportivo Miranda Fútbol Club|Deportivo Italia]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+}}
+
+== Primera fase ==
+[[Club Atlético Peñarol|Peñarol]], como campeón de la [[Copa Libertadores 1966]], inició su participación desde la segunda fase. Los otros 18 equipos participantes se distribuyeron en 3 grupos, separados de acuerdo a sus países de origen, donde se enfrentaron todos contra todos. Los dos primeros de cada grupo pasaron a la segunda fase.<ref>{{Cita web|url=https://www.racingclub.com.ar/palmares/copa-libertadores-de-america-1967/|título=Racing Copa Libertadores 1967|fechaacceso=2022-10-08|fecha=2020-09-17|sitioweb=Racing Club - Sitio Oficial|idioma=es}}</ref>
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|BRA|1960}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|'''15'''||8||7||1||0||22||6||16
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+|'''11'''||8||5||1||2||11||8||3
+|- align=center
+|style="text-align:left;"|{{bandera|PER}} [[Sport Boys Association|Sport Boys]]
+|'''5'''||8||2||1||5||10||11||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Galicia de Aragua|Deportivo Galicia]]
+|'''5'''||8||2||1||5||5||10||–5
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|'''4'''||8||1||2||5||3||16||–13
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|11 de febrero
+|[[Caracas]]
+| align=right| '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|1:0
+| align=left| [[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#f8f3ed
+|19 de febrero
+|[[Caracas]]
+| align=right| [[Galicia de Aragua|Deportivo Galicia]]
+|0:1
+| align=left| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#f8f3ed
+|22 de febrero
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|0:3
+| align=left| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#f8f3ed
+|4 de marzo
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|1:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#f8f3ed
+|11 de marzo
+|[[Caracas]]
+| align=right| '''[[Galicia de Aragua|Deportivo Galicia]]'''
+|2:1
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#f8f3ed
+|11 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|0:3
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#f8f3ed
+|15 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|2:5
+| align=left| '''[[Sport Boys Association|Sport Boys]]'''
+
+|- align=center bgcolor=#f8f3ed
+|15 de marzo
+|[[Caracas]]
+| align=right| '''[[Galicia de Aragua|Deportivo Galicia]]'''
+|2:0
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|3:1
+| align=left| [[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#f8f3ed
+|20 de marzo
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|4:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|25 de marzo
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|2:0
+| align=left| [[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#f8f3ed
+|25 de marzo
+|[[Callao]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|'''0:0'''
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|28 de marzo
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|1:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|28 de marzo
+|[[Callao]]
+| align=right| '''[[Sport Boys Association|Sport Boys]]'''
+|2:0
+| align=left| [[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#f8f3ed
+|19 de abril
+|[[Caracas]]
+| align=right| [[Galicia de Aragua|Deportivo Galicia]]
+|'''0:0'''
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|28 de abril
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|4:1
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#f8f3ed
+|1 de mayo
+|[[Callao]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|1:2
+| align=left| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#f8f3ed
+|3 de mayo
+|[[Lima]]
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|'''2:2'''
+| align=left| [[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#f8f3ed
+|10 de mayo
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|3:1
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de mayo
+|[[Callao]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|0:1
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+| style="text-align:left;" |{{bandera|ARG|alt}} '''[[Racing Club]]'''
+|'''17'''||10||8||1||1||29||7||22
+|- align="center" style="background:#ebdcc7"
+| style="text-align:left;" |{{bandera|ARG|alt}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''15'''||10||6||3||1||29||9||20
+|- align="center"
+| style="text-align:left;" |{{bandera|COL}} [[Independiente Santa Fe|Santa Fe]] 
+|'''8'''||10||3||2||5||17||22||–5
+|- align="center"
+| style="text-align:left;" |{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''8'''||10||2||4||4||11||21||–10
+|- align="center"
+| style="text-align:left;" |{{bandera|COL}} [[Independiente Medellín]]
+|'''7'''||10||3||1||6||12||22||–10
+|- align="center"
+| style="text-align:left;" |{{bandera|BOL}} [[Club Deportivo 31 de Octubre|31 de Octubre]]
+|'''5'''||10||2||1||7||12||29||–17
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|19 de febrero
+|[[Bogotá]]
+| align=right| '''[[Independiente Santa Fe|Santa Fe]]'''
+|2:0
+| align=left| [[Independiente Medellín]]
+
+|- align=center bgcolor=#f8f3ed
+|8 de marzo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Racing Club]]'''
+|2:0
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#f8f3ed
+|12 de marzo
+|[[La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|1:0
+| align=left| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+
+|- align=center bgcolor=#f8f3ed
+|15 de marzo
+|[[La Paz]]
+| align=right| '''[[Club Deportivo 31 de Octubre|31 de Octubre]]'''
+|3:0
+| align=left| [[Racing Club]]
+
+|- align=center bgcolor=#f8f3ed
+|19 de marzo
+|[[La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''3:3'''
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#f8f3ed
+|22 de marzo
+|[[La Paz]]
+| align=right| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+|0:4
+| align=left| '''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#f8f3ed
+|26 de marzo
+|[[Medellín]]
+| align=right| [[Independiente Medellín]]
+|0:2
+| align=left| '''[[Racing Club]]'''
+
+|- align=center bgcolor=#f8f3ed
+|29 de marzo
+|[[Bogotá]]
+| align=right| [[Independiente Santa Fe|Santa Fe]]
+|1:2
+| align=left| '''[[Racing Club]]'''
+
+|- align=center bgcolor=#f8f3ed
+|2 de abril
+|[[Bogotá]]
+| align=right| [[Independiente Santa Fe|Santa Fe]]
+|'''2:2'''
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de abril
+|[[La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|0:2
+| align=left| '''[[Racing Club]]'''
+
+|- align=center bgcolor=#f8f3ed
+|5 de abril
+|[[Medellín]]
+| align=right| [[Independiente Medellín]]
+|0:1
+| align=left| '''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#f8f3ed
+|18 de abril
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|4:0
+| align=left| [[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de abril
+|[[Buenos Aires]]
+| align=right| '''[[Racing Club]]'''
+|5:2
+| align=left| [[Independiente Medellín]]
+
+|- align=center bgcolor=#f8f3ed
+|20 de abril
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|6:2
+| align=left| [[Independiente Medellín]]
+
+|- align=center bgcolor=#f8f3ed
+|20 de abril
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Racing Club]]'''
+|4:1
+| align=left| [[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de abril
+|[[La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left| [[Independiente Medellín]]
+
+|- align=center bgcolor=#f8f3ed
+|24 de abril
+|[[La Paz]]
+| align=right| '''[[Club Deportivo 31 de Octubre|31 de Octubre]]'''
+|6:2
+| align=left| [[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de abril
+|[[La Paz]]
+| align=right| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+|1:2
+| align=left| '''[[Independiente Medellín]]'''
+
+|- align=center bgcolor=#f8f3ed
+|28 de abril
+|[[La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''2:2'''
+| align=left| [[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de mayo
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|2:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Racing Club]]'''
+|6:0
+| align=left| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+
+|- align=center bgcolor=#f8f3ed
+|4 de mayo
+|[[Buenos Aires]]
+| align=right| '''[[Racing Club]]'''
+|6:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|4 de mayo
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|7:0
+| align=left| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de mayo
+|[[Bogotá]]
+| align=right| '''[[Independiente Santa Fe|Santa Fe]]'''
+|2:0
+| align=left| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de mayo
+|[[Medellín]]
+| align=right| '''[[Independiente Medellín]]'''
+|2:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|10 de mayo
+|[[Bogotá]]
+| align=right| [[Independiente Santa Fe|Santa Fe]]
+|1:2
+| align=left| '''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#f8f3ed
+|10 de mayo
+|[[Medellín]]
+| align=right| '''[[Independiente Medellín]]'''
+|3:0
+| align=left| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+
+|- align=center bgcolor=#f8f3ed
+|11 de mayo
+|[[Buenos Aires]]
+| align=right| [[Club Atlético River Plate|River Plate]]
+|'''0:0'''
+| align=left| [[Racing Club]]
+
+|- align=center bgcolor=#f8f3ed
+|14 de mayo
+|[[La Paz]]
+| align=right| [[Club Deportivo 31 de Octubre|31 de Octubre]]
+|'''2:2'''
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|14 de mayo
+|[[Medellín]]
+| align=right| [[Independiente Medellín]]
+|0:4
+| align=left| '''[[Independiente Santa Fe|Santa Fe]]'''
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''19'''||12||9||1||2||34||12||22
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''15'''||12||7||1||4||30||28||2
+|- align="center"
+|style="text-align:left;"|{{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''13'''||12||5||3||4||19||16||3
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Guaraní|Guaraní]]
+|'''10'''||12||4||2||6||18||15||3
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+|'''9'''||12||4||1||7||16||24||–8
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''9'''||12||4||1||7||14||24||–10
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''9'''||12||4||1||7||14||26||–12
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|12 de febrero
+|[[Guayaquil]]
+| align=right| '''[[Club Sport Emelec|Emelec]]'''
+|3:0
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|22 de febrero
+|[[Guayaquil]]
+| align=right| [[Club Sport Emelec|Emelec]]
+|1:4
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|1:0
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#f8f3ed
+|4 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|5:2
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de marzo
+|[[Guayaquil]]
+| align=right| '''[[Club Sport Emelec|Emelec]]'''
+|2:1
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de marzo
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Guayaquil]]
+| align=right| [[Club Sport Emelec|Emelec]]
+|0:2
+| align=left| '''[[Club Guaraní|Guaraní]]'''
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|1:2
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#f8f3ed
+|14 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|3:0
+| align=left| [[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#f8f3ed
+|14 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|5:1
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|14 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''1:1'''
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#f8f3ed
+|17 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|2:0
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|3:1
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|22 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|1:2
+| align=left| '''[[Club Sport Emelec|Emelec]]'''
+
+|- align=center bgcolor=#f8f3ed
+|22 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:2
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|25 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:2
+| align=left| [[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#f8f3ed
+|25 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|3:1
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de abril
+|[[Asunción]]
+| align=right| '''[[Club Guaraní|Guaraní]]'''
+|4:1
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|3 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''1:1'''
+| align=left| [[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:2
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de abril
+|[[Asunción]]
+| align=right| '''[[Club Guaraní|Guaraní]]'''
+|3:0
+| align=left| [[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|1:2
+| align=left| '''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center bgcolor=#f8f3ed
+|9 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|5:2
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|12 de abril
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|'''0:0'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|0:1
+| align=left| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+
+|- align=center bgcolor=#f8f3ed
+|16 de abril
+|[[Asunción]]
+| align=right| [[Club Guaraní|Guaraní]]
+|'''1:1'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#f8f3ed
+|19 de abril
+|[[Asunción]]
+| align=right| '''[[Club Guaraní|Guaraní]]'''
+|4:2
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|19 de abril
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|1:0
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|3:1
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de abril
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|'''1:1'''
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de abril
+|[[Guayaquil]]
+| align=right| [[Club Sport Emelec|Emelec]]
+|0:1
+| align=left| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#f8f3ed
+|26 de abril
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|0:2
+| align=left| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#f8f3ed
+|26 de abril
+|[[Guayaquil]]
+| align=right| '''[[Club Sport Emelec|Emelec]]'''
+|4:3
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|27 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|6:2
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|30 de abril
+|[[Asunción]]
+| align=right| [[Club Guaraní|Guaraní]]
+|0:1
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|7 de mayo
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|1:4
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|8 de mayo
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+| align=left| [[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#f8f3ed
+|10 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|0:3
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|15 de mayo
+|[[Asunción]]
+| align=right| [[Club Guaraní|Guaraní]]
+|1:2
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#f8f3ed
+|17 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|4:2
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|}
+|}
+
+== Segunda fase ==
+A los seis clasificados de la primera fase se les sumó [[Club Atlético Peñarol|Peñarol]] de Uruguay, campeón de la [[Copa Libertadores 1966]]. Los 7 participantes se distribuyeron en 2 nuevos grupos, de 4 y 3 equipos, donde volvieron a enfrentarse bajo el mismo sistema de la instancia anterior. El ganador de cada zona enfrentó al de la otra en la final.
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|ARG|alt}} '''[[Racing Club]]'''
+|'''9'''||6||4||1||1||11||5||6
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+|'''9'''||6||4||1||1||10||5||5
+|- align="center"
+|style="text-align:left;"|{{bandera|ARG|alt}} [[Club Atlético River Plate|River Plate]]
+|'''3'''||6||0||3||3||4||8||–4
+|- align="center"
+|style="text-align:left;"|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''3'''||6||1||1||4||3||10||–7
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|31 de mayo
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|3:0
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|1 de junio
+|[[Buenos Aires]]
+| align=right| [[Club Atlético River Plate|River Plate]]
+|'''0:0'''
+| align=left| [[Racing Club]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de junio
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de junio
+|[[Lima]]
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|1:2
+| align=left| '''[[Racing Club]]'''
+
+|- align=center bgcolor=#f8f3ed
+|13 de junio
+|[[Buenos Aires]]
+| align=right| [[Club Atlético River Plate|River Plate]]
+|0:1
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#f8f3ed
+|15 de junio
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| [[Racing Club]]
+|1:2
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#f8f3ed
+|22 de junio
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|0:2
+| align=left| '''[[Racing Club]]'''
+
+|- align=center bgcolor=#f8f3ed
+|28 de junio
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Racing Club]]'''
+|3:1
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|29 de junio
+|[[Lima]]
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|'''2:2'''
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de julio
+|[[Buenos Aires]]
+| align=right| [[Club Atlético River Plate|River Plate]]
+|'''1:1'''
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#f8f3ed
+|12 de julio
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|0:1
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#f8f3ed
+|12 de julio
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Racing Club]]'''
+|3:1
+| align=left| [[Club Atlético River Plate|River Plate]]
+|}
+|}
+
+'''Partido desempate'''
+
+En este grupo Semifinal, [[Club Universitario de Deportes|Universitario de Deportes]] y [[Racing Club]] empataron en puntos, por lo que jugaron una llave de desempate a 1 solo partido el cual ganó Racing Club<ref name=":0" />
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|18 de julio
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Racing Club]]'''
+|2:1
+|align=left|[[Club Universitario de Deportes|Universitario]]
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''5'''||4||2||1||1||6||4||2
+|- align=center
+|style="text-align:left;"|{{bandera|BRA|1960}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|'''4'''||4||2||0||2||5||6||–1
+|- align=center
+|style="text-align:left;"|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|'''3'''||4||1||1||2||5||6||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|11 de junio
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|0:1
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|14 de junio
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|2:1
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de junio
+|[[Belo Horizonte]]
+| align=right| '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|1:0
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de julio
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|3:2
+| align=left| [[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#f8f3ed
+|8 de julio
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|2:0
+| align=left| [[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de julio
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|'''2:2'''
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+|}
+|}
+
+== Final ==
+{{AP|Anexo:Final de la Copa Libertadores 1967|l1=Final de la Copa Libertadores 1967}}
+{{Partidos
+|competición    = Ida
+|local          = [[Racing Club]]
+|visita         = [[Club Nacional de Football|Nacional]]
+|fecha          = 15 de agosto de 1967
+|estadio        = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad         = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia     = 99{{esd}}148
+|árbitro        = {{Árbitro|PER|César Orozco}}
+|resultado      = 0:0
+|paíslocal      = ARG
+|paísvisita     = URU
+|etpaíslocal    = alt
+|reporte        = https://www.transfermarkt.es/racing-club_club-nacional/index/spielbericht/3290136
+}}
+{{Partidos
+|competición    = Vuelta
+|local          = [[Club Nacional de Football|Nacional]]
+|visita         = [[Racing Club]]
+|fecha          = 25 de agosto de 1967
+|estadio        = [[Estadio Centenario]]
+|ciudad         = [[Montevideo]]
+|árbitro        = {{Árbitro|PER|César Orozco}}
+|asistencia     = 60{{esd}}000
+|resultado      = 0:0
+|paíslocal      = URU
+|paísvisita     = ARG
+|etpaísvisita   = alt
+|reporte        = https://www.transfermarkt.es/club-nacional_racing-club/aufstellung/spielbericht/3290137
+}}
+{{Partidos
+|competición    = Desempate
+|local          = [[Club Nacional de Football|Nacional]]
+|visita         = [[Racing Club]]
+|fecha          = 29 de agosto de 1967
+|estadio        = [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]]
+|ciudad         = [[Santiago de Chile|Santiago]]
+|asistencia     = 50{{esd}}000
+|árbitro        = {{Árbitro|PAR|Rodolfo Pérez Osorio}}
+|resultado      = 1:2''' (0:2)
+|goleslocal     = [[Milton Viera|Viera]] {{gol|79}}
+|golesvisita    = [[João Cardoso|Cardoso]] {{gol|14}}<br>[[Norberto Raffo|Raffo]] {{gol|43}}
+|paíslocal      = URU
+|paísvisita     = ARG
+|etpaísvisita   = alt
+|reporte        = https://www.transfermarkt.com.ar/racing-club_club-nacional/index/spielbericht/3290138
+}}
+<br />
+{| cellspacing=0 width=100%
+|[[Archivo:CopaLibertadoresFeminina2011-.png|center|50px]]
+|-
+|align=center|{{bandera|ARG|alt|tamaño=50px}}<br />'''Campeón<br />[[Racing Club]]<br />{{ord|1.|er}} título'''
+|}
+{{clear}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|Part.|Partidos jugados}}
+|- bgcolor="d0e7ff"
+|{{Bandera|ARG|alt}} '''[[Norberto Raffo]]'''
+| align="left"|{{Bandera|ARG|alt}} '''[[Racing Club]]'''
+| align="center" |'''14'''
+| align="center" |'''17'''
+|- 
+|{{Bandera|Brasil|1960}} [[Célio Taveira Filho|Célio]]
+| align="left"|{{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+| align="center" |12
+| align="center" |18
+|-
+|{{Bandera|Chile}} [[Francisco Valdés Muñoz|Francisco Valdés]]
+| align="left"|{{Bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| align="center" |9
+| align="center" |16
+|- 
+|{{Bandera|Uruguay}} [[Héctor Gauna]]
+| align="left"|{{Bandera|Ecuador|1900}} [[Club Sport Emelec|Emelec]]
+| align="center" |8
+| align="center" |12
+|}
+<center><small>Fuente: [https://www.livefutbol.com/goleadores/copa-libertadores-1967/ Livefutbol.com]</small></center>
+
+== Véase también ==
+* [[Copa Intercontinental 1967]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Copa Libertadores 1967}}
+* [http://www.rsssf.com/sacups/copa67.html Copa Libertadores de América de 1967] en [[RSSSF]].
+* [http://www.conmebol.com/ Página web oficial] de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1966|1966]]
+| título     = Copa Libertadores 1967
+| período    = VIII edición
+| sucesor    = [[Copa Libertadores 1968|1968]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Temporadas de la Copa Libertadores|1967]]
+[[Categoría:Fútbol en 1967]]
+[[Categoría:Copa Libertadores 1967]]

@@ -1,0 +1,1383 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| pais = 
+| año = 2015
+| imagen = Santa Fe Femenino Campeon.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Nemesio Camacho El Campín|estadio El Campín]] ([[Bogotá]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2015|final]]
+| participantes = 47 de 10 países
+| calificados = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|11|8|2015}}
+| fecha de cierre = {{fecha2|9|12|2015}}
+| edición = XIV
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|COL}} [[Club Independiente Santa Fe|Santa Fe]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|ARG}} [[Club Atlético Huracán|Huracán]]
+| semifinalistas = {{bandera|PAR}} [[Club Sportivo Luqueño|Sportivo Luqueño]]<br>{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| inicio = 
+| patrocinador = 
+| televisión = 
+| premio = 
+| recaudación = 
+| partidos = 92
+| goles = 186 (2,02 por partido)
+| país = 
+| mejor_jugador = {{bandera|VEN}} [[Luis Manuel Seijas]]<br><small>([[Independiente Santa Fe|Santa Fe]])</small>
+| anterior = [[Copa Sudamericana 2014]]
+| actual = Copa Sudamericana 2015
+| siguiente = [[Copa Sudamericana 2016]]
+|goleadores={{bandera|Ecuador}} [[Miler Bolaños]] (5 goles)<br><small>([[Club Sport Emelec|Emelec]])</small><br>{{bandera|PAR}} [[José Ariel Núñez]] (5 goles)<br><small>([[Club Olimpia|Olimpia]])</small><br>{{bandera|ARG}} [[Ramón Ábila]] (5 goles)<br><small>([[Club Atlético Huracán|Huracán]])</small><br>{{bandera|COL}} [[Wilson Morelo]] (5 goles)<br><small>([[Independiente Santa Fe|Santa Fe]])</small>}}
+La '''[[Copa Sudamericana]] 2015''' fue la decimocuarta edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El sorteo de los partidos se realizó en la sede de la Confederación Sudamericana de Fútbol, ubicada en [[Luque (Paraguay)|Luque]], [[Paraguay]], el 16 de julio de 2015.<ref>{{cita web|url=http://www.conmebol.com/es/02072015-2013/el-16-de-julio-se-sorteara-en-asuncion-la-copa-sudamericana|título=El 16 de julio se sorteará en Asunción la Copa Sudamericana|autor=Conmebol|fecha=3 de julio de 2015|urlarchivo=https://web.archive.org/web/20150710230235/http://www.conmebol.com/es/02072015-2013/el-16-de-julio-se-sorteara-en-asuncion-la-copa-sudamericana|fechaarchivo=10 de julio de 2015}}</ref>
+
+[[Club Independiente Santa Fe|Santa Fe]] de Colombia se consagró campeón por primera vez tras vencer en la final a [[Club Atlético Huracán|Huracán]] de Argentina. Por ello, disputó la [[Recopa Sudamericana 2016]], como la [[Copa Suruga Bank 2016]]. Además, clasificó directamente a los octavos de final de la [[Copa Sudamericana 2016]] y a la primera fase de la [[Copa Libertadores 2016]].
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. El último campeón accedió automáticamente a los octavos de final, mientras que los restantes 46 debieron disputar las dos fases clasificatorias. De allí salieron los últimos 15 clasificados a las fases finales, compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón. Como criterios de desempate en caso de igualdad de puntos y diferencia de goles al finalizar los dos encuentros de una llave, hasta las semifinales inclusive, se aplicaron la [[regla del gol de visitante]] y los [[tiros desde el punto penal]]. En las finales, no rigió la reglamentación de los goles fuera de casa, y frente a la igualdad de puntos y goles, previo a la definición por penales, se disputó una [[Prórroga (deporte)|prórroga]] de 30 minutos.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(32 equipos)
+|
+* 4 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(30 equipos)
+|
+* 8 equipos de Brasil
+* 6 equipos de Argentina
+|
+* 16 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2014
+|
+* 15 equipos clasificados de la Segunda fase
+|}
+
+== Distribución cupos ==
+
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Segunda fase
+! Primera fase
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''8'''
+| –
+|8 
+|  -
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| –
+|6 
+|  -
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+| –
+| –
+|4
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+| -
+| –
+|4
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+| -
+| –
+|4
+|- 
+| align="left" |{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+| –
+| –
+|4
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+| -
+| –
+|4
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+| –
+| –
+|4
+|-
+| align="left" |Fase anterior
+| –
+| 15
+| 16
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| 1
+| –
+| –
+|-
+!Total
+!47
+!16
+!30
+!32
+|}
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Sudamericana 2015|l1=Equipos participantes en la Copa Sudamericana 2015}} 
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=9.5%|País
+!width=14.5%|Equipo
+!width=76%|Vía de clasificación
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>6 cupos + campeón vigente</small>
+|[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Huracán|Huracán]]<br>[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético Tigre|Tigre]]<br>[[Arsenal Fútbol Club|Arsenal]]<br>[[Club Atlético Belgrano|Belgrano]]
+|Campeón de la [[Copa Sudamericana 2014]]<br>Campeón de la [[Supercopa Argentina 2014]]<br>Mejor equipo ubicado en el [[Campeonato de Primera División 2014 (Argentina)|Campeonato de Primera División 2014]] no participante de la Copa Libertadores 2015<br>2.º mejor equipo ubicado en el Campeonato de Primera División 2014 no participante de la Copa Libertadores 2015<br>3.º mejor equipo ubicado en el Campeonato de Primera División 2014 no participante de la Copa Libertadores 2015<br>4.º mejor equipo ubicado en el Campeonato de Primera División 2014 no participante de la Copa Libertadores 2015<br>5.º mejor equipo ubicado en el Campeonato de Primera División 2014 no participante de la Copa Libertadores 2015
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>4 cupos</small>
+|[[Club Real Potosí|Real Potosí]]<br>[[Club Bolívar|Bolívar]]<br>[[Club Aurora|Aurora]]<br>[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|4.º puesto del [[Campeonato de Primera División 2013-14 (Bolivia)#Torneo Clausura|Torneo Clausura 2014]]<br>5.º puesto del Torneo Clausura 2014<br>6.º puesto del Torneo Clausura 2014<br>7.º puesto del Torneo Clausura 2014
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>8 cupos</small>
+|[[Clube Atlético Paranaense|Atlético Paranaense]]<br>[[Sport Club do Recife|Sport Recife]]<br>[[Goiás Esporte Clube|Goiás]]<br>[[Associação Chapecoense de Futebol|Chapecoense]]<br>[[Joinville Esporte Clube|Joinville]]<br>[[Associação Atlética Ponte Preta|Ponte Preta]] <br>[[Esporte Clube Bahia|Bahia]]<br>[[Brasília Futebol Clube|Brasilia]]
+|Mejor equipo ubicado en el [[Campeonato Brasileño de Fútbol 2014|Campeonato Brasileño de 2014]] no clasificado ni a la Copa Libertadores 2015 ni a [[Copa de Brasil 2015#Clasificación para la Copa Sudamericana|octavos de la Copa de Brasil 2015]]<br>2.º mejor equipo ubicado en el Campeonato Brasileño de 2014 no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<br>3.º mejor equipo ubicado en el Campeonato Brasileño de 2014 no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<br>4.º mejor equipo ubicado en el Campeonato Brasileño de 2014 no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<br>5.º mejor equipo ubicado en el Campeonato Brasileño de 2014 no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<br>6.º mejor equipo ubicado en el Campeonato Brasileño de 2014 no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<br>Mejor equipo ubicado en la [[Copa do Nordeste 2015]] no clasificado ni a la Copa Libertadores 2015 ni a octavos de la Copa de Brasil 2015<ref>{{cita web|url=http://globoesporte.globo.com/ce/noticia/2015/05/em-oficio-cbf-determina-que-ceara-escolha-sul-americana-ou-copa-br.html|título=Ceará sairá da Sul-Americana caso avance na Copa do Brasil, diz CBF|autor=Globo|fecha=21 de mayo de 2015|idioma=Portugués}}</ref><br>Campeón de la [[Copa Verde 2014]]
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>4 cupos</small>
+|[[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]<br>[[Club Deportivo Huachipato|Huachipato]]<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|Campeón de la [[Copa Chile 2014-15]]<br>Mejor equipo ubicado en la [[Torneo Clausura 2015 (Chile)#Tabla Acumulada 2014-15|tabla acumulada de la temporada 2014-15]] no participante de la Copa Libertadores 2015<br>Ganador de la [[Liguilla Pre-Sudamericana Clausura 2015 (Chile)|Liguilla Pre-Sudamericana Clausura 2015]]<br>Finalista de la [[Liguilla Pre-Libertadores 2014 (Chile)|Liguilla Pre-Libertadores 2014]]
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>4 cupos</small>
+|[[Deportes Tolima]]<br>[[Independiente Santa Fe|Santa Fe]]<br>[[Águilas Doradas]]<br>[[Junior de Barranquilla|Junior]]
+|Campeón de la [[Copa Colombia 2014]]<br>Campeón de la [[Superliga de Colombia 2015]]<br>Mejor equipo ubicado en la [[Temporada 2014 del fútbol colombiano#Tabla de reclasificación|Reclasificación 2014]] no participante de la Copa Libertadores 2015<br>2.º mejor equipo ubicado en la Reclasificación 2014 no participante de la Copa Libertadores 2015
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>4 cupos</small>
+|[[Club Sport Emelec|Emelec]]<br>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>[[Liga Deportiva Universitaria de Loja|Liga de Loja]]<br>[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 2014|Campeonato Ecuatoriano de 2014]]<br>Mejor equipo ubicado en la [[Campeonato Ecuatoriano de Fútbol 2014#Tabla acumulada|tabla acumulada del Campeonato Ecuatoriano de 2014]] no participante de la Copa Libertadores 2015<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Ecuatoriano de 2014 no participante de la Copa Libertadores 2015<br>3.º mejor equipo ubicado en la tabla acumulada del Campeonato Ecuatoriano de 2014 no participante de la Copa Libertadores 2015
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>4 cupos</small>
+|[[Club Libertad|Libertad]]<br>[[Club Sportivo Luqueño|Sportivo Luqueño]]<br>[[Club Olimpia|Olimpia]]<br>[[Club Nacional (Paraguay)|Nacional]]
+|Campeón del [[Torneo Apertura 2014 (Paraguay)|Torneo Apertura 2014]] y del [[Torneo Clausura 2014 (Paraguay)|Torneo Clausura 2014]]<br>Mejor equipo ubicado en la [[Torneo Clausura 2014 (Paraguay)#Puntaje acumulado|tabla acumulada de la temporada 2014]] no participante de la Copa Libertadores 2015<br>2.º mejor equipo ubicado en la tabla acumulada de la temporada 2014 no participante de la Copa Libertadores 2015<br>3.º mejor equipo ubicado en la tabla acumulada de la temporada 2014 no participante de la Copa Libertadores 2015
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>4 cupos</small>
+|[[Foot Ball Club Melgar|Melgar]]<br>[[Club Deportivo Unión Comercio|Unión Comercio]]<br>[[Club Universitario de Deportes|Universitario]]<br>[[León de Huánuco]]
+|Mejor equipo ubicado en la [[Campeonato Descentralizado 2014#Tabla acumulada|tabla acumulada del Campeonato Descentralizado 2014]] no participante de la Copa Libertadores 2015<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2014 no participante de la Copa Libertadores 2015<br>3.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2014 no participante de la Copa Libertadores 2015<br>4.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2014 no participante de la Copa Libertadores 2015
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>4 cupos</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting Club|Defensor Sporting]]<br>[[Club Atlético Juventud (Las Piedras)|Juventud]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2014-15|Campeonato Uruguayo 2014-15]]<br>Mejor equipo ubicado en la [[Campeonato Uruguayo de Primera División 2014-15#Tabla Anual|tabla anual del Campeonato Uruguayo 2014-15]] no participante de la Copa Libertadores 2016<br>2.º mejor equipo ubicado en la tabla anual del Campeonato Uruguayo 2014-15 no participante de la Copa Libertadores 2016<br>3.º mejor equipo ubicado en la tabla anual del Campeonato Uruguayo 2014-15 no participante de la Copa Libertadores 2016
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>4 cupos</small>
+|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]<br>[[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]<br>[[Zamora Fútbol Club|Zamora]]<br>[[Carabobo Fútbol Club|Carabobo]]
+|Campeón de la [[Copa Venezuela 2014]]<br>Mejor equipo ubicado en la [[Primera División Venezolana 2014-15#Clasificación de equipos|tabla acumulada de la Primera División Venezolana 2014-15]] no participante de la Copa Libertadores 2015<br>Finalista de la [[Primera División Venezolana 2014-15#Serie Pre-Sudamericana|Serie Pre-Sudamericana con mayor puntaje acumulado en la temporada 2014-15]]<br>Finalista de la Serie Pre-Sudamericana con menor puntaje acumulado en la temporada 2014-15
+|}
+
+=== Distribución de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Sudamericana 2015'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- Equipos de ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-40|long=-58|label=<small>'''{{Esd|Equipos del <br>Gran Buenos Aires:}}'''<br>[[Arsenal Fútbol Club|Arsenal]]<br>[[Club Atlético Huracán|Huracán]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Tigre|Tigre]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-31.416667|long=-64.183333|label=<small>[[Club Atlético Belgrano|Belgrano]]</small>|position=right}}
+<!-- Equipos de BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Aurora|Aurora]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-18.299167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=}}
+{{Location map~|América del Sur|lat=-19.583333|long=-65.75|label=<small>[[Club Real Potosí|Real Potosí]]</small>|position=left}}
+<!-- Equipos de BRASIL -->
+{{Location map~|América del Sur|lat=-15.793889|long=-47.882778|label=<small>[[Brasília Futebol Clube|Brasilia]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-27.095833|long=-52.617778|label=<small><br>[[Associação Chapecoense de Futebol|Chapecoense]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small>[[Club Athletico Paranaense|{{Esd|Atlético Paranaense}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.900914|long=-47.057294|label=<small>[[Associação Atlética Ponte Preta|{{Esd|Ponte Preta}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-26.303889|long=-48.845833|label=<small>[[Joinville Esporte Clube|Joinville]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-12.970833|long=-38.510833|label=<small>[[Esporte Clube Bahia|Bahia]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-8.053889|long=-34.880833|label=<small>{{Esd|[[Sport Club do Recife|Sport Recife]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-16.678889|long=-49.253889|label=<small>[[Goiás Esporte Clube|Goiás]]</small>|position=left}}
+<!-- Equipos de CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><div style="font-size:100%;position:relative;right:15px;bottom:13px;">[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</div></small>|position=bottom}}
+{{Location map~|América del Sur|lat=-33.045944|long=-71.616361|label=<small><div style="font-size:100%;position:relative;right:19px;bottom:13px;">[[Club de Deportes Santiago Wanderers|{{Esd|Santiago Wanderers}}]]</div></small>|position=left}}
+{{Location map~|América del Sur|lat=-36.716667|long=-73.116667|label=<small>[[Club Deportivo Huachipato|Huachipato]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-36.833333|long=-73.05|label=<small><div style="font-size:100%;position:relative;right:25px;bottom:13px;">[[Club Deportivo Universidad de Concepción (fútbol)|{{Esd|Universidad de Concepción}}]]</div></small>|position=bottom}}
+<!-- Equipos de COLOMBIA -->
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Independiente Santa Fe|{{Esd|Santa Fe}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=4.437778|long=-75.200556|label=<small>[[Deportes Tolima|{{Esd|Deportes Tolima}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=6.153333|long=-75.374167|label=<small>[[Águilas Doradas|{{Esd|Águilas Doradas}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=10.963889|long=-74.796389|label=<small>[[Junior de Barranquilla|Junior]]</small>|position=left}}
+<!-- Equipos de ECUADOR -->
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Club Sport Emelec|Emelec]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>[[Club Deportivo de la Universidad Católica (Ecuador)|{{Esd|Universidad Católica}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-3.990556|long=-79.205|label=<small>[[Liga Deportiva Universitaria de Loja|Liga de Loja]]</small>|position=right}}
+<!-- Equipos de PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-30|long=-43|label=<small>'''{{Esd|Equipos de Asunción:}}'''<br>[[Club Libertad|Libertad]]<br>[[Club Olimpia|Olimpia]]<br>[[Club Nacional (Paraguay)|Nacional]]<br>[[Club Sportivo Luqueño|{{Esd|Sportivo Luqueño}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- Equipos de PERÚ -->
+{{Location map~|América del Sur|lat=-9.929444|long=-76.239722|label=<small>[[León de Huánuco|{{Esd|León de Huánuco}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-5.9433|long=-77.341476|label=<small>{{Esd|[[Club Deportivo Unión Comercio|Unión Comercio]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Universitario de Deportes|Universitario]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-16.398764|long=-71.536883|label=<small>[[Foot Ball Club Melgar|Melgar]]</small>|position=left}}
+<!-- Equipos de URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-40|long=-43|label=<small>'''{{Esd|Equipos de Montevideo:}}'''<br>[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]<br>[[Club Atlético Juventud (Las Piedras)|Juventud]]<br>[[Club Nacional de Football|Nacional]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=10.6|long=-66.933056|label=<small><div style="font-size:100%;position:relative;bottom:7px;">[[Deportivo La Guaira Fútbol Club|{{Esd|Deportivo La Guaira}}]]</div></small>|position=top}}
+{{Location map~|América del Sur|lat=8.633333|long=-70.216667|label=<small>[[Zamora Fútbol Club|Zamora]]</small>|position=left}}
+{{Location map~|América del Sur|lat=10.166667|long=-68|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=left}}
+{{Location map~|América del Sur|lat=10.216667|long=-64.616667|label=<small>[[Deportivo Anzoátegui Sport Club|{{Esd|Deportivo Anzoátegui}}]]</small>|position=right}}
+}}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2015|l1=Primera fase de la Copa Sudamericana 2015}}
+Los clasificados de todas las asociaciones, exceptuando Argentina y Brasil, fueron separados en dos zonas, Sur y Norte, de acuerdo a la localización geográfica de cada país: la primera zona estuvo integrada por los equipos de Bolivia, Chile, Paraguay y Uruguay, y la segunda, por los de Colombia, Ecuador, Perú y Venezuela. Dentro de cada zona, se establecieron ocho llaves. Los 16 ganadores avanzaron a la segunda fase.
+=== Zona Sur ===
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|13 y 20 de agosto
+| align="right" | '''[[Club Atlético Juventud (Las Piedras)|Juventud]]''' {{bandera|Uruguay}}
+| align="2" | '''4:3'''
+| align="left" |{{bandera|Bolivia}} [[Club Real Potosí|Real Potosí]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235635&lang=es_LA 4:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235634&lang=es_LA 0:2]
+!Ganador 1
+
+|- align="center" style="background:#F5FAFF;"
+|11 y 20 de agosto
+| align="right" |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]] {{bandera|Bolivia}}
+| align="2" | '''0:3'''
+| align="left" |{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235637&lang=es_LA 0:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235636&lang=es_LA 0:0]
+!Ganador 2
+
+|- align="center"
+|12 y 18 de agosto
+| align="right" |[[Club de Deportes Santiago Wanderers|Santiago Wanderers]] {{bandera|Chile}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Paraguay}} '''[[Club Libertad|Libertad]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235638&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235639&lang=es_LA 1:2]
+!Ganador 3
+
+|- align="center" style="background:#F5FAFF;"
+|13 y 20 de agosto
+| align="right" |'''[[Club Nacional (Paraguay)|Nacional]]''' {{bandera|Paraguay}} 
+| align="2" | '''5:2'''
+| align="left" |{{bandera|Chile}} [[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235640&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235641&lang=es_LA 3:1]
+!Ganador 4
+
+|- align="center"
+|12 y 18 de agosto
+| align="right" |'''[[Defensor Sporting Club|Defensor Sporting]]''' {{bandera|Uruguay}}
+| align="2" | '''3:2'''
+| align="left" |{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235643&lang=es_LA 3:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235642&lang=es_LA 0:2]
+!Ganador 5
+
+|- align="center" style="background:#F5FAFF;"
+|11 y 19 de agosto
+| align="right" |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]''' {{bandera|Chile}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235645&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235644&lang=es_LA 2:1]
+!Ganador 6
+
+|- align="center"
+|12 y 19 de agosto
+| align="right" |'''[[Club Olimpia|Olimpia]]''' {{bandera|Paraguay}}
+| align="2" | '''4:0'''
+| align="left" |{{bandera|Chile}} [[Club Deportivo Huachipato|Huachipato]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235647&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235646&lang=es_LA 2:0]
+!Ganador 7
+
+|- align="center" style="background:#F5FAFF;"
+|13 y 19 de agosto
+| align="right" |[[Club Aurora|Aurora]] {{bandera|Bolivia}}
+| align="2" | '''2:7'''
+| align="left" |{{bandera|Paraguay}} '''[[Club Sportivo Luqueño|Sportivo Luqueño]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235649&lang=es_LA 1:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235648&lang=es_LA 1:5]
+!Ganador 8
+
+|}
+
+=== Zona Norte ===
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|11 y 19 de agosto
+| align="right" |[[Carabobo Fútbol Club|Carabobo]] {{bandera|Venezuela}}
+| align="2" | '''0:0''' <small>('''1:3''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Colombia}} '''[[Deportes Tolima]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235651&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235650&lang=es_LA 0:0]
+!Ganador 9
+
+|- align="center" style="background:#F5FAFF;"
+|11 y 18 de agosto
+| align="right" |[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]] {{bandera|Ecuador}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Venezuela}} '''[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235653&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235652&lang=es_LA 0:1]
+!Ganador 10
+
+|- align="center"
+|13 y 20 de agosto
+| align="right" |[[León de Huánuco]] {{bandera|Perú}}
+| align="2" | '''1:6'''
+| align="left" |{{bandera|Ecuador}} '''[[Club Sport Emelec|Emelec]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235654&lang=es_LA 1:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235655&lang=es_LA 0:3]
+!Ganador 11
+
+|- align="center" style="background:#F5FAFF;"
+|12 y 18 de agosto
+| align="right" |'''[[Junior de Barranquilla|Junior]]''' {{bandera|Colombia}}
+| align="2" | '''5:4'''
+| align="left" |{{bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235657&lang=es_LA 5:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235656&lang=es_LA 0:4]
+!Ganador 12
+
+|- align="center"
+|11 y 20 de agosto
+| align="right" |'''[[Club Universitario de Deportes|Universitario]]''' {{bandera|Perú}}
+| align="2" | '''6:2'''
+| align="left" |{{bandera|Venezuela}} [[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235659&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235658&lang=es_LA 3:1]
+!Ganador 13
+
+|- align="center" style="background:#F5FAFF;"
+|13 y 19 de agosto
+| align="right" |[[Zamora Fútbol Club|Zamora]] {{bandera|Venezuela}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Ecuador}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235661&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235660&lang=es_LA 0:2]
+!Ganador 14
+
+|- align="center"
+|13 y 20 de agosto
+| align="right" | '''[[Águilas Doradas]]''' {{bandera|Colombia}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Perú}} [[Club Deportivo Unión Comercio|Unión Comercio]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235663&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235662&lang=es_LA 1:1]
+!Ganador 15
+
+|- align="center" style="background:#F5FAFF;"
+|12 y 20 de agosto
+| align="right" |[[Liga Deportiva Universitaria de Loja|Liga de Loja]] {{bandera|Ecuador}}
+| align="2" | '''0:3'''
+| align="left" |{{bandera|Colombia}} '''[[Independiente Santa Fe|Santa Fe]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235665&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235664&lang=es_LA 0:3]
+!Ganador 16
+
+|}
+
+== Segunda fase ==
+{{AP|Anexo:Segunda fase de la Copa Sudamericana 2015|l1=Segunda fase de la Copa Sudamericana 2015}}
+Por ser el campeón de la [[Copa Sudamericana 2014]], [[Club Atlético River Plate|River Plate]] clasificó automáticamente a octavos de final como ''Octavo 16''. Para determinar a los restantes 15 clasificados a las fases finales, se establecieron quince nuevas llaves. Los seis participantes de Argentina, por un lado, y los ocho de Brasil, por otro, conformaron siete de las llaves. En cada uno de los otros ocho cruces, se enfrentaron dos equipos clasificados de la primera fase. Los 15 ganadores avanzaron a los octavos de final.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|26 de agosto y 16 de septiembre
+| align="right" | '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]''' {{bandera|ECU}}
+| align="2" | '''2:0'''
+| align="left" | {{bandera|PAR}} [[Club Nacional (Paraguay)|Nacional]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235670&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235671&lang=es_LA 1:0]
+!Octavo 1
+
+|- align="center" style="background:#F5FAFF;"
+|26 de agosto y 15 de septiembre
+| align="right" | '''[[Defensor Sporting Club|Defensor Sporting]]''' {{bandera|URU}}
+| align="2" | '''4:0'''
+| align="left" | {{bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235676&lang=es_LA 3:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235677&lang=es_LA 1:0]
+!Octavo 2
+
+|- align="center"
+|27 de agosto y 16 de septiembre
+| align="right" | [[Club Nacional de Football|Nacional]] {{bandera|URU}}
+| align="2" | '''1:2'''
+| align="left" | {{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235668&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235669&lang=es_LA 1:0]
+!Octavo 3
+
+|- align="center" style="background:#F5FAFF;"
+|27 de agosto y 15 de septiembre
+| align="right" | [[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]] {{bandera|VEN}} 
+| align="2" | '''1:5'''
+| align="left" | {{bandera|PAR}} '''[[Club Sportivo Luqueño|Sportivo Luqueño]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235680&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235681&lang=es_LA 0:4]
+!Octavo 4
+
+|- align="center"
+|18 y 25 de agosto
+| align="right" | '''[[Brasília Futebol Clube|Brasília]]''' {{bandera|BRA}}
+| align="2" | '''2:0'''
+| align="left" | {{bandera|BRA}} [[Goiás Esporte Clube|Goiás]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235682&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235683&lang=es_LA 2:0]
+!Octavo 5
+
+|- align="center" style="background:#F5FAFF;"
+|26 de agosto y 15 de septiembre
+| align="right" | '''[[Club Olimpia|Olimpia]]''' {{bandera|PAR}}
+| align="2" | '''3:2'''
+| align="left" | {{bandera|COL}} [[Águilas Doradas]]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235666&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235667&lang=es_LA 2:1]
+!Octavo 6
+
+|- align="center"
+|26 de agosto y 16 de septiembre
+| align="right" |[[Club Atlético Tigre|Tigre]] {{bandera|ARG}}
+| align="2" | '''2:6'''
+| align="left" |{{bandera|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235694&lang=es_LA 2:5]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235695&lang=es_LA 0:1]
+!Octavo 7
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |[[Associação Atlética Ponte Preta|Ponte Preta]] {{bandera|BRA}}
+| align="2" | '''1:4'''
+| align="left" | {{bandera|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235686&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235687&lang=es_LA 0:3]
+!Octavo 8
+
+|- align="center"
+|27 de agosto y 17 de septiembre
+| align="right" | [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] {{bandera|CHI}}
+| align="2" | '''2:4'''
+| align="left" | {{bandera|PAR}} '''[[Club Libertad|Libertad]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235674&lang=es_LA 2:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235675&lang=es_LA 0:1]
+!Octavo 9
+
+|- align="center" style="background:#F5FAFF;"
+|19 y 26 de agosto
+| align="right" |[[Esporte Clube Bahia|Bahia]] {{bandera|BRA}}
+| align="2" | '''2:4'''
+| align="left" | {{bandera|BRA}} '''[[Sport Club do Recife|Sport Recife]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235684&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235685&lang=es_LA 1:4]
+!Octavo 10
+
+|- align="center"
+|26 de agosto y 16 de septiembre
+| align="right" |[[Arsenal Fútbol Club|Arsenal]] {{bandera|ARG}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235692&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235693&lang=es_LA 0:1]
+!Octavo 11
+
+|- align="center" style="background:#F5FAFF;"
+|20 y 27 de agosto
+| align="right" |[[Joinville Esporte Clube|Joinville]]  {{bandera|BRA}}
+| align="2" | '''0:3'''
+| align="left" | {{bandera|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235688&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235689&lang=es_LA 0:1]
+!Octavo 12
+
+|- align="center"
+|26 de agosto y 17 de septiembre
+| align="right" |  '''[[Deportes Tolima]]''' {{bandera|COL}}
+| align="2" | '''2:1'''
+| align="left" | {{bandera|COL}} [[Junior de Barranquilla|Junior]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235672&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235673&lang=es_LA 2:0]
+!Octavo 13
+
+|- align="center" style="background:#F5FAFF;"
+|27 de agosto y 17 de septiembre
+| align="right" | '''[[Club Sport Emelec|Emelec]]''' {{bandera|ECU}} 
+| align="2" | '''0:0''' <small>('''3:2''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" | {{bandera|URU}} [[Club Atlético Juventud (Las Piedras)|Juventud]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235678&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235679&lang=es_LA 0:0]
+!Octavo 14
+
+|- align="center"
+|27 de agosto y 17 de septiembre
+| align="right" |[[Club Atlético Belgrano|Belgrano]] {{bandera|ARG}}
+| align="2" | '''2:6'''
+| align="left" |{{bandera|ARG}} '''[[Club Atlético Lanús|Lanús]]''' 
+|[http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235690&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235691&lang=es_LA 1:5]
+!Octavo 15
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los 15 ganadores de la primera fase se les sumó [[Club Atlético River Plate|River Plate]], campeón de la [[Copa Sudamericana 2014]]. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta la denominación que se le asignó a cada equipo; en el caso de los cuadros que clasificaron desde la segunda fase, dicha denominación fue determinada por el nombre del cruce que ganaron en aquella instancia. De esa manera, el Octavo 1 enfrentó al Octavo 16, el 2 al 15, el 3 al 14, y así sucesivamente. Desde esta instancia inclusive en adelante, el equipo que ostentara menor número de orden que su rival de turno ejerció la localía en el partido de vuelta. En caso de que dos equipos de un mismo país alcanzaran la ronda de semifinales, se debía alterar, de ser necesario, el orden de las llaves para que ambos se enfrentaran en la mencionada instancia, a fin de evitar que puedan cruzarse en la final.
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Octavos de final -->
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2015|Octavos de final]]
+| RD1-date= 22 de septiembre al 1 de octubre
+
+| RD1-seed1 = 1
+| RD1-seed2 = 16
+| RD1-team1 = {{bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+| RD1-team2 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score1-1 = 0
+| RD1-score2-1 = 2
+| RD1-score1-2 = 1
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''1'''
+| RD1-score2-3 = '''2'''
+
+| RD1-seed3 = 8
+| RD1-seed4 = 9
+| RD1-team3 = {{bandera|BRA}} '''[[Associação Chapecoense de Futebol|Chapecoense]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD1-team4 = {{bandera|PAR}} [[Club Libertad|Libertad]]
+| RD1-score3-1 = 1 
+| RD1-score4-1 = 1
+| RD1-score3-2 = 1
+| RD1-score4-2 = 1
+| RD1-score3-3 = '''2&nbsp;{{small|(5)}}'''
+| RD1-score4-3 = '''2&nbsp;{{small|(3)}}'''
+
+| RD1-seed5 = 2
+| RD1-seed6 = 15
+| RD1-team5 = {{bandera|URU}} '''[[Defensor Sporting Club|Defensor Sporting]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD1-team6 = {{bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD1-score5-1 = 0
+| RD1-score6-1 = 0
+| RD1-score5-2 = 0
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''0&nbsp;{{small|(5)}}'''
+| RD1-score6-3 = '''0&nbsp;{{small|(3)}}'''
+
+| RD1-seed7 = 7
+| RD1-seed8 = 10
+| RD1-team7 = {{bandera|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD1-team8 = {{bandera|BRA}} [[Sport Club do Recife|Sport Recife]]
+| RD1-score7-1 = 1
+| RD1-score8-1 = 1
+| RD1-score7-2 = 3
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''4'''
+| RD1-score8-3 = '''1'''
+
+| RD1-seed9 = 4
+| RD1-seed10 = 13
+| RD1-team9 = {{bandera|PAR}} '''[[Club Sportivo Luqueño|Sportivo Luqueño]]'''
+| RD1-team10 = {{bandera|COL}} [[Deportes Tolima]]
+| RD1-score9-1 = 1
+| RD1-score10-1 = 1
+| RD1-score9-2 = 1
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''2'''
+| RD1-score10-3 = '''1'''
+
+| RD1-seed11 = 5
+| RD1-seed12 = 12
+| RD1-team11 = {{bandera|BRA}} [[Brasília Futebol Clube|Brasília]]
+| RD1-team12 = {{bandera|BRA}} '''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+| RD1-score11-1 = 0
+| RD1-score12-1 = 1
+| RD1-score11-2 = 0
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''0'''
+| RD1-score12-3 = '''1'''
+
+| RD1-seed13 = 3
+| RD1-seed14 = 14
+| RD1-team13 = {{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' {{small|([[Regla del gol de visitante|v]])}}
+| RD1-team14 = {{bandera|ECU}} [[Club Sport Emelec|Emelec]]
+| RD1-score13-1 = 1
+| RD1-score14-1 = 2
+| RD1-score13-2 = 1
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''2'''
+| RD1-score14-3 = '''2'''
+
+| RD1-seed15 = 6
+| RD1-seed16 = 11
+| RD1-team15 = {{bandera|PAR}} [[Club Olimpia|Olimpia]]
+| RD1-team16 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD1-score15-1 = 0
+| RD1-score16-1 = 1
+| RD1-score15-2 = 0
+| RD1-score16-2 = 0
+| RD1-score15-3 = '''0'''
+| RD1-score16-3 = '''1'''
+
+<!-- Cuartos de Final -->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2015|Cuartos de final]]
+| RD2-date= 20 al 29 de octubre
+
+| RD2-seed1 = 16
+| RD2-seed2 = 8
+| RD2-team1 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-team2 = {{bandera|BRA}} [[Associação Chapecoense de Futebol|Chapecoense]]
+| RD2-score1-1 = 3
+| RD2-score2-1 = 1
+| RD2-score1-2 = 1
+| RD2-score2-2 = 2
+| RD2-score1-3 = '''4'''
+| RD2-score2-3 = '''3'''
+
+| RD2-seed3 = 2
+| RD2-seed4 = 7
+| RD2-team3 = {{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+| RD2-team4 = {{bandera|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 0
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''0'''
+| RD2-score4-3 = '''1'''
+
+| RD2-seed5 = 4
+| RD2-seed6 = 12
+| RD2-team5 = {{bandera|PAR}} '''[[Club Sportivo Luqueño|Sportivo Luqueño]]'''
+| RD2-team6 = {{bandera|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+| RD2-score5-1 = 0
+| RD2-score6-1 = 1
+| RD2-score5-2 = 2
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''2'''
+| RD2-score6-3 = '''1'''
+
+| RD2-seed7 = 3
+| RD2-seed8 = 11
+| RD2-team7 = {{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+| RD2-team8 = {{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| RD2-score7-1 = 1
+| RD2-score8-1 = 0
+| RD2-score7-2 = 1
+| RD2-score8-2 = 1
+| RD2-score7-3 = '''2'''
+| RD2-score8-3 = '''1'''
+
+<!-- Semifinales -->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2015|Semifinales]]
+| RD3-date= 4 al 26 de noviembre
+
+| RD3-seed1 = 16
+| RD3-seed2 = 7
+| RD3-team1 = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-team2 = {{bandera|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+| RD3-score1-1 = 0
+| RD3-score2-1 = 1
+| RD3-score1-2 = 2
+| RD3-score2-2 = 2
+| RD3-score1-3 = '''2'''
+| RD3-score2-3 = '''3'''
+
+| RD3-seed3 = 4
+| RD3-seed4 = 3
+| RD3-team3 = {{bandera|PAR}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+| RD3-team4 = {{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' {{small|([[Regla del gol de visitante|v]])}}
+| RD3-score3-1 = 1
+| RD3-score4-1 = 1
+| RD3-score3-2 = 0
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''1'''
+| RD3-score4-3 = '''1'''
+
+<!-- Final -->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2015|Final]]
+| RD4-date= 2 y 9 de diciembre
+
+| RD4-seed1 = 7
+| RD4-seed2 = 3
+| RD4-team1 = {{bandera|ARG}} [[Club Atlético Huracán|Huracán]]
+| RD4-team2 = {{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' {{small|([[Tiros desde el punto penal|p]])}}
+| RD4-score1-1 = 0
+| RD4-score2-1 = 0
+| RD4-score1-2 = 0
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''0&nbsp;{{small|(1)}}'''
+| RD4-score2-3 = '''0&nbsp;{{small|(3)}}'''
+}}
+
+* <small>Nota: En cada llave, el equipo con la menor numeración es el que definió la serie como local.</small>
+* <small>Nota 2: Al haber arribado dos equipos argentinos a semifinales —Huracán y River Plate—, el cuadro debió alterarse de manera tal que ambos equipos tuvieron que enfrentarse en dicha instancia, a fin de evitar que pudieran encontrarse en la final. Los otros dos cuadros semifinalistas —Santa Fe y Sportivo Luqueño— se cruzaron en la otra llave.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2015|l1=Octavos de final de la Copa Sudamericana 2015}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paísvisita = ECU
+|fecha = 23 de septiembre de 2015, 19:00 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|URU|Christian Ferreyra}}
+|ciudad = [[Buenos Aires]]
+|asistencia = 35 000
+|goleslocal = [[Lucas Alario|Alario]] {{gol|26}} <br> [[Rodrigo Mora|Mora]] {{gol|75}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235696&lang=es_LA
+}}
+{{Partido
+|local = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paíslocal = ECU
+|resultado = 1:0''' (0:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 30 de septiembre de 2015, 17:45 ([[UTC-5]])
+|estadio = [[Estadio de Liga Deportiva Universitaria|Estadio Casa Blanca]]
+|refe = {{árbitro|COL|Wilmar Roldán}}
+|ciudad = [[Quito]]
+|asistencia = 25 000
+|goleslocal = [[Narciso Mina|Mina]] {{gol|53}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235697&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Libertad|Libertad]]
+|paíslocal = PAR
+|resultado = 1:1''' (0:1)
+|visita = [[Associação Chapecoense de Futebol|Chapecoense]]
+|paísvisita = BRA
+|fecha = 24 de septiembre de 2015, 20:00 ([[UTC-4]])
+|estadio = [[Estadio Dr. Nicolás Leoz]]
+|refe = {{árbitro|CHI|Roberto Tobar}}
+|ciudad = [[Asunción]]
+|asistencia = 7 000
+|goleslocal = [[Hernán Rodrigo López|López]] {{gol|90+2}}
+|golesvisita = [[Fernando Camilo Farias|Camilo]] {{gol|17}}
+|reporte = http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235710&lang=es_LA
+}}
+{{Partido
+|local = [[Associação Chapecoense de Futebol|Chapecoense]]
+|paíslocal = BRA
+|resultado = 1:1''' (1:1)
+|visita = [[Club Libertad|Libertad]]
+|paísvisita = PAR
+|fecha = 1 de octubre de 2015, 21:00 ([[UTC-3]])
+|estadio = [[Arena Condá]]
+|refe = {{árbitro|PER|Diego Haro}}
+|ciudad = [[Chapecó]]
+|asistencia = 8 000
+|goleslocal = [[Túlio de Melo]] {{gol|7}} 
+|golesvisita = [[Gustavo Mencia|Mencia]] {{gol|3}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235711&lang=es_LA
+| resultado penalti = 5:3
+| penaltis1 = [[Bruno Rangel]] {{pengol}} <br> [[Hélio Hermito Zampier Neto|Neto]] {{pengol}} <br> [[Cléber Santana]] {{pengol}} <br> [[José Gildeixon Clemente de Paiva|Gil]] {{pengol}} <br> [[Tiago Luís Martins|Tiago Luís]] {{pengol}}
+| penaltis2 =  {{penfallo}} [[Hernán Rodrigo López|López]] <br> {{pengol}} [[Jorge Daniel González Marquet|González]] <br> {{pengol}} [[Fabián Balbuena|Balbuena]] <br> {{pengol}} [[Sergio Aquino|Aquino]]
+}}
+<br>
+{{Partido
+|local = [[Deportes Tolima]]
+|paíslocal = COL
+|resultado = 1:1''' (1:0)
+|visita = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paísvisita = PAR
+|fecha = 22 de septiembre de 2015, 19:00 ([[UTC-5]])
+|estadio = [[Estadio Metropolitano de Techo]]
+|refe = {{árbitro|ARG|Germán Delfino}}
+|ciudad = [[Bogotá]]
+|asistencia = 6 000
+|goleslocal  = [[Jonathan Estrada|Estrada]] {{gol|15}}
+|golesvisita = [[Jorge Miguel Ortega|Ortega]] {{gol|69}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235702&lang=es_LA
+}}
+{{Partido
+|local = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paíslocal = PAR
+|resultado =  1:0''' (0:0)
+|visita = [[Deportes Tolima]]
+|paísvisita = COL
+|fecha = 29 de septiembre de 2015, 18:00 ([[UTC-4]])
+|estadio = [[Estadio Feliciano Cáceres]]
+|refe = {{árbitro|CHI|Julio Bascuñán}}
+|ciudad = [[Luque (Paraguay)|Luque]]
+|asistencia = 14 000
+|goleslocal = [[Luis Miño|Miño]] {{gol|76}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235703&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Clube Atlético Paranaense|Atlético Paranaense]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Brasília Futebol Clube|Brasilia]]
+|paísvisita = BRA
+|fecha = 23 de septiembre de 2015, 22:00 ([[UTC-3]])
+|estadio = [[Estadio Joaquim Américo Guimarães|Arena da Baixada]]
+|refe = {{árbitro|BOL|Gery Vargas}}
+|ciudad = [[Curitiba]]
+|asistencia = 25 000
+|goleslocal = [[Daniel Alejandro Hernández|Hernández]] {{gol|62}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235704&lang=es_LA
+}}
+{{Partido
+|local = [[Brasília Futebol Clube|Brasília]]
+|paíslocal = BRA
+|resultado = 0:0
+|visita = [[Clube Atlético Paranaense|Atlético Paranaense]]
+|paísvisita = BRA
+|fecha = 30 de septiembre de 2015, 22:00 ([[UTC-3]])
+|estadio = [[Estadio Mané Garrincha]]
+|refe = {{árbitro|ARG|Silvio Trucco}}
+|ciudad = [[Brasilia]]
+|asistencia = 15 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235705&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Lanús|Lanús]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita = URU
+|fecha = 24 de septiembre de 2015, 21:00 ([[UTC-3]])
+|estadio = [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+|refe = {{árbitro|VEN|José Argote}}
+|ciudad = [[Lanús]]
+|asistencia = 7 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.235698&lang=es_LA
+}}
+{{Partido
+|local = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal = URU
+|resultado = 0:0'''&nbsp;
+|visita = [[Club Atlético Lanús|Lanús]]
+|paísvisita = ARG
+|fecha = 1 de octubre de 2015, 21:00 ([[UTC-3]])
+|estadio = [[Estadio Luis Franzini]]
+|refe ={{árbitro|CHI|Enrique Osses}}
+|ciudad = [[Montevideo]]
+|asistencia = 5 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235699&lang=es_LA
+| resultado penalti = 5:3
+| penaltis1 = [[Andres Scotti|Scotti]] {{pengol}} <br> [[Felipe Jorge Rodríguez|F. Rodríguez]] {{pengol}} <br> [[Brian Lozano|Lozano]] {{pengol}} <br> [[Mathias Cardaccio|Cardaccio]] {{pengol}} <br> [[Maximiliano Gómez|Gómez]] {{pengol}}
+| penaltis2 =  {{penfallo}} [[Nicolás Aguirre (futbolista)|Aguirre]] <br> {{pengol}} [[Román Martínez|Martínez]] <br> {{pengol}} [[Maximiliano Velázquez|Velázquez]] <br> {{pengol}} [[Sebastián Leto|Leto]]
+}}
+<br>
+{{Partido
+|local = [[Sport Club do Recife|Sport Recife]]
+|paíslocal = BRA
+|resultado = 1:1''' (0:0)
+|visita = [[Club Atlético Huracán|Huracán]]
+|paísvisita = ARG
+|fecha = 23 de septiembre de 2015, 22:00 ([[UTC-3]])
+|estadio = [[Estadio Ilha do Retiro]]
+|refe = {{árbitro|COL|Adrián Vélez}}
+|ciudad = [[Recife]]
+|asistencia = 7726
+|goleslocal = [[André Felipe Ribeiro de Souza|André]] {{gol|51}}
+|golesvisita = [[Mauro Bogado|Bogado]] {{gol|74|pen.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235708&lang=es_LA
+}}
+{{Partido
+|local = [[Club Atlético Huracán|Huracán]]
+|paíslocal = ARG
+|resultado = 3:0''' (0:0)
+|visita = [[Sport Club do Recife|Sport Recife]]
+|paísvisita = BRA
+|fecha = 30 de septiembre de 2015, 22:10 ([[UTC-3]])
+|estadio = [[Estadio Tomás Adolfo Ducó]]
+|refe = {{árbitro|PAR|Julio Quintana Rodríguez|Julio Quintana}}
+|ciudad = [[Buenos Aires]]
+|asistencia = 5000
+|goleslocal = [[Ramón Ábila|Ábila]] {{gol|47||72}} <br> [[Mauro Bogado|Bogado]] {{gol|52}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235709&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Sport Emelec|Emelec]]
+|paíslocal = ECU
+|resultado = 2:1''' (0:1)
+|visita = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita = COL
+|fecha = 23 de septiembre de 2015, 17:00 ([[UTC-5]])
+|estadio = [[Estadio Jocay]]
+|refe = {{árbitro|BRA|Ricardo Marques Ribeiro}}
+|ciudad = [[Manta (Ecuador)|Manta]]
+|asistencia = 7500
+|goleslocal = [[Miler Bolaños|Bolaños]] {{gol|82||88|pen.}}
+|golesvisita = [[Juan Daniel Roa|Roa]] {{gol|45}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235700&lang=es_LA
+}}
+{{Partido
+|local = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal = COL
+|resultado = 1:0''' (1:0)
+|visita = [[Club Sport Emelec|Emelec]]
+|paísvisita = ECU
+|fecha = 29 de septiembre de 2015, 19:00 ([[UTC-5]])
+|estadio = [[Estadio Nemesio Camacho]]
+|refe = {{árbitro|URU|Darío Ubríaco}}
+|ciudad = [[Bogotá]]
+|asistencia = 17 000
+|goleslocal = [[Wilson Morelo|Morelo]] {{gol|45+1}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235701
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Independiente|Independiente]]
+|paíslocal = ARG
+|resultado = 1:0''' (1:0)
+|visita = [[Club Olimpia|Olimpia]]
+|paísvisita = PAR
+|fecha = 23 de septiembre de 2015, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|refe = {{árbitro|BRA|Héber Lopes}}
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 23 000
+|goleslocal = [[Juan Manuel Trejo|Trejo]] {{gol|42}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235706&lang=es_LA
+}}
+{{Partido
+|local = [[Club Olimpia|Olimpia]]
+|paíslocal = PAR
+|resultado = 0:0
+|visita = [[Club Atlético Independiente|Independiente]]
+|paísvisita = ARG
+|fecha = 30 de septiembre de 2015, 20:00 ([[UTC-4]])
+|estadio = [[Estadio Defensores del Chaco]]
+|refe = {{árbitro|URU|Daniel Fedorczuk}}
+|ciudad = [[Asunción]]
+|asistencia = 32 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235707&lang=es_LA
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2015|l1=Cuartos de final de la Copa Sudamericana 2015}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 3:1''' (1:1)
+|visita = [[Associação Chapecoense de Futebol|Chapecoense]]
+|paísvisita = BRA
+|refe = {{árbitro|URU|Jonhatan Fuentes}}
+|fecha = 21 de octubre de 2015, 21:00 ([[UTC-3]])
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 45 000
+|goleslocal = [[Carlos Andrés Sánchez|Sánchez]] {{gol|19||85}} <br> [[Leonardo Pisculichi|Pisculichi]] {{gol|62}}
+|golesvisita = [[Francinilson Meirelles|Maranhão]] {{gol|36}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235713&lang=es_LA
+}}
+{{Partido
+|local = [[Associação Chapecoense de Futebol|Chapecoense]]
+|paíslocal = BRA
+|resultado = 2:1''' (1:1)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|CHI|Julio Bascuñán}}
+|fecha = 28 de octubre de 2015, 22:00 ([[UTC-2]])
+|estadio = [[Arena Condá]]
+|ciudad = [[Chapecó]]
+|asistencia = 20 000
+|goleslocal = [[Bruno Rangel]] {{gol|20}} {{gol|52}}
+|golesvisita = [[Carlos Andrés Sánchez|Sánchez]] {{gol|45+1}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235712&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Clube Atlético Paranaense|Atlético Paranaense]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paísvisita = PAR
+|refe = {{árbitro|PER|Víctor Hugo Carrillo|Víctor Carrillo}}
+|fecha = 21 de octubre de 2015, 20:00 ([[UTC-2]])
+|estadio = [[Estadio Joaquim Américo Guimarães|Arena da Baixada]]
+|ciudad = [[Curitiba]]
+|asistencia = 17 000
+|goleslocal = [[Marcos Guilherme]] {{gol|63}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235718&lang=es_LA
+}}
+{{Partido
+|local = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paíslocal = PAR
+|resultado = 2:0''' (2:0)
+|visita = [[Clube Atlético Paranaense|Atlético Paranaense]]
+|paísvisita = BRA
+|refe = {{árbitro|URU|Christian Ferreyra}}
+|fecha = 28 de octubre de 2015, 19:00 ([[UTC-3]])
+|estadio = [[Estadio Feliciano Cáceres]]
+|ciudad = [[Luque (Paraguay)|Luque]]
+|asistencia = 18 000
+|goleslocal = [[Jorge Miguel Ortega|Ortega]] {{gol|5}} <br> [[José Leguizamón|Leguizamón]] {{gol|36}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235719&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Huracán|Huracán]]
+|paíslocal = ARG
+|resultado = 1:0''' (0:0)
+|visita = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita = URU
+|refe = {{árbitro|BRA|Anderson Daronco}}
+|fecha = 20 de octubre de 2015, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Tomás Adolfo Ducó]]
+|ciudad = [[Buenos Aires]]
+|asistencia = 6 000
+|goleslocal = [[Ramón Ábila|Ábila]] {{gol|78}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235714&lang=es_LA
+}}
+{{Partido
+|local = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal = URU
+|resultado = 0:0
+|visita = [[Club Atlético Huracán|Huracán]]
+|paísvisita = ARG
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 27 de octubre de 2015, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Luis Franzini]]
+|ciudad = [[Montevideo]]
+|asistencia = 10 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235715&lang=es_LA
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Independiente|Independiente]]
+|paíslocal = ARG
+|resultado = 0:1''' (0:0)
+|visita = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita = COL
+|refe = {{árbitro|BRA|Wilton Sampaio}}
+|fecha = 22 de octubre de 2015, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 40 000
+|goleslocal = 
+|golesvisita = [[Leyvin Balanta|Balanta]] {{gol|65}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235716&lang=es_LA
+}}
+{{Partido
+|local = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal = COL
+|resultado = 1:1''' (1:0)
+|visita = [[Club Atlético Independiente|Independiente]]
+|paísvisita = ARG
+|refe = {{árbitro|VEN|José Argote}}
+|fecha = 29 de octubre de 2015, 19:00 ([[UTC-5]])
+|estadio = [[Estadio Nemesio Camacho]]
+|ciudad = [[Bogotá]]
+|asistencia = 38 600
+|goleslocal = [[Francisco Meza|Meza]] {{gol|30}}
+|golesvisita = [[Robinson Zapata|Zapata]] {{gol|90+1|a.g.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235717&lang=es_LA
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2015|l1=Semifinales de la Copa Sudamericana 2015}}
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 0:1''' (0:1)
+|visita      = [[Club Atlético Huracán|Huracán]]
+|paísvisita  = ARG
+|fecha       = 5 de noviembre de 2015, 20:45 ([[UTC-3]])
+|estadio     = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|URU|Andrés Cunha}} 
+|asistencia  = 48 000
+|goleslocal  = 
+|golesvisita = [[Cristian Espinoza|Espinoza]] {{gol|14}}
+|reporte     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235722&lang=es_LA
+}}
+{{Partido
+|local       = [[Club Atlético Huracán|Huracán]]
+|paíslocal   = ARG
+|resultado   = 2:2''' (2:0)
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 26 de noviembre de 2015, 20:45 ([[UTC-3]])
+|estadio     = [[Estadio Tomás Adolfo Ducó]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|BRA|Sandro Ricci}} 
+|asistencia  = 30 000
+|goleslocal  = [[Patricio Toranzo|Toranzo]] {{gol|2}} <br> [[Ramón Ábila|Ábila]] {{gol|25}}
+|golesvisita = [[Rodrigo Mora|Mora]] {{gol|68||81}}
+|reporte     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235723&lang=es_LA
+}}
+<br>
+{{Partido
+|local       = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paíslocal   = PAR
+|resultado   = 1:1''' (1:0)
+|visita      = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita  = COL
+|fecha       = 4 de noviembre de 2015, 20:45 ([[UTC-3]])
+|estadio     = [[Estadio Feliciano Cáceres]]
+|ciudad      = [[Luque (Paraguay)|Luque]]
+|refe        = {{árbitro|URU|Darío Ubríaco}} 
+|asistencia  = 20 000
+|goleslocal  = [[Guido Di Vanni|Di Vanni]] {{gol|13}}
+|golesvisita = [[Baldomero Perlaza|Perlaza]] {{gol|60}}
+|reporte     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235720&lang=es_LA
+}}
+{{Partido
+|local       = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal   = COL
+|resultado   = 0:0
+|visita      = [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|paísvisita  = PAR
+|fecha       = 25 de noviembre de 2015, 19:00 ([[UTC-5]])
+|estadio     = [[Estadio Nemesio Camacho]]
+|ciudad      = [[Bogotá]]
+|refe        = {{árbitro|CHI|Enrique Osses}}
+|asistencia  = 39 155
+|goleslocal  = 
+|golesvisita = 
+|reporte     = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.235721&lang=es_LA
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2015|l1=Final de la Copa Sudamericana 2015}}
+{{Partido
+|local       = [[Club Atlético Huracán|Huracán]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita  = COL
+|fecha       = 2 de diciembre de 2015, 21:00 ([[UTC-3]])
+|estadio     = [[Estadio Tomás Adolfo Ducó]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|PAR|Antonio Arias Alvarenga|Antonio Arias}} 
+|asistencia  = 35 000
+|goleslocal  = 
+|golesvisita = 
+|reporte     = http://www.conmebol.com/estadisticas/gamecast/canchita.php?torneo=sudamericana&idFicha=235724
+}}
+{{Partido
+|local       = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal   = COL
+|resultado   = 0:0
+|visita      = [[Club Atlético Huracán|Huracán]]
+|paísvisita  = ARG
+|fecha       = 9 de diciembre de 2015, 19:00 ([[UTC-5]])
+|estadio     = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad      = [[Bogotá]]
+|refe        = {{árbitro|BRA|Héber Lopes}} 
+|asistencia  = 38 000
+|goleslocal  = 
+|golesvisita = 
+|reporte     = http://www.conmebol.com/estadisticas/gamecast/canchita.php?torneo=sudamericana&idFicha=235725
+|prórroga    = sí
+|penaltis1   = [[Omar Sebastián Pérez|Pérez]] {{pengol}} <br> [[Luis Manuel Seijas|Seijas]] {{pengol}} <br> [[Leyvin Balanta|Balanta]] {{pengol}}
+|resultado penalti = 3:1
+|penaltis2   =  {{penfallo|atajado}} [[Mauro Bogado|Bogado]] <br> {{penfallo|travesaño}} [[Martín Nervo|Nervo]] <br> {{pengol}} [[Federico Mancinelli|Mancinelli]] <br> {{penfallo|travesaño}} [[Patricio Toranzo|Toranzo]]
+}}
+<br/>
+{{Campeón
+|equipo = [[Independiente Santa Fe|Santa Fe]]
+|bandera = Colombia
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="60%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#D0E7FF
+|{{bandera|ECU}} '''[[Miller Bolaños]]'''
+|{{bandera|ECU}} '''[[Club Sport Emelec|Emelec]]'''
+|align=center| '''5'''
+|align=center| '''5'''
+|- bgcolor=#D0E7FF
+|{{bandera|PAR}} '''[[José Ariel Núñez]]'''
+|{{bandera|PAR}} '''[[Club Olimpia|Olimpia]]'''
+|align=center| '''5'''
+|align=center| '''6'''
+|- bgcolor=#D0E7FF
+|{{bandera|ARG}} '''[[Ramón Ábila]]'''
+|{{bandera|ARG}} '''[[Club Atlético Huracán|Huracán]]'''
+|align=center|'''5'''
+|align=center|'''8'''
+|- bgcolor=#D0E7FF
+|{{bandera|COL}} '''[[Wilson Morelo]]'''
+|{{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+|align=center|'''5'''
+|align=center|'''12'''
+|-
+|{{bandera|ARG}} [[Cristian Espinoza]]
+|{{bandera|ARG}} [[Club Atlético Huracán|Huracán]]
+|align=center|4
+|align=center|8
+|- 
+|{{bandera|PAR}} [[Jorge Miguel Ortega|Jorge Ortega]]
+|{{bandera|PAR}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|align=center|4
+|align=center|9
+|-
+|{{bandera|ARG}} [[Guido Di Vanni]]
+|{{bandera|PAR}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|align=center|4
+|align=center|9
+|-
+|}
+<small><center>Fuente: [http://www.livefutbol.com/goleadores/copa-sudamericana-2015/ Livefutbol]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="60%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#D0E7FF
+|{{bandera|COL}} '''[[Vladimir Hernández]]'''
+|{{bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+|align=center|'''3'''
+|align=center|'''4'''
+|- 
+|{{bandera|COL}} [[Sergio Otálvaro]]
+|{{bandera|COL}} [[Independiente Santa Fe|Santa Fe]]
+|align=center|3
+|align=center|6
+|- 
+|{{bandera|URU}} [[Felipe Rodríguez]]
+|{{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+|align=center|3
+|align=center|6
+|-
+|{{bandera|ARG}} [[Cristian Espinoza]]
+|{{bandera|ARG}} [[Club Atlético Huracán|Huracán]]
+|align=center|3
+|align=center|8
+|-
+|{{bandera|ARG}} [[Guido Di Vanni]]
+|{{bandera|PAR}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|align=center|3
+|align=center|9
+|}
+<small><center>Fuente: [https://www.livefutbol.com/asistencias/copa-sudamericana-2015/ Livefutbol]</small></center>
+
+== Véase también ==
+* [[Copa Libertadores 2015]]
+* [[Recopa Sudamericana 2016]]
+* [[Copa Suruga Bank 2016]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com Sitio web] de [[Conmebol]].
+* [http://www.conmebol.com/es/copa-sudamericana2015 Copa Sudamericana] en la página web oficial de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2014|2014]]
+| título     = Copa Sudamericana 2015
+| período    = XIV edición
+| sucesor    = [[Copa Sudamericana 2016|2016]]
+}}
+
+{{Control de autoridades}}
+
+[[Categoría:Copa Sudamericana|2015]]
+[[Categoría:Copa Sudamericana 2015]]
+[[Categoría:Fútbol en 2015]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

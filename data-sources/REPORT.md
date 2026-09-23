@@ -1,10 +1,10 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **4895** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **4911** jugadores.
 
 ## Definición de goles
-Goles de liga argentina en la división indicada. Sin copas, sin selección, sin clubes extranjeros, sin amistosos.
-Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura + Liga Profesional, desde 1990/91, si hizo goles ahí o es arquero) > Transfermarkt Primera Nacional (ARG2, desde 2008/09). Los goles de Transfermarkt salen de sumar las listas por temporada (completas) y se controlan contra su lista histórica. No incluye Copa de la Liga ni copas.
+Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
+Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura + Liga Profesional, desde 1990/91, si hizo goles ahí o es arquero) > Transfermarkt Primera Nacional (ARG2, desde 2008/09). Los goles de Transfermarkt salen de sumar las listas por temporada (completas) y se controlan contra su lista histórica. Copas y ascenso previo a 2008/09 se suman desde Wikipedia (tablas de goleadores por edición: cota inferior, marcada `cups-partial`; tablas históricas de Libertadores y Sudamericana: exactas).
 
 ## Resumen
 - RSSSF: 113 jugadores parseados. Suma por club = total en 113.
@@ -15,9 +15,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Tablas de goleadores por club (Independiente, Lanús, Boca): 131 filas válidas, 73 jugadores agregados (faltaban en las fuentes principales), 3 filas descartadas por totales inconsistentes.
 - Tablas de Wikipedia (8: Primera, Primera, River Plate, San Lorenzo, Huracán, Tigre, Racing Club, Talleres): 349 filas válidas, 80 jugadores agregados, 4 filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: 1 (Andrés Silvera: 44 (un club) → 107 (Primera, carrera)). Diferencias de 5+ goles con la tabla de Primera: 10 (ver abajo).
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 1.
-- Primera: 3280 · Primera Nacional: 1615
-- Por posición: GK 86 · CB 799 · LB 271 · RB 267 · DM 335 · CM 462 · AM 513 · LW 359 · RW 431 · ST 1372
-- Marcados para revisión: 1823
+- Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
+- Primera: 3280 · Primera Nacional: 1631
+- Por posición: GK 86 · CB 799 · LB 271 · RB 267 · DM 335 · CM 463 · AM 513 · LW 360 · RW 431 · ST 1386
+- Marcados para revisión: 1979
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -56,7 +57,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 174 jugadores
+- position-unverified: 180 jugadores
+- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.
+- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
 - seasons-before-*-not-counted: 226 jugadores
 - José Sand: active-in-source-update-2023
 - Santiago Silva: active-in-source-update-2023
@@ -65,58 +68,89 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Rogelio Cuello: club-total-only
 - Pablo Frers: club-total-only, position-unverified
 - Daniel Onega: club-total-only
+- Ignacio Scocco: cups-partial
 - Gilmar Villagrán: club-total-only
 - Luis Antonio Ludueña: club-total-only
+- Mariano Pavone: cups-partial
 - Natalio Perinetti: club-total-only
+- Andrés Silvera: cups-partial
 - Pedro Ochoa: club-total-only
 - Edgardo Paruzzo: club-total-only
+- Fernando Cavenaghi: cups-partial
 - Ricardo Bochini: club-total-only
 - Daniel Passarella: secondary-source-club-statistics
+- Martín Cauteruccio: season-list-truncated, cups-partial
 - Juan Perinetti: club-total-only
 - Pedro Calomino: club-total-only
+- Marco Ruben: cups-partial
 - Horacio Bustos: club-total-only, position-unverified
 - Norberto Outes: club-total-only
+- Silvio Romero: cups-partial
 - Ángel Bocanelli: club-total-only
 - Ángel Silva: club-total-only
 - Camilo Cervino: club-total-only
+- Mauro Boselli: season-list-truncated, cups-partial
 - Daniel Bertoni: club-total-only
 - Bernardo Acosta: club-total-only
+- Ramón Ábila: season-list-truncated, cups-partial
 - Claudio Nigretti: club-total-only
 - Pedro Farías: club-total-only, position-unverified
 - Alfredo Graciani: club-total-only
 - Aníbal Tarabini: club-total-only
+- Carlos Tévez: cups-partial
 - Osvaldo Rubén Potente: club-total-only, position-unverified
 - Jorge Burruchaga: club-total-only
 - Ángel Clemente Rojas: club-total-only
 - Amable López: club-total-only, position-unverified
 - Antonio Gambino: club-total-only, position-unverified
+- Gabriel Ávalos: season-list-truncated, cups-partial
 - Mario Bevilacqua: club-total-only
 - Pedro Gordillo: club-total-only, position-unverified
+- Nicolás Blandi: cups-partial
+- Braian Romero: season-list-truncated, cups-partial
+- Lucas Pratto: season-list-truncated, cups-partial
+- Miguel Merentiel: cups-partial
+- Rodrigo Palacio: cups-partial
 - Paulo Valentim: club-total-only
+- Pablo Magnin: cups-partial
 - Hugo Curioni: club-total-only
 - José Zorrilla: club-total-only
+- Darío Benedetto: season-list-truncated, cups-partial
+- Diego Ceballos: cups-partial
 - Orfilio Pinaroli: club-total-only, position-unverified
 - Daniel Willington: club-total-only
+- Cristian Tarragona: season-list-truncated, cups-partial
 - Ricardo Pavoni: club-total-only
+- Martín Cardetti: cups-partial
 - Osvaldo Rubén Gil: club-total-only
 - Ángel Alfonso: club-total-only, position-unverified
 - Carlos Lacasia: club-total-only
 - Eduardo Maglioni: club-total-only
 - Horacio Salvatelli: club-total-only, position-unverified
+- Walter Bou: season-list-truncated, cups-partial
 - Daniel Picaro: club-total-only, position-unverified
 - Ernesto Pieri: club-total-only
+- Jonathan Herrera: season-list-truncated, cups-partial
+- Leandro González: cups-partial
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
+- Luis Silba: season-list-truncated, cups-partial
 - Enzo Trossero: club-total-only
+- Miguel Borja: season-list-truncated, cups-partial
+- Facundo Parra: cups-partial
+- Guido Carrillo: cups-partial
 - Raúl Armando Savoy: club-total-only
+- Silvio Carrario: cups-partial
 - Humberto Taborda: club-total-only
 - Ricardo Bonelli: club-total-only
 - Rodolfo Micheli: club-total-only
 - Carlos Cecconato: club-total-only
+- Daniel Jiménez: cups-partial
 - José Borello: club-total-only
 - Pablo Farías: club-total-only, position-unverified
 - Roberto Cortez: club-total-only, position-unverified
 - Juan Crespín: club-total-only, position-unverified
+- Álex Arce: cups-partial
 - Benito Cejas: club-total-only
 - José Percudani: club-total-only
 - Juan José De Mario: club-total-only
@@ -124,6 +158,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Renato Manzzolli: club-total-only, position-unverified
 - Raúl Bernao: club-total-only
 - Alejandro Barberón: club-total-only
+- Lucas Gamba: cups-partial
 - Agustín Balbuena: club-total-only
 - Alfredo Garasini: club-total-only, position-unverified
 - Juan Romay: club-total-only
@@ -132,19 +167,25 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Severino Varela: club-total-only
 - Fermín Flamini: club-total-only, position-unverified
 - Miguel Ángel Ludueña: club-total-only
+- Gustavo Bou: cups-partial
 - Osvaldo Héctor Cruz: club-total-only, position-unverified
 - Osvaldo Nardiello: club-total-only, position-unverified
 - Ramón Enrique: club-total-only, position-unverified
 - Urbano Reynoso: club-total-only
 - José Pastoriza: club-total-only
+- Milton Giménez: cups-partial
 - Carlos Fuentes: club-total-only, position-unverified
+- Ignacio Russo: cups-partial
+- Juan Antonio Pizzi: cups-partial
 - Juan Nani: club-total-only, position-unverified
 - Pedro Heredia: club-total-only, position-unverified
 - Ramón Héctor Ponce: club-total-only
+- Bruno Sepúlveda: season-list-truncated, cups-partial
 - Ezequiel Reynoso: club-total-only, position-unverified
 - Fernando Walter: club-total-only
 - Francisco Armenante: club-total-only, position-unverified
 - Francisco Taggino: club-total-only
+- Julián Alvarez: season-list-truncated, cups-partial
 - Oscar Pianetti: club-total-only
 - Pablo Bozzo: club-total-only, position-unverified
 - Alberto Lorenzo: club-total-only, position-unverified
@@ -152,72 +193,261 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - José Florio: club-total-only
 - Oscar Contreras: club-total-only, position-unverified
 - Enzo Ferrero: club-total-only
+- Lucas Janson: season-list-truncated, cups-partial
+- Nicolás Benegas: cups-partial
+- Nicolás Pavlovich: cups-partial
 - Norberto Madurga: club-total-only
 - Pierino González: club-total-only
+- Sebastián Palacios: cups-partial
+- Franco Jara: cups-partial
 - Horacio Attadía: club-total-only
 - Pedro Acevedo: club-total-only, position-unverified
+- Andrés Chávez: season-list-truncated, cups-partial
+- Antonio Barijho: cups-partial
+- Héctor Silva: cups-partial
+- Juan Carlos Almada: editions-partial
+- Lucas Alario: cups-partial
 - Oscar Tedini: club-total-only, position-unverified
 - Raúl Martínez: club-total-only
 - Ricardo Cherini: club-total-only
 - Carlos Guerini: club-total-only
 - Darío Felman: club-total-only
+- Eduardo Salvio: season-list-truncated, cups-partial
 - Miguel Ángel Gambier: club-total-only
 - Nicolás Daponte: club-total-only
 - Norberto Pairoux: club-total-only, position-unverified
 - Ramón Taborda: club-total-only, position-unverified
 - Rubén Suñé: club-total-only
+- Tomás Molina: cups-partial
+- Adam Bareiro: season-list-truncated, cups-partial
 - Alberto De Sá: club-total-only, position-unverified
 - Antonio Cerrotti: club-total-only, position-unverified
+- Federico Anselmo: cups-partial
+- Ignacio Piatti: cups-partial
+- Rafael Maceratesi: cups-partial
 - Alberto Sánchez: club-total-only
 - Alfredo Bazán: club-total-only, position-unverified
 - Emilio Castro: club-total-only, position-unverified
+- Facundo Bruera: cups-partial
+- Fernando Zampedri: cups-partial
+- Hugo Noremberg: editions-partial, position-unverified
 - Eugenio Maldonado: club-total-only, position-unverified
 - Humberto Epifanio: club-total-only, position-unverified
+- Leandro Caruso: cups-partial
 - Luis Oviedo: club-total-only, position-unverified
 - Oscar Fachetti: club-total-only, position-unverified
 - Clotardo Dendi: club-total-only
+- Mauro Formica: cups-partial
+- Rodrigo Castillo: cups-partial
 - Alfredo Veira: club-total-only, position-unverified
 - Benito Albarracín: club-total-only, position-unverified
 - Eduardo Sánchez: club-total-only, position-unverified
+- Milton Caraglio: cups-partial
+- Rodrigo Astudillo: cups-partial
 - Ángel Hoyos: club-total-only
+- Eduardo Bennett: cups-partial
+- Enzo Copetti: season-list-truncated, cups-partial
 - Fernando Di Carlo: club-total-only, position-unverified
+- Franco Soldano: season-list-truncated, cups-partial
+- Jesús Dátolo: season-list-truncated, cups-partial
 - Juan Prax: club-total-only, position-unverified
+- Nicolás Reniero: season-list-truncated, cups-partial
 - Alfredo Calderón: club-total-only, position-unverified
 - Francisco Gallardo: club-total-only, position-unverified
 - Gustavo Albella: club-total-only
 - Miguel Rivarola: club-total-only, position-unverified
+- Rafael Santos Borré: cups-partial
+- Diego Latorre: cups-partial
 - Hugo Salvatelli: club-total-only, position-unverified
+- Lucas Melano: cups-partial
+- Luciano Vietto: cups-partial
+- Alejo Veliz: season-list-truncated, cups-partial
+- Emiliano Rigoni: cups-partial
+- Lautaro Martínez: cups-partial
+- Daniel Bilos: cups-partial
+- Luciano Gondou: season-list-truncated, cups-partial
+- Matías Pérez García: cups-partial
+- Nicolás Orsini: cups-partial
 - Roberto Ortiz: club-total-only, position-unverified
 - Antonio Alderete: club-total-only
 - Celedonio Fernández: club-total-only, position-unverified
+- Christian Bernardi: season-list-truncated, cups-partial
+- Francisco Pizzini: season-list-truncated, cups-partial
 - Jorge Weschta: club-total-only, position-unverified
 - José Luis Pochettino: club-total-only
+- Maximiliano Casa: season-list-truncated, cups-partial
+- Alexis Castro: season-list-truncated, cups-partial
+- Daniel Leani: editions-partial, position-unverified
+- Daniel Toribio Aquino: editions-partial
+- Edinson Cavani: cups-partial
+- Ignacio Pussetto: cups-partial
+- Martín Benítez: cups-partial
+- Patricio Camps: cups-partial
+- Sergio Recchiutti: editions-partial, position-unverified
 - Andrés Sosa: club-total-only, position-unverified
+- Claudio Biaggio: cups-partial
 - Eduardo Zárate: club-total-only, position-unverified
+- Jorge Piñero da Silva: seasons-before-2008-not-counted, cups-partial
+- Paolo Goltz: cups-partial
 - Roberto Oste: club-total-only, position-unverified
+- Adrián Czornomaz: editions-partial
+- Alexis Cuello: cups-partial
 - Narciso Contreras: club-total-only, position-unverified
+- Pablo Palacios Alvarenga: cups-partial
 - Alejandro Kenig: club-total-only
+- Alex Luna: cups-partial
 - Antonio Reynoso: club-total-only, position-unverified
+- Federico Andrada: cups-partial
 - Julio Rivero: club-total-only, position-unverified
 - Mario Salvatelli: club-total-only, position-unverified
+- Martín Fabro: cups-partial
+- Matías Tissera: cups-partial
+- Miguel Amaya: editions-partial
 - Raúl Allende: club-total-only, position-unverified
+- Roger Martínez: cups-partial
+- Abel Blasón: editions-partial
+- Alan Lescano: cups-partial
 - Antonio Adasse: club-total-only, position-unverified
 - Arturo Rodas: club-total-only, position-unverified
+- Augusto Lotti: season-list-truncated, cups-partial
+- Gastón Verón: season-list-truncated, cups-partial
 - Ignacio Pereyra: club-total-only, position-unverified
+- Mauro Méndez: cups-partial
+- Renzo Tesuri: season-list-truncated, cups-partial
 - Ángel Pereyra: club-total-only, position-unverified
+- Jonathan Santana: cups-partial
+- Lucas Passerini: cups-partial
+- Marcelino Moreno: cups-partial
+- Marcelo Salas: cups-partial
+- Marcelo Torres: cups-partial
+- Pablo Solari: season-list-truncated, cups-partial
 - Ramón Salas: club-total-only, position-unverified
 - Roque Riquelme: club-total-only, position-unverified
+- Claudio Aquino: cups-partial
+- José Florentín: season-list-truncated, cups-partial
+- Marcelo Reggiardo: editions-partial, position-unverified
+- Marcelo Rufini: editions-partial, position-unverified
+- Rubén Botta: cups-partial
+- Carlos Casteglione: cups-partial
 - Francisco Rivadero: club-total-only
+- Giuliano Galoppo: season-list-truncated, cups-partial
+- Joaquín Molina: cups-partial
+- Neri Bandiera: season-list-truncated, cups-partial
+- Raúl Aredes: editions-partial
+- Renzo Reynaga: season-list-truncated, cups-partial
+- Thiago Almada: cups-partial
 - Víctor Heredia: club-total-only, position-unverified
 - Adolfino Cañete: club-total-only
+- Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial
+- Daniel Oddine: editions-partial, position-unverified
+- Héctor Baillié: editions-partial
+- José Luis Chilavert: cups-partial
+- José Manuel López: cups-partial
 - Manuel Peralta: club-total-only, position-unverified
 - Miguel Ángel Frullingui: club-total-only, position-unverified
+- Sergio Saturno: editions-partial
+- Sergio Verdirame: editions-partial
+- Alfredo Moreno: cups-partial
+- Emiliano Vecchio: season-list-truncated, cups-partial
+- Leandro Somoza: cups-partial
+- Óscar Romero: season-list-truncated, cups-partial
+- Tomás Conechny: cups-partial
+- Braian Oyola: editions-partial
+- Juan Fernando Quintero: season-list-truncated, cups-partial
+- Leandro Vella: cups-partial
+- Nicolás Cordero: season-list-truncated, cups-partial
+- Nicolás Laméndola: cups-partial
+- Sebastián Ereros: seasons-before-1990-not-counted, cups-partial
+- Agustín Bouzat: cups-partial
+- Agustín Fontana: cups-partial
+- Benjamín Rollheiser: season-list-truncated, cups-partial
+- Jonathan Dellarossa: season-list-truncated, cups-partial
+- Matko Miljevic: cups-partial
+- Santiago Montiel: cups-partial
+- Tomás Belmonte: cups-partial
+- Victor Cuesta: cups-partial
+- Aarón Molinas: cups-partial
+- Alan Velasco: cups-partial
+- Andrés Guglielminpietro: cups-partial
+- Cristian Espinoza: cups-partial
+- Damián Martínez: season-list-truncated, cups-partial
+- Norberto Briasco: season-list-truncated, cups-partial
+- Tomás Galván: season-list-truncated, cups-partial
+- Walter García: cups-partial
+- Fernando Zuqui: season-list-truncated, cups-partial
+- José Loncón: seasons-before-2008-not-counted, cups-partial
+- Lucas Blondel: season-list-truncated, cups-partial
+- Marco Iacobellis: cups-partial
+- Nahuel Banegas: cups-partial
+- Rodrigo Archubi: cups-partial
+- Tiago Palacios: cups-partial
+- Valentín Depietri: cups-partial
+- Wilson Morelo: cups-partial
+- Federico Murillo: season-list-truncated, cups-partial
+- James Rodríguez: cups-partial
+- Maher Carrizo: cups-partial
+- Marcos Rojo: season-list-truncated, cups-partial
+- Ramón Sosa: season-list-truncated, cups-partial
+- Salomón Rondón: cups-partial
+- Alexis Canelo: cups-partial
+- Damián Akerman: cups-partial
+- Elías Contreras: season-list-truncated, cups-partial
+- Federico Girotti: season-list-truncated, cups-partial
+- Iván Leguizamón: season-list-truncated, cups-partial
+- Pablo de Blasis: cups-partial
+- Pablo Hernández: cups-partial
+- Facundo Farías: season-list-truncated, cups-partial
+- Matías Reali: cups-partial
+- Rodrigo Atencio: cups-partial
+- Santiago Castro: season-list-truncated, cups-partial
+- Tiziano Perrotta: cups-partial
+- Alan Marinelli: season-list-truncated, cups-partial
+- Alexis Steimbach: cups-partial
+- Benjamín Borasi: season-list-truncated, cups-partial
 - Ezequiel Bulacio: club-unverified, season-list-truncated
+- Franco Nicola: cups-partial
+- José Michelena: season-list-truncated, cups-partial
+- Lucas Besozzi: cups-partial
+- Luciano Cabral: cups-partial
+- Cecilio Domínguez: cups-partial
+- Gastón Benavídez: cups-partial
 - Juan Cruz Vega: club-unverified, season-list-truncated
+- Luciano Gómez: cups-partial
+- Agustín Campana: season-list-truncated, cups-partial
+- Alejo Distaulo: cups-partial
+- Clever Ferreira: cups-partial
+- Diego Valdés: cups-partial
+- Fernando Duré: season-list-truncated, cups-partial
+- Javier Molina: seasons-before-2008-not-counted, cups-partial
+- Leandro Ledesma: cups-partial
 - Maximiliano Rogoski: club-unverified, season-list-truncated
+- Dilan Godoy: cups-partial
 - Genaro Rossi: club-unverified, season-list-truncated
+- Jhon Córdoba: cups-partial
+- Lautaro Gutiérrez: cups-partial
+- Mauro Cachi: season-list-truncated, cups-partial
+- Maximiliano Zalazar: cups-partial
+- Nicolás Barros Schelotto: cups-partial
+- Tobías Andrada: cups-partial
+- Aarón Quirós: season-list-truncated, cups-partial
+- Christian Bassedas: cups-partial
+- Gabriel Cedrés: cups-partial
+- Jeremías Lázaro: cups-partial
+- Jeremías Perales: season-list-truncated, cups-partial
+- Martín Posse: cups-partial
+- Mikel Amondarain: cups-partial
+- Santiago Sosa: cups-partial
+- Tomás Adoryán: cups-partial
+- Tomás Castro Ponce: cups-partial
+- Agustín Hausch: cups-partial
+- Alexander Machado: cups-partial
+- Enzo Coacci: cups-partial
 - Franco Olego: club-unverified
+- Lautaro Godoy: cups-partial
+- Martín Lazarte: season-list-truncated, cups-partial
+- Mauro Burruchaga: season-list-truncated, cups-partial
 - Sebastián Riquelme: club-unverified, season-list-truncated
+- Valentín Aguiñagalde: season-list-truncated, cups-partial
 
 ## Descartados
 - Independiente — Zoilo Canavery: liga + copas + internacional no suman el total (40+8+0 vs 65)
@@ -227,3 +457,71 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Anexo:Máximos goleadores de la Primera División de Argentina — San Lorenzo: sin número de goles legible
 - Anexo:Estadísticas del Club Atlético San Lorenzo de Almagro — Rinaldo Martino: 230 goles en 151 partidos (columnas probablemente invertidas)
 - Anexo:Goleadores del Club Atlético Talleres — Jorge Campos: 35 goles en 30 partidos (columnas probablemente invertidas)
+- Campeonato Nacional B 1991-92: sin tabla de goleadores legible
+- Campeonato Nacional B 1993-94: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 1997-98: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 1998-99: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 1999-00: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2003-04: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2004-05: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2005-06: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2006-07: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2014: sin tabla de goleadores legible
+- Campeonato de Primera B Nacional 2016: sin tabla de goleadores legible
+- Copas/ascenso sin sumar — Esteban González (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Roberto Monserrat (San Lorenzo no coincide con Colón, Racing Club, Argentinos Juniors)
+- Copas/ascenso sin sumar — Adrián Martínez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Guillermo Franco (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Luis Rodríguez (Atlético Tucumán, Colón no coincide con Comisión de Actividades Infantiles, CM Crucero del Norte, Racing (Cba), CAI, El Linqueño, Los Andes, Crucero, Villa Dálmine, Sarmiento (R))
+- Copas/ascenso sin sumar — Leandro Fernández (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Nicolás Fernández (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Walter Silvani (River Plate no coincide con Newell's Old Boys, Estudiantes LP)
+- Copas/ascenso sin sumar — Alfredo Graciani (Racing Club no coincide con Boca Juniors)
+- Copas/ascenso sin sumar — Guillermo Rivarola (River Plate no coincide con San Lorenzo, Racing Club)
+- Copas/ascenso sin sumar — Sebastián Rambert (Independiente no coincide con River Plate, Boca Juniors)
+- Copas/ascenso sin sumar — Javier Mazzoni (Independiente no coincide con Olimpo)
+- Copas/ascenso sin sumar — Martín Vilallonga (Racing Club no coincide con Lanús, Arsenal FC, Instituto ACC)
+- Copas/ascenso sin sumar — Martín Prost (CAI no coincide con Juventud Unida (Gualeguaychú), Agropecuario, Quilmes AC)
+- Copas/ascenso sin sumar — Antonio Piergüidi (Huracán no coincide con Gimnasia LP)
+- Copas/ascenso sin sumar — Maxi Rodríguez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Diego Martínez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Germán Herrera (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Sergio Chitero (Defensores de Pronunciamiento no coincide con Patronato, Paraná)
+- Copas/ascenso sin sumar — Santiago González (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Marcelo Estigarribia (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Enzo Fernández (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Maximiliano Romero (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Esteban Fernández (Newell's Old Boys no coincide con Gimnasia y Esgrima de Mendoza)
+- Copas/ascenso sin sumar — Matías González (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Maximiliano Salas (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Jonathan Herrera (Deportivo Armenio no coincide con Central Córdoba (SdE), Patronato, Riestra, Sarmiento (Junin), Centro Español, Dep. Riestra, Ferro, Central Córdoba, San Lorenzo, Independiente, Sarmiento Junin)
+- Copas/ascenso sin sumar — Tomás Fernández (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Gonzalo Ríos (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Leandro Díaz (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Julián Fernández (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Renzo Giampaoli (Gimnasia y Esgrima (LP) no coincide con Quilmes AC)
+- Copas/ascenso sin sumar — Francisco González (Belgrano (C) no coincide con Newell's Old Boys, Defensa y Justicia, Newell's, Defensa)
+- Copas/ascenso sin sumar — Tomás González (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Maximiliano Gutiérrez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Francisco Molina (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Leonardo Monje (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Joaquín Novillo (Aldosivi no coincide con Belgrano)
+- Copas/ascenso sin sumar — Facundo Quiroga (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Marcos Rivadero (Atenas (RC) no coincide con Villa Dálmine, Flandria)
+- Copas/ascenso sin sumar — Maximiliano Rogoski (Ferrocarril Midland no coincide con sin clubes)
+- Copas/ascenso sin sumar — Israel Roldán (Sarmiento (LB) no coincide con Estudiantes (San Luis))
+- Copas/ascenso sin sumar — David Romero (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Tomás Silva (Platense no coincide con Maipú)
+- Copas/ascenso sin sumar — Franco Torres (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Matías Vera (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Valentino Werro (Temperley no coincide con Social y Atlético Guillermo Brown)
+- Copas/ascenso sin sumar — Roberto Oste (Defensa y Justicia no coincide con Talleres)
+- Copas/ascenso sin sumar — Juan Alejandro Abaurre
+- Copas/ascenso sin sumar — Leandro Armani ( no coincide con Newell's Old Boys, Central Córdoba, Tiro Federal R, Newell's, Casildenses, Cor. Aguirre, Belgrano (P))
+- Copas/ascenso sin sumar — Cristian Nuñez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Rodrigo Salinas ( no coincide con Vélez Sarsfield, Newell's Old Boys, Sarmiento (Junin), Godoy Cruz, Vil. San Carlos, Rosario Central, Unión Santa Fe, Los Andes, Chacarita Jrs., Newell's, Sarmiento Junin, Mitre (SdE))
+- Copas/ascenso sin sumar — Enzo Díaz (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Matías Giménez (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Agustín Colazo (Aldosivi no coincide con Unión (Santa Fe), Gimnasia LP)
+- Copas/ascenso sin sumar — Matías Romero (nombre repetido en el dataset)
+- Copas/ascenso sin sumar — Ignacio Sabatini (Arsenal no coincide con Gimnasia y Esgrima de Mendoza)

@@ -1,0 +1,2576 @@
+{{Ficha de campeonato
+| tipo =
+| nombre_original = [[Copa Sudamericana]]
+| nombre = Copa Sudamericana 2022
+| anterior = [[Copa Sudamericana 2021]]
+| actual = 
+| siguiente = [[Copa Sudamericana 2023]]
+| ubicación = [[Archivo:South America (orthographic projection).svg|20px|link=|América del Sur]] [[América del Sur]]
+| deporte = Fútbol
+| imagen = Argentina - Colombia 2022 (138).jpg
+| imagen_tamaño = 2500px
+| imagen_pie = El [[estadio Mario Alberto Kempes]] ([[Córdoba (Argentina)|Córdoba]]) fue sede de la [[Anexo:Final de la Copa Sudamericana 2022|final]]
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| fecha de inicio = 8 de marzo
+| fecha de cierre = 1 de octubre
+| edición = XXI
+| campeón = {{Bandera|Ecuador}} '''[[Independiente del Valle]]''' <small>(2.º título)</small>
+| subcampeón = {{Bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| semifinalistas = {{Bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]<br>{{Bandera|Brasil}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+| ciudad = {{Bandera|Argentina}} [[Córdoba (Argentina)|Córdoba]], [[Argentina]] ([[Anexo:Final de la Copa Sudamericana 2022|final]])
+| participantes = 56 (de 10 países)
+| televisión = {{Lista desplegable|[[DirecTV Sports]] (Sudamérica y el Caribe)<br>[[ESPN (Latinoamérica)|ESPN]] (Sudamérica)<br>Conmebol TV (Brasil)<br>[[Bein Sports|beIN Sports]] (Estados Unidos y Canadá)<br>'''Sublicencias:<br>'''[[Tigo Sports]] (Bolivia, Paraguay y Centroamérica)}}
+| partidos = 157
+| goles = 395 ({{#expr:390/156 round 2}} por partido)
+| goleador = {{Bandera|ARG}} [[Bernardo Cuesta]] (8)<br /><small>([[Foot Ball Club Melgar|Melgar]])</small>
+| est_nombre1 = 
+| est1 = 
+| página web = https://conmebolsudamericana.com/
+}}
+
+La '''[[Copa Sudamericana]] 2022''', denominada oficialmente '''Copa Conmebol Sudamericana 2022''', fue la vigésima primera edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+Desde esta edición, Conmebol eliminó la norma del [[Regla del gol de visitante|gol visitante]] en todas sus competiciones.<ref>{{cita web|url=https://www.elespectador.com/deportes/futbol-mundial/conmebol-elimino-la-norma-del-gol-visitante-en-todas-sus-competiciones/|título=Conmebol eliminó la norma del gol visitante en todas sus competiciones|fecha=26 de noviembre de 2021}}</ref>
+
+El campeón fue [[Independiente del Valle]], de Ecuador, que venció en la final a [[São Paulo Futebol Clube|São Paulo]], de [[Brasil]], por 2-0, logrando así su segunda consagración en el certamen.<ref>{{cita web|título=Independiente del Valle, bicampeón de la CONMEBOL Sudamericana|url=https://www.conmebol.com/noticias/independiente-del-valle-bicampeon-de-la-conmebol-sudamericana/|obra=Conmebol|fecha=1 de octubre de 2022}}</ref> Por lo que disputó la [[Recopa Sudamericana 2023]] contra [[Clube de Regatas do Flamengo|Flamengo]], campeón de la [[Copa Libertadores 2022]], además clasificó automáticamente para la [[Copa Libertadores 2023]] y la edición piloto del nuevo torneo denominado [[UEFA-CONMEBOL Club Challenge 2023|Desafío de Clubes Conmebol-UEFA 2023]] contra el campeón de la [[Liga Europa de la UEFA 2022-23]].<ref>{{cita web|título=La UEFA y la CONMEBOL lanzan el Desafío de Clubes 2023|url=https://www.conmebol.com/noticias/la-uefa-y-la-conmebol-lanzan-el-desafio-de-clubes-2023/|obra=Conmebol|fechaacceso=7 de julio de 2023}}</ref><ref>{{cita web|título=El UEFA CONMEBOL Desafío de Clubes 2023: Todo lo que necesitas saber|url=https://www.conmebol.com/noticias/el-uefa-conmebol-desafio-de-clubes-2023-todo-lo-que-necesitas-saber/|obra=Conmebol|fechaacceso=7 de julio de 2023}}</ref>
+
+== Formato ==
+El 2 de octubre de 2020, el Consejo de la Conmebol aprobó la implementación de cambios de formato a la Copa Sudamericana a partir de la edición 2021, con el objetivo de asegurar que cada uno de los países esté mejor representado en las diferentes etapas de la competencia.<ref>{{cita web|url=https://www.eluniverso.com/deportes/2020/10/04/nota/8002228/copa-sudamericana-2021-nuevo-formato-se-jugara-fase-previa-equipos|título=Copa Sudamericana del 2021 con nuevo formato; se jugará una fase previa entre equipos del mismo país|fecha=4 de octubre de 2020}}</ref> Los participantes se distribuyen de la siguiente manera:<ref name = "changes2020"> {{Cita web|url=http://www.conmebol.com/es/se-viene-una-conmebol-sudamericana-mas-competitiva-y-representativa|título=Se viene una CONMEBOL Sudamericana más competitiva y representativa|autor=CONMEBOL|fecha=2 de octubre de 2020|fechaacceso=12 de octubre de 2020}}</ref><ref name="reglamento">{{cita web|título=Manual de Clubes / Reglamento CONMEBOL Sudamericana 2022|url=https://www.conmebol.com/sin-categorizar/manual-de-clubes-reglamento-conmebol-sudamericana-2022/|obra=Conmebol|fecha=22 de diciembre de 2021|fechaacceso=28 de diciembre de 2021}}</ref>
+
+* En la primera fase, equipos de todas las federaciones excepto Argentina y Brasil jugaron contra un equipo de su misma federación en llaves a doble partido. Los ganadores clasificaron a la fase de grupos, asegurando que al menos dos equipos de cada federación participaron en la fase de grupos.
+* Se incluyeron en la fase de grupos, los equipos de Argentina y Brasil, así como los cuatro equipos eliminados en la tercera fase de la Copa Libertadores. Los ganadores de cada grupo se clasificaron a los octavos de final.
+* Los ocho mejores terceros de la fase de grupos de la Copa Libertadores entraron a la competición en octavos de final. 
+
+{|class="wikitable"
+|-
+!colspan=2|
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+!Equipos transferidos de la Copa Libertadores
+|-
+! colspan="2" |Primera fase
+{{nowrap|(32 equipos)}}
+|
+* 4 equipos de Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|
+|-
+! colspan="2" |Fase de grupos
+(32 equipos)
+|
+* 6 equipos de Argentina y 6 equipos de Brasil 
+|
+* 16 equipos clasificados de la primera fase
+|
+* 4 equipos perdedores de la fase 3 de la '''Copa Libertadores'''
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+|
+* 8 equipos clasificados de la fase de grupos
+|
+* 8 equipos en tercer lugar de la fase de grupos de la '''Copa Libertadores'''
+|}
+
+=== Distribución de cupos ===
+
+{| class="wikitable sortable"
+|- 
+! País
+! Cupos
+! Octavos de final
+! Fase de grupos
+! Primera fase
+|- align=center
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4''' 
+|rowspan="10"|<small>''Indefinido''</small>
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4''' 
+|2{{esd}}←
+|←{{esd}}4
+|- align=center
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| 6
+|rowspan="4"|<small>''No participa''</small>
+|- align=center
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''6'''
+|6
+|- align=center
+| align="left" |Transferidos de la [[Copa Libertadores 2022]]
+|'''12'''
+|8
+|4
+|- 
+|Fase anterior
+|
+!8
+!16
+|-
+!Total
+!56
+!16
+!32
+!32
+|}
+
+=== Calendario ===
+El calendario del torneo fue publicado por Conmebol el 16 de agosto de 2021.<ref name="calendario">{{cita web|autor1=Conmebol|título=Calendario 2022: CONMEBOL Libertadores, CONMEBOL Sudamericana y la CONMEBOL Recopa|url=https://www.conmebol.com/es/calendario-2022-conmebol-libertadores-conmebol-sudamericana-y-la-conmebol-recopa|obra=conmebol.com|fecha=16 de agosto de 2021|fechaacceso=17 de agosto de 2021}}</ref>
+{| class="wikitable" style="text-align:center"
+!Fase
+!Ronda
+!Fecha de sorteo
+!Ida
+!Vuelta
+|-
+|Clasificatoria
+|Primera
+|20 de diciembre
+|8 al 10 de marzo 
+|15 al 17 de marzo
+|-
+| rowspan="6" |Grupos
+|Fecha 1
+| rowspan="6" |25 de marzo
+| colspan="2" |5 al 7 de abril
+|-
+|Fecha 2
+| colspan="2" |12 al 14 de abril
+|-
+|Fecha 3
+| colspan="2" |26 al 28 de abril
+|-
+|Fecha 4
+| colspan="2" |3 al 5 de mayo
+|-
+|Fecha 5
+| colspan="2" |17 al 19 de mayo
+|-
+|Fecha 6
+| colspan="2" |24 al 26 de mayo
+|-
+| rowspan="4" |Eliminatoria
+|Octavos de final
+| rowspan="4" |27 de mayo
+|28 al 30 de junio
+|5 al 7 de julio
+|-
+|Cuartos de final
+|2 al 4 de agosto
+|9 al 11 de agosto
+|-
+|Semifinales
+|30 al 31 de agosto
+|6 al 8 de septiembre
+|-
+|Final
+| colspan="2" |1 de octubre
+|}
+
+== Sede de la final ==
+{{AP|Anexo:Final de la Copa Sudamericana 2022|l1=Final de la Copa Sudamericana 2022}}{{AP|Anexo:Sedes de Finales Únicas de Competiciones de CONMEBOL|l1=Sedes de finales únicas de competiciones de Conmebol}}
+La Final en primera instancia se iba a realizar en el [[Estadio Nacional de Brasilia Mané Garrincha|estadio Nacional Mané Garrincha]] de [[Brasilia]], [[Brasil]].<ref>{{cita web|título=Conmebol ya definió dónde se jugarán las finales de 2022|url=https://www.tycsports.com/copa-sudamericana/conmebol-finales-copa-libertadores-copa-sudamericana-2022-id342850.html|fecha=13 de mayo de 2021|fechaacceso=13 de mayo de 2021}}</ref> No obstante, luego de que la [[Confederación Brasileña de Fútbol]] solicitara el cambio de sede a causa de las [[Elecciones generales de Brasil de 2022|elecciones generales]] del país a realizarse el 2 de octubre, el Consejo Directivo de la Conmebol decidió cambiar la sede de la final.
+
+El 23 de junio, la Conmebol anunció el cambio de sede, llevando el encuentro al [[estadio Mario Alberto Kempes]] de [[Córdoba (Argentina)|Córdoba]], [[Argentina]].<ref>{{cita web|título=Córdoba será una fiesta con la Final de la CONMEBOL Sudamericana 2022|url=https://www.conmebol.com/noticias/cordoba-sera-una-fiesta-con-la-final-de-la-conmebol-sudamericana-2022/|fecha=23 de junio de 2022|fechaacceso=23 de junio de 2022}}</ref>
+
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+|colspan="2"| {{Argentina}}
+|-
+!Ciudad
+!Estadio
+|-
+|{{Escudo2|Ciudad de Córdoba}}
+|[[Estadio Mario Alberto Kempes|Mario A. Kempes]]
+|-
+|[[Archivo:Montaje CBA 8.jpg|210x210px]]
+|[[Archivo:Vista_aérea_del_Estadio_Mario_Alberto_Kempes,_Córdoba.jpg|323x323px]]
+|-
+|colspan="2"| 57{{Esd}}000 espectadores
+|-
+|colspan="2"| <small>'''Final Copa Sudamericana 2022'''</small>
+|}
+</center>
+
+== Participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Sudamericana 2022|l1=Participantes en la Copa Sudamericana 2022}}
+
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="59%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br />
+<small>6 cupos</small> 
+|[[Club Atlético Banfield|Banfield]]<br />[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br />[[Club Atlético Independiente|Independiente]] <br /> [[Club Atlético Lanús|Lanús]]<br /> [[Racing Club]] <br /> [[Club Atlético Unión (Santa Fe)|Unión]]
+|Ganador del [[Copa de la Liga Profesional 2020#Clasificación a la Copa Sudamericana 2022 2|partido de clasificación de la Copa Diego Armando Maradona]]<br />7.º ubicado de la [[Campeonato de Primera División 2021 (Argentina)#Tabla general de la temporada 2021|tabla general de la temporada 2021]]<br />8.º ubicado de la tabla general de la temporada 2021<br />9.º ubicado de la tabla general de la temporada 2021<br />10.º ubicado de la tabla general de la temporada 2021<br />11.º ubicado de la tabla general de la temporada 2021
+|- bgcolor="#ddeeff"
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br />
+<small>4 cupos</small>
+|[[Royal Pari Fútbol Club|Royal Pari]]<br />[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]<br />[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]<br />[[Club Deportivo Guabirá|Guabirá]]
+|5.º puesto de la [[Campeonato de Primera División 2021 (Bolivia)|División Profesional de Bolivia 2021]]<br />6.º puesto de la División Profesional de Bolivia 2021<br />7.º puesto de la División Profesional de Bolivia 2021<br />8.º puesto de la División Profesional de Bolivia 2021
+|- bgcolor="#f5faff"
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br />
+<small>6 cupos</small>
+|[[Atlético Clube Goianiense|Atlético Goianiense]]<br />[[Santos Fútbol Club|Santos]]<br />[[Ceará Sporting Club|Ceará]]<br />[[Sport Club Internacional|Internacional]]<br />[[São Paulo Futebol Clube|São Paulo]]<br />[[Cuiabá Esporte Clube|Cuiabá]]
+|9.º puesto del [[Campeonato Brasileño de Fútbol Serie A 2021|Campeonato Brasileño Serie A 2021]]<br>10.º puesto del Campeonato Brasileño Serie A 2021<br>11.º puesto del Campeonato Brasileño Serie A 2021<br>12.º puesto del Campeonato Brasileño Serie A 2021<br>13.º puesto del Campeonato Brasileño Serie A 2021<br>15.º puesto del Campeonato Brasileño Serie A 2021
+|- bgcolor="#ddeeff"
+|'''{{Bandera|CHI}} [[Federacion de Futbol de Chile|Chile]]'''<br />
+<small>4 cupos</small>
+|[[Club de Deportes Unión La Calera|Unión La Calera]]<br />[[Unión Española]]<br />[[Club de Deportes Antofagasta|Deportes Antofagasta]]<br />[[Club Deportivo Ñublense|Ñublense]]
+|4.º puesto de la [[Primera División de Chile 2021]]<br />5.º puesto de la Primera División de Chile 2021 <br />6.º puesto de la Primera División de Chile 2021<br />7.º puesto de la Primera División de Chile 2021
+|- bgcolor="#f5faff"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''<br />
+<small>4 cupos</small>
+|[[Junior de Barranquilla|Junior]]<br />[[América de Cali]]<br />[[Club Deportivo La Equidad|La Equidad]]<br />[[Deportivo Independiente Medellín|Independiente Medellín]]
+|2.º ubicado de la [[Temporada 2021 del fútbol colombiano#Tabla de reclasificación|tabla de reclasificación de la Categoría Primera A de Colombia 2021]]<br />3.º ubicado de la tabla de reclasificación de la Categoría Primera A de Colombia 2021<br />4.º ubicado de la tabla de reclasificación de la Categoría Primera A de Colombia 2021<br />Campeón de la [[Copa Colombia 2020]]
+|- bgcolor="#ddeeff"
+|{{Bandera|ECU}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br />
+<small>4 cupos </small>
+|[[9 de Octubre Fútbol Club|9 de Octubre]]<br />[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br />[[Mushuc Runa Sporting Club|Mushuc Runa]]<br />[[Delfín Sporting Club|Delfín]]
+|5.º puesto de la [[Serie A de Ecuador 2021#Tabla acumulada|tabla acumulada de la Serie A de Ecuador 2021]]<br />6.º puesto de la tabla acumulada de la Serie A de Ecuador 2021<br />7.º puesto de la tabla acumulada de la Serie A de Ecuador 2021<br />8.º puesto de la tabla acumulada de la Serie A de Ecuador 2021
+|- bgcolor="#f5faff"
+|{{Bandera|PAR}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br />
+<small>4 cupos</small>
+|[[Club Nacional (Paraguay)|Nacional]]<br />[[Guaireña Fútbol Club|Guaireña]]<br />[[Club Sol de América (Asunción)|Sol de América]]<br />[[Club General Caballero (Mallorquín)|General Caballero]]
+|5.º puesto de la [[Torneo Clausura 2021 (Paraguay)#Clasificación para copas internacionales|tabla acumulada de la Primera División de Paraguay 2021]]<br />6.º puesto de la tabla acumulada de la Primera División de Paraguay 2021<br />Subcampeón de la [[Copa Paraguay 2021]]<br />Campeón de la [[División Intermedia 2021]]
+|- bgcolor="#ddeeff"
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br />
+<small>4 cupos</small>
+|[[Foot Ball Club Melgar|Melgar]]<br />[[Club Cienciano|Cienciano]]<br />[[Sport Boys Association|Sport Boys]]<br />[[Ayacucho Fútbol Club|Ayacucho]]
+|5.º puesto de la [[Liga 1 2021 (Perú)#Tabla acumulada|tabla acumulada de la Liga 1 del Perú 2021]]<br />6.º puesto de la tabla acumulada de la Liga 1 del Perú 2021<br />7.º puesto de la tabla acumulada de la Liga 1 del Perú 2021<br />8.º puesto de la tabla acumulada de la Liga 1 del Perú 2021
+|- bgcolor="#f5faff"
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]''' <br />
+<small>4 cupos </small>
+|[[Cerro Largo Fútbol Club|Cerro Largo]]<br />[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]<br />[[Liverpool Fútbol Club|Liverpool]]<br />[[Club Atlético River Plate (Uruguay)|River Plate]]
+|5.º puesto de la [[Campeonato Uruguayo de Primera División 2021#Tabla anual|tabla anual del Campeonato Uruguayo de Primera División 2021]]<br />6.º puesto de la tabla anual del Campeonato Uruguayo de Primera División 2021<br />7.º puesto de la tabla anual del Campeonato Uruguayo de Primera División 2021<br />8.º puesto de la tabla anual del Campeonato Uruguayo de Primera División 2021
+|- bgcolor="#ddeeff"
+|{{Bandera|VEN}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br />
+<small>4 cupos</small>
+|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]<br />[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]<br />[[Metropolitanos Fútbol Club|Metropolitanos]]<br />[[Club Deportivo Hermanos Colmenárez|Hermanos Colmenárez]]
+|5.º puesto del [[Primera División de Venezuela 2021#Hexagonal final A|Hexagonal Final A de la Primera División de Venezuela 2021]]<br>6.º puesto del Hexagonal Final A de la Primera División de Venezuela 2021<br>{{Ord|1.|er}} puesto del [[Primera División de Venezuela 2021#Hexagonal final B|Hexagonal Final B de la Primera División de Venezuela 2021]]<br>2.º puesto del Hexagonal Final B de la Primera División de Venezuela 2021
+|}
+
+=== Equipos transferidos desde la Copa Libertadores 2022 ===
+{{AP|Copa Libertadores 2022|l1=Copa Libertadores 2022}}
+Los cuatro equipos perdedores de la fase 3 de la Copa Libertadores pasarán a la fase de grupos de este torneo, y los ocho que ocupen el tercer puesto en la fase de grupos disputarán los octavos de final.
+
+{|cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:96%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="15%" |Fase
+! width="25%" |Equipo
+! width="60%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|'''Fase clasificatoria'''<br><small>4 cupos en la Fase de grupos</small>
+|{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]<br>{{Bandera|CHI}} [[Everton de Viña del Mar|Everton]]<br>{{Bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]<br>{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|Perdedor G1 de la fase 3 de la Copa Libertadores 2022<br>Perdedor G2 de la fase 3 de la Copa Libertadores 2022<br>Perdedor G3 de la fase 3 de la Copa Libertadores 2022<br>Perdedor G4 de la fase 3 de la Copa Libertadores 2022
+|- bgcolor="#ddeeff"
+|'''Fase de grupos'''<br><small>8 cupos en los Octavos de final</small>
+|{{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]<br>{{Bandera|BOL}} [[Club The Strongest|The Strongest]]<br>{{Bandera|URU}} [[Club Nacional de Football|Nacional]]<br>{{Bandera|ECU}} [[Independiente del Valle]]<br>{{Bandera|COL}} [[Deportivo Cali]]<br>{{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>{{Bandera|PAR}} [[Club Olimpia|Olimpia]]<br>{{Bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|{{Ord|3.|er}} puesto del grupo A de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo B de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo C de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo D de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo E de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo F de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo G de la Copa Libertadores 2022<br>{{Ord|3.|er}} puesto del grupo H de la Copa Libertadores 2022
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Sudamericana 2022'''.<br />(L) Equipos transferidos desde la [[Copa Libertadores 2022]].|AlternativeMap= CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.6083|long=-58.3719|label=<small>'''{{Esd|Gran<br>Buenos<br>Aires}}'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos de<br>Gran Buenos Aires:}}'''<br>[[Club Atlético Banfield|{{Esd|Banfield}}]]<br>[[Club Social y Deportivo Defensa y Justicia|{{Esd|Defensa y Justicia}}]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético Lanús|{{Esd|Lanús}}]]<br>[[Racing Club|{{Esd|Racing Club}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-31.633333|long=-60.7|label=<small>[[Club Atlético Unión|Unión]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.342855|long=-63.261423|label=<small>{{esd|[[Club Deportivo Guabirá|Guabirá]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=-17.796067|long=-63.183873|label=<small>'''Santa Cruz<br>de la Sierra'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-9|long=-64|label=<small>'''{{esd|Equipos de<br>Santa Cruz<br>de la Sierra:}}'''<br>{{esd|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]}}<br>{{esd|[[Royal Pari Fútbol Club|Royal Pari]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Jorge Wilstermann|Jorge&nbsp;Wilstermann]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-16.499507|long=-68.122798|label=<small>[[Club The Strongest|The Strongest]] (L)</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-3.781389|long=-38.588889|label=<small>[[Ceará Sporting Club|Ceará]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-16.6799|long=-49.255|label=<small>[[Atlético Clube Goianiense|Atlético Goianiense]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|{{Esd|Santos}}]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-15.6040194|long=-56.1216245|label=<small>[[Cuiabá Esporte Clube|Cuiabá]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.912166|long=-43.230163|label=<small>[[Fluminense Football Club|Fluminense]] (L)</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-23.65|long=-70.4|label=<small>[[Club de Deportes Antofagasta|Deportes Antofagasta]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-32.3128|long=-71.303|label=<small>{{Esd|[[Club de Deportes Unión La Calera|Unión La Calera]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.033333|long=-71.533333|label=<small>[[Everton de Viña del Mar|Everton]] (L)</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>'''Santiago'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-34.5|long=-90|label=<small>'''{{esd|Equipos de<br>Santiago:}}'''<br>{{esd|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]}} (L)<br>[[Unión Española|Unión{{esd}}Española]]<br>{{esd|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]}} (L)</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-36.6067|long=-72.1033|label=<small>[[Club Deportivo Ñublense|Ñublense]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=4.623545|long=-74.135611|label=<small>{{esd|[[Club Deportivo La Equidad|La Equidad]]}}</small>}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Independiente Medellín]]</small>|position=left}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]<br>[[Deportivo Cali]] (L)</small>|position=left}}
+{{Location map~|América del Sur|lat=10.96854|long=-74.78132|label=<small>{{Esd|[[Junior de Barranquilla|Junior]]}}</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>'''Quito'''</small>|position=left}}
+{{Location map~|América del Sur|lat=0.5|long=-89|label=<small>'''{{esd|Equipos de<br>Quito:}}'''<br>[[Independiente del Valle|Independiente&nbsp;del&nbsp;Valle]] (L)<br>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]] (L)</small>|mark=Clear pog.svg}}
+{{Location map~|América del Sur|lat=-0.950022|long=-80.7162|label=<small>[[Delfín Sporting Club|Delfín]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-1.241667|long=-78.619722|label=<small>[[Mushuc Runa Sporting Club|Mushuc Runa]]</small>|position=right}}
+{{Location map~|América del Sur|lat=0|long=-70|label=<small>'''{{esd|Equipos de<br>Guayaquil:}}'''<br>{{esd|[[9 de Octubre Fútbol Club|{{Esd|9 de Octubre}}]]}}<br>{{esd|[[Barcelona Sporting Club|Barcelona]]}} (L)</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>'''{{Esd|Guayaquil}}'''</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Gran Asunción'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-25.4167|long=-55.25|label=<small>[[Club General Caballero (Mallorquín)|General Caballero]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-25.76295|long=-56.43946|label=<small>[[Guaireña Fútbol Club|Guaireña]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-19|long=-59|label=<small>'''{{esd|Equipos de<br>Gran Asunción:}}'''<br>[[Club Nacional (Paraguay)|Nacional]]<br>[[Club Olimpia|Olimpia]] (L)<br>{{esd|[[Club Sol de América (Asunción)|Sol de América]]}}</small>|mark=TransparentPlaceholder.png}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-16.398764|long=-71.536883|label=<small>[[Foot Ball Club Melgar|Melgar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-13.518333|long=-71.978056|label=<small>[[Club Cienciano|Cienciano]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-13.163056|long=-74.224444|label=<small>[[Ayacucho Fútbol Club|Ayacucho]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Sport Boys Association|Sport Boys]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-32.581389|long=-54.088889|label=<small>[[Cerro Largo Fútbol Club|Cerro Largo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-35|long=-48|label=<small>'''{{esd|Equipos de Montevideo:}}'''<br>[[Liverpool Fútbol Club|Liverpool]]<br>[[Montevideo Wanderers Fútbol Club|Montevideo{{esd}}Wanderers]]<br>[[Club Nacional de Football|Nacional]] (L)<br>[[Club Atlético River Plate (Uruguay)|River Plate]]</small>|mark=TransparentPlaceholder.png}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=8.633333|long=-70.216667|label=<small>[[Club Deportivo Hermanos Colmenárez|Hermanos&nbsp;Colmenárez]]</small>|position=right}}
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Deportivo La Guaira Fútbol Club|{{Esd|Deportivo La Guaira}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=10.491|long=-66.902|label=<small>[[Metropolitanos Fútbol Club|Metropolitanos]]</small>|position=right}}
+{{Location map~|América del Sur|lat=8.556389|long=-71.216667|label=<small>[[Estudiantes de Mérida Fútbol Club|Estudiantes&nbsp;de&nbsp;Mérida]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=7.786389|long=-72.197778|label=<small><br>{{Esd|[[Deportivo Táchira Fútbol Club|Deportivo&nbsp;Táchira]] (L)}}</small>|position=right}}
+}}
+
+== Sorteo ==
+=== Fase preliminar ===
+El sorteo se realizó el 20 de diciembre de 2021 a las 12:00 (UTC–3) en la sede de la Conmebol, ubicada en la ciudad de Luque, Paraguay. Ese mismo día, se sortearon las fases preliminares de la [[Copa Libertadores 2022]].<ref>{{cita tuit|usuario=Sudamericana|título=Aviso de fecha de realización de Sorteo Preliminar de CONMEBOL Sudamericana 2022|número=1470877269245763584|fecha=14 de diciembre de 2021}}</ref> Por cada asociación miembro, hubo un bombo donde fueron ubicados, los cuatro equipos pertenecientes a dichas federaciones. En los cruces ejercerá la localía en el desquite, aquel haya sido sorteado en posición impar, el cruce de los dos primeros equipos sorteados en cada bombo, recibió la asignación 1 de cada país, para la fase de grupos, el siguiente cruce con los dos equipos restantes recibió la asignación 2.<ref>{{cita web|título=Pautas para los sorteos de la CONMEBOL Libertadores y la CONMEBOL Sudamericana 2022|url=https://www.conmebol.com/es/pautas-para-los-sorteos-de-la-conmebol-libertadores-y-la-conmebol-sudamericana-2022|obra=Conmebol|fechaacceso=17 de diciembre de 2021}}</ref>
+
+{| cellpadding="2" width=50% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="25%" |Bombo 1
+! width="25%" |Bombo 2
+! width="25%" |Bombo 3
+! width="25%" |Bombo 4
+|-
+|
+*{{bandera|BOL}} [[Royal Pari Fútbol Club|Royal Pari]]
+*{{bandera|BOL}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+*{{nowrap|{{bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]}}
+*{{bandera|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|
+*{{Bandera|CHI}} [[Club de Deportes Unión La Calera|Unión La Calera]]
+*{{bandera|CHI}} [[Unión Española]]
+*{{nowrap|{{bandera|CHI}} [[Club de Deportes Antofagasta|Deportes Antofagasta]]}}
+*{{bandera|CHI}} [[Club Deportivo Ñublense|Ñublense]]
+|
+*{{bandera|COL}} [[Junior de Barranquilla|Junior]]
+*{{bandera|COL}} [[América de Cali]]
+*{{Bandera|COL}} [[Club Deportivo La Equidad|La Equidad]]
+*{{nowrap|{{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]]}}
+|
+*{{Bandera|ECU}} [[9 de Octubre Fútbol Club|9 de Octubre]]
+*{{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+*{{Bandera|ECU}} [[Mushuc Runa Sporting Club|Mushuc Runa]]
+*{{Bandera|ECU}} [[Delfín Sporting Club|Delfín]]
+|- bgcolor=#006699 style="color:white;"
+! width="25%" |Bombo 5
+! width="25%" |Bombo 6
+! width="25%" |Bombo 7
+! width="25%" |Bombo 8
+|-
+|
+*{{Bandera|PAR}} [[Club Nacional (Paraguay)|Nacional]]
+*{{Bandera|PAR}} [[Guaireña Fútbol Club|Guaireña]]
+*{{Bandera|PAR}} [[Club Sol de América (Asunción)|Sol de América]]
+*{{bandera|PAR}} [[Club General Caballero (Mallorquín)|General Caballero]]
+|
+*{{bandera|PER}} [[Foot Ball Club Melgar|Melgar]]
+*{{Bandera|PER}} [[Club Cienciano|Cienciano]]
+*{{Bandera|PER}} [[Sport Boys Association|Sport Boys]]
+*{{Bandera|PER}} [[Ayacucho Fútbol Club|Ayacucho]]
+|
+*{{Bandera|URU}} [[Cerro Largo Fútbol Club|Cerro Largo]]
+*{{bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+*{{Bandera|URU}} [[Liverpool Fútbol Club|Liverpool]]
+*{{Bandera|URU}} [[Club Atlético River Plate (Uruguay)|River Plate]]
+|
+*{{bandera|VEN}} [[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+*{{bandera|VEN}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+*{{Bandera|VEN}} [[Metropolitanos Fútbol Club|Metropolitanos]]
+*{{nowrap|{{Bandera|VEN}} [[Club Deportivo Hermanos Colmenárez|Hermanos Colmenárez]]}}
+|}
+
+=== Fase de grupos ===
+El sorteo de la Fase de grupos se realizó el 25 de marzo de 2022 a las 12:00 (UTC–3), junto con el sorteo de la fase de grupos de la [[Copa Libertadores 2022]].<ref>{{cita web|título=Se confirmó el sorteo para la Copa Sudamericana 2022|url=https://www.infiernorojo.com/independiente/se-confirmo-el-sorteo-para-la-copa-sudamericana-2022/}}</ref>
+
+Los bombos fueron distribuidos según el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 16 de diciembre de 2021]]. Dos equipos de un mismo país no podían encontrarse en el mismo grupo.<ref name="reglamento"/>
+
+{| cellpadding="2" width=80% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="20%" |Bombo 1
+! width="20%" |Bombo 2
+! width="20%" |Bombo 3
+! width="20%" |Bombo 4
+|-
+|
+* {{Bandera|BRA}} [[Santos Fútbol Club|Santos]] (8)
+* {{Bandera|ARG}} [[Club Atlético Independiente|Independiente]] (10)
+* {{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]] (13)
+* {{Bandera|BRA}} [[Sport Club Internacional|Internacional]] (17)
+* {{Bandera|ARG}} [[Racing Club]] (19)
+* {{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]] (20)
+* {{Bandera|ARG}} [[Club Atlético Lanús|Lanús]] (24)
+* {{Bandera|COL}} [[Junior de Barranquilla|Junior]] (25)
+|
+* {{Bandera|ARG}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]] (36)
+* {{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]] (39)
+* {{nowrap|{{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]] (55)}}
+* {{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]] (66)
+* {{Bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]] (73)
+* {{Bandera|BOL}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]] (84)
+* {{Bandera|VEN}} [[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]] (89)
+* {{Bandera|CHI}} [[Deportes Unión La Calera|Unión La Calera]] (91)
+|
+* {{Bandera|URU}} [[Club Atlético River Plate (Uruguay)|River Plate]] (95)
+* {{Bandera|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]] (100)
+* {{Bandera|BRA}} [[Ceará Sporting Club|Ceará]] (107)
+* {{Bandera|ARG}} [[Club Atlético Banfield|Banfield]] (113)
+* {{Bandera|VEN}} [[Metropolitanos Fútbol Club|Metropolitanos]] (131)
+* {{Bandera|ARG}} [[Club Atlético Unión (Santa Fe)|Unión]] (142)
+* {{Bandera|PER}} [[Ayacucho Fútbol Club|Ayacucho]] (190)
+* {{Bandera|ECU}} [[9 de Octubre Fútbol Club|9 de Octubre]] (191)
+|
+* {{Bandera|CHI}} [[Club de Deportes Antofagasta|Deportes Antofagasta]] (197)
+* {{Bandera|PAR}} [[Guaireña Fútbol Club|Guaireña]] (223)
+* {{Bandera|BRA}} [[Cuiabá Esporte Clube|Cuiabá]] (253)
+* {{Bandera|PAR}} [[Club General Caballero (Mallorquín)|General Caballero]] (-)
+* {{Bandera|BRA}} [[Fluminense Football Club|Fluminense]] {{abreviación|(30)|Perdedor G1 de la Fase 3 de la Copa Libertadores.}}
+* {{Bandera|CHI}} [[Everton de Viña del Mar|Everton]] {{abreviación|(165)|Perdedor G2 de la Fase 3 de la Copa Libertadores.}}
+* {{nowrap|{{Bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]] {{abreviación|(120)|Perdedor G3 de la Fase 3 de la Copa Libertadores.}}}}
+* {{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]] {{abreviación|(18)|Perdedor G4 de la Fase 3 de la Copa Libertadores.}}
+|}
+
+== Fase preliminar ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2022|l1=Primera fase de la Copa Sudamericana 2022}}
+Se constituyó como Primera fase y se disputó por [[eliminación directa]] en partidos de ida y vuelta, entre equipos de la misma federación.
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Llave
+!width=18%|Fechas
+!width=20%|Local en la ida
+!width=8% |Global
+!width=20%|Local en la vuelta
+!width=8% |Ida
+!width=8% |Vuelta
+|-align=center
+|'''Bolivia 1'''
+|10 y 17 de marzo
+|align=right|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]''' {{Bandera|BOL}}
+|'''4:3'''
+|align=left|{{Bandera|BOL}} [[Club Deportivo Guabirá|Guabirá]]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4p4r2tax4vd9tccoq37vw7v9w 4:0]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=eh76fxhas024cu0jgkkil2iac 0:3]
+|-align=center 
+|'''Bolivia 2'''
+|8 y 15 de marzo
+|align=right|[[Royal Pari Fútbol Club|Royal Pari]] {{Bandera|BOL}}
+|'''2:6'''
+|align=left|{{Bandera|BOL}} '''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4p933at5igxc0jqm4vdoj2nf8 2:3]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehb5thtkb2lz4cmjv7bu1ss2c 0:3]
+|-align=center style="background:#F5FAFF;"
+|'''Chile 1'''
+|10 y 17 de marzo
+|align=right|[[Unión Española]] {{Bandera|CHI}}
+|'''2:2 {{small|(1:4 [[Tiros desde el punto penal|p.]])}}'''
+|align=left|{{Bandera|CHI}} '''[[Club de Deportes Antofagasta|Deportes Antofagasta]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pbv5i3hd1ezxo1lpwsifwe1g 1:2]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pbv5i3hd1ezxo1lpwsifwe1g 1:0]
+|-align=center style="background:#F5FAFF;"
+|'''Chile 2'''
+|8 y 15 de marzo
+|align=right|[[Club Deportivo Ñublense|Ñublense]] {{Bandera|CHI}}
+|'''1:2'''
+|align=left|{{Bandera|CHI}} '''[[Club de Deportes Unión La Calera|Unión La Calera]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4per1o71qb2hpk96dbz9qvwus 0:0]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehh05cfxagl37ehfslrsy95hw 1:2]
+|-align=center
+|'''Colombia 1'''
+|10 y 17 de marzo
+|align=right|[[Club Deportivo La Equidad|La Equidad]] {{Bandera|COL}}
+|'''1:3'''
+|align=left|{{Bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4phjo1d5ev1jsqhhdimhtcbh0 0:0]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehjqf17c0f6ab86n25bur53x0 1:3]
+|-align=center
+|'''Colombia 2'''
+|9 y 16 de marzo
+|align=right|'''[[Deportivo Independiente Medellín|Independiente Medellín]]''' {{Bandera|COL}}
+|'''3:3 {{small|(3:1 [[Tiros desde el punto penal|p.]])}}'''
+|align=left|{{Bandera|COL}} [[América de Cali]]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pkfi5mzjk1sjzrpxzb8hg6j8 2:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehmkstmzwq3e0hm4k5v3jhuz8 1:2]
+|-align=center style="background:#F5FAFF;"
+|'''Ecuador 1'''    
+|10 y 17 de marzo
+|align=right| [[Delfín Sporting Club|Delfín]] {{Bandera|ECU}}    
+|'''1:3'''
+|align=left|{{Bandera|ECU}} '''[[9 de Octubre Fútbol Club|9 de Octubre]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pnb32c36jyja9iammxx4rgus 1:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehpak60shsbssh8u5y5gxi784 0:2]
+|-align=center style="background:#F5FAFF;"
+|'''Ecuador 2'''
+|9 y 16 de marzo
+|align=right|[[Mushuc Runa Sporting Club|Mushuc Runa]] {{Bandera|ECU}}
+|'''1:3'''
+|align=left|{{Bandera|ECU}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pq6zg46ifbjop6144gyhppg4 0:2]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehs5bin9hayoaariirh4qpclw 1:1]
+|-align=center
+|'''Paraguay 1'''
+|10 y 17 de marzo
+|align=right|[[Club Nacional (Paraguay)|Nacional]] {{Bandera|PAR}}
+|'''0:1'''
+|align=left|{{Bandera|PAR}} '''[[Guaireña Fútbol Club|Guaireña]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pt4k1aw246pr8o62ykswxno4 0:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pt4k1aw246pr8o62ykswxno4 0:0]
+|-align=center 
+|'''Paraguay 2'''
+|8 y 15 de marzo
+|align=right|[[Club Sol de América (Asunción)|Sol de América]] {{Bandera|PAR}}
+|'''1:5'''
+|align=left|{{Bandera|PAR}} '''[[Club General Caballero (Mallorquín)|General Caballero]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pw4jovutrgebgfc3zza5pono 0:3]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ehxv8o37jqeioexeego1a4p3o 1:2]
+|-align=center style="background:#F5FAFF;"
+|'''Perú 1''' 
+|9 y 16 de marzo
+|align=right|'''[[Ayacucho Fútbol Club|Ayacucho]]''' {{Bandera|PER}}
+|'''4:3'''
+|align=left|{{Bandera|PER}} [[Sport Boys Association|Sport Boys]]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4pyvdrmxe8fx94kwyf8oqayac 2:0]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei0ry9kezc2aazgztcqba153o 2:3]
+|-align=center style="background:#F5FAFF;"
+|'''Perú 2'''
+|8 y 15 de marzo
+|align=right|[[Club Cienciano|Cienciano]] {{Bandera|PER}}
+|'''1:2'''
+|align=left|{{Bandera|PER}} '''[[Foot Ball Club Melgar|Melgar]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q1ta2v8r634q4p2j5z7lgcus 1:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei3pafzd538n72d2s4k5dtp90 0:1]
+|-align=center
+|'''Uruguay 1'''
+|10 y 17 de marzo
+|align=right|'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]''' {{Bandera|URU}}
+|'''3:1'''
+|align=left|{{Bandera|URU}} [[Cerro Largo Fútbol Club|Cerro Largo]]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q4lvpd6lkol51e99yhsr37ys 2:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei6l18jzsjy8p2kgf2rjdbklw 1:0]
+|-align=center
+|'''Uruguay 2'''
+|9 y 16 de marzo
+|align=right|[[Liverpool Fútbol Club|Liverpool]] {{Bandera|URU}}
+|'''0:3'''
+|align=left|{{Bandera|URU}} '''[[Club Atlético River Plate (Uruguay)|River Plate]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4q7eqz89wszzv9mbwcvolk0t0 0:1]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=ei9oljbikxts96f0jtneofhg4 0:2]
+|-align=center style="background:#F5FAFF;"
+|'''Venezuela 1'''
+|8 y 15 de marzo
+|align=right|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]] {{Bandera|VEN}}
+|'''0:6'''
+|align=left|{{Bandera|VEN}} '''[[Metropolitanos Fútbol Club|Metropolitanos]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4qa8oz8yohgt8jttlk69cjsb8 0:2]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=eicgzx2wsrj2eyxl82p6jdxjo 0:4]
+|-align=center style="background:#F5FAFF;"
+|'''Venezuela 2'''
+|10 y 17 de marzo
+|align=right|[[Club Deportivo Hermanos Colmenárez|Hermanos Colmenárez]] {{Bandera|VEN}}
+|'''2:3'''
+|align=left|{{Bandera|VEN}} '''[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]'''
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4qd4ydsv63o3ckew6ukobdo2c 2:0]
+|[https://www.conmebol.com/analisis-del-partido/?competition=32n2r9bl6x90psj0wa7bfs6vq&season=4cxh2j6tw396235tm2kleawpg&match=4qd4ydsv63o3ckew6ukobdo2c 0:3]
+|}
+
+== Fase de grupos ==
+Los participantes se distribuirán en ocho grupos de cuatro equipos cada uno. Los 4 perdedores de la fase 3 de la [[Copa Libertadores 2022]] ingresan en esta fase. Los primeros de cada uno de ellos pasarán a los octavos de final. Los criterios de clasificación son los siguientes:
+
+# Puntos obtenidos.
+# Diferencia de goles.
+# Mayor cantidad de goles marcados.
+# Mayor cantidad de goles marcados como visitante.
+# Ubicación en el ''ranking'' Conmebol.
+
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+| style="background: #D0E7FF;" width="20" |
+|'''Equipos clasificados para los [[Copa Sudamericana 2022#Octavos de final|octavos de final]]'''.
+|-
+| style="background: ;" width="20" |
+|Equipos eliminados de la competición.
+|}
+
+=== Grupo A ===
+{{AP|Anexo:Grupo A de la Copa Sudamericana 2022|l1=Grupo A de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Lanús|Lanús]]'''
+|'''11'''||6||3||2||1||7||4||3
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|'''9'''||6||2||3||1||9||8||1
+|- align="center"
+| style="text-align:left;" |{{Bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|'''8'''||6||2||2||2||6||7||–1
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Metropolitanos Fútbol Club|Metropolitanos]]
+|'''3'''||6||0||3||3||3||6||–3
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|7 de abril
+|[[Guayaquil]]
+|align="right"|'''[[Barcelona Sporting Club|Barcelona]]'''
+|4:2
+|align="left"|[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de abril
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|'''0:0'''
+|align="left"|[[Club Atlético Lanús|Lanús]]
+ 
+|- align=center 
+|14 de abril
+|[[Montevideo]]
+|align="right"|[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|'''1:1'''
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+ 
+|- align=center style="background:#FFFFFF;"
+|14 de abril
+|[[Lanús]]
+|align="right"|'''[[Club Atlético Lanús|Lanús]]'''
+|3:1
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center 
+|28 de abril
+|[[Montevideo]]
+|align="right"|[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|0:1
+|align="left"|'''[[Club Atlético Lanús|Lanús]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|28 de abril
+|[[Guayaquil]]
+|align="right"|'''[[Barcelona Sporting Club|Barcelona]]'''
+|1:0
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+
+|- align=center 
+|4 de mayo
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|0:1
+|align="left"|'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+
+|- align=center style="background:#FFFFFF;"
+|4 de mayo
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|'''1:1'''
+|align="left"|[[Club Atlético Lanús|Lanús]]
+
+|- align=center 
+|19 de mayo
+|[[Lanús]]
+|align="right"|[[Club Atlético Lanús|Lanús]]
+|1:2
+|align="left"|'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de mayo
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|'''2:2'''
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center 
+|25 de mayo
+|[[Lanús]]
+|align="right"|'''[[Club Atlético Lanús|Lanús]]'''
+|1:0
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+
+|- align=center style="background:#FFFFFF;"
+|25 de mayo
+|[[Montevideo]]
+|align="right"|[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|'''0:0'''
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+|}
+|}
+
+=== Grupo B ===
+{{AP|Anexo:Grupo B de la Copa Sudamericana 2022|l1=Grupo B de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|PER}} '''[[Foot Ball Club Melgar|Melgar]]'''
+|'''12'''||6||4||0||2||10||6||4
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Racing Club]]
+|'''12'''||6||4||0||2||7||5||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|BRA}} [[Cuiabá Esporte Clube|Cuiabá]]
+|'''6'''||6||2||0||4||7||10||–3
+|- align="center"
+| style="text-align:left;" |{{Bandera|URU}} [[Club Atlético River Plate (Uruguay)|River Plate]]
+|'''6'''||6||2||0||4||5||8||–3
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|7 de abril
+|[[Cuiabá]]
+|align="right"|'''[[Cuiabá Esporte Clube|Cuiabá]]'''
+|2:0
+|align="left"|[[Foot Ball Club Melgar|Melgar]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de abril
+|[[Montevideo]]
+|align="right"|[[Club Atlético River Plate (Uruguay)|River Plate]]
+|0:1
+|align="left"|'''[[Racing Club]]'''
+ 
+|- align=center 
+|13 de abril
+|[[Arequipa]]
+|align="right"|'''[[Foot Ball Club Melgar|Melgar]]'''
+|2:0
+|align="left"|[[Club Atlético River Plate (Uruguay)|River Plate]]
+ 
+|- align=center style="background:#FFFFFF;"
+|13 de abril
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]'''
+|2:0
+|align="left"|[[Cuiabá Esporte Clube|Cuiabá]]
+
+|- align=center 
+|27 de abril
+|[[Arequipa]]
+|align="right"|'''[[Foot Ball Club Melgar|Melgar]]'''
+|3:1
+|align="left"|[[Racing Club]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|27 de abril
+|[[Cuiabá]]
+|align="right"|[[Cuiabá Esporte Clube|Cuiabá]]
+|1:2
+|align="left"|'''[[Club Atlético River Plate (Uruguay)|River Plate]]'''
+
+|- align=center 
+|3 de mayo
+|[[Montevideo]]
+|align="right"|[[Club Atlético River Plate (Uruguay)|River Plate]]
+|1:2
+|align="left"|'''[[Foot Ball Club Melgar|Melgar]]'''
+
+|- align=center style="background:#FFFFFF;"
+|3 de mayo
+|[[Cuiabá]]
+|align="right"|[[Cuiabá Esporte Clube|Cuiabá]]
+|1:2
+|align="left"|'''[[Racing Club]]'''
+
+|- align=center
+|18 de mayo
+|[[Montevideo]]
+|align="right"|[[Club Atlético River Plate (Uruguay)|River Plate]]
+|1:2
+|align="left"|'''[[Cuiabá Esporte Clube|Cuiabá]]'''
+
+|- align=center style="background:#FFFFFF;" 
+|18 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]'''
+|1:0
+|align="left"|[[Foot Ball Club Melgar|Melgar]]
+
+|- align=center 
+|26 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|[[Racing Club]]
+|0:1
+|align="left"|'''[[Club Atlético River Plate (Uruguay)|River Plate]]'''
+
+|- align=center style="background:#FFFFFF;"
+|26 de mayo
+|[[Arequipa]]
+|align="right"|'''[[Foot Ball Club Melgar|Melgar]]'''
+|3:1
+|align="left"|[[Cuiabá Esporte Clube|Cuiabá]]
+|}
+|}
+
+=== Grupo C ===
+{{AP|Anexo:Grupo C de la Copa Sudamericana 2022|l1=Grupo C de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Santos Fútbol Club|Santos]]'''
+|'''11'''||6||3||2||1||7||5||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club de Deportes Unión La Calera|Unión La Calera]]
+|'''11'''||6||3||2||1||6||4||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|'''5'''||6||1||2||3||7||8||–1
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Banfield|Banfield]]
+|'''5'''||6||1||2||3||3||6||–3
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de abril
+|[[Quito]]
+|align="right"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|'''0:0'''
+|align="left"|[[Club de Deportes Unión La Calera|Unión La Calera]]
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de abril
+|[[Banfield]]
+|align="right"|'''[[Club Atlético Banfield|Banfield]]'''
+|1:0
+|align="left"|[[Santos Fútbol Club|Santos]]
+ 
+|- align=center 
+|13 de abril
+|[[Santos]]
+|align="right"|'''[[Santos Fútbol Club|Santos]]'''
+|3:2
+|align="left"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+ 
+|- align=center style="background:#FFFFFF;"
+|14 de abril
+|[[Viña del Mar]]
+|align="right"|'''[[Club de Deportes Unión La Calera|Unión La Calera]]'''
+|1:0
+|align="left"|[[Club Atlético Banfield|Banfield]]
+
+|- align=center 
+|27 de abril
+|[[Quito]]
+|align="right"|'''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]'''
+|2:0
+|align="left"|[[Club Atlético Banfield|Banfield]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|28 de abril
+|[[Viña del Mar]]
+|align="right"|[[Club de Deportes Unión La Calera|Unión La Calera]]
+|'''1:1'''
+|align="left"|[[Santos Fútbol Club|Santos]]
+
+|- align=center 
+|5 de mayo
+|[[Banfield]]
+|align="right"|[[Club Atlético Banfield|Banfield]]
+|0:1
+|align="left"|'''[[Club de Deportes Unión La Calera|Unión La Calera]]'''
+
+|- align=center style="background:#FFFFFF;"
+|5 de mayo
+|[[Quito]]
+|align="right"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|0:1
+|align="left"|'''[[Santos Fútbol Club|Santos]]'''
+
+|- align=center 
+|17 de mayo
+|[[Banfield]]
+|align="right"|[[Club Atlético Banfield|Banfield]]
+|'''1:1'''
+|align="left"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+ 
+|- align=center style="background:#FFFFFF;"
+|18 de mayo
+|[[Santos]]
+|align="right"|'''[[Santos Fútbol Club|Santos]]'''
+|1:0
+|align="left"|[[Club de Deportes Unión La Calera|Unión La Calera]]
+
+|- align=center 
+|24 de mayo
+|[[Santos]]
+|align="right"|[[Santos Fútbol Club|Santos]]
+|'''1:1'''
+|align="left"|[[Club Atlético Banfield|Banfield]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Viña del Mar]]
+|align="right"|'''[[Club de Deportes Unión La Calera|Unión La Calera]]'''
+|3:2
+|align="left"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|}
+|}
+
+=== Grupo D ===
+{{AP|Anexo:Grupo D de la Copa Sudamericana 2022|l1=Grupo D de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|'''16'''||6||5||1||0||12||3||9
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Everton de Viña del Mar|Everton]]
+|'''11'''||6||3||2||1||7||4||3
+|- align="center"
+| style="text-align:left;" |{{Bandera|PER}} [[Ayacucho Fútbol Club|Ayacucho]]
+|'''4'''||6||1||1||4||5||8||–3
+|- align="center"
+| style="text-align:left;" |{{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''2'''||6||0||2||4||2||11||–9
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de abril
+|[[Viña del Mar]]
+|align="right"|[[Everton de Viña del Mar|Everton]]
+|'''1:1'''
+|align="left"|{{nowrap|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]}}
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de abril
+|[[Lima]]
+|align="right"|[[Ayacucho Fútbol Club|Ayacucho]]
+|2:3
+|align="left"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+ 
+|- align=center 
+|13 de abril
+|[[Cochabamba]]
+|align="right"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|0:2
+|align="left"|'''[[Ayacucho Fútbol Club|Ayacucho]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|14 de abril
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|2:0
+|align="left"|[[Everton de Viña del Mar|Everton]]
+
+|- align=center 
+|26 de abril
+|[[Viña del Mar]]
+|align="right"|'''[[Everton de Viña del Mar|Everton]]'''
+|2:1
+|align="left"|[[Ayacucho Fútbol Club|Ayacucho]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|28 de abril
+|[[Cochabamba]]
+|align="right"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|1:3
+|align="left"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+
+|- align=center 
+|5 de mayo
+|[[Viña del Mar]]
+|align="right"|[[Everton de Viña del Mar|Everton]]
+|'''0:0'''
+|align="left"|[[São Paulo Futebol Clube|São Paulo]]
+
+|- align=center style="background:#FFFFFF;"
+|5 de mayo
+|[[Cuzco|Cusco]]
+|align="right"|[[Ayacucho Fútbol Club|Ayacucho]]
+|'''0:0'''
+|align="left"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center 
+|18 de mayo
+|[[Cuzco|Cusco]]
+|align="right"|[[Ayacucho Fútbol Club|Ayacucho]]
+|0:2
+|align="left"|'''[[Everton de Viña del Mar|Everton]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de mayo
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|3:0
+|align="left"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center 
+|25 de mayo
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|1:0
+|align="left"|[[Ayacucho Fútbol Club|Ayacucho]]
+
+|- align=center style="background:#FFFFFF;"
+|25 de mayo
+|[[Cochabamba]]
+|align="right"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|0:2
+|align="left"|'''[[Everton de Viña del Mar|Everton]]'''
+|}
+|}
+
+=== Grupo E ===
+{{AP|Anexo:Grupo E de la Copa Sudamericana 2022|l1=Grupo E de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+|'''12'''||6||3||3||0||12||5||7
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Guaireña Fútbol Club|Guaireña]]
+|'''10'''||6||2||4||0||10||8||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]]
+|'''5'''||6||1||2||3||8||11||–3
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[9 de Octubre Fútbol Club|9 de Octubre]]
+|'''4'''||6||1||1||4||9||15||–6
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|6 de abril
+|[[Manta (Ecuador)|Manta]]
+|align="right"|[[9 de Octubre Fútbol Club|9 de Octubre]]
+|'''2:2'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de abril
+|[[Asunción]]
+|align="right"|[[Guaireña Fútbol Club|Guaireña]]
+|'''3:3'''
+|align="left"|{{nowrap|[[Deportivo Independiente Medellín|Independiente Medellín]]}}
+ 
+|- align=center 
+|14 de abril
+|[[Medellín]]
+|align="right"|'''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|2:1
+|align="left"|[[9 de Octubre Fútbol Club|9 de Octubre]]
+ 
+|- align=center style="background:#FFFFFF;"
+|14 de abril
+|[[Porto Alegre]]
+|align="right"|[[Sport Club Internacional|Internacional]]
+|'''1:1'''
+|align="left"|[[Guaireña Fútbol Club|Guaireña]]
+
+|- align=center 
+|26 de abril
+|[[Pereira]]
+|align="right"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+|0:1
+|align="left"|'''[[Sport Club Internacional|Internacional]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|27 de abril
+|[[Asunción]]
+|align="right"|'''[[Guaireña Fútbol Club|Guaireña]]'''
+|1:0
+|align="left"|[[9 de Octubre Fútbol Club|9 de Octubre]]
+
+|- align=center 
+|3 de mayo
+|[[Manta (Ecuador)|Manta]]
+|align="right"|'''[[9 de Octubre Fútbol Club|9 de Octubre]]'''
+|3:2
+|align="left"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+
+|- align=center style="background:#FFFFFF;"
+|5 de mayo
+|[[Asunción]]
+|align="right"|[[Guaireña Fútbol Club|Guaireña]]
+|'''1:1'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+
+|- align=center 
+|17 de mayo
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]'''
+|2:0
+|align="left"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+ 
+|- align=center style="background:#FFFFFF;"
+|17 de mayo
+|[[Manta (Ecuador)|Manta]]
+|align="right"|[[9 de Octubre Fútbol Club|9 de Octubre]]
+|2:3
+|align="left"|'''[[Guaireña Fútbol Club|Guaireña]]'''
+
+|- align=center 
+|24 de mayo
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]'''
+|5:1
+|align="left"|[[9 de Octubre Fútbol Club|9 de Octubre]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Pereira]]
+|align="right"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+|'''1:1'''
+|align="left"|[[Guaireña Fútbol Club|Guaireña]]
+|}
+|}
+
+=== Grupo F ===
+{{AP|Anexo:Grupo F de la Copa Sudamericana 2022|l1=Grupo F de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+|'''13'''||6||4||1||1||11||5||6
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''11'''||6||3||2||1||11||9||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club de Deportes Antofagasta|Deportes Antofagasta]]
+|'''6'''||6||2||0||4||6||11||–5
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|'''4'''||6||1||1||4||8||11||–3
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de abril
+|[[Goiânia]]
+|align="right"|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+|4:0
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Antofagasta]]
+|align="right"|[[Club de Deportes Antofagasta|Deportes Antofagasta]]
+|1:3
+|align="left"|'''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]'''
+ 
+|- align=center 
+|12 de abril
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|4:0
+|align="left"|[[Club de Deportes Antofagasta|Deportes Antofagasta]]
+ 
+|- align=center style="background:#FFFFFF;"
+|12 de abril
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|0:1
+|align="left"|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+
+|- align=center 
+|27 de abril
+|[[Antofagasta]]
+|align="right"|'''[[Club de Deportes Antofagasta|Deportes Antofagasta]]'''
+|2:1
+|align="left"|[[Atlético Clube Goianiense|Atlético Goianiense]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|28 de abril
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|1:2
+|align="left"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+
+|- align=center 
+|4 de mayo
+|[[Goiânia]]
+|align="right"|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+|3:2
+|align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+
+|- align=center style="background:#FFFFFF;"
+|4 de mayo
+|[[Antofagasta]]
+|align="right"|[[Club de Deportes Antofagasta|Deportes Antofagasta]]
+|1:2
+|align="left"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+
+|- align=center 
+|17 de mayo
+|[[Goiânia]]
+|align="right"|'''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+|1:0
+|align="left"|[[Club de Deportes Antofagasta|Deportes Antofagasta]]
+ 
+|- align=center style="background:#FFFFFF;"
+|18 de mayo
+|[[Quito]]
+|align="right"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''2:2'''
+|align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+
+|- align=center 
+|24 de mayo
+|[[Quito]]
+|align="right"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''1:1'''
+|align="left"|[[Atlético Clube Goianiense|Atlético Goianiense]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|0:2
+|align="left"|'''[[Club de Deportes Antofagasta|Deportes Antofagasta]]'''
+|}
+|}
+
+=== Grupo G ===
+{{AP|Anexo:Grupo G de la Copa Sudamericana 2022|l1=Grupo G de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Ceará Sporting Club|Ceará]]'''
+|'''18'''||6||6||0||0||17||1||16
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+|'''12'''||6||4||0||2||13||4||9
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club General Caballero (Mallorquín)|General Caballero]]
+|'''4'''||6||1||1||4||2||15||–13
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+|'''1'''||6||0||1||5||1||13||–12
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de abril
+|[[Fortaleza (Brasil)|Fortaleza]]
+|align="right"|'''[[Ceará Sporting Club|Ceará]]'''
+|2:1
+|align="left"|[[Club Atlético Independiente|Independiente]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Asunción]]
+|align="right"|[[Club General Caballero (Mallorquín)|General Caballero]]
+|'''1:1'''
+|align="left"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+ 
+|- align=center 
+|12 de abril
+|[[Caracas]]
+|align="right"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+|0:2
+|align="left"|'''[[Ceará Sporting Club|Ceará]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|12 de abril
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Club Atlético Independiente|Independiente]]'''
+|2:0
+|align="left"|[[Club General Caballero (Mallorquín)|General Caballero]]
+
+|- align=center 
+|26 de abril
+|[[Caracas]]
+|align="right"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+|0:2
+|align="left"|'''[[Club Atlético Independiente|Independiente]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|26 de abril
+|[[Asunción]]
+|align="right"|[[Club General Caballero (Mallorquín)|General Caballero]]
+|0:2
+|align="left"|'''[[Ceará Sporting Club|Ceará]]'''
+
+|- align=center 
+|3 de mayo
+|[[Fortaleza (Brasil)|Fortaleza]]
+|align="right"|'''[[Ceará Sporting Club|Ceará]]'''
+|3:0
+|align="left"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+
+|- align=center style="background:#FFFFFF;"
+|3 de mayo
+|[[Asunción]]
+|align="right"|[[Club General Caballero (Mallorquín)|General Caballero]]
+|0:4
+|align="left"|'''[[Club Atlético Independiente|Independiente]]'''
+
+|- align=center 
+|17 de mayo
+|[[Fortaleza (Brasil)|Fortaleza]]
+|align="right"|'''[[Ceará Sporting Club|Ceará]]'''
+|6:0
+|align="left"|[[Club General Caballero (Mallorquín)|General Caballero]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Club Atlético Independiente|Independiente]]'''
+|4:0
+|align="left"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+
+|- align=center 
+|25 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|[[Club Atlético Independiente|Independiente]]
+|0:2
+|align="left"|'''[[Ceará Sporting Club|Ceará]]'''
+
+|- align=center style="background:#FFFFFF;"
+|25 de mayo
+|[[Caracas]]
+|align="right"|[[Deportivo La Guaira Fútbol Club|Deportivo La Guaira]]
+|0:1
+|align="left"|'''[[Club General Caballero (Mallorquín)|General Caballero]]'''
+|}
+|}
+
+=== Grupo H ===
+{{AP|Anexo:Grupo H de la Copa Sudamericana 2022|l1=Grupo H de la Copa Sudamericana 2022}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Unión (Santa Fe)|Unión]]'''
+|'''12'''||6||3||3||0||10||2||8
+|- align="center"
+| style="text-align:left;" |{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+|'''11'''||6||3||2||1||15||5||10
+|- align="center"
+| style="text-align:left;" |{{Bandera|COL}} [[Junior de Barranquilla|Junior]]
+|'''10'''||6||3||1||2||10||8||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|BOL}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''0'''||6||0||0||6||3||23||–20
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|6 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|3:0
+|align="left"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Santa Fe (Argentina)|Santa Fe]]
+|align="right"|[[Club Atlético Unión (Santa Fe)|Unión]]
+|'''1:1'''
+|align="left"|[[Junior de Barranquilla|Junior]]
+ 
+|- align=center 
+|12 de abril
+|{{nowrap|[[Santa Cruz de la Sierra]]}}
+|align="right"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|1:3
+|align="left"|'''[[Club Atlético Unión (Santa Fe)|Unión]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|13 de abril
+|[[Barranquilla]]
+|align="right"|'''[[Junior de Barranquilla|Junior]]'''
+|3:0
+|align="left"|[[Fluminense Football Club|Fluminense]]
+
+|- align=center 
+|26 de abril
+|[[Río de Janeiro]]
+|align="right"|[[Fluminense Football Club|Fluminense]]
+|'''0:0'''
+|align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|28 de abril
+|[[Santa Cruz de la Sierra]]
+|align="right"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|1:3
+|align="left"|'''[[Junior de Barranquilla|Junior]]'''
+
+|- align=center 
+|4 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|2:1
+|align="left"|[[Junior de Barranquilla|Junior]]
+
+|- align=center style="background:#FFFFFF;"
+|5 de mayo
+|[[Santa Fe (Argentina)|Santa Fe]]
+|align="right"|'''[[Club Atlético Unión (Santa Fe)|Unión]]'''
+|2:0
+|align="left"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center 
+|17 de mayo
+|[[Barranquilla]]
+|align="right"|'''[[Junior de Barranquilla|Junior]]'''
+|2:0
+|align="left"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de mayo
+|[[Santa Fe (Argentina)|Santa Fe]]
+|align="right"|[[Club Atlético Unión (Santa Fe)|Unión]]
+|'''0:0'''
+|align="left"|[[Fluminense Football Club|Fluminense]]
+
+|- align=center 
+|26 de mayo
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|0:4
+|align="left"|'''[[Club Atlético Unión (Santa Fe)|Unión]]'''
+
+|- align=center style="background:#FFFFFF;"
+|26 de mayo
+|[[Santa Cruz de la Sierra]]
+|align="right"|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|1:10
+|align="left"|'''[[Fluminense Football Club|Fluminense]]'''
+|}
+|}
+
+== Fase final ==
+Se compone de cuatro etapas: octavos y cuartos de final, semifinales y final. Se disputaron por [[eliminación directa]] en partidos de ida y vuelta, excepto la Final, que se jugó a partido único. Los ocho terceros de la Fase de grupos de la [[Copa Libertadores 2022]] ingresaron en esta fase, en la que se comenzó a utilizar el [[árbitro asistente de video]] (VAR). 
+
+Los equipos se numeraron, a los fines de establecer las localías en los cruces a dos partidos, según su desempeño anterior, ocupando los clasificados en el torneo los ocho primeros lugares y los transferidos de la Copa Libertadores los ocho últimos. Los primeros fueron locales en el partido de vuelta. 
+
+El sorteo de las llaves de octavos, que enfrentaría a cada equipo con uno de la otra tabla, se realizó el 27 de mayo.<ref>{{cita web|título=Se viene el sorteo de los Octavos de Final|url=https://www.conmebol.com/noticias/se-viene-el-sorteo-de-los-octavos-de-final/|obra=Conmebol|fechaacceso=23 de mayo de 2022}}</ref>
+
+=== Tabla de primeros ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''1'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Ceará Sporting Club|Ceará]]
+|'''18'''||6||6||0||0||17||1||16
+|- align="center" bgcolor="#d0e7ff"
+|'''2'''
+|style="text-align:left;"|{{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+|'''16'''||6||5||1||0||12||3||9
+|- align="center" bgcolor="#f5faff"
+|'''3'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+|'''13'''||6||4||1||1||11||5||6
+|- align="center" bgcolor="#d0e7ff"
+|'''4'''
+|style="text-align:left;"|{{Bandera|ARG}} [[Club Atlético Unión (Santa Fe)|Unión]]
+|'''12'''||6||3||3||0||10||2||8
+|- align="center" bgcolor="#f5faff"
+|'''5'''
+| style="text-align:left;"|{{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+|'''12'''||6||3||3||0||12||5||7
+|- align="center" bgcolor="#d0e7ff"
+|'''6'''
+|style="text-align:left;"|{{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]]
+|'''12'''||6||4||0||2||10||6||4
+|- align="center" bgcolor="#f5faff"
+|'''7'''
+|style="text-align:left;"|{{Bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+|'''11'''||6||3||2||1||7||4||3
+|- align="center" bgcolor="#d0e7ff"
+|'''8'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Santos Fútbol Club|Santos]]
+|'''11'''||6||3||2||1||7||5||2
+|}
+
+=== Tabla de terceros de la Copa Libertadores ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align=center bgcolor=#F5FAFF
+|'''9'''
+| style="text-align:left;" |{{Bandera|COL}} [[Deportivo Cali]]
+|'''8'''||6||2||2||2||7||4||3
+|- align=center bgcolor=#D0E7FF
+|'''10'''
+|style="text-align:left;"|{{Bandera|ECU}} [[Independiente del Valle]]
+|'''8'''||6||2||2||2||9||7||2
+|- align=center bgcolor=#F5FAFF
+|'''11'''
+|style="text-align:left;"|{{Bandera|PAR}} [[Club Olimpia|Olimpia]]
+|'''8'''||6||2||2||2||4||4||0
+|- align=center bgcolor=#D0E7FF
+|'''12'''
+| style="text-align:left;" |{{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''7'''||6||2||1||3||7||7||0
+|- align=center bgcolor=#F5FAFF
+|'''13'''
+|style="text-align:left;"|{{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''7'''||6||2||1||3||9||13||–4
+|- align=center bgcolor=#D0E7FF
+|'''14'''
+| style="text-align:left;" |{{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''7'''||6||2||1||3||8||14||–6
+|- align=center bgcolor=#F5FAFF
+|'''15'''
+|style="text-align:left;"|{{Bandera|BOL}} [[Club The Strongest|The Strongest]]
+|'''6'''||6||1||3||2||8||7||1
+|- align=center bgcolor=#D0E7FF
+|'''16'''
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''4'''||6||1||1||4||5||10||–5
+|}
+
+=== Cuadro de desarrollo ===
+{{Copa 
+| seed-width= 20| team-width= 190| score-width= 20
+| seeds = si
+
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2022|Octavos de final]]
+| RD1-date= 28 de junio al 7 de julio
+
+| RD1-seed1= 1
+| RD1-team1= {{Bandera|BRA}} '''[[Ceará Sporting Club|Ceará]]'''
+| RD1-score1-1= 2
+| RD1-score1-2= 3
+| RD1-score1-3= '''5'''
+
+| RD1-seed2= 15
+| RD1-team2= {{Bandera|BOL}} [[Club The Strongest|The Strongest]]
+| RD1-score2-1= 1
+| RD1-score2-2= 0
+| RD1-score2-3= '''1'''
+
+| RD1-seed3= 2
+| RD1-team3= {{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-score3-1= 4
+| RD1-score3-2= 4
+| RD1-score3-3= '''8'''
+
+| RD1-seed4= 16
+| RD1-team4= {{Bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| RD1-score4-1= 2
+| RD1-score4-2= 1
+| RD1-score4-3= '''3'''
+
+| RD1-seed5= 3
+| RD1-team5= {{Bandera|BRA}} '''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+| RD1-score5-1= 0
+| RD1-score5-2= 2
+| RD1-score5-3= '''2 <small>(5)'''
+
+| RD1-seed6= 11
+| RD1-team6= {{Bandera|PAR}} [[Club Olimpia|Olimpia]]
+| RD1-score6-1= 2
+| RD1-score6-2= 0
+| RD1-score6-3= '''2 <small>(3)'''
+
+| RD1-seed7= 4
+| RD1-team7= {{Bandera|ARG}} [[Club Atlético Unión (Santa Fe)|Unión]]
+| RD1-score7-1= 0
+| RD1-score7-2= 1
+| RD1-score7-3= '''1'''
+
+| RD1-seed8= 12
+| RD1-team8= {{Bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+| RD1-score8-1= 2
+| RD1-score8-2= 2
+| RD1-score8-3= '''4'''
+
+| RD1-seed9= 5
+| RD1-team9= {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]
+| RD1-score9-1= 0
+| RD1-score9-2= 4
+| RD1-score9-3= '''4'''
+
+| RD1-seed10= 13
+| RD1-team10= {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-score10-1= 2
+| RD1-score10-2= 1
+| RD1-score10-3= '''3'''
+
+| RD1-seed11= 6
+| RD1-team11= {{Bandera|PER}} '''[[Foot Ball Club Melgar|Melgar]]'''
+| RD1-score11-1= 0
+| RD1-score11-2= 2
+| RD1-score11-3= '''2'''
+
+| RD1-seed12= 9
+| RD1-team12= {{Bandera|COL}} [[Deportivo Cali]]
+| RD1-score12-1= 0
+| RD1-score12-2= 1
+| RD1-score12-3= '''1'''
+
+| RD1-seed13= 7
+| RD1-team13= {{Bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+| RD1-score13-1= 1
+| RD1-score13-2= 0
+| RD1-score13-3= '''1'''
+
+| RD1-seed14= 10
+| RD1-team14= {{Bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD1-score14-1= 2
+| RD1-score14-2= 0
+| RD1-score14-3= '''2'''
+
+| RD1-seed15= 8
+| RD1-team15= {{Bandera|BRA}} [[Santos Fútbol Club|Santos]]
+| RD1-score15-1= 1
+| RD1-score15-2= 1
+| RD1-score15-3= '''2&nbsp;<small>(2)'''
+
+| RD1-seed16= 14
+| RD1-team16= {{Bandera|VEN}} '''[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]'''
+| RD1-score16-1= 1
+| RD1-score16-2= 1
+| RD1-score16-3= '''2&nbsp;<small>(4)'''
+
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2022|Cuartos de final]]
+| RD2-date= 2 al 11 de agosto
+  
+| RD2-seed1= 1
+| RD2-team1= {{Bandera|BRA}} [[Ceará Sporting Club|Ceará]]
+| RD2-score1-1= 0
+| RD2-score1-2= 2
+| RD2-score1-3= '''2&nbsp;<small>(3)'''
+
+| RD2-seed2= 2
+| RD2-team2= {{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD2-score2-1= 1
+| RD2-score2-2= 1
+| RD2-score2-3= '''2&nbsp;<small>(4)'''
+
+| RD2-seed3= 3
+| RD2-team3= {{Bandera|BRA}} '''[[Atlético Clube Goianiense|Atlético Goianiense]]'''
+| RD2-score3-1= 1
+| RD2-score3-2= 3
+| RD2-score3-3= '''4'''
+
+| RD2-seed4= 12
+| RD2-team4= {{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD2-score4-1= 0
+| RD2-score4-2= 0
+| RD2-score4-3= '''0'''
+
+| RD2-seed5= 5
+| RD2-team5= {{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+| RD2-score5-1= 0
+| RD2-score5-2= 0
+| RD2-score5-3= '''0 <small>(1)'''
+
+| RD2-seed6= 6
+| RD2-team6= {{Bandera|PER}} '''[[Foot Ball Club Melgar|Melgar]]'''
+| RD2-score6-1= 0
+| RD2-score6-2= 0
+| RD2-score6-3= '''0 <small>(3)'''
+
+| RD2-seed7= 10
+| RD2-team7= {{Bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD2-score7-1= 1
+| RD2-score7-2= 4
+| RD2-score7-3= '''5'''
+
+| RD2-seed8= 14
+| RD2-team8= {{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+| RD2-score8-1= 0
+| RD2-score8-2= 1
+| RD2-score8-3= '''1'''
+
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2022|Semifinales]]
+| RD3-date= 31 de agosto al 8 de septiembre
+
+| RD3-seed1= 2
+| RD3-team1= {{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD3-score1-1= 1
+| RD3-score1-2= 2
+| RD3-score1-3= '''3&nbsp;<small>(4)'''
+
+| RD3-seed2= 3
+| RD3-team2= {{Bandera|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+| RD3-score2-1= 3
+| RD3-score2-2= 0
+| RD3-score2-3= '''3&nbsp;<small>(2)'''
+
+| RD3-seed3= 6
+| RD3-team3= {{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]]
+| RD3-score3-1= 0
+| RD3-score3-2= 0
+| RD3-score3-3= '''0'''
+
+| RD3-seed4= 10
+| RD3-team4= {{Bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD3-score4-1= 3
+| RD3-score4-2= 3
+| RD3-score4-3= '''6'''
+
+| RD4= [[Anexo:Final de la Copa Sudamericana 2022|Final]]
+| RD4-date= 1 de octubre
+
+| RD4-team1= {{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| RD4-score1= 0
+| RD4-team2= {{Bandera|ECU}} '''[[Independiente del Valle]]'''
+| RD4-score2= '''2'''
+}}
+{{Small|'''Nota''': En las series a dos partidos, el equipo con el menor número de orden y que ocupa la primera línea es el que definió como local.}}
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2022|l1=Octavos de final de la Copa Sudamericana 2022}}
+
+{{Partido
+|id            = DTA_SAN
+|paíslocal     = VEN
+|local         = [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|resultado     = 1:1 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[Santos Fútbol Club|Santos]]
+|refe          = {{Árbitro|BOL|Gery Vargas}}
+|var           = {{Árbitro|PAR|Derlis López}}
+|fecha         = {{fecha|29|6|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Polideportivo de Pueblo Nuevo]]
+|ciudad        = [[San Cristóbal (Venezuela)|San Cristóbal]]
+|asistencia    = 
+|goleslocal    = [[Vinicius Zanocelo|Vinicius]] {{gol|30|a.g.}}
+|golesvisita   = [[Bryan Angulo|Angulo]] {{gol|86}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287918
+}}
+{{Partido
+|id            = SAN_DTA
+|paíslocal     = BRA
+|local         = [[Santos Fútbol Club|Santos]]
+|resultado     = 1:1 {{sin negrita|(0:1)}}
+|paísvisita    = VEN
+|visita        = [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|refe          = {{Árbitro|PER|Kevin Ortega}}
+|var           = {{Árbitro|PER|Víctor Hugo Carrillo|Víctor Carrillo}}
+|fecha         = {{fecha|6|7|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Urbano Caldeira|Estadio Vila Belmiro]]
+|ciudad        = [[Santos]]
+|asistencia    = 
+|goleslocal    = [[Marcos Leonardo]] {{gol|69}}
+|golesvisita   = [[Anthony Uribe|Uribe]] {{gol|27}}
+|resultado penalti = 2:4
+|penaltis1     = [[Ricardo Goulart]] {{penfallo|atajado}}<br>[[Sandry Roberto Santos Goes|Sandry]] {{pengol}}<br>[[Carlos Andrés Sánchez|Sánchez]] {{pengol}}<br>[[Lucas Barbosa]] {{penfallo|atajado}}
+|penaltis2     = {{pengol}} [[Edder Farías|Farías]]<br>{{pengol}} [[Renny Simisterra|Simisterra]]<br>{{pengol}} [[Rafael Arace|Arace]]<br>{{pengol}} [[Marlon Fernández (futbolista)|Fernández]]
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287927
+}}
+<br>
+{{Partido
+|id            = IDV_LAN
+|paíslocal     = ECU
+|local         = [[Independiente del Valle]]
+|resultado     = 2:1 {{sin negrita|(1:0)}}
+|paísvisita    = ARG
+|visita        = [[Club Atlético Lanús|Lanús]]
+|refe          = {{Árbitro|PER|Kevin Ortega}}
+|var           = {{Árbitro|CHI|Julio Bascuñán}}
+|fecha         = {{fecha|30|6|}}, 17:15 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Olímpico Atahualpa]]
+|ciudad        = [[Quito]]
+|asistencia    = 
+|goleslocal    = [[Richard Schunke|Schunke]] {{gol|45+3}}<br>[[Jaime Ayoví|Ayoví]] {{gol|90+4}}
+|golesvisita   = [[Tomás Belmonte|Belmonte]] {{gol|60}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287925
+}}
+{{Partido
+|id            = LAN_IDV
+|paíslocal     = ARG
+|local         = [[Club Atlético Lanús|Lanús]]
+|resultado     = 0:0
+|paísvisita    = ECU
+|visita        = [[Independiente del Valle]]
+|refe          = {{Árbitro|CHI|Cristián Garay}}
+|var           = {{Árbitro|PAR|Carlos Benítez}}
+|fecha         = {{fecha|7|7|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Estadio Néstor Díaz Pérez]]
+|ciudad        = [[Lanús]]
+|asistencia    = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287935
+}}
+<br>
+{{Partido
+|id            = CLC_INT
+|paíslocal     = CHI
+|local         = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|resultado     = 2:0 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[Sport Club Internacional|Internacional]]
+|refe          = {{Árbitro|ARG|Patricio Loustau}}
+|var           = {{Árbitro|ARG|Germán Delfino}}
+|fecha         = {{fecha|28|6|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad        = [[Santiago de Chile|Santiago]]
+|asistencia    = 
+|goleslocal    = [[Juan Martín Lucero|Lucero]] {{gol|12}}<br>[[Pablo Solari|Solari]] {{gol|55}}
+|golesvisita   = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287921
+}}
+{{Partidos
+|id            = INT_CLC
+|paíslocal     = BRA
+|local         = [[Sport Club Internacional|Internacional]]
+|resultado     = 4:1 {{sin negrita|(2:1)}}
+|paísvisita    = CHI
+|visita        = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|refe          = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|5|7|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Beira-Rio]]
+|ciudad        = [[Porto Alegre]]
+|asistencia    = 
+|goleslocal    = [[Alan Patrick (futbolista)|Alan Patrick]] {{gol|29}}<br>[[Edenilson Andrade dos Santos|Edenilson]] {{gol|32}}<br>[[Alexandre Zurawski|Alemão]] {{gol|60}}<br>[[Pedro Henrique Konzen Medina da Silva|Pedro Henrique]] {{gol|74}}
+|golesvisita   = [[Gabriel Costa (futbolista)|Costa]] {{gol|15|pen.}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287930
+}}
+<br>
+{{Partidos
+|id                 = 
+|fecha              = {{fecha|29|6|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|local              = [[Deportivo Cali]] {{bandera|COL}}
+|resultado          = 0:0
+|visita             = {{bandera|PER}} [[Foot Ball Club Melgar|Melgar]]
+|estadio            = [[Estadio Deportivo Cali]]
+|ciudad             = [[Palmira (Valle del Cauca)|Palmira]]
+|asistencia         = 
+|árbitro            = {{Árbitro|PAR|Mario Díaz de Vivar}}
+|var                = {{Árbitro|PAR|Carlos Benítez}}
+|goleslocal         = 
+|golesvisita        = 
+|reporte            = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287922
+|estado             = 
+}}
+{{Partido
+|id            = MEL_CAL
+|paíslocal     = PER
+|local         = [[Foot Ball Club Melgar|Melgar]]
+|resultado     = 2:1 {{sin negrita|(0:0)}}
+|paísvisita    = COL
+|visita        = [[Deportivo Cali]]
+|refe          = {{Árbitro|ARG|Facundo Tello}}
+|var           = {{Árbitro|VEN|Juan Soto Arévalo|Juan Soto}}
+|fecha         = {{fecha|6|7|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Monumental de la UNSA|Estadio Monumental UNSA]]
+|ciudad        = [[Arequipa]]
+|asistencia    = 
+|goleslocal    = [[Bernardo Cuesta|Cuesta]] {{gol|58|pen.|73}}
+|golesvisita   = [[Santiago Mosquera|Mosquera]] {{gol|90+7}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287932
+}}
+<br>
+{{Partidos
+|id                 = 
+|fecha              = {{fecha|28|6|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|local              = [[Club Nacional de Football|Nacional]] {{bandera|URU}}
+|resultado          = 2:0''' (2:0)
+|visita             = {{bandera|ARG}} [[Club Atlético Unión (Santa Fe)|Unión]]
+|estadio            = [[Estadio Gran Parque Central]]
+|ciudad             = [[Montevideo]]
+|asistencia         = 
+|árbitro            = {{Árbitro|CHI|Cristián Garay}}
+|var                = {{Árbitro|ECU|Carlos Orbe}}
+|goleslocal         = [[Franco Fagúndez|Fagúndez]] {{gol|4}}<br>[[Leandro Lozano|Lozano]] {{gol|21}}
+|golesvisita        = 
+|reporte            = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287919
+|estado             = 
+}}
+{{Partido
+|id            = UNI_NAC
+|paíslocal     = ARG
+|local         = [[Club Atlético Unión (Santa Fe)|Unión]]
+|resultado     = 1:2 {{sin negrita|(0:0)}}
+|paísvisita    = URU
+|visita        = [[Club Nacional de Football|Nacional]]
+|refe          = {{Árbitro|CHI|Piero Maza}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|5|7|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio 15 de Abril]]
+|ciudad        = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia    = 
+|goleslocal    = [[Emanuel Brítez|Brítez]] {{gol|70}}
+|golesvisita   = [[Juan Ignacio Ramírez|Ramírez]] {{gol|78}}<br>[[José Luis Rodríguez Bebanz|Rodríguez]] {{gol|84}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287928
+}}
+<br>
+{{Partido
+|id            = OLI_AGO
+|paíslocal     = PAR
+|local         = [[Club Olimpia|Olimpia]]
+|resultado     = 2:0 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|refe          = {{Árbitro|CHI|Piero Maza}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|30|6|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Defensores del Chaco]]
+|ciudad        = [[Asunción]]
+|asistencia    = 
+|goleslocal    = [[Derlis González|González]] {{gol|36}}<br>[[Alejandro Silva González|Silva]] {{gol|56}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287924
+}}
+{{Partido
+|id            = AGO_OLI
+|paíslocal     = BRA
+|local         = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|resultado     = 2:0 {{sin negrita|(2:0)}}
+|paísvisita    = PAR
+|visita        = [[Club Olimpia|Olimpia]]
+|refe          = {{Árbitro|COL|Wilmar Roldán}}
+|var           = {{Árbitro|CHI|Julio Bascuñán}}
+|fecha         = {{fecha|7|7|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Serra Dourada]]
+|ciudad        = [[Goiânia]]
+|asistencia    = 
+|goleslocal    = [[Diego Churín|Churín]] {{gol|4}}<br>[[Airton Moisés Santos Sousa|Airton]] {{gol|8}}
+|resultado penalti = 5:3
+|penaltis1     = [[Wellington Rato]] {{pengol}}<br>[[Gabriel Baralhas]] {{pengol}}<br>[[Shaylon Kallyson Cardozo|Shaylon]] {{pengol}}<br>[[Rickson Barbosa Sá da Conceição|Rickson]] {{pengol}}<br>[[Marlon Freitas]] {{pengol}}
+|penaltis2     = {{pengol}} [[Alejandro Silva González|Silva]]<br>{{penfallo|atajado}} [[Hugo Quintana|Quitana]]<br>{{pengol}} [[Richard Ortiz|Ortiz]]<br>{{pengol}} [[Fernando David Cardozo|Cardozo]]
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287934
+}}
+<br>
+{{Partido
+|id            = CAT_SAO
+|paíslocal     = CHI
+|local         = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|resultado     = 2:4 {{sin negrita|(0:3)}}
+|paísvisita    = BRA
+|visita        = [[São Paulo Futebol Clube|São Paulo]]
+|refe          = {{Árbitro|URU|Christian Ferreyra}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|30|6|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio San Carlos de Apoquindo]]
+|ciudad        = [[Santiago de Chile|Santiago]]
+|asistencia    = 
+|goleslocal    = [[Fernando Zampedri|Zampedri]] {{gol|47}}<br>[[Diego Valencia|Valencia]] {{gol|85}}
+|golesvisita   = [[Reinaldo Manoel da Silva|Reinaldo]] {{gol|15|pen.}}<br>[[Luciano da Rocha Neves|Luciano]] {{gol|28||39}}<br>[[Jonathan Calleri|Calleri]] {{gol|63}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287920
+}}
+{{Partido
+|id            = SAO_CAT
+|paíslocal     = BRA
+|local         = [[São Paulo Futebol Clube|São Paulo]]
+|resultado     = 4:1 {{sin negrita|(2:0)}}
+|paísvisita    = CHI
+|visita        = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|refe          = {{Árbitro|VEN|Alexis Herrera}}
+|var           = {{Árbitro|COL|Jhon Perdomo}}
+|fecha         = {{fecha|7|7|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Morumbi]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = [[Luciano da Rocha Neves|Luciano]] {{gol|14}}<br>[[Éder Martins Citadin|Éder]] {{gol|45+5|pen.}}<br>[[João Moreira Sanmartin Souza|João Moreira]] {{gol|59}}<br>[[Rodrigo Nestor]] {{gol|81}}
+|golesvisita   = [[José Pedro Fuenzalida|Fuenzalida]] {{gol|88}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287929
+}}
+<br>
+{{Partido
+|id            = STR_CEA
+|paíslocal     = BOL
+|local         = [[Club The Strongest|The Strongest]]
+|resultado     = 1:2 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[Ceará Sporting Club|Ceará]]
+|refe          = {{Árbitro|URU|Esteban Ostojich}}
+|var           = {{Árbitro|PAR|Eber Aquino}}
+|fecha         = {{fecha|29|6|}}, 18:15 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Hernando Siles]]
+|ciudad        = [[La Paz]]
+|asistencia    = 
+|goleslocal    = [[Luciano Ursino|Ursino]] {{gol|5}}
+|golesvisita   = [[Erick de Arruda Serafim|Erick]] {{gol|76}}<br>[[José Roberto Assunção de Araújo Filho|Zé Roberto]] {{gol|90+3}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287923
+}}
+{{Partido
+|id            = CEA_STR
+|paíslocal     = BRA
+|local         = [[Ceará Sporting Club|Ceará]]
+|resultado     = 3:0 {{sin negrita|(2:0)}}
+|paísvisita    = BOL
+|visita        = [[Club The Strongest|The Strongest]]
+|refe          = {{Árbitro|PAR|Derlis López}}
+|var           = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha         = {{fecha|6|7|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Aderaldo Plácido Castelo|Arena Castelão]]
+|ciudad        = [[Fortaleza (Brasil)|Fortaleza]]
+|asistencia    = 
+|goleslocal    = [[Richardson Fernandes dos Santos|Richardson]] {{gol|23}}<br>[[Víctor Luis Chuab Zamblauskas|Víctor Luis]] {{gol|26}}<br>[[Vinicius Moreira]] {{gol|52}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2287933
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2022|l1=Cuartos de final de la Copa Sudamericana 2022}}
+{{Partido
+|id            = NAC_AGO
+|paíslocal     = URU
+|local         = [[Club Nacional de Football|Nacional]]
+|resultado     = 0:1 {{sin negrita|(0:1)}}
+|paísvisita    = BRA
+|visita        = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|refe          = {{Árbitro|PAR|Eber Aquino}}
+|var           = {{Árbitro|PAR|Carlos Benítez}}
+|fecha         = {{fecha|2|8|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Gran Parque Central]]
+|ciudad        = [[Montevideo]]
+|asistencia    = 
+|golesvisita   = [[Luiz Fernando]] {{gol|23}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311126
+}}
+{{Partido
+|id            = AGO_NAC
+|paíslocal     = BRA
+|local         = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|resultado     = 3:0 {{sin negrita|(2:0)}}
+|paísvisita    = URU
+|visita        = [[Club Nacional de Football|Nacional]]
+|refe          = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Germán Delfino}}
+|fecha         = {{fecha|9|8|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Serra Dourada]]
+|ciudad        = [[Goiânia]]
+|asistencia    = 
+|goleslocal    = [[Luiz Fernando]] {{gol|5||53}}<br>[[Gabriel Baralhas]] {{gol|45+1}}
+|golesvisita   = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311127
+}}
+<br>
+{{Partido
+|id            = TAC_IDV
+|paíslocal     = VEN
+|local         = [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|resultado     = 0:1 {{sin negrita|(0:1)}}
+|paísvisita    = ECU
+|visita        = [[Independiente del Valle]]
+|refe          = {{Árbitro|BRA|Wilton Sampaio}}
+|var           = {{Árbitro|BRA|Rodolpho Toski}}
+|fecha         = {{fecha|2|8|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Polideportivo de Pueblo Nuevo]]
+|ciudad        = [[San Cristóbal (Venezuela)|San Cristóbal]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = [[Marco Angulo Solorzano|Angulo]] {{gol|3}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311260
+}}
+{{Partido
+|id            = IDV_TAC
+|paíslocal     = ECU
+|local         = [[Independiente del Valle]]
+|resultado     = 4:1 {{sin negrita|(2:1)}}
+|paísvisita    = VEN
+|visita        = [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|refe          = {{Árbitro|COL|Jhon Ospina}}
+|var           = {{Árbitro|COL|Jhon Perdomo}}
+|fecha         = {{fecha|9|8|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Rodrigo Paz Delgado]]
+|ciudad        = [[Quito]]
+|asistencia    = 
+|goleslocal    = [[Jhoanner Chávez|Chávez]] {{gol|32}}<br>[[Junior Sornoza|Sornoza]] {{gol|45+5|pen.}}<br>[[Lautaro Ariel Díaz|Díaz]] {{gol|64}}<br>[[Lorenzo Faravelli|Faravelli]] {{gol|81|pen.}}
+|golesvisita   = [[Robert Hernández|Hernández]] {{gol|26}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311261
+}}
+<br>
+{{Partido
+|id            = SAO_CEA
+|paíslocal     = BRA
+|local         = [[São Paulo Futebol Clube|São Paulo]]
+|resultado     = 1:0 {{sin negrita|(0:0)}}
+|paísvisita    = BRA
+|visita        = [[Ceará Sporting Club|Ceará]]
+|refe          = {{Árbitro|CHI|Piero Maza}}
+|var           = {{Árbitro|COL|Jhon Perdomo}}
+|fecha         = {{fecha|3|8|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Morumbi]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = [[Nikão]] {{gol|70}}
+|golesvisita   = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311264
+}}
+{{Partido
+|id            = CEA_SAO
+|paíslocal     = BRA
+|local         = [[Ceará Sporting Club|Ceará]]
+|resultado     = 2:1 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[São Paulo Futebol Clube|São Paulo]]
+|refe          = {{Árbitro|ARG|Fernando Rapallini}}
+|var           = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha         = {{fecha|10|8|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Aderaldo Plácido Castelo|Arena Castelão]]
+|ciudad        = [[Fortaleza (Brasil)|Fortaleza]]
+|asistencia    = 
+|goleslocal    = [[Steven Mendoza|Mendoza]] {{gol|44}}<br>[[Guilherme Castilho]] {{gol|63}}
+|golesvisita   = [[Igor Vinícius]] {{gol|53}}
+|resultado penalti = 3:4
+|penaltis1     = [[Guilherme Castilho]] {{penfallo|atajado}}<br>[[Victor Luís Chuab Zamblauskas|Víctor Luis]] {{pengol}}<br>[[Matheus Peixoto]] {{pengol}}<br>[[Erick de Arruda Serafim|Erick]] {{pengol}}<br>[[Vinícius Goes|Vina]] {{penfallo|desviado}}<br>[[Fernando Pereira do Nascimento|Sobral]] {{penfallo|desviado}}
+|penaltis2     = {{pengol}} [[Jonathan Calleri|Calleri]]<br>{{penfallo|poste}} [[Igor Vinícius]]<br>{{pengol}} [[Luciano da Rocha Neves|Luciano]]<br>{{pengol}} [[Diego Henrique Costa Barbosa|Diego Costa]]<br>{{penfallo|atajado}} [[Igor Silveira Gomes|Igor Gomes]]<br>{{pengol}} [[Patrick Bezerra do Nascimento|Patrick]]
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311265
+}}
+<br>
+{{Partido
+|id            = MEL_INT
+|paíslocal     = PER
+|local         = [[Foot Ball Club Melgar|Melgar]]
+|resultado     = 0:0
+|paísvisita    = BRA
+|visita        = [[Sport Club Internacional|Internacional]]
+|refe          = {{Árbitro|URU|Andrés Matonte}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|4|8|}}, 17:15 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Monumental de la UNSA]]
+|ciudad        = [[Arequipa]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311128
+}}
+{{Partido
+|id            = INT_MEL
+|paíslocal     = BRA
+|local         = [[Sport Club Internacional|Internacional]]
+|resultado     = 0:0
+|paísvisita    = PER
+|visita        = [[Foot Ball Club Melgar|Melgar]]
+|refe          = {{Árbitro|CHI|Roberto Tobar}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|11|8|}}, 19:15 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Beira-Rio]]
+|ciudad        = [[Porto Alegre]]
+|asistencia    = 
+|resultado penalti = 1:3
+|penaltis1     = [[Edenilson Andrade dos Santos|Edenílson]] {{penfallo|atajado}}<br>[[Taison]] {{penfallo|atajado}}<br>[[Carlos de Pena|De Pena]] {{penfallo|atajado}}<br>[[Pedro Henrique Konzen Medina da Silva|Pedro Henrique]] {{pengol}}
+|penaltis2     = {{pengol}} [[Kenji Cabrera|Cabrera]]<br>{{penfallo|atajado}} [[Leonel Galeano|Galeano]]<br>{{pengol}} [[Bernardo Cuesta|Cuesta]]<br>{{pengol}} [[Luis Iberico|Iberico]]
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2311129
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2022|l1=Semifinales de la Copa Sudamericana 2022}}
+{{Partido
+|id            = IDV_MEL
+|paíslocal     = ECU
+|local         = [[Independiente del Valle]]
+|resultado     = 3:0 {{sin negrita|(1:0)}}
+|paísvisita    = PER
+|visita        = [[Foot Ball Club Melgar|Melgar]]
+|refe          = {{Árbitro|BRA|Raphael Claus}}
+|var           = {{Árbitro|BRA|Rodolpho Toski}}
+|fecha         = {{fecha|31|8|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Rodrigo Paz Delgado]]
+|ciudad        = [[Quito]]
+|asistencia    = 
+|goleslocal    = [[Richard Schunke|Schunke]] {{gol|29}}<br>[[Lorenzo Faravelli|Faravelli]] {{gol|67}}<br>[[Lautaro Ariel Díaz|Díaz]] {{gol|69}}
+|golesvisita   = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324659
+}}
+{{Partido
+|id            = MEL_ECU
+|paíslocal     = PER
+|local         = [[Foot Ball Club Melgar|Melgar]]
+|resultado     = 0:3 {{sin negrita|(0:1)}}
+|paísvisita    = ECU
+|visita        = [[Independiente del Valle]]
+|refe          = {{Árbitro|ARG|Fernando Rapallini}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|7|9|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Monumental de la UNSA]]
+|ciudad        = [[Arequipa]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = [[Lautaro Ariel Díaz|Díaz]] {{gol|28||53}}<br>[[Luis Segovia|Segovia]] {{gol|88}}
+|resultado penalti = 
+|penaltis1     = 
+|penaltis2     = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324661
+}}
+<br>
+{{Partido
+|id            = AGO_SAO
+|paíslocal     = BRA
+|local         = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|resultado     = 3:1''' (1:1)
+|paísvisita    = BRA
+|visita        = [[São Paulo Futebol Clube|São Paulo]]
+|refe          = {{Árbitro|VEN|Jesús Valenzuela}}
+|var           = {{Árbitro|VEN|Juan Soto Arévalo|Juan Soto}}
+|fecha         = {{fecha|1|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Serra Dourada]]
+|ciudad        = [[Goiânia]]
+|asistencia    = 
+|goleslocal    = [[Jorge de Moura Xavier|Jorginho]] {{gol|11}}<br>[[Shaylon Kallyson Cardozo|Shaylon]] {{gol|56}}<br>[[Leonardo Augusto dos Santos Pereira|Léo Pereira]] {{gol|78}}
+|golesvisita   = [[Luciano da Rocha Neves|Luciano]] {{gol|23}}
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324660
+}}
+{{Partido
+|id            = SAO_AGO
+|paíslocal     = BRA
+|local         = [[São Paulo Futebol Clube|São Paulo]]
+|resultado     = 2:0 {{sin negrita|(1:0)}}
+|paísvisita    = BRA
+|visita        = [[Atlético Clube Goianiense|Atlético Goianiense]]
+|refe          = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|8|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Morumbi]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = [[Patrick Bezerra do Nascimento|Patrick]] {{gol|4||63}}
+|resultado penalti = 4:2
+|penaltis1     = [[Reinaldo Manoel da Silva|Reinaldo]] {{pengol}}<br>[[Jonathan Calleri|Calleri]] {{pengol}}<br>[[Luciano da Rocha Neves|Luciano]] {{penfallo|atajado}}<br>[[Igor Vinícius]] {{pengol}}<br>[[Giuliano Galoppo|Galoppo]] {{pengol}}
+|penaltis2     = {{pengol}} [[Wellington Rato]]<br>{{penfallo|desviado}} [[Gabriel Baralhas|Baralhas]]<br>{{pengol}} [[Shaylon Kallyson Cardozo|Shaylon]]<br>{{penfallo|poste}} [[Leonardo Augusto dos Santos Pereira|Léo Pereira]]
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2324662
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2022|l1=Final de la Copa Sudamericana 2022}}
+{{Partido
+|id            = SAO_IDV
+|paíslocal     = BRA
+|local         = [[São Paulo Futebol Clube|São Paulo]]
+|resultado     = 0:2 {{sin negrita|(0:1)}}
+|paísvisita    = ECU
+|visita        = [[Independiente del Valle]]
+|refe          = {{Árbitro|COL|Wilmar Roldán}}
+|var           = {{Árbitro|CHI|Julio Bascuñán}}
+|fecha         = {{fecha|1|10|}}, 17:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Mario Alberto Kempes]]
+|ciudad        = [[Córdoba (Argentina)|Córdoba]]
+|asistencia    = 24{{esd}}683
+|goleslocal    = 
+|golesvisita   = [[Lautaro Ariel Díaz|Díaz]] {{gol|13}}<br /> [[Lorenzo Faravelli|Faravelli]] {{gol|67}}
+|resultado penalti = 
+|penaltis1     = 
+|penaltis2     = 
+|reporte       = https://conmebolsudamericana.com/cards/MatchCenter?gameId=2330993
+}}
+<br />
+{{Campeón
+|equipo = [[Independiente del Valle]]
+|bandera = ECU
+|orden = 2
+|logo=CopaSulamericana2002-.png}}
+{{clear}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|Part.|Partidos jugados}}
+|- bgcolor="#d0e7ff"
+|{{Bandera|ARG}} '''[[Bernardo Cuesta]]'''
+| align="left"|{{Bandera|PER}} '''[[Foot Ball Club Melgar|Melgar]]'''
+| align="center" |'''8'''
+| align="center" |'''13'''
+|- bgcolor=
+|{{Bandera|COL}} [[Steven Mendoza]]
+| align="left"|{{Bandera|BRA}} [[Ceará Sporting Club|Ceará]]
+| align="center" |6
+| align="center" |8
+|- bgcolor=
+|{{Bandera|ARG}} [[Lautaro Ariel Díaz|Lautaro Díaz]]
+| align="left"|{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |5
+| align="center" |7
+|- bgcolor=
+|{{Bandera|PAR}} [[Mario Otazú]]
+| align="left"|{{Bandera|PAR}} [[Guaireña Fútbol Club|Guaireña]]
+| align="center" |5
+| align="center" |7
+|- bgcolor=
+|{{Bandera|COL}} [[Miguel Borja]]
+| align="left"|{{Bandera|COL}} [[Junior de Barranquilla|Junior]]
+| align="center" |5
+| align="center" |8
+|- bgcolor=
+|{{Bandera|BRA}} [[Luciano da Rocha Neves|Luciano]]
+| align="left"|{{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align="center" |5
+| align="center" |12
+|}
+<center><small>Fuente: [https://www.livefutbol.com/goleadores/copa-sudamericana-2022/ Livefutbol]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor="#d0e7ff"
+|{{Bandera|ECU}} '''[[Danny Luna]]'''
+| align="left" |{{Bandera|ECU}} '''[[9 de Octubre Fútbol Club|9 de Octubre]]'''
+| align="center" |'''6'''
+|- bgcolor=
+|{{Bandera|ECU}} [[Junior Sornoza]]
+| align="left" |{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |4
+|- bgcolor=
+|{{Bandera|ECU}} [[Marco Angulo Solorzano|Marco Angulo]]
+| align="left" |{{Bandera|ECU}} [[Independiente del Valle]]
+| align="center" |3
+|- bgcolor=
+|{{Bandera|ARG}} [[Diego Churín]]
+| align="left" |{{Bandera|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+| align="center" |3
+|- bgcolor=
+|{{Bandera|ARG}} [[Leandro Miguel Fernández|Leandro Fernández]]
+| align="left" |{{Bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |3
+|- bgcolor=
+|{{Bandera|BRA}} [[Jorge de Moura Xavier|Jorginho]]
+| align="left" |{{Bandera|BRA}} [[Atlético Clube Goianiense|Atlético Goianiense]]
+| align="center" |3
+|- bgcolor=
+|{{Bandera|BRA}} [[Taison]]
+| align="left" |{{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+| align="center" |3
+|- bgcolor=
+|{{Bandera|BRA}} [[Willian Gomes de Siqueira|Willian]]
+| align="left" |{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+| align="center" |3
+|}
+<center><small>Fuente: [https://www.livefutbol.com/asistencias/copa-sudamericana-2022/ Livefutbol]</small></center>
+
+=== Equipo Ideal ===
+{|align=center bgcolor="#006699" cellpadding="3" cellspacing="0" border="0" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#006699 style="color:white;"
+!colspan=3 align=center|Equipo Ideal 2022<ref> [https://www.instagram.com/p/CjQzWmKpZJE/ El once ideal de la Copa Sudamericana 2022]</ref>
+|- align=left bgcolor=#006699 style="color:white;"
+!width="50"|Pos.
+!width="200"|Futbolista
+!width="200"|Equipo
+|---- bgcolor=#F5FAFF style="border-bottom:1px solid #000000;"
+|{{por}}
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuadorl]] [[Moisés Ramírez]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#D0E7FF
+|{{def}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Igor Vinícius]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[São Paulo Futebol Clube|Sao Paulo]]
+|---- bgcolor=#F5FAFF
+|{{def}}
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Luis Segovia]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#D0E7FF style="border-bottom:1px solid #000000;"
+|{{def}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Richard Schunke]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#F5FAFF 
+|{{mdc}}
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Junior Sornoza]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#D0E7FF
+|{{mdc}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Lorenzo Faravelli]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#F5FAFF
+|{{mdc}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Jorge de Moura Xavier|Jorginho]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Atlético Goianiense]]
+|---- bgcolor=#D0E7FF style="border-bottom:1px solid #000000;"
+|{{mdc}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Rodrigo Nestor]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[São Paulo Futebol Clube|Sao Paulo]]
+|---- bgcolor=#F5FAFF 
+|{{del}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Luciano da Rocha Neves|Luciano]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[São Paulo Futebol Clube|Sao Paulo]]
+|---- bgcolor=#D0E7FF
+|{{del}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Lautaro Ariel Díaz|Lautaro Díaz]]
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Independiente del Valle]]
+|---- bgcolor=#F5FAFF
+|{{del}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Bernardo Cuesta]]
+|[[Archivo:Flag of Peru.svg|border|20px|Perú]] [[Foot Ball Club Melgar|Melgar]]
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2022]]
+* [[Copa Libertadores Femenina 2022]]
+* [[Anexo:Ranking de Clubes de la Conmebol]]
+* [[Recopa Sudamericana 2022]]
+
+== Referencias ==
+{{Listaref}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com/es/copa-sudamericana-2019 Conmebol Copa Sudamericana] en la página web oficial de [[Conmebol]].
+{{Facebook|CopaSudamericana|Copa Sudamericana}}
+{{Twitter|Sudamericana|Copa Sudamericana}}
+{{Instagram|Sudamericana|Copa Sudamericana}}
+{{Facebook|CONMEBOL|Conmebol}}
+{{Twitter|CONMEBOL|Conmebol}}
+{{Instagram|CONMEBOL|Conmebol}}
+
+{{ sucesión
+| predecesora = [[Copa Sudamericana 2021|2021]]
+| título = Copa Conmebol Sudamericana 2022
+| período = XXI edición
+| sucesora = [[Copa Sudamericana 2023|2023]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana|2022]]
+[[Categoría:Copa Sudamericana 2022| ]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

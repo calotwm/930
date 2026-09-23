@@ -1,0 +1,1241 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = Estadio Racing.jpg
+| imagen_tamaño = 300px
+| imagen_pie = [[Estadio Presidente Perón|El Cilindro]] ([[Avellaneda (Buenos Aires)|Avellaneda]]), sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2007|final]].
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 34 de 12 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|31|7|2007}}<br>{{fecha2|5|12|2007}}
+| edición = VI
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Arsenal Fútbol Club|Arsenal]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|MEX}} [[Club América|América]]
+| semifinalistas = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]] <br> {{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+| partidos = 66
+| goles = 155 (2,23 por partido)
+| goleadores = 
+| anterior = [[Copa Sudamericana 2006]]
+| actual = Copa Sudamericana 2007
+| siguiente = [[Copa Sudamericana 2008]]
+|goleador={{bandera|COL}} [[Ricardo Ciciliano]] (6 goles)<br><small>([[Millonarios Fútbol Club|Millonarios]])</small>}}
+La '''[[Copa Sudamericana]] 2007''', denominada por motivos comerciales '''Copa Nissan Sudamericana 2007''', fue la sexta edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de doce países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Estados Unidos]], [[México]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+[[Arsenal Fútbol Club|Arsenal]], de Argentina, se consagró campeón al superar en la final a [[Club América|América]] de México gracias a los [[regla del gol de visitante|goles convertidos en condición de visitante]], luego de que el marcador global tras ambos encuentros finalizara 4-4. Curiosamente, el cuadro argentino llegó al título sin haber ganado ningún partido como local, pero manteniéndose invicto en condición de visitante. El logro le dio el derecho de disputar la [[Recopa Sudamericana 2008]] ante [[Club Atlético Boca Juniors|Boca Juniors]], campeón de la [[Copa Libertadores 2007]], y la novedosa [[Copa Suruga Bank 2008]] ante [[Gamba Osaka]] de Japón, vencedor de la [[Copa J. League 2007]]. Además, clasificó a la primera fase de la [[Copa Sudamericana 2008]]. Fue su primer título oficial en la historia.
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. De los 34 participantes, solamente [[Club de Fútbol Pachuca|Pachuca]] —último campeón—, [[Club Atlético Boca Juniors|Boca Juniors]], [[Club Atlético River Plate|River Plate]] —invitados por Conmebol—, y los tres invitados de Concacaf iniciaron el torneo desde los octavos de final. Los restantes 28 debieron disputar las dos fases clasificatorias. De allí salieron los últimos 10 clasificados a las fases finales, compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón. Como criterios de desempate en caso de igualdad de puntos y diferencia de goles al finalizar los dos encuentros de una llave, en cualquiera de las fases, se aplicaron la [[regla del gol de visitante]] y los [[tiros desde el punto penal]].<ref>{{cita web|título=Reglamento Copa Sudamericana de Clubes Edición 2007|url=http://img.conmebol.com/csf/pub/articulo/2007/Reglamento_Copa-Sudam_07.pdf|obra=Conmebol|fecha=julio de 2007|fechaacceso=24 de noviembre de 2024|urlarchivo=https://web.archive.org/web/20080513175421/http://img.conmebol.com/csf/pub/articulo/2007/Reglamento_Copa-Sudam_07.pdf|fechaarchivo=13 de mayo de 2008|formato=PDF}}</ref>
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase preliminar
+(16 equipos)
+|
+* 2 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 8 equipos de Brasil
+* 4 equipos de Argentina
+|
+* 8 equipos clasificados de la Fase preliminar
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2006
+* 2 equipos de Argentina y México
+* 1 equipo de Estados Unidos
+|
+* 10 equipos clasificados de la Primera fase
+|}
+
+== Distribución cupos ==
+
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Primera fase
+! Fase preliminar
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''8'''
+| –
+|8 
+|  -
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| 2
+| 4 
+|  -
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|ECU|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|MEX}} [[Federación Mexicana de Fútbol|México]]
+|'''2'''
+| 2
+| -
+| -
+|-
+| align="left" |{{Bandera|PAR|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|USA}} [[Federación de Fútbol de los Estados Unidos|Estados Unidos]]
+|'''1'''
+| 1
+| -
+| -
+|-
+| align="left" |Fase anterior
+| –
+| 10
+| 10
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| 1
+| -
+| –
+|-
+!Total
+!34
+!16
+!20
+!20
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=14%|País
+!width=14%|Equipo
+!width=72%|Vía de clasificación
+
+|-bgcolor=#F5FAFF
+|'''{{Bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br>{{small|6 cupos}}
+|[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>[[Arsenal Fútbol Club|Arsenal]]<br>[[Club Atlético Lanús|Lanús]]
+|Invitado<br>Invitado<br>Mejor equipo ubicado en la [[Campeonato de Primera División 2006-07 (Argentina)#Clasificación a la Copa Sudamericana 2007|tabla de posiciones del Campeonato de Primera División 2006-07]]<br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2006-07<br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2006-07<br>4.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2006-07
+
+|- bgcolor=#DDEEFF
+|'''{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br>{{small|2 cupos}}
+|''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]''<br>''[[Club Real Potosí|Real Potosí]]''
+|Campeón del [[Segundo Torneo 2006 (Bolivia)|Segundo Torneo 2006]]<br>Subcampeón del Segundo Torneo 2006
+
+|- bgcolor=#F5FAFF
+| '''{{bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br>{{small|8 cupos}}
+|[[São Paulo Futebol Clube|São Paulo]]<br>[[Club de Regatas Vasco da Gama|Vasco da Gama]]<br>[[Figueirense Futebol Clube|Figueirense]]<br>[[Goiás Esporte Clube|Goiás]]<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]<br>[[Botafogo de Futebol e Regatas|Botafogo]]<br>[[Clube Atlético Paranaense|Atlético Paranaense]]
+|Campeón del [[Campeonato Brasileño de Fútbol 2006|Campeonato Brasileño de 2006]]<br>6.º puesto del Campeonato Brasileño de 2006<br>7.º puesto del Campeonato Brasileño de 2006<br>8.º puesto del Campeonato Brasileño de 2006<br>9.º puesto del Campeonato Brasileño de 2006<br>10.º puesto del Campeonato Brasileño de 2006<br>12.º puesto del Campeonato Brasileño de 2006<br>13.º puesto del Campeonato Brasileño de 2006
+
+|- bgcolor=#DDEEFF
+| '''{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br>{{small|2 cupos}}
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>''[[Audax Italiano La Florida|Audax Italiano]]''
+|Ganador de la [[Torneo Apertura 2007 (Chile)#Liguilla Pre-Sudamericana 2007|Liguilla Pre-Sudamericana 2007]]<br>Ganador de la Liguilla Pre-Sudamericana 2007
+
+|- bgcolor=#F5FAFF
+| '''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br>{{small|2 cupos}}
+|[[Atlético Nacional]]<br>[[Millonarios Fútbol Club|Millonarios]]
+|Mejor equipo ubicado en la [[Temporada 2006 del fútbol colombiano#Reclasificación|Reclasificación 2006]] no participante de la Copa Libertadores 2007<br>2.º mejor equipo ubicado en la Reclasificación 2006 no participante de la Copa Libertadores 2007
+
+|- bgcolor=#DDEEFF
+| '''{{Bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>{{small|2 cupos}}
+|[[Club Deportivo El Nacional|El Nacional]]<br>''[[Centro Deportivo Olmedo|Olmedo]]''
+|Ganador de la [[Campeonato Ecuatoriano de Fútbol 2006#Segunda etapa|segunda etapa del Campeonato Ecuatoriano de 2006]]<br>Ganador de la [[Campeonato Ecuatoriano de Fútbol 2007#Primera Etapa|primera etapa del Campeonato Ecuatoriano de 2007]]
+
+|- bgcolor=#F5FAFF
+| '''{{Bandera|Estados Unidos}} [[Major League Soccer|Estados Unidos]]'''<br><small>1 invitado</small>
+|[[D. C. United]]
+|Ganador la [[MLS Supporters' Shield|MLS Supporters' Shield 2007]]
+
+|- bgcolor=#DDEEFF
+| '''{{Bandera|México}} [[Federación Mexicana de Fútbol|México]]'''<br><small>2 invitados + campeón vigente</small>
+|[[Club de Fútbol Pachuca|Pachuca]]<br>''[[Club Deportivo Guadalajara (México)|Guadalajara]]''<br>[[Club América|América]]
+|Campeón de la [[Copa Sudamericana 2006]]<br>Mejor equipo ubicado en la [[Torneo Clausura 2007 (México)#Clasificación final|clasificación final del Torneo Clausura 2007]] no participante de la Copa de Campeones de la Concacaf 2008<br>2.º mejor equipo ubicado en la clasificación final del Torneo Clausura 2007 no participante de la Copa de Campeones de la Concacaf 2008
+
+|- bgcolor=#F5FAFF
+| '''{{Bandera|Paraguay|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>{{small|2 cupos}}
+|[[Club Libertad|Libertad]]<br>''[[Tacuary Football Club|Tacuary]]''
+|Campeón del [[Campeonato Paraguayo de Fútbol 2006|Campeonato Paraguayo de 2006]]<br>Ganador de la [[Campeonato Paraguayo de Fútbol 2006#Liguilla Pre-Sudamericana 2006|Liguilla Pre-Sudamericana 2006]]
+
+|- bgcolor=#DDEEFF
+| '''{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br>{{small|2 cupos}}
+|[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]]<br>[[Club Universitario de Deportes|Universitario]]
+|Mejor equipo ubicado en la [[Campeonato Descentralizado 2006#Tabla acumulada|tabla acumulada del Campeonato Descentralizado 2006]] no participante de la Copa Libertadores 2007<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2006 no participante de la Copa Libertadores 2007
+
+|- bgcolor=#F5FAFF
+| '''{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>{{small|2 cupos}}
+|[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting Club|Defensor Sporting]]
+|3.º puesto de la [[Campeonato Uruguayo de Primera División 2006-07#Liguilla Pre-Libertadores y Pre-Sudamericana|Liguilla Pre-Libertadores y Pre-Sudamericana 2007]]<br>4.º puesto de la Liguilla Pre-Libertadores y Pre-Sudamericana 2007
+
+|- bgcolor=#DDEEFF
+| '''{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br>{{small|2 cupos}}
+|''[[Zamora Fútbol Club|Zamora]]''<br>[[Carabobo Fútbol Club|Carabobo]]
+|Mejor equipo ubicado en la [[Primera División Venezolana 2006-07#Acumulada|tabla acumulada de la Primera División Venezolana 2006-07]] no participante de la Copa Libertadores 2008<br>2.º mejor equipo ubicado en la tabla acumulada de la Primera División Venezolana 2006-07 no participante de la Copa Libertadores 2008
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Sudamericana 2007'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos de Buenos Aires:}}'''<br>[[Arsenal Fútbol Club|Arsenal]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95}}
+{{Location map~|América del Sur|lat=-34.933333|long=-60|label=<small>[[Club Estudiantes de La Plata|Estudiantes]]</small>|mark=TransparentPlaceholder.png |position=bottom}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Jorge Wilstermann|{{Esd|Jorge Wilstermann}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.583333|long=-65.75|label=<small>[[Club Real Potosí|{{Esd|Real Potosí}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>'''{{Esd|Río de Janeiro}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-32|long=-42|label=<small>'''{{Esd|Equipos de Río de Janeiro:}}'''<br>[[Botafogo de Futebol e Regatas|Botafogo]]<br>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>'''{{Esd|São Paulo}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-40|long=-40.5|label=<small>'''{{Esd|Equipos de São Paulo:}}'''<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[São Paulo Futebol Clube|São Paulo]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small>[[Clube Atlético Paranaense|{{Esd|Atlético Paranaense}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-16.678889|long=-49.253889|label=<small>[[Goiás Esporte Clube|Goiás]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-27.593281|long=-48.553047|label=<small>[[Figueirense Futebol Clube|Figueirense]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Audax Italiano La Florida|{{Esd|Audax Italiano}}]]<br>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Club Deportivo El Nacional|{{Esd|El Nacional}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-1.674347|long=-78.648294|label=<small>[[Centro Deportivo Olmedo|Olmedo]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Libertad|Libertad]]<br>[[Tacuary Football Club|Tacuary]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Universitario de Deportes|Universitario]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-18.055556|long=-70.248333|label=<small><br>[[Club Deportivo Coronel Bolognesi|{{Esd|Coronel Bolognesi}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.166667|long=-68|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=8.633333|long=-70.216667|label=<small>[[Zamora Fútbol Club|Zamora]]</small>|position=left}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Sudamericana 2007'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=20.1225|long=-98.736111|label=<small>[[Club de Fútbol Pachuca|Pachuca]]</small>|position=right}}
+{{Location map~|México|lat=19.419444|long=-99.145556|label=<small>[[Club América|América]]</small>|position=left}}
+{{Location map~|México|lat=20.676667|long=-103.3475|label=<small>[[Club Deportivo Guadalajara (México)|Guadalajara]]</small>|position=left}}
+}}
+{{Location map+|Estados Unidos|float=center|width=575|caption=Localización de los equipos estadounidenses de la '''Copa Sudamericana 2007'''|AlternativeMap =USA location map.svg|places=
+<!-- CLUBES DE ESTADOS UNIDOS -->
+{{Location map~|Estados Unidos|lat=38.895|long=-77.036667|label=<small>[[D. C. United|{{Esd|D.C. United}}]]</small>|position=left}}
+}}
+
+== Fase preliminar ==
+{{AP|Anexo:Fase preliminar de la Copa Sudamericana 2007|l1=Fase preliminar de la Copa Sudamericana 2007}}
+Los ocho países de América del Sur, excluyendo Argentina y Brasil, fueron separados en cuatro "grupos" o llaves, de acuerdo a sus respectivas ubicaciones geográficas: Bolivia y Chile, en el A; Ecuador y Venezuela, en el B; Colombia y Perú, en el C; Paraguay y Uruguay, en el D. El primer clasificado de cada país enfrentó al segundo del otro que integrara su misma zona. Los 8 ganadores avanzaron a la primera fase.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|31 de julio y 7 de agosto
+| align="right" |'''[[Audax Italiano La Florida|Audax Italiano]]''' {{bandera|Chile}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|2:0
+|1:1
+!Ganador A1
+
+|- align="center" style="background:#F5FAFF;"
+|2 y 9 de agosto
+| align="right" |[[Club Real Potosí|Real Potosí]] {{bandera|Bolivia}}
+| align="2" | '''2:4'''
+| align="left" |{{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:1
+|1:3
+!Ganador A2
+
+|- align="center"
+|1 y 21 de agosto
+| align="right" |'''[[Centro Deportivo Olmedo|Olmedo]]''' {{bandera|Ecuador|1900}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Venezuela}} [[Zamora Fútbol Club|Zamora]]
+|1:0
+|2:1
+!Ganador B1
+
+|- align="center" style="background:#F5FAFF;"
+|16 y 28 de agosto
+| align="right" |[[Carabobo Fútbol Club|Carabobo]] {{bandera|Venezuela}}
+| align="2" | '''0:5'''
+| align="left" |{{bandera|Ecuador|1900}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|0:1
+|0:4
+!Ganador B2
+
+|- align="center"
+|2 y 23 de agosto
+| align="right" |'''[[Millonarios Fútbol Club|Millonarios]]''' {{bandera|Colombia}}
+| align="2" | '''1:1''' <small>('''5:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Perú}} [[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]]
+|0:1
+|1:0
+!Ganador C1
+
+|- align="center" style="background:#F5FAFF;"
+|9 y 30 de agosto
+| align="right" |[[Club Universitario de Deportes|Universitario]] {{bandera|Perú}}
+| align="2" | '''0:2'''
+| align="left" |{{bandera|Colombia}} '''[[Atlético Nacional]]'''
+|0:1
+|0:1
+!Ganador C2
+
+|- align="center"
+|7 y 21 de agosto
+| align="right" |'''[[Defensor Sporting Club|Defensor Sporting]]''' {{bandera|Uruguay}}
+| align="2" | '''4:3'''
+| align="left" |{{bandera|Paraguay|1990}} [[Club Libertad|Libertad]]
+|2:1
+|2:2
+!Ganador D1
+
+|- align="center" style="background:#F5FAFF;"
+|1 y 15 de agosto
+| align="right" |'''[[Tacuary Football Club|Tacuary]]''' {{bandera|Paraguay|1990}}
+| align="2" | '''2:2''' <small>('''4:1''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+|1:1
+|1:1
+!Ganador D2
+
+|}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2007|l1=Primera fase de la Copa Sudamericana 2007}}
+Los 8 ganadores de la fase preliminar fueron emparejados en cuatro nuevas llaves, enfrentándose entre sí los dos ganadores de cada "grupo". Asimismo, con los últimos cuatro clasificados de Argentina por un lado y los ocho clasificados de Brasil por otro se establecieron los seis cruces restantes. Los 10 ganadores avanzaron a los octavos de final.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|14 de agosto y 6 de septiembre
+| align="right" |'''[[Arsenal Fútbol Club|Arsenal]]''' {{bandera|Argentina}}
+| align="2" | '''4:1'''
+| align="left" |{{bandera|Argentina}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|1:1
+|3:0
+!Argentina I
+
+|- align="center" style="background:#F5FAFF;"
+|8 de agosto y 5 de septiembre
+| align="right" |'''[[Club Atlético Lanús|Lanús]]''' {{bandera|Argentina}}
+| align="2" | '''3:2'''
+| align="left" |{{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|2:0
+|1:2
+!Argentina IV
+
+|- align="center"
+|15 de agosto y 12 de septiembre
+| align="right" |[[Clube Atlético Paranaense|Atlético Paranaense]] {{bandera|Brasil}}
+| align="2" | '''2:6'''
+| align="left" |{{bandera|Brasil}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|2:4
+|0:2
+!Brasil I
+
+|- align="center" style="background:#F5FAFF;"
+|15 y 23 de agosto
+| align="right" |[[Figueirense Futebol Clube|Figueirense]] {{bandera|Brasil}}
+| align="2" | '''3:3'''
+| align="left" |{{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]''' <small>([[Regla del gol de visitante|v.]])</small>
+|2:2
+|1:1
+!Brasil II
+
+|- align="center"
+|22 de agosto y 12 de septiembre
+| align="right" |'''[[Botafogo de Futebol e Regatas|Botafogo]]''' {{bandera|Brasil}}
+| align="2" | '''5:2'''
+| align="left" |{{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+|3:1
+|2:1
+!Brasil III
+
+|- align="center" style="background:#F5FAFF;"
+|16 y 22 de agosto
+| align="right" |'''[[Goiás Esporte Clube|Goiás]]''' {{bandera|Brasil}}
+| align="2" | '''2:1'''
+| align="left" |{{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|2:0
+|0:1
+!Brasil IV
+
+|- align="center"
+|4 y 11 de septiembre
+| align="right" |'''[[Club Deportivo El Nacional|El Nacional]]''' {{bandera|Ecuador|1900}}
+| align="2" | '''3:0'''
+| align="left" |{{bandera|Ecuador|1900}} [[Centro Deportivo Olmedo|Olmedo]]
+|2:0
+|1:0
+!Octavofinalista 2
+
+|- align="center" style="background:#F5FAFF;"
+|28 de agosto y 4 de septiembre
+| align="right" |<small>([[Regla del gol de visitante|v.]])</small> '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]''' {{bandera|Chile}}
+| align="2" | '''1:1'''
+| align="left" |{{bandera|Chile}} [[Audax Italiano La Florida|Audax Italiano]]
+|0:0
+|1:1
+!Octavofinalista 3
+
+|- align="center"
+|5 y 13 de septiembre
+| align="right" |[[Atlético Nacional]] {{bandera|Colombia}}
+| align="2" | '''2:3'''
+| align="left" |{{bandera|Colombia}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+|2:3
+|0:0
+!Octavofinalista 6
+
+|- align="center" style="background:#F5FAFF;"
+|30 de agosto y 13 de septiembre
+| align="right" |[[Tacuary Football Club|Tacuary]] {{bandera|Paraguay|1990}}
+| align="2" | '''1:4'''
+| align="left" |{{bandera|Uruguay}} '''[[Defensor Sporting Club|Defensor Sporting]]'''
+|1:1
+|0:3
+!Octavofinalista 7
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los 10 ganadores de la primera fase se les sumaron [[Club de Fútbol Pachuca|Pachuca]] —último campeón—, [[Club Atlético Boca Juniors|Boca Juniors]], [[Club Atlético River Plate|River Plate]], —invitados de Argentina—, [[Club América|América]], [[Club Deportivo Guadalajara (México)|Guadalajara]] —invitados de México— y [[D.C. United]] —invitado de Estados Unidos—. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta la denominación que se le asignó a cada equipo; en el caso de los cuadros que clasificaron desde la primera fase, dicha denominación fue determinada por el nombre del cruce que ganaron en aquella instancia. De esa manera, el Octavofinalista 1 enfrentó al Octavofinalista 8, el 2 al 7, el 3 al 6, y el 4 al 5; mientras que los clasificados de Argentina y Brasil se enfrentaron, respectivamente, el I de un país ante el IV del otro, el II ante el III, el III ante el II, y el IV ante el I. En caso de que dos equipos de un mismo país alcanzaran la ronda de semifinales, se debía alterar, de ser necesario, el orden de las llaves para que ambos se enfrentaran en la mencionada instancia, a fin de evitar que puedan cruzarse en la final.
+
+{{columnas}}
+=== Clasificados automáticamente a octavos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="50%" |Equipo
+! width="50%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''Argentina II'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''Argentina III'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|MEX}} [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|'''Octavofinalista 1'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|MEX}} [[Club América|América]]
+|'''Octavofinalista 4'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|MEX}} [[Club de Fútbol Pachuca|Pachuca]]
+|'''Octavofinalista 5'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|USA}} [[D. C. United]]
+|'''Octavofinalista 8'''
+|}
+{{nueva columna}}
+
+=== Clasificados de la primera fase ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="50%" |Equipo
+! width="50%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Arsenal Fútbol Club|Arsenal]]
+|'''Argentina I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+|'''Argentina IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|BRA}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''Brasil I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+|'''Brasil II'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|'''Brasil III'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[Goiás Esporte Clube|Goiás]]
+|'''Brasil IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|ECU|1900}} [[Club Deportivo El Nacional|El Nacional]]
+|'''Octavofinalista 2'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''Octavofinalista 3'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+|'''Octavofinalista 6'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+|'''Octavofinalista 7'''
+|}
+{{fin columnas}}
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Octavos de final -->
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2007|Octavos de final]]
+| RD1-date= 19 de septiembre al 4 de octubre
+
+| RD1-seed1 = A II
+| RD1-seed2 = B III
+| RD1-team1 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-team2 = {{bandera|Brasil}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD1-score1-1 = 0
+| RD1-score2-1 = 1
+| RD1-score1-2 = 4
+| RD1-score2-2 = 2
+| RD1-score1-3 = '''4'''
+| RD1-score2-3 = '''3'''
+
+| RD1-seed3 = O2
+| RD1-seed4 = O7
+| RD1-team3 = {{bandera|Ecuador|1900}} [[Club Deportivo El Nacional|El Nacional]]
+| RD1-team4 = {{bandera|Uruguay}} '''[[Defensor Sporting Club|Defensor Sporting]]'''
+| RD1-score3-1 = 0
+| RD1-score4-1 = 3
+| RD1-score3-2 = 2
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''2'''
+| RD1-score4-3 = '''3'''
+
+| RD1-seed5 = O1
+| RD1-seed6 = O8
+| RD1-team5 = {{bandera|México}} '''[[Club Deportivo Guadalajara (México)|Guadalajara]]''' <small>([[Regla del gol de visitante|v]])</small>
+| RD1-team6 = {{bandera|Estados Unidos}} [[D. C. United]]
+| RD1-score5-1 = 1
+| RD1-score6-1 = 2
+| RD1-score5-2 = 1
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''2'''
+| RD1-score6-3 = '''2'''
+
+| RD1-seed7 = A I
+| RD1-seed8 = {{nowrap|B IV}}
+| RD1-team7 = {{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD1-team8 = {{bandera|Brasil}} [[Goiás Esporte Clube|Goiás]]
+| RD1-score7-1 = 3
+| RD1-score8-1 = 2
+| RD1-score7-2 = 1
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''4'''
+| RD1-score8-3 = '''3'''
+
+| RD1-seed9 = B I
+| RD1-seed10 = A IV
+| RD1-team9 = {{bandera|Brasil}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+| RD1-team10 = {{bandera|Argentina}} [[Club Atlético Lanús|Lanús]]
+| RD1-score9-1 = 0
+| RD1-score10-1 = 2
+| RD1-score9-2 = 3
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''2'''
+
+| RD1-seed11 = O4
+| RD1-seed12 = O5
+| RD1-team11 = {{bandera|México}} '''[[Club América|América]]'''
+| RD1-team12 = {{bandera|México}} [[Club de Fútbol Pachuca|Pachuca]]
+| RD1-score11-1 = 4
+| RD1-score12-1 = 1
+| RD1-score11-2 = 0
+| RD1-score12-2 = 2
+| RD1-score11-3 = '''4'''
+| RD1-score12-3 = '''3'''
+
+| RD1-seed13 = O3
+| RD1-seed14 = O6
+| RD1-team13 = {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-team14 = {{bandera|Colombia}} '''[[Millonarios Fútbol Club|Millonarios]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score13-1 = 1
+| RD1-score14-1 = 1
+| RD1-score13-2 = 1
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''2&nbsp;{{small|(6)}}'''
+| RD1-score14-3 = '''2&nbsp;{{small|(7)}}'''
+
+| RD1-seed15 = B II
+| RD1-seed16 = A III
+| RD1-team15 = {{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]''' <small>([[Regla del gol de visitante|v]])</small>
+| RD1-team16 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD1-score15-1 = 1
+| RD1-score16-1 = 2
+| RD1-score15-2 = 1
+| RD1-score16-2 = 0
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2007|Cuartos de final]]
+| RD2-date= 10 al 30 de octubre
+
+| RD2-team1 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]''' <small>([[Regla del gol de visitante|v]])</small>
+| RD2-team2 = {{bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+| RD2-score1-1 = 2
+| RD2-score2-1 = 2
+| RD2-score1-2 = 0
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''2'''
+| RD2-score2-3 = '''2'''
+
+| RD2-team3 = {{bandera|México}} [[Club Deportivo Guadalajara (México)|Guadalajara]]
+| RD2-team4 = {{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 0
+| RD2-score3-2 = 1
+| RD2-score4-2 = 3
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''3'''
+
+| RD2-team5 = {{bandera|Brasil}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+| RD2-team6 = {{Bandera|México}} '''[[Club América|América]]'''
+| RD2-score5-1 = 0
+| RD2-score6-1 = 2
+| RD2-score5-2 = 1
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''1'''
+| RD2-score6-3 = '''2'''
+
+| RD2-team7 = {{bandera|Colombia}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+| RD2-team8 = {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| RD2-score7-1 = 1
+| RD2-score8-1 = 0
+| RD2-score7-2 = 2
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''3'''
+| RD2-score8-3 = '''0'''
+
+<!-- Semifinales -->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2007|Semifinales]]
+| RD3-date= 8 al 14 de noviembre
+
+| RD3-team1 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD3-team2 = {{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD3-score1-1 = 0
+| RD3-score2-1 = 0
+| RD3-score1-2 = 0
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''0&nbsp;{{small|(2)}}'''
+| RD3-score2-3 = '''0&nbsp;{{small|(4)}}'''
+
+| RD3-team3 = {{bandera|México}} '''[[Club América|América]]'''
+| RD3-team4 = {{bandera|Colombia}} [[Millonarios Fútbol Club|Millonarios]]
+| RD3-score3-1 = 3
+| RD3-score4-1 = 2
+| RD3-score3-2 = 2
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''5'''
+| RD3-score4-3 = '''2'''
+
+<!-- Final -->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2007|Final]]
+| RD4-date= 30 de noviembre y 5 de diciembre
+
+| RD4-team1 = {{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]''' <small>([[Regla del gol de visitante|v]])</small>
+| RD4-team2 = {{bandera|México}} [[Club América|América]]
+| RD4-score1-1 = 3
+| RD4-score2-1 = 2
+| RD4-score1-2 = 1
+| RD4-score2-2 = 2
+| RD4-score1-3 = '''4'''
+| RD4-score2-3 = '''4'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>Nota 2: El Reglamento de la competición, en su artículo 5.12, establece: ''A la final no podrán arribar dos equipos de una misma asociación nacional. Por lo tanto, si dos clubes de una misma asociación accedieren a semifinales, estos deberán enfrentarse entre sí en dicha instancia''. Al haber arribado dos equipos argentinos a semifinales —Arsenal y River Plate—, el cuadro debió alterarse de manera tal que ambos equipos tuvieron que enfrentarse en dicha instancia, definiendo al local del primer partido mediante un sorteo. Los otros dos cuadros semifinalistas —América y Millonarios— se cruzaron en la otra llave, y el orden de sus localías fue acordada entre ambos clubes y [[Confederación Sudamericana de Fútbol|Conmebol]].</small>
+*<small>Nota 3: El Reglamento de la competición, en su artículo 5.13, establece: ''El torneo finalizará, indefectiblemente, en terreno sudamericano''. En consecuencia, América debió disputar su primer partido en la final en condición de local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2007|l1=Octavos de final de la Copa Sudamericana 2007}}
+{{Partido
+|local = [[Club Atlético Lanús|Lanús]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita = BRA
+|fecha = 19 de septiembre de 2007
+|estadio = [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Lanús]]
+|goleslocal = [[Agustín Pelletieri|Pelletieri]] {{gol|32}} <br> [[José Sand|Sand]] {{gol|77}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal = BRA
+|resultado = 3:0''' (1:0)
+|visita = [[Club Atlético Lanús|Lanús]]
+|paísvisita = ARG
+|fecha = 26 de septiembre de 2007
+|estadio = [[Estadio São Januário]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal = [[Leandro Amaral|Amaral]] {{gol|30||89}} <br> [[Wagner Diniz]] {{gol|75}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Club de Fútbol Pachuca|Pachuca]]
+|paíslocal = MEX
+|resultado = 1:4''' (1:1)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 25 de septiembre de 2007
+|estadio = [[Estadio Hidalgo]]
+|refe = {{árbitro|MEX|Marco Antonio Rodríguez}}
+|ciudad = [[Pachuca de Soto|Pachuca]]
+|goleslocal = [[Christian Giménez|Giménez]] {{gol|40}}
+|golesvisita = [[Federico Insúa|Insúa]] {{gol|35}} <br> [[Salvador Cabañas|Cabañas]] {{gol|47}} <br> [[Hernán Rodrigo López|López]] {{gol|57||58}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 0:2''' (0:0)
+|visita = [[Club de Fútbol Pachuca|Pachuca]]
+|paísvisita = MEX
+|fecha = 3 de octubre de 2007
+|estadio = [[Estadio Azteca]]
+|refe = {{árbitro|MEX|Manuel Glower}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = 
+|golesvisita = [[Damián Álvarez|Álvarez]] {{gol|57}} <br> [[Christian Giménez|Giménez]] {{gol|59}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[D. C. United]]
+|paíslocal = USA
+|resultado = 2:1''' (1:0)
+|visita = [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|paísvisita = MEX
+|fecha = 26 de septiembre de 2007
+|estadio = [[Estadio Conmemorativo Robert F. Kennedy|Estadio Robert F. Kennedy]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Washington D. C.|Washington]]
+|goleslocal = [[Ben Olsen|Olsen]] {{gol|23}} <br> [[Clyde Simms|Simms]] {{gol|54}}
+|golesvisita = [[Sergio Santana|Santana]] {{gol|60}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|paíslocal = MEX
+|resultado = 1:0''' (0:0)
+|visita = [[D. C. United]]
+|paísvisita = USA
+|fecha = 2 de octubre de 2007
+|estadio = [[Estadio Jalisco]]
+|refe = {{árbitro|ECU|var=1900|Samuel Haro}}
+|ciudad = [[Guadalajara (México)|Guadalajara]]
+|goleslocal = [[Ramón Morales|Morales]] {{gol|65}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Goiás Esporte Clube|Goiás]]
+|paíslocal = BRA
+|resultado = 2:3''' (1:1)
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|fecha = 19 de septiembre de 2007
+|estadio = [[Estadio Serra Dourada]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Goiânia]]
+|goleslocal = [[Paulo Baier|Baier]] {{gol|25||76}}
+|golesvisita = [[Israel Damonte|Damonte]] {{gol|16}} <br> [[Carlos Casteglione|Casteglione]] {{gol|78}} <br> [[Pablo Garnier|Garnier]] {{gol|79}}
+|reporte = 
+}}
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 1:1''' (1:1)
+|visita = [[Goiás Esporte Clube|Goiás]]
+|paísvisita = BRA
+|fecha = 26 de septiembre de 2007
+|estadio = [[Estadio Julio Humberto Grondona]]
+|refe = {{árbitro|CHI|Rubén Selmán}}
+|ciudad = [[Sarandí]]
+|goleslocal = [[Alejandro Darío Gómez|Gómez]] {{gol|36}}
+|golesvisita = [[Harison da Silva Nery|Harison]] {{gol|45+1}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal = COL
+|resultado = 1:1''' (0:1)
+|visita = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita = CHI
+|fecha = 25 de septiembre de 2007
+|estadio = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|refe = {{árbitro|PER|Víctor Hugo Rivera|Víctor Rivera}}
+|ciudad = [[Bogotá]]
+|goleslocal = [[Ricardo Ciciliano|Ciciliano]] {{gol|66}}
+|golesvisita = [[Eduardo Rubio|Rubio]] {{gol|30}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal = CHI
+|resultado = 1:1''' (1:1)
+|visita = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita = COL
+|fecha = 4 de octubre de 2007
+|estadio = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Gustavo Biscayzacú|Biscayzacú]] {{gol|41}}
+|golesvisita = [[Andrés Mosquera Alvarado|Mosquera]] {{gol|37}}
+|reporte = 
+|penaltis1 = [[Roberto Cereceda|Cereceda]] {{pengol}} <br> [[Gustavo Biscayzacú|Biscayzacú]] {{pengol}} <br> [[Rodrigo Millar|Millar]] {{pengol}} <br> [[Luis Mena Irarrázabal|Mena]] {{pengol}} <br> [[Gonzalo Fierro|Fierro]] {{pengol}} <br> [[Claudio Bieler|Bieler]] {{pengol}} <br> [[Arturo Sanhueza|Sanhueza]] {{penfallo|atajado}}
+|resultado penalti = 6:7
+|penaltis2 = {{pengol}} [[Ricardo Ciciliano|Ciciliano]] <br> {{pengol}} [[Gerardo Bedoya|Bedoya]] <br> {{pengol}} [[Gonzalo Martínez Caicedo|Martínez]] <br> {{pengol}} [[Carlos Villagra|Villagra]] <br> {{pengol}} [[Juan Carlos Quintero|Quintero]] <br> {{pengol}} [[Andrés Mosquera Alvarado|Mosquera]] <br> {{pengol}} [[Jonathan Estrada|Estrada]]
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 2:1''' (1:0)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|fecha = 19 de septiembre de 2007
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Martín Palermo|Palermo]] {{gol|26||83}}
+|golesvisita = [[Humberlito Borges Teixeira|Borges]] {{gol|89}}
+|reporte = 
+}}
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 26 de septiembre de 2007
+|estadio = [[Estadio Morumbi]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[São Paulo]]
+|goleslocal = [[José Aloísio da Silva|Aloísio]] {{gol|53}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Botafogo de Futebol e Regatas|Botafogo]]
+|paíslocal = BRA
+|resultado = 1:0''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 19 de septiembre de 2007
+|estadio = [[Estadio Olímpico Nilton Santos|Estadio João Havelange]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal = [[Joílson Rodrigues Macedo|Joílson]] {{gol|44}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 4:2''' (1:1)
+|visita = [[Botafogo de Futebol e Regatas|Botafogo]]
+|paísvisita = BRA
+|fecha = 27 de septiembre de 2007
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Radamel Falcao García|Falcao]] {{gol|31||74||90+2}} <br> [[Andrés Ríos|Ríos]] {{gol|80}}
+|golesvisita = [[Lúcio Flávio dos Santos|Lúcio Flávio]] {{gol|11}} <br> [[Ricardo Lucas|Dodô]] {{gol|65}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal = URU
+|resultado = 3:0''' (1:0)
+|visita = [[Club Deportivo El Nacional|El Nacional]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|fecha = 20 de septiembre de 2007
+|estadio = [[Estadio Centenario]]
+|refe = {{árbitro|CHI|Pablo Pozo}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Diego de Souza Carballo|De Souza]] {{gol|14||90|pen.}} <br> [[Cristian González Aidinovich|González]] {{gol|64}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Deportivo El Nacional|El Nacional]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 2:0''' (2:0)
+|visita = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita = URU
+|fecha = 4 de octubre de 2007
+|estadio = [[Estadio Olímpico Atahualpa]]
+|refe = {{árbitro|PER|Víctor Hugo Rivera|Víctor Rivera}}
+|ciudad = [[Quito]]
+|goleslocal = [[Ebelio Ordóñez|Ordóñez]] {{gol|15||27}}
+|golesvisita = 
+|reporte = 
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2007|l1=Cuartos de final de la Copa Sudamericana 2007}}
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 2:0''' (0:0)
+|visita = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita = BRA
+|fecha = 10 de octubre de 2007
+|estadio = [[Estadio Azteca]]
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Duilio Davino|Davino]] {{gol|51}} <br> [[Hernán Rodrigo López|López]] {{gol|77}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal = BRA
+|resultado = 1:0''' (1:0)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 24 de octubre de 2007
+|estadio = [[Estadio São Januário]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal =[[Leandro Amaral|Amaral]] {{gol|10}} 
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|paísvisita = MEX
+|fecha = 10 de octubre de 2007
+|estadio = [[Estadio Julio Humberto Grondona]]
+|refe = {{árbitro|PAR|var=1990|Ricardo Grance}}
+|ciudad = [[Sarandí]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|paíslocal = MEX
+|resultado = 1:3''' (1:2)
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|fecha = 25 de octubre de 2007
+|estadio = [[Estadio Jalisco]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Guadalajara (México)|Guadalajara]]
+|goleslocal = [[Sergio Santana|Santana]] {{gol|16}}
+|golesvisita = [[Javier Yacuzzi|Yacuzzi]] {{gol|2}} {{gol|27}} <br> [[Santiago Raymonda|Raymonda]] {{gol|78|pen.}}
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 0:1''' (0:0)
+|visita = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita = COL
+|fecha = 10 de octubre de 2007
+|estadio = [[Estadio Morumbi]]
+|refe = {{árbitro|ARG|Sergio Pezzotta}}
+|ciudad = [[São Paulo]]
+|goleslocal = 
+|golesvisita = [[Luis Eduardo Zapata|Zapata]] {{gol|84}}
+|reporte = 
+}}
+{{Partido
+|local = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal = COL
+|resultado = 2:0''' (0:0)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|fecha = 24 de octubre de 2007
+|estadio = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|ciudad = [[Bogotá]]
+|goleslocal = [[Ricardo Ciciliano|Ciciliano]] {{gol|76||85}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal = URU
+|resultado = 2:2''' (1:2)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 25 de octubre de 2007
+|estadio = [[Estadio Centenario]]
+|refe = {{árbitro|BRA|Sálvio Fagundes}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Pablo Gaglianone|Gaglianone]] {{gol|14}} <br> [[Sergio Valenti|Valenti]] {{gol|84}}
+|golesvisita = [[Ariel Ortega|Ortega]] {{gol|5|pen.}} <br> [[Radamel Falcao García|Falcao]] {{gol|30}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita = URU
+|fecha = 30 de octubre de 2007
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|PAR|var=1990|Ricardo Grance}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2007|l1=Semifinales de la Copa Sudamericana 2007}}
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 8 de noviembre de 2007
+|estadio = [[Estadio Julio Humberto Grondona]]
+|refe = {{árbitro|ARG|Sergio Pezzotta}}
+|ciudad = [[Sarandí]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|fecha = 14 de noviembre de 2007
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+|penaltis1 = [[Fernando Belluschi|Belluschi]] {{penfallo|atajado}} <br> [[Rolando Zárate|Zárate]] {{pengol}} <br> [[Paulo Ferrari|Ferrari]] {{pengol}} <br> [[René Lima|Lima]] {{penfallo|atajado}}
+|resultado penalti = 2:4
+|penaltis2 = {{pengol}} [[José Luis Calderón|Calderón]] <br> {{penfallo|atajado}} [[Martín Andrizzi|Andrizzi]] <br> {{pengol}} [[Javier Yacuzzi|Yacuzzi]] <br> {{pengol}} [[Carlos Casteglione|Casteglione]] <br> {{pengol}} [[Mario Cuenca|Cuenca]]
+}}
+<br>
+{{Partido
+|local = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal = COL
+|resultado = 2:3''' (0:2)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 7 de noviembre de 2007
+|estadio = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|refe = {{árbitro|PAR|var=1990|Ricardo Grance}}
+|ciudad = [[Bogotá]]
+|goleslocal = [[Gerardo Bedoya|Bedoya]] {{gol|61}} <br> [[Jonathan Estrada|Estrada]] {{gol|67}}
+|golesvisita = [[Germán Villa|Villa]] {{gol|24}} <br> [[Salvador Cabañas|Cabañas]] {{gol|37||85}}
+|reporte = 
+}}
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 2:0''' (1:0)
+|visita = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita = COL
+|fecha = 13 de noviembre de 2007
+|estadio = [[Estadio Nemesio Díez]]
+|refe = {{árbitro|CHI|Rubén Selmán}}
+|ciudad = [[Toluca de Lerdo|Toluca]]
+|goleslocal = [[Hernán Rodrigo López|López]] {{gol|6||78}}
+|golesvisita = 
+|reporte = 
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2007|l1=Final de la Copa Sudamericana 2007}}
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 2:3''' (1:1)
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|fecha = 30 de noviembre de 2007
+|estadio = [[Estadio Azteca]]
+|asistencia = 63&nbsp;455
+|refe = {{árbitro|PAR|var=1990|Ricardo Grance}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Salvador Cabañas|Cabañas]] {{gol|6}}<br>[[Alejandro Argüello|Argüello]] {{gol|55}}
+|golesvisita = [[Aníbal Samuel Matellán|Matellán]] {{gol|32}}<br>[[Alejandro Darío Gómez|Gómez]] {{gol|57||66}}
+|reporte = 
+}}
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 1:2''' (0:1)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 5 de diciembre de 2007
+|estadio = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal = [[Martín Andrizzi|Andrizzi]] {{gol|83}}
+|golesvisita = [[Cristian Leonel Díaz|Díaz]] {{gol|18|a.g.}}<br>[[Juan Carlos Silva|Silva]] {{gol|62}}
+|reporte = 
+|suceso=Arsenal campeón por la [[regla del gol de visitante]] ante el empate en el resultado global.}}
+<br/>
+{{Campeón
+|equipo = [[Arsenal Fútbol Club|Arsenal]]
+|bandera = Argentina
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=D0E7FF
+| {{bandera|COL}} '''[[Ricardo Ciciliano]]'''
+| {{bandera|COL}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+| align=center|'''6'''
+|-
+| {{bandera|URU}} [[Hernán Rodrigo López]]
+| {{bandera|MEX}} [[Club América|América]]
+| align=center|5
+|-
+| {{bandera|ECU|1900}} [[Ebelio Ordóñez]]
+| {{bandera|ECU|1900}} [[Club Deportivo El Nacional|El Nacional]]
+| align=center|5
+|-
+| {{bandera|PAR|1990}} [[Salvador Cabañas]]
+| {{bandera|MEX}} [[Club América|América]]
+| align=center|4
+|-
+| {{bandera|URU}} [[Carlos María Morales]]
+| {{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+| align=center|4
+|-
+| {{bandera|URU}} [[Diego de Souza Carballo|Diego de Souza]]
+| {{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+| align=center|4
+|-
+| {{bandera|BRA}} [[Paulo Baier]]
+| {{bandera|BRA}} [[Goiás Esporte Clube|Goiás]]
+| align=center|4
+|-
+| {{bandera|COL}} [[Radamel Falcao García]]
+| {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align=center|4
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2007]]
+* [[Recopa Sudamericana 2008]]
+* [[Copa Suruga Bank 2008]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20090808203424/http://www.conmebol.com/competiciones_evento_index_previo.jsp?evento=1154&ano=2007&slangab=S Copa Sudamericana 2007] en Conmebol.com
+* [http://www.rsssf.com/sacups/sudamcup07.html Copa Sudamericana 2007] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2006|2006]]
+| título     = Copa Sudamericana 2007
+| período    = VI edición
+| sucesor    = [[Copa Sudamericana 2008|2008]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana 2007| ]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

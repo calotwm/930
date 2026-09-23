@@ -1,0 +1,2992 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px|link=|América del Sur]] [[América del Sur]]
+| tipo = 
+| imagen = The Maracanã Stadium during a Clássico dos Gigantes between Fluminense and Vasco da Gama in May 2023.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio de Maracaná]] ([[Río de Janeiro]]) fue sede de la [[Anexo:Final de la Copa Libertadores 2023|final]]
+| ciudad = {{Bandera|Brasil}} [[Río de Janeiro]], [[Brasil]] ([[Anexo:Final de la Copa Libertadores 2023|final]])
+| participantes = 47
+| partidos = 155
+| goles = 386 <small>({{#expr:386/155 round 2}} por partido)</small>
+| fecha de inicio = 7 de febrero
+| fecha de cierre = 4 de noviembre
+| edición = LXIV
+| campeón = {{Bandera|Brasil}} '''[[Fluminense Football Club|Fluminense]]''' <small>({{Ord|1.|er}} título)</small>
+| subcampeón = {{Bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| semifinalistas = {{bandera|BRA}} [[Sport Club Internacional|Internacional]]<br>{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| goleador = {{Bandera|Argentina}} [[Germán Cano]] (13 goles)<br />{{small|([[Fluminense Football Club|Fluminense]])}}
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| televisión = {{Lista desplegable|[[Archivo:Latin America (orthographic projection).svg|20px]] '''[[América Latina|Latinoamérica]]:'''<br> [[ESPN (Latinoamérica)|ESPN]] (excepto Argentina)<ref name="ESPNCL">{{Cita web|url=https://espnpressroom.com/latinamerica/press-releases/2022/06/la-conmebol-otorgo-los-derechos-de-la-libertadores-a-the-walt-disney-company-latin-america-hasta-el-2026/|título=LA CONMEBOL OTORGÓ LOS DERECHOS DE LA LIBERTADORES A THE WALT DISNEY COMPANY LATIN AMERICA HASTA EL 2026|fechaacceso=2022-12-29|fecha=2022-06-03|sitioweb=ESPN Press Room Latin America South|idioma=es}}</ref><br>[[Star+]]<ref name="ESPNCL" /><br>[[Pluto TV]] (excepto Brasil)<br>'''{{Argentina}}:'''<br>[[Fox Sports (Argentina)|Fox Sports]]<br>[[Telefe]]<ref>{{cita web|url=https://mitelefe.com/actualidad/deportes/la-copa-libertadores-vuelve-a-la-television-abierta-a-traves-de-telefe/|título=La Copa Libertadores vuelve a la televisión abierta a través de Telefe|fechaacceso=28 de diciembre de 2022}}</ref><br>'''{{Chile}}:'''<br>[[ESPN Premium (Chile)|Fox Sports 1]]<br>[[ESPN 5 (Latinoamérica)|ESPN 4]]<br>[[Chilevisión]]<ref>{{Cita web|url=https://www.chilevision.cl/chv-deportes/futbol-internacional/vuelve-la-libertadores-a-la-tv-abierta-chilevision-y-pluto-tv|título=¡Vuelve la Libertadores a la TV abierta! Chilevisión y Pluto TV transmitirán gratis el torneo de clubes más importante de Sudamérica|fecha=2022-06-15|fechaacceso=2022-12-29|sitioweb=chilevision.cl}}</ref><br>'''{{Brasil}}:'''<br>[[ESPN (Brasil)|ESPN]]/[[Star+]]<ref>{{Cita web|url=https://espnpressroom.com/brazil/press-releases/2022/06/a-conmebol-concedeu-os-direitos-da-libertadores-e-da-copa-sul-americana-a-the-walt-disney-company-latin-america-no-brasil-ate-2026/|título=A Conmebol concedeu os direitos da Libertadores e da Copa Sul-Americana à The Walt Disney Company Latin America no Brasil até 2026|fechaacceso=2022-12-29|apellido=Francischini|nombre=Guto|fecha=2022-06-03|sitioweb=ESPN MediaZone Brasil|idioma=pt-BR}}</ref><br>[[TV Globo]]<ref>{{Cita web|url=https://ge.globo.com/negocios-do-esporte/noticia/2022/05/12/globo-vai-transmitir-jogos-da-libertadores-de-2023-a-2026.ghtml|título=Globo vai transmitir jogos da Libertadores de 2023 a 2026|fechaacceso=2022-12-29|fecha=2022-05-12|sitioweb=ge.globo.com|idioma=pt-BR}}</ref><br>[[Paramount+]]<ref>{{Cite tweet|author=Paramount+ Brasil|autor-link=Paramount+ Brasil|usuario=paramountplusbr|number=1587051998930681856|date=31 de octubre de 2022|title=Nem deu tempo de sentir saudade e a Libertadores, competição pela taça mais cobiçada do continente, está chegando no #ParamountPlus em 2023|url=https://twitter.com/paramountplusbr/status/1587051998930681856}}</ref><br>'''{{Estados Unidos}}:'''<br>[[Bein Sports (Estados Unidos)|Bein Sports]]/[[Bein Sports Ñ]]<ref name="Bein">{{Cita web|url=https://www.beinsports.com/us/copa-libertadores/news/bein-sports-renews-exclusive-rights-for-conme/2010270|título=beIN SPORTS Renews Exclusive Rights for CONMEBOL Libertadores, CONMEBOL Sudamericana and CONMEBOL Recopa|fechaacceso=2022-12-28|sitioweb=beIN SPORTS USA|idioma=en-us}}</ref><br>'''{{Canadá}}:'''<br>[[BeIN Sports (Canadá)|Bein Sports]]<ref name="Bein" />}}
+| anterior = [[Copa Libertadores 2022]]
+| actual = Copa Libertadores 2023
+| siguiente = [[Copa Libertadores 2024]]
+| página web = https://conmebollibertadores.com/
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 2023''', denominada oficialmente '''Copa Conmebol Libertadores 2023''', fue la sexagésima cuarta edición del torneo de clubes de fútbol más importante de América del Sur, organizado por la [[Confederación Sudamericana de Fútbol|Conmebol]]. Participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. La final del campeonato se disputó el 4 de noviembre en el [[Estadio de Maracaná|estadio Maracaná]], de [[Río de Janeiro]].<ref>{{cita web|url=https://www.espn.com.mx/futbol/copa-libertadores/nota/_/id/11953271/conmebol-adelanto-fecha-final-una-semana-4-de-noviembre|título=Se adelantó la fecha de la final de la CONMEBOL Libertadores 2023|obra=ESPN|idioma=ES|fecha=24 de Abril del 2023|fechaacceso=25 de Abril del 2023}}</ref>
+
+El campeón del torneo fue [[Fluminense Football Club|Fluminense]] de [[Brasil]], tras vencer a [[Club Atlético Boca Juniors|Boca Juniors]] de [[Argentina]] por 2-1 en el tiempo suplementario. De este modo, obtuvo su primer título en la competición. Jugó la [[Copa Mundial de Clubes de la FIFA 2023]], la [[Recopa Sudamericana 2024]] ante [[Liga de Quito]], campeón de la [[Copa Sudamericana 2023]], la [[Copa Mundial de Clubes de la FIFA 2025]]. También, obtuvo un boleto directo para la fase de grupos de la [[Copa Libertadores 2024]]. 
+
+Con esta consagración, son 5 las finales consecutivas ganadas por equipos brasileños en la competición (desde la [[Copa Libertadores 2019|edición 2019]]), lo que marca un récord de ediciones ganadas por equipos de un mismo país en el certamen.
+
+== Formato ==
+La competencia contó con tres fases clasificatorias de [[eliminación directa]], en las que participaron diecinueve equipos, de los cuales cuatro lograron la clasificación para la fase de grupos donde se sumarán a los veintiocho ya clasificados.
+
+Los dos primeros de cada zona de la fase de grupos accedieron a las cuatro fases finales (octavos y cuartos de final, semifinales y final), también de eliminación directa, hasta determinar al campeón. Además, 12 equipos fueron transferidos a la [[Copa Sudamericana 2023]] (los 4 perdedores de la fase 3 pasaron a la fase de grupos de ese torneo, y los terceros de la fase de grupos lo hicieron en los ''play-off'' para los octavos de final contra los segundos de la fase de grupos de esa misma competición).<ref>{{cita web|título=Los seis equipos que ya están clasificados a la Copa Libertadores 2023|url=https://dosisfutbolera.com/los-seis-equipos-que-ya-estan-clasificados-a-la-copa-libertadores-2023/}}</ref><ref>{{cita web|título=Todos los equipos clasificados a la Copa Libertadores 2023|url=https://bolavip.com/conmebol/Todos-los-equipos-clasificados-a-la-Copa-Libertadores-2023-20220709-0021.html}}</ref>
+
+{| class="wikitable"
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase 1
+(6 equipos)
+|
+* 1 equipo de Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fase 2
+(16 equipos)
+|
+* 2 equipos de Brasil, Chile y Colombia.
+* 1 equipo de Argentina, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+* 3 ganadores de la fase 1
+|-
+! colspan="2" |Fase 3
+(8 equipos)
+|
+|
+* 8 ganadores de la fase 2
+|-
+! colspan="2" |Fase de grupos
+(32 equipos)
+|
+* 5 equipos de Brasil y Argentina
+* 2 equipos de Chile, Colombia, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+* El campeón de la Copa Libertadores 2022
+* El campeón de la Copa Sudamericana 2022
+|
+* 4 ganadores de la fase 3
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+*
+|
+* 8 equipos primeros de la fase de grupos
+* 8 equipos segundos de la fase de grupos
+|}
+
+=== Distribución ===
+{| class="wikitable"
+!Asociación 
+!Cupos
+!Fase de grupos
+!Fase 3
+!Fase 2
+!Fase 1
+|- align=center
+| align="left" |{{Bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''7'''
+|5
+| rowspan="12" |
+|2
+| rowspan="4" |
+|- align=center
+| align="left" |{{Bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+|5
+|1
+|- align=center
+| align="left" |{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+|2
+|2
+|- align=center
+| align="left" |{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+|2
+|2
+|- align=center
+| align="left" |{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Ecuador}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Paraguay}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |Campeón de la [[Copa Libertadores 2022]]
+|'''1'''
+|1
+| rowspan="2" |
+| rowspan="3" |
+|- align=center
+| align="left" |Campeón de la [[Copa Sudamericana 2022]]
+|'''1'''
+|1
+|- align=center
+| align="left" |Fase anterior
+| –
+|4
+|8
+|3
+|-
+!Total
+!47
+!32
+!8
+!16
+!6
+|}
+
+=== Calendario ===
+El calendario del torneo fue publicado por la Conmebol el 7 de julio de 2022 y luego modificado el 24 de abril de 2023.<ref name="calendario">{{cita web|url=https://www.conmebol.com/noticias/calendario-de-torneos-de-la-conmebol-2023/|título=Calendario de torneos de la CONMEBOL 2023|fechaacceso=22 de julio de 2022|fecha=7 de julio de 2022|obra=conmebol.com|autor1=Conmebol}}</ref><ref>{{cita web|título=La Conmebol difundió el calendario de competiciones 2023: cómo se disputarán los sudamericanos juveniles y las Copas Libertadores y Sudamericana|url=https://www.infobae.com/america/deportes/2022/07/08/la-conmebol-difundio-el-calendario-de-competiciones-2023-como-se-disputaran-los-sudamericanos-juveniles-y-las-copas-libertadores-y-sudamericana/|obra=Infobae|fechaacceso=28 de julio de 2022}}</ref><ref>{{cita web|url=https://www.conmebol.com/noticias/calendario-de-la-conmebol-libertadores-y-conmebol-sudamericana-2023/|título=Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2023|fechaacceso=23 de abril de 2023|fecha=23 de abril de 2023|obra=conmebol.com|autor1=Conmebol}}</ref>
+{| class="wikitable" style="text-align:center"
+!Fase
+!Ronda
+!Fecha de sorteo
+!Ida
+!Vuelta
+|-
+|rowspan="3"|Preliminar 
+|Fase 1
+|rowspan="3"|21 de diciembre de 2022<ref>{{cita web|url=https://www.adnradio.cl/futbol/2022/11/22/copa-libertadores-y-sudamericana-2023-conmebol-confirma-fecha-para-el-sorteo-de-las-fases-previas.html|título=Copa Libertadores y Sudamericana 2023: Conmebol confirma fecha para el sorteo de las fases previas|editorial=ADN Radio|fecha=22 de noviembre de 2022|fechaacceso=30 de noviembre de 2022}}</ref>
+|7 al 9 de febrero
+|14 al 16 de febrero
+|-
+|Fase 2
+|21 al 23 de febrero
+|28 de febrero al 2 de marzo
+|-
+|Fase 3
+|7 al 9 de marzo
+|14 al 16 de marzo
+|-
+| rowspan="6" |Grupos
+|Fecha 1
+| rowspan="6" |27 de marzo
+| colspan="2" |4 al 6 de abril
+|-
+|Fecha 2
+| colspan="2" |18 al 20 de abril
+|-
+|Fecha 3
+| colspan="2" |2 al 4 de mayo
+|-
+|Fecha 4
+| colspan="2" |23 al 25 de mayo
+|-
+|Fecha 5
+| colspan="2" |6 al 8 de junio
+|-
+|Fecha 6
+| colspan="2" |27 al 29 de junio
+|-
+| rowspan="4" |Eliminatoria
+|Octavos de final
+| rowspan="4" |5 de julio<ref>{{cita web|url=https://www.conmebol.com/noticias/fecha-y-horario-para-los-sorteos-de-los-octavos-de-final/|título=Fecha y horario para los sorteos de los Octavos de Final|editorial=Conmebol|fecha=21 de junio de 2023|fechaacceso=21 de junio de 2023}}</ref>
+|1 al 3 de agosto
+|8 al 10 de agosto
+|-
+|Cuartos de final
+|22 al 24 de agosto
+|29 al 31 de agosto
+|-
+|Semifinales
+|26 al 28 de septiembre
+|3 al 5 de octubre
+|-
+|Final
+| colspan="2" |4 de noviembre
+|}
+
+== Sede de la final ==
+{{AP|Anexo:Final de la Copa Libertadores 2023|l1=Final de la Copa Libertadores 2023}}
+{{AP|Anexo:Sedes de finales únicas de competiciones de Conmebol#Sedes de las finales de 2023|l1=Sedes de finales únicas de competiciones de Conmebol}}
+
+El 8 de marzo de 2023 fue designado el [[Estadio de Maracaná|estadio Jornalista Mário Filho]] de [[Río de Janeiro]] como sede de la final. Esta fue la segunda vez que el Maracaná (por como se lo conoce popularmente) acogió una final a partido único, siendo la primera vez en la [[Copa Libertadores 2020|edición 2020]].<ref>{{Cita web|url=https://conmebollibertadores.com/cards/NewsReaderWeb/la-final-de-la-conmebol-libertadores-2023-se-jugara-en-el-maracana|título=La Final de la CONMEBOL Libertadores 2023 se jugará en el Maracaná|fechaacceso=2025-05-14|autor=CONMEBOL Libertadores|sitioweb=conmebollibertadores.com}}</ref>
+
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+|colspan="2"| {{Brasil}}
+|-
+!Ciudad
+!Estadio
+|-
+|[[Archivo:Brasão da cidade do Rio de Janeiro.svg|20x20px|link=|Escudo de la Ciudad de Río de Janeiro]] [[Río de Janeiro]]
+|[[Estadio de Maracaná|Maracaná]]
+|-
+|[[Archivo:Rio_Collage.png|220x220px]]
+|[[Archivo:Maracana_internal_view_april_2013.jpg|330x330px]]
+|-
+|colspan="2"| 78{{Esd}}838 espectadores
+|-
+|colspan="2"| <small>'''Final Copa Libertadores 2023'''</small>
+|}
+</center>
+
+== Participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Libertadores 2023|l1=Participantes de la Copa Libertadores 2023}}
+
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="59%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br />
+<small>6 cupos<ref>{{cita web|url=https://www.ligaprofesional.ar/wp-content/uploads/2022/03/Reglamento-Torneos-LPF-2022.pdf|título=Reglamento Torneos LPF 2022|fechaacceso=29 de julio de 2022|fecha=1 de marzo de 2022|sitioweb=Liga Profesional}}</ref></small>
+|[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Racing Club]]<br />[[Club Atlético Patronato de la Juventud Católica|Patronato]]<br />[[Club Atlético River Plate|River Plate]]<br />[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br />[[Club Atlético Huracán|Huracán]]
+|Campeón de la [[Campeonato de Primera División 2022 (Argentina)|Liga Profesional 2022]]<br />1.º ubicado en la [[Campeonato de Primera División 2022 (Argentina)#Tabla general de la temporada 2022|tabla general de la temporada 2022]]<br />Campeón de la [[Copa Argentina 2022]]<br />2.º ubicado en la tabla general de la temporada 2022<br />3.º ubicado en la tabla general de la temporada 2022<br />4.º ubicado en la tabla general de la temporada 2022 
+|- bgcolor="#ddeeff"
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://eldeber.com.bo/futbol/conozca-los-premios-que-se-distribuiran-en-los-torneos-apertura-clausura-y-copa-bolivia_263185|título=Conozca los premios que se distribuirán en los torneos Apertura, Clausura y Copa Bolivia|fechaacceso=29 de julio de 2022|sitioweb=El Deber|fecha=11 de enero de 2022}}</ref></small>
+|[[Club Bolívar|Bolívar]]<br />[[Club The Strongest|The Strongest]]<br />[[Club Always Ready|Always Ready]]<br />[[Club Atlético Nacional Potosí|Nacional Potosí]]
+|Campeón del [[Torneo Apertura 2022 (Bolivia)|Torneo Apertura 2022]]<br />2.º puesto de la [[Torneo Clausura 2022 (Bolivia)#Tabla acumulada|tabla acumulada de la División Profesional de Bolivia 2022]]<ref>{{cita web|url=https://www.lostiempos.com/deportes/futbol/20221110/consejo-superior-decide-dar-finalizado-torneo-clausura-2022|título=Consejo Superior decide dar por finalizado el Torneo Clausura 2022|sitioweb=Los Tiempos|fecha=10 de noviembre de 2022|fechaacceso=mismo día}}</ref><br />{{Ord|3.|er}} puesto de la tabla acumulada de la División Profesional de Bolivia 2022<br />4.º puesto de la tabla acumulada de la División Profesional de Bolivia 2022
+|- bgcolor="#f5faff"
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br />
+<small>7 cupos + campeón vigente de la Copa Libertadores<ref>{{cita web|url=https://conteudo.cbf.com.br/cdn/202202/20220209103808_745.pdf|título=Regulamento Específico da Competição Brasileirão Assaí–2022|fechaacceso=30 de julio de 2022|sitioweb=CBF|fecha=8 de febrero de 2022|idioma=pt}}</ref><ref>{{cita web|url=https://conteudo.cbf.com.br/cdn/202112/20211226131809_706.pdf|título=Regulamento Específico da Competição Copa Intelbras do Brasil – 2022|fechaacceso=22 de octubre de 2022|sitioweb=CBF|fecha=26 de diciembre de 2021|idioma=pt}}</ref></small>
+|[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Sociedade Esportiva Palmeiras|Palmeiras]]<br />[[Sport Club Internacional|Internacional]]<br />[[Fluminense Football Club|Fluminense]]<br />[[Sport Club Corinthians Paulista|Corinthians]]<br />[[Club Athletico Paranaense|Athletico Paranaense]]<br />[[Clube Atlético Mineiro|Atlético Mineiro]]<br />[[Fortaleza Esporte Clube|Fortaleza]]
+|Campeón de la [[Copa Libertadores 2022]]<br />Campeón del [[Campeonato Brasileño de Fútbol Serie A 2022|Campeonato Brasileño Serie A 2022]]<br />Subcampeón del Campeonato Brasileño Serie A 2022<br />{{Ord|3.|er}} puesto del Campeonato Brasileño Serie A 2022<br />4.º puesto del Campeonato Brasileño Serie A 2022<br />6.º puesto del Campeonato Brasileño Serie A 2022<br />7.º puesto del Campeonato Brasileño Serie A 2022<br />8.º puesto del Campeonato Brasileño Serie A 2022
+|- bgcolor="#ddeeff"
+|'''{{Bandera|CHI}} [[Federacion de Futbol de Chile|Chile]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://www.anfp.cl/documentos/1ef478b71ef8b860bdd77c7a24a8084f.pdf|título=Bases Campeonato Nacional de Primera División temporada 2022|fechaacceso=30 de julio de 2022|sitioweb=ANFP|fecha=2022}}</ref><ref>{{cita web|url=https://www.anfp.cl/documentos/53dd334e0460e8400b79a8a963c37726.pdf|título=Bases Campeonato Copa Chile temporada 2022|fechaacceso=23 de octubre de 2022|sitioweb=ANFP|fecha=2022}}</ref></small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br />[[Club Deportivo Ñublense|Ñublense]]<br />[[Club de Deportes Provincial Curicó Unido|Curicó Unido]]<br />[[Deportes Magallanes|Magallanes]] 
+|Campeón de la [[Primera División de Chile 2022]]<br />Subcampeón de la Primera División de Chile 2022<br />{{Ord|3.|er}} puesto de la Primera División de Chile 2022<br />Campeón de la [[Copa Chile 2022]]
+|- bgcolor="#f5faff"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://dimayor.com.co/wp-content/uploads/2022/07/REGLAMENTO-Liga-II-2022-VF.pdf|título=Reglamento Liga Dimayor II 2022|fechaacceso=30 de julio de 2022|sitioweb=Dimayor|fecha=2022}}</ref></small>
+|[[Atlético Nacional]]<br />[[Deportivo Pereira]]<br />[[Deportivo Independiente Medellín|Independiente Medellín]]<br />[[Millonarios Fútbol Club|Millonarios]]
+|Campeón del [[Torneo Apertura 2022 (Colombia)|Torneo Apertura 2022]]<br />Campeón del [[Torneo Finalización 2022 (Colombia)|Torneo Finalización 2022]]<br />2.º puesto de la [[Temporada 2022 del fútbol colombiano#Tabla de reclasificación|tabla de reclasificación de la Categoría Primera A 2022]]<br />Campeón de la [[Copa Colombia 2022]]
+|- bgcolor="#ddeeff"
+|{{Bandera|ECU}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br />
+<small>4 cupos + campeón vigente de la Copa Sudamericana<ref>{{cita web|url=https://www.ole.com.ar/ecuador/liga-pro/claves-ligapro-ecuador-formato-torneo-serie_0_DLPHh68M2F.html|título=Las 7 claves para seguir la LigaPro|fechaacceso=30 de julio de 2022|sitioweb=Olé|fecha=28 de junio de 2022}}</ref><ref>{{cita web|url=https://www.fef.ec/wp-content/uploads/2022/04/COPA-ECUADOR-REGLAMENTO-1.pdf|título=Reglamento Copa Ecuador 2022|fechaacceso=22 de octubre de 2022|sitioweb=FEF|fecha=2022}}</ref><ref>{{cita web|url=https://www.fef.ec/copa-ecuador-ecuabet-2022-la-disputa-por-el-titulo-y-los-criterios-de-sucesion-para-acceder-a-la-conmebol-libertadores-2023/|título=Copa Ecuador Ecuabet 2022: ¡La disputa por el título y los criterios de sucesión para acceder a la CONMEBOL Libertadores 2023!|fechaacceso=7 de noviembre de 2022|sitioweb=FEF|fecha=13 de septiembre de 2022}}</ref></small>
+|[[Independiente del Valle]]<br>[[Sociedad Deportiva Aucas|Aucas]]<br />[[Barcelona Sporting Club|Barcelona]]<br />[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]<br />[[Club Deportivo El Nacional|El Nacional]]
+|Campeón de la [[Copa Sudamericana 2022]]<br>Campeón de la [[Serie A de Ecuador 2022]]<br />Subcampeón de la Serie A de Ecuador 2022<br />2.º puesto de la tabla acumulada de la Serie A de Ecuador 2022<br />{{Ord|3.|er}} puesto de la [[Copa Ecuador 2022]]
+|- bgcolor="#f5faff"
+|{{Bandera|PAR}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://www.apf.org.py/laravel-filemanager/files/69/61eeff3001bf7.pdf|título=Reglamento de la División de Honor 2022|fechaacceso=30 de julio de 2022|sitioweb=APF|fecha=2022|fechaarchivo=30 de septiembre de 2022|urlarchivo=https://web.archive.org/web/20220930225209/https://www.apf.org.py/laravel-filemanager/files/69/61eeff3001bf7.pdf|deadurl=yes}}</ref></small>
+|[[Club Olimpia|Olimpia]]<br />[[Club Libertad|Libertad]]<br />[[Club Cerro Porteño|Cerro Porteño]]<br />[[Club Nacional (Paraguay)|Nacional]]
+|Campeón del [[Torneo Clausura 2022 (Paraguay)|Torneo Clausura 2022]] mejor ubicado en la tabla acumulada<br />Campeón del [[Torneo Apertura 2022 (Paraguay)|Torneo Apertura 2022]] peor ubicado en la tabla acumulada<br />{{Ord|1.|er}} puesto de la tabla acumulada de la [[Torneo Clausura 2022 (Paraguay)#Clasificaci%C3%B3n para copas internacionales|Primera División de Paraguay 2022]]<br />4.º puesto de la tabla acumulada de la Primera División de Paraguay 2022
+|- bgcolor="#ddeeff"
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://adfp.org.pe/wp-content/uploads/2022/04/Reglamento-Campeonato-Nacional-Liga-1-2022.pdf|título=Reglamento Campeonato Nacional (Liga 1) 2022|fechaacceso=30 de julio de 2022|sitioweb=ADFP|fecha=2022|fechaarchivo=5 de noviembre de 2022|urlarchivo=https://web.archive.org/web/20221105072206/https://adfp.org.pe/wp-content/uploads/2022/04/Reglamento-Campeonato-Nacional-Liga-1-2022.pdf|deadurl=yes}}</ref></small>
+|[[Club Alianza Lima|Alianza Lima]]<br />[[Foot Ball Club Melgar|Melgar]]<br />[[Club Sporting Cristal|Sporting Cristal]] <br />[[Club Sport Huancayo|Sport Huancayo]]
+|Campeón de la [[Liga 1 2022 (Perú)|Liga1 de Perú 2022]]<br />Subcampeón de la Liga1 de Perú 2022<br />Semifinalista de la Liga1 de Perú 2022<br />4.º puesto de la tabla acumulada de la Liga1 de Perú 2022
+|- bgcolor="#f5faff"
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://www.auf.org.uy/download.php?archivo=Contenidos/15488/R%E9gimen%20de%20disputa%20Torneos%20Oficiales%20vigente.pdf&nombre=R%E9gimen%20de%20disputa%20Torneos%20Oficiales%20vigente.pdf&tipo=application/pdf|título=Temporadas oficiales A.U.F.|fechaacceso=11 de agosto de 2022|sitioweb=El Observador|fecha=25 de enero de 2018}}</ref></small>
+|[[Club Nacional de Football|Nacional]]<br />[[Liverpool Fútbol Club|Liverpool]]<br />[[Club Deportivo Maldonado|Deportivo Maldonado]]<br />[[Club Atlético Boston River|Boston River]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2022]]<br />Subcampeón del Campeonato Uruguayo de Primera División 2022<br />{{Ord|3.|er}} puesto de la tabla anual del Campeonato Uruguayo de Primera División 2022<br />4.º puesto de la tabla anual del Campeonato Uruguayo de Primera División 2022
+|- bgcolor="#ddeeff"
+|{{Bandera|VEN}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br />
+<small>4 cupos<ref>{{cita web|url=https://ligafutve.org/wp-content/uploads/2022/03/GUIA-OFICIAL-LIGA-FUTVE-2022.pdf|título=Reglamento Campeonato Nacional (Liga 1) 2022|fechaacceso=30 de julio de 2022|sitioweb=Liga FUTVE|fecha=marzo de 2022}}</ref></small>
+|[[Metropolitanos Fútbol Club|Metropolitanos]]<br />[[Monagas Sport Club|Monagas]]<br />[[Carabobo Fútbol Club|Carabobo]]<br />[[Zamora Fútbol Club|Zamora]]
+|Campeón de la [[Primera División de Venezuela 2022]]<br />Subcampeón de la Primera División de Venezuela 2022<br />{{Ord|3.|er}} puesto de la Primera División de Venezuela 2022<br />4.º puesto de la Primera División de Venezuela 2022 
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Libertadores 2023'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.6083|long=-58.3719|label=<small>'''{{Esd|Gran<br>Buenos<br>Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-40.5|long=-61|label=<small>'''{{esd|Equipos del<br>Gran Buenos Aires:}}'''<br>[[Asociación Atlética Argentinos Juniors|{{esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético Huracán|Huracán]]<br>[[Racing Club]]<br>[[Club Atlético River Plate|River Plate]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-31.744|long=-60.5175|label=<small>[[Club Atlético Patronato de la Juventud Católica|Patronato]]</small>|position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.4941667|long=-68.1475|label=<small>'''La Paz'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-19|long=-80.5|label=<small>'''{{esd|Equipos de<br>La Paz:}}'''<br>[[Club Always Ready|Always Ready]]<br>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|The Strongest]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-19.5891667|long=-65.7533|label=<small>[[Club Atlético Nacional Potosí|Nacional Potosí]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-25.4297222|long=-49.2719444|label=<small>[[Club Athletico Paranaense|{{Esd|Athletico Paranaense}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.9280556|long=-43.9419444|label=<small>[[Clube Atlético Mineiro|{{Esd|Atlético Mineiro}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-3.7275|long=-38.5275|label=<small>[[Fortaleza Esporte Clube|Fortaleza]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5503944|long=-46.63394722|label=<small>'''{{Esd|São Paulo}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.90833|long=-43.196389|label=<small>'''{{Esd|Río de Janeiro}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-27|long=-41|label=<small>'''{{esd|Equipos de<br>Río de Janeiro:}}'''<br>[[Clube de Regatas do Flamengo|Flamengo]]<br>[[Fluminense Football Club|Fluminense]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-18|long=-56|label=<small>'''{{esd|Equipos de<br>São Paulo:}}'''<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>'''Santiago'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.9854|long=-71.2394|label=<small>[[Club de Deportes Provincial Curicó Unido|{{esd|Curicó Unido}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-36.6067|long=-72.1033|label=<small>[[Club Deportivo Ñublense|Ñublense]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.5|long=-90|label=<small>'''{{esd|Equipos de<br>Santiago:}}'''<br>[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Deportes Magallanes|Magallanes]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=4.60971|long=-74.08175|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+{{Location map~|América del Sur|lat=4.814278|long=-75.694558|label=<small>[[Deportivo Pereira]]</small>|position=left}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>'''Medellín'''</small>|position=right}}
+{{Location map~|América del Sur|lat=12.5|long=-88|label=<small>'''{{esd|Equipos de<br>Medellín:}}'''<br>{{esd|[[Atlético Nacional]]}}<br>[[Deportivo Independiente Medellín|{{esd|Independiente Medellín}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.19|long=-79.8875|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-0.107694|long=-78.489083|label=<small>'''{{Esd|Quito}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=0|long=-88|label=<small>'''{{esd|Equipos de<br>Quito:}}'''<br>[[Sociedad Deportiva Aucas|Aucas]]<br>[[Club Deportivo El Nacional|El Nacional]]<br>{{esd|[[Independiente del Valle]]}}<br>[[Club Deportivo de la Universidad Católica (Ecuador)|{{esd|Universidad Católica}}]]</small>|mark=Clear pog.svg}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-23|long=-68|label=<small>'''{{esd|Equipos de<br>Asunción:}}'''<br>[[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Libertad|Libertad]]<br>[[Club Nacional (Paraguay)|Nacional]]<br>[[Club Olimpia|Olimpia]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.06|long=-77.0375|label=<small>'''Lima'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-12|long=-89|label=<small>'''{{esd|Equipos de<br>Lima:}}'''<br>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Sporting Cristal|{{esd|Sporting Cristal}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-16.398764|long=-71.536883|label=<small>[[Foot Ball Club Melgar|Melgar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.066667|long=-75.216667|label=<small>{{esd|[[Club Sport Huancayo|Sport Huancayo]]}}</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small><br>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-37|long=-46|label=<small>'''{{esd|Equipos de<br>Montevideo:}}'''<br>[[Club Atlético Boston River|Boston River]]<br>[[Liverpool Fútbol Club|Liverpool]]<br>[[Club Nacional de Football|Nacional]]</small>|mark=TransparentPlaceholder.png}}
+{{Location map~|América del Sur|lat=-34.908825|long=-54.958086|label=<small>{{Esd|[[Club Deportivo Maldonado|Deportivo Maldonado]]}}</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=8.62443|long=-70.207401|label=<small>[[Zamora Fútbol Club|Zamora]]</small>|position=right}}
+{{Location map~|América del Sur|lat=10.491|long=-66.902|label=<small>[[Metropolitanos Fútbol Club|{{esd|Metropolitanos}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=9.713603|long=-63.187567|label=<small>[[Monagas Sport Club|Monagas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=10.16202|long=-68.00765|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=left}}
+}}
+
+== Sorteo ==
+=== Fase preliminar ===
+El sorteo de la Fase preliminar se realizó el 21 de diciembre de 2022, a las 12:00 ([[UTC-03:00|UTC–3]]), en la sede de la [[Conmebol]], ubicada en la ciudad de [[Luque (Paraguay)|Luque]], [[Paraguay]]. Ese mismo día, se sortearon los cruces de la primera fase de la [[Copa Sudamericana 2023]]. Los bombos fueron distribuidos de acuerdo con el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 16 de diciembre de 2022]].<ref name=Ranking>{{cita web|título=''Ranking'' de Clubes CONMEBOL 2023|url=https://conmebollibertadores.com/cards/NewsReaderWeb/ranking-de-clubes-conmebol-2023|obra=Conmebol|fecha=2022-12-16}}</ref> No se podían emparejar equipos de un mismo país, excepto si ese equipo venía de las fases anteriores.
+
+==== Fase 1 ====
+{| cellpadding="2" width="55%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="50%" |Bombo 1
+! width="50%" |Bombo 2
+|-
+|
+* {{Bandera|PAR}} [[Club Nacional (Paraguay)|Nacional]] (71)
+* {{Bandera|ECU}} [[Club Deportivo El Nacional|El Nacional]] (73)
+* {{Bandera|VEN}} [[Zamora Fútbol Club|Zamora]] (99)
+|
+* {{Bandera|PER}} [[Club Sport Huancayo|Sport Huancayo]] (119)
+* {{Bandera|BOL}} [[Club Atlético Nacional Potosí|Nacional Potosí]] (181)
+* {{Bandera|URU}} [[Club Atlético Boston River|Boston River]] (224)
+|}
+
+==== Fase 2 ====
+{| cellpadding="2" width="55%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="50%" |Bombo 1
+! width="50%" |Bombo 2
+|-
+|
+* {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (11)
+* {{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]] (15)
+* {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]] (35)
+* {{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]] (54)
+* {{Bandera|COL}} [[Millonarios Fútbol Club|Millonarios]] (57)
+* {{Bandera|ARG}} [[Club Atlético Huracán|Huracán]] (58)
+* {{Bandera|BOL}} [[Club Always Ready|Always Ready]] (74)
+* {{Bandera|BRA}} [[Fortaleza Esporte Clube|Fortaleza]] (78)
+|
+* {{Bandera|ECU}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]] (90)
+* {{Bandera|VEN}} [[Carabobo Fútbol Club|Carabobo]] (183)
+* {{Bandera|CHI}} [[Deportes Magallanes|Magallanes]] (215)
+* {{Bandera|CHI}} [[Club de Deportes Provincial Curicó Unido|Curicó Unido]] (–)
+* {{Bandera|URU}} [[Club Deportivo Maldonado|Deportivo Maldonado]] (–)
+* {{Bandera|}} ''Ganador E1''
+* {{Bandera|}} ''Ganador E2''
+* {{Bandera|}} ''Ganador E3''
+|}
+
+=== Fase de grupos ===
+El sorteo de la fase de grupos se realizó el 27 de marzo de 2023, junto con el sorteo de la fase de grupos de la [[Copa Sudamericana 2023]].
+
+Los bombos fueron distribuidos según el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 16 de diciembre de 2022]].<ref name=Ranking/> Dos equipos de un mismo país no podían compartir el mismo grupo, a excepción de que uno de ellos provenga de la fase preliminar.<ref name="reglamento">{{cita web|url=https://www.afa.com.ar/es/posts/ajustes-en-los-reglamentos-a-la-libertadores-y-sudamericana-2022|título=Ajustes en los Reglamentos a la Libertadores y Sudamericana 2022|fechaacceso=18 de marzo de 2022|fecha=22 de enero de 2022|sitioweb=AFA}}</ref>
+{| cellpadding="2" width="80%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width="20%" |Bombo 1
+! width="20%" |Bombo 2
+! width="20%" |Bombo 3
+! width="20%" |Bombo 4
+|-
+|
+* {{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (3){{Refn|Campeón de la [[Copa Libertadores 2022]], asignado automáticamente al Bombo 1 y al Grupo A.|group=n.}}
+* {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+* {{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (2)
+* {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]] (4)
+* {{Bandera|URU}} [[Club Nacional de Football|Nacional]] (6)
+* {{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]] (7)
+* {{Bandera|ECU}} [[Independiente del Valle]] (12)
+* {{Bandera|PAR}} [[Club Olimpia|Olimpia]] (14)
+|
+* {{Bandera|PAR}} [[Club Libertad|Libertad]] (16)
+* {{Bandera|COL}} [[Atlético Nacional]] (17)
+* {{Bandera|BRA}} [[Sport Club Internacional|Internacional]] (18)
+* {{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]] (19)
+* {{Bandera|ARG}} [[Racing Club]] (22)
+* {{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (24)
+* {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] (28)
+* {{Bandera|BRA}} [[Fluminense Football Club|Fluminense]] (32)
+|
+* {{Bandera|BOL}} [[Club Bolívar|Bolívar]] (33)
+* {{Bandera|BOL}} [[Club The Strongest|The Strongest]] (38)
+* {{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]] (44)
+* {{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]] (52)
+* {{Bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] (55)
+* {{Bandera|VEN}} [[Metropolitanos Fútbol Club|Metropolitanos]] (97)
+* {{Bandera|ECU}} [[Sociedad Deportiva Aucas|Aucas]] (112)
+* {{Bandera|VEN}} [[Monagas Sport Club|Monagas]] (133)
+|
+* {{Bandera|URU}} [[Liverpool Fútbol Club|Liverpool]] (165)
+* {{Bandera|COL}} [[Deportivo Pereira]] (205)
+* {{Bandera|CHI}} [[Club Deportivo Ñublense|Ñublense]] (230)
+* {{Bandera|ARG}} [[Club Atlético Patronato de la Juventud Católica|Patronato]] (–)
+* {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] {{abreviación|(11)|Ganador G1 de la Fase 3.}}
+* {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]] {{abreviación|(35)|Ganador G2 de la Fase 3.}}
+* {{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]] {{abreviación|(15)|Ganador G3 de la Fase 3.}}
+* {{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]] {{abreviación|(54)|Ganador G4 de la Fase 3.}}
+|}
+
+== Fase preliminar ==
+=== Cuadros de desarrollo ===
+{{small|'''Nota''': En cada cruce, el equipo que ocupa la primera línea es el que definió la serie como local.}}
+==== Llave 1 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds = 
+
+| RD1= [[Anexo:Fase 2 de la Copa Libertadores 2023|Fase 2]]
+| RD1-date= 22 de febrero al 2 de marzo
+
+| RD1-seed1=
+| RD1-team1= {{Bandera|Brasil}} '''Atlético Mineiro
+| RD1-score1-1= 0
+| RD1-score1-2= 3
+| RD1-score1-3= '''3
+
+| RD1-seed2=
+| RD1-team2= {{Bandera|Venezuela}} Carabobo
+| RD1-score2-1= 0
+| RD1-score2-2= 1
+| RD1-score2-3= '''1
+
+| RD1-seed3=
+| RD1-team3= {{Bandera|Colombia}} '''Millonarios 
+| RD1-score3-1= 0
+| RD1-score3-2= 2
+| RD1-score3-3= '''2
+
+| RD1-seed4=
+| RD1-team4= {{Bandera|Ecuador}} Universidad Católica
+| RD1-score4-1= 0
+| RD1-score4-2= 1
+| RD1-score4-3= '''1
+
+| RD2= [[Anexo:Fase 3 de la Copa Libertadores 2023|Fase 3]]
+| RD2-date= 8 y 15 de marzo
+
+| RD2-seed1=
+| RD2-team1= {{Bandera|Brasil}} '''Atlético Mineiro
+| RD2-score1-1= 1
+| RD2-score1-2= 3
+| RD2-score1-3= '''4
+
+| RD2-seed2=
+| RD2-team2= {{Bandera|Colombia}} Millonarios
+| RD2-score2-1= 1
+| RD2-score2-2= 1
+| RD2-score2-3= '''2
+
+}}
+
+==== Llave 2 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds = no
+
+| RD1= [[Anexo:Fase 1 de la Copa Libertadores 2023|Fase 1]]
+| RD1-date= 7 al 16 de febrero
+
+| RD1-team3= {{Bandera|Paraguay}} '''Nacional
+| RD1-score3-1= 1
+| RD1-score3-2= 3
+| RD1-score3-3= '''4
+
+| RD1-team4= {{Bandera|Perú}} Sport Huancayo
+| RD1-score4-1= 2
+| RD1-score4-2= 1
+| RD1-score4-3= '''3
+
+| RD1-team7= {{Bandera|Venezuela}} Zamora
+| RD1-score7-1= 1
+| RD1-score7-2= 0
+| RD1-score7-3= '''1
+
+| RD1-team8= {{Bandera|Uruguay}} '''Boston River
+| RD1-score8-1= 3
+| RD1-score8-2= 1
+| RD1-score8-3= '''4
+
+| RD2= [[Anexo:Fase 2 de la Copa Libertadores 2023|Fase 2]]
+| RD2-date= 21 de febrero al 1 de marzo
+
+| RD2-team2= {{Bandera|Paraguay}} Nacional
+| RD2-score2-1= 2
+| RD2-score2-2= 1
+| RD2-score2-3= '''3
+
+| RD2-team1= {{Bandera|Perú}} '''Sporting Cristal
+| RD2-score1-1= 0
+| RD2-score1-2= 5
+| RD2-score1-3= '''5
+
+| RD2-team4= {{Bandera|Uruguay}} Boston River
+| RD2-score4-1= 0
+| RD2-score4-2= 0
+| RD2-score4-3= '''0
+
+| RD2-team3= {{Bandera|Argentina}} '''Huracán
+| RD2-score3-1= 0
+| RD2-score3-2= 1
+| RD2-score3-3= '''1
+
+| RD3= [[Anexo:Fase 3 de la Copa Libertadores 2023|Fase 3]]
+| RD3-date= 9 y 16 de marzo
+
+| RD3-team1= {{Bandera|Perú}} '''Sporting Cristal
+| RD3-score1-1= 0
+| RD3-score1-2= 1
+| RD3-score1-3= '''1
+
+| RD3-team2= {{Bandera|Argentina}} Huracán
+| RD3-score2-1= 0
+| RD3-score2-2= 0
+| RD3-score2-3= '''0
+
+}}
+
+==== Llave 3 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds = 
+
+| RD1= [[Anexo:Fase 2 de la Copa Libertadores 2023|Fase 2]]
+| RD1-date= 21 de febrero al 2 de marzo
+
+| RD1-seed1=
+| RD1-team1= {{Bandera|Paraguay}} '''Cerro Porteño
+| RD1-score1-1= 1
+| RD1-score1-2= 1
+| RD1-score1-3= '''2
+
+| RD1-seed2=
+| RD1-team2= {{Bandera|Chile}} Curicó Unido
+| RD1-score2-1= 0
+| RD1-score2-2= 0
+| RD1-score2-3= '''0
+
+| RD1-seed3=
+| RD1-team3= {{Bandera|Brasil}} '''Fortaleza
+| RD1-score3-1= 0
+| RD1-score3-2= 4
+| RD1-score3-3= '''4
+
+| RD1-seed4=
+| RD1-team4= {{Bandera|Uruguay}} Deportivo Maldonado
+| RD1-score4-1= 0
+| RD1-score4-2= 0
+| RD1-score4-3= '''0
+
+| RD2= [[Anexo:Fase 3 de la Copa Libertadores 2023|Fase 3]]
+| RD2-date= 9 y 16 de marzo
+
+| RD2-seed1=
+| RD2-team1= {{Bandera|Paraguay}} '''Cerro Porteño
+| RD2-score1-1= 1
+| RD2-score1-2= 2
+| RD2-score1-3= '''3'''
+
+| RD2-seed2=
+| RD2-team2={{Bandera|Brasil}} Fortaleza 
+| RD2-score2-1= 0
+| RD2-score2-2= 1
+| RD2-score2-3= '''1'''
+
+}}
+
+==== Llave 4 ====
+{{Copa
+| seed-width= 20| team-width= 170| score-width= 30
+| seeds = 
+
+| RD1= [[Anexo:Fase 1 de la Copa Libertadores 2023|Fase 1]]
+| RD1-date= 8 y 15 de febrero
+
+| group1 = 
+| RD1-seed4=
+| RD1-team4= {{Bandera|Bolivia}} Nacional Potosí
+| RD1-score4-1= 1
+| RD1-score4-2= 1
+| RD1-score4-3= '''2
+
+| RD1-seed3=
+| RD1-team3= {{Bandera|Ecuador}} '''El Nacional
+| RD1-score3-1= 6
+| RD1-score3-2= 3
+| RD1-score3-3= '''9
+
+| RD2= [[Anexo:Fase 2 de la Copa Libertadores 2023|Fase 2]]
+| RD2-date= 22 de febrero al 2 de marzo
+
+| RD2-seed1=
+| RD2-team1= {{Bandera|Colombia}} '''Independiente Medellín
+| RD2-score1-1= 2
+| RD2-score1-2= 2
+| RD2-score1-3= '''4
+
+| RD2-seed2=
+| RD2-team2= {{Bandera|Ecuador}} El Nacional
+| RD2-score2-1= 2
+| RD2-score2-2= 1
+| RD2-score2-3= '''3
+
+| RD2-seed3=
+| RD2-team3= {{Bandera|Bolivia}} Always Ready
+| RD2-score3-1= 0
+| RD2-score3-2= 1
+| RD2-score3-3= '''1
+
+| RD2-seed4=
+| RD2-team4= {{Bandera|Chile}} '''Magallanes
+| RD2-score4-1= 3
+| RD2-score4-2= 3
+| RD2-score4-3= '''6
+
+| RD3= [[Anexo:Fase 3 de la Copa Libertadores 2023|Fase 3]]
+| RD3-date= 8 y 15 de marzo
+
+| RD3-seed1=
+| RD3-team1= {{Bandera|Colombia}} '''Independiente Medellín
+| RD3-score1-1= 1
+| RD3-score1-2= 2
+| RD3-score1-3= '''3
+
+| RD3-seed2=
+| RD3-team2= {{Bandera|Chile}} Magallanes
+| RD3-score2-1= 1
+| RD3-score2-2= 0
+| RD3-score2-3= '''1
+
+}}
+
+=== Fase 1 ===
+{{AP|Anexo:Fase 1 de la Copa Libertadores 2023|l1=Fase 1 de la Copa Libertadores 2023}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |Llave
+
+|- align="center" 
+| 7 y 14 de febrero
+| align="right"|[[Club Sport Huancayo|Sport Huancayo]] {{Bandera|Perú}}
+| '''3:4'''
+| align="left"|{{Bandera|Paraguay}} '''[[Club Nacional (Paraguay)|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344074 2:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344077 1:3]
+! E1
+
+|- align="center" 
+| 8 y 15 de febrero
+| align="right"|[[Club Atlético Nacional Potosí|Nacional Potosí]] {{Bandera|Bolivia}}
+| '''2:9'''
+| align="left"|{{Bandera|Ecuador}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344075 1:6]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344078 1:3]
+! E2
+
+|- align="center" 
+| 9 y 16 de febrero
+| align="right"|'''[[Club Atlético Boston River|Boston River]]''' {{Bandera|Uruguay}}
+| '''4:1'''
+| align="left"|{{Bandera|Venezuela}} [[Zamora Fútbol Club|Zamora]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344076 3:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344079 1:0]
+! E3
+|}
+
+=== Fase 2 ===
+{{AP|Anexo:Fase 2 de la Copa Libertadores 2023|l1=Fase 2 de la Copa Libertadores 2023}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |Llave
+
+|- align="center"
+| 22 de febrero y 1 de marzo
+| align="right"|[[Carabobo Fútbol Club|Carabobo]] {{Bandera|Venezuela}}
+| '''1:3'''
+| align="left"|{{Bandera|Brasil}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344080 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344088 1:3]
+! C1
+
+|- align="center"
+| 21 y 28 de febrero
+| align="right"|[[Club Nacional (Paraguay)|Nacional]] {{Bandera|Paraguay}}
+| '''3:5'''
+| align="left"|{{Bandera|Perú}} '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344081 2:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344089 1:5]
+! C2
+
+|- align="center"
+| 23 de febrero y 2 de marzo
+| align="right"|[[Club Deportivo Maldonado|Deportivo Maldonado]] {{Bandera|Uruguay}}
+| '''0:4'''
+| align="left"|{{Bandera|Brasil}} '''[[Fortaleza Esporte Clube|Fortaleza]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344082 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344090 0:4]
+! C3
+
+|- align="center"
+| 22 de febrero y 1 de marzo
+| align="right"|[[Club Deportivo El Nacional|El Nacional]] {{Bandera|Ecuador}}
+| '''3:4'''
+| align="left"|{{Bandera|Colombia}} '''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344083 2:2]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344091 1:2]
+! C4
+
+|- align="center"
+| 23 de febrero y 2 de marzo
+| align="right"|'''[[Deportes Magallanes|Magallanes]] {{Bandera|Chile}}
+| '''6:1'''
+| align="left"|{{Bandera|Bolivia}} [[Club Always Ready|Always Ready]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344084 3:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344092 3:1]
+! C5
+
+|- align="center"
+| 21 y 28 de febrero
+| align="right"|[[Club de Deportes Provincial Curicó Unido|Curicó Unido]] {{Bandera|Chile}}
+| '''0:2'''
+| align="left"|{{Bandera|Paraguay}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344085 0:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344093 0:1]
+! C6
+
+|- align="center"
+| 22 de febrero y 1 de marzo
+| align="right"|[[Club Atlético Boston River|Boston River]] {{Bandera|Uruguay}}
+| '''0:1'''
+| align="left"|{{Bandera|Argentina}} '''[[Club Atlético Huracán|Huracán]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344086 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344094 0:1]
+! C7
+
+|- align="center"
+| 23 de febrero y 2 de marzo
+| align="right"|[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]] {{Bandera|Ecuador}}
+| '''1:2'''
+| align="left"|{{Bandera|Colombia}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344087 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2344095 1:2]
+! C8
+|}
+
+=== Fase 3 ===
+{{AP|Anexo:Fase 3 de la Copa Libertadores 2023|l1=Fase 3 de la Copa Libertadores 2023}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |Llave
+
+|- align="center"
+| 8 y 15 de marzo
+| align="right"|[[Millonarios Fútbol Club|Millonarios]] {{Bandera|Colombia}}
+| '''2:4'''
+| align="left"|{{Bandera|Brasil}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]
+| [https://conmebollibertadores.com/cards/MatchCenter?gameId=2357379 1:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357382 1:3]
+! G1
+
+|- align="center"
+| 9 y 16 de marzo
+| align="right"|[[Club Atlético Huracán|Huracán]] {{Bandera|Argentina}}
+| '''0:1'''
+| align="left"|{{Bandera|Perú}} '''[[Club Sporting Cristal|Sporting Cristal]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357381 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357384 0:1]
+! G2
+
+|- align="center"
+| 9 y 16 de marzo
+| align="right"|[[Fortaleza Esporte Clube|Fortaleza]] {{Bandera|BRA}}
+| '''1:3'''
+| align="left"|{{Bandera|PAR}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357380 0:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357383 1:2]
+! G3
+
+|- align="center"
+| 8 y 15 de marzo
+| align="right"|[[Deportes Magallanes|Magallanes]] {{Bandera|Chile}}
+| '''1:3'''
+| align="left"|{{Bandera|Colombia}}  '''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357378 1:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2357385 0:2]
+! G4
+|}
+*{{small|La localía se determinó mediante el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 16 de diciembre de 2022]], siendo local en la vuelta el mejor ubicado.}}
+*{{small|'''Nota''': Los cuatro perdedores de esta fase fueron transferidos a la fase de grupos de la [[Copa Sudamericana 2023]].}}
+
+== Fase de grupos ==
+Los participantes se distribuyeron en ocho grupos de cuatro equipos cada uno. Los dos primeros de cada uno de ellos pasaron a los octavos de final y los terceros fueron transferidos al ''play-off'' de octavos de la [[Copa Sudamericana 2023]].
+
+;{{nowrap|Criterios de desempate:<ref>{{Cita web|url=https://www.conmebol.com/es/conmebol-libertadores-2021/reglamento|título=Manual de Clubes|fechaacceso=2023-03-08|fecha=2021-02-15|página=50}}</ref>}}
+# Puntos obtenidos (3 puntos para el equipo vencedor, 1 punto para cada equipo en caso empate, 0 puntos para el equipo perdedor).
+# Diferencia de goles.
+# Mayor cantidad de goles marcados.
+# Mayor cantidad de goles marcados como visitante.
+# Ubicación en el ''ranking'' Conmebol del 16 de diciembre de 2022.
+<br>
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|-
+| style="background: #D0E7FF;" width="20" | 
+|'''Equipos clasificados para los [[#Octavos de final|octavos de final]]'''.
+|-
+| style="background: #B9FFB9;" width="20" |
+|'''Equipos transferidos al ''play-off'' de octavos de la [[Copa Sudamericana 2023]]'''.
+|}
+=== Grupo A ===
+{{AP|Anexo:Grupo A de la Copa Libertadores 2023|l1=Grupo A de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Racing Club]]'''
+|'''13'''||6||4||1||1||13||6||7
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]] 
+|'''11'''||6||3||2||1||11||5||6
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|CHI}} '''[[Club Deportivo Ñublense|Ñublense]]'''
+|'''5'''||6||1||2||3||3||10||–7
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[Sociedad Deportiva Aucas|Aucas]]
+|'''4'''||6||1||1||4||6||12||–6
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[Quito]]
+|align="right"|'''[[Sociedad Deportiva Aucas|Aucas]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360173 2:1]
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de abril
+|[[Concepción (Chile)|Concepción]]
+|align="right"|[[Club Deportivo Ñublense|Ñublense]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360174 0:2]
+|align="left"|'''[[Racing Club]]
+ 
+|- align=center 
+|19 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360192 2:0]
+|align="left"|[[Club Deportivo Ñublense|Ñublense]]
+
+|- align=center style="background:#FFFFFF;"
+|20 de abril
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360195 3:2]
+|align="left"|[[Sociedad Deportiva Aucas|Aucas]]
+
+|- align=center 
+|2 de mayo
+|[[Concepción (Chile)|Concepción]]
+|align="right"|'''[[Club Deportivo Ñublense|Ñublense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360200 2:1]
+|align="left"|[[Sociedad Deportiva Aucas|Aucas]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|4 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|[[Racing Club]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360212 1:1]'''
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center 
+|23 de mayo
+|[[Quito]]
+|align="right"|[[Sociedad Deportiva Aucas|Aucas]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360218 1:2]
+|align="left"|'''[[Racing Club]]'''
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Concepción (Chile)|Concepción]]
+|align="right"|[[Club Deportivo Ñublense|Ñublense]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360225 1:1]'''
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center 
+|7 de junio
+|[[Quito]]
+|align="right"|[[Sociedad Deportiva Aucas|Aucas]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360239 0:0]'''
+|align="left"|[[Club Deportivo Ñublense|Ñublense]]
+ 
+|- align=center style="background:#FFFFFF;"
+|8 de junio
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360245 2:1]
+|align="left"|[[Racing Club]]
+
+|- align=center 
+|28 de junio
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360255 4:0]
+|align="left"|[[Club Deportivo Ñublense|Ñublense]]
+
+|- align=center style="background:#FFFFFF;"
+|28 de junio
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360256 4:0]
+|align="left"|[[Sociedad Deportiva Aucas|Aucas]]
+|}
+|}
+
+=== Grupo B ===
+{{AP|Anexo:Grupo B de la Copa Libertadores 2023|l1=Grupo B de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+|'''12'''||6||3||3||0||10||6||4
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|URU}} '''[[Club Nacional de Football|Nacional]] 
+|'''11'''||6||3||2||1||9||7||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|COL}} '''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|'''10'''||6||3||1||2||10||9||1
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Metropolitanos Fútbol Club|Metropolitanos]]
+|'''0'''||6||0||0||6||4||11||–7
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[Medellín]]
+|align="right"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360170 1:1]'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de abril
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360171 1:2]
+|align="left"|'''[[Club Nacional de Football|Nacional]]'''
+ 
+|- align=center 
+|18 de abril
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360183 1:0]
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de abril
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360189 2:1]
+|align="left"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+
+|- align=center
+|3 de mayo
+|[[Porto Alegre]]
+|align="right"|[[Sport Club Internacional|Internacional]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360205 2:2]'''
+|align="left"|[[Club Nacional de Football|Nacional]]
+
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;" 
+|3 de mayo
+|[[Medellín]]
+|align="right"|'''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360210 4:2]
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+ 
+|- align=center 
+|23 de mayo
+|[[Medellín]]
+|align="right"|'''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360219 2:1]
+|align="left"|[[Club Nacional de Football|Nacional]]
+
+|- align=center style="background:#FFFFFF;"
+|25 de mayo
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360228 1:2]
+|align="left"|'''[[Sport Club Internacional|Internacional]]'''
+
+|- align=center 
+|7 de junio
+|[[Montevideo]]
+|align="right"|[[Club Nacional de Football|Nacional]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360238 1:1]'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+ 
+|- align=center style="background:#FFFFFF;"
+|8 de junio
+|[[Caracas]]
+|align="right"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360244 0:1]
+|align="left"|'''[[Deportivo Independiente Medellín|Independiente Medellín]]'''
+
+|- align=center 
+|28 de junio
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360253 1:0]
+|align="left"|[[Metropolitanos Fútbol Club|Metropolitanos]]
+
+|- align=center style="background:#FFFFFF;"
+|28 de junio
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360254 3:1]
+|align="left"|[[Deportivo Independiente Medellín|Independiente Medellín]]
+|}
+|}
+
+=== Grupo C ===
+{{AP|Anexo:Grupo C de la Copa Libertadores 2023|l1=Grupo C de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''15'''||6||5||0||1||16||6||10
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''12'''||6||4||0||2||11||7||4
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''4'''||6||1||1||4||7||12||–5
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]] 
+|'''4'''||6||1||1||4||5||14||–9
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center
+|5 de abril 
+|[[Asunción]]
+|align="right"|'''[[Club Cerro Porteño|Cerro Porteño]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360175 2:1]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de abril
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360176 3:1]
+|align="left"|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+ 
+|- align=center 
+|19 de abril
+|[[Guayaquil]]
+|align="right"|'''[[Barcelona Sporting Club|Barcelona]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360194 2:1]
+|align="left"|[[Club Bolívar|Bolívar]]
+ 
+|- align=center style="background:#FFFFFF;"
+|20 de abril
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360197 2:1]
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center 
+|3 de mayo
+|[[Asunción]]
+|align="right"|[[Club Cerro Porteño|Cerro Porteño]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360206 0:4]
+|align="left"|'''[[Club Bolívar|Bolívar]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|3 de mayo 
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360209 0:2]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+
+|- align=center 
+|23 de mayo
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360217 1:0]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Asunción]]
+|align="right"|[[Club Cerro Porteño|Cerro Porteño]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360230 0:3]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+
+|- align=center 
+|6 de junio
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360236 2:0]
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de junio 
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360241 4:2]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center 
+|29 de junio 
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]
+|4:0
+|align="left"|[[Club Bolívar|Bolívar]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de junio
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|'''2:2'''
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+|}
+|}
+
+=== Grupo D ===
+{{AP|Anexo:Grupo D de la Copa Libertadores 2023|l1=Grupo D de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+|'''10'''||6||3||1||2||10||6||4
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''10'''||6||3||1||2||11||11||0
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|PER}} '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|'''8'''||6||2||2||2||8||10||–2
+|- align="center"
+| style="text-align:left;" |{{Bandera|BOL}} [[Club The Strongest|The Strongest]] 
+|'''6'''||6||2||0||4||5||7||–2
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[La Paz]]
+|align="right"|'''[[Club The Strongest|The Strongest]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360168 3:1]
+|align="left"|[[Club Atlético River Plate|River Plate]]
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de abril 
+|[[Lima]]
+|align="right"|[[Club Sporting Cristal|Sporting Cristal]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360177 1:3]
+|align="left"|'''[[Fluminense Football Club|Fluminense]]'''
+ 
+|- align=center 
+|18 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360184 1:0]
+|align="left"|[[Club The Strongest|The Strongest]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de abril
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360191 4:2]
+|align="left"|[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center
+|2 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360201 5:1]
+|align="left"|[[Club Atlético River Plate|River Plate]]
+
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|2 de mayo
+|[[Lima]]
+|align="right"|'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360204 1:0]
+|align="left"|[[Club The Strongest|The Strongest]]
+ 
+|- align=center
+|25 de mayo
+|[[La Paz]]
+|align="right"|'''[[Club The Strongest|The Strongest]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360227 1:0]
+|align="left"|[[Fluminense Football Club|Fluminense]]
+
+|- align=center style="background:#FFFFFF;" 
+|25 de mayo
+|[[Lima]]
+|align="right"|[[Club Sporting Cristal|Sporting Cristal]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360229 1:1]'''
+|align="left"|[[Club Atlético River Plate|River Plate]]
+
+|- align=center 
+|7 de junio 
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360240 2:0]
+|align="left"|[[Fluminense Football Club|Fluminense]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de junio
+|[[La Paz]]
+|align="right"|[[Club The Strongest|The Strongest]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360242 1:2]
+|align="left"|'''[[Club Sporting Cristal|Sporting Cristal]]'''
+
+|- align=center 
+|27 de junio 
+|[[Río de Janeiro]]
+|align="right"|[[Fluminense Football Club|Fluminense]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360250 1:1]'''
+|align="left"|[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center style="background:#FFFFFF;"
+|27 de junio
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360249 2:0]
+|align="left"|[[Club The Strongest|The Strongest]]
+|}
+|}
+
+=== Grupo E ===
+{{AP|Anexo:Grupo E de la Copa Libertadores 2023|l1=Grupo E de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Independiente del Valle]]'''
+|'''12'''||6||4||0||2||10||5||5 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|'''11'''||6||3||2||1||8||6||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|'''7'''||6||2||1||3||7||6||1
+|- align="center"
+| style="text-align:left;" |{{Bandera|URU}} [[Liverpool Fútbol Club|Liverpool]]
+|'''4'''||6||1||1||4||4||12||–8
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[Buenos Aires]]
+|align="right"|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+| [https://conmebollibertadores.com/cards/MatchCenter?gameId=2360167 1:0]
+|align="left"|[[Independiente del Valle]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Montevideo]]
+|align="right"|[[Liverpool Fútbol Club|Liverpool]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360179 0:3]
+|align="left"|'''[[Sport Club Corinthians Paulista|Corinthians]]'''
+ 
+|- align=center 
+|18 de abril
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360188 2:0]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de abril
+|[[São Paulo]]
+|align="right"|[[Sport Club Corinthians Paulista|Corinthians]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360193 0:1]
+|align="left"|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+
+|- align=center 
+|2 de mayo
+|[[Montevideo]]
+|align="right"|[[Liverpool Fútbol Club|Liverpool]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360199 2:2]'''
+|align="left"|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|2 de mayo
+|[[São Paulo]]
+|align="right"|[[Sport Club Corinthians Paulista|Corinthians]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360203 1:2]
+|align="left"|'''[[Independiente del Valle]]'''
+
+|- align=center
+|24 de mayo
+|[[Montevideo]]
+|align="right"|'''[[Liverpool Fútbol Club|Liverpool]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360221 1:0]
+|align="left"|[[Independiente del Valle]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Buenos Aires]]
+|align="right"|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360224 0:0]'''
+|align="left"|[[Sport Club Corinthians Paulista|Corinthians]]
+
+|- align=center 
+|7 de junio
+|[[Buenos Aires]]
+|align="right"|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360237 2:1]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de junio
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360243 3:0]
+|align="left"|[[Sport Club Corinthians Paulista|Corinthians]]
+
+|- align=center 
+|28 de junio
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360258 3:2]
+|align="left"|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+
+|- align=center style="background:#FFFFFF;"
+|28 de junio
+|[[São Paulo]]
+|align="right"|'''[[Sport Club Corinthians Paulista|Corinthians]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360257 3:0]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+|}
+|}
+
+=== Grupo F ===
+{{AP|Anexo:Grupo F de la Copa Libertadores 2023|l1=Grupo F de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''13'''||6||4||1||1||9||2||7
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|COL}} '''[[Deportivo Pereira]] 
+|'''8'''||6||2||2||2||5||5||0
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''6'''||6||1||3||2||3||5||–2
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Monagas Sport Club|Monagas]]
+|'''5'''||6||1||2||3||3||8||–5
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center
+|5 de abril
+|[[Pereira]]
+|align="right"|[[Deportivo Pereira]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360178 1:1]'''
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Maturín]]
+|align="right"|[[Monagas Sport Club|Monagas]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360181 0:0]'''
+|align="left"|[[Club Atlético Boca Juniors|Boca Juniors]]
+ 
+|- align=center 
+|18 de abril
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360186 2:1]
+|align="left"|[[Deportivo Pereira]]
+ 
+|- align=center style="background:#FFFFFF;"
+|19 de abril
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360193 1:0]
+|align="left"|[[Monagas Sport Club|Monagas]]
+
+|- align=center
+|3 de mayo
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360207 0:2]
+|align="left"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|4 de mayo
+|[[Pereira]]
+|align="right"|'''[[Deportivo Pereira]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360214 2:1]
+|align="left"|[[Monagas Sport Club|Monagas]]
+
+|- align=center 
+|23 de mayo
+|[[Maturín]]
+|align="right"|[[Monagas Sport Club|Monagas]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360215 1:1]'''
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de mayo
+|[[Pereira]]
+|align="right"|'''[[Deportivo Pereira]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360223 1:0]
+|align="left"|[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center 
+|6 de junio
+|[[Maturín]]
+|align="right"|'''[[Monagas Sport Club|Monagas]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360232 1:0]
+|align="left"|[[Deportivo Pereira]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de junio
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360233 1:0]
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center 
+|29 de junio
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360259 4:0]
+|align="left"|[[Monagas Sport Club|Monagas]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de junio
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360260 0:0]'''
+|align="left"|[[Deportivo Pereira]]
+|}
+|}
+
+=== Grupo G ===
+{{AP|Anexo:Grupo G de la Copa Libertadores 2023|l1=Grupo G de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|'''13'''||6||4||1||1||9||4||5
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|'''10'''||6||3||1||2||7||5||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Libertad|Libertad]]'''
+|'''7'''||6||2||1||3||6||7||–1
+|- align="center"
+| style="text-align:left;" |{{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''4'''||6||1||1||4||3||9||–6
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360169 0:0]'''
+|align="left"|[[Club Athletico Paranaense|Athletico Paranaense]]
+ 
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Belo Horizonte]]
+|align="right"|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360180 0:1]
+|align="left"|'''[[Club Libertad|Libertad]]'''
+ 
+|- align=center 
+|18 de abril
+|[[Curitiba]]
+|align="right"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360187 2:1]
+|align="left"|[[Clube Atlético Mineiro|Atlético Mineiro]]
+ 
+|- align=center style="background:#FFFFFF;"
+|20 de abril
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360198 1:2]
+|align="left"|'''[[Club Alianza Lima|Alianza Lima]]'''
+
+|- align=center 
+|3 de mayo
+|[[Belo Horizonte]]
+|align="right"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360208 2:0]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|4 de mayo
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360213 1:2]
+|align="left"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+
+|- align=center 
+|23 de mayo
+|[[Belo Horizonte]]
+|align="right"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360216 2:1]
+|align="left"|[[Club Athletico Paranaense|Athletico Paranaense]]
+
+|- align=center style="background:#FFFFFF;"
+|23 de mayo
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360220 1:2]
+|align="left"|'''[[Club Libertad|Libertad]]'''
+
+|- align=center
+|6 de junio
+|[[Curitiba]]
+|align="right"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360231 1:0]
+|align="left"|[[Club Libertad|Libertad]]
+
+|- align=center style="background:#FFFFFF;"
+|6 de junio
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360235 0:1]
+|align="left"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+ 
+|- align=center 
+|27 de junio
+|[[Curitiba]]
+|align="right"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360247 3:0]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center style="background:#FFFFFF;"
+|27 de junio
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360248 1:1]'''
+|align="left"|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|}
+|}
+
+=== Grupo H ===
+{{AP|Anexo:Grupo H de la Copa Libertadores 2023|l1=Grupo H de la Copa Libertadores 2023}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Olimpia|Olimpia]]'''
+|'''14'''||6||4||2||0||13||4||9
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|COL}} '''[[Atlético Nacional]]''' 
+|'''10'''||6||3||1||2||8||8||0
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Patronato de la Juventud Católica|Patronato]]'''
+|'''6'''||6||2||0||4||6||11||–5
+|- align="center" 
+| style="text-align:left;" |{{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]]
+|'''4'''||6||1||1||4||9||13||–4
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de abril
+|[[Santa Fe (Argentina)|Santa Fe]]
+|align="right"|[[Club Atlético Patronato de la Juventud Católica|Patronato]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360172 1:2]
+|align="left"|'''[[Atlético Nacional]]
+
+|- align=center style="background:#FFFFFF;"
+|6 de abril
+|[[Arequipa]]
+|align="right"|[[Foot Ball Club Melgar|Melgar]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360182 1:1]
+|align="left"|[[Club Olimpia|Olimpia]]
+
+|- align=center 
+|18 de abril
+|[[Asunción]]
+|align="right"|'''[[Club Olimpia|Olimpia]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360185 1:0]
+|align="left"|[[Club Atlético Patronato de la Juventud Católica|Patronato]]
+
+|- align=center style="background:#FFFFFF;"
+|20 de abril
+|[[Barranquilla]]
+|align="right"|'''[[Atlético Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360196 3:1]
+|align="left"|[[Foot Ball Club Melgar|Melgar]]
+
+|- align=center 
+|2 de mayo
+|[[Medellín]]
+|align="right"|[[Atlético Nacional]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360202 2:2]'''
+|align="left"|[[Club Olimpia|Olimpia]]
+
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|4 de mayo
+|[[Paraná (Argentina)|Paraná]]
+|align="right"|'''[[Club Atlético Patronato de la Juventud Católica|Patronato]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360211 4:1]
+|align="left"|[[Foot Ball Club Melgar|Melgar]]
+
+|- align=center
+|24 de mayo
+|[[Arequipa]]
+|align="right"|[[Foot Ball Club Melgar|Melgar]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360226 0:1]
+|align="left"|'''[[Atlético Nacional]]'''
+
+|- align=center style="background:#FFFFFF;"
+|25 de mayo
+|[[Santa Fe (Argentina)|Santa Fe]]
+|align="right"|[[Club Atlético Patronato de la Juventud Católica|Patronato]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360222 0:2]
+|align="left"|'''[[Club Olimpia|Olimpia]]'''
+
+|- align=center 
+|6 de junio
+|[[Arequipa]]
+|align="right"|'''[[Foot Ball Club Melgar|Melgar]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360234 5:0]
+|align="left"|[[Club Atlético Patronato de la Juventud Católica|Patronato]]
+
+|- align=center style="background:#FFFFFF;"
+|8 de junio
+|[[Asunción]]
+|align="right"|'''[[Club Olimpia|Olimpia]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360246 3:0]
+|align="left"|[[Atlético Nacional]]
+
+|- align=center 
+|27 de junio
+|[[Medellín]]
+|align="right"|[[Atlético Nacional]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360252 0:1]
+|align="left"|'''[[Club Atlético Patronato de la Juventud Católica|Patronato]]'''
+
+|- align=center style="background:#FFFFFF;"
+|27 de junio
+|[[Asunción]]
+|align="right"|'''[[Club Olimpia|Olimpia]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2360251 4:1]
+|align="left"|[[Foot Ball Club Melgar|Melgar]]
+|}
+|}
+
+== Equipos transferidos a la Copa Sudamericana 2023 ==
+Los cuatro perdedores de la fase 3 fueron transferidos a la fase de grupos de la [[Copa Sudamericana 2023]], y los ocho terceros de la fase de grupos, a los ''play-off'' de octavos de final del mismo torneo.
+
+{| class="sortable" cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%; width:35%"
+|- bgcolor="#006699" style="color:white;" align="center"
+!Equipo
+!Procedencia
+|- align="center"
+| style="text-align:left;" |{{Bandera|Colombia}} [[Millonarios Fútbol Club|Millonarios]]
+|Fase 3
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|Argentina}} [[Club Atlético Huracán|Huracán]]
+|Fase 3
+|- align="center"
+| style="text-align:left;" |{{Bandera|BRA}} [[Fortaleza Esporte Clube|Fortaleza]]
+|Fase 3
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Magallanes|Magallanes]] 
+|Fase 3
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Ñublense|Ñublense]]
+|Grupo A
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|COL}} [[Deportivo Independiente Medellín|Independiente Medellín]]
+|Grupo B
+|- align="center"
+| style="text-align:left;" |{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]] 
+|Grupo C
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+|Grupo D
+|- align="center"
+| style="text-align:left;" |{{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|Grupo E
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|Grupo F
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Libertad|Libertad]]
+|Grupo G
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Patronato de la Juventud Católica|Patronato]] 
+|Grupo H
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos, cuartos, semifinales y final. Se disputaron por [[eliminación directa]], en partidos de ida y vuelta con excepción de la final que se jugó a partido único. No se tuvo en cuenta el gol de visitante como método de desempate.
+
+A los fines de establecer las llaves de la primera etapa, los dieciséis equipos fueron ordenados en dos tablas, una con los clasificados como primeros (numerados del 1 al 8 de acuerdo con su desempeño en la fase de grupos, determinada según los criterios de clasificación), y otra con aquellos clasificados como segundos (numerados del 9 al 16, con el mismo criterio), enfrentándose en octavos de final uno de los que terminaron en la primera posición contra uno de los que ocuparon la segunda.
+
+=== Tabla de primeros ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%"|Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''1'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|'''15'''
+|6
+|5
+|0
+|1
+|16
+|6
+|10
+|- align="center" bgcolor="#d0e7ff"
+|'''2'''
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Olimpia|Olimpia]]
+|'''14'''
+|6
+|4
+|2
+|0
+|13
+|4
+|9
+|- align="center" bgcolor="#f5faff"
+|'''3'''
+| style="text-align:left;" | {{Bandera|ARG}} [[Racing Club]]
+|'''13'''
+|6
+|4
+|1
+|1
+|13
+|6
+|7
+|- align="center" bgcolor="#d0e7ff"
+|'''4'''
+| style="text-align:left;" | {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]  
+|'''13'''
+|6
+|4
+|1
+|1
+|9
+|2
+|7
+|- align="center" bgcolor="#f5faff"
+|'''5'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|'''13'''
+|6
+|4
+|1
+|1
+|9
+|4
+|5
+|- align="center" bgcolor="#d0e7ff"
+|'''6'''
+| style="text-align:left;" |{{Bandera|ECU}} [[Independiente del Valle]]
+|'''12'''
+|6
+|4
+|0
+|2
+|10
+|5
+|5
+|- align="center" bgcolor="#f5faff"
+|'''7'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+|'''12'''
+|6
+|3
+|3
+|0
+|10
+|6
+|4
+|- align="center" bgcolor="#d0e7ff"
+|'''8'''
+| style="text-align:left;" | {{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+|'''10'''
+|6
+|3
+|1
+|2
+|10
+|6
+|4
+|}
+
+=== Tabla de segundos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''9'''
+| style="text-align:left;" | {{Bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''12 '''
+|6
+|4
+|0
+|2
+|11
+|7
+|4
+|- align="center" bgcolor="#d0e7ff"
+|'''10'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|'''11'''
+|6
+|3
+|2
+|1
+|11
+|5
+|6
+|- align="center" bgcolor="#f5faff"
+|'''11'''
+| style="text-align:left;" |{{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''11'''
+|6
+|3
+|2
+|1
+|9
+|7
+|2
+|- align="center" bgcolor="#d0e7ff"
+|'''12'''
+| style="text-align:left;" | {{Bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''11'''
+|6
+|3
+|2
+|1
+|8
+|6
+|2
+|- align="center" bgcolor="#f5faff"
+|'''13'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|'''10'''
+|6
+|3
+|1
+|2
+|7
+|5
+|2
+|- align="center" bgcolor="#d0e7ff"
+|'''14'''
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''10'''
+|6
+|3
+|1
+|2
+|11
+|11
+|0
+|- align="center" bgcolor="#f5faff"
+|'''15'''
+| style="text-align:left;" |{{Bandera|COL}} [[Atlético Nacional]]
+|'''10'''
+|6
+|3
+|1
+|2
+|8
+|8
+|0
+|- align="center" bgcolor="#d0e7ff"
+|'''16'''
+| style="text-align:left;" |{{Bandera|COL}} [[Deportivo Pereira]]
+|'''8'''
+|6
+|2
+|2
+|2
+|5
+|5
+|0
+|}
+
+=== Cuadro de desarrollo === 
+{{Copa 
+| seed-width= 20| team-width= 180| score-width= 20
+| seeds = si
+
+| RD1= [[Anexo: Octavos de final de la Copa Libertadores 2023|Octavos de final]]
+| RD1-date= 1 al 10 de agosto
+
+| RD1-seed5= 3
+| RD1-team5= {{Bandera|ARG}} '''[[Racing Club]]'''
+| RD1-score5-1= 2
+| RD1-score5-2= 3
+| RD1-score5-3= '''5'''
+
+| RD1-seed6= 15
+| RD1-team6= {{Bandera|COL}} [[Atlético Nacional]]
+| RD1-score6-1= 4
+| RD1-score6-2= 0
+| RD1-score6-3= '''4'''
+
+| RD1-seed7= 4
+| RD1-team7= {{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-score7-1= 0 
+| RD1-score7-2= 2
+| RD1-score7-3= '''2&nbsp;{{small|(4)}}'''
+
+| RD1-seed8= 11
+| RD1-team8= {{Bandera|URU}} [[Club Nacional de Football|Nacional]] 
+| RD1-score8-1= 0
+| RD1-score8-2= 2 
+| RD1-score8-3= '''2&nbsp;{{small|(2)}}'''
+
+| RD1-seed3= 6
+| RD1-team3= {{Bandera|ECU}} [[Independiente del Valle]]
+| RD1-score3-1= 0
+| RD1-score3-2= 1
+| RD1-score3-3= '''1'''
+
+| RD1-seed4= 16
+| RD1-team4= {{Bandera|COL}} '''[[Deportivo Pereira]]'''
+| RD1-score4-1= 1
+| RD1-score4-2= 1
+| RD1-score4-3= '''2'''
+
+| RD1-seed1= 1
+| RD1-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' 
+| RD1-score1-1= 1
+| RD1-score1-2= 0
+| RD1-score1-3= '''1'''
+
+| RD1-seed2= 13
+| RD1-team2= {{bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| RD1-score2-1= 0
+| RD1-score2-2= 0
+| RD1-score2-3= '''0'''
+
+| RD1-seed11= 5
+| RD1-team11= {{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]] 
+| RD1-score11-1= 1
+| RD1-score11-2= 2
+| RD1-score11-3= '''3&nbsp;{{small|(4)}}'''
+
+| RD1-seed12= 9
+| RD1-team12= {{Bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-score12-1= 3
+| RD1-score12-2= 0
+| RD1-score12-3= '''3&nbsp;{{small|(5)}}'''
+
+| RD1-seed9= 7
+| RD1-team9= {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-score9-1= 1
+| RD1-score9-2= 2
+| RD1-score9-3= '''3&nbsp;{{small|(9)}}'''
+
+| RD1-seed10= 14
+| RD1-team10= {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD1-score10-1= 2
+| RD1-score10-2= 1
+| RD1-score10-3= '''3&nbsp;{{small|(8)}}'''
+
+| RD1-seed15= 8
+| RD1-team15= {{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+| RD1-score15-1= 1
+| RD1-score15-2= 2
+| RD1-score15-3= '''3'''
+
+| RD1-seed16= 12
+| RD1-team16= {{Bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] 
+| RD1-score16-1= 1
+| RD1-score16-2= 0
+| RD1-score16-3= '''1'''
+
+| RD1-seed13= 2
+| RD1-team13= {{Bandera|PAR}} '''[[Club Olimpia|Olimpia]]''' 
+| RD1-score13-1= 0
+| RD1-score13-2= 3
+| RD1-score13-3= '''3'''
+
+| RD1-seed14= 10
+| RD1-team14= {{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] 
+| RD1-score14-1= 1
+| RD1-score14-2= 1
+| RD1-score14-3= '''2'''
+
+| RD2= [[Anexo:Cuartos de final de la Copa Libertadores 2023|Cuartos de final]]
+| RD2-date=22 al 31 de agosto 
+
+| RD2-seed3= 3
+| RD2-team3= {{Bandera|ARG}} [[Racing Club]]
+| RD2-score3-1= 0
+| RD2-score3-2= 0
+| RD2-score3-3= '''0&nbsp;{{small|(1)}}'''
+
+| RD2-seed4= 4
+| RD2-team4= {{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD2-score4-1= 0
+| RD2-score4-2= 0
+| RD2-score4-3= '''0&nbsp;{{small|(4)}}'''
+
+| RD2-seed2= 16
+| RD2-team2= {{Bandera|COL}} [[Deportivo Pereira]]
+| RD2-score2-1= 0
+| RD2-score2-2= 0
+| RD2-score2-3= '''0'''
+
+| RD2-seed1= 1
+| RD2-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' 
+| RD2-score1-1= 4
+| RD2-score1-2= 0
+| RD2-score1-3= '''4'''
+
+| RD2-seed6= 9
+| RD2-team6= {{Bandera|BOL}} [[Club Bolívar|Bolívar]]
+| RD2-score6-1= 0
+| RD2-score6-2= 0
+| RD2-score6-3= '''0'''
+
+| RD2-seed5= 7
+| RD2-team5= {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| RD2-score5-1= 1
+| RD2-score5-2= 2
+| RD2-score5-3= '''3'''
+
+| RD2-seed7= 2
+| RD2-team7= {{Bandera|PAR}} [[Club Olimpia|Olimpia]]
+| RD2-score7-1= 0
+| RD2-score7-2= 1
+| RD2-score7-3= '''1'''
+
+| RD2-seed8= 8
+| RD2-team8= {{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]''' 
+| RD2-score8-1= 2
+| RD2-score8-2= 3
+| RD2-score8-3= '''5'''
+
+| RD3= [[Anexo:Semifinales de la Copa Libertadores 2023|Semifinales]]
+| RD3-date= 27 de septiembre al 5 de octubre 
+
+
+| RD3-seed2= 4
+| RD3-team2= {{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD3-score2-1= 0
+| RD3-score2-2= 1
+| RD3-score2-3= '''1&nbsp;{{small|(4)}}'''
+
+| RD3-seed1= 1
+| RD3-team1= {{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| RD3-score1-1= 0
+| RD3-score1-2= 1
+| RD3-score1-3= '''1&nbsp;{{small|(2)}}'''
+
+| RD3-seed3= 7
+| RD3-team3= {{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+| RD3-score3-1= 2
+| RD3-score3-2= 1
+| RD3-score3-3= '''3'''
+
+| RD3-seed4= 8
+| RD3-team4= '''{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]'''
+| RD3-score4-1= 2
+| RD3-score4-2= 2
+| RD3-score4-3= '''4'''
+
+| RD4-seed1= 
+| RD4= [[Anexo:Final de la Copa Libertadores 2023|Final]]
+| RD4-date= 4 de noviembre
+| RD4-team1= {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD4-score1= 1
+| RD4-seed2= 
+| RD4-team2= {{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]] {{small|([[Prórroga (deporte)|t. s.]])}}'''
+| RD4-score2= '''2'''
+}}
+{{Small|'''Nota''': En las series a dos partidos, el equipo con el menor número de orden es el que definió como local.}}
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Libertadores 2023|l1=Octavos de final de la Copa Libertadores 2023}}
+
+{{Partido
+|id            = ATN_RAC
+|paíslocal     = Colombia
+|local         = [[Atlético Nacional]]
+|resultado     = 4:2''' (1:0)
+|paísvisita    = Argentina
+|visita        = [[Racing Club]]
+|árbitro       = {{Árbitro|BRA|Braulio Machado}}
+|var           = {{Árbitro|BRA|Rodolpho Toski}}
+|fecha         = {{fecha|3|8|}}, 17:00 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Atanasio Girardot]]
+|ciudad        = [[Medellín]]
+|asistencia    = 
+|goleslocal    = [[Cristián Zapata|Zapata]] {{gol|34}}<br>[[Jefferson Duque|Duque]] {{gol|61}}<br>[[Maximiliano Cantera|Cantera]] {{gol|83||90+5}}
+|golesvisita   = [[Gonzalo Piovi|Piovi]] {{gol|87|pen.|90+4|pen.}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382431
+}}
+{{Partido
+|id            = RAC_ATN
+|paíslocal     = Argentina
+|local         = [[Racing Club]]
+|resultado     = 3:0''' (1:0)
+|paísvisita    = Colombia
+|visita        = [[Atlético Nacional]]
+|refe          = {{Árbitro|VEN|Jesús Valenzuela}}
+|var           = {{Árbitro|CHI|Ángelo Hermosilla}}
+|fecha         = {{fecha|10|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Presidente Perón]]
+|ciudad        = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia    = 
+|goleslocal    = [[Roger Martínez|Martínez]] {{gol|28}} <br> [[Axel Agustín Ojeda|Ojeda]] {{gol|50}} <br> [[Juan Felipe Aguirre|Aguirre]] {{gol|56|a.g.}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382442
+}}
+<br>
+{{Partido
+|id            = BOL_ATH
+|paíslocal     = Bolivia
+|local         = [[Club Bolívar|Bolívar]]
+|resultado     = 3:1''' (2:1)
+|paísvisita    = Brasil
+|visita        = [[Club Athletico Paranaense|Athletico Paranaense]]
+|árbitro       = {{Árbitro|ECU|Guillermo Enrique Guerrero|Guillermo Guerrero}}
+|var           = {{Árbitro|ECU|Carlos Orbe}}
+|fecha         = {{fecha|1|8|}}, 20:00 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Hernando Siles]]
+|ciudad        = [[La Paz]]
+|asistencia    = 
+|goleslocal    = [[Ronnie Fernández|R. Fernández]] {{gol|13||76}}<br>[[Diego Bejarano|Bejarano]] {{gol|27}}
+|golesvisita   = [[Erick Luis Conrado Carvalho|Erick]] {{gol|9}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382435
+}}
+{{Partido
+|id            = ATH_BOL
+|paíslocal     = Brasil
+|local         = [[Club Athletico Paranaense|Athletico Paranaense]]
+|resultado     = 2:0 {{sin negrita|(1:0)}}
+|paísvisita    = Bolivia
+|visita        = [[Club Bolívar|Bolívar]]
+|refe          = {{Árbitro|PER|Kevin Ortega}}
+|var           = {{Árbitro|CHI|Francisco Gilabert}}
+|fecha         = {{fecha|8|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Joaquim Américo Guimarães|Arena da Baixada]]
+|ciudad        = [[Curitiba]]
+|asistencia    = 
+|goleslocal    = [[Fernandinho]] {{gol|31|pen.}}<br>[[Vitor Roque]] {{gol|67}}
+|golesvisita   = 
+|resultado penalti = 4:5
+|penaltis1     = [[Marcelo Cirino|Cirino]] {{pengol}}<br>[[Vitor Bueno]] {{pengol}}<br>[[Fernandinho]] {{pengol}}<br>[[Arturo Vidal|Vidal]] {{pengol}}<br>[[Thiago Heleno|Heleno]] {{penfallo|desviado}}
+|penaltis2     = {{pengol}} [[Diego Bejarano|Bejarano]]<br>{{pengol}} [[Leonel Justiniano|Justiniano]]<br>{{pengol}} [[Fernando Saucedo|Saucedo]]<br>{{pengol}} [[Carmelo Algarañaz|Algarañaz]]<br>{{pengol}} [[Bruno Sávio]]
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382440
+}}
+<br>
+{{Partido
+|id            = FLA_OLI
+|paíslocal     = Brasil
+|local         = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado     = 1:0''' (0:0)
+|paísvisita    = Paraguay
+|visita        = [[Club Olimpia|Olimpia]]
+|refe          = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|3|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Maracaná]]
+|ciudad        = [[Río de Janeiro]]
+|asistencia    = 
+|goleslocal    = [[Bruno Henrique Pinto|Bruno Henrique]] {{gol|49}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382438
+}}
+{{Partido
+|id            = OLI_FLA
+|paíslocal     = Paraguay
+|local         = [[Club Olimpia|Olimpia]]
+|resultado     = 3:1''' (1:1)
+|paísvisita    = Brasil
+|visita        = [[Clube de Regatas do Flamengo|Flamengo]]
+|refe          = {{Árbitro|COL|Wilmar Roldán}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|10|8|}}, 20:00 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Defensores del Chaco]]
+|ciudad        = [[Asunción]]
+|asistencia    = 
+|goleslocal    = [[Iván Torres|Torres]] {{gol|12}} <br> [[Richard Ortiz|Ortiz]] {{gol|69}} <br> [[Facundo Bruera|Bruera]] {{gol|80}}
+|golesvisita   = [[Bruno Henrique Pinto|Bruno Henrique]] {{gol|8}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382441
+}}
+<br>
+{{Partido
+|id            = AMN_PAL
+|paíslocal     = Brasil
+|local         = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado     = 0:1''' (0:1)
+|paísvisita    = Brasil
+|visita        = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|árbitro       = {{Árbitro|ARG|Facundo Tello}}
+|var           = {{Árbitro|ARG|Germán Delfino}}
+|fecha         = {{fecha|2|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Mineirão]]
+|ciudad        = [[Belo Horizonte]]
+|asistencia    = 
+|golesvisita   = [[Raphael Veiga]] {{gol|29}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382434
+}}
+{{Partido
+|id            = PAL_AMN
+|paíslocal     = Brasil
+|local         = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado     = 0:0
+|paísvisita    = Brasil
+|visita        = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|refe          = {{Árbitro|ARG|Fernando Rapallini}}
+|var           = {{Árbitro|ARG|Jorge Baliño}}
+|fecha         = {{fecha|9|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Allianz Parque]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382443&titleText=Detalles%20Del%20Partido
+}}
+<br>
+{{Partido
+|id            = DPE_IDV
+|paíslocal     = Colombia
+|local         = [[Deportivo Pereira]]
+|resultado     = 1:0''' (0:0)
+|paísvisita    = Ecuador
+|visita        = [[Independiente del Valle]]
+|árbitro       = {{Árbitro|ARG|Yael Falcón Pérez}}
+|var           = {{Árbitro|ARG|Silvio Trucco}}
+|fecha         = {{fecha|2|8|}}, 19:00 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Hernán Ramírez Villegas]]
+|ciudad        = [[Pereira]]
+|asistencia    = 
+|goleslocal    = [[Juan Danilo Santacruz|Santacruz]] {{gol|59}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382433
+}}
+{{Partido
+|id            = IDV_DPE
+|paíslocal     = Ecuador
+|local         = [[Independiente del Valle]]
+|resultado     = 1:1''' (1:0)
+|paísvisita    = Colombia
+|visita        = [[Deportivo Pereira]]
+|refe          = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Hernán Mastrángelo}}
+|fecha         = {{fecha|9|8|}}, 19:00 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Olímpico Atahualpa]]
+|ciudad        = [[Quito]]
+|asistencia    = 
+|goleslocal    = [[Michael Hoyos|Hoyos]] {{gol|6}}
+|golesvisita   = [[Larry Angulo|Angulo]] {{gol|50}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382445
+}}
+<br>
+{{Partido
+|id            = ARJ_FLU
+|paíslocal     = Argentina
+|local         = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|resultado     = 1:1''' (1:0)
+|paísvisita    = Brasil
+|visita        = [[Fluminense Football Club|Fluminense]]
+|árbitro       = {{Árbitro|CHI|Piero Maza}}
+|var           = {{Árbitro|CHI|Rodrigo Carvajal}}
+|fecha         = {{fecha|1|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Diego Armando Maradona (Argentina)|Estadio Diego Armando Maradona]]
+|ciudad        = [[Buenos Aires]]
+|asistencia    = 
+|goleslocal    = [[Gabriel Ávalos|Ávalos]] {{gol|14}}
+|golesvisita   = [[Samuel Xavier]] {{gol|88}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382437
+}}
+{{Partido
+|id            = FLU_ARJ
+|paíslocal     = Brasil
+|local         = [[Fluminense Football Club|Fluminense]]
+|resultado     = 2:0''' (0:0)
+|paísvisita    = Argentina
+|visita        = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|refe          = {{Árbitro|VEN|Alexis Herrera}}
+|var           = {{Árbitro|COL|Leonard Mosquera}}
+|fecha         = {{fecha|8|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Maracaná]]
+|ciudad        = [[Río de Janeiro]]
+|asistencia    = 
+|goleslocal    = [[Samuel Xavier]] {{gol|86}}<br>[[John Kennedy (futbolista brasileño)|John Kennedy]] {{gol|90+7}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382444
+}}
+<br>
+{{Partido
+|id            = RIV_INT
+|paíslocal     = Argentina
+|local         = [[Club Atlético River Plate|River Plate]]
+|resultado     = 2:1''' (0:1)
+|paísvisita    = Brasil
+|visita        = [[Sport Club Internacional|Internacional]]
+|árbitro       = {{Árbitro|VEN|Jesús Valenzuela}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|1|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad        = [[Buenos Aires]]
+|asistencia    = 
+|goleslocal    = [[Pablo Solari|Solari]] {{gol|65||79}}
+|golesvisita   = [[Enner Valencia|Valencia]] {{gol|45+1}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382436
+}}
+{{Partido
+|id            = INT_RIV
+|paíslocal     = Brasil
+|local         = [[Sport Club Internacional|Internacional]]
+|resultado     = 2:1 {{sin negrita|(0:0)}}
+|paísvisita    = Argentina
+|visita        = [[Club Atlético River Plate|River Plate]]
+|refe          = {{Árbitro|URU|Andrés Matonte}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|8|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Beira-Rio]]
+|ciudad        = [[Porto Alegre]]
+|asistencia    = 
+|goleslocal    = [[Gabriel Mercado|Mercado]] {{gol|70}}<br>[[Alan Patrick (futbolista)|Patrick]] {{gol|78}}
+|golesvisita   = [[Robert Rojas Chávez|Rojas]] {{gol|90}}
+|resultado penalti = 9:8
+|penaltis1     = [[Luiz Adriano]] {{pengol}}<br>[[Enner Valencia|Valencia]] {{pengol}}<br>[[Bruno Henrique Corsini|Bruno Henrique]] {{pengol}}<br>[[Pedro Henrique Konzen|Pedro Henrique]] {{pengol}}<br>[[Renê Rodrigues Martins|Renê]] {{pengol}}<br>[[Gabriel Mercado|Mercado]] {{pengol}}<br>[[Carlos de Pena|C. de Pena]] {{penfallo|desviado}}<br>[[Johnny Cardoso|Johnny]] {{pengol}}<br>[[Igor Gomes Silva|Igor Gomes]] {{pengol}}<br>[[Sergio Rochet|Rochet]] {{pengol}}
+|penaltis2     = {{pengol}} [[Agustín Palavecino|Palavecino]]<br>{{pengol}} [[Lucas Beltrán|Beltrán]]<br>{{pengol}} [[Ignacio Martín Fernández|I. Fernández]]<br>{{pengol}} [[Nicolás de la Cruz Arcosa|De la Cruz]]<br>{{pengol}} [[Facundo Colidio|Colidio]]<br>{{pengol}} [[Rodrigo Aliendro|Aliendro]]<br>{{penfallo|anulado}} [[Pablo Solari|Solari]]<br>{{pengol}} [[Enzo Díaz|E. Díaz]]<br>{{pengol}} [[Paulo Díaz|P. Díaz]]<br>{{penfallo|desviado}} [[Robert Rojas Chávez|Rojas]]
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382446
+}}
+<br>
+{{Partido
+|id            = NAC_BOC
+|paíslocal     = Uruguay
+|local         = [[Club Nacional de Football|Nacional]]
+|resultado     = 0:0
+|paísvisita    = Argentina
+|visita        = [[Club Atlético Boca Juniors|Boca Juniors]]
+|árbitro       = {{Árbitro|BRA|Raphael Claus}}
+|var           = {{Árbitro|BRA|Wagner Reway}}
+|fecha         = {{fecha|2|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Gran Parque Central]]
+|ciudad        = [[Montevideo]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382432
+}}
+{{Partido
+|id            = BOC_NAC
+|paíslocal     = Argentina
+|local         = [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado     = 2:2 {{sin negrita|(1:1)}}
+|paísvisita    = Uruguay
+|visita        = [[Club Nacional de Football|Nacional]]
+|refe          = {{Árbitro|BRA|Anderson Daronco}}
+|var           = {{Árbitro|BRA|Daniel Nobre}}
+|fecha         = {{fecha|9|8|}}, 21:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Alberto J. Armando|La Bombonera]]
+|ciudad        = [[Buenos Aires]]
+|asistencia    = 
+|goleslocal    = [[Miguel Merentiel|Merentiel]] {{gol|12}}<br>[[Luis Advíncula|Advíncula]] {{gol|47}}
+|golesvisita   = [[Alfonso Trezza|Trezza]] {{gol|16}}<br>[[Juan Ignacio Ramírez|Ramírez]] {{gol|75}}
+|resultado penalti = 4:2
+|penaltis1     = [[Exequiel Zeballos|Zeballos]] {{pengol}}<br>[[Darío Benedetto|Benedetto]] {{pengol}}<br>[[Nicolás Valentini|Valentini]] {{pengol}}<br>[[Guillermo Matías Fernández|G. Fernández]] {{penfallo|desviado}}<br>[[Valentín Barco|Barco]] {{pengol}}
+|penaltis2     = {{penfallo|atajado}} [[Juan Ignacio Ramírez|Ramírez]]<br>{{pengol}} [[Diego Polenta|Polenta]]<br>{{penfallo|atajado}} [[Daniel Bocanegra|Bocanegra]]<br>{{pengol}} [[Emanuel Gigliotti|Gigliotti]]
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2382439
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Libertadores 2023|l1=Cuartos de final de la Copa Libertadores 2023}}
+
+{{Partido
+|id            = BOC_RAC
+|paíslocal     = Argentina
+|local         = [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado     = 0:0
+|paísvisita    = Argentina
+|visita        = [[Racing Club]]
+|árbitro       = {{Árbitro|BRA|Wilton Sampaio}}
+|var           = {{Árbitro|BRA|Wagner Reway}}
+|fecha         = {{fecha|23|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Alberto J. Armando|La Bombonera]]
+|ciudad        = [[Buenos Aires]]
+|asistencia    = 
+|goleslocal    =
+|golesvisita   =
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404537
+}}
+{{Partido
+|id            = RAC_BOC
+|paíslocal     = Argentina
+|local         = [[Racing Club]]
+|resultado     = 0:0
+|paísvisita    = Argentina
+|visita        = [[Club Atlético Boca Juniors|Boca Juniors]]
+|árbitro       = {{Árbitro|URU|Andrés Matonte}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|30|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Presidente Perón]]
+|ciudad        = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia    = 
+|goleslocal    =
+|golesvisita   = 
+|resultado penalti= 1:4
+|penaltis1     = [[Gonzalo Piovi|Piovi]] {{penfallo|atajado}}<br>[[Juan Fernando Quintero|Quintero]] {{pengol}}<br>[[Leonardo Sigali|Sigali]] {{penfallo|atajado}}
+|penaltis2     = {{pengol}} [[Exequiel Zeballos|Zeballos]]<br>{{pengol}} [[Lucas Janson|Janson]]<br>{{pengol}} [[Edinson Cavani|Cavani]]<br>{{pengol}} [[Marcos Rojo|Rojo]]
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404538
+}}
+<br>
+{{Partido
+|id            = BOL_INT
+|paíslocal     = Bolivia
+|local         = [[Club Bolívar|Bolívar]]
+|resultado     = 0:1''' (0:1)
+|paísvisita    = Brasil
+|visita        = [[Sport Club Internacional|Internacional]]
+|árbitro       = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Germán Delfino}}
+|fecha         = {{fecha|22|8|}}, 18:00 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Estadio Hernando Siles]]
+|ciudad        = [[La Paz]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = [[Enner Valencia|Valencia]] {{gol|16}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404397
+}}
+{{Partido
+|id            = INT_BOL
+|paíslocal     = Brasil
+|local         = [[Sport Club Internacional|Internacional]]
+|resultado     = 2:0''' (1:0)
+|paísvisita    = Bolivia
+|visita        = [[Club Bolívar|Bolívar]]
+|árbitro       = {{Árbitro|URU|Esteban Ostojich}}
+|var           = {{Árbitro|VEN|Juan Soto Arévalo|Juan Soto}}
+|fecha         = {{fecha|29|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Beira-Rio]]
+|ciudad        = [[Porto Alegre]]
+|asistencia    = 
+|goleslocal    = [[Enner Valencia|Valencia]] {{gol|11||60}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404398
+}}
+<br>
+{{Partido
+|id            = FLU_OLI
+|paíslocal     = Brasil
+|local         = [[Fluminense Football Club|Fluminense]]
+|resultado     = 2:0''' (1:0) 
+|paísvisita    = Paraguay
+|visita        = [[Club Olimpia|Olimpia]]
+|árbitro       = {{Árbitro|URU|Andrés Matonte}}
+|var           = {{Árbitro|URU|Andrés Cunha}}
+|fecha         = {{fecha|24|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Maracaná]]
+|ciudad        = [[Río de Janeiro]]
+|asistencia    = 
+|goleslocal    = [[André Trindade da Costa Neto|André]] {{gol|43}}<br>[[Germán Cano|Cano]] {{gol|59}}
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404535&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|id            = OLI_FLU
+|paíslocal     = Paraguay
+|local         = [[Club Olimpia|Olimpia]]
+|resultado     = 1:3''' (1:1) 
+|paísvisita    = Brasil
+|visita        = [[Fluminense Football Club|Fluminense]]
+|árbitro       = {{Árbitro|VEN|Jesús Valenzuela}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|31|8|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio       = [[Defensores del Chaco]]
+|ciudad        = [[Asunción]]
+|asistencia    = 
+|goleslocal    = [[Facundo Zabala|Zabala]] {{gol|44}}
+|golesvisita   = [[John Kennedy (futbolista brasileño)|John Kennedy]] {{gol|24}}<br>[[Germán Cano|Cano]] {{gol|80||90+2}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404536
+}}
+<br>
+{{Partido
+|id            = DPE_PAL
+|paíslocal     = Colombia
+|local         = [[Deportivo Pereira]]
+|resultado     = 0:4''' (0:3)
+|paísvisita    = Brasil
+|visita        = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|árbitro       = {{Árbitro|ARG|Facundo Tello}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|23|8|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio       = [[Estadio Hernán Ramírez Villegas]]
+|ciudad        = [[Pereira]]
+|asistencia    = 
+|golesvisita   = [[Raphael Veiga]] {{gol|23|pen.}}<br>[[Marcos Rocha]] {{gol|31}}<br>[[Mayke]] {{gol|34}}<br>[[Ronielson da Silva Barbosa|Rony]] {{gol|82}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404403
+}}
+{{Partido
+|id            = PAL_AMN
+|paíslocal     = Brasil
+|local         = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado     = 0:0
+|paísvisita    = Colombia
+|visita        = [[Deportivo Pereira]]
+|árbitro       = {{Árbitro|CHI|Cristián Garay}}
+|var           = {{Árbitro|CHI|Ángelo Hermosilla}}
+|fecha         = {{fecha|30|8|}}, 21:30 ([[UTC-03:00|UTC-3]]) 
+|estadio       = [[Allianz Parque]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2404404
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Libertadores 2023|l1=Semifinales de la Copa Libertadores 2023}}
+
+{{Partido
+|id            = BOC_PAL
+|paíslocal     = ARG
+|local         = [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado     = 0:0
+|paísvisita    = BRA
+|visita        = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|árbitro       = {{Árbitro|COL|Wilmar Roldán}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|28|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad        = [[Buenos Aires]]
+|asistencia    = 
+|goleslocal    = 
+|golesvisita   = 
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2407921
+}}
+{{Partido
+|id            = PAL_BOC
+|paíslocal     = BRA
+|local         = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado     = 1:1 {{sin negrita|(0:1)}}
+|paísvisita    = ARG
+|visita        = [[Club Atlético Boca Juniors|Boca Juniors]]
+|árbitro       = {{Árbitro|URU|Andrés Matonte}}
+|var           = {{Árbitro|URU|Leodán González}}
+|fecha         = {{fecha|5|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Allianz Parque]]
+|ciudad        = [[São Paulo]]
+|asistencia    = 
+|goleslocal    = [[Joaquín Piquerez|Piquerez]] {{gol|73}}
+|golesvisita   = [[Edinson Cavani|Cavani]] {{gol|23}}
+|resultado penalti = 2:4
+|penaltis1     = [[Raphael Veiga]] {{penfallo|atajado}}<br>[[Gustavo Gómez Portillo|Gómez]] {{penfallo|atajado}}<br>[[Kevin (futbolista)|Kevin]] {{pengol}}<br>[[Joaquín Piquerez|Piquerez]] {{pengol}}<br>
+|penaltis2     = {{penfallo|atajado}} [[Edinson Cavani|Cavani]]<br>{{pengol}} [[Bruno Valdez|Valdez]]<br>{{pengol}} [[Nicolás Valentini|Valentini]]<br>{{pengol}} [[Nicolás Figal|Figal]]<br>{{pengol}} [[Guillermo Matías Fernández|G. Fernández]]
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2407922
+}}
+<br>
+{{Partido
+|id            = FLU_INT
+|paíslocal     = BRA
+|local         = [[Fluminense Football Club|Fluminense]]
+|resultado     = 2:2''' (1:1)
+|paísvisita    = BRA
+|visita        = [[Sport Club Internacional|Internacional]]
+|árbitro       = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var           = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha         = {{fecha|27|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad        = [[Río de Janeiro]]
+|asistencia    = 
+|goleslocal    = [[Germán Cano|Cano]] {{gol|10||78}}
+|golesvisita   = [[Hugo Mallo|Mallo]] {{gol|45+5}}<br>[[Alan Patrick (futbolista)|Alan Patrick]] {{gol|64}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2408013
+}}
+{{Partido
+|id            = INT_FLU
+|paíslocal     = BRA
+|local         = [[Sport Club Internacional|Internacional]]
+|resultado     = 1:2''' (1:0)
+|paísvisita    = BRA
+|visita        = [[Fluminense Football Club|Fluminense]]
+|árbitro       = {{Árbitro|VEN|Jesús Valenzuela}}
+|var           = {{Árbitro|VEN|Juan Soto Arévalo|Juan Soto}}
+|fecha         = {{fecha|4|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio Beira-Rio]]
+|ciudad        = [[Porto Alegre]]
+|asistencia    = 
+|goleslocal    = [[Gabriel Mercado|Mercado]] {{gol|10}}
+|golesvisita   = [[John Kennedy (futbolista brasileño)|John Kennedy]] {{gol|81}}<br>[[Germán Cano|Cano]] {{gol|87}}
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2408014
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 2023|l1=Final de la Copa Libertadores 2023}}
+
+{{Partido
+|id            = BOC_FLU
+|paíslocal     = ARG
+|local         = [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado     = 1:2''' (1:1, 0:1)
+|paísvisita    = BRA
+|visita        = [[Fluminense Football Club|Fluminense]]
+|árbitro       = {{Árbitro|COL|Wilmar Roldán}}
+|var           = {{Árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha         = {{fecha|4|11|}}, 17:00 ([[UTC-03:00|UTC-3]])
+|estadio       = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad        = [[Río de Janeiro]]
+|asistencia    = 69{{esd}}232
+|goleslocal    = [[Luis Advíncula|Advíncula]] {{gol|72}}
+|golesvisita   = [[Germán Cano|Cano]] {{gol|36}}<br>[[John Kennedy (futbolista brasileño)|John Kennedy]] {{gol|99}}
+|prórroga      = sí
+|reporte       = https://conmebollibertadores.com/cards/MatchCenter?gameId=2409426&titleText=Detalles%20Del%20Partido
+}}
+{{clear}}<br />{{Campeón|equipo=[[Fluminense Football Club|Fluminense]]|bandera=BRA|orden=1|logo=}}{{clear}}
+
+== Estadísticas y premios ==
+
+=== Mejor jugador ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+|- bgcolor="D0E7FF"
+| colspan="2" align="center" |'''''No entregado'''''<ref>{{Cita web|url=https://www.terra.com.br/esportes/fluminense/premio-de-craque-da-libertadores-2023-foi-cancelado-cano-era-o-grande-favorito,e957b9ad92903e053422f6bfd9c733a29vr6f9se.html|título=Prêmio de craque da Libertadores 2023 foi 'cancelado'; Cano era o grande favorito|fechaacceso=2024-06-27|apellido=jogada10|sitioweb=Terra|idioma=pt-BR}}</ref>
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|Part.|Partidos jugados}}
+|- bgcolor="d0e7ff"
+|{{Bandera|ARG}} '''[[Germán Cano]]'''
+| align="left"|{{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+| align="center" |'''13'''
+| align="center" |'''12'''
+|- 
+|{{Bandera|BRA}} [[Paulinho (futbolista nacido en 2000)|Paulinho]]
+| align="left"|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |7
+| align="center" |11
+|-
+|{{Bandera|COL}} [[Dorlan Pabón]]
+| align="left"|{{Bandera|COL}} [[Atlético Nacional]]
+| align="center" |6
+| align="center" |4
+|- 
+|{{Bandera|ARG}} [[Luciano Daniel Pons|Luciano Pons]]
+| align="left"|{{Bandera|COL}} [[Independiente Medellín]]
+| align="center" |5
+| align="center" |10
+|-
+|{{Bandera|BRA}} [[Artur Victor Guimarães|Artur]]
+| align="left"|{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| align="center" |5
+| align="center" |12
+|-
+|{{Bandera|BRA}} [[Alan Patrick (futbolista)|Alan Patrick]]
+| align="left"|{{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+| align="center" |5
+| align="center" |12
+|}
+<center><small>Fuente: [https://www.livefutbol.com/goleadores/copa-libertadores-2023/ Livefutbol.com]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor="d0e7ff"
+|{{Bandera|BRA}} '''[[Alan Patrick (futbolista)|Alan Patrick]]'''
+| align="left"|{{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| align="center" |'''5'''
+|- bgcolor="d0e7ff"
+|{{Bandera|BRA}} '''[[Keno (futbolista)|Keno]]'''
+| align="left"|{{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+| align="center" |'''5'''
+|- bgcolor="d0e7ff"
+|{{Bandera|BRA}} '''[[Ronielson da Silva Barbosa|Rony]]'''
+| align="left"|{{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| align="center" |'''5'''
+|- 
+|{{Bandera|BRA}} [[Paulinho (futbolista nacido en 2000)|Paulinho]]
+| align="left"|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |4
+|- 
+|{{Bandera|ARG}} [[Luciano Daniel Pons|Luciano Pons]]
+| align="left"|{{Bandera|COL}} [[Independiente Medellín]]
+| align="center" |4
+|}
+<center><small>Fuente: [https://www.livefutbol.com/asistencias/copa-libertadores-2023/ Livefutbol.com]</small></center>
+
+=== Equipo ideal ===
+{| align="center" bgcolor="#006699" cellpadding="3" cellspacing="0" border="0" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align="center" bgcolor="#006699" style="color:white;"
+! colspan="3" align="center" |Equipo Ideal 2023 
+|- align="left" bgcolor="#006699" style="color:white;"
+! width="50" |Pos.
+! width="200" |Futbolista
+! width="200" |Equipo
+|- bgcolor="#F5FAFF" style="border-bottom:1px solid #000000;"
+|{{por}}
+|{{Bandera|ARG}} [[Sergio Germán Romero|Sergio Romero]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Club Atlético Boca Juniors|Boca Juniors]]
+|- bgcolor="#D0E7FF"
+|{{def}}
+|{{Bandera|Perú}} [[Luis Advíncula|Luis Advincula]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Club Atlético Boca Juniors|Boca Juniors]]
+|- bgcolor="#F5FAFF"
+|{{def}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Nino (futbolista brasileño)|Nino]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|- bgcolor="#D0E7FF" style="border-bottom:1px solid #000000;"
+|{{def}}
+|[[Archivo:Flag_of_Uruguay.svg|borde|20x20px|Uruguay]] [[Joaquín Piquerez]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|- bgcolor="#F5FAFF"
+|{{mdc}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[André Trindade da Costa Neto|Andre]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|- bgcolor="#D0E7FF"
+|{{mdc}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Paulo Henrique Ganso|Ganso]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|- bgcolor="#F5FAFF"
+|{{mdc}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Alan Patrick (futbolista)|Alan Patrick]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sport Club Internacional|Internacional]]
+|- bgcolor="#D0E7FF" style="border-bottom:1px solid #000000;"
+|{{mdc}}
+|[[Archivo:Flag of Colombia.svg|border|20px|Colombia]] [[Jhon Arias]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|- bgcolor="#F5FAFF"
+|{{del}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Paulinho (futbolista nacido en 2000)|Paulinho]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Atlético Mineiro]]
+|- bgcolor="#D0E7FF"
+|{{del}}
+|{{Bandera|ARG}} [[Germán Cano]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|- bgcolor="#F5FAFF" style="border-bottom:1px solid #000000;"
+|{{del}}
+|[[Archivo:Flag of Ecuador.svg|border|20px|Ecuador]] [[Enner Valencia]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sport Club Internacional|Internacional]]
+|- bgcolor="#D0E7FF" style="border-bottom:1px solid #000000;"
+|{{ent}}
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fernando Diniz]]
+|[[Archivo:Flag_of_Brazil.svg|borde|20x20px|Brasil]] [[Fluminense Football Club|Fluminense]]
+|}
+
+== Véase también ==
+* [[Copa Sudamericana 2023]]
+* [[Recopa Sudamericana 2023]]
+* [[Copa Libertadores Femenina 2023]]
+* [[Copa Libertadores Sub-20 de 2023]]
+* [[Anexo:Ranking de clubes de la Conmebol|''Ranking'' de clubes de la Conmebol]]
+* [[Anexo:Estadísticas de la Copa Libertadores|Estadísticas de la Copa Libertadores]]
+* [[Copa Mundial de Clubes de la FIFA 2023]]
+
+== Notas ==
+{{listaref|group=n.}}
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com Página web oficial] de [[Conmebol]]
+{{Facebook|CopaLibertadores|Copa Libertadores}}
+{{Twitter|Libertadores|Copa Libertadores}}
+{{Facebook|CONMEBOL|Conmebol}}
+{{Twitter|CONMEBOL|Conmebol}}
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 2022|2022]]
+| título = Copa Libertadores 2023
+| período = LXIV edición
+| sucesor = [[Copa Libertadores 2024|2024]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 2023]]
+[[Categoría:Temporadas de la Copa Libertadores|2023]]

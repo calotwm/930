@@ -1,0 +1,1684 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Barcelona Sporting Club Stadium.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Monumental Isidro Romero Carbo|estadio Monumental]] ([[Guayaquil]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Libertadores 1998|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]<br>{{bandera|MEX}} [[México]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]<br>{{México}}
+| fecha de inicio = {{fecha2|25|2|1998}}
+| fecha de cierre = {{fecha2|26|8|1998}}
+| edición = XXXIX
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| semifinalistas = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]] <br> {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| titulotercero = Semifinalistas
+| partidos = 90
+| goles = 218 (2,42 por partido)
+| goleadores = 
+| anterior = [[Copa Libertadores 1997]]
+| actual = Copa Libertadores 1998
+| siguiente = [[Copa Libertadores 1999]]
+|goleador={{bandera|BRA}} [[Sérgio João]] (10 goles)<br><small>([[Club Bolívar|Bolívar]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1998''', denominada por motivos comerciales '''Copa Toyota Libertadores 1998''', fue la trigésima novena edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[México]], [[Paraguay]], [[Perú]] y [[Uruguay]]. Fue la primera edición que contó con la participación de equipos mexicanos en calidad de invitados quienes, hasta 2016, participaron todos los años en el torneo surcontinental.
+
+El campeón fue [[Club de Regatas Vasco da Gama|Vasco da Gama]] de Brasil, que alcanzó de esta manera su primer título en la competición. Gracias a él, disputó la [[Copa Intercontinental 1998]] frente a [[Real Madrid Club de Fútbol|Real Madrid]] de [[España]] y la [[Copa Interamericana 1998]] (última edición) ante [[D.C. United]] de los [[Estados Unidos]]. Además, clasificó a los octavos de final de la [[Copa Libertadores 1999]].
+
+== Formato ==
+El ingreso de los representantes de [[México]] a la competición obligó a establecer una eliminatoria previa, en la que participaron los equipos del mencionado país y los de [[Venezuela]] y desde donde surgieron los últimos 2 clasificados al certamen. Mientras el campeón vigente mantuvo su clasificación automática a las fases finales, los 20 equipos restantes disputaron la Fase de grupos. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que, de haber dos representantes de una misma asociación nacional, ambos debían caer indefectiblemente en la misma zona. Los tres primeros de cada uno de los cinco grupos clasificaron a los octavos de final, en donde se les unió el campeón vigente, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile,<br>Colombia, Ecuador, Paraguay, Perú y Uruguay
+* 2 equipos clasificados de la [[Anexo:Copa Pre Libertadores 1998|Copa Pre Libertadores 1998]]
+|
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la [[Copa Libertadores 1997]]
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 5 equipos terceros de la Fase de grupos
+|}
+
+== Copa Pre Libertadores 1998 ==
+{{AP|Anexo:Copa Pre Libertadores 1998|l1=Copa Pre Libertadores 1998}}
+Los dos clasificados de México y los dos de Venezuela se enfrentaron en una competición previa, bajo el nombre de '''Copa Pre Libertadores''', para determinar a los dos últimos cuadros clasificados a la fase de grupos del certamen. El torneo se desarrolló bajo un sistema de liguilla en donde se enfrentaron todos contra todos, excepto los clubes del mismo país. Los equipos ubicados en primer y segundo lugar de la tabla final accedieron a la Copa Libertadores.
+
+=== Equipos participantes ===
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="17%" |País
+! width="17%" |Equipo
+! width="66%" |Vía de clasificación
+
+|- bgcolor="#F5FAFF"
+|{{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>2 invitados</small>
+|''[[Club Deportivo Guadalajara (México)|Guadalajara]]''<br>''[[Club América|América]]''
+|''Invitado<br>Invitado''
+|-
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Caracas Fútbol Club|Caracas]]<br>[[Atlético Zulia Fútbol Club|''Atlético Zulia'']]
+|Campeón de la [[Primera División de Venezuela 1996-97]]<br>Subcampeón de la [[Primera División de Venezuela 1996-97]]
+|}
+
+=== Resultados ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|México}} '''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+|'''10'''||4||3||1||0||12||5||7
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|México}} '''[[Club América|América]]'''
+|'''7'''||4||2||1||1||5||2||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Caracas Fútbol Club|Caracas]]
+|'''5'''||4||1||2||1||4||6||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Atlético Zulia Fútbol Club|Atlético Zulia]]
+|'''0'''||4||0||0||4||3||11||–8
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|4 de febrero
+|[[Maracaibo]]
+| align=right |[[Atlético Zulia Fútbol Club|Atlético Zulia]]
+|2:3
+| align=left |'''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Caracas]]
+| align=right |[[Caracas Fútbol Club|Caracas]]
+|'''1:1'''
+| align=left |[[Club Deportivo Guadalajara (México)|Guadalajara]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de febrero
+|[[Maracaibo]]
+| align=right |[[Atlético Zulia Fútbol Club|Atlético Zulia]]
+|0:2
+| align=left |'''[[Club América|América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de febrero
+|[[Caracas]]
+| align=right |'''[[Caracas Fútbol Club|Caracas]]'''
+|1:0
+| align=left |[[Club América|América]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de febrero
+|[[Guadalajara (México)|Guadalajara]]
+| align=right |'''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+|4:1
+| align=left |[[Atlético Zulia Fútbol Club|Atlético Zulia]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|2:0
+| align=left |[[Atlético Zulia Fútbol Club|Atlético Zulia]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Guadalajara (México)|Guadalajara]]
+| align=right |'''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+|4:1
+| align=left |[[Caracas Fútbol Club|Caracas]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Ciudad de México]]
+| align=right |[[Club América|América]]
+|'''1:1'''
+| align=left |[[Caracas Fútbol Club|Caracas]]
+|}
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=80%
+|- bgcolor=#006699 style="color:white;"
+!width=17%|País
+!width=17%|Equipo
+!width=66%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético River Plate|River Plate]]<br>''[[Club Atlético Colón|Colón]]''
+|Campeón del [[Anexo:Torneo Apertura 1996 (Argentina)|Torneo Apertura 1996]] y del [[Anexo:Torneo Clausura 1997 (Argentina)|Torneo Clausura 1997]]<br>Ganador del [[Campeonato de Primera División 1996-97 (Argentina)#Clasificación a la Copa Libertadores|partido entre los subcampeones del Torneo Apertura 1996 y del Torneo Clausura 1997]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Bolívar|Bolívar]]<br>[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|Campeón del [[Campeonato de Primera División 1997 (Bolivia)|Campeonato de Primera División 1997]]<br>Subcampeón del Campeonato de Primera División 1997
+
+|- bgcolor=#F5FAFF
+| {{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]<br>[[Club de Regatas Vasco da Gama|Vasco da Gama]]<br>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|Campeón de la [[Copa Libertadores 1997]]<br>Campeón del [[Campeonato Brasileño de Fútbol 1997|Campeonato Brasileño de 1997]]<br>Campeón de la [[Copa de Brasil 1997]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|Campeón del [[Torneo Apertura 1997 (Chile)|Torneo Apertura 1997]]<br>Campeón del [[Torneo Clausura 1997 (Chile)|Torneo Clausura 1997]]
+
+|- bgcolor=#F5FAFF
+| {{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[América de Cali]]<br>''[[Atlético Bucaramanga]]''
+|Campeón del [[Campeonato colombiano 1996-97|Campeonato Colombiano 1996-97]]<br>Subcampeón del Campeonato Colombiano 1996-97
+
+|- bgcolor=#DDEEFF
+| {{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>[[Sociedad Deportivo Quito|Deportivo Quito]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1997|Campeonato Ecuatoriano de 1997]]<br>Subcampeón del Campeonato Ecuatoriano de 1997
+
+|- bgcolor=#F5FAFF
+| {{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>2 invitados</small>
+|''[[Club Deportivo Guadalajara (México)|Guadalajara]]''<br>''[[Club América|América]]''
+|1.º puesto de la [[Anexo:Copa Pre Libertadores 1998|Copa Pre Libertadores 1998]]<br>2.º puesto de la Copa Pre Libertadores 1998
+
+|- bgcolor=#DDEEFF
+| {{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1997|Campeonato Paraguayo de 1997]]<br>Subcampeón del Campeonato Paraguayo de 1997
+
+|- bgcolor=#F5FAFF
+| {{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Alianza Lima|Alianza Lima]]<br>[[Club Sporting Cristal|Sporting Cristal]]
+|Campeón del [[Campeonato Descentralizado 1997]]<br>Ganador de la [[Campeonato Descentralizado 1997#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores 1998]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Club Atlético Peñarol|Peñarol]]<br>[[Club Nacional de Football|Nacional]]
+|1.º puesto de la [[Campeonato Uruguayo de Primera División 1997#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 1997]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1997
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Libertadores 1998'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-31.633333|long=-60.7|label=<small>[[Club Atlético Colón|Colón]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=7.118611|long=-73.116111|label=<small>[[Atlético Bucaramanga|{{Esd|Atlético Bucaramanga}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Sociedad Deportivo Quito|{{Esd|Deportivo Quito}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Libertadores 1998'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=19.419444|long=-99.145556|label=<small>[[Club América|América]]</small>|position=right}}
+{{Location map~|México|lat=20.676667|long=-103.3475|label=<small>[[Club Deportivo Guadalajara (México)|Guadalajara]]</small>|position=right}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[América de Cali]]'''
+|'''11'''||6||3||2||1||10||5||5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''9'''||6||2||3||1||5||3||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[Atlético Bucaramanga]]'''
+|'''7'''||6||2||1||3||5||6||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''5'''||6||1||2||3||3||9||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Guayaquil]]
+| align=right |[[Barcelona Sporting Club|Barcelona]]
+|'''0:0'''
+| align=left |[[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Cali]]
+| align=right |[[América de Cali]]
+|'''2:2'''
+| align=left |[[Atlético Bucaramanga]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Quito]]
+| align=right |'''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|1:0
+| align=left |[[Atlético Bucaramanga]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Barcelona Sporting Club|Barcelona]]'''
+|2:0
+| align=left |[[Atlético Bucaramanga]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Quito]]
+| align=right |[[Sociedad Deportivo Quito|Deportivo Quito]]
+|0:4
+| align=left |'''[[América de Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Barcelona Sporting Club|Barcelona]]'''
+|1:0
+| align=left |[[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Quito]]
+| align=right |[[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''1:1'''
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Bucaramanga]]
+| align=right |[[Atlético Bucaramanga]]
+|0:1
+| align=left |'''[[América de Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Bucaramanga]]
+| align=right |'''[[Atlético Bucaramanga]]'''
+|2:0
+| align=left |[[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Cali]]
+| align=right |'''[[América de Cali]]'''
+|2:1
+| align=left |[[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Bucaramanga]]
+| align=right |'''[[Atlético Bucaramanga]]'''
+|1:0
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Cali]]
+| align=right |[[América de Cali]]
+|'''1:1'''
+| align=left |[[Barcelona Sporting Club|Barcelona]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|'''12'''||6||4||0||2||6||5||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|'''8'''||6||2||2||2||7||4||3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|México}} '''[[Club América|América]]'''
+|'''8'''||6||2||2||2||6||5||1
+|- align="center"
+|style="text-align:left;"|{{bandera|México}} [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|'''6'''||6||2||0||4||2||7||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Guadalajara (México)|Guadalajara]]
+| align=right |[[Club Deportivo Guadalajara (México)|Guadalajara]]
+|0:1
+| align=left |'''[[Club América|América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|1:0
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Guadalajara (México)|Guadalajara]]
+| align=right |'''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+|1:0
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Ciudad de México]]
+| align=right |[[Club América|América]]
+|1:2
+| align=left |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Guadalajara (México)|Guadalajara]]
+| align=right |'''[[Club Deportivo Guadalajara (México)|Guadalajara]]'''
+|1:0
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Ciudad de México]]
+| align=right |[[Club América|América]]
+|'''1:1'''
+| align=left |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|2:0
+| align=left |[[Club Deportivo Guadalajara (México)|Guadalajara]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Río de Janeiro]]
+| align=right |'''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|3:0
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|2:0
+| align=left |[[Club Deportivo Guadalajara (México)|Guadalajara]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Río de Janeiro]]
+| align=right |'''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|2:0
+| align=left |[[Club Deportivo Guadalajara (México)|Guadalajara]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|1:0
+| align=left |[[Club América|América]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Río de Janeiro]]
+| align=right |[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''1:1'''
+| align=left |[[Club América|América]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+|'''13'''||6||4||1||1||14||6||8
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''7'''||6||2||1||3||8||10||–2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Paraguay|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''7'''||6||2||1||3||6||9||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''7'''||6||2||1||3||5||8||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|5:1
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:2
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Asunción]]
+| align=right |[[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:0
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|2:0
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Asunción]]
+| align=right |[[Club Olimpia|Olimpia]]
+|'''1:1'''
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Asunción]]
+| align=right |[[Club Cerro Porteño|Cerro Porteño]]
+|1:2
+| align=left |'''[[Club Olimpia|Olimpia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|0:2
+| align=left |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|1:0
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|1:2
+| align=left |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|2:1
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|1:3
+| align=left |'''[[Club Olimpia|Olimpia]]'''
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+|'''13'''||6||4||1||1||9||7||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''10'''||6||3||1||2||12||5||7
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|'''6'''||6||2||0||4||11||12||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''5'''||6||1||2||3||7||15||–8
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|3:2
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Maldonado]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|2:1
+| align=left |[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''0:0'''
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|1:0
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|2:1
+| align=left |[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|2:0
+| align=left |[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''1:1'''
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Montevideo]]
+| align=right |[[Club Nacional de Football|Nacional]]
+|1:4
+| align=left |'''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Nacional de Football|Nacional]]'''
+|4:1
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Rivera (Uruguay)|Rivera]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|6:1
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Rivera (Uruguay)|Rivera]]
+| align=right |[[Club Atlético Peñarol|Peñarol]]
+|0:1
+| align=left |'''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Montevideo]]
+| align=right |'''[[Club Nacional de Football|Nacional]]'''
+|4:1
+| align=left |[[Club Bolívar|Bolívar]]
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''16'''||6||5||1||0||15||6||9
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Perú}} '''[[Club Alianza Lima|Alianza Lima]]'''
+|'''7'''||6||2||1||3||5||7||–2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Club Atlético Colón|Colón]]'''
+|'''7'''||6||2||1||3||5||8||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''4'''||6||1||1||4||7||11||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Lima]]
+| align=right |'''[[Club Alianza Lima|Alianza Lima]]'''
+|1:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Santa Fe (Argentina)|Santa Fe]]
+| align=right |[[Club Atlético Colón|Colón]]
+|1:2
+| align=left |'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Santa Fe (Argentina)|Santa Fe]]
+| align=right |'''[[Club Atlético Colón|Colón]]'''
+|1:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Lima]]
+| align=right |[[Club Alianza Lima|Alianza Lima]]
+|'''1:1'''
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santa Fe (Argentina)|Santa Fe]]
+| align=right |'''[[Club Atlético Colón|Colón]]'''
+|1:0
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|2:3
+| align=left |'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Lima]]
+| align=right |'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|3:2
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|4:1
+| align=left |[[Club Atlético Colón|Colón]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[Lima]]
+| align=right |'''[[Club Alianza Lima|Alianza Lima]]'''
+|1:0
+| align=left |[[Club Atlético Colón|Colón]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de abril
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|3:1
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''1:1'''
+| align=left |[[Club Atlético Colón|Colón]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|2:0
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=35 | team-width= 180| score-width= 20
+| seeds = yes
+
+<!-- Fechas -->
+|octavos = 15 de abril al 7 de mayo
+|cuartos = 13 de mayo al 6 de junio
+|semifinal = 16 al 22 de julio
+|final = 12 y 26 de agosto
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 15 de abril al 7 de mayo
+
+| RD1-seed1 = G1 1
+| RD1-seed2 = G3 3
+| RD1-team1 = {{bandera|COL}} [[América de Cali]]
+| RD1-team2 = {{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| RD1-score1-1 = 0
+| RD1-score2-1 = 1
+| RD1-score1-2 = 1
+| RD1-score2-2 = 2
+| RD1-score1-3 = '''1'''
+| RD1-score2-3 = '''3'''
+
+| RD1-seed3 = G4 2
+| RD1-seed4 = G5 2
+| RD1-team3 = {{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-team4 = {{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+| RD1-score3-1 = 0
+| RD1-score4-1 = 1
+| RD1-score3-2 = 2
+| RD1-score4-2 = 1
+| RD1-score3-3 = '''2&nbsp;{{small|(3)}}'''
+| RD1-score4-3 = '''2&nbsp;{{small|(1)}}'''
+
+| RD1-seed5 = G3 2
+| RD1-seed6 = G1 2
+| RD1-team5 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-team6 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| RD1-score5-1 = 1
+| RD1-score6-1 = 2
+| RD1-score5-2 = 2
+| RD1-score6-2 = 2
+| RD1-score5-3 = '''3'''
+| RD1-score6-3 = '''4'''
+
+| RD1-seed7 = G4 1
+| RD1-seed8 = G1 3
+| RD1-team7 = {{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-team8 = {{bandera|COL}} [[Atlético Bucaramanga]]
+| RD1-score7-1 = 2
+| RD1-score8-1 = 1
+| RD1-score7-2 = 1
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''3'''
+| RD1-score8-3 = '''1'''
+
+| RD1-seed9 = G3 1
+| RD1-seed10 = G5 3
+| RD1-team9 = {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| RD1-team10 = {{bandera|ARG}} '''[[Club Atlético Colón|Colón]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score9-1 = 2
+| RD1-score10-1 = 3
+| RD1-score9-2 = 1
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''3&nbsp;{{small|(1)}}'''
+| RD1-score10-3 = '''3&nbsp;{{small|(2)}}'''
+
+| RD1-seed11 = G5 1
+| RD1-seed12 = G2 3
+| RD1-team11 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-team12 = {{bandera|MEX}} [[Club América|América]]
+| RD1-score11-1 = 1
+| RD1-score12-1 = 1
+| RD1-score11-2 = 1
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''2'''
+| RD1-score12-3 = '''1'''
+
+| RD1-seed13 = CV
+| RD1-seed14 = G2 2
+| RD1-team13 = {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD1-team14 = {{bandera|BRA}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+| RD1-score13-1 = 1
+| RD1-score14-1 = 2
+| RD1-score13-2 = 0
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''1'''
+| RD1-score14-3 = '''2'''
+
+| RD1-seed15 = G2 1
+| RD1-seed16 = G4 3
+| RD1-team15 = {{bandera|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-team16 = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD1-score15-1 = 1
+| RD1-score16-1 = 1
+| RD1-score15-2 = 4
+| RD1-score16-2 = 0
+| RD1-score15-3 = '''5'''
+| RD1-score16-3 = '''1'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 13 de mayo al 6 de junio
+ 
+| RD2-team1 = {{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| RD2-team2 = {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| RD2-score1-1 = 0
+| RD2-score2-1 = 2
+| RD2-score1-2 = 3
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''3'''
+| RD2-score2-3 = '''2'''
+
+| RD2-team3 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| RD2-team4 = {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| RD2-score3-1 = 1
+| RD2-score4-1 = 1
+| RD2-score3-2 = 4
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''5'''
+| RD2-score4-3 = '''1'''
+
+| RD2-team5 = {{bandera|ARG}} [[Club Atlético Colón|Colón]]
+| RD2-team6 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score5-1 = 1
+| RD2-score6-1 = 2
+| RD2-score5-2 = 1
+| RD2-score6-2 = 3
+| RD2-score5-3 = '''2'''
+| RD2-score6-3 = '''5'''
+
+| RD2-team7 = {{bandera|BRA}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+| RD2-team8 = {{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD2-score7-1 = 1
+| RD2-score8-1 = 1
+| RD2-score7-2 = 1
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''2'''
+| RD2-score8-3 = '''1'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 16 al 22 de julio
+
+| RD3-team1 = {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD3-team2 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD3-score1-1 = 0
+| RD3-score2-1 = 1
+| RD3-score1-2 = 2
+| RD3-score2-2 = 1
+| RD3-score1-3 = '''2&nbsp;{{small|(3)}}'''
+| RD3-score2-3 = '''2&nbsp;{{small|(4)}}'''
+
+| RD3-team3 = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-team4 = {{bandera|BRA}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+| RD3-score3-1 = 0
+| RD3-score4-1 = 1
+| RD3-score3-2 = 1
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''1'''
+| RD3-score4-3 = '''2'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 1998|Final]]
+| RD4-date= 12 y 26 de agosto
+
+| RD4-team1 = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| RD4-team2 = {{bandera|BRA}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+| RD4-score1-1 = 0
+| RD4-score2-1 = 2
+| RD4-score1-2 = 1
+| RD4-score2-2 = 2
+| RD4-score1-3 = '''1'''
+| RD4-score2-3 = '''4'''
+}}
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>'''Nota 2''': En las llaves de octavos de final, a cada equipo se le indica "''Gx p''", donde ''p'' es la posición final que ocupó en el grupo ''x'' de la fase de grupos.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 1:0''' (0:0)
+|paísvisita      = COL
+|visita          = [[América de Cali]]
+|fecha           = 15 de abril de 1998
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Mario Sánchez Yantén}}
+|goleslocal      = [[Juan Ángel Paredes|Paredes]] {{gol|75}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 1:2''' (0:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 29 de abril de 1998
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Horacio Elizondo}}
+|goleslocal      = [[Julián Téllez|Téllez]] {{gol|49}}
+|golesvisita     = {{gol|70}} [[Richard Aníbal Gómez|Gómez]]<br>{{gol|82}} [[Juan Ángel Paredes|Paredes]]
+}}
+<br>
+{{Partido
+|local           = [[Club Alianza Lima|Alianza Lima]]
+|paíslocal       = PER
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 22 de abril de 1998
+|estadio         = [[Estadio Alejandro Villanueva]]
+|ciudad          = [[Lima]]
+|asistencia      = 
+|refe            = {{árbitro|BOL|René Ortubé}}
+|goleslocal      = [[Miguel Asprilla|Asprilla]] {{gol|57}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 2:1''' (2:0)
+|visita          = [[Club Alianza Lima|Alianza Lima]]
+|paísvisita      = PER
+|fecha           = 29 de abril de 1998
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Epifanio González}}
+|goleslocal      = [[Marcelo De Souza|De Souza]] {{gol|18}}<br>[[Carlos Alberto Aguilera|Aguilera]] {{gol|26}}
+|golesvisita     = {{gol|60}} [[Miguel Asprilla|Asprilla]] 
+|suceso = 
+|penaltis1       = [[Pablo Bengoechea|Bengoechea]] {{pengol}}<br>[[Antonio Pacheco D'Agosti|Pacheco]] {{pengol}}<br>[[Nicolás Rotundo|Rotundo]] {{pengol}}
+|resultado penalti = 3:1
+|penaltis2       = {{pengol}} [[Marcial Salazar|Salazar]]<br>{{penfallo}} [[Juan José Jayo Legario|Jayo]]<br>{{penfallo}} [[Frank Ruiz|Ruiz]]<br>{{penfallo}} [[Claudio Pizarro|Pizarro]]
+}}
+<br>
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:1''' (1:0)
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 15 de abril de 1998
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|John Toro Rendón}}
+|goleslocal      = [[Agustín Delgado Chalá|Delgado]] {{gol|45}}<br>[[Marcelo Morales|Morales]] {{gol|87|pen.}}
+|golesvisita     = {{gol|51}} [[Manuel Neira|Neira]] 
+}}
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 2:2''' (0:1)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 30 de abril de 1998
+|estadio         = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = [[Francisco Rojas Rojas|Rojas]] {{gol|50}}<br>[[Emerson Pereira|Emerson]] {{gol|52}}
+|golesvisita     = {{gol|44||54}} [[Agustín Delgado Chalá|Delgado]] 
+}}
+<br>
+{{Partido
+|local           = [[Atlético Bucaramanga]]
+|paíslocal       = COL
+|resultado       = 1:2''' (0:2)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 15 de abril de 1998
+|estadio         = [[Estadio Alfonso López]]
+|ciudad          = [[Bucaramanga]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Gustavo Restrepo|Restrepo]] {{gol|72}}
+|golesvisita     = {{gol|8||40}} [[Sérgio João|João]] 
+}}
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 1:0''' (1:0)
+|visita          = [[Atlético Bucaramanga]]
+|paísvisita      = COL
+|fecha           = 29 de abril de 1998
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Jorge Larrionda}}
+|goleslocal      = [[Eduardo Jiguchi|Jiguchi]] {{gol|34}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Colón|Colón]]
+|paíslocal       = ARG
+|resultado       = 3:2''' (2:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 23 de abril de 1998
+|estadio         = [[Estadio Brigadier General Estanislao López|Estadio Brig. Gral. Estanislao López]]
+|ciudad          = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|goleslocal      = [[Esteban Fuertes|Fuertes]] {{gol|30||34}}<br>[[Rodolfo Aquino|Aquino]] {{gol|62}}
+|golesvisita     = {{gol|55}} [[Luis Alberto Monzón|Monzón]]<br>{{gol|80}} [[Mauro Antonio Caballero|Caballero]] 
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético Colón|Colón]]
+|paísvisita      = ARG
+|fecha           = 30 de abril de 1998
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|PER|José Arana Villamonte}}
+|goleslocal      = [[Luis Alberto Monzón|Monzón]] {{gol|55}}
+|golesvisita     = 
+|suceso = 
+|penaltis1       = [[Félix Torres|Torres]] {{penfallo}}<br>[[Luis Alberto Monzón|Monzón]] {{penfallo}}<br>[[Carlos Humberto Paredes|Paredes]] {{penfallo}}<br>[[Walter Avalos|Ávalos]] {{pengol}}<br>[[Gabriel González Chaves|González]] {{penfallo}}
+|resultado penalti = 1:2
+|penaltis2       = {{penfallo}} [[Claudio Marini|Marini]]<br>{{penfallo}} [[Marcelo Saralegui|Saralegui]]<br>{{pengol}} [[Dante Unali|Unali]]<br>{{pengol}} [[Rodolfo Aquino|Aquino]]
+}}
+<br>
+{{Partido
+|local           = [[Club América|América]]
+|paíslocal       = MEX
+|resultado       = 1:1''' (1:1)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 22 de abril de 1998
+|estadio         = [[Estadio Azteca]]
+|ciudad          = [[Ciudad de México]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Gustavo Méndez (árbitro)|Gustavo Méndez}}
+|goleslocal      = [[Gabriel Cedrés|Cedrés]] {{gol|31}}
+|golesvisita     = {{gol|5}} [[Carlos Netto|Netto]] 
+}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club América|América]]
+|paísvisita      = MEX
+|fecha           = 7 de mayo de 1998
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = [[Santiago Solari|Solari]] {{gol|49}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|resultado       = 2:1''' (1:1)
+|visita          = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita      = BRA
+|fecha           = 15 de abril de 1998
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Carlos Simon}}
+|goleslocal      = [[Luizão]] {{gol|27}}<br>[[Osmar Donizete Cândido|Donizete]] {{gol|56}}
+|golesvisita     = {{gol|20|pen.}} [[Marcelo Silva Ramos|Ramos]] 
+}}
+{{Partido
+|local           = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal       = BRA
+|resultado       = 0:0
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|fecha           = 2 de mayo de 1998
+|estadio         = [[Estadio Mineirão]]
+|ciudad          = [[Belo Horizonte]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Sidrack Marinho dos Santos|Sidrack Marinho}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 1:1''' (1:0)
+|visita          = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita      = BRA
+|fecha           = 15 de abril de 1998
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Ubaldo Aquino}}
+|goleslocal      = [[Rubén Sosa|Sosa]] {{gol|41}}
+|golesvisita     = {{gol|48}} [[Guilherme de Cássio Alves|Guilherme]] 
+}}
+{{Partido
+|local           = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal       = BRA
+|resultado       = 4:0''' (4:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 29 de abril de 1998
+|estadio         = [[Estadio Olímpico Monumental]]
+|ciudad          = [[Porto Alegre]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Javier Castrilli}}
+|goleslocal      = [[Guilherme de Cássio Alves|Guilherme]] {{gol|4}}<br>[[Roger Machado Marques|Roger]] {{gol|16}}<br>[[Luís Carlos Goiano|Goiano]] {{gol|30}}<br>[[Paulo César Fonseca do Nascimento|Tinga]] {{gol|43}}
+|golesvisita     = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 20 de mayo de 1998
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Carlos Simon}}
+|goleslocal      = [[José María Franco Ramallo|Franco]] {{gol|20}}<br>[[Pablo Bengoechea|Bengoechea]] {{gol|90+3}} ([[Tiro libre (fútbol)|TL]])
+|golesvisita     = 
+|reporte         = https://www.youtube.com/watch?v=SnkbfDvihRU
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 3:0''' (1:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 27 de mayo de 1998
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|goleslocal      = [[Héctor Blanco|Blanco]] {{gol|21}}<br>[[Miguel Ángel Domínguez Barreto|Domínguez]] {{gol|63}} ([[Tiro libre (fútbol)|TL]])<br>[[Juan Ángel Paredes|Paredes]] {{gol|74}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 1:1''' (0:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 13 de mayo de 1998
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Robert Troxler}}
+|goleslocal      = [[Sérgio João|João]] {{gol|73}}
+|golesvisita     = {{gol|80}} [[Agustín Delgado Chalá|Delgado]] 
+}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 4:0''' (2:0)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 27 de mayo de 1998
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Rafael Sanabria}}
+|goleslocal      = [[Nicolás Asencio|Asencio]] {{gol|10||74}}<br>[[Luis Gómez Cáceres|Gómez]] {{gol|33}}<br>[[Julio César Rosero|Rosero]] {{gol|52}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 2:1''' (2:1)
+|visita          = [[Club Atlético Colón|Colón]]
+|paísvisita      = ARG
+|fecha           = 20 de mayo de 1998
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Javier Castrilli}}
+|goleslocal      = [[Pablo Aimar|Aimar]] {{gol|17}}<br>[[Juan Pablo Ángel|Ángel]] {{gol|44}}
+|golesvisita     = {{gol|33}} [[Marcelo Saralegui|Saralegui]] 
+}}
+{{Partido
+|local           = [[Club Atlético Colón|Colón]]
+|paíslocal       = ARG
+|resultado       = 1:3''' (1:1)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 27 de mayo de 1998
+|estadio         = [[Estadio Brigadier General Estanislao López|Estadio Brig. Gral. Estanislao López]]
+|ciudad          = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|goleslocal      = [[Esteban Fuertes|Fuertes]] {{gol|32}}
+|golesvisita     = {{gol|40}} [[Eduardo Berizzo|Berizzo]]<br>{{gol|61}} [[Juan Pablo Ángel|Ángel]]<br>{{gol|77}} [[Juan Pablo Sorín|Sorín]] 
+}}
+<br>
+{{Partido
+|local           = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal       = BRA
+|resultado       = 1:1''' (0:0)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|fecha           = 3 de junio de 1998
+|estadio         = [[Estadio Olímpico Monumental]]
+|ciudad          = [[Porto Alegre]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|goleslocal      = [[Guilherme de Cássio Alves|Guilherme]] {{gol|52}}
+|golesvisita     = {{gol|46}} [[Pedro Paulo de Oliveira|Pedrinho]] 
+}}
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (1:0)
+|visita          = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita      = BRA
+|fecha           = 6 de junio de 1998
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Sidrack Marinho dos Santos|Sidrack Marinho}}
+|goleslocal      = [[Pedro Paulo de Oliveira|Pedrinho]] {{gol|39}}
+|golesvisita     = 
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 16 de julio de 1998
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|John Toro Rendón}}
+|goleslocal      = [[Antony de Ávila|De Ávila]] {{gol|11}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:1''' (2:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 22 de julio de 1998
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|PER|José Arana Villamonte}}
+|goleslocal      = [[Fabián Caballero|Caballero]] {{gol|4}}<br>[[Juan Ángel Paredes|Paredes]] {{gol|22}}
+|golesvisita     = {{gol|73}} [[Washington Aires|Aires]] 
+|penaltis1       = [[Justo Javier Meza|Meza]] {{penfallo}}<br>[[Hugo Ovelar|Ovelar]] {{pengol}}<br>[[Sergio Recalde|Recalde]] {{penfallo}}<br>[[Richard Aníbal Gómez|Gómez]] {{pengol}}<br>[[Guido Alvarenga|Alvarenga]] {{pengol}}<br>[[Fabián Caballero|Caballero]] {{penfallo}}
+|resultado penalti = 3:4
+|penaltis2       = {{pengol}} [[Washington Aires|Aires]]<br>{{penfallo}} [[Fricson George|George]]<br>{{pengol}} [[Julio César Rosero|Rosero]]<br>{{pengol}} [[Marcelo Morales|Morales]]<br>{{penfallo}} [[Nicolás Asencio|Asencio]]<br>{{pengol}} [[Antony de Ávila|De Ávila]]
+}}
+<br>
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 16 de julio de 1998
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Gustavo Méndez (árbitro)|Gustavo Méndez}}
+|goleslocal      = [[Osmar Donizete Cândido|Donizete]] {{gol|10}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|fecha           = 22 de julio de 1998
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Guido Aros}}
+|goleslocal      = [[Juan Pablo Sorín|Sorín]] {{gol|25}}
+|golesvisita     = {{gol|81}} [[Juninho Pernambucano]] 
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1998|l1=Final de la Copa Libertadores 1998}}
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|resultado       = 2:0''' (2:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]] 
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 12 de agosto de 1998, 21:40 ([[UTC-3]])
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 36 273
+|refe            = {{árbitro|URU|Gustavo Méndez (árbitro)|Gustavo Méndez}}
+|goleslocal      = [[Osmar Donizete Cândido|Donizete]] {{gol|7}}<br>[[Luizão]] {{gol|33}}
+|golesvisita     = 
+|reporte         = https://www.senorgol.nu/libertadores/liber98barvsvas.htm
+|competición=Ida}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:2''' (0:2)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]] 
+|paísvisita      = BRA
+|fecha           = 26 de agosto de 1998, 20:10 ([[UTC-5]])	 
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]	 
+|ciudad          = [[Guayaquil]]	 
+|asistencia      = 72 000
+|refe            = {{árbitro|ARG|Javier Castrilli}}
+|goleslocal      = [[Antony de Ávila|De Ávila]] {{gol|79}}
+|golesvisita     = {{gol|24}} [[Luizão]]<br>{{gol|45}} [[Osmar Donizete Cândido|Donizete]] 
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|bandera = Brasil
+|orden = 1
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+| {{bandera|Brasil}} '''[[Sérgio João]]'''
+| {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| align=center|'''10'''
+|-
+| {{bandera|Brasil}} [[Luizão]]
+| {{bandera|Brasil}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+| align=center|7
+|-
+| {{bandera|Colombia}} [[Juan Pablo Ángel]]
+| {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| align=center|7
+|-
+| {{bandera|Paraguay|1990}} [[Luis Alberto Monzón]]
+| {{bandera|Paraguay}} [[Club Olimpia|Olimpia]]
+| align=center|6
+|-
+| {{bandera|Ecuador|1900}} [[Agustín Delgado Chalá|Agustín Delgado]]
+| {{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Osmar Donizete Cândido|Donizete]]
+| {{bandera|Brasil}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+| align=center|5
+|-
+| {{bandera|Uruguay}} [[José María Franco Ramallo|José María Franco]]
+| {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Guilherme de Cássio Alves|Guilherme]]
+| {{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| align=center|5
+|}
+
+== Tabla General ==
+{| align=center cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=50%
+|- align=center bgcolor=#006699 style="color:white;"
+!width=50% colspan=2|Equipo
+!width=5%|Pts
+!width=5%|PJ
+!width=5%|PG
+!width=5%|PE
+!width=5%|PP
+!width=5%|GF
+!width=5%|GC
+!width=5%|Dif
+|- align=center bgcolor=#D0E7FF
+!1
+|align=left|{{bandera|Brasil}} '''[[Club de Regatas Vasco da Gama|Vasco da Gama]]'''
+|'''26'''||14||7||5||2||17||11||+6
+|- align=center
+!2
+|align=left|{{bandera|Ecuador|variante=1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''20'''||14||5||5||4||17||13||+4
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!3
+|align=left|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+|'''27'''||12||8||3||1||23||11||+12
+|- align=center
+!4
+|align=left|{{bandera|Paraguay|variante=1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''19'''||12||6||1||5||14||14||0
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!5
+|align=left|{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|'''20'''||10||6||2||2||13||13||0
+|- align=center
+!6
+|align=left|{{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''17'''||10||5||2||3||12||8||+4
+|- align=center bgcolor=#D0E7FF
+!7
+|align=left|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+|'''16'''||10||5||1||4||16||10||+6
+|- align=center
+!8
+|align=left|{{bandera|Argentina}} [[Club Atlético Colón|Colón]]
+|'''10'''||10||3||1||6||10||16||–6
+|- style="border-top:1px solid #222;"align=center bgcolor=#D0E7FF
+!9
+|align=left|{{bandera|Paraguay|variante=1990}} [[Club Olimpia|Olimpia]]
+|'''16'''||8||5||1||2||17||9||+8
+|- align=center 
+!10
+|align=left|{{bandera|México}} [[Club América|América]]
+|'''16'''||12||4||4||4||12||8||+4
+|- align=center bgcolor=#D0E7FF
+!11
+|align=left|{{bandera|Colombia}} [[América de Cali]]
+|'''11'''||8||3||2||3||11||8||+3
+|- align=center
+!12
+|align=left|{{bandera|Perú}} [[Club Alianza Lima|Alianza Lima]]
+|'''10'''||8||3||1||4||7||9||–2
+|- align=center bgcolor=#D0E7FF
+!13
+|align=left|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''8'''||8||2||2||4||11||14||–3
+|- align=center
+!14
+|align=left|{{bandera|Colombia}} [[Atlético Bucaramanga]]
+|'''7'''||8||2||1||5||6||9||–3
+|- align=center bgcolor=#D0E7FF
+!15
+|align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+|'''7'''||8||2||1||5||12||17||–5
+|- align=center
+!16
+|align=left|{{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|'''1'''||2||0||1||1||1||2||-1
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!17
+|align=left|{{bandera|México}} [[Club Deportivo Guadalajara (México)|Guadalajara]]
+|'''16'''||10||5||1||4||14||12||+2
+|- align=center
+!18
+|align=left|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''7'''||6||2||1||3||5||8||–3
+|- align=center bgcolor=#D0E7FF
+!19
+|align=left|{{bandera|Ecuador|variante=1900}} [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''5'''||6||1||2||3||3||9||–6
+|- align=center
+!20
+|align=left|{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''5'''||6||1||2||3||7||15||–8
+|- align=center bgcolor=#D0E7FF
+!21
+|align=left|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''4'''||6||1||1||4||7||11||–4
+|- style="border-top:1px solid #222;" align=center 
+!22
+|align=left|{{bandera|Venezuela|variante=1954}} [[Caracas Fútbol Club|Caracas]]
+|'''5'''||4||1||2||1||4||6||–2
+|- align=center bgcolor=#D0E7FF
+!23
+|align=left|{{bandera|Venezuela|variante=1954}} [[Atlético Zulia Fútbol Club|Atlético Zulia]]
+|'''0'''||4||0||0||4||3||11||–8
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1998]]
+* [[Copa Interamericana 1998]]
+* [[Copa Conmebol 1998]]
+* [[Copa Merconorte 1998]]
+* [[Copa Mercosur 1998]]
+
+== Notas ==
+{{listaref|group="n."}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa98.html Copa Libertadores 1998] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.conmebol.com/ Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1997|1997]]
+| título     = Copa Libertadores 1998
+| período    = XXXIX edición
+| sucesor    = [[Copa Libertadores 1999|1999]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1998]]
+[[Categoría:Temporadas de la Copa Libertadores|1998]]

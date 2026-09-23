@@ -1,0 +1,975 @@
+{{Ficha de competición deportiva
+|nombre = Primera B Nacional 1996-97
+|nombre_original = [[Primera B Nacional|Segunda División de Argentina]]
+|deporte = fútbol
+|país = {{Argentina}}
+|fecha de inicio = 24 de agosto de 1996
+|fecha de cierre = 19 de julio de 1997
+|edición = XI temporada
+|campeón = {{bandera|Buenos Aires}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|subcampeón = {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Talleres (Córdoba)|Talleres de Córdoba]]
+|tercero = {{bandera|Provincia de Mendoza}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|goleador = {{bandera|Honduras}} [[Eduardo Bennett]]<br/>([[Asociación Atlética Argentinos Juniors|Argentinos Juniors]])<br/>23 goles
+|participantes = 32
+|partidos = 598
+|goles = 1691 (2,83 por partido)
+|televisión = [[América Televisión (Argentina)|América TV]]<br />[[América Sports]]
+|descendidos = {{bandera|Provincia de Buenos Aires}} [[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]]<br/>{{bandera|Provincia de Buenos Aires}} [[Club Atlético Temperley|Temperley]]<br/>{{bandera|Provincia de Entre Ríos}} [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]<br/>{{bandera|Provincia de Salta}} [[Centro Juventud Antoniana|Juventud Antoniana]]
+|ascendidos = {{bandera|Buenos Aires}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br/>{{bandera|Provincia de Salta}} [[Club de Gimnasia y Tiro|Gimnasia y Tiro de Salta]]
+|descenso = 
+|anterior = [[Campeonato Nacional B 1995-96|Primera B Nacional 1995-96]]
+|actual = [[Primera B Nacional|Primera B Nacional 1996-97]]
+|siguiente = [[Campeonato de Primera B Nacional 1997-98|Primera B Nacional 1997-98]]
+}}
+
+El '''Torneo Primera B Nacional 1996/1997''' fue la undécima temporada disputada de la [[Primera B Nacional]]. Fue disputado entre el 24 de agosto de 1996 y el 19 de julio de 1997 por 32 equipos.
+
+El formato fue totalmente diferente a la edición anterior de este torneo, ya que se incorporaron clubes hasta llegar a 32 equipos, la mitad directamente afiliados y la otra, indirectamente afiliados a [[Asociación del Fútbol Argentino|AFA]], divididos en cuatro zonas de ocho equipos en la primera etapa.
+
+Para este torneo se incorporaron a la categoría [[Argentinos Juniors]] y [[Club Atlético Belgrano|Belgrano de Córdoba]], descendidos de la [[Campeonato de Primera División 1995-96 (Argentina)|Primera División]]; [[Club Sportivo Italiano|Deportivo Italiano]], campeón de la [[Campeonato de Primera B 1995-96 (Argentina)|Primera B Metropolitana]], [[Centro Juventud Antoniana|Juventud Antoniana de Salta]], campeón del [[Torneo Argentino A 1995-96|Torneo Argentino A]] y [[Club Atlético Estudiantes|Estudiantes (BA)]], ganador del ''Torneo Reducido'' de la [[Campeonato de Primera B 1995-96 (Argentina)|Primera B Metropolitana]].
+
+Con el fin de completar la cantidad de equipos necesaria para la disputa del certamen se sumaron [[Club Almagro|Almagro]], [[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]] y [[Club Atlético Temperley|Temperley]], que ascendieron por medio del ''Torneo Reclasificatorio'' de la [[Campeonato de Primera B 1995-96 (Argentina)|Primera B Metropolitana]] y [[Club Atlético Aldosivi|Aldosivi]], [[Club Atlético Chaco For Ever|Chaco For Ever]], [[Club Cipolletti|Cipolletti]], [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]] y [[Club Olimpo|Olimpo]], por un Reclasificatorio del [[Torneo Argentino A 1995-96|Torneo Argentino A]].
+
+El campeón fue [[Argentinos Juniors]] al conquistar el primer puesto de la ''"Zona Campeonato"'' y ascendió directamente. [[Gimnasia y Tiro de Salta|Gimnasia y Tiro (Salta)]] obtuvo el segundo ascenso por medio del ''"Torneo Reducido"''.
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos del [[Campeonato Nacional B 1995-96|Nacional B 1995-96]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1994-95#Tabla_de_descenso|22.º]]
+|[[Club Atlético Tigre|Tigre]]
+
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos a la Primera B Nacional 1996-97
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1995-96 (Argentina)|1.º<br>Primera B]]
+|[[Club Sportivo Italiano|Deportivo Italiano]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Campeón<br>Argentino A]]
+|[[Centro Juventud Antoniana|Juventud Antoniana de Salta]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1995-96 (Argentina)|Gan. Red.<br>Primera B]]
+|[[Club Atlético Estudiantes|Estudiantes (BA)]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Subcampeón<br>Argentino A]]
+|[[Club Cipoletti|Cipoletti]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1995-96 (Argentina)|Reclasif.<br>Primera B]]
+|[[Club Almagro|Almagro]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1995-96 (Argentina)|Reclasif.<br>Primera B]]
+|[[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1995-96 (Argentina)|Reclasif.<br>Primera B]]
+|[[Club Atlético Temperley|Temperley]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Reclasif.<br>Argentino A]]
+|[[Club Atlético Aldosivi|Aldosivi]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Reclasif.<br>Argentino A]]
+|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Reclasif.<br>Argentino A]]
+|[[Club Olimpo|Olimpo]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 1995-96|Invitación<br>Argentino A]]
+|[[Club Atlético Chaco For Ever|Chaco For Ever]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos a la [[Campeonato de Primera División 1996-97 (Argentina)|Primera División 1996-97]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1995-96|1.º]]
+|[[Club Atlético Huracán Corrientes|Huracán Corrientes]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1995-96|Gan. Red.]]
+|[[Club Atlético Unión (Santa Fe)|Unión]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos de la [[Campeonato de Primera División 1995-96 (Argentina)|Primera División 1995-96]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1995-96_(Argentina)#Tabla_de_descenso|19.º]]
+|[[Club Atlético Belgrano|Belgrano de Córdoba]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1995-96_(Argentina)#Tabla_de_descenso|20.º]]
+|[[Argentinos Juniors]]
+|}
+{{Final columnas}}<br />
+* De esta manera, el número de participantes aumentó a 32 equipos.
+
+== Equipos participantes ==
+
+<center>
+{| class="wikitable sortable"
+!Equipo
+!Ciudad
+!Estadio
+!Capacidad
+|-
+| [[Club Atlético Aldosivi|Aldosivi]]
+| [[Mar del Plata]]
+| [[Estadio José Maria Minella|José Maria Minella]]
+| 35&nbsp;354
+|-
+| [[Club Atlético All Boys|All Boys]]
+| [[Buenos Aires]]
+| [[Estadio Islas Malvinas|Islas Malvinas]]
+| 21&nbsp;500
+|-
+| [[Club Almagro|Almagro]]
+| [[José Ingenieros (Buenos Aires)|José Ingenieros]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]
+| 19&nbsp;000
+|-
+| [[Club Almirante Brown|Almirante Brown]]
+| [[Isidro Casanova]]
+| [[Estadio Fragata Presidente Sarmiento|Fragata Sarmiento]]
+| 27&nbsp;500
+|-
+| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| [[Buenos Aires]]
+| [[Estadio Diego Armando Maradona (Argentina)|Diego Armando Maradona]]
+| 25&nbsp;000
+|-
+| [[Arsenal Fútbol Club|Arsenal]]
+| [[Sarandí]]
+| [[Estadio Julio Humberto Grondona|Julio Humberto Grondona]]
+| 16&nbsp;300
+|-
+| [[Club Atlético Atlanta|Atlanta]]
+| [[Buenos Aires]]
+| [[Estadio Don León Kolbovsky|Don León Kolbovsky]]
+| 15&nbsp;000
+|-
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| [[Rafaela]]
+| [[Estadio Nuevo Monumental|Nuevo Monumental]]
+| 26&nbsp;660
+|-
+| [[Club Atlético Tucumán|Atlético Tucumán]]
+| [[San Miguel de Tucumán]]
+| [[Estadio Monumental José Fierro|Monumental José Fierro]]
+| 32&nbsp;700
+|-
+| [[Club Atlético Belgrano|Belgrano]]
+| [[Ciudad de Córdoba (Argentina)|Córdoba]]
+| [[Estadio Gigante de Alberdi|Gigante de Alberdi]]
+| 28&nbsp;000
+|-
+| [[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+| [[Rosario (Argentina)|Rosario]]
+| [[Estadio Gabino Sosa|Gabino Sosa]]
+| 18&nbsp;000
+|-
+| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+| [[Villa Maipú]]
+| [[Estadio de Chacarita Juniors|Chacarita Juniors]]
+| 20&nbsp;844
+|-
+| [[Club Atlético Chaco For Ever|Chaco For Ever]]
+| [[Ciudad de Resistencia|Resistencia]]
+| [[Estadio Juan Alberto García|Juan Alberto García]]
+| 20&nbsp;000
+|-
+| [[Club Cipolletti|Cipolletti]]
+| [[Cipolletti]]
+| [[Estadio La Visera de Cemento|La Visera de Cemento]]
+| 12&nbsp;000
+|-
+|[[Club Sportivo Italiano|Deportivo Italiano]]
+|[[Ciudad Evita]]
+| No posee<ref>Hizo de local en el estadio de [[Club Atlético All Boys|All Boys]] a lo largo de la primera ronda y en el de [[Club Atlético Chacarita Juniors|Chacarita Juniors]] en la segunda.</ref>
+|  -
+|-
+|[[Club Deportivo Morón|Deportivo Morón]]
+|[[Morón (Buenos Aires)|Morón]]
+|[[Estadio Francisco Urbano|Francisco Urbano]]
+| 20&nbsp;000
+|-
+|[[Club Atlético Douglas Haig|Douglas Haig]]
+|[[Pergamino (Buenos Aires)|Pergamino]]
+|[[Estadio Miguel Morales|Miguel Morales]]
+| 16&nbsp;000
+|-
+|[[Club Atlético Estudiantes|Estudiantes]]
+|[[Caseros]]
+|[[Estadio Ciudad de Caseros|Ciudad de Caseros]]
+| 16&nbsp;740
+|-
+|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima]]
+|[[Concepción del Uruguay]]
+|[[Estadio Manuel y Ramón Núñez|Manuel y Ramón Núñez]]
+| 9000
+|-
+|[[Club de Gimnasia y Tiro|Gimnasia y Tiro]]
+|[[Ciudad de Salta|Salta]]
+|[[Estadio El Gigante del Norte|El Gigante del Norte]]
+| 24&nbsp;300
+|-
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|[[Godoy Cruz]]
+|[[Estadio Malvinas Argentinas|Malvinas Argentinas]]
+| 40&nbsp;270
+|-
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|[[Ciudad de Córdoba (Argentina)|Córdoba]]
+|[[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+| 32&nbsp;000
+|-
+|[[Centro Juventud Antoniana|Juventud Antoniana]]
+|[[Ciudad de Salta|Salta]]
+|[[Estadio Fray Honorato Pistoia|Fray Honorato Pistoia]]
+| 12&nbsp;000
+|-
+|[[Club Atlético Los Andes|Los Andes]]
+|[[Lomas de Zamora]]
+|[[Estadio Eduardo Gallardón|Eduardo Gallardón]]
+| 36&nbsp;942
+|-
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|[[Buenos Aires]]
+|[[Estadio República de Mataderos|República de Mataderos]]
+| 25&nbsp;000
+|-
+|[[Club Olimpo|Olimpo]]
+|[[Bahía Blanca]]
+|[[Estadio Roberto Natalio Carminatti|Roberto Natalio Carminatti]]
+| 15&nbsp;000
+|-
+|[[Quilmes Atlético Club|Quilmes]]
+|[[Quilmes]]
+|[[Estadio Centenario Dr. José Luis Meiszner|Centenario Dr. José Luis Meiszner]]
+| 30&nbsp;200
+|-
+|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+|[[Ciudad de San Juan|San Juan]]
+|[[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]
+| 19&nbsp;500
+|-
+|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|[[San Miguel de Tucumán]]
+|[[Estadio La Ciudadela|La Ciudadela]]
+| 26&nbsp;500
+|-
+|[[Club Atlético Sarmiento (Junín)|Sarmiento]]
+|[[Junín (Buenos Aires)|Junín]]
+|[[Estadio Eva Perón|Eva Perón]]
+| 23&nbsp;000
+|-
+| [[Club Atlético Talleres (Córdoba)|Talleres]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+| 57&nbsp;000
+|-
+| [[Club Atlético Temperley|Temperley]]
+| [[Turdera]]
+| [[Estadio Alfredo Beranger|Alfredo Beranger]]
+| 26&nbsp;300 
+|}
+</center>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=220|Región
+! width=25|Cant.
+! width=480|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]||align=center|9|| align="center" |Almirante Brown, Arsenal, Chacarita Juniors, Deportivo Italiano, Deportivo Morón, Estudiantes (BA), Los Andes, Quilmes y Temperley
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]||align=center|4|| align="center" |All Boys, Argentinos Juniors, Atlanta y Nueva Chicago
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]||align=center|4|| align="center" |Aldosivi, Douglas Haig, Olimpo y Sarmiento de Junín
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|3|| align="center" |Belgrano, Instituto y Talleres
+|-
+|{{bandera|Santa Fe}} [[Provincia de Santa Fe]]||align=center|2|| align="center" |Atlético de Rafaela y Central Córdoba (R)
+|-
+|{{bandera|Salta}} [[Provincia de Salta]]|| align="center" |2|| align="center" |Gimnasia y Tiro y Juventud Antoniana
+|-
+|{{bandera|Tucumán}} [[Provincia de Tucumán]]||align=center|2|| align="center" |Atlético Tucumán y San Martín (T)
+|-
+|{{bandera|Chaco}} [[Provincia del Chaco]]|| align="center" |1|| align="center" |Chaco For Ever
+|-
+|{{bandera|Entre Ríos}} [[Provincia de Entre Ríos]]|| align="center" |1|| align="center" |Gimnasia y Esgrima (CdU)
+|-
+|{{bandera|Mendoza}} [[Provincia de Mendoza]]|| align="center" |1|| align="center" |Godoy Cruz
+|-
+|{{bandera|Río Negro}} [[Provincia de Río Negro]]|| align="center" |1|| align="center" |Cipolletti
+|-
+|{{bandera|San Juan}} [[Provincia de San Juan]]|| align="center" |1|| align="center" |San Martín (SJ)
+
+|}
+</center>
+
+== Formato ==
+=== Competición ===
+Los 32 equipos de la categoría fueron divididos en 4 zonas de 8 equipos, dos conformadas por equipos indirectamente afiliados y otras dos por directamente afiliados a la [[Asociación del Fútbol Argentino|AFA]].<ref>Las zonas de equipos indirectamente afiliados a la [[Asociación del Fútbol Argentino|AFA]] aparecen como Interior, mientras que las de los directamente afiliados aparecen como Metropolitana ya que, salvo excepciones, esa es la ubicación geográfica de cada una de las afiliaciones.</ref> Los equipos que finalizaban en los tres primeros lugares de cada zona, así como los dos mejores cuartos, ganadores de un partido desempate contra el equipo que había finalizado en dicha posición del otro grupo de su misma afiliación, clasificaban a la ''Zona Campeonato'', mientras que los demás equipos disputaron la ''Zona Permanencia'', también divididas según la afiliación de los equipos.
+
+=== Ascensos ===
+El ganador de la ''Zona Campeonato'' se consagró campeón y ascendió a la [[Campeonato de Primera División 1997-98 (Argentina)|Primera División]]. Por su parte, los equipos ubicados entre el segundo y el quinto puesto de dicha zona, así como los dos primeros de la ''Zona Permanencia'' disputaron un ''Torneo reducido'' por [[eliminación directa]]. El ganador ascendió junto con el campeón.
+
+=== Descensos ===
+Fueron definidos mediante una tabla de promedios determinados por el cociente entre los puntos obtenidos y los partidos jugados en las tres últimas temporadas de los equipos que participaron de la ''Zona Permanencia''. Había dos tablas, una por cada afiliación. Los equipos que ocuparon los dos últimos puestos de cada una de las tablas descendieron a la [[Tercera categoría del fútbol argentino|tercera categoría]], totalizando 4 descensos.
+
+==Fase Regular (Zona Metropolitana) y (Zona Interior)==
+La primera etapa del torneo fue dividido en cuatro zonas, dos de clubes indirectamente afiliados a [[Asociación del Fútbol Argentino|AFA]] ('''''Zona Interior''''') Zona A y B y, otras dos de equipos directamente afiliados ('''''Zona Metropolitana''''') Zona C y D, jugando dentro del mismo grupo todos contra todos, a partidos ida y vuelta, sumando dos encuentros interzonales (generalmente clásicos). Clasificaron los tres primeros equipos de cada grupo a la '''Fase ''Campeonato'''''. Los clubes que ocuparon el cuarto puesto disputaron entre sí un partido para clasificarse a la '''Fase ''Campeonato'''''.
+
+=== Zona A ===
+
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- style="background:#D0F0C0;"
+| '''1º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]||'''31'''||16||9||4||3||30||19||11
+|- style="background:#D0F0C0;"
+| '''2º'''||align="left"|[[Club Atlético San Martín de San Juan|San Martín (SJ)]]||'''28'''||16||8||4||4||27||17||10
+|- style="background:#D0F0C0;"
+| '''3º'''||align="left"|[[A. M. S. y D. Atlético de Rafaela|Atlético de Rafaela]]||'''28'''||16||8||4||4||27||21||6
+|- style="background:#FFFFCC;"
+| '''4º'''||align="left"|[[Club Olimpo|Olimpo]]||'''26'''||16||8||2||6||25||21||4
+|- style="background:#ffcccc"
+| '''5º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]||'''23'''||16||7||2||7||27||26||1
+|- style="background:#ffcccc"
+| '''6º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]||'''17'''||16||4||5||7||16||29||-13
+|- style="background:#ffcccc"
+| '''7º'''||align="left"|[[Centro Juventud Antoniana|Juventud Antoniana]]||'''16'''||16||3||7||6||21||25||-4
+|- style="background:#ffcccc"
+| '''8º'''||align="left"|[[Chaco For Ever]]||'''16'''||16||4||4||8||20||29||-9
+|-
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados a la Fase Campeonato.
+|-
+|bgcolor=#FFFFCC|
+|bgcolor=#FFFFFF align=left|<small>Jugó un desempate.
+|-
+|bgcolor=#ffcccc|
+|bgcolor=#ffffff align=left|<small>Relegados a la Fase Permanencia.
+|}
+</center>
+
+=== Zona B ===
+
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- style="background:#D0F0C0;"
+| '''1º'''||align="left"|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]||'''28'''||16||8||4||4||22||13||9
+|- style="background:#D0F0C0;"
+| '''2º'''||align="left"|[[Gimnasia y Tiro de Salta|Gimnasia y Tiro]]||'''26'''||16||7||5||4||23||19||4
+|- style="background:#D0F0C0;"
+| '''3º'''||align="left"|[[Club Atlético Talleres (Córdoba)|Talleres]]||'''26'''||16||7||5||4||28||19||9
+|- style="background:#FFFFCC;"
+| '''4º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]||'''22'''||16||6||4||6||21||19||2
+|- style="background:#ffcccc"
+| '''5º'''||align="left"|[[Club Atlético Tucumán|Atlético Tucumán]]||'''21'''||16||6||3||7||26||28||-2
+|- style="background:#ffcccc"
+| '''6º'''||align="left"|[[Club Cipolletti|Cipolletti]]||'''15'''||16||3||6||7||19||19||0
+|- style="background:#ffcccc"
+| '''7º'''||align="left"|[[Club Atlético Douglas Haig|Douglas Haig]]||'''13'''||16||2||7||7||15||28||-13
+|- style="background:#ffcccc"
+| '''8º'''||align="left"|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia (ER)]]||'''13'''||16||3||4||9||14||29||-15
+|-
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados a la Fase Campeonato.
+|-
+|bgcolor=#FFFFCC|
+|bgcolor=#FFFFFF align=left|<small>Jugó un desempate.
+|-
+|bgcolor=#ffcccc|
+|bgcolor=#ffffff align=left|<small>Relegados a la Fase Permanencia.
+|}
+</center>
+
+=== Zona C ===
+
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- style="background:#D0F0C0;"
+| '''1º'''||align="left"|[[Club Almagro|Almagro]]||'''27'''||16||7||6||3||20||13||7
+|- style="background:#D0F0C0;"
+| '''2º'''||align="left"|[[Quilmes Atlético Club|Quilmes]]||'''25'''||16||6||7||3||15||13||2
+|- style="background:#D0F0C0;"
+| '''3º'''||align="left"|[[Club Atlético All Boys|All Boys]]||'''24'''||16||6||6||4||24||21||3
+|- style="background:#FFFFCC;"
+| '''4º'''||align="left"|[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]||'''23'''||16||5||8||3||24||19||5
+|- style="background:#ffcccc"
+| '''5º'''||align="left"|[[Club Atlético Atlanta|Atlanta]]||'''22'''||16||4||10||2||24||20||4
+|- style="background:#ffcccc"
+| '''6º'''||align="left"|[[Arsenal de Sarandí|Arsenal]]||'''16'''||16||3||7||6||12||16||-4
+|- style="background:#ffcccc"
+| '''7º'''||align="left"|[[Club Almirante Brown|Almirante Brown]]||'''14'''||16||3||5||8||16||25||-9
+|- style="background:#ffcccc"
+| '''8º'''||align="left"|[[Club Atlético Temperley|Temperley]]||'''11'''||16||2||5||9||13||25||-12
+|-
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados a la Fase Campeonato.
+|-
+|bgcolor=#FFFFCC|
+|bgcolor=#FFFFFF align=left|<small>Jugó un desempate.
+|-
+|bgcolor=#ffcccc|
+|bgcolor=#ffffff align=left|<small>Relegados a la Fase Permanencia.
+|}
+</center>
+
+=== Zona D ===
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- style="background:#D0F0C0;"
+| '''1º'''||align="left"|[[Club Atlético Los Andes|Los Andes]] *||'''30'''||16||8||6||2||28||13||15
+|- style="background:#D0F0C0;"
+| '''2º'''||align="left"|[[Argentinos Juniors]]||'''28'''||16||7||7||2||27||20||7
+|- style="background:#D0F0C0;"
+| '''3º'''||align="left"|[[Club Deportivo Morón|Deportivo Morón]]||'''27'''||16||8||3||5||25||19||6
+|- style="background:#FFFFCC;"
+| '''4º'''||align="left"|[[Club Atlético Nueva Chicago|Nueva Chicago]]||'''26'''||16||7||5||4||25||16||9
+|- style="background:#ffcccc"
+| '''5º'''||align="left"|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]||'''22'''||16||5||7||4||25||21||4
+|- style="background:#ffcccc"
+| '''6º'''||align="left"|[[Club Sportivo Italiano|Deportivo Italiano]]||'''15'''||16||2||9||5||14||22||-8
+|- style="background:#ffcccc"
+| '''7º'''||align="left"|[[Club Atlético Sarmiento (Junín)|Sarmiento]]||'''12'''||16||2||6||8||15||29||-14
+|- style="background:#ffcccc"
+| '''8º'''||align="left"|[[Club Atlético Estudiantes|Estudiantes (BA)]]||'''10'''||16||1||7||8||7||22||-15
+|-
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados a la Zona Campeonato.
+|-
+|bgcolor=#FFFFCC|
+|bgcolor=#FFFFFF align=left|<small>Jugó un desempate.
+|-
+|bgcolor=#ffcccc|
+|bgcolor=#ffffff align=left|<small>Relegados a la Fase Permanencia.
+|}
+</center>
+
+=== Desempates ===
+
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo 1
+!width="75"|Resultado
+!width="150"|Equipo 2
+!width="170"|Estadio
+!width="75"|Fecha
+|-align=center
+|'''[[Club Olimpo|Olimpo]]
+|3 - 0
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|[[Estadio Centenario Dr. José Luis Meiszner|Quilmes]]
+|rowspan=2|3 de diciembre
+|-align=center
+|'''[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+|0<small>(4)</small> - 0<small>(3)</small>
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|[[Estadio Miguel Morales|Douglas Haig]]
+|}
+|}
+
+==Fase Campeonato==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!PGL
+!PEL
+!PPL
+!PGV
+!PEV
+!PPV
+!GF
+!GC
+!Dif
+|-style="background:#90EE90;"
+| 1||'''Argentinos Juniors'''||'''52'''||26||15||7||4||8||3||2||7||4||2||52||30||22
+|-style="background:#D0F0C0;"
+| 2||Talleres||'''50'''||26||14||8||4||9||2||2||5||6||2||47||23||24
+|-style="background:#D0F0C0;"
+| 3||Godoy Cruz||'''48'''||26||14||6||6||11||2||0||3||4||6||49||34||15
+|-style="background:#D0F0C0;"
+| 4||Gimnasia y Tiro||'''43'''||26||12||7||7||10||3||0||2||4||7||52||39||13
+|-style="background:#D0F0C0;"
+| 5||Belgrano||'''40'''||26||10||10||6||6||6||1||4||4||5||52||40||12
+|-
+| 6||Quilmes||'''40'''||26||12||4||10||9||1||3||3||3||7||45||34||11
+|-
+| 7||Los Andes||'''35'''||26||10||5||11||6||4||3||4||1||8||37||39||-2
+|-
+| 8||Central Córdoba (R)||'''31'''||26||9||4||13||8||2||3||1||2||10||32||52||-20
+|-
+| 9||Almagro||'''30'''||26||8||6||12||8||3||2||0||3||10||48||54||-6
+|-
+|10||Olimpo||'''28'''||26||7||7||12||6||2||5||1||5||7||41||46||-5
+|-
+|11||Atlético de Rafaela<ref group="n.">Se le descontaron 3 puntos.</ref>||'''27'''||26||7||9||10||5||5||3||2||4||7||39||47||-8
+|-
+|12||San Martín (SJ)<ref group="n.">Se le descontaron 4 puntos.</ref>||'''24'''||26||6||10||10||4||7||2||2||3||8||32||39||-7
+|-
+|13||All Boys||'''24'''||26||6||6||14||5||5||4||1||2||10||28||49||-21
+|-
+|14||Deportivo Morón||'''19'''||26||4||7||15||3||4||6||1||3||9||27||55||-28
+{{Tabla de posiciones fin
+ |color1=#90EE90| texto1=Campeón. Ascendió directamente a [[Primera División de Argentina|Primera División]].
+ |color2=#D0F0C0| texto2=Disputaron el ''Torneo Reducido'' por el segundo ascenso.
+}}
+</center>
+{|
+| <small>{{listaref|group="n."}}</small>
+|}
+
+==Fase Permanencia==
+===Zona Interior===
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!'''Pts'''
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|-style="background:#D0F0C0;"
+| 1||Chaco For Ever||'''29'''||16||9||2||5||26||16
+|10
+|-style="background:#D0F0C0;"
+| 2||Cipolletti||'''28'''||16||8||4||4||28||17
+|11
+|-
+| 3||Instituto||'''28'''||16||9||1||6||35||29
+|6
+|-
+| 4||Aldosivi||'''26'''||16||8||2||6||19||22
+| -3
+|-
+| 5||San Martín (T)||'''22'''||16||6||4||6||26||26
+|0
+|-
+| 6||Gimnasia (ER)||'''21'''||16||6||3||7||28||32
+| -4
+|-
+| 7||Douglas Haig||'''19'''||16||5||4||7||20||21
+| -1
+|-
+| 8||Juventud Antoniana||'''16'''||16||4||4||8||18||27
+| -9
+|-
+| 9||Atlético Tucumán||'''14'''||16||4||2||10||20||30
+| -10
+|-
+|}
+
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados al Torneo Reducido.
+|}
+</center>
+
+===Zona Metropolitana===
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!'''Pts'''
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|-style="background:#D0F0C0;"
+| 1||Nueva Chicago||'''30'''||16||9||3||4||31||20
+|11
+|-style="background:#D0F0C0;"
+| 2||Deportivo Italiano||'''30'''||16||8||6||2||19||15
+|4
+|-
+| 3||Almirante Brown||'''24'''||16||6||6||4||26||20
+|6
+|-
+| 4||Estudiantes (BA)||'''22'''||16||5||7||4||21||19
+|2
+|-
+| 5||Atlanta||'''22'''||16||5||7||4||17||15
+|2
+|-
+| 6||Chacarita Juniors||'''21'''||16||5||6||5||14||14
+|0
+|-
+| 7||Temperley||'''17'''||16||3||8||5||15||20
+| -5
+|-
+| 8||Arsenal||'''16'''||16||4||4||8||15||21
+| -6
+|-
+| 9||Sarmiento||'''10'''||16||3||1||12||11||25
+| -14
+|-
+|}
+
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados al Torneo Reducido.
+|}
+</center>
+
+==Segundo ascenso==
+El ''"Torneo Reducido"'' lo integraron los equipos del segundo al quinto puesto inclusive de la '''''Zona Campeonato''''' ([[Club Atlético Talleres (Córdoba)|Talleres]], [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]], [[Gimnasia y Tiro de Salta|Gimnasia y Tiro]] y [[Club Atlético Belgrano|Belgrano]]) y los clubes que ocuparon el primero y segundo puesto de '''''Zona Permanencia''''' del Interior ([[Chaco For Ever]] y [[Club Cipolletti|Cipolletti]]) y Metropolitana ([[Club Atlético Nueva Chicago|Nueva Chicago]] y [[Club Sportivo Italiano|Deportivo Italiano]]), disputando partidos de ida y vuelta a eliminación directa.
+
+El ganador fue [[Gimnasia y Tiro de Salta|Gimnasia y Tiro]], que venció por penales en la final a [[Club Atlético Talleres (Córdoba)|Talleres (Córdoba)]], y ascendió.
+<center>
+{{Copa de 8 equipos-2 rondas
+<!--Fechas-->
+| cuartos = 12/6 al 22/6
+| semifinal = 28/6 al 6/7
+| final = 12/7 y 19/7
+
+<!-- Cuartos de Final -->
+| RD1-equipo01 ={{bandera|Buenos Aires}} [[Club Atlético Nueva Chicago|Nueva Chicago]]
+| RD1-equipo02 = {{bandera|Córdoba (Argentina)}} '''[[Club Atlético Belgrano|Belgrano]]'''
+| RD1-goles01ida = 0
+| RD1-goles02ida = 2
+| RD1-goles01vuelta = 1
+| RD1-goles02vuelta = 3
+
+| RD1-equipo03 ={{bandera|Provincia del Chaco}} [[Chaco For Ever]]
+| RD1-equipo04 ={{bandera|Provincia de Salta}} '''[[Gimnasia y Tiro de Salta|Gimnasia y Tiro]]'''
+| RD1-goles03ida = 1
+| RD1-goles04ida = 1
+| RD1-goles03vuelta = 0
+| RD1-goles04vuelta = 2
+
+| RD1-equipo05 ={{bandera|Provincia de Buenos Aires}} '''[[Club Sportivo Italiano|Deportivo Italiano]]'''
+| RD1-equipo06 ={{bandera|Mendoza}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| RD1-goles05ida = 3
+| RD1-goles06ida = 0
+| RD1-goles05vuelta = 2
+| RD1-goles06vuelta = 0
+
+| RD1-equipo07 ={{bandera|Río Negro}} [[Club Cipolletti|Cipolletti]]
+| RD1-equipo08 ={{bandera|Córdoba (Argentina)}} '''[[Club Atlético Talleres (Córdoba)|Talleres]]'''
+| RD1-goles07ida = 2
+| RD1-goles08ida = 3
+| RD1-goles07vuelta = 2
+| RD1-goles08vuelta = 2
+
+<!-- Semifinales -->
+| RD2-equipo01 ={{bandera|Córdoba (Argentina)}} [[Club Atlético Belgrano|Belgrano]]
+| RD2-equipo02 ={{bandera|Provincia de Salta}} '''[[Gimnasia y Tiro de Salta|Gimnasia y Tiro]]'''
+| RD2-goles01ida = 2
+| RD2-goles02ida = 2
+| RD2-goles01vuelta = 1
+| RD2-goles02vuelta = 3
+
+| RD2-equipo03 ={{bandera|Provincia de Buenos Aires}} [[Club Sportivo Italiano|Deportivo Italiano]]
+| RD2-equipo04 ={{bandera|Córdoba (Argentina)}}  '''[[Club Atlético Talleres (Córdoba)|Talleres]]'''
+| RD2-goles03ida = 0
+| RD2-goles04ida = 0
+| RD2-goles03vuelta = 0
+| RD2-goles04vuelta = 2
+
+<!-- Final -->
+| RD3-equipo01 ={{bandera|Provincia de Salta}} '''[[Gimnasia y Tiro de Salta|Gimnasia y Tiro]] <small>([[Lanzamientos de penalti|p]])</small>'''
+| RD3-equipo02 ={{bandera|Córdoba (Argentina)}} [[Club Atlético Talleres (Córdoba)|Talleres]]
+| RD3-goles01ida = 1
+| RD3-goles02ida = 0
+| RD3-goles01vuelta = 0<small>(3)</small>
+| RD3-goles02vuelta = 1<small>(1)</small>
+
+}}
+
+<small>''El equipo situado arriba es local en el partido de ida.''</small>
+</center>
+
+== Tabla de descenso ==
+Fueron contabilizadas la presente temporada y las dos anteriores con la particularidad de que, si bien a partir del campeonato previo los partidos ganados comenzaron a valer tres puntos, en esta tabla se continuaron contabilizando como dos para equiparar con el torneo 1994-95.
+
+=== Interior ===
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! Prom
+![[Campeonato Nacional B 1994-95|1994/95]]
+![[Campeonato Nacional B 1995-96|1995/96]]
+! 1996/97
+! Total
+! PJ
+|-
+||'''1.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||'''1,086'''||43||48||35||126
+|116
+|-
+||'''2.º'''||align="left"|[[Club Atlético Douglas Haig|Douglas Haig]]
+||'''1,017'''||45||48||25||118
+|116
+|-
+||'''3.º'''||align="left"|[[Club Atlético Chaco For Ever|Chaco For Ever]]
+||'''1,000'''||-||-||32||32
+|32
+|-
+||'''4.º'''||align="left"|[[Club Cipolletti|Cipolletti]]
+||'''1,000'''||-||-||32||32
+|32
+|-
+||'''5.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín de Tucumán]]
+||'''0,974'''||48||33||32||113
+|116
+|-
+||'''6.º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]
+||'''0,968'''||-||-||31||31
+|32
+|-
+||'''7.º'''||align="left"|[[Club Atlético Tucumán|Atlético Tucumán]]
+||'''0,913'''||32||49||25||106
+|116
+|- style="background: #FFCCCC;"
+||'''8.º'''||align="left"|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+||'''0,781'''||-||-||25||25
+|32
+|- style="background: #FFCCCC;"
+||'''9.º'''||align="left"|[[Centro Juventud Antoniana|Juventud Antoniana]]
+||'''0,781'''||-||-||25||25
+|32
+|}
+{| align=center style="font-size: 90%; border-collapse:collapse" border=0 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+| style="background: #FFCCCC;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Descendieron al [[Torneo Argentino A 1997-98|Torneo Argentino A]].
+|}
+</center>
+
+=== Metropolitana ===
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! Prom
+![[Campeonato Nacional B 1994-95|1994/95]]
+![[Campeonato Nacional B 1995-96|1995/96]]
+! 1996/97
+! Total
+! PJ
+|-
+||'''1.º'''||align="left"|[[Club Sportivo Italiano (Argentina)|Deportivo Italiano]]
+||'''1,093'''||-||-||35||35||32
+|-
+||'''2.º'''||align="left"|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+||'''1,034'''||41||39||40||120||116
+|-
+||'''3.º'''||align="left"|[[Club Atlético Atlanta|Atlanta]]
+||'''1,027'''||-||41||35||76||74
+|-
+||'''4.º'''||align="left"|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+||'''0,965'''||40||39||33||112||116
+|-
+||'''5.º'''||align="left"|[[Club Almirante Brown|Almirante Brown]]
+||'''0,913'''||39||38||29||106||116
+|-
+||'''6.º'''||align="left"|[[Arsenal Fútbol Club|Arsenal]]
+||'''0,818'''||36||34||25||95||116
+|-
+||'''7.º'''||align="left"|[[Club Atlético Estudiantes|Estudiantes (BA)]]
+||'''0,812'''||-||-||26||26||32
+|- style="background: #FFCCCC;"
+||'''8.º'''||align="left"|[[Club Atlético Temperley|Temperley]]
+||'''0,718'''||-||-||23||23||32
+|- style="background: #FFCCCC;"
+||'''9.º'''||align="left"|[[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]]
+||'''0,531'''||-||-||17||17||32
+|}
+{| align=center style="font-size: 90%; border-collapse:collapse" border=0 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+| style="background: #FFCCCC;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Descendieron a la [[Campeonato de Primera B 1997-98 (Argentina)|Primera B Metropolitana]].
+|}
+</center>
+
+=== Descensos ===
+Hubo cuatro descensos, divididos en dos de los equipos directamente afiliados a la [[AFA]] (Metropolitana) y otros dos indirectamente afiliados (Interior). Así, descendieron por peor promedio en las últimas tres temporadas en la zona Metropolitana [[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]] y [[Club Atlético Temperley|Temperley]] y en la zona del Interior [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima de Concepción del Uruguay]] y [[Centro Juventud Antoniana|Juventud Antoniana]].
+
+== Temporadas disputadas ==
+<center>
+{| align=center class="wikitable collapsible collapsed" width=60% border=1 cellpadding="2" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%; text-align: center;"
+|- align=center bgcolor=#C0C0C0 
+!colspan=4 width=100%|Campeonatos disputados
+|- align=center bgcolor=#F8F8FF
+|width=20%|[[Torneo Nacional B 1986/87|Campeonato 1986/87]]
+|width=20%|'''Campeonato 1996-97'''
+|width=20%|[[Torneo Primera B Nacional 2006/07|Campeonato 2006/07]]
+|width=20%|[[Primera B Nacional 2016|Campeonato 2016]]
+|- align=center bgcolor=#FFFFFF
+|[[Torneo Nacional B 1987/88|Campeonato 1987/88]]
+|[[Torneo Primera B Nacional 1997/98|Campeonato 1997/98]]
+|[[Primera B Nacional 2007/08|Campeonato 2007/08]]
+|[[Primera B Nacional 2016-17|Campeonato 2016/17]]
+|- align=center bgcolor=#F8F8FF
+|[[Torneo Nacional B 1988/89|Campeonato 1988/89]]
+|[[Torneo Primera B Nacional 1998/99|Campeonato 1998/99]]
+|[[Primera B Nacional 2008/09|Campeonato 2008/09]]
+|[[Primera B Nacional 2017-18|Campeonato 2017/18]]
+|- align=center bgcolor=#FFFFFF
+|[[Torneo Nacional B 1989/90|Campeonato 1989/90]]
+|[[Torneo Primera B Nacional 1999/00|Campeonato 1999/00]]
+|[[Primera B Nacional 2009/10|Campeonato 2009/10]]
+|[[Primera B Nacional 2018-19|Campeonato 2018/19]]
+|- align=center bgcolor=#F8F8FF
+|[[Torneo Nacional B 1990/91|Campeonato 1990/91]]
+|[[Torneo Primera B Nacional 2000/01|Campeonato 2000/01]]
+|[[Primera B Nacional 2010/11|Campeonato 2010/11]]
+|[[Primera B Nacional 2019-20|Campeonato 2019/20]]
+|- align=center bgcolor=#FFFFFF
+|[[Torneo Nacional B 1991/92|Campeonato 1991/92]]
+|[[Torneo Primera B Nacional 2001/02|Campeonato 2001/02]]
+|[[Primera B Nacional 2011/12|Campeonato 2011/12]]
+|- align=center bgcolor=#F8F8FF
+|[[Torneo Nacional B 1992/93|Campeonato 1992/93]]
+|[[Torneo Primera B Nacional 2002/03|Campeonato 2002/03]]
+|[[Primera B Nacional 2012/13|Campeonato 2012/13]]
+|- align=center bgcolor=#FFFFFF
+|[[Torneo Nacional B 1993/94|Campeonato 1993/94]]
+|[[Torneo Primera B Nacional 2003/04|Campeonato 2003/04]]
+|[[Primera B Nacional 2013/14|Campeonato 2013/14]]
+|- align=center bgcolor=#F8F8FF
+|[[Torneo Nacional B 1994/95|Campeonato 1994/95]]
+|[[Torneo Primera B Nacional 2004/05|Campeonato 2004/05]]
+|[[Primera B Nacional 2014|Campeonato 2014]]
+|- align=center bgcolor=#FFFFFF
+|[[Torneo Nacional B 1995/96|Campeonato 1995/96]]
+|[[Torneo Primera B Nacional 2005/06|Campeonato 2005/06]]
+|[[Primera B Nacional 2015|Campeonato 2015]]
+|}
+</center>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+*[http://www.rsssf.com/tablesa/arg2-97.html RSSSF]
+
+{{Sucesión
+|título= XI Torneo de [[Primera B Nacional]]
+|período= 1996/97  
+|predecesor= [[Torneo Nacional B 1995/96|Nacional B 1995-96]]
+|sucesor= [[Torneo Primera B Nacional 1997/98|Primera B Nacional 1997-98]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Fútbol en 1996]]
+[[Categoría:Fútbol en 1997]]
+[[Categoría:Fútbol en Argentina en 1996]]
+[[Categoría:Fútbol en Argentina en 1997]]
+[[Categoría:Primera B Nacional|1996/97]]
+[[Categoría:Torneos regulares de fútbol en la era profesional de la Segunda División de Argentina]]

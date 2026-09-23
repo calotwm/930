@@ -1,0 +1,1116 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Estudiantes_Formación_1969.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[Club Estudiantes de La Plata]], de Argentina, se consagró campeón de la [[Copa Libertadores de América]] por 2.ª vez
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 17 de 9 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|31|1|1969}}
+| fecha de cierre = {{fecha2|21|5|1969}}
+| edición = X
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG|alt}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]''' <small>(2.º título)</small>
+| subcampeón = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| semifinalistas = {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 74
+| goles = 211 (2,85 por partido)
+| anterior = [[Copa Libertadores 1968]]
+| actual = Copa Libertadores 1969
+| siguiente = [[Copa Libertadores 1970]]
+|goleadores={{bandera|URU}} [[Alberto Ferrero]] (8 goles)<br><small>([[Club de Deportes Santiago Wanderers|Santiago Wanderers]])</small><br>{{bandera|PER}} [[Miguel Loayza]] (8 goles)<br><small>([[Deportivo Cali]])<br>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1969''' fue la décima edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de nueve países sudamericanos: [[Argentina]], [[Bolivia]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. Esta edición tuvo la particularidad de ser la única en la historia en la que las asociaciones de [[Argentina]] y [[Brasil]]<ref>[http://www.rsssfbrasil.com/miscellaneous/brpartlib.htm Participación de clubes brasileños en la Copa Libertadores] según RSSSF.com</ref> no enviaron representantes de sus respectivas ligas, aunque [[Club Estudiantes de La Plata|Estudiantes]] sí participó del certamen en su derecho de campeón defensor.
+
+El campeón fue nuevamente Estudiantes, que cosechó de esta manera su segundo título en la competición, siendo este el primero que logró de manera invicta. Por ello, disputó la [[Copa Intercontinental 1969]] ante [[Associazione Calcio Milan|Milan]] de [[Italia]] y se clasificó directamente a las semifinales de la [[Copa Libertadores 1970]].
+
+== Puntaje perfecto ==
+A través de un ranking, en el año 2023, la [[Confederación Sudamericana de Fútbol|Conmebol]] dio a conocer la tasa de efectividad que logró cada campeón de la Copa Libertadores desde la primera edición hasta la última. En este contexto, Estudiantes de La Plata se posicionó como el único club que logró hacerlo con puntaje perfecto.<ref>{{Cita web|url=https://www.ole.com.ar/estudiantes/estudiantes-river-boca-sanlorenzo-independiente-racing-argentinos-copa-libertadores-efectividad_0_LjoxSLSNOW.html |título=Estudiantes es el único equipo que ganó la Copa Libertadores con una efectividad perfecta |fecha=2023-12-11 |sitioweb=www.ole.com.ar |idioma=es}}</ref><ref>{{Cita web|url=https://twitter.com/Libertadores/status/1421946339345174532?lang=es |título=La eficacia de todos los campeones de la historia de la CONMEBOL |fecha=2021-08-01 |sitioweb=www.twitter.com |idioma=es}}</ref>
+
+== Formato ==
+El campeón vigente accedió de manera directa a las semifinales, mientras que los 16 equipos restantes iniciaron la competición desde la primera fase. En ella, los clubes fueron divididos en cuatro grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. Los dos primeros de cada grupo clasificaron a la segunda fase, en donde se establecieron tres nuevas zonas, dos de 3 equipos y una conformada por 2 equipos, y desde donde se determinaron los 3 clasificados a las semifinales, que se unieron al campeón vigente.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(16 equipos)
+|
+* 2 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(8 equipos)
+|
+|
+* 8 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Fases finales
+(4 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1968
+|
+* 3 equipos primeros de la Segunda fase
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| class="wikitable" style="font-size:85%" width="100%" border="1"
+|-
+! width="25%" |País
+! width="23%" |Equipo
+! width="62%" |Vía de clasificación
+|-
+|{{bandera|Argentina|alt}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br />Campeón vigente
+|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|Campeón de la [[Copa Libertadores 1968]]
+|-
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br />2 cupos
+| [[Club Bolívar|Bolívar]]<br /> ''[[Club Deportivo Litoral (Cochabamba)|Litoral]]''
+|Campeón del [[Campeonato de Primera División 1968 (Bolivia)|Campeonato de Primera División 1968]]<br />Subcampeón del Campeonato de Primera División 1968
+|-
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br />2 cupos
+| ''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]''<br /> [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Campeón del [[Primera División de Chile 1968|Campeonato de Primera División 1968]]<br />Ganador de la [[Definición Pre-Libertadores (Chile) 1968|Definición Pre-Libertadores 1968]]
+|-
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br />2 cupos
+|''[[Unión Magdalena]]''<br />[[Deportivo Cali]]
+|Campeón del [[Campeonato colombiano 1968|Campeonato Colombiano 1968]]<br />Subcampeón del Campeonato Colombiano 1968
+|-
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br />2 cupos
+|[[Sociedad Deportivo Quito|Deportivo Quito]]<br /> [[Barcelona Sporting Club|Barcelona]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1968|Campeonato Ecuatoriano de 1968]]<br />Subcampeón del Campeonato Ecuatoriano de 1968
+|-
+|{{bandera|Paraguay|1954}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br />2 cupos
+|[[Club Olimpia|Olimpia]]<br />[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1968|Campeonato Paraguayo de 1968]]<br />Subcampeón del Campeonato Paraguayo de  1968
+|-
+|{{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br />2 cupos
+|[[Club Sporting Cristal|Sporting Cristal]]<br />''[[Club Juan Aurich|Juan Aurich]]''
+|Campeón del [[Campeonato Descentralizado 1968]]<br />Subcampeón del Campeonato Descentralizado 1968
+|-
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br />2 cupos
+|[[Club Atlético Peñarol|Peñarol]]<br />[[Club Nacional de Football|Nacional]]
+|Campeón del [[Campeonato Uruguayo de Primera División 1968|Campeonato Uruguayo de 1968]]<br />Subcampeón del Campeonato Uruguayo de 1968
+|-
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br />2 cupos
+|''[[Unión Deportiva Canarias|Deportivo Canarias]]''<br />[[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|Campeón de la [[Primera División Venezolana 1968]]<br />Subcampeón de la Primera División Venezolana 1968
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=650|caption=Localización de los equipos de la '''Copa Libertadores de América 1969'''|AlternativeMap =Equipos participantes Copa Libertadores de América 1969-70.png|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-40.199722|long=-43.999944|label=<small>[[Club Estudiantes de La Plata|<span style="color: #FFFFFF">Estudiantes LP</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-39.1|long=-50|label=<small>{{bandera|ARG|alt}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-25.09|long=-54.15|label=<small>[[Club Deportivo Litoral (Cochabamba)|<span style="color: #FFFFFF">Litoral</span>]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-24.12|long=-55.8|label=<small>[[Club Bolívar|<span style="color: #FFFFFF">Bolívar</span>]]</small><br />|position=right}}
+{{Location map~|América del Sur|lat=-22.55|long=-55.92|label=<small>{{Bandera|Bolivia}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-39.78|long=-54.676667|label=<small>[[Club Deportivo Universidad Católica (fútbol)|<span style="color: #b5933a">Univ. Católica</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-38.9|long=-55.75|label=<small>[[Club de Deportes Santiago Wanderers|<span style="color: #b5933a">Sa</span><span style="color: #FFFFFF">ntiago</span> <span style="color: #b5933a">Wan</span><span style="color: #FFFFFF">derers</span>]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-35.95|long=-57.55|label=<small>{{Bandera|Chile}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=1.05|long=-60.7|label=<small>[[Unión Magdalena|<span style="color: #FFFFFF">Unión Magdalena</span>]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-5.8|long=-62.3|label=<small>{{Bandera|Colombia}}<br />[[Deportivo Cali|<span style="color: #FFFFFF">Deportivo Cali</span>]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-10.8|long=-65.2|label=<small>{{Bandera|Ecuador|1900}}<br />[[Barcelona Sporting Club|<span style="color: #b5933a">Barcelona</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-9.45|long=-64.375|label=<small>[[Sociedad Deportivo Quito|<span style="color: #b5933a">Deportivo Quit</span><span style="color: #FFFFFF">o</span>]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-31.9|long=-46.3|label=<small>[[Club Cerro Porteño|<span style="color: #FFFFFF">Cerro Porteño</span>]]<br />[[Club Olimpia|<span style="color: #FFFFFF">Olimpia</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-30.7|long=-50.05|label=<small>{{Bandera|Paraguay|1954}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-20.1|long=-62.7|label=<small>[[Club Sporting Cristal|<span style="color: #FFFFFF">Sporting Cristal</span>]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-15.35|long=-64.8|label=<small>[[Club Juan Aurich|<span style="color: #b5933a">Juan Aurich</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-18.55|long=-62.9|label=<small>{{Bandera|Perú}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-40.081944|long=-41.966667|label=<small>[[Club Nacional de Football|<span style="color: #FFFFFF">N</span><span style="color: #b5933a">acional</span>]]<br />[[Club Atlético Peñarol|<span style="color: #b5933a">Peñarol</span>]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-38.7|long=-42.62|label=<small>{{Bandera|Uruguay}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=0.65|long=-56.12|label=<small>{{Bandera|Venezuela|1954}}<br />[[Unión Deportiva Canarias|<span style="color: #FFFFFF">Dep. Can</span><span style="color: #b5933a">arias</span>]]<br />[[Deportivo Italia Fútbol Club|<span style="color: #FFFFFF">Deportivo Ital</span><span style="color: #b5933a">ia</span>]]</small>|position=right}}
+}}
+
+== Primera fase ==
+[[Club Estudiantes de La Plata|Estudiantes de La Plata]], como campeón de la [[Copa Libertadores 1968]], inició su participación desde las fases finales. Los otros 16 equipos participantes disputaron la primera fase, distribuyéndose en 4 grupos, separados de acuerdo a sus países de origen, donde se enfrentaron todos contra todos. Los dos primeros de cada grupo pasaron a la segunda fase.
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[Deportivo Cali]]'''
+|'''8'''||6||3||2||1||12||6||6
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|VEN|1954}} '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|'''7'''||6||3||1||2||7||8||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Unión Magdalena]]
+|'''5'''||6||2||1||3||7||8||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Unión Deportiva Canarias|Deportivo Canarias]]
+|'''4'''||6||1||2||3||3||7||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|23 de febrero
+|[[Santa Marta (Colombia)|Santa Marta]]
+| align=right| [[Unión Magdalena]]
+|'''2:2'''
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de febrero
+|[[Caracas]]
+| align=right| '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|2:0
+| align=left| [[Unión Deportiva Canarias|Deportivo Canarias]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Caracas]]
+| align=right| [[Unión Deportiva Canarias|Deportivo Canarias]]
+|'''1:1'''
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#f8f3ed
+|1 de marzo
+|[[Caracas]]
+| align=right| '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|2:1
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de marzo
+|[[Caracas]]
+| align=right| '''[[Unión Deportiva Canarias|Deportivo Canarias]]'''
+|1:0
+| align=left| [[Unión Magdalena]]
+
+|- align=center bgcolor=#f8f3ed
+|5 de marzo
+|[[Caracas]]
+| align=right| '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|2:0
+| align=left| [[Unión Magdalena]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Caracas]]
+| align=right| [[Unión Deportiva Canarias|Deportivo Canarias]]
+|'''1:1'''
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Cali]]
+| align=right| '''[[Deportivo Cali]]'''
+|3:1
+| align=left| [[Unión Magdalena]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Cali]]
+| align=right| '''[[Deportivo Cali]]'''
+|3:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Santa Marta (Colombia)|Santa Marta]]
+| align=right| '''[[Unión Magdalena]]'''
+|1:0
+| align=left| [[Unión Deportiva Canarias|Deportivo Canarias]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de marzo
+|[[Santa Marta (Colombia)|Santa Marta]]
+| align=right| '''[[Unión Magdalena]]'''
+|3:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de marzo
+|[[Cali]]
+| align=right| '''[[Deportivo Cali]]'''
+|2:0
+| align=left| [[Unión Deportiva Canarias|Deportivo Canarias]]
+|}
+|}
+
+=== Grupo 2 ===
+{{AP|Anexo:Grupo 2 de la Copa Libertadores 1969|l1=Grupo 2 de la Copa Libertadores 1969}}
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|'''6'''||6||3||0||3||13||10||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|'''6'''||6||2||2||2||11||11||0
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''6'''||6||3||0||3||12||13||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} '''[[Club Juan Aurich|Juan Aurich]]'''
+|'''6'''||6||2||2||2||13||15||–2
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Lima]]
+| align=right| [[Club Sporting Cristal|Sporting Cristal]]
+|'''3:3'''
+| align=left| [[Club Juan Aurich|Juan Aurich]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|1:3
+| align=left| '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+
+|- align=center bgcolor=#f8f3ed
+|1 de marzo
+|[[Lima]]
+| align=right| [[Club Juan Aurich|Juan Aurich]]
+|2:4
+| align=left| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#f8f3ed
+|1 de marzo
+|[[Lima]]
+| align=right| '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|2:1
+| align=left| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#f8f3ed
+|3 de marzo
+|[[Lima]]
+| align=right| '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|2:0
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#f8f3ed
+|3 de marzo
+|[[Lima]]
+| align=right| '''[[Club Juan Aurich|Juan Aurich]]'''
+|3:1
+| align=left| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#f8f3ed
+|6 de marzo
+|[[Lima]]
+| align=right| [[Club Juan Aurich|Juan Aurich]]
+|'''2:2'''
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#f8f3ed
+|6 de marzo
+|[[Viña del Mar]]
+| align=right| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|2:3
+| align=left| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#f8f3ed
+|11 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|1:2
+| align=left| '''[[Club Juan Aurich|Juan Aurich]]'''
+
+|- align=center bgcolor=#f8f3ed
+|11 de marzo
+|[[Valparaíso]]
+| align=right| '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|2:0
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|3:2
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Valparaíso]]
+| align=right| '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|4:1
+| align=left| [[Club Juan Aurich|Juan Aurich]]
+|}
+|}
+
+'''Serie de desempate'''
+
+Al quedar los cuatro equipos empatados en puntaje, debieron disputar una serie de desempate en donde cada uno jugó un partido como local y otro como visitante.
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''4'''||2||2||0||0||6||2||4
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|'''3'''||2||1||1||0||2||1||1
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''1'''||2||0||1||1||2||3||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Juan Aurich|Juan Aurich]]
+|'''0'''||2||0||0||2||1||5||–4
+|}
+<br>
+
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''1:1'''
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|4:1
+| align=left| [[Club Juan Aurich|Juan Aurich]]
+
+|- align=center bgcolor=#f8f3ed
+|20 de marzo
+|[[Lima]]
+| align=right| [[Club Sporting Cristal|Sporting Cristal]]
+|1:2
+| align=left| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#f8f3ed
+|20 de marzo
+|[[Lima]]
+| align=right| [[Club Juan Aurich|Juan Aurich]]
+|0:1
+| align=left| '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|PAR|1954}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''9'''||6||4||1||1||15||5||10
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|PAR|1954}} '''[[Club Olimpia|Olimpia]]'''
+|'''7'''||6||3||1||2||12||7||5
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''7'''||6||2||3||1||6||8||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+|'''1'''||6||0||1||5||1||14||–13
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|31 de enero
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|4:1
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|1:0
+| align=left| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de febrero
+|[[Cochabamba]]
+| align=right| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+|0:3
+| align=left| '''[[Club Olimpia|Olimpia]]'''
+
+|- align=center bgcolor=#f8f3ed
+|9 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|2:1
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de febrero
+|[[Cochabamba]]
+| align=right| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+|0:1
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#f8f3ed
+|13 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#f8f3ed
+|22 de febrero
+|[[Cochabamba]]
+| align=right| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+|'''1:1'''
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de febrero
+|[[Asunción]]
+| align=right| [[Club Olimpia|Olimpia]]
+|1:2
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#f8f3ed
+|2 de marzo
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''1:1'''
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+|4:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|6:0
+| align=left| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+|2:0
+| align=left| [[Club Deportivo Litoral (Cochabamba)|Litoral]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|18 de marzo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align=right|'''[[Club Olimpia|Olimpia]]'''
+|2:1 ([[Prórroga|t.s.]])
+|align=left|[[Club Bolívar|Bolívar]]
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''9'''||6||3||3||0||16||8||8
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|'''8'''||6||2||4||0||10||4||6
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''5'''||6||1||3||2||4||10||–6
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''2'''||6||0||2||4||3||11||–8
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|23 de febrero
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|23 de febrero
+|[[Quito]]
+| align=right| '''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|1:0
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Quito]]
+| align=right| [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''0:0'''
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de febrero
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|0:2
+| align=left| '''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#f8f3ed
+|2 de marzo
+|[[Quito]]
+| align=right| [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''1:1'''
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de marzo
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|'''1:1'''
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|'''2:2'''
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de marzo
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|'''0:0'''
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#f8f3ed
+|12 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|5:2
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|2:0
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|15 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|5:2
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de marzo
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|4:0
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+|}
+|}
+
+== Segunda fase ==
+Los 8 clasificados de la primera fase se separaron en 3 nuevos grupos, 2 de ellos conformados por 3 equipos, y otro por solo 2, donde volvieron a enfrentarse bajo el mismo sistema de la instancia anterior. El primero de cada zona avanzó a las semifinales.
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''5'''||4||2||1||1||7||3||4
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''4'''||4||1||2||1||1||1||0
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|'''3'''||4||1||1||2||3||7||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|27 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|'''0:0'''
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|31 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|1:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|4 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|4:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#f8f3ed
+|8 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|1:0
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#f8f3ed
+|15 de abril
+|[[Caracas]]
+| align=right| '''[[Deportivo Italia Fútbol Club|Deportivo Italia]]'''
+|3:2
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#f8f3ed
+|18 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|}
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|'''7'''||4||3||1||0||10||2||8
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Deportivo Cali]]
+|'''3'''||4||1||1||2||9||11||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''2'''||4||0||2||2||5||11||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|27 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''1:1'''
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#f8f3ed
+|2 de abril
+|[[Cali]]
+| align=right| [[Deportivo Cali]]
+|1:5
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#f8f3ed
+|6 de abril
+|[[Cali]]
+| align=right| '''[[Deportivo Cali]]'''
+|5:1
+| align=left| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#f8f3ed
+|9 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|2:0
+| align=left| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#f8f3ed
+|13 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Nacional de Football|Nacional]]'''
+|2:0
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#f8f3ed
+|16 de abril
+|[[Valparaíso]]
+| align=right| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''3:3'''
+| align=left| [[Deportivo Cali]]
+|}
+|}
+
+=== Grupo C ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''3'''||2||1||1||0||2||1||1
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+|'''1'''||2||0||1||1||1||2||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|30 de marzo
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#f8f3ed
+|7 de abril
+|[[Asunción]]
+| align=right| [[Club Olimpia|Olimpia]]
+|0:1
+| align=left| '''[[Club Atlético Peñarol|Peñarol]]'''
+|}
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por dos etapas: semifinales y final. A los tres clasificados de la segunda fase se les sumó [[Club Estudiantes de La Plata|Estudiantes de La Plata]] de Argentina, campeón de la [[Copa Libertadores 1968]]. En caso de que dos de los participantes pertenecieran a un mismo país, ambos debieron enfrentarse en las semifinales, a fin de evitar que pudieran encontrarse en la final.
+=== Cuadro de desarrollo ===
+<center>
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!--Semifinales-->
+| RD1= Semifinales
+| RD1-date= 26 de abril al 7 de mayo
+
+<!--Llave 1-->
+| RD1-team1= {{Bandera|ARG|alt}} '''Estudiantes (LP)'''
+| RD1-score1-1= '''3'''
+| RD1-score1-2= '''3'''
+| RD1-score1-3= '''-'''
+
+| RD1-team2= {{Bandera|CHI}} Universidad Católica
+| RD1-score2-1= 1
+| RD1-score2-2= 1
+| RD1-score2-3= -
+
+<!--Llave 2-->
+| RD1-team3= {{Bandera|URU}} Peñarol
+| RD1-score3-1= 0
+| RD1-score3-2= 1
+| RD1-score3-3= 0
+
+| RD1-team4= {{Bandera|URU}} '''Nacional''' <small>([[Diferencia de goles|d.g.]])</small>
+| RD1-score4-1= '''2'''
+| RD1-score4-2= '''0'''
+| RD1-score4-3= '''0'''
+
+<!--Final-->
+| RD2= [[Anexo:Final de la Copa Libertadores 1969|Final]]
+| RD2-date= 15 y 21 de mayo
+
+| RD2-team1= {{Bandera|ARG|alt}} '''Estudiantes (LP)'''
+| RD2-score1-1= '''1'''
+| RD2-score1-2= '''2'''
+
+| RD2-team2= {{Bandera|URU}} Nacional
+| RD2-score2-1= 0
+| RD2-score2-2= 0
+}}
+</center>
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Semifinales ===
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 1:3''' (1:2)
+|visita          = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 1 de mayo de 1969
+|hora            = 
+|estadio         = [[Estadio Nacional Julio Martínez Prádanos|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 58&nbsp;346
+|árbitro         = {{árbitro|COL|Guillermo Velásquez Ramírez}} 
+|goleslocal      = [[Juan Carlos Sarnari|Sarnari]] {{gol|34}}
+|golesvisita     = [[Marcos Conigliaro|Conigliaro]] {{gol|6}}<br>[[Christian Rudzki|Rudzki]] {{gol|37}}<br>[[Néstor Togneri|Togneri]] {{gol|54}}
+}}
+{{Partido
+|local           = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 3:1''' (3:1)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 7 de mayo de 1969
+|hora            = 
+|estadio         = [[Estadio Jorge Luis Hirschi|Estadio Estudiantes (LP)]]
+|ciudad          = [[La Plata]]
+|asistencia      = 50&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}}
+|goleslocal      = [[Juan Ramón Verón|Verón]] {{gol|7}}<br>[[Eduardo Flores|Flores]] {{gol|13}}<br>[[Leopoldo Vallejos|Vallejos]] {{gol|39|a.g.}}
+|golesvisita     = [[Sergio Messen|Messen]] {{gol|12}}
+}}
+<br>
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 26 de abril de 1969
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 61&nbsp;262
+|árbitro         = {{árbitro|URU|Alberto Boullosa}} 
+|goleslocal      = [[Ildo Maneiro|Maneiro]] {{gol|15}}<br>[[Juan Martín Mugica|Mugica]] {{gol|41}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 30 de abril de 1969
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 61&nbsp;449
+|árbitro         = {{árbitro|URU|Alejandro Félix Otero|Alejandro Otero}} 
+|goleslocal      = [[Alberto Spencer|Spencer]] {{gol|27}}
+|golesvisita     = 
+}}
+
+'''Partido desempate'''
+
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 0:0'''&thinsp;
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 4 de mayo de 1969
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 63&nbsp;586
+|árbitro         = {{árbitro|URU|Ramón Barreto}} 
+|goleslocal      = 
+|golesvisita     = 
+|prórroga        = sí
+|suceso          = [[Club Nacional de Football|Nacional]] clasificó a la final por tener mejor diferencia de goles en el global de los tres partidos.
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1969|l1=Final de la Copa Libertadores 1969}}
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 0:1''' (0:0)
+|visita          = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 15 de mayo de 1969
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 65&nbsp;000
+|árbitro         = {{árbitro|CHI|Domingo Massaro}} 
+|goleslocal      = 
+|golesvisita     = [[Eduardo Flores|Flores]] {{gol|66}}
+|competición=Ida}}
+{{Partido
+|local           = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 21 de mayo de 1969
+|hora            = 
+|estadio         = [[Estadio Jorge Luis Hirschi|Estadio Estudiantes (LP)]]
+|ciudad          = [[La Plata]]
+|asistencia      = 55&nbsp;000
+|árbitro         = {{árbitro|COL|Omar Delgado}} 
+|goleslocal      = [[Eduardo Flores|Flores]] {{gol|32}}<br>[[Marcos Conigliaro|Conigliaro]] {{gol|38}}
+|golesvisita     = 
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|imagen = Flag of Argentina (civil).svg
+|orden = 2
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#f8f3ed; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#b5933a"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="#ebdcc7"
+| {{bandera|URU}} '''[[Alberto Ferrero]]''' 
+| {{bandera|CHI}} '''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]''' 
+| align=center|'''8'''
+|- bgcolor="#ebdcc7"
+| {{bandera|PER}} '''[[Miguel Loayza]]'''
+| {{bandera|COL}} '''[[Deportivo Cali]]'''
+| align="center" |'''8'''
+|-
+| {{bandera|ARG|alt}} [[Néstor Isella]] 
+| {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] 
+| align=center|7
+|-
+| {{bandera|ARG|alt}} [[Ermindo Onega]] 
+| {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]] 
+| align=center|6
+|-
+| {{bandera|CHI}} [[Ignacio Prieto]] 
+| {{bandera|URU}} [[Club Nacional de Football|Nacional]] 
+| align=center|6
+|-
+| {{bandera|BRA|1968}} [[Iroldo Rodrígues de Oliveira|Iroldo]]
+| {{bandera|COL}} [[Deportivo Cali]] 
+| align=center|6
+|-
+| {{bandera|CHI}} [[Sergio Messen]] 
+| {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] 
+| align=center|6
+|-
+| {{bandera|ARG|alt}} [[Juan Carlos Sarnari]] 
+| {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] 
+| align=center|6
+|-
+| {{bandera|URU}} [[Julio César Morales]] 
+| {{bandera|URU}} [[Club Nacional de Football|Nacional]] 
+| align=center|5
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1969]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Copa Libertadores 1969}}
+* [http://www.rsssf.com/sacups/copa69.html Copa Libertadores de América de 1969] en [[RSSSF]].
+* [http://www.conmebol.com/ Página web oficial] de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1968|1968]]
+| título     = Copa Libertadores 1969
+| período    = X edición
+| sucesor    = [[Copa Libertadores 1970|1970]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1969| ]]
+[[Categoría:Temporadas de la Copa Libertadores|1969]]

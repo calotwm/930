@@ -1,0 +1,2448 @@
+{{Ficha de competición deportiva
+|nombre          = Campeonato de Primera B Nacional 2009-10
+|nombre_original = [[Primera B Nacional]]
+|deporte         = fútbol
+|país            = [[Argentina]]
+|fecha de inicio = 21 de agosto de 2009
+|fecha de cierre = 15 de mayo de 2010
+|edición         = XXIV temporada
+|televisión      = [[TyC Sports]]
+[[TV Pública]]
+|campeón         = [[Club Olimpo|Olimpo]]
+|subcampeón      = [[Quilmes Atlético Club|Quilmes]]
+|goleador        = {{bandera|ARG}} [[Leandro Armani]] (19 goles)
+|participantes   = 20
+|partidos        = 380
+|goles           = 878 (2,31 por partido)
+|ascendidos      = [[Club Olimpo|Olimpo]] <br /> [[Quilmes Atlético Club|Quilmes]] <br /> [[Club Atlético All Boys|All Boys]] <small>(por promoción)</small>
+|descendidos     = [[Club Sportivo Italiano|Sportivo Italiano]] <small>''(a Primera B)''</small> <br /> [[Club Atlético Platense|Platense]] <small>''(a Primera B)''</small>
+|anterior        = [[Campeonato de Primera B Nacional 2008-09|B Nacional 2008-09]]
+|siguiente       = [[Campeonato de Primera B Nacional 2010-11|B Nacional 2010-11]]
+}}
+
+El '''[[Primera B Nacional|Campeonato de Primera B Nacional]] 2009-10''', denominada por motivos comerciales '''Primera B Nacional Efectivo Sí 2009-10''', comenzó el 21 de agosto de 2009 y finalizó el 15 de mayo de 2010. En el torneo se incorporaron [[Club Atlético San Martín (Tucumán)|San Martín (Tucumán)]] y [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (Jujuy)]] (descendidos de Primera División); [[Club Sportivo Italiano|Sportivo Italiano]] (campeón de la Primera B), [[Club Atlético Boca Unidos|Boca Unidos]] (campeón del Torneo Argentino A) y [[Club Social y Deportivo Merlo|Deportivo Merlo]] (ascendió tras ganarle la promoción a [[Club Atlético Los Andes|Los Andes]])
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Descendidos de la [[Campeonato de Primera B Nacional 2008-09|B Nacional 2008-09]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato de Primera B 2009-10 (Argentina)|Primera B]]
+|[[Club Almagro|Almagro]]
+|- style="background: #FFCCCC;"
+|align=center|Primera B
+|[[Club Atlético Los Andes|Los Andes]]
+|- style="background: #FFCCCC;"
+|align=center|[[Torneo Argentino A 2009-10|Argentino A]]
+|[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|}
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Ascendidos a la B Nacional 2009-10
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 2008-09 (Argentina)|Primera B]]
+|[[Club Sportivo Italiano|Sportivo Italiano]]
+|- style="background: #cfc;"
+|align=center|Primera B
+|[[Club Social y Deportivo Merlo|Deportivo Merlo]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 2008-09|Argentino A]]
+|[[Club Atlético Boca Unidos|Boca Unidos]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Pos.
+! width=310|Ascendidos a la [[Campeonato de Primera División 2009-10 (Argentina)|Primera División 2009-10]] 
+|- style="background: #cfc;"
+|align=center|1.º
+|[[Club Atlético Tucumán|Atlético Tucumán]]
+|- style="background: #cfc;"
+|align=center|2.º
+|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|}
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Prom.
+! width=310|Descendidos de la [[Campeonato de Primera División 2008-09 (Argentina)|Primera División 2008-09]] 
+|- style="background: #FFCCCC;"
+|align=center|19.º
+|[[Club Atlético San Martín (Tucumán)|San Martín (Tucumán)]]
+|- style="background: #FFCCCC;"
+|align=center|20.º
+|[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (Jujuy)]]
+|}
+{{Final columnas}}
+
+== Equipos participantes ==
+
+{| class="wikitable sortable col4cen" style="margin: auto;"
+! Equipo
+! Ciudad
+! Estadio
+! Capacidad
+|-
+|[[Club Atlético Aldosivi|Aldosivi]] ||[[Mar del Plata]]||[[Estadio José María Minella|José María Minella]] || 35{{esd}}300
+|-
+|[[Club Atlético All Boys|All Boys]] ||[[Buenos Aires]]||[[Estadio Islas Malvinas|Islas Malvinas]]||21{{esd}}500
+|-
+|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]] ||[[Rafaela]]|| [[Estadio Nuevo Monumental|Nuevo Monumental]]||20000
+|-
+|[[Club Atlético Belgrano|Belgrano]] ||[[Córdoba (Argentina)|Córdoba]]||[[Estadio Gigante de Alberdi|Gigante de Alberdi]]||28{{esd}}000
+|-
+|[[Club Atlético Boca Unidos|Boca Unidos]] ||[[Corrientes (Argentina)|Corrientes]]||[[Estadio José Antonio Romero Feris|José Antonio Romero Feris]] (*)||15{{esd}}700
+|-
+|[[Comisión de Actividades Infantiles|CAI]] || [[Comodoro Rivadavia]]||[[Estadio Municipal de Comodoro Rivadavia|Municipal de Comodoro Rivadavia]]||12{{esd}}000
+|-
+|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]] ||[[Gobernador Julio A. Costa|Gobernador Costa]]|| [[Estadio Norberto Tomaghello|Norberto Tomaghello]] ||10{{esd}}000
+|-
+|[[Club Social y Deportivo Merlo|Deportivo Merlo]] ||[[Parque San Martín]]||[[Estadio José Manuel Moreno|José Manuel Moreno]] (**)||10{{esd}}000
+|-
+|[[Club Ferro Carril Oeste|Ferro Carril Oeste]] ||[[Buenos Aires]]||[[Estadio Arquitecto Ricardo Etcheverri|Arquitecto Ricardo Etcheverri]]||24{{esd}}858
+|-
+|[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima]] ||[[San Salvador de Jujuy]]||[[Estadio 23 de Agosto|23 de Agosto]]||24{{esd}}000
+|-
+|[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]] ||[[Mendoza (Argentina)|Mendoza]]||[[Estadio Bautista Gargantini|Bautista Gargantini]]||18{{esd}}000
+|-
+|[[Instituto Atlético Central Córdoba|Instituto]] ||[[Córdoba (Argentina)|Córdoba]]||[[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]||26{{esd}}535
+|-
+|[[Club Olimpo|Olimpo]] ||[[Bahía Blanca]]||[[Estadio Roberto Natalio Carminatti|Roberto Natalio Carminatti]]||17{{esd}}000
+|-
+|[[Club Atlético Platense|Platense]] || [[Florida (Argentina)|Florida]]||[[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]||31{{esd}}000
+|-
+|[[Quilmes Atlético Club|Quilmes]]||[[Quilmes (Buenos Aires)|Quilmes]]||[[Estadio Centenario|Centenario]]||30{{esd}}200
+|-
+|[[Club Atlético San Martín (San Juan)|San Martín]]||[[San Juan (Argentina)|San Juan]]||[[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]||18{{esd}}000
+|-
+|[[Club Atlético San Martín (Tucumán)|San Martín]]||[[San Miguel de Tucumán]]||[[Estadio La Ciudadela|La Ciudadela]]||25{{esd}}500
+|-
+|[[Club Sportivo Italiano|Sportivo Italiano]]||[[Ciudad Evita]]||[[Estadio República de Italia|República de Italia]]||8000
+|-
+|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]||[[Rosario (Argentina)|Rosario]]||[[Estadio Fortín de Ludueña|Fortín de Ludueña]]||18{{esd}}000
+|-
+|[[Club Atlético Unión (Santa Fe)|Unión]]||[[Santa Fe (Argentina)|Santa Fe]]||[[Estadio 15 de Abril|15 de Abril]]||25{{esd}}000
+|}
+
+* <small> (*) Propiedad del [[Club Atlético Huracán Corrientes]] </small>
+* <small> (**) Local en el [[estadio Armenia]] (cap. 10{{esd}}500), propiedad del [[Club Deportivo Armenio]].</small>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=240|Región
+! width=25|Cant.
+! width=400|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]||align=center|5||align=center|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]], [[Club Social y Deportivo Merlo|Deportivo Merlo]], [[Club Atlético Platense|Platense]], [[Quilmes Atlético Club|Quilmes]] y [[Club Sportivo Italiano|Sportivo Italiano]]
+|-
+|{{bandera|Provincia de Santa Fe}} [[Provincia de Santa Fe]]||align=center|3||align=center|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]], [[Club Atlético Tiro Federal Argentino|Tiro Federal]] y [[Club Atlético Unión (Santa Fe)|Unión]]
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]||align=center|2||align=center|[[Club Atlético All Boys|All Boys]] y [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]||align=center|2||align=center|[[Club Atlético Aldosivi|Aldosivi]] y [[Club Olimpo|Olimpo]]
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|2||align=center|[[Club Atlético Belgrano|Belgrano]] e [[Instituto Atlético Central Córdoba|Instituto]]
+|-
+|{{bandera|Provincia del Chubut}} [[Provincia del Chubut]]||align=center|1||align=center|[[Comisión de Actividades Infantiles|CAI]]
+|-
+|{{bandera|Provincia de Corrientes}} [[Provincia de Corrientes]]||align=center|1||align=center|[[Club Atlético Boca Unidos|Boca Unidos]]
+|-
+|{{bandera|Provincia de Jujuy}} [[Provincia de Jujuy]]||align=center|1||align=center|[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia]]
+|-
+|{{bandera|Provincia de Mendoza}} [[Provincia de Mendoza]]||align=center|1||align=center|[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+|-
+|{{bandera|Provincia de San Juan}} [[Provincia de San Juan]]||align=center|1||align=center|[[Club Atlético San Martín (San Juan)|San Martín]]
+|-
+|{{bandera|Provincia de Tucumán}} [[Provincia de Tucumán]]||align=center|1||align=center| [[Club Atlético San Martín (Tucumán)|San Martín]]
+|}
+</center>
+
+== Formato ==
+
+===Competición===
+Se disputó un torneo todos contra todos a dos ruedas, local y visitante, de 38 fechas. Se otorgaban 3 puntos por partido ganado y 1 punto por partido empatado.
+
+===Ascenso===
+El equipo que obtuvo más puntos es el campeón y junto con el 2º clasificado asciende a la [[Primera División Argentina|Primera División]]. Los equipos ubicados en 3º y 4º lugar tuvieron el derecho de jugar la promoción para ascender contra el 18º y 17º de la Primera División, respectivamente, de acuerdo a su tabla de promedios.
+
+===Descenso===
+Se decidió mediante una tabla de promedios de puntos obtenidos de las últimas 3 temporadas. Si un club ascendía y luego de una temporada descendía se le contabilizaban los puntos obtenidos en su campaña previa, como por ejemplo sucedió con [[Club Atlético San Martín (Tucumán)|San Martín (T)]]. Los dos últimos de la tabla descendieron a su categoría de origen: si estaban directamente afiliados a la AFA (Clubes de la ciudad de Buenos Aires y alrededores), a la Primera B Metropolitana y si estaban indirectamente afiliados (clubes del interior del país), al Torneo Argentino A. También se jugaron dos promociones: el equipo directamente afiliado y el indirectamente afiliado peor ubicados disputaron una ''Promoción'' con un equipo de la Primera B y del Torneo Argentino A, respectivamente.
+
+== Tabla de posiciones final ==
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+<center>
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! Pts
+! PJ
+! PG
+! PE
+! PP
+! GF
+! GC
+! DIF
+|-
+|- style="background: #B0EE90; text-align:center"
+||'''1º'''||align="left"|'''[[Club Olimpo|Olimpo]]
+||'''71'''||38||19||14||5||50||24||26
+|- style="background: #D0F0C0; text-align:center"
+||'''2º'''||align="left"|[[Quilmes Atlético Club|Quilmes]]
+||'''64'''||38||17||13||8||39||31||8
+|- style="background: #C0DEFF; text-align:center"
+||'''3º'''||align="left"|[[Atlético de Rafaela]]
+||'''63'''||38||18||9||11||53||35||18
+|- style="background: #C0DEFF; text-align:center"
+||'''4º'''||align="left"|[[Club Atlético All Boys|All Boys]]
+||'''63'''||38||19||6||13||45||37||8
+|- style="text-align:center"
+||'''5º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||'''60'''||38||16||12||10||39||29||10
+|- style="text-align:center"
+||'''6º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]
+||'''57'''||38||15||12||11||47||41||6
+|- style="text-align:center"
+||'''7º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||'''56'''||38||14||14||10||48||39||9
+|- style="text-align:center"
+||'''8º'''||align="left"|[[Club de Gimnasia y Esgrima de Jujuy|Gimnasia y Esgrima (J)]]
+||'''54'''||38||14||12||12||34||37||-3
+|- style="text-align:center"
+||'''9º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+||'''53'''||38||14||11||13||54||49||5
+|- style="text-align:center"
+||'''10º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''52'''||38||14||10||14||54||53||1
+|- style="text-align:center"
+||'''11º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+||'''50'''||38||12||14||12||39||41||-2
+|- style="text-align:center"
+||'''12º'''||align="left"|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''49'''||38||12||13||13||36||39||-3
+|- style="text-align:center"
+||'''13º'''||align="left"|[[Club Atlético Boca Unidos|Boca Unidos]]
+||'''48'''||38||11||15||12||42||48||-6
+|- style="text-align:center"
+||'''14º'''||align="left"|[[Club Atlético Platense|Platense]]
+||'''47'''||38||11||14||13||39||40||-1
+|- style="text-align:center"
+||'''15º'''||align="left"|[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+||'''47'''||38||12||11||15||47||58||-11
+|- style="text-align:center"
+||'''16º'''||align="left"|[[Club Social y Deportivo Merlo|Deportivo Merlo]]
+||'''46'''||38||12||10||16||35||44||-9
+|- style="text-align:center"
+||'''17º'''||align="left"|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||'''44'''||38||12||8||18||52||53||-1
+|- style="text-align:center"
+||'''18º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||'''43'''||38||11||10||17||47||52||-5
+|- style="text-align:center"
+||'''19º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]
+||'''42'''||38||12||6||20||44||54||-10
+|- style="text-align:center"
+||'''20º'''||align="left"|[[Club Sportivo Italiano|Sportivo Italiano]]
+||'''22'''||38||6||4||28||34||74||-40
+|}
+
+{| align=center style="font-size: 90%; border-collapse:collapse" border=0 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+!width=20|
+!width=550|
+|-
+| style="background: #B0EE90" width="20 px" |
+| bgcolor="#ffffff" align="left" | Campeón. Ascendió a [[Primera División (Argentina)|Primera División.]]
+|-
+| style="background: #D0F0C0" width="20 px" |
+| bgcolor="#ffffff" align="left" | Subcampeón. Ascendió a [[Primera División (Argentina)|Primera División.]]
+|-
+| style="background: #C0DEFF;" width="20 px" |
+| bgcolor="#ffffff" align="left" |  Jugaron una promoción por el ascenso a [[Primera División (Argentina)|Primera División.]]
+|-
+|}
+
+== Tabla de promedios ==
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! [[Campeonato de Primera B Nacional 2007-08|07-08]]
+! [[Campeonato de Primera B Nacional 2008-09|08-09]]
+! 09-10
+! Total
+! PJ
+! Promedio
+|-
+||'''1º'''||align="left"|[[Atlético de Rafaela]]
+||53||62||63||178||114||'''1,561'''
+|-
+||'''2º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]
+||56||62||57||175||114||'''1,535'''
+|-
+||'''3º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+||66||-||50||116||76||'''1,526'''
+|-
+||'''4º'''||align="left"|[[Quilmes Atlético Club|Quilmes]]
+||55||51||64||170||114||'''1,491'''
+|-
+||'''5º'''||align="left"|[[Club Atlético All Boys|All Boys]]
+||-||50||63||113||76||'''1,486'''
+|-
+||'''6º'''||align="left"|[[Club Olimpo|Olimpo]]
+||-||40||71||111||76||'''1,460'''
+|-
+||'''7º'''||align="left"|[[Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+||-||-||54||54||38||'''1,421'''
+|-
+||'''8º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||43||59||60||162||114||'''1,421'''
+|-
+||'''9º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||-||49||58||107||76||'''1,407'''
+|-
+||'''10º'''||align="left"|[[Club Atlético Unión de Santa Fe|Unión]]
+||56||49||53||158||114||'''1,385'''
+|-
+||'''11º'''||align="left"|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||51||52||48||151||114||'''1,324'''
+|-
+||'''12º'''||align="left"|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||54||50||44||148||114||'''1,298'''
+|-
+||'''13º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]
+||48||57||42||147||114||'''1,289'''
+|-
+||'''14º'''||align="left"|[[Club Atlético Boca Unidos|Boca Unidos]]
+||-||-||48||48||38||'''1,263'''
+|-
+||'''15º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||43||49||52||144||114||'''1,263'''
+|-
+||'''16º'''||align="left"|[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+||47||50||47||144||114||'''1,263'''
+|- style="background: #ffffcc;"
+||'''17º'''||align="left"|[[Club Social y Deportivo Merlo|Deportivo Merlo]]
+||-||-||46||46||38||'''1,210'''
+|-style="background: #ffffcc;"
+||'''18º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||51||36||43||130||114||'''1,140'''
+|-style="background: #FFCCCC;"
+||'''19º'''||align="left"|[[Club Atlético Platense|Platense]]
+||42||37||47||126||114||'''1,105'''
+|-style="background: #FFCCCC;"
+||'''20º'''||align="left"|[[Club Sportivo Italiano|Sportivo Italiano]]
+||-||-||22||22||38||'''0,578'''
+|-
+
+|}
+
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;text-align:center;"
+|-
+| style="background: #ffffcc" width="20" |
+| bgcolor="#ffffff" align="left" | Disputaron la promoción contra equipos de la [[Primera B]] y del [[Argentino A|Torneo Argentino A]], respectivamente.
+|-
+| style="background: #FFCCCC" width="20" |
+| bgcolor="#ffffff" align="left" | Descendieron a la [[Primera B (Argentina)|Primera B]].
+|-
+
+|-
+|}
+
+== Resultados ==
+
+<!-- Fecha 1 y 2-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 1
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|2 - 3
+|bgcolor=#D0E7FF|'''Unión
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''2 - 2
+|Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|3 - 1
+|Independiente Rivadavia
+|-align=center
+|All Boys
+|1 - 4
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''0 - 0
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 1
+|Platense
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''1 - 1
+|Belgrano
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 0
+|Deportivo Merlo
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 2
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Aldosivi
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia (J)
+|-align=center
+|Deportivo Merlo
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|-align=center
+|Belgrano
+|1 - 3
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Olimpo
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''CAI
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''0 - 0
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|Tiro Federal
+|1 - 2
+|bgcolor=#D0E7FF|'''Unión
+|}
+|}
+
+<!-- Fecha 3 y 4-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 3
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|1 - 0
+|San Martín (T)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''4 - 4
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 0
+|CAI
+|-align=center
+|Sportivo Italiano
+|0 - 4
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|3 - 1
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|1 - 0
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 0
+|Boca Unidos
+|-align=center
+|Atlético de Rafaela
+|1 - 3
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Aldosivi
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 4
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia (J)
+|-align=center
+|Aldosivi
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (SJ)
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|1 - 0
+|Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|1 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Instituto
+|-align=center
+|CAI
+|1 - 3
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''1 - 1
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|3 - 2
+|Tiro Federal
+|}
+|}
+
+<!-- Fecha 5 y 6-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 5
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|2 - 1
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|4 - 1
+|Independiente Rivadavia
+|-align=center
+|Unión
+|bgcolor=#D0E7FF|'''0 - 0
+|CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 1
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|3 - 0
+|Belgrano
+|-align=center
+|All Boys
+|bgcolor=#D0E7FF|'''1 - 1
+|Boca Unidos
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 1
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Quilmes
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 6
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Gimnasia (J)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|San Martín (SJ)
+|-align=center
+|Aldosivi
+|2 - 5
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|1 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''1 - 1
+|Unión
+|-align=center
+|CAI
+|2 - 3
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|Independiente Rivadavia
+|1 - 4
+|bgcolor=#D0E7FF|'''San Martín (T)
+|}
+|}
+
+<!-- Fecha 7 y 8-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 7
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|CAI
+|-align=center
+|Tiro Federal
+|bgcolor=#D0E7FF|'''0 - 0
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|5 - 1
+|Platense
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''2 - 2
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 0
+|Boca Unidos
+|-align=center
+|Sportivo Italiano
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 0
+|Aldosivi
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''2 - 2
+|Quilmes
+|-align=center
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''2 - 2
+|Atlético de Rafaela
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 8
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 0
+|Gimnasia (J)
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Olimpo
+|-align=center
+|Quilmes
+|0 - 1
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|2 - 1
+|Instituto
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''3 - 3
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|3 - 2
+|Unión
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Tiro Federal
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (T)
+|-align=center
+|CAI
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|}
+|}
+
+<!-- Fecha 9 y 10-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 9
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|3 - 0
+|CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|3 - 2
+|Ferro Carril Oeste
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''2 - 2
+|Platense
+|-align=center
+|Tiro Federal
+|1 - 2
+|bgcolor=#D0E7FF|'''Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|1 - 0
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|1 - 0
+|Deportivo Merlo
+|-align=center
+|Instituto
+|bgcolor=#D0E7FF|'''0 - 0
+|Aldosivi
+|-align=center
+|Sportivo Italiano
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 0
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|3 - 1
+|San Martín (SJ)
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 10
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia (J)
+|-align=center
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|5 - 1
+|Sportivo Italiano
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''2 - 2
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 1
+|Defensa y Justicia
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''1 - 1
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|2 - 0
+|Tiro Federal
+|-align=center
+|Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|CAI
+|}
+|}
+
+<!-- Fecha 11 y 12-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 11
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|1 - 0
+|Ferro Carril Oeste
+|-align=center
+|CAI
+|0 - 1
+|bgcolor=#D0E7FF|'''Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Belgrano
+|-align=center
+|San Martín (T)
+|2 - 3
+|bgcolor=#D0E7FF|'''Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|2 - 0
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|2 - 1
+|Aldosivi
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|-align=center
+|Instituto
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|Sportivo Italiano
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|-align=center
+|All Boys
+|1 - 2
+|bgcolor=#D0E7FF|'''Olimpo
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 12
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|All Boys
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 0
+|Instituto
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 1
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 0
+|Tiro Federal
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (T)
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente Rivadavia
+|-align=center
+|Belgrano
+|1 - 3
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|Platense
+|0 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|}
+|}
+
+<!-- Fecha 13 y 14-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 13
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|bgcolor=#D0E7FF|'''0 - 0
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 1
+|Belgrano
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''0 - 0
+|Boca Unidos
+|-align=center
+|Independiente Rivadavia
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''2 - 2
+|Aldosivi
+|-align=center
+|Tiro Federal 
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Unión 
+|2 - 0
+|Atlético de Rafaela
+|-align=center
+|Defensa y Justicia 
+|0 - 2
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|-align=center
+|Instituto 
+|bgcolor=#D0E7FF|'''1 - 1
+|Olimpo
+|-align=Center
+|Sportivo Italiano 
+|1 - 2
+|bgcolor=#D0E7FF|'''All Boys
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 14
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Sportivo Italiano 
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|-align=center
+|All Boys
+|0 - 1
+|bgcolor=#D0E7FF|'''Instituto 
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 0
+|Defensa y Justicia 
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 0
+|Unión 
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Tiro Federal 
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 1
+|San Martín (T)
+|-align=center
+|Aldosivi
+|0 - 2
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|1 - 0
+|CAI
+|-align=center
+|Boca Unidos
+|1 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|2 - 1
+|Platense
+|}
+|}
+
+<!-- Fecha 15 y 16-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 15
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|2 - 0
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Platense 
+|2 - 0
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 1
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''CAI
+|3 - 2
+|Aldosivi
+|-align=center
+|Independiente Rivadavia
+|2 - 4
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''2 - 2
+|Atlético de Rafaela
+|-align=center
+|Tiro Federal 
+|0 - 2
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|2 - 0
+|Olimpo
+|-align=center
+|Defensa y Justicia
+|0 - 1
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|3 - 0
+|Sportivo Italiano
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 16
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|Gimnasia (J)
+|-align=center
+|Sportivo Italiano
+|0 - 1
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|3 - 2
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 0
+|Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 1
+|San Martín (T)
+|-align=center
+|Atlético de Rafaela
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 1
+|CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 1
+|Ferro Carril Oeste
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''0 - 0
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|2 - 1
+|Belgrano
+|}
+|}
+
+<!-- Fecha 17 y 18-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 17
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|2 - 1
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|1 - 0
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''CAI
+|3 - 1
+|Atlético de Rafaela
+|-align=center
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''2 - 2
+|Olimpo
+|-align=center
+|Tiro Federal
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Defensa y Justicia
+|1 - 3
+|bgcolor=#D0E7FF|'''Instituto
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 18
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 0
+|Gimnasia (J)
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 1
+|Unión
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''2 - 2
+|Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 1
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|1 - 0
+|CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 0
+|Ferro Carril Oeste
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Platense
+|-align=center
+|Aldosivi
+|1 - 2
+|bgcolor=#D0E7FF|'''Belgrano
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''1 - 1
+|Boca Unidos
+|}
+|}
+
+<!-- Fecha 19 y 20-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 19
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|2 - 1
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|2 - 1
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|4 - 1
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''2 - 2
+|Olimpo
+|-align=center
+|Independiente Rivadavia
+|0 - 1
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|2 - 0
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|1 - 0
+|Defensa y Justicia
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 20
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|1 - 0
+|Gimnasia (J)
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (SJ)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|CAI
+|1 - 2
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|Ferro Carril Oeste
+|0 - 1
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|2 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|2 - 0
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|4 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|4 - 1
+|Sportivo Italiano
+|-align=center
+|San Martín (T)
+|0 - 2
+|bgcolor=#D0E7FF|'''Instituto
+|}
+|}
+
+<!-- Fecha 21 y 22-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 21
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''2 - 2
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Boca Unidos
+|-align=center
+|Unión
+|2 - 3
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Deportivo Merlo
+|-align=center
+|Sportivo Italiano
+|2 - 3
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 1
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|1 - 0
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 0
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 1
+|Platense
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 22
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Unión
+|-align=center
+|Independiente Rivadavia
+|3 - 4
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto
+|-align=center
+|Ferro Carril Oeste
+|1 - 2
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|2 - 0
+|All Boys
+|-align=center
+|Aldosivi
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Tiro Federal
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia (J)
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''0 - 0
+|Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|2 - 1
+|San Martín (SJ)
+|-align=center
+|Deportivo Merlo
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|}
+|}
+
+<!-- Fecha 23 y 24-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 23
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Tiro Federal
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|4 - 0
+|Aldosivi
+|-align=center
+|Gimnasia (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|3 - 0
+|Independiente Rivadavia
+|-align=center
+|Sportivo Italiano
+|0 - 2
+|bgcolor=#D0E7FF|'''Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 2
+|CAI
+|-align=center
+|All Boys
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''0 - 0
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 0
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|Ferro Carril Oeste
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 24
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Quilmes
+|1 - 3
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''0 - 0
+|Olimpo
+|-align=center
+|Independiente Rivadavia
+|1 - 3
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''1 - 1
+|Unión
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''2 - 2
+|Defensa y Justicia
+|-align=center
+|Platense 
+|1 - 2
+|bgcolor=#D0E7FF|'''Instituto
+|-align=center
+|Aldosivi
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|4 - 1
+|Sportivo Italiano
+|-align=center
+|Boca Unidos
+|0 - 1
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|San Martín (T)
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|}
+|}
+
+<!-- Fecha 25 y 26-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 25
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|San Martín (SJ)
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Platense
+|-align=center
+|Tiro Federal
+|2 - 3
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 0
+|Aldosivi
+|-align=center
+|All Boys
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''2 - 2
+|Unión
+|-align=center
+|Deportivo Italiano
+|0 - 3
+|bgcolor=#D0E7FF|'''Boca Unidos
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 26
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (T)
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Tiro Federal
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|2 - 1
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|2 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Olimpo
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|-align=center
+|Independiente Rivadavia
+|0 - 3
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|}
+|}
+
+<!-- Fecha 27 y 28-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 27
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|3 - 1
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|Quilmes
+|-align=center
+|Olimpo
+|0 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 1
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Ferro Carril Oeste
+|-align=center
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''2 - 2
+|CAI
+|-align=center
+|Unión
+|bgcolor=#D0E7FF|'''2 - 2
+|Belgrano
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|1 - 0
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|3 - 2
+|San Martín (SJ)
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 28
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|3 - 0
+|San Martín (T)
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia (J)
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 0
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Sportivo Italiano
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''2 - 2
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|2 - 1
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|4 - 1
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|2 - 0
+|Tiro Federal
+|-align=center
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Olimpo
+|}
+|}
+
+<!-- Fecha 29 y 30-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 29
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Instituto
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|3 - 1
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''CAI
+|2 - 0
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|3 - 0
+|San Martín (SJ)
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|2 - 0
+|Deportivo Merlo
+|-align=center
+|Defensa y Justicia
+|1 - 4
+|bgcolor=#D0E7FF|'''Aldosivi
+|-align=center
+|bgcolor=#D0E7FF|'''Tiro Federal
+|6 - 0
+|Boca Unidos
+|-align=center
+|Gimnasia (J)
+|0 - 4
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|San Martín (T)
+|1 - 0
+|Belgrano
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 30
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|4 - 1
+|CAI
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|4 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|Gimnasia (J)
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 1
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|1 - 0
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 1
+|Defensa y Justicia
+|-align=center
+|Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|-align=center
+|Deportivo Merlo
+|1 - 2
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Instituto
+|}
+|}
+
+<!-- Fecha 31 y 32-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 31
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|Platense
+|-align=center
+|CAI
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano
+|-align=center
+|Tiro Federal
+|3 - 4
+|bgcolor=#D0E7FF|'''Aldosivi
+|-align=center
+|Unión
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|4 - 3
+|Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|1 - 0
+|All Boys
+|-align=center
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''2 - 2
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 1
+|Atlético de Rafaela
+|-align=center
+|Sportivo Italiano
+|0 - 3
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 0
+|San Martín (SJ)
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 32
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Boca Unidos
+|0 - 1
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|4 - 1
+|Independiente Rivadavia
+|-align=center
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 1
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|5 - 4
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|3 - 1
+|Ferro Carril Oeste
+|-align=center
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|1 - 0
+|Instituto
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 0
+|Unión
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|3 - 1
+|Gimnasia (J)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Tiro Federal
+|}
+|}
+
+<!-- Fecha 33 y 34-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 33
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Defensa y Justicia
+|0 - 2
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''CAI
+|4 - 0
+|Deportivo Merlo
+|-align=center
+|Ferro Carril Oeste
+|3 - 4
+|bgcolor=#D0E7FF|'''Boca Unidos
+|-align=center
+|Instituto
+|bgcolor=#D0E7FF|'''1 - 1
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Unión
+|3 - 0
+|San Martín (SJ)
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano
+|-align=center
+|Gimnasia (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 0
+|Aldosivi
+|-align=center
+|Tiro Federal
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 34
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 1
+|Unión
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|-align=center
+|bgcolor=#D0E7FF|'''Boca Unidos
+|1 - 0
+|Platense
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''0 - 0
+|Ferro Carril Oeste
+|-align=center
+|Aldosivi
+|0 - 2
+|bgcolor=#D0E7FF|'''CAI
+|-align=center
+|Sportivo Italiano
+|0 - 3
+|bgcolor=#D0E7FF|'''Instituto
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia (J)
+|-align=center
+|San Martín (SJ)
+|1 - 3
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Independiente Rivadavia
+|}
+|}
+
+<!-- Fecha 35 y 36-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 35
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 1
+|Aldosivi
+|-align=center
+|Tiro Federal
+|0 - 2
+|bgcolor=#D0E7FF|'''Olimpo
+|-align=center
+|San Martín (T)
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''2 - 2
+|Platense
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Unión
+|0 - 2
+|bgcolor=#D0E7FF|'''All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|4 - 3
+|Atlético de Rafaela
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''2 - 2
+|Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Gimnasia (J)
+|2 - 1
+|Instituto
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 36
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|San Martín (SJ)
+|0 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|-align=center
+|Instituto
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensa y Justicia
+|-align=center
+|Boca Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia (J)
+|-align=center
+|Deportivo Merlo
+|bgcolor=#D0E7FF|'''1 - 1
+|Belgrano
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''2 - 2
+|Unión
+|-align=center
+|Olimpo
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|-align=center
+|Aldosivi
+|1 - 2
+|bgcolor=#D0E7FF|'''Platense
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 1
+|Tiro Federal
+|-align=center
+|Quilmes
+|0 - 1
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|-align=Center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|CAI
+|}
+|}
+
+<!-- Fecha 37 y 38-->
+{| width=100%
+| valign=top width=50% align=left |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 37
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Gimnasia (J)
+|0 - 4
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|Unión
+|bgcolor=#D0E7FF|'''2 - 2
+|Instituto
+|-align=center
+|Tiro Federal
+|1 - 3
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|-align=center
+|CAI
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (SJ)
+|-align=center
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético de Rafaela
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|-align=center
+|Boca Unidos
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Merlo
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|All Boys
+|-align=center
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Olimpo
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano
+|1 - 0
+|Aldosivi
+|}
+
+| valign=top width=50% align=right |
+{|align=center bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!colspan=3 align=center|Fecha 38
+|- align=center bgcolor=#DDDDDD style="color:black;"
+!width="150"|Equipo Local
+!width="75"|Resultado
+!width="150"|Equipo Visitante
+|-align=center
+|Deportivo Merlo
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia (J) 
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Platense
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 0
+|Unión
+|-align=center
+|Instituto
+|0 - 3
+|bgcolor=#D0E7FF|'''Tiro Federal
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|1 - 0
+|Ferro Carril Oeste
+|-align=center
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 0
+|Independiente Rivadavia
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano
+|-align=center
+|Aldosivi
+|3 - 4
+|bgcolor=#D0E7FF|'''Boca Unidos
+|-align=center
+|bgcolor=#D0E7FF|'''Olimpo
+|2 - 0
+|CAI
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|}
+|}
+{{wikificar|t=20180511134038}}
+
+== Promociones ==
+
+=== Promociones Primera División - Primera B Nacional ===
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 1
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+!width="150"|Estadio
+!width="95"|Fecha
+!width="75"|Hora ([[UTC-3]])
+|-align=center
+|[[Club Atlético All Boys|All Boys]]
+|bgcolor=#D0E7FF|'''1 - 1
+|[[Rosario Central]]
+|[[Estadio Islas Malvinas|Islas Malvinas]]
+|19 de mayo
+|14:10
+|-align=center
+|[[Rosario Central]]
+|0 - 3
+|bgcolor=#D0E7FF|'''[[Club Atlético All Boys|All Boys]]
+|[[Gigante de Arroyito]]
+|23 de mayo
+|15:10
+|-
+|colspan="6"| '''All Boys''' ascendió a Primera División con un global de '''4-1'''
+|}
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 2
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+!width="150"|Estadio
+!width="95"|Fecha
+!width="75"|Hora ([[UTC-3]])
+|-align=center
+|bgcolor=#D0E7FF|'''[[Atlético de Rafaela]]
+|1 - 0
+|[[Club de Gimnasia y Esgrima La Plata|Gimnasia (LP)]]
+|[[Estadio Nuevo Monumental|Nuevo Monumental]]
+|19 de mayo
+|21:10
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club de Gimnasia y Esgrima La Plata|Gimnasia (LP)]]
+| 3 - 1
+|[[Atlético de Rafaela]]
+|[[Estadio Juan Carmelo Zerillo|Del Bosque]]
+|23 de mayo
+|16:10
+|}
+
+=== Promoción Primera B Nacional - Primera B ===
+
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 1
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+!width="150"|Estadio
+!width="95"|Fecha
+!width="75"|Hora ([[UTC-3]])
+|-align=center
+| [[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]]
+|0 - 1
+|bgcolor=#D0E7FF|'''[[Club Social y Deportivo Merlo|Deportivo Merlo]]
+|[[Estadio Eva Perón|Eva Perón]]
+|18 de mayo de 2010
+|15:00
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Social y Deportivo Merlo|Deportivo Merlo]]
+|1 - 0
+|[[Club Atlético Sarmiento (Junín)|Sarmiento de Junín]]
+|[[Estadio Armenia|Armenia]]<ref>Deportivo Merlo juega de local en el estadio del [[Club Deportivo Armenio]].</ref>
+|22 de mayo de 2010
+|15:00
+|}
+
+=== Promoción Primera B Nacional - Torneo Argentino A ===
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 1
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+!width="150"|Estadio
+!width="95"|Fecha
+!width="75"|Hora ([[UTC-3]])
+|-align=center
+| [[Club Deportivo Santamarina|Santamarina]]
+|bgcolor=#D0E7FF|'''2 - 2'''
+| [[Comisión de Actividades Infantiles|CAI]]
+|[[Estadio Municipal General San Martín]]
+|23 de mayo de 2010
+|14:00
+|-align=center
+|bgcolor=#D0E7FF|'''[[Comisión de Actividades Infantiles|CAI]]
+| 5 - 0
+| [[Club Deportivo Santamarina|Santamarina]]
+|[[Municipal de Comodoro Rivadavia]]
+|30 de mayo de 2010
+||15:00
+|}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+*http://www.rsssf.com/tablesa/arg2-2010.html
+{{IprNoticias|Resultados de la decimosegunda fecha de la Primera "B" Nacional de fútbol de Argentina 2009-10|Resultados de la decimotercera fecha de la Primera "B" Nacional de fútbol de Argentina 2009-10}}
+* [http://www.afa.org.ar/index.php?option=com_wrapper&view=wrapper&Itemid=96 Programación de Primera B Nacional 2009/2010] En el sitio oficial de la [[Asociación del Fútbol Argentino|AFA]].
+* [http://www.clarin.com/deportes/nacionalb/2009-2010/posiciones.html Posiciones de la Primera B Nacional 2009/2010] {{Wayback|url=http://www.clarin.com/deportes/nacionalb/2009-2010/posiciones.html |date=20090826154751 }} Diario Clarín.
+* [http://www.clarin.com/deportes/nacionalb/2009-2010/goleadores.html Goleadores de la Primera B Nacional 2009/2010] {{Wayback|url=http://www.clarin.com/deportes/nacionalb/2009-2010/goleadores.html |date=20090830063340 }} Diario Clarín.
+* [http://www.clarin.com/deportes/nacionalb/2009-2010/fixture.html Calendario y resultados de la Primera B Nacional 2009/2010] {{Wayback|url=http://www.clarin.com/deportes/nacionalb/2009-2010/fixture.html |date=20090827030708 }} Diario Clarín.
+
+{{Sucesión
+|título= XXIV Temporada de [[Primera B Nacional]]
+|período=<small>'''Campeón: [[Club Olimpo|Olimpo]] ({{Ord|3.|er}} título)'''</small>
+|predecesor= [[Campeonato de Primera B Nacional 2008-09|Primera B Nacional 2008-09]]
+|sucesor= [[Campeonato de Primera B Nacional 2010-11|Primera B Nacional 2010-11]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Primera B Nacional|2010]]
+[[Categoría:Fútbol en Argentina en 2009]]
+[[Categoría:Fútbol en Argentina en 2010]]

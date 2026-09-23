@@ -1,0 +1,518 @@
+{{Ficha de competición deportiva
+|nombre_original = [[Copa Libertadores de América|Copa de Campeones de América]]
+|deporte         = fútbol
+|tipo            = 
+|imagen          = Peñarol - campeon de america 1961.jpg
+|imagen_tamaño   = 300px
+|imagen_pie      = El [[Club Atlético Peñarol]], de Uruguay, se consagró campeón de la [[Copa Libertadores de América]] por 2.ª vez
+|ubicación       = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|participantes   = 9 de 9 países 
+|calificados     = 
+|plantillapais   = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|fecha de inicio = {{fecha2|2|4|1961}}
+|fecha de cierre = {{fecha2|11|6|1961}}
+|edición         = II
+|organizador     = [[Confederación Sudamericana de Fútbol|Conmebol]]
+|campeón         = '''{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]''' <small>(2.º título)</small>
+|subcampeón      = {{bandera|BRA|1960}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|semifinalistas  = {{bandera|PAR|1954}} [[Club Olimpia|Olimpia]]<br>{{bandera|COL}} [[Independiente Santa Fe|Santa Fe]]
+|titulotercero   = Semifinalistas
+|partidos        = 16
+|goles           = 52 (3,25 por partido)
+|paisgol         = 
+|mejor_jugador   = 
+|goleador  = {{bandera|ARG|alt}} [[Osvaldo Panzutto]] (4 goles)<br><small>([[Independiente Santa Fe|Santa Fe]])</small>
+|anterior        = [[Copa de Campeones de América 1960]]
+|actual          = Copa de Campeones de América 1961
+|siguiente       = [[Copa de Campeones de América 1962]]
+}}
+La '''[[Copa Libertadores de América|Copa de Campeones de América]] 1961''' fue la segunda edición de la actualmente denominada [[Copa Libertadores de América|Copa Conmebol Libertadores]], torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]]. Participaron equipos de nueve países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]] y [[Uruguay]]. Al igual que el año anterior, no hubo ningún representante de [[Venezuela]].
+
+El campeón fue nuevamente [[Club Atlético Peñarol|Peñarol]] de [[Uruguay]], revalidando el logro obtenido en la edición previa. Como tal, disputó la [[Copa Intercontinental 1961]] contra el [[Sport Lisboa e Benfica|Benfica]] de [[Portugal]] y clasificó a las semifinales de la [[Copa de Campeones de América 1962]].
+
+== Formato ==
+De los 9 equipos participantes, 7 accedieron directamente a los cuartos de final, mientras que los otros 2 disputaron una ronda preliminar para determinar al último integrante de la fase final.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Ronda preliminar
+(2 equipos)
+|
+* 1 equipo de Colombia y Ecuador
+|
+|-
+! colspan="2" |Fases finales
+(8 equipos)
+|
+* 1 equipo, campeón de la Copa de Campeones<br>de América 1960
+* 1 equipo de Argentina, Bolivia, Brasil, Chile,<br>Paraguay y Perú
+|
+* 1 equipo clasificado de la Ronda preliminar
+|}
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa de Campeones de América 1961}}
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| class="wikitable" style="font-size:85%" width="100%" border="1"
+|-
+! width="25%" |País
+! width="23%" |Equipo
+! width="62%" |Vía de clasificación
+|-
+|'''{{bandera|Argentina|alt}} [[Asociación del Fútbol Argentino|Argentina]]'''<br>1 cupo
+|[[Archivo:600px Rosso e Bianco (Diagonale) con CAI.png|18px|borde]] ''[[Club Atlético Independiente|Independiente]]''
+|Campeón del [[Campeonato de Primera División 1960 (Argentina)|Campeonato de Primera División 1960]]
+|-
+||'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br>1 cupo
+|[[Archivo:Icon Wilstermann.png|18px]] [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|Campeón del [[Campeonato de Primera División 1960 (Bolivia)|Campeonato de Primera División 1960]]
+|-
+||'''{{bandera|Brasil|1960}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br>1 cupo
+|[[Archivo:SE Palmeiras.svg|18px|borde]] ''[[Sociedade Esportiva Palmeiras|Palmeiras]]''
+|Campeón del [[Campeonato Brasileño de Fútbol 1960|Campeonato Brasileño de 1960]]
+|-
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br>1 cupo
+|[[Archivo:600px Colo Colo.png|18px|borde]] ''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]''
+|Campeón del [[Primera División de Chile 1960|Campeonato de Primera División 1960]]
+|-
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br>1 cupo
+|[[Archivo:Flag StaFe WhiteRed.png|borde|18px]] ''[[Independiente Santa Fe|Santa Fe]]''
+|Campeón del [[Campeonato colombiano 1960|Campeonato Colombiano 1960]]
+|-
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>1 cupo
+|[[Archivo:Football of Ecuador - Barcelona SC icon.svg|18px|borde]] ''[[Barcelona Sporting Club|Barcelona]]''
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1960|Campeonato Ecuatoriano de 1960]]
+|-
+|'''{{bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>1 cupo
+|[[Archivo:Fantasy-Flag-Olimpia-Py.png|borde|18px]] [[Club Olimpia|Olimpia]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1960|Campeonato Paraguayo de 1960]]
+|-
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br>1 cupo
+|[[Archivo:600px Dorato con U e bordi rossi.svg|18px|borde]] ''[[Club Universitario de Deportes|Universitario]]''
+|Campeón del [[Campeonato Peruano de Fútbol de 1960|Campeonato Peruano de 1960]]
+|-
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>1 cupo
+|[[Archivo:Bandera-club-atletico-penarol.png|18px|borde]] [[Club Atlético Peñarol|Peñarol]]
+|Campeón del [[Campeonato Uruguayo de Primera División 1960|Campeonato Uruguayo de 1960]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=650|caption=Localización de los equipos de la '''Copa de Campeones de América 1961'''|AlternativeMap =Equipos participantes Copa de Campeones de América 1961-62.png|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-40.199722|long=-43.999944|label=<small>{{bandera|ARG|alt}}<br>[[Club Atlético Independiente|<span style="color: #FFFFFF">Independiente</span>]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-24.89|long=-54.35|label=<small>{{Bandera|Bolivia}}<br>[[Club Deportivo Jorge Wilstermann|<span style="color: #FFFFFF">J. Wilstermann</span>]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-29.5|long=-38.7|label=<small>{{Bandera|Brasil|1960}} [[Sociedade Esportiva Palmeiras|<span style="color: #FFFFFF">Palmeiras</span>]]</small>|position=top}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-39.78|long=-54.676667|label=<small>{{Bandera|Chile}}<br>[[Club Social y Deportivo Colo-Colo|<span style="color: #b5933a">Colo-Colo</span>]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=-4.79|long=-61.01|label=<small>{{Bandera|Colombia}} [[Club Independiente Santa Fe|<span style="color: #FFFFFF">Indep. Santa Fe</span>]]</small>|position=bottom}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-10.8|long=-65.2|label=<small>{{Bandera|Ecuador|1900}}<br>[[Barcelona Sporting Club|<span style="color: #b5933a">Barcelona</span>]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-31.9|long=-46.3|label=<small>{{Bandera|Paraguay|1954}} [[Club Olimpia|<span style="color: #FFFFFF">Olimpia</span>]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-20.1|long=-62.7|label=<small>{{Bandera|Perú}}<br>[[Club Universitario de Deportes|<span style="color: #FFFFFF">Universitario</span>]]</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-40.081944|long=-41.966667|label=<small>{{Bandera|Uruguay}} [[Club Atlético Peñarol|<span style="color: #b5933a">Peñarol</span>]]</small>|position=right}}
+}}
+
+== Fase previa ==
+{{AP|Anexo:Fase previa de la Copa de Campeones de América 1961|l1=Fase previa de la Copa de Campeones de América 1961}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="90%"e
+|- bgcolor=#b5933a style="color:white;"
+! width="16%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="10%"  |Ida
+! width="10%"  |Vuelta
+
+|- align="center"
+|2 y 9 de abril
+| align="right" |'''[[Independiente Santa Fe|Santa Fe]]''' {{bandera|COL}}
+| align="center" | '''5:2'''
+| align="left" |{{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| align="center" | 3:0
+| align="center" | 2:2
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+<center>
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!--Cuartos-->
+| RD1 = [[Anexo:Cuartos de final de la Copa de Campeones de América 1961|Cuartos de final]]
+| RD1-date = 9 de abril al 11 de mayo
+
+| RD1-team1 = {{Bandera|BRA|1960}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD1-score1-1 = 2
+| RD1-score1-2 = 1
+| RD1-score1-3 = '''3'''
+
+| RD1-team2 = {{Bandera|ARG|alt}} [[Club Atlético Independiente|Independiente]]
+| RD1-score2-1 = 0
+| RD1-score2-2 = 0
+| RD1-score2-3 = '''0'''
+
+| RD1-team3 = {{Bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]''' ({{abreviatura|s|Sorteo}})
+| RD1-score3-1 = 2
+| RD1-score3-2 = 1
+| RD1-score3-3 = '''3'''
+
+| RD1-team4 = {{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+| RD1-score4-1 = 3
+| RD1-score4-2 = 0
+| RD1-score4-3 = '''3'''
+
+| RD1-team5 = {{Bandera|PAR|1954}} '''[[Club Olimpia|Olimpia]]'''
+| RD1-score5-1 = 5
+| RD1-score5-2 = 1
+| RD1-score5-3 = '''6'''
+
+| RD1-team6 = {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-score6-1 = 2
+| RD1-score6-2 = 2
+| RD1-score6-3 = '''4'''
+
+| RD1-team7 = {{Bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+| RD1-score7-1 = 0
+| RD1-score7-2 = 2
+| RD1-score7-3 = '''2'''
+
+| RD1-team8 = {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD1-score8-1 = 5
+| RD1-score8-2 = 0
+| RD1-score8-3 = '''5'''
+
+<!--Semifinal-->
+| RD2 = [[Anexo:Semifinales de la Copa de Campeones de América 1961|Semifinales]]
+| RD2-date = 21 al 28 de mayo
+
+| RD2-team1 = {{Bandera|BRA|1960}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD2-score1-1 = 2
+| RD2-score1-2 = 4
+| RD2-score1-3 = '''6'''
+
+| RD2-team2 = {{Bandera|COL}} [[Independiente Santa Fe|Santa Fe]]
+| RD2-score2-1 = 2
+| RD2-score2-2 = 1
+| RD2-score2-3 = '''3'''
+
+| RD2-team3 = {{Bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+| RD2-score3-1 = 1
+| RD2-score3-2 = 1
+| RD2-score3-3 = '''2'''
+
+| RD2-team4 = {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD2-score4-1 = 3
+| RD2-score4-2 = 2
+| RD2-score4-3 = '''5'''
+
+<!--Final-->
+| RD3 = [[Anexo:Final de la Copa de Campeones de América 1961|Final]]
+| RD3-date = 4 y 11 de junio
+
+| RD3-team1 = {{Bandera|BRA|1960}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| RD3-score1-1 = 0
+| RD3-score1-2 = 1
+| RD3-score1-3 = '''1'''
+
+| RD3-team2 = {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD3-score2-1 = 1
+| RD3-score2-2 = 1
+| RD3-score2-3 = '''2'''
+}}
+</center>
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que define la serie como local.</small>
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa de Campeones de América 1961|l1=Cuartos de final de la Copa de Campeones de América 1961}}
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 2:5''' (1:2)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1954
+|fecha           = 9 de abril de 1961
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 17&nbsp;780
+|árbitro         = {{árbitro|URU|Esteban Marino}}
+|goleslocal      = [[Enrique Hormazábal|Hormazábal]] {{gol|45}}<br>[[Jorge Toro|Toro]] {{gol|88}}
+|golesvisita     = [[Antonio González (futbolista paraguayo)|González]] {{gol|12}}<br>[[Pedro Antonio Cabral|Cabral]] {{gol|37||79}}<br>[[Benicio Ferreira|Ferreira]] {{gol|48||54}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1954
+|resultado       = 1:2''' (1:1)
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 16 de abril de 1961
+|estadio         = [[Estadio Manuel Ferreira]]
+|ciudad          = [[Asunción]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|URU|Pablo Víctor Vaga}}
+|goleslocal      = [[Antonio González (futbolista paraguayo)|González]] {{gol|1}}
+|golesvisita     = [[Enrique Hormazábal|Hormazabal]] {{gol|29}}<br>[[Luis Hernán Álvarez|Álvarez]] {{gol|67}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 5:0''' (2:0)
+|visita          = [[Club Universitario de Deportes|Universitario]]
+|paísvisita      = PER
+|fecha           = 19 de abril de 1961
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 57&nbsp;630
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Juan Joya|Joya]] {{gol|36||63}}<br>[[Alberto Spencer|Spencer]] {{gol|44||77}}<br>[[José Sasía|Sasía]] {{gol|85}}
+}}
+{{Partido
+|local           = [[Club Universitario de Deportes|Universitario]]
+|paíslocal       = PER
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 14 de mayo de 1961
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      = 12&nbsp;000
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Ángel Uribe|Uribe]] {{gol|30}}<br>[[Tomás Iwasaki|Iwasaki]] {{gol|37}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Independiente|Independiente]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 0:2''' (0:1)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 4 de mayo de 1961
+|estadio         = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad          = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia      = 25&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}}
+|golesvisita     = [[Gildo Cunha do Nascimento|Gildo]] {{gol|33}}<br>[[Zequinha]] {{gol|85}}
+}}
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Atlético Independiente|Independiente]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 11 de mayo de 1961
+|estadio         = [[Estadio de Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 40&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}}
+|goleslocal      = [[Geraldo Scotto|Scotto]] {{gol|40}}
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paíslocal       = BOL
+|resultado       = 3:2''' (2:1)
+|visita          = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita      = COL
+|fecha           = 30 de abril de 1961
+|estadio         = [[Estadio Félix Capriles]]
+|ciudad          = [[Cochabamba]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Renán López|López]] {{gol|8||76}}<br>[[César Sánchez (futbolista)|Sánchez]] {{gol|17}}
+|golesvisita     = [[Osvaldo Panzutto|Panzutto]] {{gol|13}}<br>[[Roberto José Castro|Castro]] {{gol|86}}
+}}
+{{Partido
+|local           = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal       = COL
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paísvisita      = BOL
+|fecha           = 7 de mayo de 1961
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 25&nbsp;000
+|árbitro         = {{árbitro|ARG|var=alt|Luis Antonio Ventre}}
+|goleslocal      = [[Óscar Claure|Claure]] {{gol|26|a.g.}}
+|suceso          = [[Independiente Santa Fe|Santa Fe]] clasifica a las semifinales por sorteo.
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa de Campeones de América 1961|l1=Semifinales de la Copa de Campeones de América 1961}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 3:1''' (1:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1954
+|fecha           = 21 de mayo de 1961
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 42&nbsp;000
+|árbitro         = {{árbitro|ARG|var=alt|Carlos Nai Foino}}
+|goleslocal      = [[Juan Joya|Joya]] {{gol|20}}<br>[[Núber Cano|Cano]] {{gol|73}}<br>[[Luis Cubilla|Cubilla]] {{gol|87}}
+|golesvisita     = [[Antonio González (futbolista paraguayo)|González]] {{gol|50}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1954
+|resultado       = 1:2''' (1:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 27 de mayo de 1961
+|estadio         = [[Estadio Manuel Ferreira]]
+|ciudad          = [[Asunción]]
+|asistencia      = 15&nbsp;000
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Luis Doldán|Doldán]] {{gol|10}}
+|golesvisita     = [[José Sasía|Sasía]] {{gol|77|pen.}}<br>[[Luis Cubilla|Cubilla]] {{gol|80}}
+}}
+<br>
+{{Partido
+|local           = [[Independiente Santa Fe|Santa Fe]]
+|paíslocal       = COL
+|resultado       = 2:2''' (1:2)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 21 de mayo de 1961
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|BRA|var=1960|João Etzel Filho}}
+|goleslocal      = [[Alberto Perazzo|Perazzo]] {{gol|8}} <br> [[Roberto José Castro|Castro]] {{gol|52}}
+|golesvisita     = [[Gildo Cunha do Nascimento|Gildo]] {{gol|7}} <br> [[Chinezinho]] {{gol|39}}
+}}
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 4:1''' (3:0)
+|visita          = [[Independiente Santa Fe|Santa Fe]]
+|paísvisita      = COL
+|fecha           = 28 de mayo de 1961
+|estadio         = [[Estadio de Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 40&nbsp;000
+|árbitro         = {{árbitro|COL|Ovidio Orrego}}
+|goleslocal      = [[José Romeiro Cardozo|Romeiro]] {{gol|3||22}}<br>[[Humberto Barbosa Tessi|Barbosa]] {{gol|44||56}}
+|golesvisita     = [[Oscar Mottura|Mottura]] {{gol|60}}
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa de Campeones de América 1961|l1=Final de la Copa de Campeones de América 1961}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:0''' (0:0)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 4 de junio de 1961
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 64&nbsp;376
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Alberto Spencer|Spencer]] {{gol|89}}
+|golesvisita     = 
+|competición=Ida}}
+
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 1:1''' (0:1)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 11 de junio de 1961
+|estadio         = [[Estadio de Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 50&nbsp;377
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Nardo (futbolista)|Nardo]] {{gol|70}}
+|golesvisita     = [[José Sasía|Sasía]] {{gol|5}}
+|competición=Vuelta|suceso=Segunda [[vuelta olímpica]] —la segunda de manera consecutiva— que se da en la [[Copa Libertadores]].<br><br>No hubo entrega del trofeo ni en la cancha, ni en los vestuarios, ni en la sede de [[Peñarol]]. El trofeo le fue entregado a [[Peñarol]] recién en septiembre luego de que venciera al [[Benfica]] por la [[Copa Intercontinental 1961]], donde se le entregó en el campo de juego el [[trofeo de la Copa Libertadores]] —sin la base— y el de la [[Copa Intercontinental]].}}
+<br>
+{{Campeón
+|equipo = [[Club Atlético Peñarol|Peñarol]]
+|bandera = Uruguay
+|orden = 2
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#f8f3ed; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#b5933a"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#ebdcc7
+|{{bandera|ARG|alt}} '''[[Osvaldo Panzutto]]'''
+|{{bandera|COL}} '''[[Independiente Santa Fe|Santa Fe]]'''
+|align=center|'''4'''
+|align=center|'''6'''
+|-
+|{{bandera|ECU|1900}} [[Alberto Spencer]]
+|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|align=center|3
+|align=center|4
+|-
+|{{bandera|PER}} [[Juan Joya]]
+|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|align=center|3
+|align=center|6
+|-
+|{{bandera|ARG|alt}} [[Alberto Perazzo]]
+|{{bandera|COL}} [[Independiente Santa Fe|Santa Fe]]
+|align=center|3
+|align=center|6
+|-
+|{{bandera|URU}} [[José Sasía]]
+|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|align=center|3
+|align=center|6
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1961]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Copa Libertadores 1961}}
+* [http://www.rsssf.com/sacups/copa61.html Copa de Campeones de América de 1961] en [[RSSSF]].
+* [http://www.conmebol.com/ Página web oficial] de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa de Campeones de América 1960|1960]]
+| título     = Copa de Campeones de América 1961
+| período    = II edición
+| sucesor    = [[Copa de Campeones de América 1962|1962]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa de Campeones de América 1961| ]]
+[[Categoría:Temporadas de la Copa Libertadores|1961]]

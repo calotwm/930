@@ -1,0 +1,840 @@
+{{Ficha de competición deportiva
+|nombre          = Campeonato de Primera B Nacional 2006-07
+|nombre_original = [[Primera B Nacional]]
+|deporte         = fútbol
+|país            = [[Argentina]]
+|fecha de inicio = 3 de agosto de 2006
+|fecha de cierre = 2 de junio de 2007
+|edición         = XXI Temporada
+|televisión      = [[TyC Sports]]
+|campeón         = [[Club Olimpo|Olimpo]]<ref>Reglamentariamente fue el ganador del primer ascenso. Posteriormente fue listado como campeón</ref>
+|goleador        = [[Ismael Blanco]]
+|participantes   = 20
+|partidos        = 388
+|goles           = 892 (2,30 por partido)
+|ascendidos      = [[Club Olimpo|Olimpo]] <br /> [[Club Atlético San Martín (San Juan)|San Martín (San Juan)]] <br /> [[Club Atlético Huracán|Huracán]] <small>(por promoción)</small> <br /> [[Club Atlético Tigre|Tigre]] <small>(por promoción)</small>
+|descendidos     = [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]] <small>''(Argentino A)''</small> <br /> [[Club Villa Mitre|Villa Mitre]] <small>''(Argentino A)''</small>
+|anterior        = [[Campeonato de Primera B Nacional 2005-06|B Nacional 2005-06]]
+|siguiente       = [[Campeonato de Primera B Nacional 2007-08|B Nacional 2007-08]]
+}}
+
+El '''Torneo Primera B Nacional 2006-07''', llamado '''Primera B Nacional La Nueva Seguros''' por motivos de patrocinio, fue la vigésima primera temporada de la [[Primera B Nacional|categoría]], y la décima con esta denominación. Fue la última en que se disputaron los torneos en dos fases, ya que en la siguiente el formato se transformó en un certamen de dos ruedas, de ida y vuelta.
+
+En el torneo se incorporaron [[Instituto Atlético Central Córdoba|Instituto]], [[Club Atlético Tiro Federal Argentino|Tiro Federal]] y [[Club Olimpo|Olimpo]] (descendidos de [[Primera División de Argentina|Primera División]]; [[Club Atlético Platense|Platense]], campeón de la [[Primera B (Argentina)|Primera B]]; [[Club Villa Mitre|Villa Mitre]], campeón del [[Torneo Argentino A]] y [[Club Atlético San Martín (Tucumán)|San Martín (T)]], ganador de la promoción. 
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Descendidos de la [[Campeonato de Primera B Nacional 2005-06|Primera B Nacional 2005-06]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato de Primera B 2006-07 (Argentina)|B Metropolitana]]
+|[[Club El Porvenir|El Porvenir]]
+|- style="background: #FFCCCC;"
+|align=center|[[Torneo Argentino A 2006-07|Argentino A]]
+|[[Centro Juventud Antoniana|Juventud Antoniana]]
+|- style="background: #FFCCCC;"
+|align=center|[[Torneo Argentino A 2006-07|Argentino A]]
+|[[Atlético Club San Martín de Mendoza|San Martín (M)]]
+|}
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Ascendidos a la B Nacional 2006-07
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 2005-06 (Argentina)|B Metropolitana]]
+|[[Club Atlético Platense|Platense]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 2005-06|Argentino A]]
+|[[Club Villa Mitre|Villa Mitre]]
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 2005-06|Argentino A]]
+|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Pos.
+! width=310|Ascendidos a la [[Campeonato de Primera División 2006-07 (Argentina)|Primera División 2006-07]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B Nacional 2005-06|Campeón]]
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B Nacional 2005-06|Seg. Asc.]]
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B Nacional 2005-06|Promoción]]
+|[[Club Atlético Belgrano|Belgrano]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Prom.
+! width=310|Descendidos de la [[Campeonato de Primera División 2005-06 (Argentina)|Primera División 2005-06]] 
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_2005-06_(Argentina)#Tabla_de_descenso|18.º]]
+|[[Club Olimpo|Olimpo]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_2005-06_(Argentina)#Tabla_de_descenso|19.º]]
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_2005-06_(Argentina)#Tabla_de_descenso|20.º]]
+|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+|}
+{{Final columnas}}
+
+== Equipos participantes ==
+
+<center>
+{| class="wikitable sortable"
+!Equipo
+!Ciudad
+!Estadio
+!Capacidad
+|-
+| [[Club Atlético Aldosivi|Aldosivi]]
+| [[Mar del Plata]]
+| [[Estadio José María Minella|José María Minella]]
+| 35 354
+|-
+| [[Club Almagro|Almagro]]
+| [[Buenos Aires]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]
+| 20 000
+|-
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| [[Rafaela]]
+| [[Estadio Nuevo Monumental|Nuevo Monumental]]
+| 26 660
+|-
+| [[Club Sportivo Ben Hur|Ben Hur]]
+| [[Rafaela]]
+| [[Estadio Parque|Parque]]
+| 13 000
+|-
+| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+| [[Villa Maipú]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]*
+| 20 000
+|-
+| [[Comisión de Actividades Infantiles|CAI]]
+| [[Comodoro Rivadavia]]
+| [[Municipal de Comodoro Rivadavia]]
+| 12 000
+|-
+| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+| [[Gobernador Julio A. Costa|Gobernador Costa]]
+| [[Estadio Norberto Tomaghello|Norberto Tomaghello]]
+| 12 000
+|-
+| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+| [[Buenos Aires]]
+| [[Estadio Arquitecto Ricardo Etcheverri|Arquitecto Ricardo Etcheverri]]
+| 24 268
+|-
+| [[Club Atlético Huracán|Huracán]]
+| [[Buenos Aires]]
+| [[Estadio Tomás Adolfo Ducó|Tomás A. Ducó]]
+| 48 314 
+|-
+| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+| [[Tres Arroyos]]
+| [[Estadio Roberto Lorenzo Bottino|Roberto L. Bottino]]
+| 10 000 
+|-
+| [[Instituto Atlético Central Córdoba|Instituto]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+| 32 000
+|-
+| [[Club Olimpo|Olimpo]]
+| [[Bahía Blanca]]
+| [[Estadio Roberto Natalio Carminatti|Roberto N. Carminatti]]
+| 20 000
+|-
+| [[Club Atlético Platense|Platense]]
+| [[Florida (Argentina)|Florida]]
+| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]
+| 31 030
+|-
+| [[Club Atlético San Martín (San Juan)|San Martín]]
+| [[San Juan (Argentina)|San Juan]]
+| [[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]
+| 19 500
+|-	
+| [[Club Atlético San Martín (Tucumán)|San Martín]]
+| [[San Miguel de Tucumán]]
+| [[Estadio La Ciudadela|La Ciudadela]] 
+| 26 500
+|-
+| [[Club Atlético Talleres (Córdoba)|Talleres]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Boutique de Barrio Jardín|Boutique de Barrio Jardín]]<br />[[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+| 18 000<br /> 57 000
+|-
+| [[Club Atlético Tigre|Tigre]]
+| [[Victoria (Buenos Aires)|Victoria]]
+| [[Estadio José Dellagiovanna|José Dellagiovanna]]
+| 30 000
+|-
+| [[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+| [[Rosario (Argentina)|Rosario]]
+| [[Estadio Fortín de Ludueña|Fortín de Ludueña]]
+| 18 000
+|-
+| [[Club Atlético Unión (Santa Fe)|Unión]]
+| [[Santa Fe de la Vera Cruz|Santa Fe]]
+| [[Estadio 15 de Abril|15 de Abril]]
+| 25 000
+|-
+| [[Club Villa Mitre|Villa Mitre]]
+| [[Bahía Blanca]]
+| [[Estadio El Fortín|El Fortín]]
+| 12 000
+|-
+|}
+*Propiedad del | [[Club Almagro|Almagro]]
+</center>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=270|Región
+! width=25|Cant.
+! width=400|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires|Conurbano bonaerense]]||align=center|5|| align="center" |[[Club Almagro|Almagro]], [[Club Atlético Chacarita Juniors|Chacarita Juniors,]] [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]], [[Club Atlético Platense|Platense]] y [[Club Atlético Tigre|Tigre]]
+|-
+|{{bandera2|Santa Fe}}||align=center|4|| align="center" |[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]], [[Club Sportivo Ben Hur|Ben Hur]], [[Club Atlético Tiro Federal Argentino|Tiro Federal]] y [[Club Atlético Unión (Santa Fe)|Unión]]
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]|| align="center" |4|| align="center" |[[Club Atlético Aldosivi|Aldosivi]], [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]], [[Club Olimpo|Olimpo]] y [[Club Villa Mitre|Villa Mitre]]
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]|| align="center" |2|| align="center" |[[Club Ferro Carril Oeste|Ferro Carril Oeste]] y [[Club Atlético Huracán|Huracán]]
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Córdoba]]|| align="center" |2|| align="center" |[[Instituto Atlético Central Córdoba|Instituto]] y [[Club Atlético Talleres (Córdoba)|Talleres]]
+|-
+|{{bandera2|San Juan}}|| align="center" |1|| align="center" |[[Club Atlético San Martín (San Juan)|San Martín]]
+|-
+|{{bandera|Tucumán}} [[Provincia de Tucumán|Tucumán]]|| align="center" |1|| align="center" |[[Club Atlético San Martín (Tucumán)|San Martín]]
+|-
+|{{bandera2|Chubut}}||align=center|1||align=center|[[Comisión de Actividades Infantiles|CAI]]
+|}
+</center>
+
+== Formato ==
+===Competición===
+Se disputaron dos torneos llamados Apertura y Clausura. En cada uno de ellos, los 20 equipos se enfrentaron todos contra todos. Ambos se jugaron a una sola rueda. Los partidos disputados en el Torneo Clausura representaron los desquites de los del Torneo Apertura, invirtiendo la localía. Si el ganador de ambas fases fuera el mismo equipo, sería el campeón. En cambio, si los ganadores del Apertura y el Clausura fueran dos equipos distintos disputarían una final a dos partidos para determinarlo.
+
+===Ascenso===
+Al ganar los dos torneos el mismo equipo, se consagró campeón y obtuvo el ascenso a la [[Primera División Argentina|Primera División]]. Los equipos ubicados en 2.º y 3.º lugar de la tabla de posiciones general disputaron una final para determinar el segundo ascenso. El perdedor de esta final disputó una ''Promoción'' ante el equipo ubicado en el 18.º lugar de la tabla de promedios de esa categoría, mientras que los equipos ubicados entre el 4.º y el 7.º lugar disputaron un ''Torneo Reducido'' cuyo ganador disputó la otra promoción, contra el 17.º de la tabla de promedios de Primera División.
+
+===Descenso===
+
+Se decidió mediante una tabla de promedios de puntos obtenidos de las últimas 3 temporadas. Los dos últimos de la tabla descendieron a su categoría de origen: si estaban directamente afiliados a la AFA (Clubes de la ciudad de Buenos Aires y alrededores), a la Primera "B" Metropolitana y si estaban indirectamente afiliados (clubes del interior del país), al Torneo Argentino "A".
+También se jugaron dos promociones: el equipo directamente afiliado y el indirectamente afiliado peor ubicados disputaron una ''Promoción'' con un equipo de la Primera B Metropolitana y del Torneo Argentino A, respectivamente.
+
+== Torneo Apertura ==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- bgcolor=#90EE90
+||'''1.º'''||align="left"| '''[[Club Olimpo|Olimpo]]'''
+||'''40'''||19||12||4||3||29||17||19
+|-
+||'''2.º'''||align="left"| [[Club Atlético Platense|Platense]]
+||'''38'''||19||11||5||3||31||14||17
+|-
+||'''3.º'''||align="left"| [[Club Atlético Tigre|Tigre]]
+||'''35'''||19||10||5||4||23||17||6
+|-
+||'''4.º'''||align="left"| [[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||'''34'''||19||9||7||3||25||18||7
+|-
+||'''5.º'''||align="left"| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+||'''33'''||19||8||9||2||22||14||8
+|-
+||'''6.º'''||align="left"| [[Club Atlético Huracán|Huracán]]
+||'''33'''||19||9||6||4||29||26||3
+|-
+||'''7.º'''||align="left"| [[Atlético de Rafaela]]    
+||'''32'''||19||9||5||5||24||14||10
+|-
+||'''8.º'''||align="left"| [[Club Atlético Unión (Santa Fe)|Unión]]  
+||'''28'''||19||8||4||7||28||17||11
+|-
+||'''9.º'''||align="left"| [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+||'''25'''||19||6||7||6||21||20||1
+|-
+||'''10.º'''||align="left"| [[Club Atlético Aldosivi|Aldosivi]]    
+||'''24'''||19||6||6||7||25||32||-7
+|-
+||'''11.º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||'''23'''||19||6||5||8||26||27||-1
+|-
+||'''12.º'''||align="left"| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''23'''||19||6||5||8||19||23||-4
+|-
+||'''13.º'''||align="left"| [[Instituto Atlético Central Córdoba|Instituto]] 
+||'''20'''||19||5||5||9||22||29||-7
+|-
+||'''14.º'''||align="left"| [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+||'''19'''||19||4||7||8||19||23||-4
+|-
+||'''15.º'''||align="left"| [[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||'''19'''||19||4||7||8||23||28||-5
+|-
+||'''16.º'''||align="left"| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]             
+||'''19'''||19||4||7||8||11||19||-8
+|-
+||'''17.º'''||align="left"| [[Club Almagro|Almagro]]
+||'''19'''||19||4||7||8||18||31||-13
+|-
+||'''18.º'''||align="left"| [[Club Villa Mitre|Villa Mitre]]
+||'''17'''||19||3||8||8||22||27||-5
+|-
+||'''19.º'''||align="left"| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]                            
+||'''16'''||19||3||7||9||17||33||-16
+|-
+||'''20.º'''||align="left"| [[Club Sportivo Ben Hur|Ben Hur]]
+||'''13'''||19||3||4||12||22||34||-12
+|}
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff align=left|<small>Ganador del Torneo Apertura.
+|}
+</center>
+
+== Torneo Clausura ==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- bgcolor=#90EE90
+||'''1.º'''||align="left"| '''[[Club Olimpo|Olimpo]]'''
+||'''38'''||19||11||5||3||29||14||15
+|-
+||'''2.º'''||align="left"| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''38'''||19||11||5||3||28||16||12
+|-
+||'''3.º'''||align="left"| [[Club Atlético Huracán|Huracán]]
+||'''36'''||19||10||6||3||33||20||13
+|-
+||'''4.º'''||align="left"| [[Atlético de Rafaela]]
+||'''36'''||19||10||6||3||27||17||10
+|-
+||'''5.º'''||align="left"| [[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||'''35'''||19||9||8||2||26||12||14
+|-
+||'''6.º'''||align="left"| [[Club Atlético Tigre|Tigre]]
+||'''32'''||19||8||8||3||25||15||10
+|-
+||'''7.º'''||align="left"| [[Club Almagro|Almagro]]    
+||'''30'''||19||8||6||5||26||24||2
+|-
+||'''8.º'''||align="left"| [[Club Atlético Unión (Santa Fe)|Unión]]  
+||'''29'''||19||7||8||4||17||16||1
+|-
+||'''9.º'''||align="left"| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+||'''28'''||19||8||4||7||21||16||5
+|-
+||'''10.º'''||align="left"| [[Club Atlético Platense|Platense]]    
+||'''23'''||19||7||2||10||19||25||-6
+|-
+||'''11.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||'''23'''||19||7||2||10||16||23||-7
+|-
+||'''12.º'''||align="left"| [[Club Sportivo Ben Hur|Ben Hur]]
+||'''23'''||19||7||2||10||19||28||-9
+|-
+||'''13.º'''||align="left"| [[Comisión de Actividades Infantiles|CAI]] 
+||'''22'''||19||5||7||7||17||16||1
+|-
+||'''14.º'''||align="left"| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+||'''22'''||19||6||4||9||19||23||-4
+|-
+||'''15.º'''||align="left"| [[Club Atlético Aldosivi|Aldosivi]]
+||'''21'''||19||6||3||10||19||25||-6
+|-
+||'''16.º'''||align="left"| [[Club Atlético Tiro Federal Argentino|Tiro Federal]]             
+||'''20'''||19||4||8||7||12||15||-3
+|-
+||'''17.º'''||align="left"| [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+||'''19'''||19||4||7||8||17||29||-12
+|-
+||'''18.º'''||align="left"| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''16'''||19||3||7||9||8||18||-10
+|-
+||'''19.º'''||align="left"| [[Club Villa Mitre|Villa Mitre]]                            
+||'''16'''||19||4||4||11||18||30||-12
+|-
+||'''20.º'''||align="left"| [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+||'''9'''||19||1||6||12||15||29||-14
+|}
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff align=left|<small>Ganador del Torneo Clausura.
+|}
+</center>
+
+== Tabla de posiciones final ==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!  Equipo
+!  Pts
+!  PJ
+!  PG
+!  PE
+!  PP
+!  GF 
+!  GC 
+!  DIF
+|-style="background: #90EE90;"
+||'''1.º'''||align="left"|[[Club Olimpo|Olimpo]]
+||'''78'''||38||23||9||6||65||31||34
+|-style="background: #ACE1AF;"
+||'''2.º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]  
+||'''69'''||38||18||15||5||51||30||21
+|-style="background: #ACE1AF;"
+||'''3.º'''||align="left"|[[Club Atlético Huracán|Huracán]]  
+||'''69'''||38||19||12||7||62||46||16
+|-style="background: #CCFFCF;"
+||'''4.º'''||align="left"|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+||'''68'''||38||19||11||8||51||31||20
+|-style="background: #CCFFCF;"
+||'''5°'''||align="left"|[[Club Atlético Tigre|Tigre]]
+||'''67'''||38||18||13||7||48||32||16
+|-style="background: #CCFFCF;"
+||'''6.º'''||align="left"|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]   
+||'''61'''||38||16||13||9||43||30||13
+|-style="background: #CCFFCF;"
+||'''7.º'''||align="left"|[[Club Atlético Platense|Platense]]  
+||'''61'''||38||18||7||13||50||39||11
+|- style="text-align:center"
+||'''8.º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]  
+||'''57'''||38||15||12||11||45||33||12
+|- style="text-align:center"
+||'''9.º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''57'''||38||15||12||11||39||35||4
+|- style="text-align:center"
+||'''10.º'''||align="left"|[[Club Almagro|Almagro]]
+||'''49'''||38||12||13||13||44||55||-11
+|- style="text-align:center"   
+||'''11.º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||'''45'''||38||11||12||15||43||43||0
+|- style="text-align:center"
+||'''12.º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]   
+||'''45'''||38||12||9||17||44||57||-13
+|- style="text-align:center"
+||'''13.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]    
+||'''44'''||38||10||14||14||38||49||-11
+|- style="text-align:center"
+||'''14.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]        
+||'''43'''||38||12||7||19||38||52||-14
+|- style="text-align:center"
+||'''15.º'''||align="left"|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||'''39'''||38||8||15||15||35||43||-8
+|- style="text-align:center"
+||'''16.º'''||align="left"|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]  
+||'''39'''||38||9||12||17||27||41||-14
+|- style="text-align:center"
+||'''17.º'''||align="left"|[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+||'''38'''||38||9||11||18||36||56||-20
+|- style="text-align:center"
+||'''18.º'''||align="left"|[[Club Sportivo Ben Hur|Ben Hur]]
+||'''36'''||38||10||6||22||41||62||-21
+|- style="text-align:center"
+||'''19°'''||align="left"|[[Club Villa Mitre|Villa Mitre]] 
+||'''33'''||38||7||12||19||40||57||-17
+|- style="text-align:center"
+||'''20.º'''||align="left"|[[Club Atlético Talleres (Córdoba)|Talleres (C)]]<ref group="n.">Se le descontaron 2 puntos</ref>
+||'''26'''||38||5||13||20||34||52||-18
+|}
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff|<small>Ascendió a [[Primera División Argentina|Primera División]] tras ganar el Apertura y el Clausura. 
+|-
+|bgcolor=#ACE1AF|
+|bgcolor=#ffffff align=left|<small>Jugaron la final por el segundo ascenso.
+|-
+|bgcolor=#CCFFCF|
+|bgcolor=#ffffff align=left|<small>Clasificados al ''Torneo Reducido'' por un lugar en la ''Promoción''.
+|}
+{|
+| <small>{{listaref|group="n."}}</small>
+|}
+</center>
+
+== Final por el segundo ascenso ==
+
+La final por el segundo ascenso a la Primera División se disputó entre [[Club Atlético Huracán|Huracán]] y [[Club Atlético San Martín (San Juan)|San Martín (SJ)]], los equipos mejor ubicados en la tabla general de la temporada luego de [[Olimpo de Bahía Blanca|Olimpo]].
+{| border=1 style="border-collapse:collapse; font-size:100%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#EFEFEF align=center
+!width=16%|Fecha
+!width=17%|Sede
+!width=30%|Equipo local
+!width=7%|Resultado
+!width=30%|Equipo visitante
+|- bgcolor=#f9f9f9
+
+|- align=center bgcolor=#f9f9f9
+|9 de junio
+|[[Buenos Aires]]
+|bgcolor=#D0E7FF|'''[[Club Atlético Huracán|Huracán]]
+|1 - 0
+|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+|- align=center bgcolor=#f9f9f9
+|16 de junio
+|[[Ciudad de San Juan (Argentina)|San Juan]]
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 1
+|Huracán
+|- align=center bgcolor=#f9f9f9
+|colspan=5|'''San Martín (SJ)''' asciende con un resultado global de '''3-2''' y Huracán debe jugar la promoción.
+|}
+
+== Torneo reducido ==
+Lo jugaron [[Atlético de Rafaela]] (4.º en la general), [[Club Atlético Tigre|Tigre]] (5.º), [[Club Atlético Chacarita Juniors|Chacarita Juniors]] (6.º) y [[Club Atlético Platense|Platense]] (7.º).
+El ganador jugó la Promoción por el ascenso contra [[Club Atlético Nueva Chicago|Nueva Chicago]].
+
+{{Copa
+  | RD1= Semifinales
+  | seeds = no
+  | RD1-team1= '''[[Club Atlético Tigre|Tigre]]| RD1-score1-1= '''2| RD1-score1-2= '''1
+  | RD1-team2= [[Club Atlético Chacarita Juniors|Chacarita Juniors]]| RD1-score2-1= 3| RD1-score2-2= 0
+  | RD1-team3= [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]| RD1-score3-1= 0| RD1-score3-2= 2
+  | RD1-team4= '''[[Club Atlético Platense|Platense]]| RD1-score4-1= '''1| RD1-score4-2= '''2
+  | RD2= Final
+  | RD2-team1= '''[[Club Atlético Tigre|Tigre]]| RD2-score1-1= '''0| RD2-score1-2= '''2
+  | RD2-team2= [[Club Atlético Platense|Platense]]| RD2-score2-1= 0| RD2-score2-2= 0
+}}
+
+=== Semifinales ===
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Reducido
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|3 - 2
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Chacarita Juniors
+|-
+|colspan="6"| '''Tigre''' pasó de ronda con un global '''3 - 3''' gracias a la ventaja deportiva.
+|}
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Reducido
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''Platense
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''2 - 2
+|Platense
+|-
+|colspan="6"| '''Platense''' pasó de ronda con un global '''3 - 2'''.
+|}
+
+=== Final ===
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Reducido
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 0
+|Platense
+|-
+|colspan="6"| '''Tigre''' pasó a jugar la Promoción con un global '''2 - 0'''.
+|}
+
+== Promoción con Primera División ==
+
+La disputaron entre los que ocuparon el decimoséptimo ([[Club Atlético Nueva Chicago|Nueva Chicago]]) y decimoctavo ([[Godoy Cruz de Mendoza|Godoy Cruz]]) del promedio del descenso de Primera División frente a [[Club Atlético Tigre|Tigre]], ganador del reducido y [[Club Atlético Huracán|Huracán]], perdedor de la final por el segundo ascenso. Los equipos de la categoría superior tuvieron ventaja deportiva.
+
+{| border=1 style="border-collapse:collapse; font-size:100%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#EFEFEF align=center
+!width=16%|Fecha
+!width=17%|Sede
+!width=30%|Equipo local
+!width=7%|Resultado
+!width=30%|Equipo visitante
+|- bgcolor=#f9f9f9
+
+|- align=center bgcolor=#f9f9f9
+|20 de junio
+|[[Buenos Aires]]
+|bgcolor=#D0E7FF|'''[[Club Atlético Huracán|Huracán]]
+|2 - 0
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|- align=center bgcolor=#f9f9f9
+|24 de junio
+|[[provincia de Mendoza|Mendoza]]
+|Godoy Cruz
+|2 - 3
+|bgcolor=#D0E7FF|'''Huracán
+|- align=center bgcolor=#f9f9f9
+|colspan=5|'''Huracán''' asciende con un resultado global de '''5-2'''
+|}
+
+
+{| border=1 style="border-collapse:collapse; font-size:100%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#EFEFEF align=center
+!width=16%|Fecha
+!width=17%|Sede
+!width=30%|Equipo local
+!width=7%|Resultado
+!width=30%|Equipo visitante
+|- bgcolor=#f9f9f9
+
+|- align=center bgcolor=#f9f9f9
+|21 de junio
+|[[Victoria (Buenos Aires)|Victoria]]
+|bgcolor=#D0E7FF|'''[[Club Atlético Tigre|Tigre]]
+|1 - 0
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+
+|- align=center bgcolor=#f9f9f9
+|25 de junio
+|[[Buenos Aires]]
+|Nueva Chicago
+|1 - 2
+|bgcolor=#D0E7FF|'''Tigre
+|- align=center bgcolor=#f9f9f9
+|colspan=5|'''Tigre''' asciende con un resultado global de '''3-1'''
+|}
+
+== Tabla de promedios ==
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! [[Campeonato de Primera B Nacional 2004-05|04-05]]
+! [[Campeonato de Primera B Nacional 2005-06|05-06]]
+! 06-07
+! Total
+! PJ
+! Promedio
+|-
+||'''1.º'''||align="left"|[[Club Olimpo|Olimpo]]
+||-||-||78||78||38||'''2,052'''
+|-
+||'''2.º'''||align="left"|[[Club Atlético Huracán|Huracán]]
+||61||56||69||186||114||'''1,631'''
+|-
+||'''3.º'''||align="left"|[[Club Atlético Platense|Platense]]
+||-||-||61||61||38||'''1,605'''
+|-
+||'''3.º'''||align="left"|[[Club Atlético Tigre|Tigre]]
+||-||55||67||122||76||'''1,605'''
+|-
+||'''5.º'''||align="left"|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+||58||53||68||179||114||'''1,570'''
+|-
+||'''6.º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||52||55||69||176||114||'''1,543'''
+|-
+||'''7.º'''||align="left"|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+||45||60||61||166||114||'''1,456'''
+|-
+||'''8.º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+||51||46||57||154||114||'''1,350'''
+|-
+||'''9.º'''||align="left"|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||63||-||39||102||76||'''1,342'''
+|-
+||'''10.º'''||align="left"|[[Club Almagro|Almagro]]
+||-||52||49||101||76||'''1,328'''
+|-
+||'''11.º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||61||44||45||150||114||'''1,315'''
+|-
+||'''12.º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||40||51||57||148||114||'''1,298'''
+|-
+||'''13.º'''||align="left"|[[Club Atlético Aldosivi|Aldosivi]]
+||-||48||45||93||76||'''1,223'''
+|- style="background: #FFFFCC;"
+||'''14.º'''||align="left"|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||52||43||39||134||114||'''1,175'''
+|-
+||'''15.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+||-||-||44||44||38||'''1,157''' 
+|-
+||'''16.º'''||align="left"|[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+||49||55||26||130||114||'''1,140'''
+|- style="background: #FFFFDD;" 
+||'''17.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||-||-||43||43||38||'''1,131'''
+|- style="background: #FFFFDD;"
+||'''18.º'''||align="left"|[[Club Sportivo Ben Hur|Ben Hur]]
+||-||50||36||86||76||'''1,131'''
+|-style="background: #FFCCCC;"
+||'''19.º'''||align="left"|[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]] 
+||-||39||38||77||76||'''1,013'''
+|-style="background: #FFCCCC;"
+||'''20.º'''||align="left"|[[Club Villa Mitre|Villa Mitre]]
+||-||-||33||33||38||'''0,868'''
+|-
+|}
+
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;text-align:center;"
+|-
+| style="background: #FFFFCC" width="20" |
+| bgcolor="#ffffff" align="left" | Jugó la Promoción por la permanencia.
+|-
+| style="background: #FFFFDD" width="20" |
+| bgcolor="#ffffff" align="left" | Jugaron un desempate para determinar qué equipo disputaría la Promoción por la permanencia.
+|-
+| style="background: #FFCCCC" width="20" |
+| bgcolor="#ffffff" align="left" | Descendieron al [[Torneo Argentino A 2007-08|Torneo Argentino A]].
+|-
+|}
+</center>
+
+== Partido de desempate por promoción ==
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Partido
+|-
+
+Instituto y Ben Hur, al tener el mismo promedio, tuvieron que jugar un partido de desempate donde el perdedor jugó la promoción contra [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]. El partido se jugó en Rosario en la cancha de [[Club Atlético Newell's Old Boys|Newell's Old Boys]].
+
+!width="150"|Equipo 1
+!width="75"|Resultado 
+!width="150"|Equipo 2 
+!width="95"|Fecha 
+|-align=center
+|Ben Hur
+|'''0 - 0'''<br>{{small|(3 - 4)}}
+|bgcolor=#D0E7FF|'''Instituto
+|5 de junio
+|-align=center
+|colspan="6"| '''Instituto''' mantuvo la categoría, Ben Hur tuvo que jugar la promoción.
+|}
+
+== Promoción con Primera B y Torneo Argentino A ==
+
+[[Ferro Carril Oeste]], por la zona metropolitana y [[Club Sportivo Ben Hur|Ben Hur]] (tras perder un partido desempate con [[Instituto Atlético Central Córdoba|Instituto]] al empatar en promedios), por la zona interior debieron revalidar su plaza frente a [[Club Atlético Estudiantes|Estudiantes (BA)]] y [[Club Social y Atlético Guillermo Brown|Guillermo Brown]], respectivamente. 
+
+
+{| border=1 style="border-collapse:collapse; font-size:100%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#EFEFEF align=center
+!width=16%|Fecha
+!width=17%|Sede
+!width=30%|Equipo local
+!width=7%|Resultado
+!width=30%|Equipo visitante
+|- bgcolor=#f9f9f9
+
+|- align=center bgcolor=#f9f9f9
+|7 de julio
+|[[Caseros]]
+|[[Club Atlético Estudiantes|Estudiantes (BA)]]
+|bgcolor=#D0E7FF|'''0 - 0
+|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|- align=center bgcolor=#f9f9f9
+|11 de julio
+|[[Buenos Aires]]
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|- align=center bgcolor=#f9f9f9
+|colspan=5|'''Ferro Carril Oeste''' mantiene la categoría por ventaja deportiva (resultado global '''1-1''') 
+|}
+
+{| border=1 style="border-collapse:collapse; font-size:100%;" cellpadding=3 cellspacing=0 width=100%
+|- bgcolor=#EFEFEF align=center
+!width=16%|Fecha
+!width=17%|Sede
+!width=30%|Equipo local
+!width=7%|Resultado
+!width=30%|Equipo visitante
+|- bgcolor=#f9f9f9
+
+|- align=center bgcolor=#f9f9f9
+|9 de julio
+|[[Puerto Madryn]]
+|[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+|0 - 1
+|bgcolor=#D0E7FF|'''[[Club Sportivo Ben Hur|Ben Hur]]'''
+|- align=center bgcolor=#f9f9f9
+|13 de julio
+|[[Rafaela]]
+|bgcolor=#D0E7FF|'''Ben Hur'''
+|3 - 0
+|Guillermo Brown
+|- align=center bgcolor=#f9f9f9
+|colspan=5|'''Ben''' '''Hur''' mantiene la categoría con un resultado global de 4-0
+|}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/tablesa/arg2-07.html RSSSF]
+
+{{Sucesión
+| título = XXI Temporada de la [[Primera B Nacional]]
+| período = <small>'''Campeón: [[Club Olimpo|Olimpo]] (2.º título)</small> 
+| predecesor = [[Campeonato de Primera B Nacional 2005-06|Primera B Nacional 2005-06]]
+| sucesor = [[Campeonato de Primera B Nacional 2007-08|Primera B Nacional 2007-08]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Primera B Nacional|2007]]
+[[Categoría:Fútbol en Argentina en 2006]]
+[[Categoría:Fútbol en Argentina en 2007]]
+[[Categoría:Torneos regulares de fútbol en la era profesional de la Segunda División de Argentina]]

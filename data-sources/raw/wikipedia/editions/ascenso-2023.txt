@@ -1,0 +1,6094 @@
+{{Ficha de competición deportiva
+| nombre = Primera Nacional 2023
+| nombre_original = [[Primera B Nacional]]
+| deporte = fútbol
+| país = [[Argentina]]
+| fecha de inicio = 3 de febrero
+| fecha de cierre = 2 de diciembre
+| edición = XXXIX temporada
+| televisión = [[TyC Sports]]<br />[[TyC Sports|TyC Sports Play]]<br />[[DSports]]
+| campeón = {{nowrap|[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]}}
+| goleador = {{bandera|PAR}} [[Alex Arce]] <small>(26 goles)</small>
+| participantes = 37
+| partidos = 669
+| goles = 1412 {{small|({{#expr: 1411/669 round 2}} por partido)}}
+| ascendidos = {{nowrap|Independiente Rivadavia}}<br />Deportivo Riestra
+| descendidos = [[Club Social y Deportivo Flandria|Flandria]]<br />[[Club Villa Dálmine|Villa Dálmine]]
+| torneo1 = [[Copa Argentina 2024]]
+| clasificado1 = [[Club Agropecuario Argentino|Agropecuario]]<br />[[Club Almirante Brown|Almirante Brown]]<br />[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]<br />[[Club Atlético Chacarita Juniors|Chacarita Juniors]]<br />[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]<br />[[Club Deportivo Maipú|Deportivo Maipú]]<br />[[Club Deportivo Riestra|Deportivo Riestra]]<br />[[Asociación Atlética Estudiantes|Estudiantes (RC)]]<br />[[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]<br />{{nowrap|Independiente Rivadavia}}<br />[[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]<br />[[Quilmes Atlético Club|Quilmes]]<br />[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]<br />[[Club Atlético San Martín (Tucumán)|San Martín (T)]]<br />[[Club Atlético Temperley|Temperley]]
+| anterior = [[Campeonato de Primera Nacional 2022|Primera Nacional 2022]]
+| siguiente = [[Campeonato de Primera Nacional 2024|Primera Nacional 2024]]
+| imagen =
+| imagen_pie = El [[Estadio Juan Domingo Perón]], sede de la final del reducido por el segundo ascenso.
+}}
+El '''Campeonato de Primera Nacional «Campeones del Mundo» 2023''' fue la trigésima novena edición del [[Primera B Nacional|certamen]], [[segunda categoría del fútbol argentino]], en el que participaron treinta y siete equipos. Comenzó el 3 de febrero y terminó el 2 de diciembre. Las zonas y el cronograma de partidos fueron sorteados el 29 de diciembre de 2022.
+
+[[Archivo:Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg|miniaturadeimagen|250x250px|[[Estadio Mario Alberto Kempes]], sede de la final por el título en la que se enfrentaron Independiente Rivadavia y Almirante Brown.]]
+
+Los nuevos participantes fueron los dos equipos descendidos de la [[Campeonato de Primera División 2022 (Argentina)|Primera División 2022]]: [[Club Atlético Aldosivi|Aldosivi]], que volvió después de su última participación en la [[Campeonato de Primera B Nacional 2017-18|temporada 2017-18]]; y [[Club Atlético Patronato de la Juventud Católica|Patronato]], que regresó luego de su última participación en la [[Campeonato de Primera B Nacional 2015|temporada 2015]]. A su vez, se agregaron los dos ascendidos de la [[Tercera categoría del fútbol argentino|tercera categoría]]: el campeón de la [[Campeonato de Primera B 2022 (Argentina)|Primera B 2022]], [[Club Atlético Defensores Unidos|Defensores Unidos]], de la ciudad de [[Zárate (Buenos Aires)|Zárate]], en su primera participación; y el campeón del [[Torneo Federal A 2022]], [[Club Atlético Racing|Racing]], de la ciudad de [[Córdoba (Argentina)|Córdoba]], que recuperó la categoría luego de su última intervención en la [[Campeonato de Primera B Nacional 2004-05|edición 2004-05]].
+
+Consagró campeón al [[Club Sportivo Independiente Rivadavia]], que ascendió por primera vez a la [[Primera División de Argentina|Primera División]]. También logró su primer ascenso el [[Club Deportivo Riestra]], ganador del Torneo reducido. Por su parte, descendieron dos equipos a la [[Primera B (Argentina)|Primera B]], en orden a su afiliación.
+
+== Ascensos y descensos ==
+{{Columnas}}
+{| class="wikitable"
+! width=100|Torneo
+! width=310|Descendidos de la [[Campeonato de Primera Nacional 2022|Primera Nacional 2022]]
+|- style="background: #FFCCCC;"
+|align=center|[[Primera B (Argentina)|Primera B]]
+|[[Sacachispas Fútbol Club|Sacachispas]]
+|- style="background: #FFCCCC;"
+|align=center|[[Torneo Federal A|Federal A]]
+|[[Club y Biblioteca Ramón Santamarina|Ramón Santamarina]]
+|}
+{{Nueva columna}}
+{| class="wikitable"
+! width=100|Torneo
+! width=310|Ascendidos a la Primera Nacional 2023
+|- style="background: #CCFFCC;"
+|align=center|[[Campeonato de Primera B 2022 (Argentina)#Torneo reducido|Primera B]]
+|[[Club Atlético Defensores Unidos|Defensores Unidos]]
+|- style="background: #CCFFCC;"
+|align=center|[[Torneo Federal A 2022#Etapa eliminatoria 2|Federal A]]
+|[[Club Atlético Racing|Racing (C)]]
+|}
+{{Final columnas}}{{Columnas}}
+{| class="wikitable"
+! width=100|Pos.
+! width=310|Ascendidos a la [[Campeonato de Primera División 2023 (Argentina)|Primera División 2023]] 
+|- style="background: #CCFFCC;"
+|align=center|[[Campeonato de Primera Nacional 2022#Tabla de posiciones final|1.º]]
+|[[Club Atlético Belgrano|Belgrano]]
+|- style="background: #CCFFCC;"
+|align=center|[[Campeonato de Primera Nacional 2022#Torneo reducido por el segundo ascenso|Gan. red.]]
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|}
+{{Nueva columna}}
+{| class="wikitable"
+! width=100|Prom.
+! width=310|Descendidos de la [[Campeonato de Primera División 2022 (Argentina)|Primera División 2022]] 
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato de Primera División 2022 (Argentina)#Tabla de descenso|27.º]]
+|[[Club Atlético Patronato de la Juventud Católica|Patronato]]
+|- style="background: #FFCCCC"
+|align=center|[[Campeonato de Primera División 2022 (Argentina)#Tabla de descenso|28.º]]
+|[[Club Atlético Aldosivi|Aldosivi]]
+|}
+{{Final columnas}}
+
+== Equipos participantes ==
+{| class="wikitable sortable col4cen" style="margin: auto;"
+! Equipo
+! Localidad
+! Estadio
+!  data-sort-type=number |Capacidad
+|-
+| [[Club Agropecuario Argentino|Agropecuario]]
+| [[Carlos Casares (Buenos Aires)|Carlos Casares]]
+| [[Estadio Ofelia Rosenzuaig|Ofelia Rosenzuaig]]
+| align=center|8000<ref>{{Cita web|url=http://www.mundoascenso.com.ar/club/279-agropecuario-argentino|título=El sitio de Agropecuario Argentino en Mundo Ascenso|fechaacceso=2023-10-24|sitioweb=Mundoascenso|idioma=}}</ref>
+|-
+| [[Club Atlético Aldosivi|Aldosivi]]
+| [[Mar del Plata]]
+| [[Estadio José María Minella|José María Minella]]
+| 35&nbsp;180<ref name="Minella">{{Cita web|url=http://www.mardelplata.gob.ar/Contenido/estadio-jos%C3%A9-mar%C3%ADa-minella|título=Capacidad del estadio José María Minella en el sitio de la Municipalidad de General Pueyrredón|}}</ref>
+|-
+| [[Club Atlético All Boys|All Boys]]
+| [[Buenos Aires]]
+| [[Estadio Islas Malvinas|Islas Malvinas]]
+| align=center|21&nbsp;500<ref>[https://www.transfermarkt.com.ar/ca-all-boys-buenos-aires/stadion/verein/12100 Capacidad del estadio Islas Malvinas, en Transfermarkt]</ref>
+|-
+| [[Club Almagro|Almagro]]
+| [[José Ingenieros (Buenos Aires)|José Ingenieros]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]
+| align=center|19&nbsp;000<ref>[https://www.transfermarkt.es/club-almagro-de-buenos-aires/spielplan/verein/14977 Capacidad del estadio Tres de Febrero, en Transfermarkt]</ref>
+|-
+| [[Club Almirante Brown|Almirante Brown]]
+| [[San Justo (Buenos Aires)|San Justo]]
+| [[Estadio Fragata Presidente Sarmiento|Fragata Presidente Sarmiento]]
+| align=center|25&nbsp;000<ref>[https://www.estadiosdeargentina.com.ar/cancha-de-almirante-brown/ Capacidad del estadio Fragata Presidente Sarmiento,en Estadios de Argentina]</ref>
+|-
+| [[Club Atlético Alvarado|Alvarado]]
+| [[Mar del Plata]]
+| [[Estadio José María Minella|José María Minella]]
+| align=center|35 180<ref name=Minella />
+|-
+| [[Club Atlético Atlanta|Atlanta]]
+| [[Buenos Aires]]
+| [[Estadio Don León Kolbowsky|Don León Kolbowsky]]
+| align=center|18&nbsp;000<ref>[http://www.caatlanta.com.ar/estadio-leon-Kolbowsky Capacidad del estadio León Kolbowsky]</ref>
+|-
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| [[Rafaela]]
+| [[Estadio Nuevo Monumental|Nuevo Monumental]]
+| align=center|20&nbsp;000<ref>{{Cita web |url=http://atleticorafaela.com.ar/contenidos/home/instalaciones/estadio/ |título=Capacidad del estadio Nuevo Monumental, en el sitio oficial del Asociación Mutual Social y Deportiva Atlético de Rafaela |fechaacceso=14 de enero de 2022 |fechaarchivo=6 de agosto de 2015 |urlarchivo=https://web.archive.org/web/20150806062941/http://atleticorafaela.com.ar/contenidos/home/instalaciones/estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Brown|Brown]]
+| [[Adrogué]]
+| [[Estadio Lorenzo Arandilla|Lorenzo Arandilla]]
+| align=center|4500<ref>{{Cita web |url=http://www.cabrowndeadrogue.com.ar/?page_id=550 |título=Capacidad del estadio Lorenzo Arandilla, en el sitio oficial del Club Atlético Brown |fechaacceso=19 de mayo de 2019 |urlarchivo=https://web.archive.org/web/20190105200955/http://www.cabrowndeadrogue.com.ar/?page_id=550 |fechaarchivo=5 de enero de 2019 }}</ref>
+|-
+| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+| [[Villa Maipú]]
+| [[Estadio de Chacarita Juniors|Chacarita Juniors]]
+| align=center|26&nbsp;530<ref>[https://www.transfermarkt.es/club-atletico-chacarita-juniors/stadion/verein/2154 Capacidad del estadio Chacarita Juniors, en Transfermarkt]</ref>
+|-
+|[[Club Atlético Chaco For Ever|Chaco For Ever]]
+|[[Resistencia (ciudad)|Resistencia]]
+|[[Estadio Juan Alberto García|Juan Alberto García]]
+| align=center|25&nbsp;000<ref>{{Cita web |url=https://chacoforever.club/elclub/estadio |título=Capacidad del Estadio Juan Alberto García |fechaacceso=31 de diciembre de 2022 |fechaarchivo=31 de diciembre de 2022 |urlarchivo=https://web.archive.org/web/20221231040003/https://chacoforever.club/elclub/estadio |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+| [[Buenos Aires]]
+| [[Estadio Juan Pasquale|Juan Pasquale]]
+| align=center|10&nbsp;000<ref>[http://www.mundoascenso.com.ar/club/78-defensores-de-belgrano Capacidad del estadio Juan Pasquale, en Mundo Ascenso]</ref>
+|-
+| [[Club Atlético Defensores Unidos|Defensores Unidos]]
+| [[Zárate (Buenos Aires)|Zárate]]
+| [[Estadio Mario Losinno|Mario Losinno]]
+| align=center|6000<ref>[https://www.mundoascenso.com.ar/club/119-defensores-unidos Capacidad del estadio Gigante de VIlla Fox, en Mundo Ascenso]</ref>
+|-
+|[[Club Social y Deportivo Madryn|Deportivo Madryn]]
+|[[Puerto Madryn]]
+|[[Estadio Abel Sastre|Abel Sastre]]
+| align=center|8000<ref>[https://www.transfermarkt.com.ar/csd-madryn/stadion/verein/14318 Capacidad del estadio Abel Sastre, en Transfermarkt]</ref>
+|-
+| [[Club Deportivo Maipú|Deportivo Maipú]] 
+| [[Maipú (Mendoza)|Maipú]]
+| [[Estadio Omar Higinio Sperdutti|Omar Higinio Sperdutti]]
+| align=center|8000<ref>[https://www.transfermarkt.com.ar/cd-maipu-mendoza-/stadion/verein/19523 Capacidad del estadio Omar Higinio Sperdutti, en Transfermarkt]</ref>
+|-
+| [[Club Deportivo Morón|Deportivo Morón]]
+| [[Morón (Buenos Aires)|Morón]]
+| [[Estadio Nuevo Francisco Urbano|Nuevo Francisco Urbano]]
+| align=center|35&nbsp;000<ref>[https://www.transfermarkt.es/deportivo-moron/stadion/verein/12458 Capacidad del estadio Nuevo Francisco Urbano, en Transfermarkt]</ref>
+|-
+| [[Club Deportivo Riestra|Deportivo Riestra]]
+| [[Buenos Aires]]
+| [[Estadio Guillermo Laza|Guillermo Laza]]
+| align=center|4000<ref>{{Cita web |url=https://clubdeportivoriestra.com/el-estadio/ |título=Capacidad del estadio Guillermo Laza |fechaacceso=1 de diciembre de 2022 |fechaarchivo=10 de agosto de 2020 |urlarchivo=https://web.archive.org/web/20200810223317/https://clubdeportivoriestra.com/el-estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Estudiantes|Estudiantes]]
+| [[Caseros (Buenos Aires)|Caseros]]
+| [[Estadio Ciudad de Caseros|Ciudad de Caseros]]
+| align=center|16&nbsp;740<ref>[https://caestudiantes.com.ar/estadio/ Capacidad del estadio Ciudad de Caseros]</ref>
+|-
+| [[Asociación Atlética Estudiantes|Estudiantes]]
+| [[Río Cuarto (Córdoba)|Río Cuarto]]
+| [[Estadio Ciudad de Río Cuarto Antonio Candini|Antonio Candini]]
+| align=center|11&nbsp;000<ref>{{Cita web |url=http://aaestudiantes.com.ar/instalaciones/ |título=Capacidad del estadio Antonio Candini |fechaacceso=1 de diciembre de 2022 |fechaarchivo=16 de octubre de 2020 |urlarchivo=https://web.archive.org/web/20201016074843/https://aaestudiantes.com.ar/instalaciones/ |deadurl=yes }}</ref>
+|-
+| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+| [[Buenos Aires]]
+| [[Estadio Arquitecto Ricardo Etcheverri|Arquitecto Ricardo Etcheverri]]
+| align=center|24&nbsp;442<ref>[https://www.transfermarkt.es/ferro-carril-oeste/stadion/verein/4557 Capacidad del estadio Arquitecto Ricardo Etcheverri, en Transfermarkt]</ref>
+|-
+|[[Club Social y Deportivo Flandria|Flandria]]
+|[[José María Jáuregui|Jáuregui]]
+|[[Estadio Carlos V|Carlos V]]
+| align=center|5000<ref>[https://clubflandria.com.ar/carlos-v/ Capacidad del estadio Carlos V]</ref>
+|-
+| [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima]]
+| [[San Salvador de Jujuy|Jujuy]]
+| [[Estadio 23 de Agosto|23 de Agosto]]
+| align=center|24&nbsp;000<ref>[https://www.transfermarkt.es/gimnasia-y-esgrima-de-jujuy/stadion/verein/10885 Capacidad del estadio 23 de Agosto, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima]]
+| [[Mendoza (ciudad)|Mendoza]]
+| [[Estadio Víctor Antonio Legrotaglie|Víctor Antonio Legrotaglie]]
+| align=center|14&nbsp;000<ref>[https://www.transfermarkt.com.ar/gimnasia-y-esgrima-de-mendoza/stadion/verein/14687 Capacidad del estadio Víctor Antonio Legrotaglie, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Güemes|Güemes]] 
+| [[Santiago del Estero (ciudad)|Santiago del Estero]]
+| [[Estadio Arturo Miranda|Arturo Miranda]]
+| align=center|12&nbsp;000<ref>[https://www.transfermarkt.es/club-atletico-guemes/stadion/verein/58188 Capacidad del estadio Arturo Miranda, en Transfermarkt]</ref>
+|-
+| [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+| [[Puerto Madryn]]
+| [[Estadio Raúl Conti|Raúl Conti]]
+| align=center|14&nbsp;500<ref>[http://www.brown2000.com.ar/historia.htm Capacidad del estadio Raul Conti, en Brown2000]</ref>
+|-
+| [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+| [[Mendoza (ciudad)|Mendoza]]
+| [[Estadio Bautista Gargantini|Bautista Gargantini]]
+| align=center|24&nbsp;000<ref>{{Cita web |url=http://www.csir.com.ar/?page_id=3608 |título=Estadio Bautista Gargantini |fechaacceso=4 de septiembre de 2017 |urlarchivo=https://web.archive.org/web/20170904065644/http://www.csir.com.ar/?page_id=3608 |fechaarchivo=4 de septiembre de 2017 }}</ref>
+|-
+| [[Club Atlético Mitre (Santiago del Estero)|Mitre]]
+| [[Santiago del Estero (ciudad)|Santiago del Estero]]
+| [[Estadio Doctores José y Antonio Castiglione|Doctores José y Antonio Castiglione]]
+| align=center|16&nbsp;500<ref>[http://www.mundoascenso.com.ar/club/265-mitre-de-santiago-del-estero Capacidad del estadio Doctores José y Antonio Castiglione, en Mundo Ascenso]</ref>
+|-
+| [[Club Atlético Nueva Chicago|Nueva Chicago]]
+| [[Buenos Aires]]
+| [[Estadio Nueva Chicago|Nueva Chicago]]
+| align=center|25&nbsp;000<ref>{{Cita web |url=http://www.canuevachicago.com.ar/estadio/ |título=Estadio |autor=Secretaría de Prensa |editor=Sitio oficial |urlarchivo=https://archive.today/20150805235943/http://www.canuevachicago.com.ar/estadio/ |fechaarchivo=5 de agosto de 2015 }}</ref>
+|-
+| [[Club Atlético Patronato de la Juventud Católica|Patronato]]
+| [[Paraná (Argentina)|Paraná]]
+| [[Estadio Presbítero Bartolomé Grella|Presbítero Bartolomé Grella]]
+| align=center|22&nbsp;000<ref>[http://www.estadiosdeargentina.com.ar/2014/03/cancha-de-patronato-de-parana.html Capacidad del estadio Presbítero Bartolomé Grella, en Estadios de Argentina]</ref>
+|-
+| [[Quilmes Atlético Club|Quilmes]]
+| [[Quilmes]]
+| [[Estadio Centenario Ciudad de Quilmes|Centenario Ciudad de Quilmes]]
+| align=center|32&nbsp;200<ref>[https://www.transfermarkt.es/quilmes-atletico-club/stadion/verein/1826 Capacidad del estadio Centenario Ciudad de Quilmes, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Racing|Racing]]
+|[[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Miguel Sancho|Miguel Sancho]]
+| align=center|24&nbsp;000<ref>[https://www.transfermarkt.com.ar/atletico-racing-cordoba/stadion/verein/10403 Capacidad del estadio Miguel Sancho, en Transfermarkt]</ref>
+|-
+|[[Club Atlético San Martín (San Juan)|San Martín]]
+|[[San Juan (Argentina)|San Juan]]
+|[[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]
+| align="center"|26&nbsp;000<ref>{{Cita web |url=http://www.promiedos.com.ar/estadio.php?id=37 |título=Capacidad del estadio Hilario Sánchez |fechaacceso=1 de diciembre de 2022 |fechaarchivo=2 de marzo de 2021 |urlarchivo=https://web.archive.org/web/20210302164816/https://www.promiedos.com.ar/estadio.php?id=37 |deadurl=yes }}</ref>
+|-
+| [[Club Atlético San Martín (Tucumán)|San Martín]]
+| [[San Miguel de Tucumán]]
+| [[Estadio La Ciudadela|La Ciudadela]]
+| align=center|30&nbsp;500<ref>{{Cita web |url=http://clubatleticosanmartin.com/la-ciudadela/ |título=Capacidad del estadio La Ciudadela |fechaacceso=14 de enero de 2022 |fechaarchivo=27 de noviembre de 2020 |urlarchivo=https://web.archive.org/web/20201127212158/http://clubatleticosanmartin.com/la-ciudadela/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético San Telmo|San Telmo]]
+| [[Isla Maciel]]
+| [[Estadio Dr. Osvaldo Baletto|Doctor Osvaldo Baletto]]
+| align="center"|10&nbsp;000<ref>[https://clubsantelmo.com.ar/estadio/ Capacidad del estadio Doctor Osvaldo Baletto]</ref>
+|-
+| [[Club Atlético Temperley|Temperley]]
+| [[Turdera]]
+| [[Estadio Alfredo Beranger|Alfredo Beranger]]
+| align=center|26&nbsp;000<ref>[https://temperley.org.ar/el-club/el-estadio Capacidad del estadio Alfredo Beranger, en el sitio oficial del Club Atlético Temperley]</ref>
+|-
+| [[Club Tristán Suárez|Tristán Suárez]]
+| [[Tristán Suárez]]
+| [[Estadio 20 de Octubre|20 de Octubre]]
+| align="center"|7500<ref>{{Cita web|url=https://www.estadiosdeargentina.com.ar/cancha-de-tristan-suarez/|título=Estadio de Tristán Suárez}}</ref>
+|-
+| [[Club Villa Dálmine|Villa Dálmine]]
+| [[Campana (Argentina)|Campana]]
+| [[Estadio El Coliseo de Mitre y Puccini|El Coliseo de Mitre y Puccini]]
+| align=center|11&nbsp;250<ref>[https://www.transfermarkt.es/club-villa-dalmine/spielplan/verein/8356 Capacidad del estadio El Coliseo de Mitre y Puccini, en Transfermarkt]</ref>
+|}
+
+=== Distribución geográfica de los equipos ===
+{| class="wikitable" style="margin: 0 auto;"
+! width="280" |Región
+! width="25" |Cant.
+! width="430" |Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]
+| align="center" |10
+| align="center" |Almagro, Almirante Brown, Brown de Adrogué, Chacarita Juniors, Deportivo Morón, Estudiantes, Quilmes, San Telmo, Temperley y Tristán Suárez.
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]
+| align="center" |6
+| align="center" |All Boys, Atlanta, Defensores de Belgrano, Deportivo Riestra, Ferro Carril Oeste y Nueva Chicago.
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]
+| align="center" |6
+| align="center" |Agropecuario, Aldosivi, Alvarado, Defensores Unidos, Flandria y Villa Dálmine.
+|-
+|{{bandera|Mendoza}} [[Provincia de Mendoza]]
+| align="center" |3
+| align="center" |Deportivo Maipú, Gimnasia y Esgrima e Independiente Rivadavia
+|-
+|{{bandera|Provincia del Chubut}} [[Provincia del Chubut]]
+| align="center" |2
+| align="center" |Deportivo Madryn y Guillermo Brown
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]
+| align="center" |2
+| align="center" |Estudiantes (RC) y Racing
+|-
+|{{bandera|Provincia de Santiago del Estero}} [[Provincia de Santiago del Estero]]
+| align="center" |2
+| align="center" |Güemes y Mitre
+|-
+|{{bandera|Chaco}} [[Provincia del Chaco]]
+|{{Centrar|1}}
+|{{Centrar|Chaco For Ever}}
+|-
+|{{bandera|Entre Ríos}} [[Provincia de Entre Ríos]]
+| align="center" |1
+| align="center" |Patronato
+|-
+|{{bandera|Jujuy}} [[Provincia de Jujuy]]
+| align="center" |1
+| align="center" |Gimnasia y Esgrima
+|-
+|{{bandera|Provincia de San Juan}} [[Provincia de San Juan (Argentina)|Provincia de San Juan]]
+| align="center" |1
+| align="center" |San Martín
+|-
+|{{bandera|Provincia de Santa Fe}} [[Provincia de Santa Fe]]
+| align="center" |1
+| align="center" |Atlético de Rafaela
+|-
+|{{bandera|Provincia de Tucumán}} [[Provincia de Tucumán]]
+| align="center" |1
+| align="center" |San Martín
+|}
+
+== Formato ==
+
+=== Ascensos ===
+Los participantes se dividieron en dos zonas, una de diecinueve equipos y otra de dieciocho, que se disputaron mediante el [[sistema de todos contra todos]], a dos ruedas ida y vuelta. Los que ocuparon el primer puesto en ambas se enfrentaron en una final a un solo partido y en cancha neutral, por el título de campeón y el primer ascenso. Hubo un segundo ascenso, que salió de un torneo reducido disputado por [[eliminación directa]] por quince equipos: el perdedor de la final, que se integró en la segunda fase, y del segundo al octavo de cada zona.<ref>{{Cita web|url=https://www.tycsports.com/primera-nacional/sorteo-primera-nacional-2023-formato-equipos--id484470.html|título=Sorteo de la Primera Nacional 2023: cómo quedaron las zonas y todo lo que tenés que saber - TyC Sports|fechaacceso=2023-10-24|fecha=2022-12-29|sitioweb=www.tycsports.com|idioma=es-AR}}</ref>
+
+=== Descensos ===
+Los que ocuparon el último puesto de cada zona descendieron a la [[Tercera categoría del fútbol argentino|tercera categoría]], en este caso la [[Primera B (Argentina)|Primera B]], por su afiliación. Estaba reglamentado que los equipos que ocuparan la penúltima posición jugaran un partido para definir un tercer descenso, que luego fue finalmente anulado.<ref>{{Cita web|url=https://www.afa.com.ar/es/posts/primera-nacional-eliminacion-del-tercer-descenso|título=Primera Nacional: eliminación del tercer descenso|fechaacceso=2023-10-23|fecha=2023-10-23|sitioweb=www.afa.com.ar}}</ref>
+
+=== Clasificación a la Copa Argentina 2024 ===
+Los equipos que ocuparon los siete primeros puestos de la tabla de posiciones final de cada una de las zonas y el octavo con mejor promedio clasificaron a los Treintaidosavos de final de la [[Copa Argentina 2024]].<ref>[https://www.lavoz.com.ar/deportes/futbol/la-afa-definio-el-sistema-de-clasificacion-para-la-copa-argentina-2024/ La AFA definió el sistema de clasificación para la Copa Argentina 2024]</ref>
+
+== Zona A ==
+=== Tabla de posiciones final ===
+
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=17|e=10|p=9|gf=36|gc=30|eq=[[Club Almirante Brown|Almirante Brown]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=17|e=8|p=11|gf=46|gc=36|eq=[[Club Agropecuario Argentino|Agropecuario]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=3|g=15|e=11|p=10|gf=38|gc=24|eq=[[Club Atlético San Martín (Tucumán)|San Martín (T)]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=4|g=16|e=7|p=13|gf=34|gc=32|eq=[[Asociación Atlética Estudiantes|Estudiantes (RC)]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=5|g=15|e=8|p=13|gf=44|gc=35|eq=[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=6|g=13|e=14|p=9|gf=45|gc=37|eq=[[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=7|g=14|e=11|p=11|gf=44|gc=38|eq=[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=8|g=13|e=14|p=9|gf=42|gc=38|eq=[[Club Atlético Temperley|Temperley]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=9|g=13|e=14|p=9|gf=37|gc=34|eq=[[Club Atlético Güemes|Güemes (SdE)]]}}
+{{Tabla de posiciones equipo|pos=10|g=14|e=11|p=11|gf=38|gc=37|eq=[[Club Deportivo Morón|Deportivo Morón]]}}
+{{Tabla de posiciones equipo|pos=11|g=13|e=13|p=10|gf=34|gc=25|eq=[[Club Atlético Nueva Chicago|Nueva Chicago]]}}
+{{Tabla de posiciones equipo|pos=12|g=12|e=11|p=13|gf=30|gc=31|eq=[[Club Atlético Defensores Unidos|Defensores Unidos]]}}
+{{Tabla de posiciones equipo|pos=13|g=10|e=14|p=12|gf=35|gc=40|eq=[[Club Atlético Alvarado|Alvarado]]}}
+{{Tabla de posiciones equipo|pos=14|g=11|e=9|p=16|gf=39|gc=44|eq=[[Club Atlético Patronato de la Juventud Católica|Patronato]]}}
+{{Tabla de posiciones equipo|pos=15|g=10|e=12|p=14|gf=31|gc=40|eq=[[Club Atlético All Boys|All Boys]]}}
+{{Tabla de posiciones equipo|pos=16|g=10|e=11|p=15|desc=3|gf=35|gc=42|eq=[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]{{refn|group=n.|Se le descontaron 3 puntos.<ref name=fallomadryn>{{cita web|título=Boletín N.º 6339|url=https://www.afa.com.ar/upload/mcith/NewFolder/HoyBol.%206339.pdf|sitioweb=AFA|fecha=20 de julio de 2023|fechaacceso=23 de julio de 2023}}</ref>}}}}
+{{Tabla de posiciones equipo|pos=17|g=9|e=10|p=17|gf=26|gc=36|eq=[[Club Almagro|Almagro]]}}
+{{Tabla de posiciones equipo|pos=18|g=10|e=7|p=19|gf=40|gc=52|eq=[[Club Atlético San Telmo|San Telmo]]}}
+{{Tabla de posiciones equipo|pos=19|g=9|e=7|p=20|gf=33|gc=56|eq=[[Club Social y Deportivo Flandria|Flandria]]|color=#fcc}}
+{{Tabla de posiciones fin
+ |color1=#cfc|texto1=Ganador. Clasificó a la final por el título de campeón y a la [[Copa Argentina 2024]].
+ |color2=#d0f0c0|texto2= Clasificaron a la primera fase del torneo reducido por el segundo ascenso y a la Copa Argentina 2024.
+ |color3=#fcc|texto3=Descendió a la [[Primera B (Argentina)|Primera B]].
+}}
+{|
+| <small>{{listaref|group="n."}}</small>
+|}
+
+==== Evolución de las posiciones ====
+
+===== Primera rueda =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+! style="padding: 0 8px 0 0; width: 28px;"| 8
+! style="padding: 0 8px 0 0; width: 28px;"| 9
+! style="padding: 0 8px 0 0; width: 28px;"| 10
+! style="padding: 0 8px 0 0; width: 28px;"| 11
+! style="padding: 0 8px 0 0; width: 28px;"| 12
+! style="padding: 0 8px 0 0; width: 28px;"| 13
+! style="padding: 0 8px 0 0; width: 28px;"| 14
+! style="padding: 0 8px 0 0; width: 28px;"| 15
+! style="padding: 0 8px 0 0; width: 28px;"| 16
+! style="padding: 0 8px 0 0; width: 28px;"| 17
+! style="padding: 0 8px 0 0; width: 28px;"| 18
+! style="padding: 0 8px 0 0; width: 28px;"| 19
+|-
+|Agropecuario 
+|bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º
+|-
+|All Boys 
+|bgcolor=#d0f0c0|5.º||14.º||15.º||10.°||12.°||12.º||10.º||13.º||14.º||17.º||13.º||14.º||17.º||16.º||18.º||18.º||17.º||15.º||15.º
+|-
+|Almagro 
+|bgcolor=#cfc|1.º||bgcolor=#d0f0c0|7.º||11.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|7.º||11.º||9.º||9.º||10.º||14.º||16.º||12.º||14.º||12.º||10.º||11.º||14.º||14.º
+|-
+|Almirante Brown<ref name="Suspendido1" group="n.">Tuvieron un partido pendiente entre la 10.ª y la 20.ª fecha.</ref>
+|bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º
+|-
+|Alvarado 
+|11.º||11.º||12.º||13.º||18.º||16.°||16.º||17.º||17.º||13.º||15.º||13.º||16.º||18.º||17.º||17.º||18.º||18.º||16.º
+|-
+|Defensores de Belgrano 
+|bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|6.º||9.°||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||13.º||bgcolor=#d0f0c0|8.º||10.º||13.º||12.º
+|-
+|Defensores Unidos 
+|bgcolor=#d0f0c0|5.º||9.º||10.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º
+|-
+|Deportivo Morón 
+|15.º||17.º||18.º||bgcolor=#fcc|19.º||16.°||18.º||bgcolor=#fcc|19.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||18.º||18.º||17.º||14.º||9.º||13.º||bgcolor=#d0f0c0|8.º||9.º
+|-
+|Estudiantes (RC) 
+|15.º||18.º||17.º||18.º||15.°||13.º||bgcolor=#d0f0c0|6.º||10.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||10.º||9.º||10.º||12.º||bgcolor=#d0f0c0|8.º||12.º||14.º||16.º||18.º
+|-
+|Flandria 
+| -||13.º||12.º||13.º||14.°||9.º||13.º||15.º||18.º||15.º||17.º||15.º||9.º||11.º||15.º||13.º||15.º||17.º||bgcolor=#fcc|19.º
+|-
+|Gimnasia y Esgrima (M) 
+|bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º||10.°||11.º||14.º||12.º||13.º||9.º||11.º||11.º||11.º||bgcolor=#d0f0c0|6.º||11.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º
+|-
+|Güemes (SdE) 
+|15.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||17.º||17.°||bgcolor=#fcc|19.º||17.º||11.º||15.º||16.º||12.º||12.º||14.º||10.º||bgcolor=#d0f0c0|7.º||11.º||12.º||12.º||10.º
+|-
+|Guillermo Brown
+|11.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||11.°||14.°||15.º||16.º||12.º||12.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||13.º||13.º||10.º||16.º||9.º||11.º||13.º
+|-
+|Nueva Chicago 
+|bgcolor=#d0f0c0|5.º||12.º||bgcolor=#d0f0c0|8.º||12.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||9.º||15.º||bgcolor=#d0f0c0|8.º||9.º||bgcolor=#d0f0c0|8.º
+|-
+|Patronato<ref name="Suspendido1" group="n." />
+|11.º||10.º||16.º||15.º||9.°||bgcolor=#d0f0c0|8.º||12.º||14.º||11.º||14.º||16.º||17.º||15.º||15.º||16.º||14.º||16.º||10.º||11.º
+|-
+|San Martín (SJ) 
+|11.º||16.º||9.º||11.°||13.°||15.°||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||9.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º
+|-
+|San Martín (T) 
+|bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||10.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|8.º||10.º||11.º||bgcolor=#d0f0c0|7.º||10.º||bgcolor=#d0f0c0|6.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º
+|-
+|San Telmo 
+|15.º||14.º||14.º||16.º||bgcolor=#fcc|19.º||17.º||18.º||bgcolor=#fcc|19.º||16.º||18.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||17.º
+|-
+|Temperley 
+|bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º
+|}
+{| style="font-size: 85%; margin: auto; width: 88%;" 
+| {{listaref|group="n."}}
+|}
+
+===== Segunda rueda =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 20
+! style="padding: 0 8px 0 0; width: 28px;"| 21
+! style="padding: 0 8px 0 0; width: 28px;"| 22
+! style="padding: 0 8px 0 0; width: 28px;"| 23
+! style="padding: 0 8px 0 0; width: 28px;"| 24
+! style="padding: 0 8px 0 0; width: 28px;"| 25
+! style="padding: 0 8px 0 0; width: 28px;"| 26
+! style="padding: 0 8px 0 0; width: 28px;"| 27
+! style="padding: 0 8px 0 0; width: 28px;"| 28
+! style="padding: 0 8px 0 0; width: 28px;"| 29
+! style="padding: 0 8px 0 0; width: 28px;"| 30
+! style="padding: 0 8px 0 0; width: 28px;"| 31
+! style="padding: 0 8px 0 0; width: 28px;"| 32
+! style="padding: 0 8px 0 0; width: 28px;"| 33
+! style="padding: 0 8px 0 0; width: 28px;"| 34
+! style="padding: 0 8px 0 0; width: 28px;"| 35
+! style="padding: 0 8px 0 0; width: 28px;"| 36
+! style="padding: 0 8px 0 0; width: 28px;"| 37
+! style="padding: 0 8px 0 0; width: 28px;"| 38
+|-
+|Agropecuario 
+|bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º 
+|-
+|All Boys 
+|18.º||18.º||18.º||16.º||16.º||14.º||15.º||14.º||15.º||13.º||12.º||12.º||12.º||14.º||14.º||13.º||13.º||13.°||15.°
+|-
+|Almagro<ref name="Suspendido3" group="n.">Tuvieron un partido pendiente entre la 33.ª y la 34.ª fecha.</ref>
+|15.º||17.º||13.º||15.º||15.º||16.º||17.º||17.º||17.º||17.º||17.º||17.º||17.º||17.º||17.º||17.º||17.º||17.°||17.°
+|-
+|Almirante Brown<ref name="Suspendido1" group="n.">Tuvieron un partido pendiente entre la 10.ª y la 20.ª fecha.</ref>
+|bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º
+|-
+|Alvarado 
+|16.º||12.º||14.º||17.º||13.º||12.º||13.º||15.º||14.º||15.º||15.º||13.º||15.º||15.º||13.º||14.º||15.º||16.°||13.°
+|-
+|Defensores de Belgrano<ref name="Suspendido2" group="n.">Tuvieron un partido pendiente entre la 24.ª y la 25.ª fecha.</ref>
+|11.º||10.º||11.º||12.º||11.º||13.º||10.º||bgcolor=#d0f0c0|7.º||10.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|5.º
+|-
+|Defensores Unidos 
+|bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||9.º||11.º||11.º||11.º||11.º||10.º||11.º||10.º||11.º||12.º||12.º||12.°
+|-
+|Deportivo Morón 
+|9.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||10.°
+|-
+|Estudiantes (RC) 
+|17.º||15.º||10.º||10.º||10.º||10.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|6.º||9.º||9.º||10.º||bgcolor=#d0f0c0|8.º||11.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º
+|-
+|Flandria 
+|bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||18.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||18.º||18.º||18.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º
+|-
+|Gimnasia y Esgrima (M) 
+|bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|8.º||9.º||11.º||bgcolor=#d0f0c0|7.º||10.º||bgcolor=#d0f0c0|7.º||9.º||bgcolor=#d0f0c0|6.º||10.º||9.º||10.º||9.º||9.°||bgcolor=#d0f0c0|6.º
+|-
+|Güemes (SdE) 
+|14.º||14.º||16.º||13.º||14.º||15.º||14.º||12.º||13.º||14.º||14.º||15.º||14.º||12.º||12.º||12.º||10.º||10.°||9.°
+|-
+|Guillermo Brown<ref name="Suspendido2" group="n." />
+|12.º||13.º||15.º||14.º||17.º||17.º||16.º||16.º||16.º||16.º||16.º||16.º||16.º||16.º||16.º||15.º||16.º||14.°||16.°
+|-
+|Nueva Chicago 
+|bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|7.º||9.º||bgcolor=#d0f0c0|8.º||11.º||9.º||11.º||11.º||11.°
+|-
+|Patronato<ref name="Suspendido1" group="n." />
+|10.º||10.º||11.º||11.º||12.º||11.º||12.º||13.º||12.º||12.º||13.º||14.º||13.º||13.º||15.º||16.º||14.º||15.°||14.°
+|-
+|San Martín (SJ)<ref name="Suspendido3" group="n."/> 
+|bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||10.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|8.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|8.º||9.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º
+|-
+|San Martín (T) 
+|bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º
+|-
+|San Telmo 
+|13.º||16.º||17.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||18.º||18.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||bgcolor=#fcc|19.º||18.º||18.º||18.º||18.º||18.º||18.º||18.º
+|-
+|Temperley 
+|bgcolor=#d0f0c0|8.º||9.º||9.º||9.º||9.º||9.º||11.º||bgcolor=#d0f0c0|8.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|8.º||10.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|8.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+=== Resultados ===
+==== Primera rueda ====
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 1
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Deportivo Morón
+|0 - 1
+|bgcolor=#D0E7FF|'''Almagro
+|Nuevo Francisco Urbano
+|rowspan=2|3 de febrero
+|21:10
+|-
+|Estudiantes (RC)
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|Antonio Candini
+|21:30
+|-
+|Patronato
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|Pedro Mutio
+|rowspan=4|4 de febrero
+|rowspan=2|17:00
+|-
+|All Boys
+|bgcolor=#D0E7FF|'''1 - 1
+|Nueva Chicago
+|Islas Malvinas
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|José María Minella
+|20:45
+|-
+|Defensores de Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|Juan Pasquale
+|21:20
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensores Unidos
+|Víctor Antonio Legrotaglie
+|rowspan=3|5 de febrero
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|San Telmo
+|Fragata Presidente Sarmiento
+|17:00
+|-
+|Güemes (SdE)
+|0 - 1
+|bgcolor=#D0E7FF|'''Agropecuario
+|Arturo Miranda
+|18:00
+|-
+|colspan=6|'''Libre:''' Flandria
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 2
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|2 - 0
+|Estudiantes (RC)
+|Alfredo Beranger
+|rowspan=6|11 de febrero
+|rowspan=4|17:00
+|-
+|San Telmo
+|bgcolor=#D0E7FF|'''2 - 2
+|Defensores de Belgrano
+|Doctor Osvaldo Baletto
+|-
+|Almagro
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|Tres de Febrero
+|-
+|Flandria
+|bgcolor=#D0E7FF|'''0 - 0
+|Alvarado
+|Carlos V
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|2 - 1
+|All Boys
+|La Ciudadela
+|19:15
+|-
+|San Martín (SJ)
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|Ingeniero Hilario Sánchez
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|4 - 1
+|Güemes (SdE)
+|Raúl Conti
+|rowspan=2|12 de febrero
+|rowspan=2|17:00
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''1 - 1
+|Patronato
+|Gigante de Villa Fox
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|3 - 1
+|Deportivo Morón
+|Ofelia Rosenzuaig
+|13 de febrero
+|21:00
+|-
+|colspan=6|'''Libre:''' Nueva Chicago 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 3
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Patronato
+|1 - 2
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Pedro Mutio
+|rowspan=3|17 de febrero
+|18:00
+|-
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''2 - 2
+|San Telmo
+|Antonio Candini
+|rowspan=2|21:00
+|-
+|All Boys
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|Islas Malvinas
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''0 - 0
+|Flandria
+|Víctor Antonio Legrotaglie
+|rowspan=2|18 de febrero
+|20:15
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|Almagro
+|Juan Pasquale
+|21:15
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensores Unidos
+|Arturo Miranda
+|rowspan=2|19 de febrero
+|19:00
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|Nuevo Francisco Urbano
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|4 - 1
+|Agropecuario
+|Fragata Presidente Sarmiento
+|rowspan=2|20 de febrero
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|1 - 0
+|San Martín (T)
+|República de Mataderos
+|19:05
+|-
+|colspan=6|'''Libre:''' Alvarado 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 4
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|San Telmo
+|0 - 1
+|bgcolor=#D0E7FF|'''All Boys
+|Doctor Osvaldo Baletto
+|24 de febrero
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|1 - 0
+|Estudiantes (RC)
+|Tres de Febrero
+|rowspan=5|25 de febrero
+|rowspan=2|17:00
+|-
+|Flandria
+|bgcolor=#D0E7FF|'''1 - 1
+|Patronato
+|Carlos V
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|1 - 0
+|Nueva Chicago
+|Alfredo Beranger
+|19:05
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''0 - 0
+|Güemes (SdE)
+|Ingeniero Hilario Sánchez
+|20:00
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia y Esgrima (M)
+|José María Minella
+|20:45
+|-
+|Guillermo Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|Raúl Conti
+|rowspan=2|26 de febrero
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|2 - 0
+|Deportivo Morón
+|Gigante de Villa Fox
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|2 - 1
+|Defensores de Belgrano
+|Ofelia Rosenzuaig
+|27 de febrero
+|21:10
+|-
+|colspan=6|'''Libre:''' San Martín (T) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 5
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|All Boys
+|bgcolor=#D0E7FF|'''0 - 0
+|Almagro
+|Islas Malvinas
+|3 de marzo
+|21:10
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|2 - 0
+|San Telmo
+|República de Mataderos
+|rowspan=3|4 de marzo
+|17:00
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Flandria
+|Arturo Miranda
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|1 - 0
+|San Martín (SJ)
+|Nuevo Francisco Urbano
+|21:15
+|-
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensores Unidos
+|Fragata Presidente Sarmiento
+|rowspan=3|5 de marzo
+|17:00
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|La Ciudadela
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 1
+|Agropecuario
+|Antonio Candini
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|4 - 1
+|Guillermo Brown
+|Juan Pasquale
+|rowspan=2|6 de marzo
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|6 - 0
+|Alvarado
+|Pedro Mutio
+|18:00
+|-
+|colspan=6|'''Libre:''' Gimnasia y Esgrima (M) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 6
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|1 - 0
+|Defensores de Belgrano
+|Gigante de Villa Fox
+|rowspan=5|11 de marzo
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|2 - 1
+|Güemes (SdE)
+|José María Minella
+|rowspan=2|19:00
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|Ingeniero Hilario Sánchez
+|-
+|Agropecuario
+|bgcolor=#D0E7FF|'''1 - 1
+|All Boys
+|Ofelia Rosenzuaig
+|20:00
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''0 - 0
+|Patronato
+|Víctor Antonio Legrotaglie
+|20:30
+|-
+|Guillermo Brown
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Raúl Conti
+|rowspan=3|12 de marzo
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|2 - 0
+|Deportivo Morón
+|Carlos V
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''0 - 0
+|Nueva Chicago
+|Tres de Febrero
+|19:05
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|2 - 1
+|San Martín (T)
+|Doctor Osvaldo Baletto
+|13 de marzo
+|17:00
+|-
+|colspan=6|'''Libre:''' Temperley 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 7
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|3 - 1
+|Flandria
+|Fragata Presidente Sarmiento
+|rowspan=3|18 de marzo
+|15:30
+|-
+|Nueva Chicago
+|0 - 1
+|bgcolor=#D0E7FF|'''Agropecuario
+|Nueva Chicago
+|16:00
+|-
+|All Boys
+|bgcolor=#D0E7FF|'''1 - 1
+|Guillermo Brown
+|Islas Malvinas
+|19:00
+|-
+|Defensores de Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Juan Pasquale
+|rowspan=5|19 de marzo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|3 - 0
+|San Telmo
+|Alfredo Beranger
+|18:10
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|1 - 0
+|Gimnasia y Esgrima (M)
+|Arturo Miranda
+|19:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Almagro
+|La Ciudadela
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|1 - 0
+|Defensores Unidos
+|Antonio Candini
+|20:00
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Nuevo Francisco Urbano
+|20 de marzo
+|21:10
+|-
+|colspan=6|'''Libre:''' Patronato 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 8
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Flandria
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|Carlos V
+|rowspan=4|25 de marzo
+|15:30
+|-
+|Agropecuario
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|Ofelia Rosenzuaig
+|17:00
+|-
+|Patronato
+|1 - 2
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Presbítero Bartolomé Grella
+|18:00
+|-
+|Alvarado
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|José María Minella
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|2 - 0
+|Temperley
+|Tres de Febrero
+|rowspan=5|26 de marzo
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|3 - 1
+|All Boys
+|Gigante de Villa Fox
+|-
+|Guillermo Brown
+|0 - 2
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|Raúl Conti
+|16:00
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''2 - 2
+|Deportivo Morón
+|Víctor Antonio Legrotaglie
+|17:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 0
+|Estudiantes (RC)
+|Ingeniero Hilario Sánchez
+|18:00
+|-
+|colspan=6|'''Libre:''' San Telmo 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 9
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensores Unidos
+|Nueva Chicago
+|30 de marzo
+|16:30
+|-
+|All Boys
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (SJ)
+|Islas Malvinas
+|rowspan=5|31 de marzo
+|15:00
+|-
+|Almirante Brown
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia y Esgrima (M)
+|Fragata Presidente Sarmiento
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|2 - 0
+|Agropecuario
+|Alfredo Beranger
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 0
+|Flandria
+|Antonio Candini
+|21:00
+|-
+|San Martín (T)
+|0 - 1
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|La Ciudadela
+|21:30
+|-
+|Defensores de Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Juan Pasquale
+|1 de abril
+|15:30
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|3 - 2
+|Almagro
+|Doctor Osvaldo Baletto
+|rowspan=2|2 de abril
+|15:30
+|-
+|Deportivo Morón
+|0 - 1
+|bgcolor=#D0E7FF|'''Patronato
+|Nuevo Francisco Urbano
+|16:45
+|-
+|colspan=6|'''Libre:''' Güemes (SdE) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 10
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|2 - 1
+|All Boys
+|Carlos V
+|rowspan=8|5 de abril
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|1 - 0
+|San Martín (T)
+|Gigante de Villa Fox
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|2 - 1
+|San Telmo
+|Ofelia Rosenzuaig
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|1 - 0
+|Defensores de Belgrano
+|Víctor Antonio Legrotaglie
+|-
+|Guillermo Brown
+|bgcolor=#D0E7FF|'''2 - 2
+|Temperley
+|Raúl Conti
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|2 - 1
+|Estudiantes (RC)
+|José María Minella
+|17:10
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|Arturo Miranda
+|19:10
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''0 - 0
+|Nueva Chicago
+|Ingeniero Hilario Sánchez
+|21:10
+|-
+|Patronato
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|Presbítero Bartolomé Grella
+|14 de junio{{refn|group=n.|Postergado por la participación del equipo local en la [[Copa Libertadores 2023|Copa Libertadores]].<ref>{{cita noticia|título=El motivo por el cual Almirante no tendrá acción entresemana|url=https://www.soloascenso.com.ar/notas/almirante-brown/el-motivo-por-el-cual-almirante-no-tendra-accion-entresemana/185996|fechaacceso=4 de abril de 2023|obra=Solo Ascenso|fecha=3 de abril de 2023}}</ref> }}
+|17:10
+|-
+|colspan=6|'''Libre:''' Almagro
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 11
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Almagro
+|0 - 1
+|bgcolor=#D0E7FF|'''Agropecuario
+|Tres de Febrero
+|rowspan=3|8 de abril
+|15:30
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 1
+|Alvarado
+|Islas Malvinas
+|17:00
+|-
+|Almirante Brown
+|0 - 1
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Fragata Presidente Sarmiento
+|19:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|4 - 1
+|San Martín (SJ)
+|La Ciudadela
+|9 de abril
+|16:10
+|-
+|San Telmo
+|1 - 2
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|Doctor Osvaldo Baletto
+|rowspan=5|10 de abril
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|1 - 0
+|Flandria
+|Nueva Chicago
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|2 - 0
+|Patronato
+|Juan Pasquale
+|19:05
+|-
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia y Esgrima (M)
+|Antonio Candini
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|1 - 0
+|Defensores Unidos
+|Alfredo Beranger
+|21:10
+|-
+|colspan=6|'''Libre:''' Deportivo Morón 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 12
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Patronato
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (RC)
+|Presbítero Bartolomé Grella
+|14 de abril
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|2 - 1
+|San Martín (T)
+|Carlos V
+|rowspan=2|15 de abril
+|rowspan=2|15:30
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''2 - 2
+|Almirante Brown
+|Nuevo Francisco Urbano
+|-
+|Guillermo Brown
+|bgcolor=#D0E7FF|'''1 - 1
+|Almagro
+|Raúl Conti
+|rowspan=6|16 de abril
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|3 - 2
+|San Telmo
+|Gigante de Villa Fox
+|rowspan=2|15:30
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensores de Belgrano
+|Arturo Miranda
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|1 - 0
+|Nueva Chicago
+|José María Minella
+|rowspan=2|16:00
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|Víctor Antonio Legrotaglie
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 1
+|Temperley
+|Ingeniero Hilario Sánchez
+|17:00
+|-
+|colspan=6|'''Libre:''' Agropecuario 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 13
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''1 - 1
+|Güemes (SdE)
+|Antonio Candini
+|21 de abril
+|20:10
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''2 - 2
+|Gimnasia y Esgrima (M)
+|Nueva Chicago
+|rowspan=3|22 de abril
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|1 - 0
+|Guillermo Brown
+|Ofelia Rosenzuaig
+|-
+|All Boys
+|0 - 1
+|bgcolor=#D0E7FF|'''Patronato
+|Islas Malvinas
+|21:40
+|-
+|San Telmo
+|0 - 2
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Doctor Osvaldo Baletto
+|rowspan=2|23 de abril
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|1 - 0
+|Defensores Unidos
+|Tres de Febrero
+|-
+|Defensores de Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|Juan Pasquale
+|rowspan=3|24 de abril
+|15:30
+|-
+|Temperley
+|0 - 2
+|bgcolor=#D0E7FF|'''Flandria
+|Alfredo Beranger
+|20:40
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|2 - 0
+|Alvarado
+|La Ciudadela
+|21:10
+|-
+|colspan=6|'''Libre:''' Almirante Brown 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 14
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|2 - 0
+|Agropecuario
+|Gigante de Villa Fox
+|29 de abril
+|15:30
+|-
+|Flandria
+|1 - 4
+|bgcolor=#D0E7FF|'''San Telmo
+|Carlos V
+|rowspan=8|30 de abril
+|15:30
+|-
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensores de Belgrano
+|Fragata Presidente Sarmiento
+|15:45
+|-
+|Alvarado
+|0 - 1
+|bgcolor=#D0E7FF|'''Temperley
+|José María Minella
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|1 - 0
+|San Martín (T)
+|Víctor Antonio Legrotaglie
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 0
+|Estudiantes (RC)
+|Nuevo Francisco Urbano
+|16:40
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 0
+|Almagro
+|Ingeniero Hilario Sánchez
+|rowspan=2|17:00
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|All Boys
+|Arturo Miranda
+|-
+|Patronato
+|bgcolor=#D0E7FF|'''0 - 0
+|Nueva Chicago
+|Presbítero Bartolomé Grella
+|18:00
+|-
+|colspan=6|'''Libre:''' Guillermo Brown 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 15
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|3 - 1
+|Flandria
+|Tres de Febrero
+|rowspan=2|5 de mayo
+|15:30
+|-
+|All Boys
+|0 - 2
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|Islas Malvinas
+|21:10
+|-
+|Nueva Chicago
+|1 - 2
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Nueva Chicago
+|rowspan=4|6 de mayo
+|14:00
+|-
+|San Telmo
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Doctor Osvaldo Baletto
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|4 - 1
+|San Martín (SJ)
+|Ofelia Rosenzuaig
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 0
+|Almirante Brown
+|Antonio Candini
+|19:40
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|1 - 0
+|Gimnasia y Esgrima (M)
+|Alfredo Beranger
+|rowspan=3|7 de mayo
+|rowspan=2|15:00
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|3 - 0
+|Defensores Unidos
+|Raúl Conti
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|2 - 0
+|Patronato
+|La Ciudadela
+|21:00
+|-
+|colspan=6|'''Libre:''' Defensores de Belgrano 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 16
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|1 - 0
+|Nueva Chicago
+|Nuevo Francisco Urbano
+|rowspan=5|13 de mayo
+|13:45
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|2 - 1
+|San Telmo
+|Víctor Antonio Legrotaglie
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|Estudiantes (RC)
+|Juan Pasquale
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|3 - 1
+|Temperley
+|Presbítero Bartolomé Grella
+|17:55
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|3 - 0
+|All Boys
+|Fragata Presidente Sarmiento
+|18:10
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|2 - 1
+|Agropecuario
+|Carlos V
+|rowspan=2|14 de mayo
+|15:30
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''0 - 0
+|Almagro
+|José María Minella
+|16:30
+|-
+|Güemes (SdE)
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|Arturo Miranda
+|rowspan=2|15 de mayo
+|19:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 1
+|Guillermo Brown
+|Ingeniero Hilario Sánchez
+|21:00
+|-
+|colspan=6|'''Libre:''' Defensores Unidos 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 17
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|3 - 0
+|Almirante Brown
+|Nueva Chicago
+|rowspan=6|20 de mayo
+|11:00
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''3 - 3
+|Güemes (SdE)
+|Alfredo Beranger
+|rowspan=5|14:00
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|3 - 1
+|Patronato
+|Doctor Osvaldo Baletto
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia y Esgrima (M)
+|Tres de Febrero
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|3 - 1
+|Alvarado
+|Ofelia Rosenzuaig
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|Gigante de Villa Fox
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|3 - 1
+|Flandria
+|Raúl Conti
+|rowspan=2|21 de mayo
+|15:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|2 - 0
+|Deportivo Morón
+|La Ciudadela
+|16:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 1
+|Defensores de Belgrano
+|Islas Malvinas
+|22 de mayo
+|21:10
+|-
+|colspan=6|'''Libre:''' Estudiantes (RC) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 18
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|2 - 1
+|Agropecuario
+|Víctor Antonio Legrotaglie
+|rowspan=2|26 de mayo
+|15:30
+|-
+|Estudiantes (RC)
+|1 - 2
+|bgcolor=#D0E7FF|'''All Boys
+|Antonio Candini
+|21:30
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|San Telmo
+|Arturo Miranda
+|rowspan=3|27 de mayo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|San Martín (T)
+|Fragata Presidente Sarmiento
+|17:05
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 0
+|Temperley
+|Nuevo Francisco Urbano
+|19:10
+|-
+|Flandria
+|0 - 2
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|Carlos V
+|rowspan=3|28 de mayo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|1 - 0
+|Almagro
+|Presbítero Bartolomé Grella
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|2 - 0
+|Guillermo Brown
+|José María Minella
+|16:30
+|-
+|Defensores de Belgrano
+|bgcolor=#D0E7FF|'''0 - 0
+|Nueva Chicago
+|Juan Pasquale
+|30 de mayo
+|21:05
+|-
+|colspan=6|'''Libre:''' San Martín (SJ) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 19
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''1 - 1
+|Güemes (SdE)
+|Tres de Febrero
+|rowspan=3|3 de junio
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|2 - 1
+|Patronato
+|Ofelia Rosenzuaig
+|15:30
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|Alfredo Beranger
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|2 - 0
+|Estudiantes (RC)
+|Nueva Chicago
+|rowspan=6|4 de junio
+|12:00
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|2 - 1
+|Deportivo Morón
+|Doctor Osvaldo Baletto
+|rowspan=2|15:00
+|-
+|Guillermo Brown
+|1 - 2
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|Raúl Conti
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Alvarado
+|Gigante de Villa Fox
+|15:30
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 0
+|Flandria
+|Ingeniero Hilario Sánchez
+|17:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|3 - 1
+|Defensores de Belgrano
+|La Ciudadela
+|20:10
+|-
+|colspan=6|'''Libre:''' All Boys 
+|}
+{|
+| <small>{{listaref|group="n."}}</small>
+|}
+
+==== Segunda rueda ====
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 20
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''0 - 0
+|Estudiantes (RC)
+|La Ciudadela
+|8 de junio
+|20:10
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|2 - 0
+|All Boys
+|Nueva Chicago
+|rowspan=2|9 de junio
+|19:00
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Ingeniero Hilario Sánchez
+|21:30
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|3 - 1
+|Almirante Brown
+|Doctor Osvaldo Baletto
+|rowspan=6|10 de junio
+|14:35
+|-
+|Guillermo Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Patronato
+|Raúl Conti
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|1 - 0
+|Gimnasia y Esgrima (M)
+|Gigante de Villa Fox
+|rowspan=3|15:30
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|1 - 0
+|Güemes (SdE)
+|Ofelia Rosenzuaig
+|-
+|Almagro
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|Tres de Febrero
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensores de Belgrano
+|Alfredo Beranger
+|16:35
+|-
+|colspan=6|'''Libre:''' Flandria 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 21
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|1 - 0
+|Temperley
+|Antonio Candini
+|16 de junio
+|20:05
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Agropecuario
+|Nuevo Francisco Urbano
+|rowspan=2|17 de junio
+|rowspan=2|19:00
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|2 - 0
+|Flandria
+|José María Minella
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|1 - 0
+|Defensores Unidos
+|Presbítero Bartolomé Grella
+|rowspan=5|18 de junio
+|13:10
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|2 - 0
+|San Telmo
+|Juan Pasquale
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|2 - 0
+|San Martín (SJ)
+|Víctor Antonio Legrotaglie
+|15:10
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Guillermo Brown
+|Arturo Miranda
+|15:30
+|-
+|All Boys
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|Islas Malvinas
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|Almagro
+|Fragata Presidente Sarmiento
+|19 de junio
+|15:00
+|-
+|colspan=6|'''Libre:''' Nueva Chicago 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 22
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|1 - 0
+|Güemes (SdE)
+|Gigante de Villa Fox
+|23 de junio
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|2 - 1
+|Defensores de Belgrano
+|Tres de Febrero
+|rowspan=5|24 de junio
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|4 - 0
+|Almirante Brown
+|Ofelia Rosenzuaig
+|15:10
+|-
+|San Telmo
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Doctor Osvaldo Baletto
+|15:30
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 1
+|Patronato
+|Ingeniero Hilario Sánchez
+|16:30
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''1 - 1
+|All Boys
+|Alfredo Beranger
+|18:10
+|-
+|Guillermo Brown
+|0 - 2
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|Raúl Conti
+|rowspan=2|25 de junio
+|15:00
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''1 - 1
+|Nueva Chicago
+|La Ciudadela
+|15:10
+|-
+|Flandria
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia y Esgrima (M)
+|Carlos V
+|26 de junio
+|15:30
+|-
+|colspan=6|'''Libre:''' Alvarado 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 23
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|4 - 0
+|San Martín (SJ)
+|Arturo Miranda
+|30 de junio
+|21:00
+|-
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|Fragata Presidente Sarmiento
+|rowspan=3|1 de julio
+|17:05
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''0 - 0
+|Temperley
+|Nueva Chicago
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|1 - 0
+|Defensores Unidos
+|Nuevo Francisco Urbano
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|3 - 1
+|Alvarado
+|Víctor Antonio Legrotaglie
+|rowspan=4|2 de julio
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|1 - 0
+|Almagro
+|Antonio Candini
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|3 - 1
+|Flandria
+|Presbítero Bartolomé Grella
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|Agropecuario
+|Juan Pasquale
+|17:10
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|San Telmo
+|Islas Malvinas
+|3 de julio
+|21:10
+|-
+|colspan=6|'''Libre:''' San Martín (T) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 24
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Agropecuario
+|bgcolor=#D0E7FF|'''0 - 0
+|Estudiantes (RC)
+|Ofelia Rosenzuaig
+|rowspan=6|8 de julio
+|rowspan=2|15:00
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|Tres de Febrero
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|1 - 0
+|San Martín (T)
+|Alfredo Beranger
+|15:10
+|-
+|San Telmo
+|0 - 2
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|Doctor Osvaldo Baletto
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|2 - 0
+|Patronato
+|José María Minella
+|16:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|4 - 0
+|Deportivo Morón
+|Ingeniero Hilario Sánchez
+|17:30
+|-
+|Defensores Unidos
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|Gigante de Villa Fox
+|rowspan=2|9 de julio
+|14:30
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|3 - 1
+|Güemes (SdE)
+|Carlos V
+|15:00
+|-
+|Guillermo Brown
+|0 - 1 ([[Walkover|W]])
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|Raúl Conti 
+|9 de julio{{refn|group=n.|Suspendido en el entretiempo por indisposición de un integrante de la terna arbitral tras ser agredido por miembros del cuerpo técnico del equipo local, con el resultado 0-1.<ref>{{cita noticia|título=Qué dijo el árbitro Franklin tras denunciar agresiones en el estadio de Brown de Puerto Madryn|url=https://www.lavoz.com.ar/deportes/futbol/que-dijo-el-arbitro-franklin-tras-denunciar-agresiones-en-el-estadio-de-brown-de-puerto-madryn/|fechaacceso=11 de julio de 2023|obra=Solo Ascenso|fecha=10 de julio de 2023}}</ref> Se le dio por perdido al equipo local.<ref name=fallomadryn />}}
+|15:00
+|-
+|colspan=6|'''Libre:''' Gimnasia y Esgrima (M) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 25
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|2 - 0
+|Almagro
+|Nueva Chicago
+|rowspan=3|14 de julio
+|15:30
+|-
+|Güemes (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Alvarado
+|Arturo Miranda
+|21:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|San Telmo
+|La Ciudadela
+|21:10
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 1
+|San Martín (SJ)
+|Fragata Presidente Sarmiento
+|rowspan=2|15 de julio
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|1 - 0
+|Gimnasia y Esgrima (M)
+|Presbítero Bartolomé Grella
+|16:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 0
+|Agropecuario
+|Islas Malvinas
+|rowspan=3|16 de julio
+|13:40
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Flandria
+|Nuevo Francisco Urbano
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|1 - 0
+|Guillermo Brown
+|Antonio Candini
+|17:00
+|-
+|Defensores de Belgrano
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|Juan Pasquale
+|17 de julio
+|15:00
+|-
+|colspan=6|'''Libre:''' Temperley 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 26
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|2 - 1
+|All Boys
+|Raúl Conti
+|rowspan=5|22 de julio
+|11:00
+|-
+|San Telmo
+|bgcolor=#D0E7FF|'''0 - 0
+|Temperley
+|Doctor Osvaldo Baletto
+|12:10
+|-
+|Defensores Unidos
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Gigante de Villa Fox
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|2 - 1
+|Nueva Chicago
+|Ofelia Rosenzuaig
+|15:10
+|-
+|Alvarado
+|0 - 2
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|José María Minella
+|18:10
+|-
+|Flandria
+|0 - 2
+|bgcolor=#D0E7FF|'''Almirante Brown
+|Carlos V
+|rowspan=3|23 de julio
+|15:05
+|-
+|Gimnasia y Esgrima (M)
+|0 - 1
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Víctor Antonio Legrotaglie
+|15:30
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|Tres de Febrero
+|17:10
+|-
+|San Martín (SJ)
+|1 - 3
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|Ingeniero Hilario Sánchez
+|24 de julio
+|21:15
+|-
+|colspan=6|'''Libre:''' Patronato 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 27
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|3 - 2
+|San Martín (SJ)
+|Antonio Candini
+|rowspan=5|29 de julio
+|13:30
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|3 - 2
+|Guillermo Brown
+|Nueva Chicago
+|14:10
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|3 - 1
+|Almagro
+|Alfredo Beranger
+|rowspan=2|15:30
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''2 - 2
+|Gimnasia y Esgrima (M)
+|Nuevo Francisco Urbano
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|Alvarado
+|Fragata Presidente Sarmiento
+|20:30
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|1 - 0
+|Patronato
+|Arturo Miranda
+|rowspan=2|30 de julio
+|15:30
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''1 - 1
+|Agropecuario
+|La Ciudadela
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|4 - 2
+|Flandria
+|Juan Pasquale
+|rowspan=2|31 de julio
+|15:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|Defensores Unidos
+|Islas Malvinas
+|21:10
+|-
+|colspan=6|'''Libre:''' San Telmo 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 28
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|2 - 0
+|San Telmo
+|Tres de Febrero
+|rowspan=2|5 de agosto
+|15:00
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensores de Belgrano
+|José María Minella
+|20:10
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|3 - 0
+|San Martín (T)
+|Raúl Conti
+|rowspan=4|6 de agosto
+|14:00
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Nueva Chicago
+|Gigante de Villa Fox
+|15:05
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|2 - 0
+|All Boys
+|Ingeniero Hilario Sánchez
+|16:30
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|3 - 2
+|Deportivo Morón
+|Presbítero Bartolomé Grella
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|1 - 0
+|Estudiantes (RC)
+|Carlos V
+|rowspan=3|7 de agosto
+|rowspan=2|15:30
+|-
+|Agropecuario
+|1 - 3
+|bgcolor=#D0E7FF|'''Temperley
+|Ofelia Rosenzuaig
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|4 - 1
+|Almirante Brown
+|Víctor Antonio Legrotaglie
+|21:10
+|-
+|colspan=6|'''Libre:''' Güemes (SdE) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 29
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Antonio Candini
+|rowspan=6|15 de agosto
+|13:30
+|-
+|San Telmo
+|0 - 1
+|bgcolor=#D0E7FF|'''Agropecuario
+|Doctor Osvaldo Baletto
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|Gimnasia y Esgrima (M)
+|Juan Pasquale
+|19:05
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 0
+|Patronato
+|Fragata Presidente Sarmiento
+|19:10
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|Alfredo Beranger
+|rowspan=2|20:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|Flandria
+|Islas Malvinas
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (SJ)
+|Nueva Chicago
+|rowspan=3|16 de agosto
+|15:30
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|1 - 0
+|Defensores Unidos
+|La Ciudadela
+|17:00
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Güemes (SdE)
+|Nuevo Francisco Urbano
+|17:30
+|-
+|colspan=6|'''Libre:''' Almagro 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 30
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Agropecuario
+|bgcolor=#D0E7FF|'''1 - 1
+|Almagro
+|Ofelia Rosenzuaig
+|rowspan=4|20 de agosto
+|14:00
+|-
+|Guillermo Brown
+|bgcolor=#D0E7FF|'''1 - 1
+|San Telmo
+|Raúl Conti
+|15:00
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|José María Minella
+|15:30
+|-
+|Patronato
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|Presbítero Bartolomé Grella
+|17:50
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|Gigante de Villa Fox
+|rowspan=5|21 de agosto
+|15:00
+|-
+|Flandria
+|0 - 1
+|bgcolor=#D0E7FF|''' Nueva Chicago
+|Carlos V
+|15:30
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|Ingeniero Hilario Sánchez
+|16:30
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|1 - 0
+|Estudiantes (RC)
+|Víctor Antonio Legrotaglie
+|20:45
+|-
+|Güemes (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|Arturo Miranda
+|21:10
+|-
+|colspan=6|'''Libre:''' Deportivo Morón 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 31
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Temperley
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Alfredo Beranger
+|25 de agosto
+|20:00
+|-
+|San Telmo
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensores Unidos
+|Doctor Osvaldo Baletto
+|rowspan=5|26 de agosto
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|4 - 1
+|Güemes (SdE)
+|Juan Pasquale
+|15:30
+|-
+|Nueva Chicago
+|1 - 4
+|bgcolor=#D0E7FF|'''Alvarado
+|Nueva Chicago
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 1
+|Patronato
+|Antonio Candini
+|19:00
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|2 - 0
+|Flandria
+|La Ciudadela
+|21:00
+|-
+|Almirante Brown
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|Fragata Presidente Sarmiento
+|rowspan=2|27 de agosto
+|13:10
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|2 - 0
+|Guillermo Brown
+|Tres de Febrero
+|15:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|3 - 1
+|Gimnasia y Esgrima (M)
+|Islas Malvinas
+|28 de agosto
+|21:10
+|-
+|colspan=6|'''Libre:''' Agropecuario 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 32
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|1 - 0
+|Almagro
+|Gigante de Villa Fox
+|rowspan=3|2 de septiembre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|1 - 0
+|Estudiantes (RC)
+|Arturo Miranda
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|3 - 2
+|All Boys
+|Presbítero Bartolomé Grella
+|17:10
+|-
+|Alvarado
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (T)
+|José María Minella
+|rowspan=4|3 de septiembre
+|15:10
+|-
+|Flandria
+|2 - 3
+|bgcolor=#D0E7FF|'''Temperley
+|Carlos V
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|1 - 0
+|Agropecuario
+|Raúl Conti
+|-
+|San Martín (SJ)
+|1 - 2
+|bgcolor=#D0E7FF|'''San Telmo
+|Ingeniero Hilario Sánchez
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|3 - 2
+|Defensores de Belgrano
+|Nuevo Francisco Urbano
+|rowspan=2|4 de septiembre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|2 - 1
+|Nueva Chicago
+|Víctor Antonio Legrotaglie
+|21:10
+|-
+|colspan=6|'''Libre:''' Almirante Brown 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 33
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|2 - 1
+|Alvarado
+|Alfredo Beranger
+|rowspan=2|9 de septiembre
+|17:40
+|-
+|bgcolor=#D0E7FF|'''San Martín (T)
+|4 - 0
+|Gimnasia y Esgrima (M)
+|La Ciudadela
+|21:10
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|2 - 1
+|Flandria
+|Doctor Osvaldo Baletto
+|rowspan=3|10 de septiembre
+|rowspan=2|15:00
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|2 - 0
+|Defensores Unidos
+|Ofelia Rosenzuaig
+|-
+|All Boys
+|0 - 2
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Islas Malvinas
+|15:05
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''1 - 1
+|Patronato
+|Nueva Chicago
+|rowspan=3|11 de septiembre
+|15:40
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 1
+|Deportivo Morón
+|Antonio Candini
+|21:00
+|-
+|Defensores de Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|Juan Pasquale
+|21:10
+|-
+|Almagro
+|0 - 3
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Tres de Febrero
+|20 de septiembre
+|21:10
+|-
+|colspan=6|'''Libre:''' Guillermo Brown 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 34
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Agropecuario
+|Ingeniero Hilario Sánchez
+|15 de septiembre
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|1 - 0
+|Nueva Chicago
+|Arturo Miranda
+|rowspan=5|16 de septiembre
+|rowspan=3|15:30
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|1 - 0
+|Almagro
+|Carlos V
+|-
+|bgcolor=#D0E7FF|'''Defensores Unidos
+|2 - 1
+|Guillermo Brown
+|Gigante de Villa Fox
+|-
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|Víctor Antonio Legrotaglie
+|16:00
+|-
+|Almirante Brown
+|0 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Fragata Presidente Sarmiento
+|17:45
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|1 - 0
+|San Telmo
+|José María Minella
+|rowspan=3|17 de septiembre
+|16:00
+|-
+|Patronato
+|1 - 3
+|bgcolor=#D0E7FF|'''San Martín (T)
+|Presbítero Bartolomé Grella
+|17:00
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|Nuevo Francisco Urbano
+|17:15
+|-
+|colspan=6|'''Libre:''' Defensores de Belgrano 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 35
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Agropecuario
+|3 - 0
+|Flandria
+|Ofelia Rosenzuaig
+|rowspan=4|23 de septiembre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''San Telmo
+|3 - 2
+|Gimnasia y Esgrima (M)
+|Doctor Osvaldo Baletto
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Temperley
+|3 - 1
+|Patronato
+|Alfredo Beranger
+|15:35
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''1 - 1
+|Güemes (SdE)
+|La Ciudadela
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|1 - 0
+|San Martín (SJ)
+|Raúl Conti
+|rowspan=4|24 septiembre
+|rowspan=2|15:30
+|-
+|Almagro
+|bgcolor=#D0E7FF|'''1 - 1
+|Alvarado
+|Tres de Febrero
+|-
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|Nueva Chicago
+|15:50
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|1 - 0
+|Defensores de Belgrano
+|Antonio Candini
+|18:00
+|-
+|bgcolor=#D0E7FF|'''All Boys
+|2 - 1
+|Almirante Brown
+|Islas Malvinas
+|25 de septiembre
+|21:10
+|-
+|colspan=6|'''Libre:''' Defensores Unidos 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 36
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Flandria
+|2 - 1
+|Guillermo Brown
+|Carlos V
+|29 de septiembre
+|14:30
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|Nueva Chicago
+|Fragata Presidente Sarmiento
+|rowspan=6|30 de septiembre
+|12:10
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|All Boys
+|Juan Pasquale
+|13:30
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|2 - 0
+|Temperley
+|Arturo Miranda
+|15:30
+|-
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|3 - 2
+|Defensores Unidos
+|Ingeniero Hilario Sánchez
+|16:30
+|-
+|bgcolor=#D0E7FF|'''Patronato
+|1 - 0
+|San Telmo
+|Presbítero Bartolomé Grella
+|18:00
+|-
+|Alvarado
+|1 - 2
+|bgcolor=#D0E7FF|'''Agropecuario
+|José María Minella
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|4 - 3
+|Almagro
+|Víctor Antonio Legrotaglie
+|1 de octubre
+|16:30
+|-
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|Nuevo Francisco Urbano
+|2 de octubre
+|21:10
+|-
+|colspan=6|'''Libre:''' Estudiantes (RC) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 37
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|2 - 0
+|Alvarado
+|Raúl Conti
+|rowspan=3|6 de octubre
+|rowspan=2|15:30
+|-
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|2 - 1
+|Defensores de Belgrano
+|Nueva Chicago
+|-
+|All Boys
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Islas Malvinas
+|21:10
+|-
+|San Telmo
+|1 - 2
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|Doctor Osvaldo Baletto
+|rowspan=4|7 de octubre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Almagro
+|2 - 1
+|Patronato
+|Tres de Febrero
+|15:30
+|-
+|Agropecuario
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia y Esgrima (M)
+|Ofelia Rosenzuaig
+|16:00
+|-
+|Temperley
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Morón
+|Alfredo Beranger
+|18:10
+|-
+|San Martín (T)
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|La Ciudadela
+|rowspan=2|8 de octubre
+|15:00
+|-
+|Defensores Unidos
+|bgcolor=#D0E7FF|'''0 - 0
+|Flandria
+|Gigante de Villa Fox
+|15:30 
+|-
+|colspan=6|'''Libre:''' San Martín (SJ) 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+!colspan=6|Fecha 38
+|-
+! width="20%" |Local
+! width="10%" |Resultado
+! width="20%" |Visitante
+! width="28%" |Estadio
+! width="14%" |Fecha
+! width="8%" |Hora
+|-
+|Estudiantes (RC)
+|1 - 2
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|Antonio Candini
+|rowspan=9|16 de octubre
+|rowspan=9|15:30
+|-
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|2 - 1
+|San Martín (T)
+|Juan Pasquale
+|-
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 0
+|Temperley
+|Fragata Presidente Sarmiento
+|-
+|Deportivo Morón
+|1 - 2
+|bgcolor=#D0E7FF|'''San Telmo
+|Nuevo Francisco Urbano
+|-
+|bgcolor=#D0E7FF|'''Güemes (SdE)
+|1 - 0
+|Almagro
+|Arturo Miranda
+|-
+|Patronato
+|bgcolor=#D0E7FF|'''1 - 1
+|Agropecuario
+|Presbítero Bartolomé Grella
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|5 - 0
+|Guillermo Brown
+|Víctor Antonio Legrotaglie
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|4 - 2
+|Defensores Unidos
+|José María Minella
+|-
+|Flandria [[Archivo:1downarrow red.svg|12px|Descendió]]
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (SJ)
+|Carlos V
+|-
+|colspan=6|'''Libre:''' All Boys 
+|}
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+== Zona B ==
+=== Tabla de posiciones final ===
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=20|e=8|p=6|gf=51|gc=33|eq=[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=18|e=13|p=3|gf=48|gc=23|eq=[[Club Atlético Chacarita Juniors|Chacarita Juniors]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=3|g=19|e=6|p=9|gf=46|gc=31|eq=[[Club Deportivo Maipú|Deportivo Maipú]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=4|g=15|e=8|p=11|gf=44|gc=31|eq=[[Quilmes Atlético Club|Quilmes]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=5|g=14|e=11|p=9|gf=38|gc=31|eq=[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=6|g=15|e=7|p=12|gf=38|gc=37|eq=[[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=7|g=12|e=14|p=8|gf=40|gc=34|eq=[[Club Deportivo Riestra|Deportivo Riestra]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=8|g=13|e=10|p=11|gf=45|gc=37|eq=[[Club Ferro Carril Oeste|Ferro Carril Oeste]]|color=#c0deff}}
+{{Tabla de posiciones equipo|pos=9|g=11|e=14|p=9|gf=34|gc=31|eq=[[Club Atlético Brown|Brown de Adrogué]]}}
+{{Tabla de posiciones equipo|pos=10|g=13|e=5|p=16|gf=36|gc=40|eq=[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]}}
+{{Tabla de posiciones equipo|pos=11|g=10|e=13|p=11|gf=28|gc=28|eq=[[Club Social y Deportivo Madryn|Deportivo Madryn]]}}
+{{Tabla de posiciones equipo|pos=12|g=10|e=11|p=13|gf=44|gc=43|eq=[[Club Atlético Racing|Racing (C)]]}}
+{{Tabla de posiciones equipo|pos=13|g=11|e=7|p=16|gf=30|gc=43|eq=[[Club Atlético Chaco For Ever|Chaco For Ever]]}}
+{{Tabla de posiciones equipo|pos=14|g=8|e=12|p=14|gf=31|gc=40|eq=[[Club Atlético Estudiantes|Estudiantes (BA)]]}}
+{{Tabla de posiciones equipo|pos=15|g=8|e=11|p=15|gf=33|gc=41|eq=[[Club Atlético Atlanta|Atlanta]]}}
+{{Tabla de posiciones equipo|pos=16|g=8|e=11|p=15|gf=33|gc=44|eq=[[Club Atlético Aldosivi|Aldosivi]]}}
+{{Tabla de posiciones equipo|pos=17|g=8|e=10|p=16|gf=36|gc=53|eq=[[Club Tristán Suárez|Tristán Suárez]]}}
+{{Tabla de posiciones equipo|pos=18|g=5|e=5|p=24|gf=21|gc=56|eq=[[Club Villa Dálmine|Villa Dálmine]]|color=#fcc}}
+{{Tabla de posiciones fin
+ |color1=#cfc| texto1=Ganador. Clasificó a la final por el título de campeón y a la [[Copa Argentina 2024]].
+ |color2=#d0f0c0| texto2=Clasificaron a la primera fase del torneo reducido por el segundo ascenso y a la Copa Argentina 2024.
+ |color3=#c0deff| texto3= Clasificó a la primera fase del torneo reducido por el segundo ascenso.
+ |color4=#fcc| texto4=Descendió a la [[Primera B (Argentina)|Primera B]].
+}}
+
+==== Evolución de las posiciones ====
+===== Primera rueda =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+! style="padding: 0 8px 0 0; width: 28px;"| 8
+! style="padding: 0 8px 0 0; width: 28px;"| 9
+! style="padding: 0 8px 0 0; width: 28px;"| 10
+! style="padding: 0 8px 0 0; width: 28px;"| 11
+! style="padding: 0 8px 0 0; width: 28px;"| 12
+! style="padding: 0 8px 0 0; width: 28px;"| 13
+! style="padding: 0 8px 0 0; width: 28px;"| 14
+! style="padding: 0 8px 0 0; width: 28px;"| 15
+! style="padding: 0 8px 0 0; width: 28px;"| 16
+! style="padding: 0 8px 0 0; width: 28px;"| 17
+|-
+|Aldosivi 
+|13.º||14.º||bgcolor=#d0f0c0|6.º||10.°||bgcolor=#d0f0c0|6.º||13.º||16.º||11.º||12.º||13.º||15.º||17.º||14.º||bgcolor=#c0deff|8.º||9.º||15.º||14.º
+|-
+|Atlanta 
+|16.º||15.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#c0deff|8.º||10.º||11.º||14.º||14.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||11.º||14.º||11.º||13.º
+|-
+|Atlético de Rafaela 
+|bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º
+|-
+|Brown de Adrogué 
+|13.º||17.º||17.º||16.°||14.º||9.º||9.º||10.º||10.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||9.º||bgcolor=#c0deff|8.º||12.º||10.º||bgcolor=#c0deff|8.º||bgcolor=#c0deff|8.º
+|-
+|Chacarita Juniors 
+|9.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º
+|-
+|Chaco For Ever 
+|16.º||11.º||14.º||15.°||16.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||17.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º
+|-
+|Deportivo Madryn 
+|9.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||12.°||16.º||17.º||14.º||16.º||16.º||14.º||17.º||11.º||bgcolor=#d0f0c0|6.º||9.º||13.º||10.º||12.º
+|-
+|Deportivo Maipú 
+|bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|7.º||12.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º
+|-
+|Deportivo Riestra 
+|15.º||10.º||13.º||14.°||12.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||11.º||11.º||14.º||10.º||10.º||14.º||12.º||13.º||10.º
+|-
+|Estudiantes (BA) 
+|bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#c0deff|8.º||9.º||12.º||15.º||10.º||15.º||12.º||11.º
+|-
+|Ferro Carril Oeste 
+|bgcolor=#d0f0c0|7.º||13.º||15.º||17.º||15.º||15.º||17.º||17.º||bgcolor=#fcc|18.º||17.º||16.º||14.º||12.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||9.º||9.º
+|-
+|Gimnasia y Esgrima (J) 
+|bgcolor=#d0f0c0|7.º||12.º||16.º||13.°||11.º||bgcolor=#d0f0c0|7.º||10.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||12.º||11.º||bgcolor=#c0deff|8.º||11.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º
+|-
+|Independiente Rivadavia 
+|bgcolor=#d0f0c0|5.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|5.º||9.°||13.º||12.º||13.º||13.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º
+|-
+|Mitre (SdE) 
+|9.º||bgcolor=#d0f0c0|6.º||10.º||bgcolor=#d0f0c0|5.°||9.º||11.º||15.º||9.º||9.º||10.º||12.º||15.º||13.º||15.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º
+|-
+|Quilmes 
+|bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|4.º
+|-
+|Racing (C) 
+|bgcolor=#d0f0c0|5.º||9.º||11.º||bgcolor=#c0deff|8.º||10.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||9.º||13.º||11.º||14.º||15.º
+|-
+|Tristán Suárez 
+|bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||16.º||12.º||15.º||15.º||16.º||13.º||16.º||17.º||17.º||17.º||17.º||16.º
+|-
+|Villa Dálmine 
+|9.º||16.º||bgcolor=#c0deff|8.º||11.°||bgcolor=#d0f0c0|7.º||14.º||bgcolor=#c0deff|8.º||12.º||13.º||15.º||10.º||13.º||16.º||16.º||16.º||16.º||17.º
+|}
+
+===== Segunda rueda =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 18
+! style="padding: 0 8px 0 0; width: 28px;"| 19
+! style="padding: 0 8px 0 0; width: 28px;"| 20
+! style="padding: 0 8px 0 0; width: 28px;"| 21
+! style="padding: 0 8px 0 0; width: 28px;"| 22
+! style="padding: 0 8px 0 0; width: 28px;"| 23
+! style="padding: 0 8px 0 0; width: 28px;"| 24
+! style="padding: 0 8px 0 0; width: 28px;"| 25
+! style="padding: 0 8px 0 0; width: 28px;"| 26
+! style="padding: 0 8px 0 0; width: 28px;"| 27
+! style="padding: 0 8px 0 0; width: 28px;"| 28
+! style="padding: 0 8px 0 0; width: 28px;"| 29
+! style="padding: 0 8px 0 0; width: 28px;"| 30
+! style="padding: 0 8px 0 0; width: 28px;"| 31
+! style="padding: 0 8px 0 0; width: 28px;"| 32
+! style="padding: 0 8px 0 0; width: 28px;"| 33
+! style="padding: 0 8px 0 0; width: 28px;"| 34
+|-
+|Aldosivi 
+|14.º||14.º||14.º||14.º||13.º||12.º||13.º||13.º||14.º||14.º||14.º||14.º||15.º||15.º||16.º||16.º||16.° 
+|-
+|Atlanta 
+|10.º||12.º||12.º||11.º||11.º||11.º||10.º||11.º||11.º||11.º||13.º||12.º||13.º||13.º||14.º||15.º||15.°
+|-
+|Atlético de Rafaela 
+|bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º
+|-
+|Brown de Adrogué 
+|bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||9.º||bgcolor=#c0deff|8.º||9.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||9.º||9.º||9.° 
+|-
+|Chacarita Juniors 
+|bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º 
+|-
+|Chaco For Ever 
+|bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||17.º||16.º||16.º||16.º||17.º||16.º||16.º||16.º||16.º||17.º||16.º||16.º||12.º||13.º||13.°
+|-
+|Deportivo Madryn 
+|12.º||9.º||9.º||10.º||10.º||bgcolor=#c0deff|8.º||9.º||10.º||10.º||10.º||9.º||9.º||9.º||10.º||11.°||11.°||11.° 
+|-
+|Deportivo Maipú 
+|bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|3.º 
+|-
+|Deportivo Riestra 
+|11.º||11.º||10.º||9.º||9.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||bgcolor=#c0deff|8.º||bgcolor=#c0deff|8.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º
+|-
+|Estudiantes (BA) 
+|13.º||13.º||13.º||13.º||12.º||13.º||12.º||12.º||13.º||12.º||11.º||13.º||12.º||14.º||15.°||14.°||14.°
+|-
+|Ferro Carril Oeste 
+|bgcolor=#d0f0c0|6.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|7.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|7.º||bgcolor=#c0deff|8.º
+|-
+|Gimnasia y Esgrima (J) 
+|9.º||10.º||11.º||12.º||14.º||14.º||14.º||14.º||12.º||13.º||12.º||11.º||11.º||11.º||10.º||10.º||10.° 
+|-
+|Independiente Rivadavia 
+|bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#cfc|1.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|3.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#d0f0c0|2.º||bgcolor=#cfc|1.º
+|-
+|Mitre (SdE) 
+|bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|6.º||bgcolor=#c0deff|8.º||10.º||11.º||bgcolor=#c0deff|8.º||9.º||9.º||10.º||10.º||10.º||9.º||bgcolor=#c0deff|8.º||bgcolor=#d0f0c0|6.º||bgcolor=#d0f0c0|6.º
+|-
+|Quilmes 
+|bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|5.º||bgcolor=#d0f0c0|4.º||bgcolor=#d0f0c0|4.º 
+|-
+|Racing (C) 
+|15.º||15.º||15.º||15.º||15.º||15.º||15.º||15.º||15.º||15.º||15.º||15.º||14.º||12.º||13.º||12.º||12.° 
+|-
+|Tristán Suárez 
+|16.º||16.º||16.º||17.º||17.º||17.º||16.º||17.º||17.º||17.º||17.º||16.º||17.º||17.º||17.º||17.º||17.º 
+|-
+|Villa Dálmine 
+|17.º||17.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º||bgcolor=#fcc|18.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+=== Resultados ===
+==== Primera rueda ====
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 1
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Aldosivi
+|1 - 2
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|José María Minella
+|rowspan=4|10 de febrero
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 0
+|Tristán Suárez
+|Nuevo Monumental
+|rowspan=2|21:00
+|-
+|Gimnasia y Esgrima (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Ferro Carril Oeste
+|23 de Agosto
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|2 - 0
+|Atlanta
+|Ciudad de Caseros
+|21:10
+|-
+|Deportivo Madryn
+|bgcolor=#D0E7FF|'''0 - 0
+|Chacarita Juniors
+|Abel Sastre
+|rowspan=3|11 de febrero
+|rowspan=2|17:00
+|-
+|Brown de Adrogué
+|1 - 2
+|bgcolor=#D0E7FF|'''Racing (C)
+|Lorenzo Arandilla
+|-
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Mitre (SdE)
+|El Coliseo de Mitre y Puccini
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 0
+|Chaco For Ever
+|Omar Higinio Sperdutti
+|rowspan=2|12 de febrero
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 1
+|Deportivo Riestra
+|Centenario Ciudad de Quilmes
+|19:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 2
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Gimnasia y Esgrima (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Aldosivi
+|23 de Agosto
+|rowspan=3|17 de febrero
+|rowspan=3|21:00
+|-
+|Racing (C)
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|Miguel Sancho
+|-
+|Ferro Carril Oeste
+|2 - 3
+|bgcolor=#D0E7FF|'''Quilmes
+|Arquitecto Ricardo Etcheverri
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|2 - 1
+|Brown de Adrogué
+|Guillermo Laza
+|rowspan=3|18 de febrero
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|3 - 0
+|Villa Dálmine
+|Chacarita Juniors
+|-
+|Tristán Suárez
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|20 de Octubre
+|20:30
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|1 - 0
+|Deportivo Maipú
+|Dres. José y Antonio Castiglione
+|rowspan=2|19 de febrero
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|2 - 1
+|Independiente Rivadavia
+|Juan Alberto García
+|19:00
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético de Rafela
+|Don León Kolbowski
+|20 de febrero
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 3
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|3 - 1
+|Tristán Suárez
+|El Coliseo de Mitre y Puccini
+|rowspan=2|24 de febrero
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|1 - 0
+|Deportivo Riestra
+|Ciudad de Caseros
+|20:10
+|-
+|Deportivo Madryn
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlanta
+|Abel Sastre
+|rowspan=3|25 de febrero
+|rowspan=3|17:00
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Ferro Carril Oeste
+|Lorenzo Arandilla
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 1
+|Gimnasia y Esgrima (J)
+|Centenario Ciudad de Quilmes
+|-
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 0
+|Chaco For Ever
+|José María Minella
+|rowspan=4|26 de febrero
+|17:00
+|-
+|Deportivo Maipú
+|0 - 2
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Omar Higinio Sperdutti
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|Racing (C)
+|Nuevo Monumental
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|4 - 1
+|Mitre (SdE)
+|Bautista Gargantini
+|20:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 4
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Deportivo Riestra
+|0 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|Guillermo Laza
+|rowspan=2|3 de marzo
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|3 - 1
+|Deportivo Madryn
+|Miguel Sancho
+|-
+|Gimnasia y Esgrima (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Brown de Adrogué
+|23 de Agosto
+|rowspan=5|4 de marzo
+|rowspan=3|17:00
+|-
+|Tristán Suárez
+|0 - 4
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|20 de Octubre
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|3 - 0
+|Independiente Rivadavia
+|Chacarita Juniors
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|2 - 0
+|Chaco For Ever
+|Dres. José y Antonio Castiglione
+|18:00
+|-
+|Ferro Carril Oeste
+|0 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|Arquitecto Ricardo Etcheverri
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Atlanta
+|2 - 1
+|Villa Dálmine
+|Don León Kolbowski
+|rowspan=2|5 de marzo
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|4 - 1
+|Aldosivi
+|Centenario Ciudad de Quilmes
+|21:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 5
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Atlético de Rafaela
+|1 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|Nuevo Monumental
+|10 de marzo
+|21:00
+|-
+|Deportivo Madryn
+|0 - 3
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|Abel Sastre
+|rowspan=3|11 de marzo
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|1 - 0
+|Quilmes
+|Lorenzo Arandilla
+|-
+|Estudiantes (BA)
+|1 - 2
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|Ciudad de Caseros
+|21:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Atlanta
+|Omar Higinio Sperdutti
+|rowspan=4|12 de marzo
+|17:00
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''1 - 1
+|Chacarita Juniors
+|Juan Alberto García
+|18:30
+|-
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 1
+|Racing (C)
+|El Coliseo de Mitre y Puccini
+|19:00
+|-
+|Independiente Rivadavia
+|1 - 3
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|Bautista Gargantini
+|20:30
+|-
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 1
+|Mitre (SdE)
+|José María Minella
+|13 de marzo
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 6
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Arquitecto Ricardo Etcheverri
+|17 de marzo
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|1 - 0
+|Atlético de Rafaela
+|23 de Agosto
+|17 de marzo{{refn|group=n.|Suspendido a los 15 minutos del primer tiempo, por corte del suministro eléctrico. Se completó el 18 de marzo, a partir de las 15:00.<ref>{{cita noticia|título=Se suspendió Gimnasia vs Atlético en Jujuy|url=http://www.rafaelanoticias.com/amp/se-suspendio-gimnasia-vs-atletico-en-jujuy.htm|fechaacceso=18 de marzo de 2023|obra=Rafaela Noticias|fecha=17 de marzo de 2023}}</ref>}}
+|21:10
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|2 - 0
+|Aldosivi
+|Lorenzo Arandilla
+|rowspan=4|18 de marzo
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|2 - 1
+|Chaco For Ever
+|20 de Octubre
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''1 - 1
+|Mitre (SdE)
+|Chacarita Juniors
+|19:35
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Estudiantes (BA)
+|Centenario Ciudad de Quilmes
+|21:35
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''2 - 2
+|Independiente Rivadavia
+|Don León Kolbowski
+|rowspan=2|19 de marzo
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|1 - 0
+|Deportivo Maipú
+|Miguel Sancho
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|2 - 1
+|Villa Dálmine
+|Guillermo Laza
+|20 de marzo
+|16:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 7
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''1 - 1
+|Brown de Adrogué
+|Ciudad de Caseros
+|rowspan=3|25 de marzo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|3 - 1
+|Gimnasia y Esgrima (J)
+|Abel Sastre
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 0
+|Ferro Carril Oeste
+|El Coliseo de Mitre y Puccini
+|19:00
+|-
+|Aldosivi
+|0 - 1
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|José María Minella
+|rowspan=5|26 de marzo
+|15:30
+|-
+|Mitre (SdE)
+|0 - 1
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|Dres. José y Antonio Castiglione
+|17:00
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|Juan Alberto García
+|rowspan=2|18:00
+|-
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|Omar Higinio Sperdutti
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Quilmes
+|Nuevo Monumental
+|20:00
+|-
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (C)
+|Bautista Gargantini
+|27 de marzo
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 8
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|Villa Dálmine
+|23 de Agosto
+|31 de marzo
+|21:00
+|-
+|Tristán Suárez
+|1 - 3
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|20 de Octubre
+|rowspan=2|1 de abril
+|20:00
+|-
+|Estudiantes (BA)
+|0 - 1
+|bgcolor=#D0E7FF|'''Aldosivi
+|Ciudad de Caseros
+|21:15
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''3 - 3
+|Independiente Rivadavia
+|Guillermo Laza
+|rowspan=3|2 de abril
+|14:45
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|2 - 0
+|Chaco For Ever
+|Miguel Sancho
+|18:30
+|-
+|Ferro Carril Oeste
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|Arquitecto Ricardo Etcheverri
+|18:50
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafela
+|Lorenzo Arandilla
+|rowspan=3|3 de abril
+|15:30
+|-
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Don León Kolbowski
+|17:10
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Deportivo Madryn
+|Centenario Ciudad de Quilmes
+|19:20
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 9
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|3 - 2
+|Gimnasia y Esgrima (J)
+|Omar Higinio Sperdutti
+|7 de abril
+|17:00
+|-
+|Deportivo Madryn
+|bgcolor=#D0E7FF|'''0 - 0
+|Brown de Adrogué
+|Abel Sastre
+|rowspan=5|8 de abril
+|15:30
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''1 - 1
+|Tristán Suárez
+|José María Minella
+|16:00
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|Chacarita Juniors
+|rowspan=2|17:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Ferro Carril Oeste
+|Bautista Gargantini
+|-
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|El Coliseo de Mitre y Puccini
+|20:00
+|-
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (C)
+|Dres. José y Antonio Castiglione
+|rowspan=3|9 de abril
+|rowspan=2|18:00
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|2 - 1
+|Deportivo Riestra
+|Juan Alberto García
+|-
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|Nuevo Monumental
+|20:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 10
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Atlético de Rafela
+|bgcolor=#D0E7FF|'''2 - 2
+|Aldosivi
+|Nuevo Monumental
+|rowspan=2|14 de abril
+|16:30
+|-
+|Gimnasia y Esgrima (J)
+|1 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia 
+|23 de Agosto
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|2 - 0
+|Villa Dálmine
+|Lorenzo Arandilla
+|15 de abril
+|15:30
+|-
+|Estudiantes (BA)
+|0 - 3
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|Ciudad de Caseros
+|rowspan=3|16 de abril
+|15:30
+|-
+|Quilmes
+|0 - 2
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|Centenario Ciudad de Quilmes
+|15:35
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 1
+|Chaco For Ever
+|Arquitecto Ricardo Etcheverri
+|19:00
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''0 - 0
+|Mitre (SdE)
+|Guillermo Laza
+|rowspan=3|17 de abril
+|17:30
+|-
+|bgcolor=#D0E7FF|'''Atlanta
+|3 - 2
+|Tristán Suárez
+|Don León Kolbowski
+|19:40
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''1 - 1
+|Chacarita Juniors
+|Miguel Sancho
+|21:40
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 11
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|4 - 2
+|Deportivo Riestra
+|Chacarita Juniors
+|rowspan=3|22 de abril
+|17:30
+|-
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Estudiantes (BA)
+|El Coliseo de Mitre y Puccini
+|19:00
+|-
+|Aldosivi
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlanta
+|José María Minella
+|19:35
+|-
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|3 - 2
+|Racing (C)
+|20 de Octubre
+|rowspan=6|23 de abril
+|rowspan=2|15:30
+|-
+|Deportivo Madryn
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|Abel Sastre
+|-
+|Mitre (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|Dres. José y Antonio Castiglione
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Brown de Adrogué
+|Omar Higinio Sperdutti
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia y Esgrima (J)
+|Juan Alberto García
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 0
+|Quilmes
+|Bautista Gargantini
+|18:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 12
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|Mitre (SdE)
+|23 de Agosto
+|28 de abril
+|21:00
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente Rivadavia
+|Lorenzo Arandilla
+|rowspan=4|29 de abril
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|2 - 1
+|Aldosivi
+|Abel Sastre
+|15:30
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Maipú
+|Ciudad de Caseros
+|16:35
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Chaco For Ever
+|Centenario Ciudad de Quilmes
+|18:35
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|2 - 0
+|Tristán Suárez
+|Guillermo Laza
+|rowspan=4|30 de abril
+|15:00
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|Miguel Sancho
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Villa Dálmine
+|Nuevo Monumental
+|20:00
+|-
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Chacarita Juniors
+|Arquitecto Ricardo Etcheverri
+|20:15
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 13
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Tristán Suárez
+|2 - 4
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|20 de Octubre
+|rowspan=5|6 de mayo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 1
+|Racing (C)
+|José María Minella
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|2 - 1
+|Gimnasia y Esgrima (J)
+|Chacarita Juniors
+|17:35
+|-
+|Villa Dálmine
+|1 - 3
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|El Coliseo de Mitre y Puccini
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Estudiantes (BA)
+|Bautista Gargantini
+|19:00
+|-
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|Omar Higinio Sperdutti
+|rowspan=3|7 de mayo
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|1 - 0
+|Quilmes
+|Estadio Ciudad de la Banda
+|rowspan=2|15:30
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''1 - 1
+|Brown de Adrogué
+|Juan Alberto García
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|Don León Kolbowski
+|8 de mayo
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 14
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|1 - 0
+|Tristán Suárez
+|23 de Agosto
+|12 de mayo
+|21:00
+|-
+|Deportivo Madryn
+|2 - 3
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|Abel Sastre
+|rowspan=4|13 de mayo
+|15:30
+|-
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Aldosivi
+|El Coliseo de Mitre y Puccini
+|rowspan=2|18:00
+|-
+|Atlético de Rafaela
+|1 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|Nuevo Monumental
+|-
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Chacarita Juniors
+|Centenario Ciudad de Quilmes
+|20:00
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''0 - 0
+|Mitre (SdE)
+|Lorenzo Arandilla
+|rowspan=2|14 de mayo
+|11:00
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 0
+|Atlanta
+|Arquitecto Ricardo Etcheverri
+|16:35
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''2 - 2
+|Racing (C)
+|Guillermo Laza
+|rowspan=2|15 de mayo
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|3 - 0
+|Chaco For Ever
+|Ciudad de Caseros
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 15
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|José María Minella
+|rowspan=4|20 de mayo
+|14:00
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|20 de Octubre
+|rowspan=3|21:30
+|-
+|Chaco For Ever
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|Juan Alberto García
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Deportivo Madryn
+|Bautista Gargantini
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''0 - 0
+|Brown de Adrogué
+|Chacarita Juniors
+|rowspan=3|21 de mayo
+|14:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Villa Dálmine
+|Omar Higinio Sperdutti
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|3 - 0
+|Estudiantes (BA)
+|Dres. José y Antonio Castiglione
+|16:00
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''1 - 1
+|Ferro Carril Oeste
+|Miguel Sancho
+|rowspan=2|22 de mayo
+|19:00
+|-
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|Don León Kolbowski
+|20:35
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 16
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Villa Dálmine
+|0 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|El Coliseo de Mitre y Puccini
+|rowspan=3|27 de mayo
+|rowspan=2|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|1 - 0
+|Chaco For Ever
+|Abel Sastre
+|-
+|Quilmes
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|Centenario Ciudad de Quilmes
+|21:15
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|2 - 1
+|Tristán Suárez
+|Lorenzo Arandilla
+|rowspan=5|28 de mayo
+|12:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|3 - 2
+|Aldosivi
+|Omar Higinio Sperdutti
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|1 - 0
+|Racing (C)
+|23 de Agosto
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|2 - 1
+|Chacarita Juniors
+|Ciudad de Caseros
+|17:05
+|-
+|Atlético de Rafaela
+|0 - 1
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Nuevo Monumental
+|19:30
+|-
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''2 - 2
+|Deportivo Riestra
+|Arquitecto Ricardo Etcheverri
+|29 de mayo
+|19:05
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 17
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|3 - 0
+|Atlético de Rafaela
+|Chacarita Juniors
+|2 de junio
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|2 - 1
+|Gimnasia y Esgrima (J)
+|Guillermo Laza
+|rowspan=4|3 de junio
+|12:30
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|20 de Octubre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|2 - 0
+|Villa Dálmine
+|Juan Alberto García
+|16:30
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Deportivo Maipú
+|Bautista Gargantini
+|19:30
+|-
+|Aldosivi
+|1 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|José María Minella
+|4 de junio
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|1 - 0
+|Deportivo Madryn
+|Dres. José y Antonio Castiglione
+|rowspan=3|5 de junio
+|14:30
+|-
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|Don León Kolbowski
+|17:45
+|-
+|Racing (C)
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|Miguel Sancho
+|21:00
+|}
+{|
+| <small>{{listaref|group="n."}}</small>
+|}
+
+==== Segunda rueda ====
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 18
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético de Rafaela
+|20 de Octubre
+|rowspan=3|17 de junio
+|15:00
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Chacarita Juniors
+|15:05
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Aldosivi
+|Bautista Gargantini
+|17:05
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|3 - 1
+|Villa Dálmine
+|Dres. José y Antonio Castiglione
+|rowspan=2|18 de junio
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|3 - 0
+|Gimnasia y Esgrima (J)
+|Arquitecto Ricardo Etcheverri
+|17:10
+|-
+|bgcolor=#D0E7FF|'''Atlanta
+|3 - 2
+|Estudiantes (BA)
+|Don León Kolbowski
+|rowspan=4|19 de junio
+|rowspan=2|15:00
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|Guillermo Laza
+|-
+|Chaco For Ever
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|Juan Alberto García
+|16:30
+|-
+|Racing (C)
+|1 - 2
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|Miguel Sancho
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 19
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|El Coliseo de Mitre y Puccini
+|rowspan=4|24 de junio
+|12:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|1 - 0
+|Tristán Suárez
+|Abel Sastre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Chaco For Ever
+|Bautista Gargantini
+|16:10
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Ferro Carril Oeste
+|Centenario Ciudad de Quilmes
+|20:10
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|Lorenzo Arandilla
+|rowspan=5|25 de junio
+|12:00
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (C)
+|Ciudad de Caseros
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Mitre (SdE)
+|Omar Higinio Sperdutti
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Aldosivi
+|3 - 1
+|Gimnasia y Esgrima (J)
+|José María Minella
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Atlanta
+|Nuevo Monumental
+|19:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 20
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Gimnasia y Esgrima (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|23 de Agosto
+|rowspan=2|30 de junio
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|1 - 0
+|Brown de Adrogué
+|Arquitecto Ricardo Etcheverri
+|21:10
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''1 - 1
+|Villa Dálmine
+|20 de Octubre
+|rowspan=2|1 de julio
+|15:00
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''3 - 3
+|Atlético de Rafaela
+|Miguel Sancho
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|2 - 1
+|Deportivo Maipú
+|Chacarita Juniors
+|rowspan=3|2 de julio
+|15:10
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|3 - 0
+|Aldosivi
+|Juan Alberto García
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|2 - 1
+|Independiente Rivadavia
+|Dres. José y Antonio Castiglione
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|2 - 1
+|Estudiantes (BA)
+|Guillermo Laza
+|rowspan=2|3 de julio
+|15:00
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Madryn
+|Don León Kolbowski
+|20:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 21
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|1 - 0
+|Gimnasia y Esgrima (J)
+|Lorenzo Arandilla
+|rowspan=5|8 de julio
+|12:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|1 - 0
+|Racing (C)
+|Abel Sastre
+|15:00
+|-
+|Atlético de Rafaela
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|Nuevo Monumental
+|rowspan=3|15:30
+|-
+|Villa Dálmine
+|0 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|El Coliseo de Mitre y Puccini
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|1 - 0
+|Mitre (SdE)
+|Juan Alberto García
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|3 - 2
+|Tristán Suárez
+|Omar Higinio Sperdutti
+|rowspan=4|9 de julio
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Chacarita Juniors
+|Bautista Gargantini
+|16:30
+|-
+|Estudiantes (BA)
+|1 - 2
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|Ciudad de Caseros
+|18:30
+|-
+|Aldosivi
+|1 - 2
+|bgcolor=#D0E7FF|'''Quilmes
+|José María Minella
+|20:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 22
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Tristán Suárez
+|0 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|20 de Octubre
+|rowspan=4|15 de julio
+|12:10
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|1 - 0
+|Chaco For Ever
+|Chacarita Juniors
+|15:40
+|-
+|Gimnasia y Esgrima (J)
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|23 de Agosto
+|16:00
+|-
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Brown de Adrogué
+|Centenario Ciudad de Quilmes
+|19:00
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''0 - 0
+|Villa Dálmine
+|Miguel Sancho
+|rowspan=3|16 de julio
+|rowspan=2|15:30
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Guillermo Laza
+|-
+|Ferro Carril Oeste
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|Arquitecto Ricardo Etcheverri
+|19:05
+|-
+|Mitre (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Aldosivi
+|Dres. José y Antonio Castiglione
+|rowspan=2|17 de julio
+|15:00
+|-
+|Atlanta
+|1 - 3
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|Don León Kolbowski
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 23
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|Ciudad de Caseros
+|rowspan=3|22 de julio
+|rowspan=2|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|1 - 0
+|Ferro Carril Oeste
+|Abel Sastre
+|-
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|Bautista Gargantini
+|20:10
+|-
+|Villa Dálmine
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|El Coliseo de Mitre y Puccini
+|rowspan=5|23 de julio
+|rowspan=3|15:30
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Racing (C)
+|Omar Higinio Sperdutti
+|-
+|Mitre (SdE)
+|1 - 2
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Dres. José y Antonio Castiglione
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Gimnasia y Esgrima (J)
+|Nuevo Monumental
+|rowspan=2|16:00
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''1 - 1
+|Tristán Suárez
+|Juan Alberto García
+|-
+|bgcolor=#D0E7FF|'''Aldosivi
+|2 - 1
+|Brown de Adrogué
+|José María Minella
+|24 de julio
+|18:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 24
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|1 - 0
+|Deportivo Maipú
+|Guillermo Laza
+|rowspan=2|29 de julio
+|12:10
+|-
+|Quilmes
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|Centenario Ciudad de Quilmes
+|19:05
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|Lorenzo Arandilla
+|rowspan=7|30 de julio
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|3 - 0
+|Mitre (SdE)
+|20 de Octubre
+|15:30 
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|2 - 0
+|Aldosivi
+|Chacarita Juniors
+|15:50
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|3 - 0
+|Villa Dálmine
+|Arquitecto Ricardo Etcheverri
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|1 - 0
+|Deportivo Madryn
+|23 de Agosto
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|2 - 0
+|Independiente Rivadavia
+|Miguel Sancho
+|17:55
+|-
+|bgcolor=#D0E7FF|'''Atlanta
+|4 - 0
+|Chaco For Ever
+|Don León Kolbowski
+|21:30 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 25
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Deportivo Madryn
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|Abel Sastre
+|rowspan=3|5 de agosto
+|12:10
+|-
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 1
+|Gimnasia y Esgrima (J)
+|El Coliseo de Mitre y Puccini
+|15:30
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''1 - 1
+|Tristán Suárez
+|Chacarita Juniors
+|18:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Ferro Carril Oeste
+|Omar Higinio Sperdutti
+|rowspan=4|6 de agosto
+|15:30
+|-
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Brown de Adrogué
+|Nuevo Monumental
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|2 - 0
+|Atlanta
+|Dres. José y Antonio Castiglione
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Deportivo Riestra
+|Bautista Gargantini
+|16:10
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|José María Minella
+|rowspan=2|7 de agosto
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|2 - 1
+|Racing (C)
+|Juan Alberto García
+|21:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 26
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''0 - 0
+|Chaco For Ever
+|Guillermo Laza
+|18 de agosto
+|15:00
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''0 - 0
+|Aldosivi
+|20 de Octubre
+|rowspan=6|19 de agosto
+|rowspan=3|15:00
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|3 - 1
+|Deportivo Madryn
+|Lorenzo Arandilla
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|Ciudad de Caseros
+|-
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Don León Kolbowski
+|16:00
+|-
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''1 - 1
+|Independiente Rivadavia
+|Arquitecto Ricardo Etcheverri
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Villa Dálmine
+|Centenario Ciudad de Quilmes
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|1 - 0
+|Deportivo Maipú
+|23 de Agosto
+|rowspan=2|20 de agosto
+|15:50
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|4 - 2
+|Mitre (SdE)
+|Miguel Sancho
+|17:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 27
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Aldosivi
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|José María Minella
+|25 de agosto
+|18:00
+|-
+|Deportivo Madryn
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|Abel Sastre
+|rowspan=5|26 de agosto
+|11:00
+|-
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|1 - 0
+|Atlanta
+|20 de Octubre
+|14:00
+|-
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|El Coliseo de Mitre y Puccini
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|1 - 0
+|Racing (C)
+|Chacarita Juniors
+|16:10
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Gimnasia y Esgrima (J)
+|Bautista Gargantini
+|18:10
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Quilmes
+|Omar Higinio Sperdutti
+|rowspan=3|27 de agosto
+|15:30
+|-
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|Dres. José y Antonio Castiglione
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|4 - 2
+|Ferro Carril Oeste
+|Juan Alberto García
+|16:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 28
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Maipú
+|Lorenzo Arandilla
+|rowspan=3|2 de septiembre
+|13:10
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|1 - 0
+|Villa Dálmine
+|Ciudad de Caseros
+|15:00
+|-
+|Quilmes
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|Centenario Ciudad de Quilmes
+|19:10
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|Chaco For Ever
+|23 de Agosto
+|rowspan=3|3 de septiembre
+|16:00
+|-
+|Racing (C)
+|bgcolor=#D0E7FF|'''1 - 1
+|Tristán Suárez
+|Miguel Sancho
+|18:00
+|-
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Nuevo Monumental
+|18:30 
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|3 - 0
+|Mitre (SdE)
+|Arquitecto Ricardo Etcheverri
+|4 de septiembre
+|20:00
+|-
+|Deportivo Riestra
+|0 - 1
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Guillermo Laza
+|rowspan=2|5 de septiembre
+|15:30
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''0 - 0
+|Aldosivi
+|Don León Kolbowski
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 29
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Villa Dálmine
+|1 - 4
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|El Coliseo de Mitre y Puccini
+|9 de septiembre
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|3 - 1
+|Ferro Carril Oeste
+|Chacarita Juniors
+|rowspan=8|10 de septiembre
+|14:10
+|-
+|Tristán Suárez
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Riestra
+|20 de Octubre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 0
+|Estudiantes (BA)
+|Omar Higinio Sperdutti
+|rowspan=2|15:30
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''2 - 2
+|Racing (C)
+|Don León Kolbowski
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|José María Minella
+|16:00
+|-
+|Chaco For Ever
+|0 - 4
+|bgcolor=#D0E7FF|'''Quilmes
+|Juan Alberto García
+|16:30
+|-
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Gimnasia y Esgrima (J)
+|Dres. José y Antonio Castiglione
+|18:00
+|-
+|Independiente Rivadavia
+|0 - 2
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|Bautista Gargantini
+|21:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 30
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|1 - 0
+|Atlanta
+|Guillermo Laza
+|15 de septiembre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Madryn
+|4 - 0
+|Villa Dálmine
+|Abel Sastre
+|rowspan=2|16 de septiembre
+|15:30
+|-
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente Rivadavia
+|Ciudad de Caseros
+|21:00
+|-
+|Brown de Adrogué
+|1 - 2
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|Lorenzo Arandilla
+|rowspan=5|17 de septiembre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|Chacarita Juniors
+|23 de Agosto
+|15:15
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|2 - 0
+|Aldosivi
+|Miguel Sancho
+|rowspan=2|18:00
+|-
+|Quilmes
+|1 - 3
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Centenario Ciudad de Quilmes
+|-
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Deportivo Maipú
+|Nuevo Monumental
+|18:30
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|2 - 1
+|Tristán Suárez
+|Arquitecto Ricardo Etcheverri
+|18 de septiembre
+|21:10
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 31
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|2 - 1
+|Atlético de Rafaela
+|Bautista Gargantini
+|22 de septiembre
+|21:10
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''2 - 2
+|Quilmes
+|Chacarita Juniors
+|rowspan=2|23 de septiembre
+|16:10
+|-
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|2 - 1
+|Estudiantes (BA)
+|Juan Alberto García
+|17:30
+|-
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''3 - 0
+|Brown de Adrogué
+|Dres. José y Antonio Castiglione
+|rowspan=5|24 de septiembre
+|11:00
+|-
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Ferro Carril Oeste
+|Don León Kolbowski
+|13:50
+|-
+|Tristán Suárez
+|1 - 2
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|20 de Octubre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|1 - 0
+|Deportivo Riestra
+|Miguel Sancho
+|17:00
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''0 - 0
+|Villa Dálmine
+|José María Minella
+|19:00
+|-
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Omar Higinio Sperdutti
+|25 de septiembre
+|15:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 32
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|bgcolor=#D0E7FF|'''Quilmes
+|5 - 1
+|Tristán Suárez
+|Centenario Ciudad de Quilmes
+|29 de septiembre
+|21:00
+|-
+|Estudiantes (BA)
+|0 - 1
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Ciudad de Caseros
+|rowspan=2|30 de septiembre
+|15:30
+|-
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|3 - 1
+|Racing (C)
+|Arquitecto Ricardo Etcheverri
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|Atlanta
+|23 de Agosto
+|rowspan=3|1 de octubre
+|rowspan=2|16:00
+|-
+|Deportivo Madryn
+|bgcolor=#D0E7FF|'''1 - 1
+|Independiente Rivadavia
+|Abel Sastre
+|-
+|Atlético de Rafaela
+|1 - 3
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|Nuevo Monumental
+|18:30
+|-
+|Brown de Adrogué
+|1 - 2
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Lorenzo Arandilla
+|rowspan=3|2 de octubre
+|15:00
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|3 - 0
+|Aldosivi
+|Guillermo Laza
+|rowspan=2|15:30
+|-
+|Villa Dálmine [[Archivo:1downarrow red.svg|12px|Descendió]]
+|2 - 3
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|El Coliseo de Mitre y Puccini
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 33
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|Don León Kolbowski
+|rowspan=3|7 de octubre
+|13:35
+|-
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|2 - 0
+|Brown de Adrogué
+|20 de Octubre
+|15:30
+|-
+|Chaco For Ever
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Madryn
+|Juan Alberto García
+|18:00
+|-
+|Aldosivi
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Maipú
+|José María Minella
+|rowspan=6|8 de octubre
+|rowspan=2|15:30
+|-
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''1 - 1
+|Ferro Carril Oeste
+|Guillermo Laza
+|-
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (BA)
+|Chacarita Juniors
+|16:50
+|-
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|2 - 1
+|Atlético de Rafaela
+|Dres. José y Antonio Castiglione
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Racing (C)
+|2 - 0
+|Gimnasia y Esgrima (J)
+|Miguel Sancho
+|18:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|1 - 0
+|Villa Dálmine
+|Bautista Gargantini
+|20:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:100%;"
+! colspan="6" |Fecha 34
+|-
+! width="21%" |Local
+! width="10%" |Resultado
+! width="21%" |Visitante
+! width="24%" |Estadio
+! width="14%" |Fecha
+! width="10%" |Hora
+|-
+|Ferro Carril Oeste
+|bgcolor=#D0E7FF|'''0 - 0
+|Aldosivi
+|Arquitecto Ricardo Etcheverri
+|rowspan=9|15 de octubre
+|rowspan=9|15:30
+|-
+|Gimnasia y Esgrima (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|23 de Agosto
+|-
+|Quilmes
+|1 - 2
+|bgcolor=#D0E7FF|'''Racing (C)
+|Centenario Ciudad de Quilmes
+|-
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|2 - 1
+|Atlanta
+|Lorenzo Arandilla
+|-
+|Estudiantes (BA)
+|0 - 2
+|bgcolor=#D0E7FF|'''Tristán Suárez
+|Ciudad de Caseros
+|-
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''1 - 1
+|Chacarita Juniors
+|Nuevo Monumental
+|-
+|Deportivo Madryn
+|0 - 2
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Abel Sastre
+|-
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Chaco For Ever
+|El Coliseo de Mitre y Puccini
+|-
+|Deportivo Maipú
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|Omar Higinio Sperdutti
+|}
+
+== Final ==
+Se disputó a un solo partido, en cancha neutral. El ganador se consagró campeón y ascendió a la [[Primera División de Argentina|Primera División]]. El perdedor pasó a la segunda fase del Torneo reducido por el segundo ascenso.
+
+{|class="wikitable" style="font-size: 95%; margin: 5px auto; text-align: center; width:95%;"
+|-
+!colspan=6 style="with: 100%;" align=center | Partido
+|-
+!width="85"|Equipo 1
+!width="30"|Resultado
+!width="85"|Equipo 2
+!width="95"|Estadio
+!width="55"|Fecha
+!width="30"|Hora 
+|-align=center
+|Almirante Brown 
+|0 - 2 {{small|([[Prórroga (deporte)|t. s.]])}}
+|bgcolor="#90ee90"|'''Independiente Rivadavia
+|[[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+|29 de octubre 
+|18:00
+|-
+|colspan=6|Independiente Rivadavia obtuvo el título de campeón y ascendió a Primera División.
+|}
+
+== Torneo reducido por el segundo ascenso ==
+Se disputa por [[eliminación directa]], en cuatro etapas (primera y segunda fase, semifinales y final). Tiene quince participantes.
+
+=== Cuadro de desarrollo ===
+<div style="white-space: nowrap;">
+{{Copa
+  | seed-width= 35 | team-width= 240 | score-width= 30
+  | seeds = sí
+
+  | RD1= Primera fase
+  | RD1-date= 27 al 30 de octubre
+
+  | RD1-seed1= 3.º-B
+  | RD1-team1= '''Deportivo Maipú
+  | RD1-score1= '''1
+  | RD1-seed2= 7.º-A
+  | RD1-team2= San Martín (SJ)
+  | RD1-score2= 0
+
+  | RD1-seed3= 2.º-B
+  | RD1-team3= Chacarita Juniors
+  | RD1-score3= 1
+  | RD1-seed4= 8.º-A
+  | RD1-team4= '''Temperley
+  | RD1-score4= '''2
+
+  | RD1-seed5= 4.º-A
+  | RD1-team5= '''Estudiantes (RC)
+  | RD1-score5= '''1
+  | RD1-seed6= 6.º-B
+  | RD1-team6= Mitre (SdE)
+  | RD1-score6= 0
+
+  | RD1-seed7= 5.º-B
+  | RD1-team7= '''Atlético de Rafaela
+  | RD1-score7= '''1
+  | RD1-seed8= 5.º-A
+  | RD1-team8= Defensores de Belgrano
+  | RD1-score8= 0
+
+  | RD1-seed11= 2.°-A
+  | RD1-team11= Agropecuario
+  | RD1-score11= 0
+  | RD1-seed12= 8.°-B
+  | RD1-team12= '''Ferro Carril Oeste
+  | RD1-score12= '''2
+
+  | RD1-seed13= 4.º-B
+  | RD1-team13= '''Quilmes
+  | RD1-score13= '''1
+  | RD1-seed14= 6.º-A
+  | RD1-team14= Gimnasia y Esgrima (M)
+  | RD1-score14= 0
+
+  | RD1-seed15= 3.º-A
+  | RD1-team15= San Martín (T)
+  | RD1-score15= 0
+  | RD1-seed16= 7.º-B
+  | RD1-team16= '''Deportivo Riestra
+  | RD1-score16= '''1
+
+  | RD2= Segunda fase
+  | RD2-date= 5 al 13 de noviembre
+
+  | RD2-seed1= 2
+  | RD2-team1= '''Deportivo Maipú
+  | RD2-score1-1= 1
+  | RD2-score1-2= 2
+  | RD2-score1-3= '''3
+  | RD2-seed2= 7
+  | RD2-team2= Temperley
+  | RD2-score2-1= 2
+  | RD2-score2-2= 0
+  | RD2-score2-3= '''2
+
+  | RD2-seed3= 4
+  | RD2-team3= '''Estudiantes (RC)''' {{Abreviatura|(v.d.)|Ventaja deportiva por tener una mejor posición en la tabla de ordenamiento}}
+  | RD2-score3-1= 0
+  | RD2-score3-2= 0
+  | RD2-score3-3= '''0'''
+  | RD2-seed4= 5
+  | RD2-team4= Atlético de Rafaela
+  | RD2-score4-1= 0
+  | RD2-score4-2= 0
+  | RD2-score4-3= '''0'''
+
+  | RD2-seed5= 1
+  | RD2-team5= '''Almirante Brown''' {{Abreviatura|(v.d.)|Ventaja deportiva por tener una mejor posición en la tabla de ordenamiento}}
+  | RD2-score5-1= 1
+  | RD2-score5-2= 0
+  | RD2-score5-3= '''1
+  | RD2-seed6= 8
+  | RD2-team6= Ferro Carril Oeste
+  | RD2-score6-1= 1
+  | RD2-score6-2= 0
+  | RD2-score6-3= '''1
+
+  | RD2-seed7= 3
+  | RD2-team7= Quilmes
+  | RD2-score7-1= 1 
+  | RD2-score7-2= 0
+  | RD2-score7-3= '''1
+  | RD2-seed8= 6 
+  | RD2-team8= '''Deportivo Riestra
+  | RD2-score8-1=1
+  | RD2-score8-2=1
+  | RD2-score8-3='''2
+
+  | RD3= Semifinales
+  | RD3-date= 20 al 26 de noviembre
+
+  | RD3-seed1= 2
+  | RD3-team1= '''Deportivo Maipú''' {{Abreviatura|(v.d.)|Ventaja deportiva por tener una mejor posición en la tabla de ordenamiento}}
+  | RD3-score1-1= 0
+  | RD3-score1-2= 1
+  | RD3-score1-3= '''1
+  | RD3-seed2= 3
+  | RD3-team2= Estudiantes (RC)
+  | RD3-score2-1= 0
+  | RD3-score2-2= 1
+  | RD3-score2-3= '''1
+
+  | RD3-seed3= 1
+  | RD3-team3= Almirante Brown
+  | RD3-score3-1= 0
+  | RD3-score3-2= 0
+  | RD3-score3-3= '''0
+  | RD3-seed4= 4
+  | RD3-team4= '''Deportivo Riestra'''
+  | RD3-score4-1= 2
+  | RD3-score4-2= 2
+  | RD3-score4-3= '''4
+
+  | RD4= Final
+  | RD4-date= 2 de diciembre
+
+  | RD4-team1= Deportivo Maipú
+  | RD4-score1= 0
+  | RD4-team2= '''Deportivo Riestra'''
+  | RD4-score2= '''1
+}}
+</div>
+
+=== Primera fase ===
+Los catorce participantes se enfrentaron a un solo partido, según un orden preestablecido (2.º de una zona con 8.º de la otra, 3.º con 7.º, 4.º con 6.º y 5.º con 5.º), actuando de local el mejor posicionado (en el caso de los dos quintos, se consideró el promedio de puntos por partido), el que, en caso de empate, fue el clasificado. Los siete ganadores pasaron a la segunda fase.
+
+==== Partidos ====
+{{Partido
+|local           = San Martín (T)
+|resultado       = 0:1''' (0:1)
+|visita          = '''Deportivo Riestra
+|fecha           = 27 de octubre, 21:30
+|estadio         = Estadio La Ciudadela
+|ciudad          = San Miguel de Tucumán 
+|árbitro         = [[Diego Ceballos]]
+|golesvisita     = {{gol|34}} [[Lázaro Romero|Romero]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674957&lang=es_LA
+}}
+
+{{Partido
+|local           = Chacarita Juniors
+|resultado       = 1:2''' (1:1)
+|visita          = '''Temperley
+|fecha           = 28 de octubre, 17:30
+|estadio         = Estadio de Chacarita Juniors
+|ciudad          = Villa Maipú
+|árbitro         = [[Mario Ejarque]]
+|goleslocal      = [[Exequiel Beltramone|Beltramone]] {{gol|12}} 
+|golesvisita     = {{gol|24}} [[Adrián Arregui|Arregui]]<br />{{gol|50}} [[Luciano Nieto|Nieto]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674956&lang=es_LA
+}}
+
+{{Partido
+|local           = Agropecuario
+|resultado       = 0:2''' (0:1)
+|visita          = '''Ferro Carril Oeste
+|fecha           = 28 de octubre, 18:00
+|estadio         = Estadio Ofelia Rosenzuaig
+|ciudad          = Carlos Casares 
+|árbitro         = [[Pablo Giménez (árbitro)|Pablo Giménez]]
+|golesvisita     = {{gol|18}} [[Alexander Díaz|Díaz]]<br />{{gol|85}} [[Claudio Mosca|Mosca]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674955&lang=es_LA
+}}
+
+{{Partido
+|local           = '''Quilmes
+|resultado       = 1:0''' (0:0)
+|visita          = Gimnasia y Esgrima (M)
+|fecha           = 28 de octubre, 21:30
+|estadio         = Estadio Centenario Ciudad de Quilmes
+|ciudad          = Quilmes 
+|árbitro         = [[José Carreras (árbitro)|José Carreras]]
+|goleslocal      = [[Martín Río|Río]] {{gol|38|partido complementario}} 
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674960&lang=es_LA
+|suceso          = Suspendido en el entretiempo, con el resultado 0 a 0, por agresión al arquero visitante desde la parcialidad local.<ref>{{cita web|título=Escándalo en Quilmes vs. Gimnasia de Mendoza: agresión a Olivera y suspensión del partido|url=https://www.tycsports.com/primera-nacional/quilmes-vs-gimnasia-mendoza-en-vivo-hora-donde-ver-y-formaciones-id543727.html|sitioweb=TyC Sports|fecha=29 de octubre de 2023|fechaacceso=mismo día}}</ref> Se completó el 4 de noviembre, a partir de las 13:00, en el [[estadio Ciudad de Vicente López]], a puertas cerradas.<ref>{{cita web|título=Quilmes y Gimnasia de Mendoza se pospuso nuevamente|url=https://www.diariopopular.com.ar/futbol/quilmes-y-gimnasia-mendoza-se-pospuso-nuevamente-n752285|sitioweb=Diario Popular|fecha=2 de noviembre de 2023|fechaacceso=3 de noviembre de 2023}}</ref> 
+}}
+
+{{Partido
+|local           = '''Deportivo Maipú
+|resultado       = 1:0''' (1:0)
+|visita          = San Martín (SJ)
+|fecha           = 29 de octubre, 16:00
+|estadio         = Estadio Omar Higinio Sperdutti
+|ciudad          = Maipú
+|árbitro         = [[Fabricio Llobet]]
+|goleslocal      = [[Nicolás Agorreca|Agorreca]] {{gol|25}}
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674958&lang=es_LA
+}}
+
+{{Partido
+|local           = '''Estudiantes (RC)
+|resultado       = 1:0''' (1:0)
+|visita          = Mitre (SdE)
+|fecha           = 29 de octubre, 19:00
+|estadio         = Estadio Antonio Candini
+|ciudad          = Río Cuarto 
+|árbitro         = [[Nélson Sosa]]
+|goleslocal      = [[Luis Silba|Silba]] {{gol|5}}
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674959&lang=es_LA
+}}
+
+{{Partido
+|local           = '''Atlético de Rafaela
+|resultado       = 1:0''' (0:0)
+|visita          = Defensores de Belgrano
+|fecha           = 30 de octubre, 21:30
+|estadio         = Estadio Nuevo Monumental
+|ciudad          = Rafaela 
+|árbitro         = [[Juan Pafundi]]
+|goleslocal      = [[Claudio Bieler|Bieler]] {{gol|66}}
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674961&lang=es_LA
+}}
+
+=== Segunda fase ===
+A los siete clasificados en la primera fase se sumó el perdedor de la final. Se confeccionó una tabla de ordenamiento según la posición y el promedio de puntos por partido que cada equipo consiguió en su respectiva zona, donde el perdedor de la final tuvo el primer lugar, y se enfrentaron los mejor contra los peor ubicados, sucesivamente (1 con 8, 2 con 7, 3 con 6 y 4 con 5). El mejor ubicado fue local en el segundo partido y, en caso de empate en el resultado global, fue el clasificado. Los cuatro ganadores pasaron a las semifinales.
+
+==== Tabla de ordenamiento ====
+Los equipos se ordenaron del 1 al 8, según la posición ocupada en su respectiva zona y el promedio de puntos por partido.
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona}}
+!{{Abreviatura|Prom.|Promedio de puntos por partido}}
+|- 
+|'''1||Almirante Brown||1.º|| - 
+|- 
+|'''2||Deportivo Maipú||3.º|| -
+|- 
+|'''3||Quilmes||rowspan=2|4.º||1,558 
+|- 
+|'''4||Estudiantes (RC)||1,527
+|- 
+|'''5||Atlético de Rafaela||5.º|| -
+|- 
+|'''6||Deportivo Riestra||7.º|| - 
+|- 
+|'''7||Temperley||rowspan=2|8.º||1,472
+|- 
+|'''8||Ferro Carril Oeste||1,441
+|}
+
+==== Partidos ====
+{{Partido
+|local           = Ferro Carril Oeste
+|resultado       = 1:1''' (0:0)
+|visita          = Almirante Brown
+|fecha           = 5 de noviembre, 18:00
+|estadio         = Estadio Arquitecto Ricardo Echeverri
+|ciudad          = Buenos Aires 
+|árbitro         = [[Yamil Possi]]
+|goleslocal      = [[Claudio Mosca|Mosca]] {{gol|80}}
+|golesvisita     = {{gol|46}} [[Nazareno Bazán|Bazán]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674962&lang=es_LA
+}}
+{{Partido
+|local           = Almirante Brown
+|resultado       = 0:0
+|global          = 1:1
+|visita          = Ferro Carril Oeste
+|fecha           = 11 de noviembre, 16:15
+|estadio         = Estadio Fragata Presidente Sarmiento
+|ciudad          = San Justo 
+|árbitro         = [[Jorge Baliño]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674966&lang=es_LA
+}}
+<br />
+{{Partido
+|local           = '''Temperley'''
+|resultado       = 2:1''' (0:0)
+|visita          = Deportivo Maipú
+|fecha           = 5 de noviembre, 16:00
+|estadio         = Estadio Alfredo Beranger
+|ciudad          = Turdera 
+|árbitro         = [[Sebastián Zunino]]
+|goleslocal      = [[Facundo Krüger|Krüger]] {{gol|53}}<br />[[Rodrigo Mazur|Mazur]] {{gol|61}}
+|golesvisita     = {{gol|68}} [[Santiago Emanuel González|González]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674963&lang=es_LA
+}}
+{{Partido
+|local           = '''Deportivo Maipú'''
+|resultado       = 2:0''' (1:0)
+|global          = 3:2
+|visita          = Temperley
+|fecha           = 12 de noviembre, 14:30
+|estadio         = Estadio Omar Higinio Sperdutti
+|ciudad          = Maipú
+|árbitro         = [[Darío Herrera (árbitro)|Darío Herrera]]
+|goleslocal      = [[Santiago Emanuel González|González]] {{gol|39}}<br />[[Rubens Sambueza|Sambueza]] {{gol|83|pen}}
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674967&lang=es_LA
+}}
+<br />
+{{Partido
+|local           = Deportivo Riestra
+|resultado       = 1:1''' (0:0)
+|visita          = Quilmes
+|fecha           = 7 de noviembre, 15:30
+|estadio         = Estadio Guillermo Laza
+|ciudad          = Buenos Aires 
+|árbitro         = [[Sebastián Martínez (árbitro)|Sebastián Martínez]]
+|goleslocal      = [[Lázaro Romero|Romero]] {{gol|59}}
+|golesvisita     = {{gol|67}} [[Martín Río|Río]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674964&lang=es_LA
+}}
+{{Partido
+|local           = Quilmes
+|resultado       = 0:1''' (0:1)
+|global          = 1:2
+|visita          = '''Deportivo Riestra'''
+|fecha           = 13 de noviembre, 19:00
+|estadio         = Estadio Centenario Ciudad de Quilmes
+|ciudad          = Quilmes
+|árbitro         = [[Luis Lobo Medina]]
+|golesvisita     = {{gol|36}} [[Jonathan Goitia|Goitia]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674968&lang=es_LA
+}}
+<br />
+{{Partido
+|local           = Atlético de Rafaela
+|resultado       = 0:0
+|visita          = Estudiantes (RC)
+|fecha           = 8 de noviembre, 21:05
+|estadio         = Estadio Nuevo Monumental
+|ciudad          = Rafaela
+|árbitro         = [[Carlos Córdoba (árbitro)|Carlos Córdoba]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674965&lang=es_LA
+}}
+{{Partido
+|local           = Estudiantes (RC)
+|resultado       = 0:0
+|global          = 0:0
+|visita          = Atlético de Rafaela
+|fecha           = 13 de noviembre, 21:05
+|estadio         = Estadio Antonio Candini
+|ciudad          = Río Cuarto
+|árbitro         = [[Pablo Giménez (árbitro)|Pablo Giménez]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674969&lang=es_LA
+}}
+
+=== Semifinales ===
+La disputaron los cuatro clasificados en la segunda fase, los que se enfrentaron según el procedimiento empleado en la fase anterior.
+
+==== Tabla de ordenamiento ====
+Los equipos se ordenaron del 1 al 4, según la posición ocupada en su respectiva zona.
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona}}
+|- 
+|'''1||Almirante Brown||1.º
+|- 
+|'''2||Deportivo Maipú||3.º
+|- 
+|'''3||Estudiantes (RC)||4.º
+|- 
+|'''4||Deportivo Riestra||7.º
+|}
+
+==== Partidos ====
+{{Partido
+|local           = '''Deportivo Riestra'''
+|resultado       = 2:0''' (0:0)
+|visita          = Almirante Brown
+|fecha           = 20 de noviembre, 17:00
+|estadio         = Estadio Guillermo Laza
+|ciudad          = Buenos Aires 
+|árbitro         = [[Ariel Penel]]
+|goleslocal      = [[Eric Tovo|Tovo]] {{gol|58}}<br />[[Gustavo Martín Fernández|Fernández]] {{gol|65}}
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674970&lang=es_LA
+}}
+{{Partido
+|local           = Almirante Brown
+|resultado       = 0:2 '''(0:1)
+|global          = 0:4
+|visita          = '''Deportivo Riestra'''
+|fecha           = 26 de noviembre, 17:00
+|estadio         = Estadio Fragata Presidente Sarmiento
+|ciudad          = San Justo 
+|árbitro         = [[Pablo Giménez (árbitro)|Pablo Giménez]]
+|golesvisita     = {{gol|23}} [[Jonatan Goitía|Goitía]]<br />{{gol|73}} [[Nicolás Dematei|Dematei]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674972&lang=es_LA
+}}
+<br />
+{{Partido
+|local           = Estudiantes (RC)
+|resultado       = 0:0
+|visita          = Deportivo Maipú
+|fecha           = 22 de noviembre, 19:00
+|estadio         = Estadio Antonio Candini
+|ciudad          = Río Cuarto
+|árbitro         = [[Nazareno Arasa]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674971&lang=es_LA
+}}
+{{Partido
+|local           = Deportivo Maipú
+|resultado       = 1:1''' (0:1)
+|global          = 1:1
+|visita          = Estudiantes (RC)
+|fecha           = 26 de noviembre, 17:00
+|estadio         = Estadio Omar Higinio Sperdutti
+|ciudad          = Maipú 
+|árbitro         = [[Nicolás Lamolina]]
+|goleslocal      = [[Luciano Herrera|Herrera]] {{gol|90+5}}
+|golesvisita     = {{gol|43}} [[Guillermo Villalba|Villalba]]
+|reporte         = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674973&lang=es_LA
+}}
+
+=== Final ===
+La disputaron los dos clasificados en la semifinales, los que se enfrentaron a un solo partido en estadio neutral. El ganador consiguió el ascenso a la [[Primera División de Argentina|Primera División]].
+
+==== Partido ====
+{{Partido
+|local             = Deportivo Maipú
+|resultado         = 0:1''' (0:0)
+|visita            = '''Deportivo Riestra'''
+|fecha             = 2 de diciembre, 17:00 
+|estadio           = [[Estadio Juan Domingo Perón]]
+|ciudad            = Córdoba 
+|árbitro           = [[Darío Herrera (árbitro)|Darío Herrera]]
+|golesvisita       = {{gol|60}} [[Gustavo Martín Fernández|Fernández]] 
+|reporte           = https://info.afa.org.ar/deposito/html/v3/index.html?channel=deportes.futbol.nacionalb.674974&lang=es_LA
+|suceso            = Deportivo Riestra ascendió a la Primera División.
+}}
+
+== Goleadores ==
+{| class="wikitable col1izq col2izq" style="margin: auto; text-align: center;"
+! width="200" | Jugador
+! width="180" | Equipo
+! width="50"  | Goles
+! width="50"  | {{Abreviatura|Jugada|Goles hechos con otra parte del cuerpo que no sea la cabeza}}
+! width="50"  | {{Abreviatura|Cabeza|Goles hechos con la cabeza}}
+! width="50"  | {{Abreviatura|T. libre|Goles hechos de tiro libre}}
+! width="50"  | {{Abreviatura|Penal|Goles hechos de penal}}
+|- bgcolor=#EEE
+| {{bandera|PAR}} '''[[Alex Arce]]
+| [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+| '''26''' || 11 || 2 || 2 || 11
+|-
+| {{bandera|ARG}} [[Nicolás Benegas]]
+| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+| '''17''' || 12 || 0 || 0 || 5
+|-
+| {{bandera|ARG}} [[Emanuel Dening]]
+| [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+| '''15''' || 7 || 2 || 0 || 6
+|-
+| {{bandera|ECU}} [[Claudio Bieler]]
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| '''14''' || 5 || 2 || 1 || 6
+|-
+| {{bandera|ARG}} [[Lázaro Romero]]
+| [[Club Deportivo Riestra|Deportivo Riestra]]
+| '''14''' || 6 || 3 || 0 || 5
+|-
+| {{bandera|ARG}} [[Martín Pino]]
+| [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+| '''14''' || 9 || 4 || 0 || 1
+|}
+<center><small>[https://www.afa.com.ar/es/pages/estadisticas-primera-b-nacional www.afa.com.ar] | [https://web.archive.org/web/20231203132021/https://www.soloascenso.com.ar/goleadores/primera-nacional/1 www.soloascenso.com.ar]</small></center>
+
+== Véase también ==
+* [[Copa de la Liga Profesional 2023]]
+* [[Campeonato de Primera División 2023 (Argentina)|Primera División 2023]]
+* [[Campeonato de Primera B 2023 (Argentina)|Primera B 2023]]
+* [[Torneo Federal A 2023]]
+* [[Campeonato de Primera C 2023 (Argentina)|Primera C 2023]]
+* [[Torneo Regional Federal Amateur 2023-24]]
+* [[Campeonato de Primera D 2023|Primera D 2023]]
+* [[Copa Argentina 2023]]
+
+== Referencias ==
+{{listaref|3}}
+
+== Enlaces externos ==
+* [https://www.afa.com.ar/upload/mcith/NewFolder/6227_%20Reglamento%20Primera%20Nacional%202023.pdf Reglamento]
+* [https://www.afa.com.ar/es/ Sitio oficial de la AFA]
+
+{{Sucesión
+|título= XXXIX Temporada de la [[Primera Nacional]]
+|período=<small>'''Campeón: [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]] ({{Ord|1.|er}} título)<small>
+|predecesor= &nbsp;[[Campeonato de Primera Nacional 2022|Primera Nacional 2022]]&nbsp;
+|sucesor= &nbsp;[[Campeonato de Primera Nacional 2024|Primera Nacional 2024]]&nbsp;
+}}
+
+{{Control de autoridades}}
+[[Categoría:Primera B Nacional]]
+[[Categoría:Fútbol en Argentina en 2023]]

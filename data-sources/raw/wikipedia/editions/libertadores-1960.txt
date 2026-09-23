@@ -1,0 +1,475 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América|Copa de Campeones de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Penarol-1960.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[Club Atlético Peñarol]], de Uruguay, se convirtió en el {{ord|1.|er}} campeón de la [[Copa Libertadores de América]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 7 de 7 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|19|4|1960}}
+| fecha de cierre = {{fecha2|19|6|1960}}
+| edición = I
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+| semifinalistas = {{bandera|ARG|alt}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>{{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+| titulotercero = Semifinalistas
+| partidos = 13
+| goles = 39 (3 por partido)
+| goleador = {{bandera|ECU|1900}} [[Alberto Spencer]] (7 goles)<br><small>([[Club Atlético Peñarol|Peñarol]])</small>
+| anterior = [[Campeonato Sudamericano de Campeones|Sudamericano de Campeones de 1948]]
+| actual = Copa de Campeones de América 1960
+| siguiente = [[Copa de Campeones de América 1961]]
+}}
+La '''[[Copa Libertadores de América|Copa de Campeones de América]] 1960''' fue la primera edición de la actualmente denominada [[Copa Libertadores de América|CONMEBOL Libertadores]], torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]]. Participaron los equipos campeones de siete países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Paraguay]] y [[Uruguay]].
+
+El campeón fue [[Club Atlético Peñarol|Peñarol]] de Uruguay, luego de vencer a [[Club Olimpia|Olimpia]] de Paraguay en las finales, con una victoria por 1-0 en el partido de ida y un empate 1-1 en la revancha. Gracias al título, jugó la [[Copa Intercontinental 1960]] contra [[Real Madrid Club de Fútbol|Real Madrid]] de [[España]].
+
+== Formato ==
+6 equipos comenzaron su participación desde los cuartos de final. Solamente [[Club Olimpia|Olimpia]] de [[Paraguay]] inició el torneo desde las semifinales. El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta, disputándose un tercer partido en caso de igualdad en puntos y diferencia de goles.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Cuartos de final
+(6 equipos)
+|
+* 1 equipo de Argentina, Bolivia, Brasil,<br>Chile, Colombia y Uruguay
+|
+|-
+! colspan="2" |Semifinales
+(4 equipos)
+|
+* 1 equipo de Paraguay
+|
+* 3 equipos clasificados de los cuartos de final
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos clasificados de las semifinales
+|}
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa de Campeones de América 1960|l1=Equipos participantes en la Copa de Campeones de América 1960}}
+
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| class="wikitable" style="font-size:85%" width="100%" border="1"
+|-
+! width="25%" |País
+! width="23%" |Equipo
+! width="62%" |Vía de clasificación
+|-
+|'''{{bandera|Argentina|alt}} [[Asociación del Fútbol Argentino|Argentina]]'''<br>1 cupo
+|[[Archivo:Blu e Rosso (Strisce).png|border|18px]] [[Club Atlético San Lorenzo de Almagro|''San Lorenzo'']]
+|Campeón del [[Campeonato de Primera División 1959 (Argentina)|Campeonato de Primera División 1959]]
+|-
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br>1 cupo
+|[[Archivo:Icon Wilstermann.png|18px]] [[Club Deportivo Jorge Wilstermann|''Jorge Wilstermann'']]
+|Campeón del [[Primera División de Bolivia 1959|Campeonato de Primera División 1959]]
+|-
+|'''{{bandera|Brasil|1960}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br>1 cupo
+|[[Archivo:EC Bahia.svg|18px|borde]] [[Esporte Clube Bahia|''Bahia'']]
+|Campeón del [[Campeonato Brasileño de Fútbol 1959|Campeonato Brasileño de 1959]]
+|-
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br>1 cupo
+|[[Archivo:UdeChileLogo.png|18px|Universidad de Chile|borde]] [[Club Universidad de Chile|''Universidad de Chile'']]
+|Campeón del [[Primera División de Chile 1959|Campeonato de Primera División 1959]]
+|-
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br>1 cupo
+|[[Archivo:Flag Millos WhiteBlue.png|borde|18px]] [[Millonarios Fútbol Club|''Millonarios'']]
+|Campeón del [[Campeonato colombiano 1959|Campeonato Colombiano 1959]]
+|-
+|'''{{bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>1 cupo
+|[[Archivo:Fantasy-Flag-Olimpia-Py.png|borde|18px]] [[Club Olimpia|''Olimpia'']]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1959|Campeonato Paraguayo de 1959]]
+|-
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>1 cupo
+|[[Archivo:Bandera-club-atletico-penarol.png|18px|borde]] [[Club Atlético Peñarol|''Peñarol'']]
+|Campeón del [[Campeonato Uruguayo de Primera División 1959|Campeonato Uruguayo de 1959]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=650|caption=Localización de los equipos de la '''Copa de Campeones de América 1960'''|AlternativeMap =Equipos participantes Copa de Campeones de América 1960.png|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-40.199722|long=-43.999944|label=<small>{{bandera|ARG|alt}}<br>[[Club Atlético San Lorenzo de Almagro|<span style="color: #FFFFFF">San Lorenzo</span>]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-24.89|long=-54.35|label=<small>{{Bandera|Bolivia}}<br>[[Club Deportivo Jorge Wilstermann|<span style="color: #FFFFFF">J. Wilstermann</span>]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.080833|long=-34.500833|label=<small>{{bandera|Brasil|1960}} [[Esporte Clube Bahia|<span style="color: #FFFFFF">Bahía</span>]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-39.78|long=-54.676667|label=<small>{{Bandera|Chile}}<br>[[Club Universidad de Chile|<span style="color: #b5933a">Univ. de Chile</span>]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=-4.79|long=-61.01|label=<small>{{Bandera|Colombia}} [[Millonarios Fútbol Club|<span style="color: #FFFFFF">Millonarios</span>]]</small>|position=bottom}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-31.9|long=-46.3|label=<small>{{bandera|Paraguay|1954}} [[Club Olimpia|<span style="color: #FFFFFF">Olimpia</span>]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-40.081944|long=-41.966667|label=<small>{{Bandera|Uruguay}} [[Club Atlético Peñarol|<span style="color: #b5933a">Peñarol</span>]]</small>|position=right}}
+}}
+
+== Resultados ==
+=== Cuadro de desarrollo ===
+<center>
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!--Cuartos-->
+| RD1= [[Anexo:Cuartos de final de la Copa de Campeones de América 1960|Cuartos de final]]
+| RD1-date= 19 de abril al 15 de mayo
+
+| RD1-team3= {{Bandera|COL}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+| RD1-score3-1= 6
+| RD1-score3-2= 1
+| RD1-score3-3= '''7'''
+
+| RD1-team4= {{Bandera|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+| RD1-score4-1 = 0
+| RD1-score4-2 = 0
+| RD1-score4-3 = '''0'''
+
+| RD1-team5= {{bandera|Brasil|1960}} [[Esporte Clube Bahia|Bahia]]
+| RD1-score5-1= 0
+| RD1-score5-2= 3
+| RD1-score5-3= '''3'''
+
+| RD1-team6= {{Bandera|ARG|alt}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD1-score6-1= 3
+| RD1-score6-2= 2
+| RD1-score6-3= '''5'''
+
+| RD1-team7= {{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+| RD1-score7-1= 1
+| RD1-score7-2= 1
+| RD1-score7-3= '''2'''
+
+| RD1-team8= {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD1-score8-1= 7
+| RD1-score8-2= 1
+| RD1-score8-3= '''8'''
+
+<!--Semifinal-->
+| RD2= [[Anexo:Semifinales de la Copa de Campeones de América 1960|Semifinales]]
+
+| RD2-date= 18 de mayo al 5 de junio
+
+| RD2-team1= {{Bandera|PAR|1954}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-score1-1= 0
+| RD2-score1-2= 5
+| RD2-score1-3= –
+| RD2-score1-4= '''5'''
+
+| RD2-team2= {{Bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+| RD2-score2-1= 0
+| RD2-score2-2= 1
+| RD2-score2-3= –
+| RD2-score2-4= '''1'''
+
+| RD2-team3= {{Bandera|ARG|alt}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| RD2-score3-1= 1
+| RD2-score3-2= 0
+| RD2-score3-3= 1
+| RD2-score3-4= '''2'''
+
+| RD2-team4= {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD2-score4-1= 1
+| RD2-score4-2= 0
+| RD2-score4-3= 2
+| RD2-score4-4= '''3'''
+
+<!--Final-->
+| RD3= [[Anexo:Final de la Copa de Campeones de América 1960|Final]]
+| RD3-date= 12 y 19 de junio
+
+| RD3-team1= {{Bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+| RD3-score1-1= 0
+| RD3-score1-2= 1
+| RD3-score1-3= '''1'''
+
+| RD3-team2= {{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| RD3-score2-1= 1
+| RD3-score2-2= 1
+| RD3-score2-3= '''2'''
+}}
+</center>
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que define la serie como local.</small>
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa de Campeones de América 1960|l1=Cuartos de final de la Copa de Campeones de América 1960}}
+{{Partido
+|local           = [[Club Universidad de Chile|Universidad de Chile]]
+|paíslocal       = CHI
+|resultado       = 0:6''' (0:2)
+|visita          = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita      = COL
+|fecha           = 8 de mayo de 1960
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 18&nbsp;000
+|árbitro         = {{árbitro|URU|Juan Carlos Armental}}
+|goleslocal      = 
+|golesvisita     = [[Rubén Pizarro|Pizarro]] {{gol|4||82}} <br> [[Marino Klinger|Klinger]] {{gol|13||67}} <br> [[Rodolfo Micheli|Micheli]] {{gol|54}} <br> [[Orlando Larraz|Larraz]] {{gol|71}}
+}}
+{{Partido
+|local           = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal       = COL
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Universidad de Chile|Universidad de Chile]]
+|paísvisita      = CHI
+|fecha           = 15 de mayo de 1960
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 25&nbsp;000
+|árbitro         = {{árbitro|URU|Juan Carlos Armental}}
+|goleslocal      = [[Rubén Pizarro|Pizarro]] {{gol|48}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 3:0''' (0:0)
+|visita          = [[Esporte Clube Bahia|Bahia]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 20 de abril de 1960
+|estadio         = [[Estadio Tomás Adolfo Ducó|Estadio Jorge Newbery]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 10&nbsp;000
+|árbitro         = {{árbitro|URU|Esteban Marino}}
+|goleslocal      = [[Oscar Rossi|Rossi]] {{gol|60}}<br>[[Miguel Ángel Ruiz (futbolista argentino)|Ruiz]] {{gol|81}}<br>[[José Sanfilippo|Sanfilippo]] {{gol|89|pen.}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Esporte Clube Bahia|Bahia]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 3:2''' (2:1)
+|visita          = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 3 de mayo de 1960
+|estadio         = [[Estadio Fonte Nova]]
+|ciudad          = [[Salvador (Bahía)|Salvador]]
+|asistencia      = 18&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|Eustasio Catebeke}}
+|goleslocal      = [[Carlos Domingues Viana|Carlito]] {{gol|12}}<br>[[Flávio dos Santos|Flávio]] {{gol|40}}<br>[[Mário da Nova Bahia|Marito]] {{gol|89|pen.}}
+|golesvisita     = [[José Sanfilippo|Sanfilippo]] {{gol|6||57}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 7:1''' (4:0)
+|visita          = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paísvisita      = BOL
+|fecha           = 19 de abril de 1960
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Carlos Borges|Borges]] {{gol|13||17}}<br>[[Luis Cubilla|Cubilla]] {{gol|20}}<br>[[Alberto Spencer|Spencer]] {{gol|35||57||66||89}}
+|golesvisita     = [[Máximo Alcócer|Alcócer]] {{gol|48}}
+|suceso          = Primer partido disputado en la historia de la Copa Libertadores.
+}}
+{{Partido
+|local           = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paíslocal       = BOL
+|resultado       = 1:1''' (0:1)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 30 de abril de 1960
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 30&nbsp;000
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Renán López|López]] {{gol|55}}
+|golesvisita     = [[Luis Cubilla|Cubilla]] {{gol|43}}
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa de Campeones de América 1960|l1=Semifinales de la Copa de Campeones de América 1960}}
+{{Partido
+|local           = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal       = COL
+|resultado       = 0:0
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1954
+|fecha           = 29 de mayo de 1960
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|COL|José Sundheim}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1954
+|resultado       = 5:1''' (3:0)
+|visita          = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita      = COL
+|fecha           = 5 de junio de 1960
+|estadio         = [[Estadio Defensores del Chaco|Estadio de Puerto Sajonia]]
+|ciudad          = [[Asunción]]
+|asistencia      = 35&nbsp;000
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Luis Doldán|Doldán]] {{gol|15||38}}<br>[[Teovaldo Melgarejo|Melgarejo]] {{gol|43}}<br>[[Delio Noriega|Noriega]] {{gol|53|a.g.}} <br>[[Hipólito Recalde|Recalde]] {{gol|63}}
+|golesvisita     = [[Rubén Pizarro|Pizarro]] {{gol|73}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:1''' (1:1)
+|visita          = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 18 de mayo de 1960
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 55&nbsp;000
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Carlos Abel Linazza|Linazza]] {{gol|2}}
+|golesvisita     = [[Norberto Boggio|Boggio]] {{gol|18}}
+}}
+{{Partido
+|local           = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 0:0
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 24 de mayo de 1960
+|estadio         = [[Estadio Tomás Adolfo Ducó|Estadio Jorge Newbery]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 60&nbsp;097
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+
+'''Partido de desempate'''
+
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 2:1''' (0:0)
+|visita          = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 29 de mayo de 1960
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 45&nbsp;882
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}}
+|goleslocal      = [[Alberto Spencer|Spencer]] {{gol|51||89}}
+|golesvisita     = [[José Sanfilippo|Sanfilippo]] {{gol|86}}
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa de Campeones de América 1960|l1=Final de la Copa de Campeones de América 1960}}{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1954
+|fecha           = 12 de junio de 1960
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 44&nbsp;690<ref>{{Cita web|url=https://pbs.twimg.com/media/EaUXeBFXsAUWY6L?format=jpg&name=medium|título=Ajustada Victoria de Peñarol Frente a Olimpia|autor=José A. Bianchi|fecha=13 de Junio de 1960|editor=La Tribuna|ubicación=Asunción, Paraguay|formato=JPG}}</ref>
+|árbitro         = {{árbitro|CHI|Juan Carlos Robles}}
+|goleslocal      = [[Alberto Spencer|Spencer]] {{gol|79}}
+|golesvisita     = 
+|competición=Ida}}
+<!--
+|-
+|width=10% align=center|{{gol}}||width=10%| '|| ||width=10%|-
+-->
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1954
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 19 de junio de 1960
+|estadio         = [[Estadio Defensores del Chaco|Estadio de Puerto Sajonia]]
+|ciudad          = [[Asunción]]
+|asistencia      = 20&nbsp;000<ref>{{Cita web|url=https://pbs.twimg.com/media/Fy_HI41WAAA0mIx?format=jpg&name=medium|título=Peñarol: Gran Campeón|autor=El Bien Público|ubicación=Uruguay|formato=JPG}}</ref>
+|árbitro         = {{árbitro|ARG|var=alt|José Luis Praddaude}}
+|goleslocal      = [[Hipólito Recalde|Recalde]] {{gol|28}}
+|golesvisita     = [[Luis Cubilla|Cubilla]] {{gol|83}}
+|competición=Vuelta|suceso=Desde antes de iniciar el partido la afición local mostró su contrariedad al equipo uruguayo arrojando naranjas desde las tribunas.<ref name=cahmpion>[https://www.pasionfutbol.com/noticias/El-trasfondo-desconocido-en-las-finales-de-1960-entre-Penarol-y-Olimpia-20120712-0008.html El trasfondo desconocido en las finales de 1960 entre Peñarol y Olimpia]</ref><ref>[https://www.lanacion.com.ar/deportes/la-libertadores-que-no-se-vaia-por-tv-nid1383471 La Libertadores que no se veía por TV]</ref> Según cuenta [[Néstor Gonçalves]] en el documental «120: Serás eterno como el tiempo» los hinchas de [[Club Olimpia|Olimpia]] llegaron a utilizar resorteras para agredir a los jugadores y al cuerpo técnico de [[Peñarol]].<br><br>Primera [[vuelta olímpica]] que se da en la [[Copa Libertadores]].<br><br>No hubo entrega de trofeo ni en el campo de juego, ni en los vestuarios, ni en la sede de [[Peñarol]]. El [[trofeo de la Copa Libertadores]] le fue entregado recién en 1961 a [[Peñarol]] luego de defender el título; no le fue entregado en el [[Estadio Pacaembú]] luego de derrotar a [[Palmeiras]] en la [[final de la Copa de Campeones de América 1961|final del año siguiente]], sino en septiembre tras vencer a [[Benfica]] por la [[Copa Intercontinental 1961]], donde recién se le entregó en el campo de juego el trofeo de la Copa Libertadores (aunque sin la base) y el de la Copa Intercontinental.<ref name=cahmpion />}}
+<div style="clear: both;"></div>
+<br/>
+{{Campeón
+|equipo = [[Club Atlético Peñarol|Peñarol]]
+|imagen = Flag of Uruguay.svg
+|logo =
+|orden = 1
+}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#f8f3ed; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#b5933a"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#ebdcc7
+|{{bandera|ECU|1900}} '''[[Alberto Spencer]]'''
+|{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|align=center|'''7'''
+|align=center|'''7'''
+|-
+|{{bandera|ARG|alt}} [[Rubén Pizarro]]
+|{{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+|align=center|4
+|align=center|4
+|-
+|{{bandera|ARG|alt}} [[José Sanfilippo]]
+|{{bandera|ARG|alt}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|align=center|4
+|align=center|5
+|-
+|{{bandera|URU}} [[Luis Cubilla]]
+|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|align=center|3
+|align=center|6
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1960]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Copa Libertadores 1960}}
+* [http://www.rsssf.com/sacups/copa60.html Copa de Campeones de América de 1960] en [[RSSSF]].
+* [http://www.conmebol.com/ Página web oficial] de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Campeonato Sudamericano de Campeones|Campeonato Sudamericano<br>de Campeones 1948]]
+| título     = Copa de Campeones de América 1960
+| período    = I edición
+| sucesor    = [[Copa de Campeones de América 1961|1961]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa de Campeones de América 1960| ]]
+[[Categoría:Temporadas de la Copa Libertadores|1960]]

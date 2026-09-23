@@ -50,7 +50,11 @@ export function parseStatsTable(tbl, isArgClub) {
   for (const r of g.slice(h2i + 1)) {
     if (r.some((c) => /Total/i.test(clean(c)))) continue
     const clubCell = r[0] ?? ''
-    const club = links(clubCell)[0]
+    // later stints often repeat the club as plain text; join them with the linked entry of that name
+    const text = clean(clubCell)
+    const linked = links(clubCell)[0]
+    const same = [...byClub.values()].find((e) => e.club === text || e.page === text)
+    const club = linked ?? (same ? { name: same.club, page: same.page } : text ? { name: text, page: text } : null)
     if (!club) continue
     const e = byClub.get(club.page) ?? { club: club.name, page: club.page, arg: ARG.test(clubCell) || isArgClub(club.page), league: 0, cups: 0, intl: 0, total: 0 }
     for (const k of Object.keys(cols)) if (cols[k] >= 0) e[k] += num(r[cols[k]])

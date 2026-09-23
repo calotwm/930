@@ -21,7 +21,15 @@ async function get(url) {
   for (let i = 0; i < 5; i++) {
     try {
       const res = await fetch(url, { headers: { 'User-Agent': UA } })
-      if (res.ok) return await res.text()
+      if (res.ok) {
+        // older pages are Windows-1252, newer ones UTF-8
+        const bytes = new Uint8Array(await res.arrayBuffer())
+        try {
+          return new TextDecoder('utf-8', { fatal: true }).decode(bytes)
+        } catch {
+          return new TextDecoder('windows-1252').decode(bytes)
+        }
+      }
       if (res.status === 404) return null
     } catch {
       // archive.org drops connections now and then
@@ -54,7 +62,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   fs.mkdirSync(DIR, { recursive: true })
   for (const div of Object.keys(SA_DIVISIONS)) {
     const file = path.join(DIR, `${div}.json`)
-    const stored = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : []
+    // copies saved with broken accents (decoded with the wrong charset) are downloaded again
+    const stored = (fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : []).filter((s) => !JSON.stringify(s.rows).includes('�'))
     const have = new Set(stored.map((s) => s.timestamp))
     const cdx = await get(
       `https://web.archive.org/cdx/search/cdx?url=soloascenso.com.ar/goleadores/${div}/${SA_DIVISIONS[div].id}&output=json&fl=timestamp&filter=statuscode:200&collapse=timestamp:8`,

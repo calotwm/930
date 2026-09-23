@@ -641,18 +641,30 @@ function main() {
     const f = path.join(saDir, `${div}.json`)
     if (!fs.existsSync(f)) continue
     const snaps = JSON.parse(fs.readFileSync(f, 'utf8'))
+    // season of a copy: calendar tournaments from 2021 (a January/February copy still shows the previous
+    // year's final table), July-June seasons before
+    const seasonOf = (ts) => {
+      const y = +ts.slice(0, 4)
+      const m = +ts.slice(4, 6)
+      return y >= 2021 ? (m <= 2 ? y - 1 : y) : m >= 7 ? y : y - 1
+    }
     snaps.forEach((s, i) => {
       const next = snaps[i + 1]
-      if (!next || next.rows[0][2] < s.rows[0][2]) saSeasons.push({ div, label: meta.label, ...s })
+      const ends = !next || seasonOf(next.timestamp) !== seasonOf(s.timestamp) || next.rows[0][2] < s.rows[0][2]
+      if (ends) saSeasons.push({ div, label: meta.label, season: seasonOf(s.timestamp), ...s })
     })
   }
   const saPlayers = new Map()
   for (const s of saSeasons) {
-    for (const [name, team, goals] of s.rows) {
+    for (const [rawName, rawTeam, goals] of s.rows) {
+      // older copies are in capitals
+      const pretty = (x) => (x === x.toUpperCase() ? titleCase(x) : x)
+      const name = pretty(rawName)
+      const team = pretty(rawTeam)
       const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, teams: [], seasons: [] }
       e.goals += goals
       e.teams.push(team)
-      e.seasons.push(`${s.label} (copia ${s.timestamp.slice(0, 8)}): ${goals}`)
+      e.seasons.push(`${s.label} ${s.season} (copia ${s.timestamp.slice(0, 8)}): ${goals}`)
       saPlayers.set(norm(name), e)
     }
   }

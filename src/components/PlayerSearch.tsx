@@ -11,7 +11,6 @@ export function PlayerSearch({
   role,
   current,
   usedIds,
-  changesLeft,
   onPick,
   onRemove,
 }: {
@@ -19,12 +18,9 @@ export function PlayerSearch({
   role: SlotRole
   current: Player | null
   usedIds: Set<string>
-  changesLeft: number
   onPick: (player: Player) => void
   onRemove: () => void
 }) {
-  // replacing or removing a placed player spends a change
-  const locked = current !== null && changesLeft === 0
   const [query, setQuery] = useState('')
   const [pos, setPos] = useState<Position | null>(null)
   const [shown, setShown] = useState(PAGE)
@@ -55,14 +51,7 @@ export function PlayerSearch({
         {current && (
           <div className="flex items-center justify-between rounded-2xl border border-white/10 px-4 py-2.5">
             <div className="min-w-0">
-              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">
-                En este puesto ·{' '}
-                {locked ? (
-                  <span className="text-bust">sin cambios</span>
-                ) : (
-                  <span className="text-celeste-soft">cambiarlo usa 1 de {changesLeft}</span>
-                )}
-              </p>
+              <p className="text-[10px] font-bold tracking-widest text-chalk-dim uppercase">En este puesto</p>
               <p className="truncate font-extrabold uppercase">
                 {current.name} · <span className="font-display tabular">{current.goals}</span>
               </p>
@@ -70,8 +59,7 @@ export function PlayerSearch({
             <button
               type="button"
               onClick={onRemove}
-              disabled={locked}
-              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95 disabled:opacity-40"
+              className="shrink-0 rounded-full bg-bust/15 px-3 py-1.5 text-xs font-bold text-bust active:scale-95"
             >
               Quitar
             </button>
@@ -126,9 +114,7 @@ export function PlayerSearch({
                 ? 'ya está acá'
                 : usedIds.has(p.id)
                   ? 'ya en tu equipo'
-                  : locked
-                    ? 'sin cambios'
-                    : undefined
+                  : undefined
             }
           />
         ))}

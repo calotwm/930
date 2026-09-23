@@ -15,7 +15,10 @@ Que alguien abra 930 en el celular y en segundos esté armando un XI para llegar
 - Backend, cuentas, rankings, desafío diario.
 - Fotos de jugadores.
 
-## Definición de `goals`
+## Definición de `goals` (actualizada 22/09/2026)
+Goles oficiales jugando para clubes argentinos: liga + copas nacionales + copas internacionales de clubes. Sin Selección ni clubes extranjeros. Por disponibilidad de fuentes permitidas, cada jugador indica su alcance (`scope`): "Liga y copas, carrera" (RSSSF), "Liga y copas en <club>" (tablas de club), "Liga desde 1990/91" o "Ascenso desde 2008/09" (Transfermarkt, sin copas: no se descargan más datos de Transfermarkt porque sus términos prohíben el scraping).
+
+### Definición original (v1)
 `goals` = goles en **liga argentina** (sin copas nacionales, sin copas internacionales, sin selección, sin clubes extranjeros, sin amistosos) en la división indicada en `division`, según la fuente primaria registrada en `source`.
 
 Regla de prioridad (consistente, no arbitraria):
@@ -37,8 +40,8 @@ Regla de prioridad (consistente, no arbitraria):
 - FR10 Más de 930: estado "Te pasaste por N".
 - FR11 Compartir: Web Share API (imagen si se puede, si no texto); fallback copiar texto.
 - FR12 Reiniciar equipo.
-- FR13 Cambios limitados (propuesta Game Designer, 22/09/2026): quitar o reemplazar a un jugador ya colocado usa 1 de 5 cambios. Llenar un puesto vacío no cuesta nada.
-- FR14 Derrota: sin cambios y sin forma de llegar a 930 (te pasaste o ya es imposible) muestra "SIN CAMBIOS" con "Jugar de nuevo".
+- FR13 (retirado 22/09/2026 a pedido del usuario) Cambios limitados. Se puede quitar/reemplazar sin límite.
+- FR14 Pantallas de aviso: "¡TE PASASTE DE ROSCA!" al pasarse de 930 y "¡NO TE DIO LA NAFTA!" con el XI completo por debajo, ambas con "Corregir mi equipo" y "Reiniciar".
 - FR15 Identidad con colores de la bandera argentina (propuesta UI Designer): azul noche de base, celeste y blanco en franjas y acentos, dorado Sol de Mayo en victoria, cancha verde.
 - FR16 Dataset ampliado a todos los jugadores con goles registrados por Transfermarkt en Primera (2012/13–2026) y ascenso (2008/09–2026), más los arqueros.
 

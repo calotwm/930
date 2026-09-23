@@ -116,35 +116,27 @@ export function VictoryScreen({
   )
 }
 
-/**
- * Shown whenever the total goes over 930, and when 930 is out of reach with no changes left.
- * With changes left it is a warning with a way back; with none it is the defeat screen.
- */
+/** Shown when the total goes over 930, or when the XI is complete but short of it. */
 export function LostScreen({
   total,
   overBy,
-  changesLeft,
   onRestart,
   onClose,
 }: {
   total: number
   overBy: number
-  changesLeft: number
   onRestart: () => void
   onClose: () => void
 }) {
   const over = overBy > 0
-  const canFix = changesLeft > 0
   return (
-    <EndShell label={canFix ? 'Te pasaste' : 'Perdiste'} tone="lose">
+    <EndShell label={over ? 'Te pasaste' : 'No llegaste'} tone="lose">
       {over ? (
         <BallOverBar className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.35)]" />
       ) : (
         <EmptyTank className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.3)]" />
       )}
-      <p className="mt-2 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">
-        {canFix ? 'Uy, casi' : 'Perdiste'}
-      </p>
+      <p className="mt-2 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Uy, casi</p>
       <h2 className="font-display mt-1 text-[2.6rem] leading-none tracking-wide">
         {over ? '¡TE PASASTE DE ROSCA!' : '¡NO TE DIO LA NAFTA!'}
       </h2>
@@ -153,29 +145,21 @@ export function LostScreen({
       </p>
       <p className="mt-3 max-w-xs text-sm text-chalk-dim">
         {over
-          ? canFix
-            ? `La mandaste a la tribuna: ${overBy} goles de más. Todavía podés sacar a alguien.`
-            : `La mandaste a la tribuna: ${overBy} goles de más y sin cambios para corregir.`
-          : 'Te quedaste sin cambios y con este equipo ya no llegás a 930.'}
+          ? `La mandaste a la tribuna: ${overBy} goles de más. Sacá o cambiá a alguien.`
+          : `Completaste el XI y te faltan ${TARGET - total} goles. Cambiá a alguien.`}
       </p>
       <div className="mt-7 flex w-full flex-col gap-3">
-        {canFix && (
-          <button
-            type="button"
-            onClick={onClose}
-            className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
-          >
-            Hacer un cambio ({changesLeft} {changesLeft === 1 ? 'queda' : 'quedan'})
-          </button>
-        )}
+        <button
+          type="button"
+          onClick={onClose}
+          className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
+        >
+          Corregir mi equipo
+        </button>
         <button
           type="button"
           onClick={onRestart}
-          className={`flex items-center justify-center gap-2 rounded-2xl py-4 font-extrabold tracking-wide uppercase transition active:scale-[0.98] ${
-            canFix
-              ? 'border border-white/15 text-chalk'
-              : 'bg-sol text-night shadow-[0_10px_30px_-10px_rgb(246_180_14/0.7)]'
-          }`}
+          className="flex items-center justify-center gap-2 rounded-2xl border border-white/15 py-4 font-extrabold tracking-wide text-chalk uppercase transition active:scale-[0.98]"
         >
           <svg viewBox="0 0 20 20" className="h-5 w-5" aria-hidden="true">
             <path d="M15.5 7A6 6 0 1 0 16 12" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
@@ -184,11 +168,6 @@ export function LostScreen({
           Reiniciar
         </button>
         <CafecitoButton variant="block" />
-        {!canFix && (
-          <button type="button" onClick={onClose} className="py-2 text-sm font-semibold text-chalk-dim">
-            Ver mi equipo
-          </button>
-        )}
       </div>
     </EndShell>
   )

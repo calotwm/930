@@ -14,8 +14,8 @@ describe('dataset', () => {
   it('ids únicos y sin jugadores duplicados por nombre+club', () => {
     const ids = new Set(PLAYERS.map((p) => p.id))
     expect(ids.size).toBe(PLAYERS.length)
-    // each person has one source record: a Transfermarkt player page, or one RSSSF row per name
-    const keys = new Set(PLAYERS.map((p) => (p.source.url.includes('rsssf') ? `rsssf|${p.name}` : p.source.url)))
+    // each person has one source record (a player page, or one row per name in a shared table)
+    const keys = new Set(PLAYERS.map((p) => `${p.source.url}|${p.name}`))
     expect(keys.size).toBe(PLAYERS.length)
   })
 

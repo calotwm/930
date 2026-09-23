@@ -7,7 +7,6 @@ export function GameStatus({
   overBy,
   status,
   possible,
-  changesLeft,
 }: {
   filled: number
   slots: number
@@ -15,7 +14,6 @@ export function GameStatus({
   overBy: number
   status: ScoreStatus
   possible: boolean
-  changesLeft: number
 }) {
   let message: string
   let tone = 'text-chalk'
@@ -35,19 +33,9 @@ export function GameStatus({
   return (
     <div className="flex items-center justify-between gap-3 text-sm">
       <p className={`font-semibold ${tone}`}>{message}</p>
-      <div className="flex shrink-0 items-center gap-2 text-xs font-semibold">
-        <span className="tabular rounded-full bg-white/8 px-2.5 py-1 text-chalk-dim">
-          {filled}/{slots}
-        </span>
-        <span
-          className={`tabular rounded-full px-2.5 py-1 ${
-            changesLeft === 0 ? 'bg-bust/15 text-bust' : 'bg-celeste/15 text-celeste-soft'
-          }`}
-          title="Quitar o reemplazar un jugador usa un cambio"
-        >
-          {changesLeft} {changesLeft === 1 ? 'cambio' : 'cambios'}
-        </span>
-      </div>
+      <span className="tabular shrink-0 rounded-full bg-white/8 px-2.5 py-1 text-xs font-semibold text-chalk-dim">
+        {filled}/{slots}
+      </span>
     </div>
   )
 }

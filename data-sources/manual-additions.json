@@ -3,18 +3,22 @@
     "name": "Daniel Passarella",
     "shortName": "Passarella",
     "position": "CB",
-    "goals": 99,
+    "goals": 103,
     "club": "River Plate",
-    "clubs": ["River Plate"],
+    "clubs": [
+      "River Plate"
+    ],
     "division": "Primera",
-    "scope": "Primera, carrera",
+    "scope": "Liga y copas en River Plate",
     "era": "1970s–1980s",
     "source": {
       "name": "Estadísticas de River Plate — Todos los goles de Daniel Passarella en River",
       "url": "https://estadisticasderiverplate.blogspot.com/2015/02/todos-los-goles-de-daniel-passarella-en.html"
     },
-    "quote": "Fueron 99 en Torneos Locales de AFA y 4 en Copas Internacionales.",
+    "quote": "Daniel Alberto Passarella convirtió 103 goles oficiales con la camiseta de River Plate. Fueron 99 en Torneos Locales de AFA y 4 en Copas Internacionales.",
     "checkedOn": "2026-09-22",
-    "review": ["secondary-source-club-statistics"]
+    "review": [
+      "secondary-source-club-statistics"
+    ]
   }
 ]

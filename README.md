@@ -20,7 +20,11 @@ npm run build
 - RSSSF — Argentina All-Time Topscorers in League (fuente principal, Primera, carrera).
 - Transfermarkt — listas de goleadores por temporada de Primera (Apertura, Clausura y Liga Profesional, desde 1990/91) y Primera Nacional (desde 2008/09), sumadas por jugador y controladas contra la lista histórica. Club, posición y época salen de esas mismas listas.
 
-`goals` = goles de liga argentina en la división indicada, según la fuente registrada en cada jugador. Sin copas, selección, clubes extranjeros ni amistosos. El detalle, las discrepancias y los datos a revisar están en `data-sources/REPORT.md`.
+`goals` = goles oficiales con clubes argentinos (liga + copas nacionales + internacionales) cuando la fuente los da; si no, solo liga. Cada jugador trae su alcance (`scope`) y su fuente. Detalle, discrepancias y datos a revisar en `data-sources/REPORT.md`.
+
+Fuentes adicionales: tablas de goleadores por club (Wikipedia: Independiente, Lanús/Museo Granate; Historia de Boca) y altas manuales con cita (`data-sources/manual-additions.json`).
+
+Nota: los términos de uso de Transfermarkt prohíben el acceso automatizado. No se descargan más datos de ahí.
 
 ## Estructura
 

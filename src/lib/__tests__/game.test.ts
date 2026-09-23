@@ -1,18 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { DEFAULT_FORMATION as F } from '../formations'
-import {
-  MAX_CHANGES,
-  assignPlayer,
-  changesLeft,
-  costsChange,
-  emptyLineup,
-  filledCount,
-  isComplete,
-  isWin,
-  outcome,
-  removePlayer,
-  validateLineup,
-} from '../gameRules'
+import { assignPlayer, emptyLineup, filledCount, isComplete, isWin, removePlayer, validateLineup } from '../gameRules'
 import { canPlay } from '../positions'
 import { TARGET, overBy, remainingGoals, scoreStatus, totalGoals } from '../scoring'
 import { findCompletion, findCompletionBounded } from '../solver'
@@ -180,26 +168,6 @@ describe('duplicados', () => {
     const { lineup, players } = winningLineup()
     const bad = { ...lineup, 'del-r': players['del-l'] }
     expect(validateLineup(F, bad).some((e) => e.includes('repetido'))).toBe(true)
-  })
-})
-
-describe('cambios y derrota', () => {
-  it('sólo quitar/reemplazar un jugador colocado cuesta un cambio', () => {
-    const l = place(emptyLineup(F), 'del-c', mk('ST', 10))
-    expect(costsChange(l, 'del-c')).toBe(true)
-    expect(costsChange(l, 'del-l')).toBe(false)
-  })
-
-  it('cuenta cambios restantes sin bajar de cero', () => {
-    expect(changesLeft(0)).toBe(MAX_CHANGES)
-    expect(changesLeft(MAX_CHANGES + 2)).toBe(0)
-  })
-
-  it('pierde sólo sin cambios y sin forma de llegar', () => {
-    expect(outcome(true, true, MAX_CHANGES)).toBe('won')
-    expect(outcome(false, false, MAX_CHANGES)).toBe('lost')
-    expect(outcome(false, false, MAX_CHANGES - 1)).toBe('playing')
-    expect(outcome(false, true, MAX_CHANGES)).toBe('playing')
   })
 })
 

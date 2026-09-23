@@ -75,7 +75,6 @@ export function Home() {
             overBy={game.overBy}
             status={game.status}
             possible={game.possible}
-            changesLeft={game.changesLeft}
           />
         </section>
 
@@ -106,7 +105,6 @@ export function Home() {
               role={slot.role}
               current={game.lineup[slot.id] ?? null}
               usedIds={usedPlayerIds(game.lineup)}
-              changesLeft={game.changesLeft}
               onPick={pick}
               onRemove={() => {
                 game.remove(slot.id)
@@ -127,11 +125,10 @@ export function Home() {
           />
         )}
 
-        {(game.status === 'over' || game.outcome === 'lost') && dismissedMove !== moveKey && (
+        {(game.status === 'over' || game.fellShort) && dismissedMove !== moveKey && (
           <LostScreen
             total={game.total}
             overBy={game.overBy}
-            changesLeft={game.changesLeft}
             onRestart={restart}
             onClose={() => setDismissedMove(moveKey)}
           />

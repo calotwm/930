@@ -2,6 +2,7 @@
 // Every number comes from a downloaded source file; nothing is typed by hand.
 import fs from 'node:fs'
 import path from 'node:path'
+import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -98,7 +99,8 @@ function parseRsssf() {
     if (/^\s*-{10,}/.test(l)) continue
     const m = l.match(head)
     if (m) {
-      cur = { rawName: m[2].trim(), years: m[3].trim(), goals: +m[4], active: m[5] === '*', clubs: [] }
+      const nums = [...m[7].replace(/\([^)]*\)/g, ' ').matchAll(/\d+/g)].map((x) => Number(x[0]))
+      cur = { rawName: m[2].trim(), years: m[3].trim(), goals: +m[4], total: nums.at(-1), active: m[5] === '*', clubs: [] }
       players.push(cur)
       pushClub(m[7])
       continue
@@ -177,22 +179,25 @@ function main() {
     const review = ['position-unverified']
     if (clubGoalSum !== r.goals) review.push(`club-breakdown-sum-${clubGoalSum}`)
     if (r.active) review.push('active-in-source-update-2023')
+    const total = r.total >= r.goals ? r.total : r.goals
+    if (!(r.total >= r.goals)) review.push('rsssf-total-missing')
     const p = {
       id: slug(name),
       name,
       fullName: `${given} ${surname}`,
       shortName: surname,
       position: 'ST',
-      goals: r.goals,
+      goals: total,
+      leagueGoals: r.goals,
       club: mainClub,
       clubs,
       division: 'Primera',
-      scope: 'Primera, carrera',
+      scope: 'Liga y copas, carrera',
       era: eraFromYears(Math.min(...years), Math.max(...years)),
       source: {
         name: 'RSSSF — Argentina All-Time Topscorers in League',
         url: RSSSF_URL,
-        note: `Goles de liga en Primera División según RSSSF (actualizado ${RSSSF_UPDATED}). Años: ${r.years}.`,
+        note: `Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado ${RSSSF_UPDATED}); liga: ${r.goals}. Años: ${r.years}.`,
       },
       review,
     }
@@ -210,6 +215,26 @@ function main() {
   const truncatedLists = [...readJson('transfermarkt-season-truncated.json'), ...readJson('transfermarkt-season-truncated-ap.json')]
   const allTimeGoals = new Map(allTime.filter((r) => r.comp === 'AR1N').map((r) => [r.tmId, r.goals]))
   const DIVISION_OF = { AR1N: 'P1', ARG1: 'P1', ARGC: 'P1', ARG2: 'ARG2' }
+  // Cups: domestic cups count always; CONMEBOL/FIFA club cups only when the club is Argentine
+  const cupRows = fs.existsSync(path.join(RAW, 'transfermarkt-cup-rows.json')) ? readJson('transfermarkt-cup-rows.json') : []
+  const argClubNames = new Set(seasonRows.filter((r) => r.club && !/\d+ Clubs/.test(r.club)).map((r) => decode(r.club)))
+  for (const r of cupRows) if (r.kind === 'dom') for (const c of r.clubs) argClubNames.add(decode(c.name))
+  const cupGoals = new Map()
+  let cupAmbiguous = 0
+  let cupForeign = 0
+  for (const r of cupRows) {
+    if (!r.goals) continue
+    const names = r.clubs.map((c) => decode(c.name))
+    const argentine = r.kind === 'dom' || (names.length > 0 && names.every((n) => argClubNames.has(n)))
+    if (!argentine) {
+      if (names.some((n) => argClubNames.has(n))) cupAmbiguous++
+      else cupForeign++
+      continue
+    }
+    const e = cupGoals.get(r.tmId) ?? { dom: 0, int: 0 }
+    e[r.kind] += r.goals
+    cupGoals.set(r.tmId, e)
+  }
   const byId = new Map()
   for (const r of seasonRows) {
     const div = DIVISION_OF[r.comp]
@@ -243,13 +268,15 @@ function main() {
     // Primera if he scored there (or is a goalkeeper who played there); otherwise ascenso
     const scored = (d) => e.recs[d] && (e.recs[d].goals > 0 || position === 'GK')
     const comp = scored('P1') ? 'P1' : scored('ARG2') ? 'ARG2' : null
+    const cups = cupGoals.get(e.tmId) ?? { dom: 0, int: 0 }
     if (!comp) {
       tmNoGoals++
       continue
     }
     const rec = e.recs[comp]
     const review = []
-    let goals = rec.goals
+    const leagueGoals = (e.recs.P1?.goals ?? 0) + (e.recs.ARG2?.goals ?? 0)
+    let goals = leagueGoals + cups.dom + cups.int
     const listed = comp === 'P1' ? allTimeGoals.get(e.tmId) : undefined
     if (listed !== undefined) {
       crossChecked++
@@ -279,11 +306,11 @@ function main() {
     )
     if (hit) {
       // keep the record with more Primera goals when two Transfermarkt entries match (homonyms)
-      if (e.recs.P1 && (hit.p.discrepancies?.[0]?.goals ?? -1) < e.recs.P1.goals) {
+      if (e.recs.P1 && (hit.p.discrepancies?.[0]?.goals ?? -1) < goals) {
         hit.p.discrepancies = [
           {
-            source: 'Transfermarkt (Primera desde 1990/91)',
-            goals: e.recs.P1.goals,
+            source: 'Transfermarkt (liga y copas desde 1990/91)',
+            goals,
             note: 'Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad.',
           },
         ]
@@ -314,20 +341,26 @@ function main() {
       shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
       position,
       goals,
+      leagueGoals,
+      cupGoals: cups.dom,
+      intlGoals: cups.int,
       club,
       clubs,
       division: comp === 'P1' ? 'Primera' : 'Primera Nacional',
-      scope: comp === 'P1' ? 'Primera desde 1990/91' : 'Ascenso desde 2008/09',
+      scope: cupRows.length
+        ? comp === 'P1'
+          ? 'Liga y copas desde 1990/91'
+          : 'Ascenso y copas desde 2008/09'
+        : comp === 'P1'
+          ? 'Liga desde 1990/91'
+          : 'Ascenso desde 2008/09',
       era: eraFromYears(minY, maxY),
       source: {
         name:
           comp === 'P1'
-            ? 'Transfermarkt — Primera División (Apertura, Clausura y Liga Profesional)'
-            : 'Transfermarkt — Primera Nacional (ARG2)',
-        url:
-          comp === 'P1'
-            ? `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}`
-            : `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}/wettbewerb/ARG2`,
+            ? 'Transfermarkt — liga argentina (Primera y ascenso)'
+            : 'Transfermarkt — Primera Nacional',
+        url: `https://www.transfermarkt.com/${e.slug}/leistungsdaten/spieler/${e.tmId}`,
       },
       tmId: e.tmId,
       review,
@@ -340,11 +373,67 @@ function main() {
     } fusionados con RSSSF, ${tmNoGoals} sin goles (no arqueros) descartados, ${tmMissingPos} descartados por posición desconocida.`,
   )
   report.push(
+    `Copas (Transfermarkt): ${cupRows.length} filas; ${cupGoals.size} jugadores con goles en copas con clubes argentinos. Descartadas: ${cupForeign} filas de clubes extranjeros y ${cupAmbiguous} ambiguas (club argentino y extranjero en la misma temporada).`,
+  )
+  report.push(
     `Control cruzado: ${crossChecked} jugadores figuran también en la lista histórica de la Liga Profesional (AR1N) de Transfermarkt; la suma por temporada coincide en ${
       crossChecked - sumMismatch.length
     }. Si difiere, se usa el total histórico y se marca \`season-sum-N\`.`,
   )
   report.push(`Listas por temporada truncadas (150 filas con goles): ${truncatedLists.length ? truncatedLists.join(', ') : 'ninguna'}.`)
+
+  // club all-time scorer tables (league + domestic cups + international cups for that club).
+  // Only players missing from the main sources are added; their number covers that club only.
+  const clubDir = path.join(RAW, 'club-lists')
+  const { rows: clubRows, rejected: clubRejected } = parseClubLists(clubDir)
+  const wikiPos = JSON.parse(fs.readFileSync(path.join(clubDir, 'wikipedia-positions.json'), 'utf8'))
+  const known = players.map((p) => norm(p.name).split(' '))
+  const isKnown = (name) => {
+    const t = norm(name).split(' ')
+    const sur = t.at(-1)
+    return known.some((k) => k.at(-1) === sur && k.some((w) => w !== sur && t.includes(w)))
+  }
+  const clubAdds = new Map()
+  for (const r of clubRows) {
+    if (isKnown(r.name)) continue
+    const wp = wikiPos[`${r.club}|${r.name}`]
+    const display = (wp?.title ?? r.name).replace(/\s*\(futbolista[^)]*\)/, '')
+    const key = norm(display)
+    const prev = clubAdds.get(key)
+    if (prev) {
+      prev.goals += r.total
+      prev.clubs.push(r.club)
+      continue
+    }
+    const position = positionFromWiki(wp?.raw)
+    const src = CLUB_SOURCES[r.club]
+    const parts = display.split(' ')
+    clubAdds.set(key, {
+      id: slug(display),
+      name: display,
+      shortName: parts.length > 1 ? parts.slice(1).join(' ') : display,
+      position: position ?? 'ST',
+      goals: r.total,
+      club: r.club,
+      clubs: [r.club],
+      division: 'Primera',
+      scope: `Liga y copas en ${r.club}`,
+      era: '—',
+      source: { name: src.name, url: r.ref ?? src.url },
+      secondarySource: wp?.title
+        ? { name: 'Wikipedia — posición', url: `https://es.wikipedia.org/wiki/${encodeURIComponent(wp.title.replace(/ /g, '_'))}` }
+        : undefined,
+      review: ['club-total-only', ...(position ? [] : ['position-unverified'])],
+    })
+  }
+  for (const p of clubAdds.values()) {
+    if (p.clubs.length > 1) p.scope = `Liga y copas en ${p.clubs.join(' y ')}`
+    players.push(p)
+  }
+  report.push(
+    `Tablas de goleadores por club (Independiente, Lanús, Boca): ${clubRows.length} filas válidas, ${clubAdds.size} jugadores agregados (faltaban en las fuentes principales), ${clubRejected.length} filas descartadas por totales inconsistentes.`,
+  )
+  for (const r of clubRejected) skipped.push(`${r.club} — ${r.name}: ${r.why} (${r.league}+${r.cups}+${r.intl} vs ${r.total})`)
 
   // players the scraped sources don't cover (mostly pre-1990 with <100 goals), each with a quoted source
   const manual = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'manual-additions.json'), 'utf8'))

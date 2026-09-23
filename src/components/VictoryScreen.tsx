@@ -1,9 +1,9 @@
-import { useMemo, type ReactNode } from 'react'
+import { useMemo, useState, type ReactNode } from 'react'
 import { TARGET } from '../lib/scoring'
 import type { Formation, Lineup } from '../lib/types'
 import { CafecitoButton } from './Cafecito'
 import { FootballPitch } from './FootballPitch'
-import { BallOverBar, EmptyTank, Trophy } from './Illustrations'
+import { Trophy } from './Illustrations'
 
 const COLORS = ['#75aadb', '#ffffff', '#f6b40e']
 
@@ -37,6 +37,22 @@ function Confetti() {
         />
       ))}
     </div>
+  )
+}
+
+const DEFEAT_PHOTOS = [1, 2, 3, 4, 5].map((n) => `/resultados/derrota-${n}.jpg`)
+
+/** One photo picked at random when the screen opens. */
+function ResultPhoto({ photos, alt, tone }: { photos: string[]; alt: string; tone: 'win' | 'lose' }) {
+  const [src] = useState(() => photos[Math.floor(Math.random() * photos.length)])
+  return (
+    <img
+      src={src}
+      alt={alt}
+      className={`drop-in max-h-[40dvh] w-auto max-w-full rounded-3xl border object-contain shadow-[0_12px_30px_rgb(0_0_0/0.45)] ${
+        tone === 'win' ? 'border-sol/40' : 'border-bust/40'
+      }`}
+    />
   )
 }
 
@@ -134,12 +150,8 @@ export function LostScreen({
   const over = overBy > 0
   return (
     <EndShell label={over ? 'Te pasaste' : 'No llegaste'} tone="lose">
-      {over ? (
-        <BallOverBar className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.35)]" />
-      ) : (
-        <EmptyTank className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.3)]" />
-      )}
-      <p className="mt-2 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Uy, casi</p>
+      <ResultPhoto photos={DEFEAT_PHOTOS} alt="Messi derrota" tone="lose" />
+      <p className="mt-4 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Uy, casi</p>
       <h2 className="font-display mt-1 text-[2.6rem] leading-none tracking-wide">
         {over ? '¡TE PASASTE DE ROSCA!' : '¡NO TE DIO LA NAFTA!'}
       </h2>

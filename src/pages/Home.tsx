@@ -79,6 +79,13 @@ export function Home() {
           />
         </section>
 
+        {game.filled === 0 && (
+          <p className="-mt-1 text-center text-[13px] leading-snug text-chalk-dim">
+            <b className="text-chalk">{TARGET}</b> son los goles oficiales de <b className="text-celeste-soft">Messi</b> (al
+            20/09/2026). ¿Los igualás con un XI histórico argentino? Tocá un puesto: los goles se revelan en la cancha.
+          </p>
+        )}
+
         {/* on bigger screens the pitch grows but stays within the viewport height (pitch ratio 68:100) */}
         <main className="mx-auto w-full md:max-w-[min(32rem,calc((100dvh-17rem)*0.68))] md:min-w-80">
           <FootballPitch
@@ -87,12 +94,6 @@ export function Home() {
             activeSlot={activeSlot}
             onSelectSlot={setActiveSlot}
           />
-          {game.filled === 0 && (
-            <p className="mt-3 text-center text-xs text-chalk-dim">
-              Tocá un puesto y elegí un jugador histórico. Sus goles se revelan en la cancha. La suma tiene que dar{' '}
-              <b className="text-chalk">{TARGET}</b> exacto.
-            </p>
-          )}
         </main>
 
         <Credits />

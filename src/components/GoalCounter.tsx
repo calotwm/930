@@ -56,7 +56,12 @@ export function GoalCounter({
       >
         {shown}
       </span>
-      <span className="font-display pb-1.5 text-2xl leading-none text-chalk-dim">/ {TARGET}</span>
+      <span className="flex flex-col pb-1.5">
+        <span className="text-[9px] leading-tight font-extrabold tracking-[0.18em] text-celeste-soft uppercase">
+          goles de Messi
+        </span>
+        <span className="font-display text-2xl leading-none text-chalk-dim">/ {TARGET}</span>
+      </span>
       {delta && delta.value !== 0 && (
         <span
           key={delta.key}

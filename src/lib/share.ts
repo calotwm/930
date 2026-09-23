@@ -11,7 +11,9 @@ export function orderedPlayers(formation: Formation, lineup: Lineup): Player[] {
 
 export function shareText(players: Player[], total: number, url: string): string {
   const lines = players.map((p) => `${p.shortName} — ${p.goals}`)
-  return [`930 ⚽ DESAFÍO HISTÓRICO`, `${total} / ${TARGET}`, '', ...lines, '', `Probalo: ${url}`].join('\n')
+  const head =
+    total === TARGET ? `Igualé los ${TARGET} goles de Messi con un XI histórico argentino` : `${total} / ${TARGET}`
+  return [`930 ⚽ DESAFÍO HISTÓRICO`, head, '', ...lines, '', `Probalo: ${url}`].join('\n')
 }
 
 export async function renderShareImage(players: Player[], total: number): Promise<Blob | null> {
@@ -50,7 +52,7 @@ export async function renderShareImage(players: Player[], total: number): Promis
   ctx.fill()
   ctx.font = `bold 34px Inter, sans-serif`
   ctx.fillStyle = '#a9bcd3'
-  ctx.fillText('DESAFÍO HISTÓRICO', 84, 270)
+  ctx.fillText('LOS GOLES DE MESSI', 84, 270)
 
   ctx.font = `110px ${display}`
   ctx.fillStyle = total === TARGET ? '#f6b40e' : '#f7f4ec'

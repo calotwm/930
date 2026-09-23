@@ -87,6 +87,7 @@ export function VictoryScreen({
         {total} <span className="text-3xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>
       <h2 className="font-display mt-3 text-[2.9rem] leading-[1.08] tracking-wide">¡DALE CAMPEÓÓÓN!</h2>
+      <p className="mt-2 text-sm font-semibold text-chalk">Igualaste los {TARGET} goles de Messi</p>
       <p className="mt-1 text-xs font-bold tracking-[0.25em] text-celeste-soft uppercase">Tu XI histórico</p>
       <div className="mt-5 w-[72%] max-w-72">
         <FootballPitch formation={formation} lineup={lineup} compact highlight />

@@ -30,7 +30,9 @@ async function raw(title) {
 
 const players = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'players.full.json'), 'utf8'))
 const out = fs.existsSync(OUT) && !process.argv.includes('--refresh') ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : {}
-const todo = [...new Set(players.map((p) => p.name))].filter((n) => !(n in out))
+// players whose total may still miss cups go first
+const maybeShort = (p) => /desde|Liga \(Primera\)|parcial/.test(p.scope)
+const todo = [...new Set([...players.filter(maybeShort), ...players].map((p) => p.name))].filter((n) => !(n in out))
 console.log(`${todo.length} por bajar`)
 let done = 0
 async function worker() {
@@ -38,7 +40,7 @@ async function worker() {
     const name = todo.shift()
     const page = await raw(name)
     // only footballer pages count; a disambiguation or unrelated page is stored as null
-    const ok = page && /\{\{\s*Ficha de futbolista/i.test(page.text)
+    const ok = page && /\{\{\s*Ficha de (futbolista|deportista)/i.test(page.text)
     const table = ok ? extractStatsTable(page.text) : null
     out[name] = table ? { title: page.title, table } : null
     if (++done % 200 === 0) {

@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **4911** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **4920** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -16,9 +16,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Tablas de Wikipedia (8: Primera, Primera, River Plate, San Lorenzo, Huracán, Tigre, Racing Club, Talleres): 349 filas válidas, 80 jugadores agregados, 4 filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: 1 (Andrés Silvera: 44 (un club) → 107 (Primera, carrera)). Diferencias de 5+ goles con la tabla de Primera: 10 (ver abajo).
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 1.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
-- Fichas de jugadores (Wikipedia): 439 con tabla de estadísticas; 372 totales subidos a los goles con clubes argentinos de la ficha, 1 descartadas porque los clubes no coinciden, 9 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo).
-- Primera: 3280 · Primera Nacional: 1631
-- Por posición: GK 86 · CB 799 · LB 271 · RB 267 · DM 335 · CM 463 · AM 513 · LW 360 · RW 431 · ST 1386
+- Fichas de jugadores (Wikipedia): 450 con tabla de estadísticas; 383 totales subidos a los goles con clubes argentinos de la ficha, 13 sin usar porque ninguna ficha (o más de una) coincide por club, 9 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Primera: 3289 · Primera Nacional: 1631
+- Por posición: GK 86 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 1390
 - Marcados para revisión: 1921
 
 ## Discrepancias entre fuentes (se usa RSSSF)

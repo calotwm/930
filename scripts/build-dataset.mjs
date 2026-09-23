@@ -6,6 +6,7 @@ import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs
 import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
 import { parseStatsTable } from './player-stats.mjs'
+import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -631,6 +632,77 @@ function main() {
   for (const t of ed.empty) skipped.push(`${t}: sin tabla de goleadores legible`)
   for (const n of cupLog.unmatched) skipped.push(`Copas/ascenso sin sumar — ${n}`)
 
+  // Solo Ascenso scorer pages (Internet Archive copies) for B Metro, C, D and Federal A, which no other
+  // source covers. A season ends where the leader's goals drop between consecutive copies; its last copy
+  // is used. The pages list only the top scorers, so sums are lower bounds.
+  const saDir = path.join(RAW, 'soloascenso')
+  const saSeasons = []
+  for (const [div, meta] of Object.entries(SA_DIVISIONS)) {
+    const f = path.join(saDir, `${div}.json`)
+    if (!fs.existsSync(f)) continue
+    const snaps = JSON.parse(fs.readFileSync(f, 'utf8'))
+    snaps.forEach((s, i) => {
+      const next = snaps[i + 1]
+      if (!next || next.rows[0][2] < s.rows[0][2]) saSeasons.push({ div, label: meta.label, ...s })
+    })
+  }
+  const saPlayers = new Map()
+  for (const s of saSeasons) {
+    for (const [name, team, goals] of s.rows) {
+      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, teams: [], seasons: [] }
+      e.goals += goals
+      e.teams.push(team)
+      e.seasons.push(`${s.label} (copia ${s.timestamp.slice(0, 8)}): ${goals}`)
+      saPlayers.set(norm(name), e)
+    }
+  }
+  const saLog = { added: 0, raised: 0, unmatched: 0 }
+  const SA_ADDABLE = new Set([...TM_SCOPES, 'Liga (Primera), carrera'])
+  for (const e of saPlayers.values()) {
+    const p = byName.get(norm(e.name))
+    if (p) {
+      // only totals that cannot already include these divisions
+      if (!SA_ADDABLE.has(p.scope.split(' + ')[0]) || !sameClub(e.teams, p.clubs ?? [])) {
+        saLog.unmatched++
+        continue
+      }
+      p.goals += e.goals
+      p.leagueGoals = (p.leagueGoals ?? 0) + e.goals
+      p.scope = `${p.scope} + ascenso metropolitano/federal`
+      p.saSources = e.seasons
+      ;(p.review ??= []).push('soloascenso-partial')
+      saLog.raised++
+      continue
+    }
+    if (isKnown(e.name) || nameCount.get(norm(e.name)) > 0) {
+      saLog.unmatched++
+      continue
+    }
+    const parts = e.name.split(' ')
+    const p2 = {
+      id: slug(e.name),
+      name: e.name,
+      shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
+      position: 'ST',
+      goals: e.goals,
+      leagueGoals: e.goals,
+      club: mostCommon(e.teams),
+      clubs: [...new Set(e.teams)],
+      division: 'Ascenso',
+      scope: 'Ascenso metropolitano/federal (goleadores por torneo, parcial)',
+      era: '—',
+      source: { name: 'Solo Ascenso — goleadores (copias de Internet Archive)', url: saUrl(e.div) },
+      saSources: e.seasons,
+      review: ['soloascenso-partial', 'position-unverified'],
+    }
+    players.push(p2)
+    byName.set(norm(p2.name), p2)
+    saLog.added++
+  }
+  report.push(
+    `Solo Ascenso (B Metro, C, D y Federal A, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.raised} totales sumados, ${saLog.added} jugadores de ascenso agregados, ${saLog.unmatched} sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).`,
+  )
+
   // Player pages: career table per club and competition. Goals with Argentine clubs replace the
   // current number when larger (the other sources undercount cups); big drops are only reported.
   const statsFile = path.join(wikiDir, 'player-stats.json')
@@ -723,7 +795,7 @@ function main() {
 
   // full audit copy (review flags, discrepancies) next to the report; the app ships a slim copy
   fs.writeFileSync(FULL, JSON.stringify(players, null, 1) + '\n')
-  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, editions: _e, cupSources: _c, ...p }) => ({
+  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, editions: _e, cupSources: _c, saSources: _sa, ...p }) => ({
     ...p,
     source: { name: p.source.name, url: p.source.url },
   }))
@@ -766,6 +838,7 @@ function main() {
     '- `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).',
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
     '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
+    '- `soloascenso-partial`: goles de B Metro, C, D o Federal A tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
     '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players

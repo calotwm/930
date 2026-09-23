@@ -5,6 +5,7 @@ import path from 'node:path'
 import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs'
 import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
+import { parseStatsTable } from './player-stats.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -630,6 +631,41 @@ function main() {
   for (const t of ed.empty) skipped.push(`${t}: sin tabla de goleadores legible`)
   for (const n of cupLog.unmatched) skipped.push(`Copas/ascenso sin sumar — ${n}`)
 
+  // Player pages: career table per club and competition. Goals with Argentine clubs replace the
+  // current number when larger (the other sources undercount cups); big drops are only reported.
+  const statsFile = path.join(wikiDir, 'player-stats.json')
+  const pageStats = fs.existsSync(statsFile) ? JSON.parse(fs.readFileSync(statsFile, 'utf8')) : {}
+  const nameCount2 = new Map()
+  for (const p of players) nameCount2.set(norm(p.name), (nameCount2.get(norm(p.name)) ?? 0) + 1)
+  const statsLog = { raised: [], lower: [], skipped: 0 }
+  for (const p of players) {
+    const s = pageStats[p.name]
+    if (!s || nameCount2.get(norm(p.name)) > 1) continue
+    const rows = parseStatsTable(s.table, isArgClub)?.filter((r) => r.arg)
+    if (!rows?.length) continue
+    if (p.clubs?.length && !sameClub(rows.flatMap((r) => [r.club, r.page]), p.clubs)) {
+      statsLog.skipped++
+      continue
+    }
+    const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
+    const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
+    if (goals > p.goals) {
+      statsLog.raised.push(`${p.name}: ${p.goals} → ${goals}`)
+      Object.assign(p, {
+        goals,
+        leagueGoals: sum('league'),
+        cupGoals: sum('cups'),
+        intlGoals: sum('intl'),
+        scope: 'Liga y copas con clubes argentinos',
+        source: { name: 'Wikipedia — ficha del jugador (estadísticas por club)', url: wikiUrl(s.title) },
+        review: (p.review ?? []).filter((x) => !['cups-partial', 'editions-partial', 'club-total-only'].includes(x) && !x.startsWith('seasons-before')),
+      })
+    } else if (goals < p.goals - 5) statsLog.lower.push(`${p.name}: dataset ${p.goals} vs ficha ${goals}`)
+  }
+  report.push(
+    `Fichas de jugadores (Wikipedia): ${Object.values(pageStats).filter(Boolean).length} con tabla de estadísticas; ${statsLog.raised.length} totales subidos a los goles con clubes argentinos de la ficha, ${statsLog.skipped} descartadas porque los clubes no coinciden, ${statsLog.lower.length} con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo).`,
+  )
+
   // unique ids
   const seen = new Map()
   for (const p of players) {
@@ -676,6 +712,9 @@ function main() {
     '',
     '## Primera: dataset vs tablas de Wikipedia (5+ goles de diferencia; se mantiene el dato del dataset)',
     ...(primeraCheck.length ? primeraCheck.map((d) => `- ${d}`) : ['- Ninguna']),
+    '',
+    '## Fichas de Wikipedia por debajo del dataset (6+ goles; se mantiene el dataset)',
+    ...(statsLog.lower.length ? statsLog.lower.map((d) => `- ${d}`) : ['- Ninguna']),
     '',
     '## Suma por temporada vs histórico de Transfermarkt',
     ...(sumMismatch.length ? sumMismatch.map((d) => `- ${d}`) : ['- Todas coinciden']),

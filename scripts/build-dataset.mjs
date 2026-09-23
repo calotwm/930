@@ -794,7 +794,7 @@ function main() {
   const corrected = []
   for (const c of corrections) {
     const p = players.find((x) => norm(x.name) === norm(c.name) && x.position === c.position)
-    const fields = { goals: c.goals, scope: 'Goles oficiales con clubes argentinos (corrección manual)' }
+    const fields = { goals: c.goals, scope: 'Liga y copas con clubes argentinos' }
     if (p) {
       if (p.goals !== c.goals) corrected.push(`${p.name}: ${p.goals} → ${c.goals}`)
       Object.assign(p, fields, { review: [...(p.review ?? []), 'manual-correction'], secondarySource: { name: `Corrección manual: ${c.note}`, url: p.source.url } })

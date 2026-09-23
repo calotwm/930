@@ -49,6 +49,56 @@
   ]
  },
  {
+  "id": "oscar-mas",
+  "name": "Oscar Mas",
+  "fullName": "Oscar Mas",
+  "shortName": "Mas",
+  "position": "ST",
+  "goals": 296,
+  "leagueGoals": 275,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate",
+   "Quilmes",
+   "Sarmiento de Junin",
+   "Mariano Moreno (Junin)",
+   "Huracán Las Heras (Mendoza)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1960s–1980s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Oscar_M%C3%A1s"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 21
+ },
+ {
+  "id": "fernando-monetti",
+  "name": "Fernando Monetti",
+  "shortName": "Monetti",
+  "position": "GK",
+  "goals": 279,
+  "leagueGoals": 223,
+  "cupGoals": 45,
+  "intlGoals": 11,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Fernando_Monetti"
+  }
+ },
+ {
   "id": "hernan-encina",
   "name": "Hernán Encina",
   "shortName": "Encina",
@@ -112,6 +162,32 @@
   }
  },
  {
+  "id": "manuel-pelegrina",
+  "name": "Manuel Pelegrina",
+  "fullName": "Manuel Pelegrina",
+  "shortName": "Pelegrina",
+  "position": "ST",
+  "goals": 268,
+  "leagueGoals": 261,
+  "club": "Estudiantes LP",
+  "clubs": [
+   "Estudiantes LP",
+   "Huracán"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1930s–1950s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Manuel_Pelegrina"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 0
+ },
+ {
   "id": "herminio-masantonio",
   "name": "Herminio Masantonio",
   "fullName": "Herminio Masantonio",
@@ -168,24 +244,25 @@
   "fullName": "Bernabé Ferreyra",
   "shortName": "Ferreyra",
   "position": "ST",
-  "goals": 247,
-  "leagueGoals": 233,
+  "goals": 249,
+  "leagueGoals": 235,
   "club": "River Plate",
   "clubs": [
    "Tigre",
    "River Plate"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1920s–1930s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 233. Años: 1929-1939."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Bernab%C3%A9_Ferreyra"
   },
   "review": [
    "position-unverified"
-  ]
+  ],
+  "cupGoals": 10,
+  "intlGoals": 4
  },
  {
   "id": "roberto-cherro",
@@ -215,6 +292,49 @@
   ]
  },
  {
+  "id": "jose-sand",
+  "name": "José Sand",
+  "fullName": "José Gustavo Sand",
+  "shortName": "Sand",
+  "position": "ST",
+  "goals": 243,
+  "leagueGoals": 190,
+  "club": "Lanús",
+  "clubs": [
+   "Colón SF",
+   "River Plate",
+   "Banfield",
+   "Lanús",
+   "Racing Club",
+   "Tigre",
+   "Argentinos Juniors",
+   "Aldosivi (Mar del Plata)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Sand"
+  },
+  "review": [
+   "active-in-source-update-2023"
+  ],
+  "discrepancies": [
+   {
+    "source": "Transfermarkt (liga y copas desde 1990/91)",
+    "goals": 161,
+    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
+   }
+  ],
+  "secondarySource": {
+   "name": "Transfermarkt — posición",
+   "url": "https://www.transfermarkt.com/gustavo-sandoval/profil/spieler/807333"
+  },
+  "cupGoals": 21,
+  "intlGoals": 29
+ },
+ {
   "id": "jose-sanfilippo",
   "name": "José Sanfilippo",
   "fullName": "José Francisco Sanfilippo",
@@ -241,57 +361,40 @@
   ]
  },
  {
-  "id": "manuel-pelegrina",
-  "name": "Manuel Pelegrina",
-  "fullName": "Manuel Pelegrina",
-  "shortName": "Pelegrina",
+  "id": "esteban-fuertes",
+  "name": "Esteban Fuertes",
+  "fullName": "Esteban Oscar Fuertes",
+  "shortName": "Fuertes",
   "position": "ST",
-  "goals": 237,
-  "leagueGoals": 231,
-  "club": "Estudiantes LP",
+  "goals": 232,
+  "leagueGoals": 220,
+  "club": "Colón",
   "clubs": [
-   "Estudiantes LP",
-   "Huracán"
+   "Platense",
+   "Racing Club",
+   "Colón",
+   "River Plate"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1930s–1950s",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 231. Años: 1938-1956."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Esteban_Fuertes"
   },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
-  "id": "oscar-mas",
-  "name": "Oscar Mas",
-  "fullName": "Oscar Mas",
-  "shortName": "Mas",
-  "position": "ST",
-  "goals": 236,
-  "leagueGoals": 215,
-  "club": "River Plate",
-  "clubs": [
-   "River Plate",
-   "Quilmes",
-   "Sarmiento de Junin",
-   "Mariano Moreno (Junin)",
-   "Huracán Las Heras (Mendoza)"
+  "discrepancies": [
+   {
+    "source": "Transfermarkt (liga y copas desde 1990/91)",
+    "goals": 127,
+    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
+   }
   ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1960s–1980s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 215. Años: 1964-1977/1979/1982/1985."
+  "secondarySource": {
+   "name": "Transfermarkt — posición",
+   "url": "https://www.transfermarkt.com/esteban-fuertes/profil/spieler/5493"
   },
-  "review": [
-   "position-unverified"
-  ]
+  "cupGoals": 0,
+  "intlGoals": 12
  },
  {
   "id": "francisco-varallo",
@@ -299,24 +402,25 @@
   "fullName": "Francisco Antonio Varallo",
   "shortName": "Varallo",
   "position": "ST",
-  "goals": 230,
-  "leagueGoals": 216,
+  "goals": 232,
+  "leagueGoals": 218,
   "club": "Boca Juniors",
   "clubs": [
    "Gimnasia y Esgrima LP",
    "Boca Juniors"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1920s–1930s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 216. Años: 1928-1939."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Francisco_Varallo"
   },
   "review": [
    "position-unverified"
-  ]
+  ],
+  "cupGoals": 0,
+  "intlGoals": 0
  },
  {
   "id": "ricardo-infante",
@@ -350,8 +454,8 @@
   "fullName": "Domingo Alberto Tarasconi",
   "shortName": "Tarasconi",
   "position": "ST",
-  "goals": 214,
-  "leagueGoals": 208,
+  "goals": 215,
+  "leagueGoals": 209,
   "club": "Boca Juniors",
   "clubs": [
    "Atlanta",
@@ -361,58 +465,17 @@
    "Argentinos Juniors"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1920s–1930s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 208. Años: 1921-1934/1936."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Domingo_Tarasconi"
   },
   "review": [
    "position-unverified"
-  ]
- },
- {
-  "id": "jose-sand",
-  "name": "José Sand",
-  "fullName": "José Gustavo Sand",
-  "shortName": "Sand",
-  "position": "ST",
-  "goals": 211,
-  "leagueGoals": 162,
-  "club": "Lanús",
-  "clubs": [
-   "Colón SF",
-   "River Plate",
-   "Banfield",
-   "Lanús",
-   "Racing Club",
-   "Tigre",
-   "Argentinos Juniors",
-   "Aldosivi (Mar del Plata)"
   ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1990s–2020s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 162. Años: 1999-now."
-  },
-  "review": [
-   "active-in-source-update-2023"
-  ],
-  "discrepancies": [
-   {
-    "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 161,
-    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
-   }
-  ],
-  "secondarySource": {
-   "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/gustavo-sandoval/profil/spieler/807333"
-  }
+  "cupGoals": 0,
+  "intlGoals": 1
  },
  {
   "id": "jonathan-herrera",
@@ -451,6 +514,33 @@
    "Copa Sudamericana 2021: 6",
    "Primera B Nacional / Primera Nacional 2018: 13"
   ]
+ },
+ {
+  "id": "miguel-brindisi",
+  "name": "Miguel Brindisi",
+  "fullName": "Miguel Angel Brindisi",
+  "shortName": "Brindisi",
+  "position": "ST",
+  "goals": 209,
+  "leagueGoals": 203,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "Boca Juniors",
+   "Unión de Santa Fé"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1960s–1980s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Miguel_Brindisi"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 6
  },
  {
   "id": "carlos-bianchi",
@@ -497,32 +587,6 @@
    "name": "RSSSF — Argentina All-Time Topscorers in League",
    "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 193. Años: 1932-1944."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
-  "id": "miguel-brindisi",
-  "name": "Miguel Brindisi",
-  "fullName": "Miguel Angel Brindisi",
-  "shortName": "Brindisi",
-  "position": "ST",
-  "goals": 201,
-  "leagueGoals": 194,
-  "club": "Huracán",
-  "clubs": [
-   "Huracán",
-   "Boca Juniors",
-   "Unión de Santa Fé"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1960s–1980s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 194. Años: 1967-1976/1979-1983."
   },
   "review": [
    "position-unverified"
@@ -664,6 +728,34 @@
   ]
  },
  {
+  "id": "jaime-sarlanga",
+  "name": "Jaime Sarlanga",
+  "fullName": "Jaime Sarlanga",
+  "shortName": "Sarlanga",
+  "position": "ST",
+  "goals": 187,
+  "leagueGoals": 171,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Tigre",
+   "Ferro Carril Oeste",
+   "Boca Juniors",
+   "Gimnasia y Esgrima LP"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1930s–1950s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jaime_Sarlanga"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 3
+ },
+ {
   "id": "juan-pizzuti",
   "name": "Juan Pizzuti",
   "fullName": "Juan José Pizzuti",
@@ -720,33 +812,6 @@
   ]
  },
  {
-  "id": "jaime-sarlanga",
-  "name": "Jaime Sarlanga",
-  "fullName": "Jaime Sarlanga",
-  "shortName": "Sarlanga",
-  "position": "ST",
-  "goals": 184,
-  "leagueGoals": 171,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Tigre",
-   "Ferro Carril Oeste",
-   "Boca Juniors",
-   "Gimnasia y Esgrima LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1930s–1950s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 171. Años: 1935-1950."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
   "id": "alberto-marcovecchio",
   "name": "Alberto Marcovecchio",
   "fullName": "Alberto Andrés Marcovecchio",
@@ -771,6 +836,40 @@
   ]
  },
  {
+  "id": "jose-iglesias",
+  "name": "José Iglesias",
+  "fullName": "José Raúl Iglesias",
+  "shortName": "Iglesias",
+  "position": "ST",
+  "goals": 182,
+  "leagueGoals": 179,
+  "club": "Rosario Central",
+  "clubs": [
+   "San Lorenzo",
+   "All Boys",
+   "Sarmiento (Junín)",
+   "Rosario Central",
+   "Estudiantes LP",
+   "Huracán",
+   "Racing Club",
+   "Talleres (Córdoba)",
+   "Deportivo Español",
+   "Lanús"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1970s–1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Toti_Iglesias"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 3
+ },
+ {
   "id": "alberto-ohaco",
   "name": "Alberto Ohaco",
   "fullName": "Alberto Bernardino Ohaco",
@@ -793,41 +892,6 @@
   "review": [
    "position-unverified"
   ]
- },
- {
-  "id": "esteban-fuertes",
-  "name": "Esteban Fuertes",
-  "fullName": "Esteban Oscar Fuertes",
-  "shortName": "Fuertes",
-  "position": "ST",
-  "goals": 177,
-  "leagueGoals": 165,
-  "club": "Colón",
-  "clubs": [
-   "Platense",
-   "Racing Club",
-   "Colón",
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 165. Años: 1991-2000/2002-2012."
-  },
-  "discrepancies": [
-   {
-    "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 127,
-    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
-   }
-  ],
-  "secondarySource": {
-   "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/esteban-fuertes/profil/spieler/5493"
-  }
  },
  {
   "id": "luis-artime",
@@ -1069,6 +1133,51 @@
   ]
  },
  {
+  "id": "santiago-silva",
+  "name": "Santiago Silva",
+  "fullName": "Santiago Martín Silva",
+  "shortName": "Silva",
+  "position": "ST",
+  "goals": 162,
+  "leagueGoals": 133,
+  "club": "Banfield",
+  "clubs": [
+   "Newell's Old Boys",
+   "Gimnasia y Esgrima LP",
+   "Vélez Sarsfield",
+   "Banfield",
+   "Boca Juniors",
+   "Lanús",
+   "Arsenal",
+   "Talleres (Córdoba)",
+   "Argentinos Juniors",
+   "Aldosivi"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Silva"
+  },
+  "review": [
+   "active-in-source-update-2023"
+  ],
+  "discrepancies": [
+   {
+    "source": "Transfermarkt (liga y copas desde 1990/91)",
+    "goals": 132,
+    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
+   }
+  ],
+  "secondarySource": {
+   "name": "Transfermarkt — posición",
+   "url": "https://www.transfermarkt.com/santiago-silva/profil/spieler/7274"
+  },
+  "cupGoals": 10,
+  "intlGoals": 19
+ },
+ {
   "id": "vicente-de-la-mata",
   "name": "Vicente De la Mata",
   "fullName": "Vicente De la Mata",
@@ -1094,48 +1203,39 @@
   ]
  },
  {
-  "id": "santiago-silva",
-  "name": "Santiago Silva",
-  "fullName": "Santiago Martín Silva",
-  "shortName": "Silva",
+  "id": "ernesto-farias",
+  "name": "Ernesto Farías",
+  "fullName": "Ernesto Antonio Farías",
+  "shortName": "Farías",
   "position": "ST",
-  "goals": 161,
-  "leagueGoals": 132,
-  "club": "Banfield",
+  "goals": 157,
+  "leagueGoals": 142,
+  "club": "Estudiantes LP",
   "clubs": [
-   "Newell's Old Boys",
-   "Gimnasia y Esgrima LP",
-   "Vélez Sarsfield",
-   "Banfield",
-   "Boca Juniors",
-   "Lanús",
-   "Arsenal",
-   "Talleres (Córdoba)",
-   "Argentinos Juniors",
-   "Aldosivi"
+   "Estudiantes LP",
+   "River Plate",
+   "Independiente"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "2000s–2020s",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 132. Años: 2005-now."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ernesto_Far%C3%ADas"
   },
-  "review": [
-   "active-in-source-update-2023"
-  ],
   "discrepancies": [
    {
     "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 132,
+    "goals": 131,
     "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
    }
   ],
   "secondarySource": {
    "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/santiago-silva/profil/spieler/7274"
-  }
+   "url": "https://www.transfermarkt.com/ernesto-farias/profil/spieler/18539"
+  },
+  "cupGoals": 0,
+  "intlGoals": 15
  },
  {
   "id": "mario-boye",
@@ -1164,47 +1264,13 @@
   ]
  },
  {
-  "id": "ernesto-farias",
-  "name": "Ernesto Farías",
-  "fullName": "Ernesto Antonio Farías",
-  "shortName": "Farías",
-  "position": "ST",
-  "goals": 156,
-  "leagueGoals": 141,
-  "club": "Estudiantes LP",
-  "clubs": [
-   "Estudiantes LP",
-   "River Plate",
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 141. Años: 1998-2004/2005-2007/2012-2013."
-  },
-  "discrepancies": [
-   {
-    "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 131,
-    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
-   }
-  ],
-  "secondarySource": {
-   "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/ernesto-farias/profil/spieler/18539"
-  }
- },
- {
   "id": "alberto-acosta",
   "name": "Alberto Acosta",
   "fullName": "Alberto Federico Acosta",
   "shortName": "Acosta",
   "position": "ST",
-  "goals": 152,
-  "leagueGoals": 128,
+  "goals": 155,
+  "leagueGoals": 127,
   "club": "San Lorenzo",
   "clubs": [
    "Unión (Santa Fe)",
@@ -1212,12 +1278,11 @@
    "Boca Juniors"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1980s–2000s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 128. Años: 1982-90/1991-94/1998-99/2001-03."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Alberto_Federico_Acosta"
   },
   "discrepancies": [
    {
@@ -1229,7 +1294,9 @@
   "secondarySource": {
    "name": "Transfermarkt — posición",
    "url": "https://www.transfermarkt.com/alberto-acosta/profil/spieler/17557"
-  }
+  },
+  "cupGoals": 0,
+  "intlGoals": 24
  },
  {
   "id": "carlos-luna",
@@ -1544,6 +1611,33 @@
   ]
  },
  {
+  "id": "norberto-mendez",
+  "name": "Norberto Méndez",
+  "fullName": "Norberto Doroteo Méndez",
+  "shortName": "Méndez",
+  "position": "ST",
+  "goals": 143,
+  "leagueGoals": 123,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "Racing Club",
+   "Tigre"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1940s–1950s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Norberto_M%C3%A9ndez"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 0
+ },
+ {
   "id": "juan-ferraro",
   "name": "Juan Ferraro",
   "fullName": "Juan José Ferraro",
@@ -1563,32 +1657,6 @@
    "name": "RSSSF — Argentina All-Time Topscorers in League",
    "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 142. Años: 1944-1957."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
-  "id": "norberto-mendez",
-  "name": "Norberto Méndez",
-  "fullName": "Norberto Doroteo Méndez",
-  "shortName": "Méndez",
-  "position": "ST",
-  "goals": 142,
-  "leagueGoals": 122,
-  "club": "Huracán",
-  "clubs": [
-   "Huracán",
-   "Racing Club",
-   "Tigre"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1940s–1950s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 122. Años: 1941-1958."
   },
   "review": [
    "position-unverified"
@@ -1769,6 +1837,31 @@
   ]
  },
  {
+  "id": "jorge-burruchaga",
+  "name": "Jorge Burruchaga",
+  "shortName": "Burruchaga",
+  "position": "CM",
+  "goals": 139,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Burruchaga"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Burruchaga"
+  },
+  "leagueGoals": 48,
+  "cupGoals": 14,
+  "intlGoals": 77
+ },
+ {
   "id": "oscar-lupo",
   "name": "Oscar Lupo",
   "fullName": "Oscar Antonio Lupo",
@@ -1904,6 +1997,34 @@
   ]
  },
  {
+  "id": "alfredo-rojas",
+  "name": "Alfredo Rojas",
+  "fullName": "Alfredo Hugo Rojas",
+  "shortName": "Rojas",
+  "position": "ST",
+  "goals": 136,
+  "leagueGoals": 126,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Lanús",
+   "River Plate",
+   "Gimnasia y Esgrima LP",
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1950s–1960s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Alfredo_Rojas"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 10
+ },
+ {
   "id": "guillermo-barros-schelotto",
   "name": "Guillermo Barros Schelotto",
   "fullName": "Guillermo Barros Schelotto",
@@ -1935,33 +2056,6 @@
    "name": "Transfermarkt — posición",
    "url": "https://www.transfermarkt.com/guillermo-barros-schelotto/profil/spieler/3414"
   }
- },
- {
-  "id": "alfredo-rojas",
-  "name": "Alfredo Rojas",
-  "fullName": "Alfredo Hugo Rojas",
-  "shortName": "Rojas",
-  "position": "ST",
-  "goals": 135,
-  "leagueGoals": 124,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Lanús",
-   "River Plate",
-   "Gimnasia y Esgrima LP",
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1950s–1960s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 124. Años: 1956-1958/1961-1968."
-  },
-  "review": [
-   "position-unverified"
-  ]
  },
  {
   "id": "jose-reinaldi",
@@ -2390,6 +2484,31 @@
   ]
  },
  {
+  "id": "daniel-onega",
+  "name": "Daniel Onega",
+  "shortName": "Onega",
+  "position": "CM",
+  "goals": 126,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Daniel_Onega"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Daniel_Onega"
+  },
+  "leagueGoals": 95,
+  "cupGoals": 0,
+  "intlGoals": 0
+ },
+ {
   "id": "mauro-matos",
   "name": "Mauro Matos",
   "shortName": "Matos",
@@ -2639,6 +2758,58 @@
   ]
  },
  {
+  "id": "antonio-alzamendi",
+  "name": "Antonio Alzamendi",
+  "fullName": "Antonio Alzamendi",
+  "shortName": "Alzamendi",
+  "position": "ST",
+  "goals": 123,
+  "leagueGoals": 105,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "River Plate",
+   "Deportivo Mandiyú"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1970s–1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Alzamendi"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 18
+ },
+ {
+  "id": "antonio-sastre",
+  "name": "Antonio Sastre",
+  "fullName": "Antonio Sastre",
+  "shortName": "Sastre",
+  "position": "ST",
+  "goals": 123,
+  "leagueGoals": 116,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1930s–1940s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Sastre"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 0
+ },
+ {
   "id": "fernando-cavenaghi",
   "name": "Fernando Cavenaghi",
   "shortName": "Cavenaghi",
@@ -2772,28 +2943,39 @@
   ]
  },
  {
-  "id": "antonio-sastre",
-  "name": "Antonio Sastre",
-  "fullName": "Antonio Sastre",
-  "shortName": "Sastre",
-  "position": "ST",
+  "id": "daniel-montenegro",
+  "name": "Daniel Montenegro",
+  "fullName": "Daniel Gastón Montenegro",
+  "shortName": "Montenegro",
+  "position": "AM",
   "goals": 122,
-  "leagueGoals": 113,
+  "leagueGoals": 115,
   "club": "Independiente",
   "clubs": [
-   "Independiente"
+   "Huracán",
+   "Independiente",
+   "River Plate"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1930s–1940s",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 113. Años: 1931-1942."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Daniel_Montenegro"
   },
-  "review": [
-   "position-unverified"
-  ]
+  "discrepancies": [
+   {
+    "source": "Transfermarkt (liga y copas desde 1990/91)",
+    "goals": 100,
+    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
+   }
+  ],
+  "secondarySource": {
+   "name": "Transfermarkt — posición",
+   "url": "https://www.transfermarkt.com/daniel-montenegro/profil/spieler/25020"
+  },
+  "cupGoals": 0,
+  "intlGoals": 7
  },
  {
   "id": "eduardo-ricagni",
@@ -2821,6 +3003,43 @@
   "review": [
    "position-unverified"
   ]
+ },
+ {
+  "id": "facundo-sava",
+  "name": "Facundo Sava",
+  "fullName": "Facundo Sava",
+  "shortName": "Sava",
+  "position": "ST",
+  "goals": 122,
+  "leagueGoals": 118,
+  "club": "Gimnasia y Esgrima LP",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "Boca Juniors",
+   "Gimnasia y Esgrima LP",
+   "Racing Club",
+   "Arsenal"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Facundo_Sava"
+  },
+  "discrepancies": [
+   {
+    "source": "Transfermarkt (liga y copas desde 1990/91)",
+    "goals": 92,
+    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
+   }
+  ],
+  "secondarySource": {
+   "name": "Transfermarkt — posición",
+   "url": "https://www.transfermarkt.com/facundo-sava/profil/spieler/3709"
+  },
+  "cupGoals": 0,
+  "intlGoals": 2
  },
  {
   "id": "hugo-pavone",
@@ -2980,39 +3199,6 @@
   ]
  },
  {
-  "id": "jose-iglesias",
-  "name": "José Iglesias",
-  "fullName": "José Raúl Iglesias",
-  "shortName": "Iglesias",
-  "position": "ST",
-  "goals": 121,
-  "leagueGoals": 117,
-  "club": "Rosario Central",
-  "clubs": [
-   "San Lorenzo",
-   "All Boys",
-   "Sarmiento (Junín)",
-   "Rosario Central",
-   "Estudiantes LP",
-   "Huracán",
-   "Racing Club",
-   "Talleres (Córdoba)",
-   "Deportivo Español",
-   "Lanús"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1970s–1990s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 117. Años: 1976/1979/1981-1991."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
   "id": "pablo-frers",
   "name": "Pablo Frers",
   "shortName": "Frers",
@@ -3031,32 +3217,6 @@
   },
   "review": [
    "club-total-only",
-   "position-unverified"
-  ]
- },
- {
-  "id": "antonio-alzamendi",
-  "name": "Antonio Alzamendi",
-  "fullName": "Antonio Alzamendi",
-  "shortName": "Alzamendi",
-  "position": "ST",
-  "goals": 120,
-  "leagueGoals": 106,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "River Plate",
-   "Deportivo Mandiyú"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1970s–1990s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 106. Años: 1978-1982/1986-1988/1990."
-  },
-  "review": [
    "position-unverified"
   ]
  },
@@ -3180,31 +3340,6 @@
   },
   "review": [
    "position-unverified"
-  ]
- },
- {
-  "id": "daniel-onega",
-  "name": "Daniel Onega",
-  "shortName": "Onega",
-  "position": "CM",
-  "goals": 118,
-  "club": "River Plate",
-  "clubs": [
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Goles oficiales en River Plate",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Futbolistas del Club Atlético River Plate",
-   "url": "https://es.wikipedia.org/wiki/Anexo%3AFutbolistas_del_Club_Atl%C3%A9tico_River_Plate"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Daniel_Onega"
-  },
-  "review": [
-   "club-total-only"
   ]
  },
  {
@@ -3658,6 +3793,31 @@
   ]
  },
  {
+  "id": "pedro-calomino",
+  "name": "Pedro Calomino",
+  "shortName": "Calomino",
+  "position": "ST",
+  "goals": 110,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Pedro_Calomino"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Pedro_Calomino"
+  },
+  "leagueGoals": 88,
+  "cupGoals": 0,
+  "intlGoals": 1
+ },
+ {
   "id": "rene-houseman",
   "name": "René Houseman",
   "fullName": "René Orlando Houseman",
@@ -3682,40 +3842,6 @@
   "review": [
    "position-unverified"
   ]
- },
- {
-  "id": "daniel-montenegro",
-  "name": "Daniel Montenegro",
-  "fullName": "Daniel Gastón Montenegro",
-  "shortName": "Montenegro",
-  "position": "AM",
-  "goals": 109,
-  "leagueGoals": 102,
-  "club": "Independiente",
-  "clubs": [
-   "Huracán",
-   "Independiente",
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 102. Años: 1997-2009/2013-2018."
-  },
-  "discrepancies": [
-   {
-    "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 100,
-    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
-   }
-  ],
-  "secondarySource": {
-   "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/daniel-montenegro/profil/spieler/25020"
-  }
  },
  {
   "id": "fernando-zampedri",
@@ -3825,49 +3951,13 @@
   }
  },
  {
-  "id": "facundo-sava",
-  "name": "Facundo Sava",
-  "fullName": "Facundo Sava",
-  "shortName": "Sava",
-  "position": "ST",
-  "goals": 108,
-  "leagueGoals": 107,
-  "club": "Gimnasia y Esgrima LP",
-  "clubs": [
-   "Ferro Carril Oeste",
-   "Boca Juniors",
-   "Gimnasia y Esgrima LP",
-   "Racing Club",
-   "Arsenal"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 107. Años: 1993-2002/2006-2008."
-  },
-  "discrepancies": [
-   {
-    "source": "Transfermarkt (liga y copas desde 1990/91)",
-    "goals": 92,
-    "note": "Transfermarkt no cubre toda la carrera; se usa RSSSF por prioridad."
-   }
-  ],
-  "secondarySource": {
-   "name": "Transfermarkt — posición",
-   "url": "https://www.transfermarkt.com/facundo-sava/profil/spieler/3709"
-  }
- },
- {
   "id": "guillermo-trama",
   "name": "Guillermo Trama",
   "fullName": "Guillermo José Trama",
   "shortName": "Trama",
   "position": "ST",
-  "goals": 107,
-  "leagueGoals": 104,
+  "goals": 108,
+  "leagueGoals": 105,
   "club": "Rosario Central",
   "clubs": [
    "Kimberley (Mar del Plata)",
@@ -3879,16 +3969,43 @@
    "Estudiantes LP"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1970s–1980s",
   "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 104. Años: 1971-1972/1974/1976/1977-1986."
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Guillermo_Trama"
   },
   "review": [
    "position-unverified"
-  ]
+  ],
+  "cupGoals": 0,
+  "intlGoals": 3
+ },
+ {
+  "id": "ermindo-onega",
+  "name": "Ermindo Onega",
+  "fullName": "Ermindo Ángel Onega",
+  "shortName": "Onega",
+  "position": "ST",
+  "goals": 107,
+  "leagueGoals": 104,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate",
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1950s–1970s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ermindo_Onega"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 1,
+  "intlGoals": 2
  },
  {
   "id": "carlos-bulla",
@@ -4002,31 +4119,6 @@
   },
   "review": [
    "club-total-only"
-  ]
- },
- {
-  "id": "ermindo-onega",
-  "name": "Ermindo Onega",
-  "fullName": "Ermindo Ángel Onega",
-  "shortName": "Onega",
-  "position": "ST",
-  "goals": 105,
-  "leagueGoals": 102,
-  "club": "River Plate",
-  "clubs": [
-   "River Plate",
-   "Vélez Sarsfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1950s–1970s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 102. Años: 1958-1968/1972."
-  },
-  "review": [
-   "position-unverified"
   ]
  },
  {
@@ -4486,31 +4578,6 @@
   ]
  },
  {
-  "id": "pedro-calomino",
-  "name": "Pedro Calomino",
-  "shortName": "Calomino",
-  "position": "ST",
-  "goals": 99,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Boca Juniors",
-  "era": "—",
-  "source": {
-   "name": "Historia de Boca Juniors — goleadores en torneos oficiales",
-   "url": "https://historiadeboca.com.ar/records-jugadores/50/1/0/1905/2026/6/0/0.html"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Pedro_Calomino"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "dario-benedetto",
   "name": "Darío Benedetto",
   "shortName": "Benedetto",
@@ -4689,6 +4756,27 @@
   "review": [
    "club-total-only"
   ]
+ },
+ {
+  "id": "patricio-hernandez",
+  "name": "Patricio Hernández",
+  "shortName": "Hernández",
+  "position": "AM",
+  "goals": 95,
+  "leagueGoals": 90,
+  "cupGoals": 0,
+  "intlGoals": 5,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Patricio_Hern%C3%A1ndez"
+  }
  },
  {
   "id": "ramon-diaz",
@@ -5293,6 +5381,31 @@
   ]
  },
  {
+  "id": "angel-clemente-rojas",
+  "name": "Ángel Clemente Rojas",
+  "shortName": "Clemente Rojas",
+  "position": "ST",
+  "goals": 86,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Clemente_Rojas"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Clemente_Rojas"
+  },
+  "leagueGoals": 74,
+  "cupGoals": 0,
+  "intlGoals": 12
+ },
+ {
   "id": "milton-gimenez",
   "name": "Milton Giménez",
   "shortName": "Giménez",
@@ -5749,31 +5862,6 @@
   }
  },
  {
-  "id": "jorge-burruchaga",
-  "name": "Jorge Burruchaga",
-  "shortName": "Burruchaga",
-  "position": "CM",
-  "goals": 80,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Jorge_Burruchaga"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "leandro-caruso",
   "name": "Leandro Caruso",
   "shortName": "Caruso",
@@ -5859,31 +5947,6 @@
   }
  },
  {
-  "id": "angel-clemente-rojas",
-  "name": "Ángel Clemente Rojas",
-  "shortName": "Clemente Rojas",
-  "position": "ST",
-  "goals": 79,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Boca Juniors",
-  "era": "—",
-  "source": {
-   "name": "Historia de Boca Juniors — goleadores en torneos oficiales",
-   "url": "https://historiadeboca.com.ar/records-jugadores/50/1/0/1905/2026/6/0/0.html"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Clemente_Rojas"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "mauro-zarate",
   "name": "Mauro Zárate",
   "shortName": "Zárate",
@@ -5929,6 +5992,31 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Pipo_Gorosito"
   }
+ },
+ {
+  "id": "agustin-balbuena",
+  "name": "Agustín Balbuena",
+  "shortName": "Balbuena",
+  "position": "ST",
+  "goals": 78,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Balbuena"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Balbuena"
+  },
+  "leagueGoals": 39,
+  "cupGoals": 7,
+  "intlGoals": 11
  },
  {
   "id": "amable-lopez",
@@ -7383,6 +7471,31 @@
   ]
  },
  {
+  "id": "enzo-trossero",
+  "name": "Enzo Trossero",
+  "shortName": "Trossero",
+  "position": "CB",
+  "goals": 63,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Enzo_Trossero"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Enzo_Trossero"
+  },
+  "leagueGoals": 62,
+  "cupGoals": 0,
+  "intlGoals": 1
+ },
+ {
   "id": "dario-gandin",
   "name": "Darío Gandín",
   "shortName": "Gandín",
@@ -8065,31 +8178,6 @@
   ]
  },
  {
-  "id": "enzo-trossero",
-  "name": "Enzo Trossero",
-  "shortName": "Trossero",
-  "position": "CB",
-  "goals": 56,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Enzo_Trossero"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "martin-prost",
   "name": "Martín Prost",
   "shortName": "Prost",
@@ -8419,6 +8507,27 @@
    "Copa Libertadores 2022: 6",
    "Copa de la Liga Profesional 2022: 8"
   ]
+ },
+ {
+  "id": "mauro-gerk",
+  "name": "Mauro Gerk",
+  "shortName": "Gerk",
+  "position": "ST",
+  "goals": 54,
+  "leagueGoals": 54,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mauro_Gerk"
+  }
  },
  {
   "id": "raul-armando-savoy",
@@ -9552,6 +9661,28 @@
   ]
  },
  {
+  "id": "francisco-vazzoler",
+  "name": "Francisco Vazzoler",
+  "shortName": "Vazzoler",
+  "position": "ST",
+  "goals": 48,
+  "leagueGoals": 45,
+  "cupGoals": 3,
+  "intlGoals": 0,
+  "club": "Unión (Santa Fe)",
+  "clubs": [
+   "Unión (Santa Fe)",
+   "Chacarita Juniors"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Francisco_Vazzoler"
+  }
+ },
+ {
   "id": "jose-luis-chilavert",
   "name": "José Luis Chilavert",
   "shortName": "Luis Chilavert",
@@ -9565,7 +9696,7 @@
    "Vélez Sarsfield"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2000s",
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
@@ -10016,31 +10147,6 @@
   ]
  },
  {
-  "id": "agustin-balbuena",
-  "name": "Agustín Balbuena",
-  "shortName": "Balbuena",
-  "position": "ST",
-  "goals": 46,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Balbuena"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "alfredo-garasini",
   "name": "Alfredo Garasini",
   "shortName": "Garasini",
@@ -10215,6 +10321,27 @@
   "saSources": [
    "Primera B Metropolitana (copia del 22/12/2021): 11"
   ]
+ },
+ {
+  "id": "juan-musso",
+  "name": "Juan Musso",
+  "shortName": "Musso",
+  "position": "GK",
+  "goals": 46,
+  "leagueGoals": 30,
+  "cupGoals": 5,
+  "intlGoals": 11,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Juan_Musso"
+  }
  },
  {
   "id": "juan-romay",
@@ -11060,6 +11187,31 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "pierino-gonzalez",
+  "name": "Pierino González",
+  "shortName": "González",
+  "position": "ST",
+  "goals": 44,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Pierino_Gonz%C3%A1lez"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Pierino_Gonz%C3%A1lez"
+  },
+  "leagueGoals": 43,
+  "cupGoals": 0,
+  "intlGoals": 0
  },
  {
   "id": "ramon-enrique",
@@ -12946,31 +13098,6 @@
   "secondarySource": {
    "name": "Wikipedia — posición",
    "url": "https://es.wikipedia.org/wiki/Norberto_Madurga"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
-  "id": "pierino-gonzalez",
-  "name": "Pierino González",
-  "shortName": "González",
-  "position": "ST",
-  "goals": 39,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Boca Juniors",
-  "era": "—",
-  "source": {
-   "name": "Historia de Boca Juniors — goleadores en torneos oficiales",
-   "url": "https://historiadeboca.com.ar/records-jugadores/50/1/0/1905/2026/6/0/0.html"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Pierino_Gonz%C3%A1lez"
   },
   "review": [
    "club-total-only"
@@ -22481,7 +22608,7 @@
    "Gimnasia (J)"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2020s",
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
@@ -24298,6 +24425,36 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "pablo-cantero",
+  "name": "Pablo Cantero",
+  "shortName": "Cantero",
+  "position": "CM",
+  "goals": 23,
+  "leagueGoals": 23,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Martín (Tucumán)",
+  "clubs": [
+   "San Martín (Tucumán)",
+   "Central Córdoba",
+   "Colon",
+   "Estudiantes LP",
+   "Gimnasia (CdU)",
+   "Arsenal Sarandí",
+   "Def. Belgrano",
+   "San Martín (T)",
+   "San Martín (SJ)",
+   "Tiro Federal R"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Pablo_Cantero"
+  }
  },
  {
   "id": "pablo-hernandez",
@@ -29381,7 +29538,7 @@
    "San Lorenzo"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2010s",
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
@@ -34187,6 +34344,27 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/paulo-rosales/leistungsdaten/spieler/26472"
+  }
+ },
+ {
+  "id": "raul-cascini",
+  "name": "Raúl Cascini",
+  "shortName": "Cascini",
+  "position": "DM",
+  "goals": 16,
+  "leagueGoals": 13,
+  "cupGoals": 0,
+  "intlGoals": 3,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ra%C3%BAl_Alfredo_Cascini"
   }
  },
  {
@@ -43751,6 +43929,27 @@
   }
  },
  {
+  "id": "diego-dorregaray",
+  "name": "Diego Dorregaray",
+  "shortName": "Dorregaray",
+  "position": "ST",
+  "goals": 11,
+  "leagueGoals": 11,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensores de Belgrano",
+  "clubs": [
+   "Defensores de Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Diego_Dorregaray"
+  }
+ },
+ {
   "id": "diego-mondino",
   "name": "Diego Mondino",
   "shortName": "Mondino",
@@ -44828,6 +45027,27 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Luciano_Galletti"
+  }
+ },
+ {
+  "id": "luis-peralta",
+  "name": "Luis Peralta",
+  "shortName": "Peralta",
+  "position": "ST",
+  "goals": 11,
+  "leagueGoals": 11,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Luis_Peralta"
   }
  },
  {
@@ -51223,7 +51443,7 @@
    "Cañuelas"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "2000s–2020s",
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
@@ -54113,7 +54333,7 @@
    "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez"
   },
   "goals": 8,
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "review": [
    "manual-correction"
   ]
@@ -55348,6 +55568,27 @@
   ]
  },
  {
+  "id": "lucas-lezcano",
+  "name": "Lucas Lezcano",
+  "shortName": "Lezcano",
+  "position": "RW",
+  "goals": 8,
+  "leagueGoals": 8,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Chacarita Juniors",
+  "clubs": [
+   "Chacarita Juniors"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Lezcano"
+  }
+ },
+ {
   "id": "lucas-mellado",
   "name": "Lucas Mellado",
   "shortName": "Mellado",
@@ -55879,6 +56120,27 @@
    "soloascenso-partial",
    "position-unverified"
   ]
+ },
+ {
+  "id": "nacho-gonzalez",
+  "name": "Nacho González",
+  "shortName": "González",
+  "position": "GK",
+  "goals": 8,
+  "leagueGoals": 8,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez"
+  }
  },
  {
   "id": "nelson-benitez",
@@ -60863,7 +61125,7 @@
    "Arsenal FC"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "2000s",
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
@@ -61070,6 +61332,27 @@
    "soloascenso-partial",
    "position-unverified"
   ]
+ },
+ {
+  "id": "matias-pardo",
+  "name": "Matías Pardo",
+  "shortName": "Pardo",
+  "position": "RW",
+  "goals": 7,
+  "leagueGoals": 7,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Morón",
+  "clubs": [
+   "Morón"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Pardo"
+  }
  },
  {
   "id": "matias-perello",
@@ -62033,7 +62316,7 @@
    "Newell's Old Boys"
   ],
   "division": "Primera",
-  "scope": "Goles oficiales con clubes argentinos (corrección manual)",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2000s",
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
@@ -66781,6 +67064,28 @@
   }
  },
  {
+  "id": "marcelo-weigandt",
+  "name": "Marcelo Weigandt",
+  "shortName": "Weigandt",
+  "position": "RB",
+  "goals": 6,
+  "leagueGoals": 1,
+  "cupGoals": 3,
+  "intlGoals": 2,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors",
+   "Gimnasia"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Marcelo_Weigandt"
+  }
+ },
+ {
   "id": "marco-prieto",
   "name": "Marco Prieto",
   "shortName": "Prieto",
@@ -67125,6 +67430,30 @@
   "review": [
    "soloascenso-partial",
    "position-unverified"
+  ]
+ },
+ {
+  "id": "matias-mansilla",
+  "name": "Matías Mansilla",
+  "shortName": "Mansilla",
+  "position": "DM",
+  "goals": 6,
+  "leagueGoals": 6,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Alvarado",
+  "clubs": [
+   "Alvarado"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Mansilla"
+  },
+  "review": [
+   "season-list-truncated"
   ]
  },
  {
@@ -71108,6 +71437,32 @@
   ]
  },
  {
+  "id": "emmanuel-olivera",
+  "name": "Emmanuel Olivera",
+  "shortName": "Olivera",
+  "position": "CB",
+  "goals": 5,
+  "leagueGoals": 4,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Colón",
+  "clubs": [
+   "Colón",
+   "Vélez Sarsfield",
+   "Almirante Brown",
+   "Boca Unidos",
+   "Colon",
+   "Banfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Emanuel_Olivera"
+  }
+ },
+ {
   "id": "enzo-arreguin",
   "name": "Enzo Arreguín",
   "shortName": "Arreguín",
@@ -72027,6 +72382,30 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Benedetti"
   }
+ },
+ {
+  "id": "gaston-blanc",
+  "name": "Gastón Blanc",
+  "shortName": "Blanc",
+  "position": "CM",
+  "goals": 5,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Blanc"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "gaston-campi",
@@ -72978,6 +73357,27 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "joaquin-novillo",
+  "name": "Joaquín Novillo",
+  "shortName": "Novillo",
+  "position": "CB",
+  "goals": 5,
+  "leagueGoals": 2,
+  "cupGoals": 1,
+  "intlGoals": 2,
+  "club": "Belgrano",
+  "clubs": [
+   "Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Novillo"
+  }
  },
  {
   "id": "joaquin-ochoa",
@@ -75299,6 +75699,40 @@
   }
  },
  {
+  "id": "nicolas-agorreca",
+  "name": "Nicolás Agorreca",
+  "shortName": "Agorreca",
+  "position": "CB",
+  "goals": 5,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Ferro Carril Oeste",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "Quilmes",
+   "Ferro",
+   "San Martín (M)",
+   "Rivadavia",
+   "Flandria",
+   "Tristán Suárez",
+   "San Miguel",
+   "Ituzaingó",
+   "Dep. Maipú",
+   "Mitre (SdE)",
+   "Cipolletti",
+   "Sacachispas",
+   "Villa Dálmine"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Agorreca"
+  }
+ },
+ {
   "id": "nicolas-arrechea",
   "name": "Nicolás Arrechea",
   "shortName": "Arrechea",
@@ -75346,6 +75780,29 @@
   "cupSources": [
    "Copa Argentina 2026: 1"
   ]
+ },
+ {
+  "id": "nicolas-capraro",
+  "name": "Nicolás Capraro",
+  "shortName": "Capraro",
+  "position": "CB",
+  "goals": 5,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Barracas Central",
+  "clubs": [
+   "Barracas Central",
+   "Olimpo",
+   "Barracas C."
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Capraro"
+  }
  },
  {
   "id": "nicolas-castro-565899",
@@ -77979,6 +78436,27 @@
   }
  },
  {
+  "id": "cristian-traverso",
+  "name": "Cristian Traverso",
+  "shortName": "Traverso",
+  "position": "CB",
+  "goals": 4,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 3,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Cristian_Traverso"
+  }
+ },
+ {
   "id": "cristian-vella",
   "name": "Cristian Vella",
   "shortName": "Vella",
@@ -78463,6 +78941,27 @@
    "soloascenso-partial",
    "position-unverified"
   ]
+ },
+ {
+  "id": "edgar-espindola",
+  "name": "Edgar Espíndola",
+  "shortName": "Espíndola",
+  "position": "ST",
+  "goals": 4,
+  "leagueGoals": 2,
+  "cupGoals": 2,
+  "intlGoals": 0,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Fabi%C3%A1n_Esp%C3%ADndola"
+  }
  },
  {
   "id": "edgardo-adinolfi",
@@ -86763,6 +87262,27 @@
   ]
  },
  {
+  "id": "cristian-rodriguez",
+  "name": "Cristian Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "LW",
+  "goals": 3,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Cristian_Rodr%C3%ADguez"
+  }
+ },
+ {
   "id": "cristian-romero",
   "name": "Cristian Romero",
   "shortName": "Romero",
@@ -86813,6 +87333,27 @@
    "soloascenso-partial",
    "position-unverified"
   ]
+ },
+ {
+  "id": "cristian-zapata",
+  "name": "Cristian Zapata",
+  "shortName": "Zapata",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Cristi%C3%A1n_Zapata"
+  }
  },
  {
   "id": "damian-fernandez",
@@ -88168,6 +88709,31 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ezequiel-piovi/leistungsdaten/spieler/487346"
+  }
+ },
+ {
+  "id": "ezequiel-videla",
+  "name": "Ezequiel Videla",
+  "shortName": "Videla",
+  "position": "DM",
+  "goals": 3,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 1,
+  "club": "Instituto ACC",
+  "clubs": [
+   "Instituto ACC",
+   "San Martín (SJ)",
+   "Colon",
+   "Racing Club",
+   "Aldosivi"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ezequiel_Videla"
   }
  },
  {
@@ -91396,6 +91962,31 @@
   }
  },
  {
+  "id": "jorge-morel",
+  "name": "Jorge Morel",
+  "shortName": "Morel",
+  "position": "DM",
+  "goals": 3,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Estudiantes LP",
+  "clubs": [
+   "Estudiantes LP",
+   "Lanús"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Morel"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "jorge-nunez",
   "name": "Jorge Núñez",
   "shortName": "Núñez",
@@ -92214,6 +92805,31 @@
   }
  },
  {
+  "id": "juan-vieyra",
+  "name": "Juan Vieyra",
+  "shortName": "Vieyra",
+  "position": "LW",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "Newell's",
+   "Central Córdoba",
+   "Gimnasia (M)",
+   "Leones Rosario"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Juan_Vieyra"
+  }
+ },
+ {
   "id": "juan-vinaccia",
   "name": "Juan Vinaccia",
   "shortName": "Vinaccia",
@@ -92839,6 +93455,27 @@
   ]
  },
  {
+  "id": "leonel-gonzalez",
+  "name": "Leonel González",
+  "shortName": "González",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Estudiantes",
+  "clubs": [
+   "Estudiantes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Leonel_Gonz%C3%A1lez"
+  }
+ },
+ {
   "id": "leonel-pilipauskas",
   "name": "Leonel Pilipauskas",
   "shortName": "Pilipauskas",
@@ -93110,6 +93747,27 @@
   ]
  },
  {
+  "id": "lucas-souto",
+  "name": "Lucas Souto",
+  "shortName": "Souto",
+  "position": "RB",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Souto"
+  }
+ },
+ {
   "id": "lucas-varaldo",
   "name": "Lucas Varaldo",
   "shortName": "Varaldo",
@@ -93133,6 +93791,30 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/lucas-varaldo/leistungsdaten/spieler/718206"
   }
+ },
+ {
+  "id": "lucas-villarruel",
+  "name": "Lucas Villarruel",
+  "shortName": "Villarruel",
+  "position": "DM",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Gimnasia y Esgrima de Mendoza",
+  "clubs": [
+   "Gimnasia y Esgrima de Mendoza"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Villarruel"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "luciano-andrada",
@@ -93828,6 +94510,27 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "martin-demichelis",
+  "name": "Martín Demichelis",
+  "shortName": "Demichelis",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 2,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Demichelis"
+  }
  },
  {
   "id": "martin-posse",
@@ -94797,6 +95500,31 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "nicolas-linares",
+  "name": "Nicolás Linares",
+  "shortName": "Linares",
+  "position": "DM",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Instituto ACC",
+  "clubs": [
+   "Instituto ACC",
+   "Banfield",
+   "Central Córdoba",
+   "Gimnasia (M)",
+   "Aldosivi"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Linares"
+  }
  },
  {
   "id": "nicolas-medina",
@@ -95857,6 +96585,28 @@
   ]
  },
  {
+  "id": "santiago-ramos-mingo",
+  "name": "Santiago Ramos Mingo",
+  "shortName": "Ramos Mingo",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 0,
+  "cupGoals": 2,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia",
+   "Defensa"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Ramos_Mingo"
+  }
+ },
+ {
   "id": "santiago-villalba",
   "name": "Santiago Villalba",
   "shortName": "Villalba",
@@ -95899,6 +96649,28 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/sebastian-balsas/leistungsdaten/spieler/91750"
+  }
+ },
+ {
+  "id": "sebastian-boselli",
+  "name": "Sebastián Boselli",
+  "shortName": "Boselli",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 1,
+  "club": "Estudiantes LP",
+  "clubs": [
+   "Estudiantes LP",
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Boselli"
   }
  },
  {
@@ -96113,6 +96885,30 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/tiago-banega/leistungsdaten/spieler/744806"
   }
+ },
+ {
+  "id": "tiago-penalba",
+  "name": "Tiago Peñalba",
+  "shortName": "Peñalba",
+  "position": "CB",
+  "goals": 3,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Martín (Tucumán)",
+  "clubs": [
+   "San Martín (Tucumán)"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Tiago_Pe%C3%B1alba"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "tiago-serrago",
@@ -96448,6 +97244,27 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/walter-coyette/leistungsdaten/spieler/55165"
+  }
+ },
+ {
+  "id": "wilder-cartagena",
+  "name": "Wilder Cartagena",
+  "shortName": "Cartagena",
+  "position": "DM",
+  "goals": 3,
+  "leagueGoals": 1,
+  "cupGoals": 2,
+  "intlGoals": 0,
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Godoy Cruz"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Wilder_Cartagena"
   }
  },
  {
@@ -98595,6 +99412,30 @@
   }
  },
  {
+  "id": "damian-lemos",
+  "name": "Damián Lemos",
+  "shortName": "Lemos",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Agropecuario",
+  "clubs": [
+   "Agropecuario"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Dami%C3%A1n_Lemos"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "damian-lizio",
   "name": "Damián Lizio",
   "shortName": "Lizio",
@@ -99225,6 +100066,27 @@
   }
  },
  {
+  "id": "diego-sevillano",
+  "name": "Diego Sevillano",
+  "shortName": "Sevillano",
+  "position": "ST",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Godoy Cruz"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Diego_Sevillano"
+  }
+ },
+ {
   "id": "edgardo-boujon",
   "name": "Edgardo Boujón",
   "shortName": "Boujón",
@@ -99609,6 +100471,32 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/elias-zapata/leistungsdaten/spieler/634205"
   }
+ },
+ {
+  "id": "emanuel-coronel",
+  "name": "Emanuel Coronel",
+  "shortName": "Coronel",
+  "position": "RB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield",
+   "Brown (Adrogué)",
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Emanuel_Coronel"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "emanuel-maciel",
@@ -100678,6 +101566,28 @@
   ]
  },
  {
+  "id": "federico-redondo",
+  "name": "Federico Redondo",
+  "shortName": "Redondo",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors",
+   "Argentinos Jrs."
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Federico_Redondo"
+  }
+ },
+ {
   "id": "federico-sena",
   "name": "Federico Sena",
   "shortName": "Sena",
@@ -101084,6 +101994,30 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/francisco-romero/leistungsdaten/spieler/426533"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
+  "id": "francisco-sole",
+  "name": "Francisco Solé",
+  "shortName": "Solé",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Francisco_Sol%C3%A9"
   },
   "review": [
    "season-list-truncated"
@@ -101791,6 +102725,27 @@
   }
  },
  {
+  "id": "gaston-silva",
+  "name": "Gastón Silva",
+  "shortName": "Silva",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Silva"
+  }
+ },
+ {
   "id": "gaston-stang",
   "name": "Gastón Stang",
   "shortName": "Stang",
@@ -101920,6 +102875,30 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/german-ferreyra/leistungsdaten/spieler/294857"
+  }
+ },
+ {
+  "id": "german-guiffrey",
+  "name": "Germán Guiffrey",
+  "shortName": "Guiffrey",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP",
+   "Gimnasia",
+   "Tigre",
+   "Gimnasia (M)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Germ%C3%A1n_Guiffrey"
   }
  },
  {
@@ -102211,6 +103190,76 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/gonzalo-valdivia/leistungsdaten/spieler/987171"
   }
+ },
+ {
+  "id": "gonzalo-vivas",
+  "name": "Gonzalo Vivas",
+  "shortName": "Vivas",
+  "position": "RB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Gonzalo_Vivas"
+  }
+ },
+ {
+  "id": "gregorio-tanco",
+  "name": "Gregorio Tanco",
+  "shortName": "Tanco",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Gregorio_Tanco"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
+  "id": "guillermo-balzi",
+  "name": "Guillermo Balzi",
+  "shortName": "Balzi",
+  "position": "AM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys",
+   "Newell's"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Guillermo_Balzi"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "guillermo-franco",
@@ -102738,6 +103787,32 @@
   ]
  },
  {
+  "id": "ignacio-gariglio",
+  "name": "Ignacio Gariglio",
+  "shortName": "Gariglio",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Arsenal FC",
+  "clubs": [
+   "Arsenal FC",
+   "Arsenal Sarandí",
+   "Dep. Riestra"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ignacio_Gariglio"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "ignacio-huguenet",
   "name": "Ignacio Huguenet",
   "shortName": "Huguenet",
@@ -103128,6 +104203,31 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "jeremias-james",
+  "name": "Jeremías James",
+  "shortName": "James",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Riestra",
+  "clubs": [
+   "Riestra",
+   "San Lorenzo",
+   "Barracas C.",
+   "Dep. Riestra",
+   "Alvarado"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jerem%C3%ADas_James"
+  }
  },
  {
   "id": "jeremias-lucco",
@@ -103593,6 +104693,27 @@
   }
  },
  {
+  "id": "jorge-moreira",
+  "name": "Jorge Moreira",
+  "shortName": "Moreira",
+  "position": "RB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "River Plate",
+  "clubs": [
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Moreira"
+  }
+ },
+ {
   "id": "jorge-rodriguez",
   "name": "Jorge Rodríguez",
   "shortName": "Rodríguez",
@@ -103662,6 +104783,29 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jorge-serrano/leistungsdaten/spieler/69384"
+  }
+ },
+ {
+  "id": "jose-leguizamon",
+  "name": "José Leguizamón",
+  "shortName": "Leguizamón",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Rosario Central",
+  "clubs": [
+   "Rosario Central",
+   "Central Córdoba",
+   "Nacional"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Leguizam%C3%B3n"
   }
  },
  {
@@ -103880,6 +105024,28 @@
   ]
  },
  {
+  "id": "juan-carlos-gauto",
+  "name": "Juan Carlos Gauto",
+  "shortName": "Carlos Gauto",
+  "position": "RW",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "Platense"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Juan_Gauto"
+  }
+ },
+ {
   "id": "juan-casado",
   "name": "Juan Casado",
   "shortName": "Casado",
@@ -103955,6 +105121,27 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/juan-daniel-caceres/leistungsdaten/spieler/27450"
+  }
+ },
+ {
+  "id": "juan-esnaider",
+  "name": "Juan Esnáider",
+  "shortName": "Esnáider",
+  "position": "ST",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Juan_Eduardo_Esn%C3%A1ider"
   }
  },
  {
@@ -104141,6 +105328,29 @@
   }
  },
  {
+  "id": "julian-chicco",
+  "name": "Julián Chicco",
+  "shortName": "Chicco",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Patronato",
+  "clubs": [
+   "Patronato",
+   "Sarmiento Junin",
+   "Colon"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Chicco"
+  }
+ },
+ {
   "id": "julian-eseiza",
   "name": "Julián Eseiza",
   "shortName": "Eseiza",
@@ -104237,6 +105447,27 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "julio-caceres",
+  "name": "Julio Cáceres",
+  "shortName": "Cáceres",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Julio_C%C3%A9sar_C%C3%A1ceres"
+  }
  },
  {
   "id": "julio-moreyra",
@@ -104412,6 +105643,30 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/kevin-vazquez/leistungsdaten/spieler/1064181"
   }
+ },
+ {
+  "id": "laureano-rodriguez",
+  "name": "Laureano Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Laureano_Rodr%C3%ADguez"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "laureano-tello",
@@ -105229,6 +106484,27 @@
   ]
  },
  {
+  "id": "lucas-necul",
+  "name": "Lucas Necul",
+  "shortName": "Necul",
+  "position": "AM",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Arsenal FC",
+  "clubs": [
+   "Arsenal FC"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Necul"
+  }
+ },
+ {
   "id": "lucas-pruzzo",
   "name": "Lucas Pruzzo",
   "shortName": "Pruzzo",
@@ -105361,6 +106637,30 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/luciano-ortega/leistungsdaten/spieler/876895"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
+  "id": "luciano-pascual",
+  "name": "Luciano Pascual",
+  "shortName": "Pascual",
+  "position": "AM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Almirante Brown",
+  "clubs": [
+   "Almirante Brown"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Luciano_Pascual"
   },
   "review": [
    "season-list-truncated"
@@ -106254,6 +107554,28 @@
   ]
  },
  {
+  "id": "mateo-carabajal",
+  "name": "Mateo Carabajal",
+  "shortName": "Carabajal",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 0,
+  "cupGoals": 2,
+  "intlGoals": 0,
+  "club": "Arsenal FC",
+  "clubs": [
+   "Arsenal FC",
+   "Arsenal Sarandí"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mateo_Carabajal"
+  }
+ },
+ {
   "id": "mateo-diaz-chaves",
   "name": "Mateo Díaz Chaves",
   "shortName": "Díaz Chaves",
@@ -106678,6 +108000,29 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/matias-vera/leistungsdaten/spieler/368801"
+  }
+ },
+ {
+  "id": "matias-zaldivia",
+  "name": "Matías Zaldivia",
+  "shortName": "Zaldivia",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Arsenal FC",
+  "clubs": [
+   "Arsenal FC",
+   "Chacarita Jrs.",
+   "Arsenal Sarandí"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Zaldivia"
   }
  },
  {
@@ -108787,6 +110132,29 @@
   ]
  },
  {
+  "id": "rodrigo-marquez",
+  "name": "Rodrigo Márquez",
+  "shortName": "Márquez",
+  "position": "LW",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "Platense",
+   "Aldosivi"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Rodrigo_M%C3%A1rquez"
+  }
+ },
+ {
   "id": "roman-rodriguez",
   "name": "Román Rodríguez",
   "shortName": "Rodríguez",
@@ -108924,6 +110292,27 @@
   ]
  },
  {
+  "id": "santiago-hidalgo",
+  "name": "Santiago Hidalgo",
+  "shortName": "Hidalgo",
+  "position": "ST",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Hidalgo"
+  }
+ },
+ {
   "id": "santiago-jorge-kuhl",
   "name": "Santiago Jorge Kuhl",
   "shortName": "Jorge Kuhl",
@@ -108942,6 +110331,27 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/santiago-jorge-kuhl/leistungsdaten/spieler/32736"
+  }
+ },
+ {
+  "id": "santiago-montoya",
+  "name": "Santiago Montoya",
+  "shortName": "Montoya",
+  "position": "AM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "All Boys",
+  "clubs": [
+   "All Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Montoya"
   }
  },
  {
@@ -109439,6 +110849,30 @@
   }
  },
  {
+  "id": "siro-rosane",
+  "name": "Siro Rosané",
+  "shortName": "Rosané",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Barracas Central",
+   "Barracas C.",
+   "Estudiantes RC"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Siro_Rosan%C3%A9"
+  }
+ },
+ {
   "id": "stefano-callegari",
   "name": "Stefano Callegari",
   "shortName": "Callegari",
@@ -109648,6 +111082,27 @@
   ]
  },
  {
+  "id": "tomas-paschetta",
+  "name": "Tomás Paschetta",
+  "shortName": "Paschetta",
+  "position": "CB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Tom%C3%A1s_Paschetta"
+  }
+ },
+ {
   "id": "tomas-perez-serra",
   "name": "Tomás Pérez Serra",
   "shortName": "Pérez Serra",
@@ -109798,6 +111253,30 @@
   ]
  },
  {
+  "id": "valentin-larralde",
+  "name": "Valentín Larralde",
+  "shortName": "Larralde",
+  "position": "CM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "San Martín (Tucumán)",
+  "clubs": [
+   "San Martín (Tucumán)"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Valent%C3%ADn_Larralde"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "valentin-pereyra",
   "name": "Valentín Pereyra",
   "shortName": "Pereyra",
@@ -109820,6 +111299,27 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "vicente-pizarro",
+  "name": "Vicente Pizarro",
+  "shortName": "Pizarro",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Rosario Central",
+  "clubs": [
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Vicente_Pizarro"
+  }
  },
  {
   "id": "victor-beraldi",
@@ -109894,6 +111394,31 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "yeison-gordillo",
+  "name": "Yeison Gordillo",
+  "shortName": "Gordillo",
+  "position": "DM",
+  "goals": 2,
+  "leagueGoals": 0,
+  "cupGoals": 2,
+  "intlGoals": 0,
+  "club": "Unión (Santa Fe)",
+  "clubs": [
+   "Unión (Santa Fe)",
+   "San Lorenzo",
+   "Unión Santa Fe",
+   "Vélez Sarsfield",
+   "Barracas C."
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Yeison_Gordillo"
+  }
  },
  {
   "id": "yvo-calleros",
@@ -112564,27 +114089,6 @@
   }
  },
  {
-  "id": "cristian-rodriguez",
-  "name": "Cristian Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "LW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/cristian-rodriguez/leistungsdaten/spieler/33448"
-  }
- },
- {
   "id": "cristian-tassano",
   "name": "Cristian Tassano",
   "shortName": "Tassano",
@@ -112603,27 +114107,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/cristian-tassano/leistungsdaten/spieler/358738"
-  }
- },
- {
-  "id": "cristian-traverso",
-  "name": "Cristian Traverso",
-  "shortName": "Traverso",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/cristian-traverso/leistungsdaten/spieler/212843"
   }
  },
  {
@@ -112668,27 +114151,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/cristian-wernly/leistungsdaten/spieler/68578"
-  }
- },
- {
-  "id": "cristian-zapata",
-  "name": "Cristian Zapata",
-  "shortName": "Zapata",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/cristian-zapata/leistungsdaten/spieler/34344"
   }
  },
  {
@@ -112786,30 +114248,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/damian-gimenez/leistungsdaten/spieler/42859"
   }
- },
- {
-  "id": "damian-lemos",
-  "name": "Damián Lemos",
-  "shortName": "Lemos",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Agropecuario",
-  "clubs": [
-   "Agropecuario"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/damian-lemos/leistungsdaten/spieler/68557"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "damian-macaluso",
@@ -113638,27 +115076,6 @@
   }
  },
  {
-  "id": "diego-dorregaray",
-  "name": "Diego Dorregaray",
-  "shortName": "Dorregaray",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensores de Belgrano",
-  "clubs": [
-   "Defensores de Belgrano"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/diego-dorregaray/leistungsdaten/spieler/522868"
-  }
- },
- {
   "id": "diego-galeano",
   "name": "Diego Galeano",
   "shortName": "Galeano",
@@ -113879,27 +115296,6 @@
   ]
  },
  {
-  "id": "diego-sevillano",
-  "name": "Diego Sevillano",
-  "shortName": "Sevillano",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Godoy Cruz"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/diego-sevillano/leistungsdaten/spieler/217732"
-  }
- },
- {
   "id": "diego-sosa-74271",
   "name": "Diego Sosa",
   "shortName": "Sosa",
@@ -113993,27 +115389,6 @@
   ]
  },
  {
-  "id": "edgar-espindola",
-  "name": "Edgar Espíndola",
-  "shortName": "Espíndola",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/edgar-espindola/leistungsdaten/spieler/59528"
-  }
- },
- {
   "id": "edwin-movil",
   "name": "Edwin Móvil",
   "shortName": "Móvil",
@@ -114074,32 +115449,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/elias-ocampo/leistungsdaten/spieler/1225845"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
-  "id": "emanuel-coronel",
-  "name": "Emanuel Coronel",
-  "shortName": "Coronel",
-  "position": "RB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield",
-   "Brown (Adrogué)",
-   "Rosario Central"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/emanuel-coronel/leistungsdaten/spieler/565194"
   },
   "review": [
    "season-list-truncated"
@@ -114374,32 +115723,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/emmanuel-barboza/leistungsdaten/spieler/423637"
-  }
- },
- {
-  "id": "emmanuel-olivera",
-  "name": "Emmanuel Olivera",
-  "shortName": "Olivera",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Colón",
-  "clubs": [
-   "Colón",
-   "Vélez Sarsfield",
-   "Almirante Brown",
-   "Boca Unidos",
-   "Colon",
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/emmanuel-olivera/leistungsdaten/spieler/105845"
   }
  },
  {
@@ -115095,31 +116418,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "ezequiel-videla",
-  "name": "Ezequiel Videla",
-  "shortName": "Videla",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Instituto ACC",
-  "clubs": [
-   "Instituto ACC",
-   "San Martín (SJ)",
-   "Colon",
-   "Racing Club",
-   "Aldosivi"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ezequiel-videla/leistungsdaten/spieler/125889"
-  }
  },
  {
   "id": "fabian-garfagnoli",
@@ -115933,28 +117231,6 @@
   ]
  },
  {
-  "id": "federico-redondo",
-  "name": "Federico Redondo",
-  "shortName": "Redondo",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors",
-   "Argentinos Jrs."
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/federico-redondo/leistungsdaten/spieler/909758"
-  }
- },
- {
   "id": "federico-santander",
   "name": "Federico Santander",
   "shortName": "Santander",
@@ -116643,52 +117919,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/francisco-scarpeccio/leistungsdaten/spieler/1329650"
-  }
- },
- {
-  "id": "francisco-sole",
-  "name": "Francisco Solé",
-  "shortName": "Solé",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almagro",
-  "clubs": [
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/francisco-sole/leistungsdaten/spieler/542137"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
-  "id": "francisco-vazzoler",
-  "name": "Francisco Vazzoler",
-  "shortName": "Vazzoler",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Unión (Santa Fe)",
-  "clubs": [
-   "Unión (Santa Fe)",
-   "Chacarita Juniors"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2000s–2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/francisco-vazzoler/leistungsdaten/spieler/147504"
   }
  },
  {
@@ -117459,30 +118689,6 @@
   ]
  },
  {
-  "id": "gaston-blanc",
-  "name": "Gastón Blanc",
-  "shortName": "Blanc",
-  "position": "CM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almagro",
-  "clubs": [
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/gaston-blanc/leistungsdaten/spieler/840869"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "gaston-bojanich",
   "name": "Gastón Bojanich",
   "shortName": "Bojanich",
@@ -117628,27 +118834,6 @@
   }
  },
  {
-  "id": "gaston-silva",
-  "name": "Gastón Silva",
-  "shortName": "Silva",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/gaston-silva/leistungsdaten/spieler/189452"
-  }
- },
- {
   "id": "gerardo-gomez",
   "name": "Gerardo Gómez",
   "shortName": "Gómez",
@@ -117776,30 +118961,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/german-gordillo/leistungsdaten/spieler/135083"
-  }
- },
- {
-  "id": "german-guiffrey",
-  "name": "Germán Guiffrey",
-  "shortName": "Guiffrey",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP",
-   "Gimnasia",
-   "Tigre",
-   "Gimnasia (M)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/german-guiffrey/leistungsdaten/spieler/610616"
   }
  },
  {
@@ -118495,51 +119656,6 @@
   }
  },
  {
-  "id": "gonzalo-vivas",
-  "name": "Gonzalo Vivas",
-  "shortName": "Vivas",
-  "position": "RB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Nueva Chicago",
-  "clubs": [
-   "Nueva Chicago"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/gonzalo-vivas/leistungsdaten/spieler/267949"
-  }
- },
- {
-  "id": "gregorio-tanco",
-  "name": "Gregorio Tanco",
-  "shortName": "Tanco",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/gregorio-tanco/leistungsdaten/spieler/872170"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "grenddy-perozo",
   "name": "Grenddy Perozo",
   "shortName": "Perozo",
@@ -118624,31 +119740,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/guillermo-ayala/leistungsdaten/spieler/214366"
   }
- },
- {
-  "id": "guillermo-balzi",
-  "name": "Guillermo Balzi",
-  "shortName": "Balzi",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys",
-   "Newell's"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/guillermo-balzi/leistungsdaten/spieler/896234"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "guillermo-enrique",
@@ -119564,32 +120655,6 @@
   }
  },
  {
-  "id": "ignacio-gariglio",
-  "name": "Ignacio Gariglio",
-  "shortName": "Gariglio",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal FC",
-  "clubs": [
-   "Arsenal FC",
-   "Arsenal Sarandí",
-   "Dep. Riestra"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ignacio-gariglio/leistungsdaten/spieler/830848"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "ignacio-gonzalez",
   "name": "Ignacio González",
   "shortName": "González",
@@ -120053,31 +121118,6 @@
   ]
  },
  {
-  "id": "jeremias-james",
-  "name": "Jeremías James",
-  "shortName": "James",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Riestra",
-  "clubs": [
-   "Riestra",
-   "San Lorenzo",
-   "Barracas C.",
-   "Dep. Riestra",
-   "Alvarado"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jeremias-james/leistungsdaten/spieler/986408"
-  }
- },
- {
   "id": "jeremias-merlo",
   "name": "Jeremías Merlo",
   "shortName": "Merlo",
@@ -120338,27 +121378,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "joaquin-novillo",
-  "name": "Joaquín Novillo",
-  "shortName": "Novillo",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Belgrano",
-  "clubs": [
-   "Belgrano"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/joaquin-novillo/leistungsdaten/spieler/426523"
-  }
  },
  {
   "id": "joaquin-pontarelli",
@@ -120688,52 +121707,6 @@
   ]
  },
  {
-  "id": "jorge-moreira",
-  "name": "Jorge Moreira",
-  "shortName": "Moreira",
-  "position": "RB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "River Plate",
-  "clubs": [
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jorge-moreira/leistungsdaten/spieler/139439"
-  }
- },
- {
-  "id": "jorge-morel",
-  "name": "Jorge Morel",
-  "shortName": "Morel",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Estudiantes LP",
-  "clubs": [
-   "Estudiantes LP",
-   "Lanús"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jorge-morel/leistungsdaten/spieler/401729"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "jorge-ribolzi",
   "name": "Jorge Ribolzi",
   "shortName": "Ribolzi",
@@ -120790,29 +121763,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "jose-leguizamon",
-  "name": "José Leguizamón",
-  "shortName": "Leguizamón",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Rosario Central",
-  "clubs": [
-   "Rosario Central",
-   "Central Córdoba",
-   "Nacional"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jose-leguizamon/leistungsdaten/spieler/389552"
-  }
  },
  {
   "id": "jose-lincopan",
@@ -121080,28 +122030,6 @@
   }
  },
  {
-  "id": "juan-carlos-gauto",
-  "name": "Juan Carlos Gauto",
-  "shortName": "Carlos Gauto",
-  "position": "RW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Huracán",
-  "clubs": [
-   "Huracán",
-   "Platense"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-carlos-gauto/leistungsdaten/spieler/847283"
-  }
- },
- {
   "id": "juan-carlos-marino",
   "name": "Juan Carlos Mariño",
   "shortName": "Carlos Mariño",
@@ -121186,27 +122114,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/juan-cruz-policella/leistungsdaten/spieler/1264647"
-  }
- },
- {
-  "id": "juan-esnaider",
-  "name": "Juan Esnáider",
-  "shortName": "Esnáider",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-esnaider/leistungsdaten/spieler/3856"
   }
  },
  {
@@ -121875,31 +122782,6 @@
   }
  },
  {
-  "id": "juan-vieyra",
-  "name": "Juan Vieyra",
-  "shortName": "Vieyra",
-  "position": "LW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Huracán",
-  "clubs": [
-   "Huracán",
-   "Newell's",
-   "Central Córdoba",
-   "Gimnasia (M)",
-   "Leones Rosario"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-vieyra/leistungsdaten/spieler/259074"
-  }
- },
- {
   "id": "juan-zuleta",
   "name": "Juan Zuleta",
   "shortName": "Zuleta",
@@ -121928,29 +122810,6 @@
   "review": [
    "seasons-before-2008-not-counted"
   ]
- },
- {
-  "id": "julian-chicco",
-  "name": "Julián Chicco",
-  "shortName": "Chicco",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Patronato",
-  "clubs": [
-   "Patronato",
-   "Sarmiento Junin",
-   "Colon"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/julian-chicco/leistungsdaten/spieler/401583"
-  }
  },
  {
   "id": "julian-ford",
@@ -122153,27 +123012,6 @@
   }
  },
  {
-  "id": "julio-caceres",
-  "name": "Julio Cáceres",
-  "shortName": "Cáceres",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/julio-caceres/leistungsdaten/spieler/18733"
-  }
- },
- {
   "id": "julio-gonzalez",
   "name": "Julio González",
   "shortName": "González",
@@ -122324,30 +123162,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/kevin-mercado/leistungsdaten/spieler/189482"
   }
- },
- {
-  "id": "laureano-rodriguez",
-  "name": "Laureano Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almagro",
-  "clubs": [
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/laureano-rodriguez/leistungsdaten/spieler/1118619"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "lautaro-arregui",
@@ -123218,27 +124032,6 @@
   }
  },
  {
-  "id": "leonel-gonzalez",
-  "name": "Leonel González",
-  "shortName": "González",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Estudiantes",
-  "clubs": [
-   "Estudiantes"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/leonel-gonzalez/leistungsdaten/spieler/302416"
-  }
- },
- {
   "id": "leonel-martens",
   "name": "Leonel Martens",
   "shortName": "Martens",
@@ -123894,27 +124687,6 @@
   ]
  },
  {
-  "id": "lucas-lezcano",
-  "name": "Lucas Lezcano",
-  "shortName": "Lezcano",
-  "position": "RW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Chacarita Juniors",
-  "clubs": [
-   "Chacarita Juniors"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/lucas-lezcano/leistungsdaten/spieler/563720"
-  }
- },
- {
   "id": "lucas-lopez",
   "name": "Lucas López",
   "shortName": "López",
@@ -123985,27 +124757,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "lucas-necul",
-  "name": "Lucas Necul",
-  "shortName": "Necul",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal FC",
-  "clubs": [
-   "Arsenal FC"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/lucas-necul/leistungsdaten/spieler/578761"
-  }
  },
  {
   "id": "lucas-orban",
@@ -124149,27 +124900,6 @@
   ]
  },
  {
-  "id": "lucas-souto",
-  "name": "Lucas Souto",
-  "shortName": "Souto",
-  "position": "RB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/lucas-souto/leistungsdaten/spieler/699689"
-  }
- },
- {
   "id": "lucas-trecarichi",
   "name": "Lucas Trecarichi",
   "shortName": "Trecarichi",
@@ -124210,30 +124940,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/lucas-vera-piris/leistungsdaten/spieler/189459"
   }
- },
- {
-  "id": "lucas-villarruel",
-  "name": "Lucas Villarruel",
-  "shortName": "Villarruel",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia y Esgrima de Mendoza",
-  "clubs": [
-   "Gimnasia y Esgrima de Mendoza"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/lucas-villarruel/leistungsdaten/spieler/268499"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "luciano-balbi",
@@ -124323,30 +125029,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/luciano-maidana/leistungsdaten/spieler/1108127"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
-  "id": "luciano-pascual",
-  "name": "Luciano Pascual",
-  "shortName": "Pascual",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almirante Brown",
-  "clubs": [
-   "Almirante Brown"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/luciano-pascual/leistungsdaten/spieler/1146840"
   },
   "review": [
    "season-list-truncated"
@@ -124723,27 +125405,6 @@
   }
  },
  {
-  "id": "luis-peralta",
-  "name": "Luis Peralta",
-  "shortName": "Peralta",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/luis-peralta/leistungsdaten/spieler/77219"
-  }
- },
- {
   "id": "luis-vallenilla",
   "name": "Luis Vallenilla",
   "shortName": "Vallenilla",
@@ -125099,28 +125760,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/marcelo-perugini/leistungsdaten/spieler/54367"
-  }
- },
- {
-  "id": "marcelo-weigandt",
-  "name": "Marcelo Weigandt",
-  "shortName": "Weigandt",
-  "position": "RB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors",
-   "Gimnasia"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/marcelo-weigandt/leistungsdaten/spieler/491690"
   }
  },
  {
@@ -125721,27 +126360,6 @@
   }
  },
  {
-  "id": "martin-demichelis",
-  "name": "Martín Demichelis",
-  "shortName": "Demichelis",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "River Plate",
-  "clubs": [
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/martin-demichelis/leistungsdaten/spieler/2963"
-  }
- },
- {
   "id": "martin-ferreyra",
   "name": "Martín Ferreyra",
   "shortName": "Ferreyra",
@@ -125945,28 +126563,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mateo-caceres/leistungsdaten/spieler/907835"
-  }
- },
- {
-  "id": "mateo-carabajal",
-  "name": "Mateo Carabajal",
-  "shortName": "Carabajal",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal FC",
-  "clubs": [
-   "Arsenal FC",
-   "Arsenal Sarandí"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/mateo-carabajal/leistungsdaten/spieler/578757"
   }
  },
  {
@@ -126566,30 +127162,6 @@
   }
  },
  {
-  "id": "matias-mansilla",
-  "name": "Matías Mansilla",
-  "shortName": "Mansilla",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Alvarado",
-  "clubs": [
-   "Alvarado"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/matias-mansilla/leistungsdaten/spieler/471656"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "matias-miranda",
   "name": "Matías Miranda",
   "shortName": "Miranda",
@@ -126698,27 +127270,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/matias-moya/leistungsdaten/spieler/476616"
-  }
- },
- {
-  "id": "matias-pardo",
-  "name": "Matías Pardo",
-  "shortName": "Pardo",
-  "position": "RW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Morón",
-  "clubs": [
-   "Morón"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/matias-pardo/leistungsdaten/spieler/537093"
   }
  },
  {
@@ -126975,29 +127526,6 @@
   ]
  },
  {
-  "id": "matias-zaldivia",
-  "name": "Matías Zaldivia",
-  "shortName": "Zaldivia",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal FC",
-  "clubs": [
-   "Arsenal FC",
-   "Chacarita Jrs.",
-   "Arsenal Sarandí"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/matias-zaldivia/leistungsdaten/spieler/168259"
-  }
- },
- {
   "id": "matteo-trombini",
   "name": "Matteo Trombini",
   "shortName": "Trombini",
@@ -127125,27 +127653,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mauricio-victorino/leistungsdaten/spieler/44935"
-  }
- },
- {
-  "id": "mauro-gerk",
-  "name": "Mauro Gerk",
-  "shortName": "Gerk",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/mauro-gerk/leistungsdaten/spieler/66837"
   }
  },
  {
@@ -127747,27 +128254,6 @@
   }
  },
  {
-  "id": "nacho-gonzalez",
-  "name": "Nacho González",
-  "shortName": "González",
-  "position": "GK",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Racing Club",
-  "clubs": [
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/nacho-gonzalez/leistungsdaten/spieler/45316"
-  }
- },
- {
   "id": "nahuel-casasola",
   "name": "Nahuel Casasola",
   "shortName": "Casasola",
@@ -128194,40 +128680,6 @@
   }
  },
  {
-  "id": "nicolas-agorreca",
-  "name": "Nicolás Agorreca",
-  "shortName": "Agorreca",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Ferro Carril Oeste",
-  "clubs": [
-   "Ferro Carril Oeste",
-   "Quilmes",
-   "Ferro",
-   "San Martín (M)",
-   "Rivadavia",
-   "Flandria",
-   "Tristán Suárez",
-   "San Miguel",
-   "Ituzaingó",
-   "Dep. Maipú",
-   "Mitre (SdE)",
-   "Cipolletti",
-   "Sacachispas",
-   "Villa Dálmine"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/nicolas-agorreca/leistungsdaten/spieler/144226"
-  }
- },
- {
   "id": "nicolas-batista",
   "name": "Nicolás Batista",
   "shortName": "Batista",
@@ -128246,29 +128698,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/nicolas-batista/leistungsdaten/spieler/150561"
-  }
- },
- {
-  "id": "nicolas-capraro",
-  "name": "Nicolás Capraro",
-  "shortName": "Capraro",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Barracas Central",
-  "clubs": [
-   "Barracas Central",
-   "Olimpo",
-   "Barracas C."
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/nicolas-capraro/leistungsdaten/spieler/992818"
   }
  },
  {
@@ -128455,31 +128884,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "nicolas-linares",
-  "name": "Nicolás Linares",
-  "shortName": "Linares",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Instituto ACC",
-  "clubs": [
-   "Instituto ACC",
-   "Banfield",
-   "Central Córdoba",
-   "Gimnasia (M)",
-   "Aldosivi"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/nicolas-linares/leistungsdaten/spieler/534616"
-  }
  },
  {
   "id": "nicolas-lopez-macri",
@@ -129114,39 +129518,6 @@
   ]
  },
  {
-  "id": "pablo-cantero",
-  "name": "Pablo Cantero",
-  "shortName": "Cantero",
-  "position": "CM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (Tucumán)",
-  "clubs": [
-   "San Martín (Tucumán)",
-   "Central Córdoba",
-   "Colon",
-   "Estudiantes LP",
-   "Gimnasia (CdU)",
-   "Arsenal Sarandí",
-   "Def. Belgrano",
-   "San Martín (T)",
-   "San Martín (SJ)",
-   "Tiro Federal R"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/pablo-cantero/leistungsdaten/spieler/69366"
-  },
-  "review": [
-   "seasons-before-2008-not-counted"
-  ]
- },
- {
   "id": "pablo-cortizo",
   "name": "Pablo Cortizo",
   "shortName": "Cortizo",
@@ -129549,30 +129920,6 @@
   }
  },
  {
-  "id": "patricio-hernandez",
-  "name": "Patricio Hernández",
-  "shortName": "Hernández",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/patricio-hernandez/leistungsdaten/spieler/135811"
-  },
-  "review": [
-   "seasons-before-1990-not-counted"
-  ]
- },
- {
   "id": "patricio-ostachuk",
   "name": "Patricio Ostachuk",
   "shortName": "Ostachuk",
@@ -129910,27 +130257,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/raul-albornoz/leistungsdaten/spieler/105887"
-  }
- },
- {
-  "id": "raul-cascini",
-  "name": "Raúl Cascini",
-  "shortName": "Cascini",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/raul-cascini/leistungsdaten/spieler/19957"
   }
  },
  {
@@ -130813,29 +131139,6 @@
   ]
  },
  {
-  "id": "rodrigo-marquez",
-  "name": "Rodrigo Márquez",
-  "shortName": "Márquez",
-  "position": "LW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "Platense",
-   "Aldosivi"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/rodrigo-marquez/leistungsdaten/spieler/909735"
-  }
- },
- {
   "id": "rodrigo-melo",
   "name": "Rodrigo Melo",
   "shortName": "Melo",
@@ -131474,27 +131777,6 @@
   }
  },
  {
-  "id": "santiago-hidalgo",
-  "name": "Santiago Hidalgo",
-  "shortName": "Hidalgo",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/santiago-hidalgo/leistungsdaten/spieler/989574"
-  }
- },
- {
   "id": "santiago-izaguirre",
   "name": "Santiago Izaguirre",
   "shortName": "Izaguirre",
@@ -131587,27 +131869,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "santiago-montoya",
-  "name": "Santiago Montoya",
-  "shortName": "Montoya",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "All Boys",
-  "clubs": [
-   "All Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/santiago-montoya/leistungsdaten/spieler/237468"
-  }
  },
  {
   "id": "santiago-morero",
@@ -131769,28 +132030,6 @@
   }
  },
  {
-  "id": "santiago-ramos-mingo",
-  "name": "Santiago Ramos Mingo",
-  "shortName": "Ramos Mingo",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia",
-   "Defensa"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/santiago-ramos-mingo/leistungsdaten/spieler/688593"
-  }
- },
- {
   "id": "santiago-rosa",
   "name": "Santiago Rosa",
   "shortName": "Rosa",
@@ -131946,28 +132185,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/saul-salcedo/leistungsdaten/spieler/353035"
-  }
- },
- {
-  "id": "sebastian-boselli",
-  "name": "Sebastián Boselli",
-  "shortName": "Boselli",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Estudiantes LP",
-  "clubs": [
-   "Estudiantes LP",
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/sebastian-boselli/leistungsdaten/spieler/898352"
   }
  },
  {
@@ -132499,30 +132716,6 @@
   }
  },
  {
-  "id": "siro-rosane",
-  "name": "Siro Rosané",
-  "shortName": "Rosané",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo",
-   "Barracas Central",
-   "Barracas C.",
-   "Estudiantes RC"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/siro-rosane/leistungsdaten/spieler/836253"
-  }
- },
- {
   "id": "stefano-moreyra",
   "name": "Stefano Moreyra",
   "shortName": "Moreyra",
@@ -132696,30 +132889,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/tiago-esidin/leistungsdaten/spieler/1277812"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
-  "id": "tiago-penalba",
-  "name": "Tiago Peñalba",
-  "shortName": "Peñalba",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (Tucumán)",
-  "clubs": [
-   "San Martín (Tucumán)"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/tiago-penalba/leistungsdaten/spieler/1114998"
   },
   "review": [
    "season-list-truncated"
@@ -132973,27 +133142,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/tomas-palacios/leistungsdaten/spieler/993645"
-  }
- },
- {
-  "id": "tomas-paschetta",
-  "name": "Tomás Paschetta",
-  "shortName": "Paschetta",
-  "position": "CB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Nueva Chicago",
-  "clubs": [
-   "Nueva Chicago"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/tomas-paschetta/leistungsdaten/spieler/381320"
   }
  },
  {
@@ -133295,30 +133443,6 @@
   ]
  },
  {
-  "id": "valentin-larralde",
-  "name": "Valentín Larralde",
-  "shortName": "Larralde",
-  "position": "CM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (Tucumán)",
-  "clubs": [
-   "San Martín (Tucumán)"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/valentin-larralde/leistungsdaten/spieler/814967"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "valentin-rodriguez",
   "name": "Valentín Rodríguez",
   "shortName": "Rodríguez",
@@ -133459,27 +133583,6 @@
   "review": [
    "seasons-before-2008-not-counted"
   ]
- },
- {
-  "id": "vicente-pizarro",
-  "name": "Vicente Pizarro",
-  "shortName": "Pizarro",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Rosario Central",
-  "clubs": [
-   "Rosario Central"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/vicente-pizarro/leistungsdaten/spieler/662740"
-  }
  },
  {
   "id": "vicente-principiano",
@@ -133653,27 +133756,6 @@
   ]
  },
  {
-  "id": "wilder-cartagena",
-  "name": "Wilder Cartagena",
-  "shortName": "Cartagena",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Godoy Cruz"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/wilder-cartagena/leistungsdaten/spieler/224669"
-  }
- },
- {
   "id": "williams-peralta",
   "name": "Williams Peralta",
   "shortName": "Peralta",
@@ -133756,31 +133838,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/yeiler-goez/leistungsdaten/spieler/585358"
-  }
- },
- {
-  "id": "yeison-gordillo",
-  "name": "Yeison Gordillo",
-  "shortName": "Gordillo",
-  "position": "DM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Unión (Santa Fe)",
-  "clubs": [
-   "Unión (Santa Fe)",
-   "San Lorenzo",
-   "Unión Santa Fe",
-   "Vélez Sarsfield",
-   "Barracas C."
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/yeison-gordillo/leistungsdaten/spieler/147670"
   }
  },
  {
@@ -134290,27 +134347,6 @@
   ]
  },
  {
-  "id": "fernando-monetti",
-  "name": "Fernando Monetti",
-  "shortName": "Monetti",
-  "position": "GK",
-  "goals": 0,
-  "leagueGoals": 0,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/fernando-monetti/leistungsdaten/spieler/69815"
-  }
- },
- {
   "id": "fernando-otarola",
   "name": "Fernando Otárola",
   "shortName": "Otárola",
@@ -134423,7 +134459,7 @@
    "Boca Juniors"
   ],
   "division": "Primera",
-  "scope": "Arquero: sin goles oficiales registrados",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1960s–1980s",
   "source": {
    "name": "Wikipedia — Hugo Gatti (estadísticas por club: partidos, goles recibidos y vallas invictas)",
@@ -134620,27 +134656,6 @@
    "seasons-before-2008-not-counted",
    "season-list-truncated"
   ]
- },
- {
-  "id": "juan-musso",
-  "name": "Juan Musso",
-  "shortName": "Musso",
-  "position": "GK",
-  "goals": 0,
-  "leagueGoals": 0,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Racing Club",
-  "clubs": [
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-musso/leistungsdaten/spieler/242359"
-  }
  },
  {
   "id": "juan-ojeda",
@@ -135394,7 +135409,7 @@
    "Vélez Sarsfield"
   ],
   "division": "Primera",
-  "scope": "Arquero: sin goles oficiales registrados",
+  "scope": "Liga y copas con clubes argentinos",
   "era": "1960s–1980s",
   "source": {
    "name": "Wikipedia — Ubaldo Fillol (estadísticas por club: partidos, goles recibidos y vallas invictas)",

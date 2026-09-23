@@ -3,7 +3,7 @@ import { TARGET } from '../lib/scoring'
 import type { Formation, Lineup } from '../lib/types'
 import { CafecitoButton } from './Cafecito'
 import { FootballPitch } from './FootballPitch'
-import { OffsideFlag, RedCard, Trophy } from './Illustrations'
+import { BallOverBar, EmptyTank, Trophy } from './Illustrations'
 
 const COLORS = ['#75aadb', '#ffffff', '#f6b40e']
 
@@ -126,25 +126,25 @@ export function LostScreen({
   onRestart: () => void
   onClose: () => void
 }) {
-  const offside = overBy > 0
+  const over = overBy > 0
   return (
     <EndShell label="Perdiste" tone="lose">
-      {offside ? (
-        <OffsideFlag className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.35)]" />
+      {over ? (
+        <BallOverBar className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.35)]" />
       ) : (
-        <RedCard className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_77_61/0.4)]" />
+        <EmptyTank className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.3)]" />
       )}
       <p className="mt-2 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Perdiste</p>
-      <h2 className="font-display mt-1 text-5xl leading-none tracking-wide">
-        {offside ? '¡OFFSIDE!' : '¡ROJA DIRECTA!'}
+      <h2 className="font-display mt-1 text-[2.6rem] leading-none tracking-wide">
+        {over ? '¡TE PASASTE DE ROSCA!' : '¡NO TE DIO LA NAFTA!'}
       </h2>
       <p className="font-display tabular glow-bust mt-4 text-6xl leading-none text-bust">
         {total} <span className="text-2xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>
       <p className="mt-3 max-w-xs text-sm text-chalk-dim">
-        {offside
-          ? `Te pasaste por ${overBy} goles y no te quedan cambios para corregir.`
-          : 'Te quedaste sin cambios y con este equipo ya no se llega a 930.'}
+        {over
+          ? `La mandaste a la tribuna: ${overBy} goles de más y sin cambios para corregir.`
+          : 'Te quedaste sin cambios y con este equipo ya no llegás a 930.'}
       </p>
       <div className="mt-7 flex w-full flex-col gap-3">
         <button

@@ -28,35 +28,43 @@ export function Trophy({ className = '' }: { className?: string }) {
   )
 }
 
-/** Linesman flag raised: you went over 930. */
-export function OffsideFlag({ className = '' }: { className?: string }) {
+/** Ball flying over the crossbar: you went over 930. */
+export function BallOverBar({ className = '' }: { className?: string }) {
   return (
     <svg viewBox="0 0 160 180" className={className} aria-hidden="true">
-      <rect x="44" y="20" width="7" height="150" rx="3.5" fill="#f7f4ec" />
-      <rect x="40" y="150" width="15" height="24" rx="6" fill="#a9bcd3" />
-      <g className="flag-wave">
-        <path d="M51 24h86v62H51z" fill="#ff6b5e" />
-        <path d="M51 24h43v31H51zM94 55h43v31H94z" fill="#f6b40e" />
-        <path d="M51 24h86v62H51z" fill="none" stroke="#0a1626" strokeOpacity="0.25" strokeWidth="2" />
+      {/* goal */}
+      <path d="M22 170V96h116v74" fill="none" stroke="#f7f4ec" strokeWidth="7" strokeLinejoin="round" />
+      <path d="M30 104h100M30 122h100M30 140h100M30 158h100M48 100v70M66 100v70M84 100v70M102 100v70M120 100v70" stroke="#f7f4ec" strokeOpacity="0.18" strokeWidth="2" />
+      {/* trajectory */}
+      <path d="M40 150C60 90 86 60 116 34" fill="none" stroke="#ff6b5e" strokeWidth="3" strokeDasharray="4 7" strokeLinecap="round" />
+      <g className="bob" transform="translate(124 28)">
+        <circle r="17" fill="#f7f4ec" />
+        <path d="M0-7l6.7 4.9-2.6 7.9h-8.2l-2.6-7.9z" fill="#0a1626" />
+        <path d="M0-17v10M16 -5l-9 2M10 14l-6-9M-10 14l6-9M-16-5l9 2" stroke="#0a1626" strokeWidth="1.6" />
       </g>
     </svg>
   )
 }
 
-/** Red card held up, with a whistle: out of changes. */
-export function RedCard({ className = '' }: { className?: string }) {
+/** Fuel gauge on empty: 930 can no longer be reached. */
+export function EmptyTank({ className = '' }: { className?: string }) {
   return (
     <svg viewBox="0 0 160 180" className={className} aria-hidden="true">
-      <g transform="rotate(-10 80 80)">
-        <rect x="42" y="14" width="76" height="108" rx="10" fill="#ff4d3d" />
-        <rect x="42" y="14" width="76" height="108" rx="10" fill="none" stroke="#fff" strokeOpacity="0.35" strokeWidth="3" />
-        <path d="M52 24h24" stroke="#fff" strokeOpacity="0.5" strokeWidth="6" strokeLinecap="round" />
+      <path d="M20 118a60 60 0 0 1 120 0" fill="none" stroke="#1a3252" strokeWidth="16" strokeLinecap="round" />
+      <path d="M20 118a60 60 0 0 1 22-46" fill="none" stroke="#ff6b5e" strokeWidth="16" strokeLinecap="round" />
+      <path d="M118 72a60 60 0 0 1 22 46" fill="none" stroke="#75aadb" strokeWidth="16" strokeLinecap="round" />
+      <text x="22" y="148" fontFamily="Anton, Impact, sans-serif" fontSize="20" fill="#ff6b5e">E</text>
+      <text x="128" y="148" fontFamily="Anton, Impact, sans-serif" fontSize="20" fill="#75aadb">F</text>
+      {/* needle resting on empty */}
+      <g transform="rotate(-62 80 118)">
+        <path d="M78 118L80 60l2 58z" fill="#f7f4ec" />
       </g>
-      <g transform="translate(58 128)">
-        <path d="M0 18a20 20 0 1 0 40 0 20 20 0 0 0-40 0z" fill="#a9bcd3" />
-        <rect x="30" y="4" width="40" height="16" rx="6" fill="#a9bcd3" />
-        <circle cx="20" cy="18" r="7" fill="#0a1626" />
-        <path d="M70 12h14" stroke="#75aadb" strokeWidth="4" strokeLinecap="round" />
+      <circle cx="80" cy="118" r="9" fill="#f7f4ec" />
+      {/* pump icon */}
+      <g transform="translate(66 132)" fill="#a9bcd3">
+        <rect width="18" height="26" rx="3" />
+        <rect x="3" y="4" width="12" height="7" rx="1.5" fill="#0a1626" />
+        <path d="M18 8h5v14a3 3 0 0 1-6 0v-4" fill="none" stroke="#a9bcd3" strokeWidth="2.5" />
       </g>
     </svg>
   )

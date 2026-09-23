@@ -18,7 +18,12 @@ async function raw(title) {
     const url = `https://es.wikipedia.org/w/index.php?title=${encodeURIComponent(title.replace(/ /g, '_'))}&action=raw`
     let res
     for (let wait = 2000; ; wait *= 2) {
-      res = await fetch(url, { headers: { 'User-Agent': UA } })
+      try {
+        res = await fetch(url, { headers: { 'User-Agent': UA } })
+      } catch {
+        // dropped connection: treat like throttling
+        res = { status: 503, ok: false }
+      }
       // throttling shows up as 429, 403 or 5xx
       if (!(res.status === 429 || res.status === 403 || res.status >= 500) || wait > 64000) break
       await sleep(wait)

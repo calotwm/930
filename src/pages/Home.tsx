@@ -75,6 +75,9 @@ export function Home() {
             overBy={game.overBy}
             status={game.status}
             possible={game.possible}
+            changesLeft={game.changesLeft}
+            windowsLeft={game.windowsLeft}
+            windowOpen={game.windowOpen}
           />
         </section>
 
@@ -106,6 +109,11 @@ export function Home() {
               current={game.lineup[slot.id] ?? null}
               usedIds={usedPlayerIds(game.lineup)}
               onPick={pick}
+              changeHint={
+                game.canChange
+                  ? `cambiarlo usa 1 de ${game.changesLeft}${game.windowOpen ? '' : ` y abre ventana (${game.windowsLeft} de 3)`}`
+                  : null
+              }
               onRemove={() => {
                 game.remove(slot.id)
                 close()
@@ -125,12 +133,13 @@ export function Home() {
           />
         )}
 
-        {(game.status === 'over' || game.fellShort) && dismissedMove !== moveKey && (
+        {(game.status === 'over' || game.fellShort || game.lost) && dismissedMove !== moveKey && (
           <LostScreen
             total={game.total}
             overBy={game.overBy}
             onRestart={restart}
             onClose={() => setDismissedMove(moveKey)}
+            canFix={game.canChange}
           />
         )}
       </div>

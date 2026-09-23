@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **4922** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5431** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -16,10 +16,11 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Tablas de Wikipedia (8: Primera, Primera, River Plate, San Lorenzo, Huracán, Tigre, Racing Club, Talleres): 349 filas válidas, 80 jugadores agregados, 4 filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: 1 (Andrés Silvera: 44 (un club) → 107 (Primera, carrera)). Diferencias de 5+ goles con la tabla de Primera: 10 (ver abajo).
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 3.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
-- Fichas de jugadores (Wikipedia): 450 con tabla de estadísticas; 383 totales subidos a los goles con clubes argentinos de la ficha, 13 sin usar porque ninguna ficha (o más de una) coincide por club, 9 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Solo Ascenso (B Metro, C, D y Federal A, copias de Internet Archive): 26 torneos, 891 jugadores; 138 totales sumados, 509 jugadores de ascenso agregados, 244 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
+- Fichas de jugadores (Wikipedia): 807 con tabla de estadísticas; 629 totales subidos a los goles con clubes argentinos de la ficha, 47 sin usar porque ninguna ficha (o más de una) coincide por club, 20 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
 - Primera: 3291 · Primera Nacional: 1631
-- Por posición: GK 88 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 1390
-- Marcados para revisión: 1923
+- Por posición: GK 88 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 1899
+- Marcados para revisión: 2481
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -49,14 +50,25 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Diego García: dataset 165 vs Wikipedia 100 (maximos-goleadores-primera.txt)
 
 ## Fichas de Wikipedia por debajo del dataset (6+ goles; se mantiene el dataset)
+- José Luis Fernández: dataset 26 vs ficha 19
 - Mauricio Asenjo: dataset 34 vs ficha 25
-- Bruno Sepúlveda: dataset 41 vs ficha 32
+- Gonzalo Ríos: dataset 18 vs ficha 3
+- Ramiro Costa: dataset 9 vs ficha 0
+- Leandro Maciel: dataset 8 vs ficha 1
+- Augusto Schott: dataset 10 vs ficha 3
+- Brian Nievas: dataset 9 vs ficha 0
+- Bruno Sepúlveda: dataset 59 vs ficha 32
 - Mateo Coronel: dataset 26 vs ficha 13
 - Rodrigo Insúa: dataset 15 vs ficha 4
 - Pablo Chavarría: dataset 24 vs ficha 15
+- Diego Martínez: dataset 14 vs ficha 2
+- César González: dataset 17 vs ficha 8
+- Cristian González: dataset 9 vs ficha 1
+- Nicolás Fernández: dataset 6 vs ficha 0
 - Alan Bonansea: dataset 41 vs ficha 35
 - Diego Becker: dataset 14 vs ficha 4
 - Santiago Vera: dataset 19 vs ficha 13
+- Pedro Souto: dataset 10 vs ficha 3
 - Nazareno Fúnez: dataset 26 vs ficha 19
 
 ## Suma por temporada vs histórico de Transfermarkt
@@ -69,56 +81,71 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 180 jugadores
+- position-unverified: 689 jugadores
 - `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.
+- `soloascenso-partial`: goles de B Metro, C, D o Federal A tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
 - `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
-- seasons-before-*-not-counted: 225 jugadores
+- seasons-before-*-not-counted: 218 jugadores
 - José Sand: active-in-source-update-2023
 - Santiago Silva: active-in-source-update-2023
 - Humberto Bravo: club-total-only
+- Javier Rossi: soloascenso-partial
+- Luis Silba: season-list-truncated, soloascenso-partial
 - Hugo Pavone: active-in-source-update-2023
 - Rogelio Cuello: club-total-only
+- Bruno Nasta: season-list-truncated, soloascenso-partial
 - Pablo Frers: club-total-only, position-unverified
 - Daniel Onega: club-total-only
 - Gilmar Villagrán: club-total-only
 - Luis Antonio Ludueña: club-total-only
 - Daniel Passarella: secondary-source-club-statistics
 - Natalio Perinetti: club-total-only
-- Andrés Silvera: cups-partial
 - Pedro Ochoa: club-total-only
 - Edgardo Paruzzo: club-total-only
+- Luciano Leguizamón: soloascenso-partial
 - Ricardo Bochini: club-total-only
 - Juan Perinetti: club-total-only
 - Pedro Calomino: club-total-only
+- Alcides Miranda Moreira: soloascenso-partial, position-unverified
 - Horacio Bustos: club-total-only, position-unverified
+- Javier Velázquez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Norberto Outes: club-total-only
-- Silvio Romero: cups-partial
 - Ángel Bocanelli: club-total-only
 - Ángel Silva: club-total-only
 - Camilo Cervino: club-total-only
 - Mauro Boselli: season-list-truncated, cups-partial
 - Daniel Bertoni: club-total-only
 - Bernardo Acosta: club-total-only
+- Leandro González: soloascenso-partial
+- Ramón Lentini: soloascenso-partial
+- Milton Giménez: soloascenso-partial
 - Claudio Nigretti: club-total-only
 - Pedro Farías: club-total-only, position-unverified
 - Alfredo Graciani: club-total-only
 - Aníbal Tarabini: club-total-only
-- Carlos Tévez: cups-partial
+- Lucas Scarnato: soloascenso-partial, position-unverified
 - Osvaldo Rubén Potente: club-total-only, position-unverified
 - Jorge Burruchaga: club-total-only
 - Ángel Clemente Rojas: club-total-only
 - Amable López: club-total-only, position-unverified
 - Antonio Gambino: club-total-only, position-unverified
+- Agustín Lavezzi: season-list-truncated, soloascenso-partial
 - Mario Bevilacqua: club-total-only
 - Pedro Gordillo: club-total-only, position-unverified
 - Braian Romero: season-list-truncated, cups-partial
+- Diego Jara: soloascenso-partial
+- Leonel Llodrá: soloascenso-partial, position-unverified
 - Paulo Valentim: club-total-only
+- Lucas Albertengo: season-list-truncated, soloascenso-partial
 - Pablo Magnin: cups-partial
 - Hugo Curioni: club-total-only
 - José Zorrilla: club-total-only
 - Diego Ceballos: cups-partial
+- Gonzalo Vivanco: soloascenso-partial, position-unverified
 - Orfilio Pinaroli: club-total-only, position-unverified
 - Daniel Willington: club-total-only
+- Pablo Palacios Alvarenga: soloascenso-partial
+- Cristian Fabbiani: soloascenso-partial
 - Cristian Tarragona: season-list-truncated, cups-partial
 - Ricardo Pavoni: club-total-only
 - Martín Cardetti: cups-partial
@@ -130,9 +157,14 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Walter Bou: season-list-truncated, cups-partial
 - Daniel Picaro: club-total-only, position-unverified
 - Ernesto Pieri: club-total-only
+- Lautaro Parisi: soloascenso-partial
+- Bruno Sepúlveda: season-list-truncated, cups-partial, soloascenso-partial
+- Patricio Cucchi: soloascenso-partial
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
+- Juan Pablo Zárate: season-list-truncated, soloascenso-partial
 - Enzo Trossero: club-total-only
+- Rodrigo Sánchez: soloascenso-partial, position-unverified
 - Raúl Armando Savoy: club-total-only
 - Silvio Carrario: cups-partial
 - Humberto Taborda: club-total-only
@@ -140,6 +172,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Rodolfo Micheli: club-total-only
 - Carlos Cecconato: club-total-only
 - Daniel Jiménez: cups-partial
+- Braian Chávez: soloascenso-partial, position-unverified
 - José Borello: club-total-only
 - Pablo Farías: club-total-only, position-unverified
 - Roberto Cortez: club-total-only, position-unverified
@@ -147,18 +180,27 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Benito Cejas: club-total-only
 - José Percudani: club-total-only
 - Juan José De Mario: club-total-only
+- Matías Coselli: soloascenso-partial, position-unverified
 - Miguel Ángel Patire: club-total-only, position-unverified
 - Renato Manzzolli: club-total-only, position-unverified
 - Raúl Bernao: club-total-only
 - Alejandro Barberón: club-total-only
+- Fernando Maldonado: soloascenso-partial, position-unverified
+- Lautaro Gordillo: season-list-truncated, soloascenso-partial
+- Lázaro Romero: season-list-truncated, soloascenso-partial
 - Lucas Gamba: cups-partial
 - Agustín Balbuena: club-total-only
 - Alfredo Garasini: club-total-only, position-unverified
+- Antony Alonso: soloascenso-partial
+- Ariel Cólzera: soloascenso-partial
+- Juan Miritello: soloascenso-partial
 - Juan Romay: club-total-only
 - Mario Fernández: club-total-only
 - Miguel Oviedo: club-total-only
+- Sergio Sosa: soloascenso-partial, position-unverified
 - Severino Varela: club-total-only
 - Fermín Flamini: club-total-only, position-unverified
+- Lucas Licht: soloascenso-partial
 - Miguel Ángel Ludueña: club-total-only
 - Gustavo Bou: cups-partial
 - Osvaldo Héctor Cruz: club-total-only, position-unverified
@@ -166,211 +208,795 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Ramón Enrique: club-total-only, position-unverified
 - Urbano Reynoso: club-total-only
 - José Pastoriza: club-total-only
+- Oscar Altamirano: seasons-before-2008-not-counted, soloascenso-partial
 - Carlos Fuentes: club-total-only, position-unverified
-- Juan Antonio Pizzi: cups-partial
 - Juan Nani: club-total-only, position-unverified
 - Pedro Heredia: club-total-only, position-unverified
 - Ramón Héctor Ponce: club-total-only
-- Bruno Sepúlveda: season-list-truncated, cups-partial
+- Santiago Gómez: soloascenso-partial, position-unverified
+- Axel Rodríguez: season-list-truncated, soloascenso-partial
 - Ezequiel Reynoso: club-total-only, position-unverified
 - Fernando Walter: club-total-only
 - Francisco Armenante: club-total-only, position-unverified
 - Francisco Taggino: club-total-only
+- Mauricio Carrasco: soloascenso-partial
 - Oscar Pianetti: club-total-only
 - Pablo Bozzo: club-total-only, position-unverified
 - Alberto Lorenzo: club-total-only, position-unverified
+- Aldo Visconti: seasons-before-2008-not-counted, soloascenso-partial
 - Donato Penella: club-total-only, position-unverified
+- Federico Sellecchia: soloascenso-partial, position-unverified
+- Jorge Piñero da Silva: seasons-before-2008-not-counted, cups-partial, soloascenso-partial
 - José Florio: club-total-only
+- Juan Amieva: soloascenso-partial, position-unverified
+- Maximiliano Tunessi: soloascenso-partial, position-unverified
 - Oscar Contreras: club-total-only, position-unverified
 - Enzo Ferrero: club-total-only
+- Franco Toloza: soloascenso-partial
 - Nicolás Pavlovich: cups-partial
 - Norberto Madurga: club-total-only
 - Pierino González: club-total-only
 - Sebastián Palacios: cups-partial
+- Antonio Medina: soloascenso-partial
 - Franco Jara: cups-partial
 - Horacio Attadía: club-total-only
 - Pedro Acevedo: club-total-only, position-unverified
+- Ramiro López: soloascenso-partial
+- Ronaldo Martínez: soloascenso-partial
+- Andrés Franzoia: soloascenso-partial
+- Cristian Ibarra: soloascenso-partial, position-unverified
 - Héctor Silva: cups-partial
 - Juan Carlos Almada: editions-partial
+- Maximiliano Casa: season-list-truncated, cups-partial, soloascenso-partial
 - Oscar Tedini: club-total-only, position-unverified
 - Raúl Martínez: club-total-only
 - Ricardo Cherini: club-total-only
 - Carlos Guerini: club-total-only
 - Darío Felman: club-total-only
+- Juan Martín: seasons-before-2008-not-counted, soloascenso-partial
+- Matías Nouet: season-list-truncated, soloascenso-partial
 - Miguel Ángel Gambier: club-total-only
 - Nicolás Daponte: club-total-only
 - Norberto Pairoux: club-total-only, position-unverified
 - Ramón Taborda: club-total-only, position-unverified
 - Rubén Suñé: club-total-only
+- Sebastián Montero: soloascenso-partial, position-unverified
 - Tomás Molina: cups-partial
 - Alberto De Sá: club-total-only, position-unverified
 - Antonio Cerrotti: club-total-only, position-unverified
 - Federico Anselmo: cups-partial
+- Gonzalo Urquijo: season-list-truncated, soloascenso-partial
 - Alberto Sánchez: club-total-only
 - Alfredo Bazán: club-total-only, position-unverified
 - Emilio Castro: club-total-only, position-unverified
 - Facundo Bruera: cups-partial
 - Hugo Noremberg: editions-partial, position-unverified
+- Jorge Ferrero: season-list-truncated, soloascenso-partial
+- Alan Salvador: soloascenso-partial, position-unverified
 - Eugenio Maldonado: club-total-only, position-unverified
 - Humberto Epifanio: club-total-only, position-unverified
 - Luis Oviedo: club-total-only, position-unverified
+- Martín Giménez: soloascenso-partial
+- Martín Michel: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Oscar Fachetti: club-total-only, position-unverified
 - Clotardo Dendi: club-total-only
+- Mateo Levato: season-list-truncated, soloascenso-partial
+- Alejo Distaulo: cups-partial, soloascenso-partial
 - Alfredo Veira: club-total-only, position-unverified
 - Benito Albarracín: club-total-only, position-unverified
+- Damián Anriquez: soloascenso-partial, position-unverified
 - Eduardo Sánchez: club-total-only, position-unverified
+- Gabriel Morales: soloascenso-partial
+- Marcos Salvaggio: soloascenso-partial, position-unverified
+- Martín Fabro: cups-partial, soloascenso-partial
+- Nicolás Toloza: season-list-truncated, soloascenso-partial
 - Rodrigo Astudillo: cups-partial
+- Sergio Salomone: soloascenso-partial, position-unverified
 - Ángel Hoyos: club-total-only
+- Damián Toledo: season-list-truncated, soloascenso-partial
 - Eduardo Bennett: cups-partial
 - Fernando Di Carlo: club-total-only, position-unverified
+- Fernando Giménez: soloascenso-partial, position-unverified
 - Franco Soldano: season-list-truncated, cups-partial
 - Juan Prax: club-total-only, position-unverified
+- Ramiro Luna: season-list-truncated, soloascenso-partial
 - Alfredo Calderón: club-total-only, position-unverified
+- Ezequiel Cérica: soloascenso-partial
 - Francisco Gallardo: club-total-only, position-unverified
+- Gervasio Núñez: soloascenso-partial
 - Gustavo Albella: club-total-only
+- Joaquín Molina: cups-partial, soloascenso-partial
+- Lucas Buono: soloascenso-partial, position-unverified
 - Miguel Rivarola: club-total-only, position-unverified
+- Facundo Suárez: soloascenso-partial
 - Hugo Salvatelli: club-total-only, position-unverified
+- Jonatan Morán: soloascenso-partial, position-unverified
+- Lucas Delgado: soloascenso-partial
 - Luciano Vietto: cups-partial
+- Martín Batallini: season-list-truncated, soloascenso-partial
+- Matías Sproat: season-list-truncated, soloascenso-partial
+- Nicolás Miracco: soloascenso-partial
+- Víctor Gómez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Alejo Veliz: season-list-truncated, cups-partial
+- Alfredo Troncoso: soloascenso-partial, position-unverified
+- Favio Cabral: soloascenso-partial
 - Lautaro Martínez: cups-partial
+- Marcos Figueroa: soloascenso-partial
+- Matías Samaniego: soloascenso-partial, position-unverified
+- Maximiliano Comba: soloascenso-partial
 - Daniel Bilos: cups-partial
+- Eduardo dos Santos: seasons-before-2008-not-counted, soloascenso-partial
+- Federico Martínez: soloascenso-partial, position-unverified
+- Jonathan López: soloascenso-partial
 - Nicolás Orsini: cups-partial
 - Roberto Ortiz: club-total-only, position-unverified
+- Rodrigo Giorno Paredes: soloascenso-partial, position-unverified
 - Antonio Alderete: club-total-only
 - Celedonio Fernández: club-total-only, position-unverified
+- Emanuel Zagert: soloascenso-partial, position-unverified
+- Ezequiel Melillo: season-list-truncated, soloascenso-partial
+- Javier Ferreira: season-list-truncated, soloascenso-partial
 - Jorge Weschta: club-total-only, position-unverified
 - José Luis Pochettino: club-total-only
-- Maximiliano Casa: season-list-truncated, cups-partial
-- Alexis Castro: season-list-truncated, cups-partial
+- Nahuel Pombo: soloascenso-partial, position-unverified
+- Christian Soria: soloascenso-partial, position-unverified
+- Damián Salvatierra: soloascenso-partial, position-unverified
 - Daniel Leani: editions-partial, position-unverified
 - Daniel Toribio Aquino: editions-partial
+- Ezequiel Gaviglio: soloascenso-partial, position-unverified
+- Gabriel Pérez Tarifa: soloascenso-partial
+- Ivo Kestler: soloascenso-partial, position-unverified
+- José Michelena: season-list-truncated, cups-partial, soloascenso-partial
+- Pablo Mazza: soloascenso-partial
 - Patricio Camps: cups-partial
+- Ricardo Tapia: soloascenso-partial, position-unverified
 - Sergio Recchiutti: editions-partial, position-unverified
+- Andrés Guzmán: soloascenso-partial
 - Andrés Sosa: club-total-only, position-unverified
 - Claudio Biaggio: cups-partial
 - Eduardo Zárate: club-total-only, position-unverified
-- Jorge Piñero da Silva: seasons-before-2008-not-counted, cups-partial
+- Marcos Fernández: season-list-truncated, soloascenso-partial
 - Roberto Oste: club-total-only, position-unverified
 - Adrián Czornomaz: editions-partial
+- Braian Guille: soloascenso-partial, position-unverified
+- Damián Bogado: soloascenso-partial, position-unverified
+- Elías Torancio: soloascenso-partial, position-unverified
+- Eloy Rodríguez: soloascenso-partial, position-unverified
+- Ernesto Álvarez: soloascenso-partial
+- Facundo Pumpido: soloascenso-partial
+- Guido Di Vanni: soloascenso-partial
+- Guillermo Pereira: soloascenso-partial
+- Hernán González: seasons-before-2008-not-counted, soloascenso-partial
+- Leandro Vella: cups-partial, soloascenso-partial
 - Narciso Contreras: club-total-only, position-unverified
+- Oswaldo Blanco: soloascenso-partial
 - Alejandro Kenig: club-total-only
 - Alex Luna: cups-partial
 - Antonio Reynoso: club-total-only, position-unverified
+- Braian Miranda: season-list-truncated, soloascenso-partial
 - Federico Andrada: cups-partial
+- Horacio Tijanovich: season-list-truncated, soloascenso-partial
 - Julio Rivero: club-total-only, position-unverified
+- Khalil Caraballo: season-list-truncated, soloascenso-partial
 - Mario Salvatelli: club-total-only, position-unverified
-- Martín Fabro: cups-partial
+- Matías Vicedo: soloascenso-partial, position-unverified
 - Miguel Amaya: editions-partial
 - Raúl Allende: club-total-only, position-unverified
+- Sebastián Vivas: soloascenso-partial, position-unverified
 - Abel Blasón: editions-partial
+- Agustín Príncipe: soloascenso-partial, position-unverified
 - Antonio Adasse: club-total-only, position-unverified
 - Arturo Rodas: club-total-only, position-unverified
 - Augusto Lotti: season-list-truncated, cups-partial
+- César Delgado: soloascenso-partial
+- Ciro Leineker: soloascenso-partial, position-unverified
+- Cristian Barinaga: seasons-before-2008-not-counted, soloascenso-partial
+- Damián Villalba: soloascenso-partial, position-unverified
+- Diego Caballero: seasons-before-2008-not-counted, soloascenso-partial
+- Franco Cristofanelli: soloascenso-partial, position-unverified
+- Gastón Cueto: soloascenso-partial, position-unverified
 - Ignacio Pereyra: club-total-only, position-unverified
+- Maximiliano Quinteros: soloascenso-partial, position-unverified
+- Alan Seguel: soloascenso-partial, position-unverified
 - Ángel Pereyra: club-total-only, position-unverified
+- César Montiglio: soloascenso-partial
+- Cristian Chimino: season-list-truncated, soloascenso-partial
+- Cristian Yassogna: soloascenso-partial, position-unverified
+- Enzo Noir: soloascenso-partial
+- Federico Boasso: season-list-truncated, soloascenso-partial
+- Franco Tisera: season-list-truncated, soloascenso-partial
 - Jonathan Santana: cups-partial
+- Luciano Herrera: soloascenso-partial
 - Marcelo Torres: cups-partial
+- Marcos Landaburu: soloascenso-partial, position-unverified
+- Nicolás Gatto: soloascenso-partial, position-unverified
 - Ramón Salas: club-total-only, position-unverified
 - Roque Riquelme: club-total-only, position-unverified
+- Blas Sosa: soloascenso-partial, position-unverified
+- David Müller: season-list-truncated, soloascenso-partial
+- Diego Ledesma: soloascenso-partial, position-unverified
+- Federico Vasilchik: soloascenso-partial, position-unverified
+- Germán Sosa: soloascenso-partial, position-unverified
+- Gustavo Azcona: soloascenso-partial, position-unverified
+- Javier Arias: soloascenso-partial, position-unverified
 - José Florentín: season-list-truncated, cups-partial
+- Juan Manuel Aróstegui: seasons-before-2008-not-counted, soloascenso-partial
+- Luis Vila: soloascenso-partial
 - Marcelo Reggiardo: editions-partial, position-unverified
 - Marcelo Rufini: editions-partial, position-unverified
+- Rodrigo Caballuci: soloascenso-partial
+- Wálter Busse: soloascenso-partial
+- Agustín García: soloascenso-partial, position-unverified
+- Braian Benítez: soloascenso-partial, position-unverified
+- Bruno Rodríguez: soloascenso-partial, position-unverified
+- Camilo Machado: season-list-truncated, soloascenso-partial
 - Carlos Casteglione: cups-partial
+- Cristian Campozano: soloascenso-partial, position-unverified
+- Facundo Diz: soloascenso-partial
 - Francisco Rivadero: club-total-only
-- Joaquín Molina: cups-partial
+- Joan Juncos: season-list-truncated, soloascenso-partial
+- Juan Manuel Perillo: soloascenso-partial, position-unverified
+- Leandro Espejo: season-list-truncated, soloascenso-partial
 - Raúl Aredes: editions-partial
 - Renzo Reynaga: season-list-truncated, cups-partial
+- Rodrigo Depetris: soloascenso-partial
+- Ulises Ortegoza: season-list-truncated, soloascenso-partial
 - Víctor Heredia: club-total-only, position-unverified
 - Adolfino Cañete: club-total-only
+- Alexis Alegre: soloascenso-partial, position-unverified
+- Claudio Vega: season-list-truncated, soloascenso-partial
 - Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial
 - Daniel Oddine: editions-partial, position-unverified
 - Héctor Baillié: editions-partial
 - José Luis Chilavert: cups-partial
-- José Manuel López: cups-partial
+- Leonardo Ruiz: soloascenso-partial, position-unverified
 - Manuel Peralta: club-total-only, position-unverified
+- Martín Ávalos: soloascenso-partial, position-unverified
+- Matías Domínguez: soloascenso-partial, position-unverified
 - Miguel Ángel Frullingui: club-total-only, position-unverified
+- Miguel López: soloascenso-partial, position-unverified
 - Sergio Saturno: editions-partial
 - Sergio Verdirame: editions-partial
-- Alfredo Moreno: cups-partial
+- Apolo Rapp: soloascenso-partial, position-unverified
+- David Escalante: soloascenso-partial, position-unverified
+- Emiliano Blanco: soloascenso-partial, position-unverified
+- Facundo Marín: soloascenso-partial, position-unverified
+- Félix Villacorta: soloascenso-partial, position-unverified
+- Fernando Valdebenito: soloascenso-partial, position-unverified
+- Gastón Grecco: soloascenso-partial, position-unverified
+- Jean Rousseau: soloascenso-partial, position-unverified
 - Leandro Somoza: cups-partial
+- Mathías Crocco: soloascenso-partial, position-unverified
+- Mauro Pajón: seasons-before-2008-not-counted, soloascenso-partial
+- Nahuel La Sala: soloascenso-partial, position-unverified
+- Nelson Ávalos: soloascenso-partial, position-unverified
+- Nicolás Capellino: seasons-before-2008-not-counted, soloascenso-partial
 - Óscar Romero: season-list-truncated, cups-partial
+- Pablo Gaitán: soloascenso-partial, position-unverified
+- Cristian Taborda: soloascenso-partial, position-unverified
+- David Bulacio: soloascenso-partial, position-unverified
+- Diego Romero: seasons-before-2008-not-counted, soloascenso-partial
+- Gabriel Serrano: soloascenso-partial, position-unverified
+- Gonzalo Sosa: soloascenso-partial, position-unverified
+- Jonathan Fernández: soloascenso-partial, position-unverified
+- Juan Cruz Vera Borda: soloascenso-partial, position-unverified
+- Julián Cardellino: soloascenso-partial, position-unverified
+- Mariano Martínez: soloascenso-partial
+- Martín Gianfelice: soloascenso-partial, position-unverified
+- Matías Mena: soloascenso-partial, position-unverified
+- Matias Persia: soloascenso-partial, position-unverified
+- Matías Zbrun: seasons-before-2008-not-counted, soloascenso-partial
 - Nicolás Cordero: season-list-truncated, cups-partial
+- Nicolás Johansen: soloascenso-partial, position-unverified
 - Nicolás Laméndola: cups-partial
+- Nicolás Ledesma: soloascenso-partial
 - Sebastián Ereros: seasons-before-1990-not-counted, cups-partial
+- Sebastian Jeldres: soloascenso-partial, position-unverified
+- Sergio Acosta: soloascenso-partial, position-unverified
+- Sergio Marclay: seasons-before-2008-not-counted, soloascenso-partial
+- Tomás Pavone: soloascenso-partial, position-unverified
+- Tomás Rozic: soloascenso-partial, position-unverified
+- Víctor Meza: soloascenso-partial, position-unverified
+- Walter Zunino: soloascenso-partial
+- Adrián Acevedo: soloascenso-partial, position-unverified
+- Agustín Occhiato: soloascenso-partial, position-unverified
+- Brian Flores: soloascenso-partial, position-unverified
+- Emiliano Mozzone: soloascenso-partial, position-unverified
+- Fabricio González: soloascenso-partial, position-unverified
+- Fabricio Reyes: soloascenso-partial, position-unverified
+- Gonzalo Pérez: soloascenso-partial, position-unverified
+- Hugo Troche: soloascenso-partial, position-unverified
+- Israel Roldán: soloascenso-partial
+- Jeremías Perales: season-list-truncated, cups-partial, soloascenso-partial
+- José Romero: soloascenso-partial, position-unverified
+- Julián Rodríguez Seguer: soloascenso-partial, position-unverified
+- Lucas Lazo: soloascenso-partial
+- Marcelo Scatolaro: seasons-before-2008-not-counted, soloascenso-partial
 - Matko Miljevic: cups-partial
+- Maximiliano Herrera: soloascenso-partial, position-unverified
+- Alan Sombra: season-list-truncated, soloascenso-partial
+- Alan Visco: soloascenso-partial, position-unverified
+- Armando Lezcano: soloascenso-partial, position-unverified
+- Axel Paiva: soloascenso-partial, position-unverified
+- César Lamanna: soloascenso-partial, position-unverified
 - Damián Martínez: season-list-truncated, cups-partial
+- Diego Jaime: soloascenso-partial, position-unverified
+- Facundo Lando: soloascenso-partial, position-unverified
+- Federico Ferrari: soloascenso-partial, position-unverified
+- Franco Caseres: soloascenso-partial, position-unverified
+- Gustavo Pastor: soloascenso-partial, position-unverified
+- Ivo Chaves: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
+- Ivo Constantino: soloascenso-partial, position-unverified
+- Javier Molina: seasons-before-2008-not-counted, cups-partial, soloascenso-partial
+- Joaquín Tonet: soloascenso-partial, position-unverified
+- Juan Manuel Lazaneo: soloascenso-partial, position-unverified
+- Manuel Brondo: soloascenso-partial, position-unverified
+- Mateo Muñoz: soloascenso-partial, position-unverified
+- Ramiro Rocca: soloascenso-partial, position-unverified
+- Raúl Pérez: soloascenso-partial, position-unverified
+- Rodrigo Cao: soloascenso-partial, position-unverified
+- Santiago Auteri: soloascenso-partial, position-unverified
+- Santiago Prim: soloascenso-partial, position-unverified
+- Sebastián Arias: soloascenso-partial, position-unverified
 - Walter García: cups-partial
+- William Giménez: soloascenso-partial, position-unverified
+- Agustín Mansilla: soloascenso-partial, position-unverified
+- Alejandro Lugones: soloascenso-partial, position-unverified
+- Antú Hernández: soloascenso-partial, position-unverified
+- Cristian Cuenca: soloascenso-partial, position-unverified
+- Cristian Vázquez: soloascenso-partial, position-unverified
+- Ezequiel Cardozo: soloascenso-partial, position-unverified
+- Fernando Pasquale: soloascenso-partial, position-unverified
+- Franco Méndez: soloascenso-partial, position-unverified
+- Gastón Arrieta: soloascenso-partial, position-unverified
+- Germán Águila: soloascenso-partial, position-unverified
+- Gonzalo Calabria: soloascenso-partial, position-unverified
 - José Loncón: seasons-before-2008-not-counted, cups-partial
 - Marco Iacobellis: cups-partial
+- Marcos Riquelme: soloascenso-partial, position-unverified
+- Mariano Gorosito: soloascenso-partial, position-unverified
+- Martín Abraham: soloascenso-partial, position-unverified
+- Ricardo Dichiara: soloascenso-partial, position-unverified
 - Rodrigo Archubi: cups-partial
-- Tiago Palacios: cups-partial
-- Valentín Depietri: cups-partial
-- Wilson Morelo: cups-partial
+- Rodrigo Hernández: soloascenso-partial, position-unverified
+- Román Martinangeli: soloascenso-partial, position-unverified
+- Sebastian Parera: soloascenso-partial, position-unverified
+- Alan Cantero: soloascenso-partial
+- Alan Ortiz: soloascenso-partial, position-unverified
+- Claudio Galeano: soloascenso-partial, position-unverified
+- Emiliano Tabone: soloascenso-partial, position-unverified
 - Federico Murillo: season-list-truncated, cups-partial
+- Federico Ortiz López: soloascenso-partial, position-unverified
+- Gianfranco Ottaviani: soloascenso-partial, position-unverified
+- Gonzalo Parisi: season-list-truncated, soloascenso-partial
+- Gonzalo Villafañe: soloascenso-partial, position-unverified
+- Isaac Acosta: soloascenso-partial, position-unverified
 - James Rodríguez: cups-partial
-- Maher Carrizo: cups-partial
-- Marcos Rojo: season-list-truncated, cups-partial
-- Ramón Sosa: season-list-truncated, cups-partial
+- Jeremías Heidenreich: soloascenso-partial, position-unverified
+- Jonathan Maciel: soloascenso-partial, position-unverified
+- Jorge González: soloascenso-partial, position-unverified
+- Jorge Zambrana: soloascenso-partial, position-unverified
+- Lautaro Cerato: soloascenso-partial, position-unverified
+- Lautaro Palacios: soloascenso-partial, position-unverified
+- Luciano Cariaga: soloascenso-partial, position-unverified
+- Mateo Escobar: soloascenso-partial, position-unverified
 - Salomón Rondón: cups-partial
-- Alexis Canelo: cups-partial
+- Agustín Faillace: soloascenso-partial, position-unverified
+- Alan Murialdo: soloascenso-partial, position-unverified
+- Ángel Leiva: soloascenso-partial, position-unverified
+- Bruno Mariani: soloascenso-partial, position-unverified
+- Claudio Leguizamón: soloascenso-partial, position-unverified
 - Damián Akerman: cups-partial
+- Diego Coria: seasons-before-2008-not-counted, soloascenso-partial
+- Elian Luca: soloascenso-partial, position-unverified
 - Elías Contreras: season-list-truncated, cups-partial
-- Federico Girotti: season-list-truncated, cups-partial
+- Elías Di Biasi: soloascenso-partial, position-unverified
+- Emanuel Cuevas: season-list-truncated, soloascenso-partial
+- Facundo Figueroa: soloascenso-partial, position-unverified
+- Facundo Laumann: season-list-truncated, soloascenso-partial
+- Facundo Macarof: soloascenso-partial, position-unverified
+- Facundo Quintana: soloascenso-partial
+- Fernando Enrique: season-list-truncated, soloascenso-partial
 - Iván Leguizamón: season-list-truncated, cups-partial
-- Pablo de Blasis: cups-partial
-- Pablo Hernández: cups-partial
-- Facundo Farías: season-list-truncated, cups-partial
-- Matías Reali: cups-partial
+- Jerónimo Gutiérrez: soloascenso-partial, position-unverified
+- Jorge Rossi: soloascenso-partial, position-unverified
+- Kevin Dubini: soloascenso-partial, position-unverified
+- Lucas Vico: soloascenso-partial, position-unverified
+- Luciano Vázquez: soloascenso-partial, position-unverified
+- Martín Schlotthauer: soloascenso-partial, position-unverified
+- Mauricio Bermejo: soloascenso-partial, position-unverified
+- Maximiliano Mallemaci: soloascenso-partial, position-unverified
+- Nicolás Meaurio: soloascenso-partial, position-unverified
+- Pablo Ortega: soloascenso-partial
+- Quimey Marín: soloascenso-partial, position-unverified
+- Renzo Reynaga Llarena: soloascenso-partial, position-unverified
+- Tomás Jerez Sayago: soloascenso-partial, position-unverified
+- Alex Penoni: soloascenso-partial, position-unverified
+- Alexander Meza: soloascenso-partial, position-unverified
+- Arturo Mendoza: soloascenso-partial, position-unverified
+- Cipriano Treppo: soloascenso-partial, position-unverified
+- Gastón Sánchez: soloascenso-partial, position-unverified
+- German Mayenfish: soloascenso-partial, position-unverified
+- Germán Weiner: seasons-before-2008-not-counted, soloascenso-partial
+- Gonzalo Garavano: soloascenso-partial, position-unverified
+- Héctor Canteros: soloascenso-partial
+- Héctor Echagüe: soloascenso-partial, position-unverified
+- Ignacio Ortega: soloascenso-partial, position-unverified
+- Javier Greco: soloascenso-partial, position-unverified
+- Jonatan Maciel: soloascenso-partial, position-unverified
+- Jonathan Font: soloascenso-partial, position-unverified
+- Jorge Trinidad: soloascenso-partial, position-unverified
+- José Ingratti: soloascenso-partial, position-unverified
+- José Manuel Caspary: soloascenso-partial, position-unverified
+- Juan Goicoechea: soloascenso-partial, position-unverified
+- Juan Pablo Francia: soloascenso-partial
+- Juan Reynoso: soloascenso-partial, position-unverified
+- Lautaro Montani: soloascenso-partial, position-unverified
+- Lucas Mellado: soloascenso-partial, position-unverified
+- Lucas Sergi: soloascenso-partial, position-unverified
+- Luis Seco: soloascenso-partial, position-unverified
+- Matías Chavarría: soloascenso-partial, position-unverified
+- Mauro Bustos: soloascenso-partial, position-unverified
+- Miller Moreno: soloascenso-partial, position-unverified
+- Nicolás Foglia: soloascenso-partial
+- Nicolás Pérez: soloascenso-partial, position-unverified
+- Octavio Padovani: soloascenso-partial, position-unverified
+- Pablo Villalba Fretes: soloascenso-partial, position-unverified
+- Paulo Oballes: soloascenso-partial, position-unverified
 - Rodrigo Atencio: cups-partial
 - Santiago Castro: season-list-truncated, cups-partial
+- Santiago Gutiérrez: soloascenso-partial, position-unverified
+- Santiago Molina: soloascenso-partial, position-unverified
 - Tiziano Perrotta: cups-partial
-- Alan Marinelli: season-list-truncated, cups-partial
+- Tomás Ramírez: soloascenso-partial, position-unverified
+- Yair Arismendi: soloascenso-partial
+- Agustín Verdugo: soloascenso-partial
 - Alexis Steimbach: cups-partial
-- Benjamín Borasi: season-list-truncated, cups-partial
+- Braian Noriega: soloascenso-partial, position-unverified
+- Bruno Benítez: soloascenso-partial, position-unverified
+- Bruno Di Martino: soloascenso-partial, position-unverified
+- Christian Alba Nievas: soloascenso-partial, position-unverified
+- Ciro Campuzano: soloascenso-partial, position-unverified
+- Cristian Duma: soloascenso-partial, position-unverified
+- Diego Barrionuevo: soloascenso-partial, position-unverified
+- Diego Molina Fariña: season-list-truncated, soloascenso-partial
+- Enzo Abondetto: soloascenso-partial, position-unverified
+- Esteban Giambuzzi: soloascenso-partial, position-unverified
+- Esteban Selpa: soloascenso-partial, position-unverified
+- Exequiel Filipigh: soloascenso-partial, position-unverified
 - Ezequiel Bulacio: club-unverified, season-list-truncated
+- Fabio Giménez: soloascenso-partial
+- Fabricio Rojas: season-list-truncated, soloascenso-partial
+- Facundo Durso: soloascenso-partial, position-unverified
+- Facundo Miguel: soloascenso-partial, position-unverified
+- Facundo Perassi: soloascenso-partial, position-unverified
+- Felipe Senn: soloascenso-partial, position-unverified
 - Franco Nicola: cups-partial
-- José Michelena: season-list-truncated, cups-partial
+- Gabriel Jara: soloascenso-partial, position-unverified
+- Gaspar Gentile: soloascenso-partial, position-unverified
+- Ignacio Serpa: soloascenso-partial, position-unverified
+- Joaquín Vivani: soloascenso-partial
+- Juan Bueno: soloascenso-partial, position-unverified
+- Juan Francisco Bonet: soloascenso-partial, position-unverified
+- Juan Mugabure: soloascenso-partial, position-unverified
+- Juan Pablo Antúnes: soloascenso-partial, position-unverified
+- Juan Pablo Schefer: soloascenso-partial, position-unverified
+- Julio Barrionuevo: soloascenso-partial, position-unverified
+- Luca Ferro: soloascenso-partial, position-unverified
 - Lucas Besozzi: cups-partial
-- Luciano Cabral: cups-partial
-- Cecilio Domínguez: cups-partial
-- Gastón Benavídez: cups-partial
+- Lucas Chiapparo: soloascenso-partial, position-unverified
+- Lucas Goberville: soloascenso-partial, position-unverified
+- Lucas Reynoso: soloascenso-partial, position-unverified
+- Lucas Vila: soloascenso-partial, position-unverified
+- Luciano Iván Esquivel: soloascenso-partial, position-unverified
+- Luis Felipe Rivarola: soloascenso-partial, position-unverified
+- Luis Miguel Pérez: soloascenso-partial, position-unverified
+- Marcelo Burzac: soloascenso-partial, position-unverified
+- Marcelo Pappano: soloascenso-partial, position-unverified
+- Marcos Hermann: soloascenso-partial, position-unverified
+- Mateo Mamani: soloascenso-partial, position-unverified
+- Matías Maidana: soloascenso-partial, position-unverified
+- Mauricio Aguirre: soloascenso-partial, position-unverified
+- Mauro Morales: soloascenso-partial, position-unverified
+- Maximiliano Bowen: soloascenso-partial, position-unverified
+- Maximiliano Ibañez: soloascenso-partial, position-unverified
+- Nahuel Paz: soloascenso-partial, position-unverified
+- Nahuel Peralta: soloascenso-partial, position-unverified
+- Nazareno Diosquez: soloascenso-partial, position-unverified
+- Nicolas Del Sole: soloascenso-partial, position-unverified
+- Nicolás Horacio: soloascenso-partial, position-unverified
+- Nicolás Parodi: soloascenso-partial, position-unverified
+- Nisim Vergara: soloascenso-partial, position-unverified
+- Pedro Durante: soloascenso-partial, position-unverified
+- Ramón Cardozo: soloascenso-partial, position-unverified
+- Riku Iwamoto: soloascenso-partial, position-unverified
+- Rodrigo Cavallera: soloascenso-partial, position-unverified
+- Tomás Habib: soloascenso-partial, position-unverified
+- Tomás Verón Lupi: soloascenso-partial, position-unverified
+- Walter Bardín: soloascenso-partial, position-unverified
+- Agustín Bianciotto: soloascenso-partial, position-unverified
+- Alan Silva: soloascenso-partial, position-unverified
+- Alfredo Pussetto: soloascenso-partial
+- Alfredo Resler: soloascenso-partial, position-unverified
+- Andrés Almirón: soloascenso-partial, position-unverified
+- Augusto Laena: soloascenso-partial, position-unverified
+- Axel Arce: soloascenso-partial, position-unverified
+- Blas Tapparello: soloascenso-partial, position-unverified
+- Brian Martínez: soloascenso-partial, position-unverified
+- Bruno Volpi: soloascenso-partial, position-unverified
+- Bryan Schmidt: soloascenso-partial, position-unverified
+- Carlos Gugenheim: soloascenso-partial, position-unverified
+- Claudio Charles: soloascenso-partial, position-unverified
+- Edgar Villán: soloascenso-partial, position-unverified
+- Edilson Giménez: soloascenso-partial, position-unverified
+- Elian Muñoz: soloascenso-partial, position-unverified
+- Emmanuel González: soloascenso-partial, position-unverified
+- Enzo Coacci: cups-partial, soloascenso-partial
+- Exequiel Fiorotto: soloascenso-partial, position-unverified
+- Facundo Aguerre: soloascenso-partial, position-unverified
+- Félix Orode: soloascenso-partial, position-unverified
+- Gonzalo Atardo: soloascenso-partial, position-unverified
+- Gonzalo Baglivo: soloascenso-partial, position-unverified
+- Héctor Morales: soloascenso-partial, position-unverified
+- Hugo Christopher Bargas: soloascenso-partial, position-unverified
+- Imanol Segovia: soloascenso-partial, position-unverified
+- Imanol Varela: soloascenso-partial, position-unverified
+- Iván Agudiak: soloascenso-partial, position-unverified
+- Javier Peñaloza: soloascenso-partial, position-unverified
+- Joel Cerrudo: soloascenso-partial, position-unverified
+- Juan Bonet: soloascenso-partial, position-unverified
+- Juan Carlos Lescano: soloascenso-partial, position-unverified
+- Juan Cruz Bruzzoni: soloascenso-partial, position-unverified
 - Juan Cruz Vega: club-unverified, season-list-truncated
+- Juan José Weissen: soloascenso-partial, position-unverified
+- Juan Sánchez: soloascenso-partial, position-unverified
+- Kevin Giménez: soloascenso-partial, position-unverified
+- Laureano Doello: soloascenso-partial, position-unverified
+- Lautaro Leguizamón: soloascenso-partial, position-unverified
+- Lautaro Soto: soloascenso-partial, position-unverified
+- Leandro Amado: soloascenso-partial, position-unverified
+- Leonardo Landriel: soloascenso-partial, position-unverified
+- Luca Ramírez: soloascenso-partial, position-unverified
 - Luciano Gómez: cups-partial
+- Luciano Machín: soloascenso-partial, position-unverified
+- Luis Campero: soloascenso-partial, position-unverified
+- Manuel Cordeviola: soloascenso-partial, position-unverified
+- Marco Prieto: soloascenso-partial, position-unverified
+- Marcos Godoy: soloascenso-partial, position-unverified
+- Marcos Zampini: soloascenso-partial, position-unverified
+- Matías Brianese: soloascenso-partial, position-unverified
+- Matías Jaime: soloascenso-partial, position-unverified
+- Mauricio Fernández: soloascenso-partial, position-unverified
+- Maximiliano Acosta: soloascenso-partial, position-unverified
+- Maximiliano Bocchietti: soloascenso-partial, position-unverified
+- Maximiliano Bustamante: soloascenso-partial, position-unverified
+- Néstor García: soloascenso-partial, position-unverified
+- Nicolás Slimmens: soloascenso-partial, position-unverified
+- Patricio Costa Repetto: soloascenso-partial, position-unverified
+- Ramiro Lasserre: soloascenso-partial, position-unverified
+- Ramón Ledesma: soloascenso-partial, position-unverified
+- Ricardo Di Chiara: soloascenso-partial, position-unverified
+- Rodrigo Dimotta: soloascenso-partial, position-unverified
+- Santiago Stelcaldo: soloascenso-partial
+- Santiago Tossi: soloascenso-partial, position-unverified
+- Simón Martínez: soloascenso-partial, position-unverified
+- Tomás Bravo: soloascenso-partial, position-unverified
+- Ulises Ojeda: soloascenso-partial, position-unverified
+- Uriel Iehara: soloascenso-partial, position-unverified
+- Valentín Quevedo: soloascenso-partial, position-unverified
+- Walter Herrera: soloascenso-partial, position-unverified
+- Yamil García: soloascenso-partial, position-unverified
+- Adrián De León: soloascenso-partial
 - Agustín Campana: season-list-truncated, cups-partial
-- Alejo Distaulo: cups-partial
+- Agustín Muñoz: soloascenso-partial, position-unverified
+- Agustín Scelzi: soloascenso-partial, position-unverified
+- Alan Almirón: soloascenso-partial, position-unverified
+- Alejo Lloyaiy: soloascenso-partial, position-unverified
+- Alexis Arias: soloascenso-partial, position-unverified
+- Alexis Bulgarelli: soloascenso-partial, position-unverified
+- Alvaro Klusener: soloascenso-partial, position-unverified
+- Aníbal Leguizamón Espínola: soloascenso-partial, position-unverified
+- Arturo Ordano: soloascenso-partial, position-unverified
+- Benjamín Gutierrez: soloascenso-partial, position-unverified
+- Brian Martín: soloascenso-partial, position-unverified
+- Brian Meza: soloascenso-partial, position-unverified
+- Brian Peralta: soloascenso-partial, position-unverified
+- Brian Risso Patrón: soloascenso-partial, position-unverified
+- Bruno Guelfi: soloascenso-partial, position-unverified
+- Camilo Alessandria: soloascenso-partial, position-unverified
 - Clever Ferreira: cups-partial
+- Cristian Godoy: soloascenso-partial, position-unverified
+- Dalmiro Gaeto: soloascenso-partial, position-unverified
+- Daniel Neculman: soloascenso-partial, position-unverified
+- Daniel Opazo: soloascenso-partial, position-unverified
+- Diego Pertossi: soloascenso-partial, position-unverified
 - Diego Valdés: cups-partial
+- Emanuel Quinteros: soloascenso-partial, position-unverified
+- Emanuel Trejo: soloascenso-partial, position-unverified
+- Enzo Vargas: soloascenso-partial, position-unverified
+- Facundo Cabral: soloascenso-partial, position-unverified
 - Fernando Duré: season-list-truncated, cups-partial
-- Javier Molina: seasons-before-2008-not-counted, cups-partial
+- Fernando Riquelme: soloascenso-partial, position-unverified
+- Francisco Leonardo: soloascenso-partial, position-unverified
+- Franco Mesa: soloascenso-partial, position-unverified
+- Franco Stella: soloascenso-partial, position-unverified
+- Gastón Dellepiane: soloascenso-partial, position-unverified
+- Gastón Tedesco: soloascenso-partial, position-unverified
+- Gerardo Sotelo: soloascenso-partial, position-unverified
+- Gonzalo Zabala: soloascenso-partial, position-unverified
+- Héctor Cardozo: soloascenso-partial, position-unverified
+- Ignacio Castro: soloascenso-partial, position-unverified
+- Ignacio Terán: soloascenso-partial, position-unverified
+- Iván Esculino: soloascenso-partial, position-unverified
+- Ivo Hongn: soloascenso-partial, position-unverified
+- Joan Gaona: soloascenso-partial, position-unverified
+- Joaquín Rikemberg: soloascenso-partial, position-unverified
+- Jonatan Duche: soloascenso-partial, position-unverified
+- Jonatan Lastra: soloascenso-partial, position-unverified
+- Jonatan Tridente: soloascenso-partial, position-unverified
+- José Villalba: soloascenso-partial, position-unverified
+- Juan Brunetti: soloascenso-partial, position-unverified
+- Juan Cruz Franzoni: soloascenso-partial, position-unverified
+- Juan Cruz La Scaleia: soloascenso-partial, position-unverified
+- Juan Ortíz López: soloascenso-partial, position-unverified
+- Julián Bartolo: soloascenso-partial, position-unverified
+- Kevin Guajardo: soloascenso-partial, position-unverified
+- Lautaro Ocampo: soloascenso-partial, position-unverified
 - Leandro Ledesma: cups-partial
+- Leonel Duarte: soloascenso-partial, position-unverified
+- Mariano Mc Coubrey: soloascenso-partial, position-unverified
+- Martino Dorato: soloascenso-partial, position-unverified
+- Matias Abruzzese: soloascenso-partial, position-unverified
+- Matías Italiani: soloascenso-partial, position-unverified
+- Matías Portillo: soloascenso-partial, position-unverified
+- Mauro Mallorca: soloascenso-partial, position-unverified
+- Maximiliano Alvarenga: soloascenso-partial, position-unverified
+- Maximiliano Ortigoza: soloascenso-partial, position-unverified
+- Maximiliano Plante: soloascenso-partial, position-unverified
+- Maximiliano Resquín: soloascenso-partial, position-unverified
 - Maximiliano Rogoski: club-unverified, season-list-truncated
+- Nadir Zeineddin: soloascenso-partial, position-unverified
+- Nahuel Gómez: soloascenso-partial, position-unverified
+- Nazareno Pompei: soloascenso-partial, position-unverified
+- Nicolás Kissner: soloascenso-partial, position-unverified
+- Nicolás Pizarro: soloascenso-partial, position-unverified
+- Nicolás Vidal: soloascenso-partial, position-unverified
+- Ramiro Montenegro: soloascenso-partial, position-unverified
+- Ricardo Bernay: soloascenso-partial, position-unverified
+- Rodrigo Martínez: soloascenso-partial, position-unverified
+- Thiago Rodríguez: soloascenso-partial, position-unverified
+- Tomás Álvarez: soloascenso-partial, position-unverified
+- Walter Hermoso: soloascenso-partial, position-unverified
+- Walter Ibarra: soloascenso-partial, position-unverified
+- Wilson Palacios Hurtado: soloascenso-partial, position-unverified
+- Yaco Campoamor: soloascenso-partial, position-unverified
+- Agustín Alfano: soloascenso-partial, position-unverified
+- Agustín Almirón: soloascenso-partial, position-unverified
+- Agustín Arias: soloascenso-partial, position-unverified
+- Alejandro Ayala: soloascenso-partial, position-unverified
+- Alexis Dalul: soloascenso-partial, position-unverified
+- Ángel Ríos: soloascenso-partial, position-unverified
+- Antonio Kaial: soloascenso-partial, position-unverified
+- Ariel Brunfman: soloascenso-partial, position-unverified
+- Augusto Sonzogni: soloascenso-partial, position-unverified
+- Axel Martínez: soloascenso-partial, position-unverified
+- Axel Pereyra: soloascenso-partial, position-unverified
+- Brandon Arriola: soloascenso-partial, position-unverified
+- Brian Ferreyra: soloascenso-partial, position-unverified
+- Bruno Machuca: soloascenso-partial, position-unverified
+- Celso Báez: soloascenso-partial, position-unverified
+- Cristian Vella: seasons-before-2008-not-counted, soloascenso-partial
+- Daniel de Santis: soloascenso-partial
+- Diego Bernardi: soloascenso-partial, position-unverified
 - Dilan Godoy: cups-partial
+- Eber Garro: soloascenso-partial, position-unverified
+- Enzo Ritacco: soloascenso-partial, position-unverified
+- Ezequiel Chazarreta: soloascenso-partial, position-unverified
+- Facundo Gómez: soloascenso-partial, position-unverified
+- Federico Carneiro: soloascenso-partial, position-unverified
+- Franco Gatti: soloascenso-partial, position-unverified
+- Gabriel Frías: soloascenso-partial, position-unverified
+- Gabriel Soler: soloascenso-partial, position-unverified
+- Gastón Scisci: soloascenso-partial, position-unverified
 - Genaro Rossi: club-unverified, season-list-truncated
+- Gianluca Alfenoni: soloascenso-partial, position-unverified
+- Hernán Rodríguez: soloascenso-partial, position-unverified
+- Ian Puleio: soloascenso-partial, position-unverified
+- Ignacio Sarradell: soloascenso-partial, position-unverified
+- Ismael Villalba: soloascenso-partial, position-unverified
+- Jacky Ntomba: soloascenso-partial, position-unverified
+- Jerónimo Almada: soloascenso-partial, position-unverified
 - Jhon Córdoba: cups-partial
+- Johan Laureiro: soloascenso-partial, position-unverified
+- Jonathan Maza: soloascenso-partial, position-unverified
+- Joshua Gómez: soloascenso-partial, position-unverified
+- Juan Carlos Álbarez: soloascenso-partial, position-unverified
+- Juan Cruz Villagra: soloascenso-partial, position-unverified
+- Juan Ignacio Borasit: soloascenso-partial, position-unverified
+- Julio Martínez: soloascenso-partial, position-unverified
 - Lautaro Gutiérrez: cups-partial
+- Lautaro Suárez Costa: soloascenso-partial, position-unverified
+- Lucas Nuñez: soloascenso-partial, position-unverified
+- Lucas Saavedra: soloascenso-partial, position-unverified
+- Luciano Venturini: soloascenso-partial, position-unverified
+- Luis Olmedo: soloascenso-partial, position-unverified
+- Luis Pérez: soloascenso-partial, position-unverified
+- Matías Blanco: soloascenso-partial, position-unverified
+- Matías Cáceres: soloascenso-partial, position-unverified
+- Matías Navarro: soloascenso-partial, position-unverified
+- Mauro Boaglio: soloascenso-partial, position-unverified
 - Mauro Cachi: season-list-truncated, cups-partial
 - Maximiliano Zalazar: cups-partial
 - Nicolás Barros Schelotto: cups-partial
+- Nicolás Lugli: soloascenso-partial, position-unverified
+- Oriel Maldonado: soloascenso-partial, position-unverified
+- Renzo Fernández: soloascenso-partial, position-unverified
+- Román Pintos: soloascenso-partial, position-unverified
+- Santiago Piersigilli: soloascenso-partial, position-unverified
+- Santiago Sandoval: soloascenso-partial, position-unverified
 - Tobías Andrada: cups-partial
+- Tomás Bruno: soloascenso-partial, position-unverified
+- Tomás Cagliari: soloascenso-partial, position-unverified
+- Tomás Ojeda: soloascenso-partial, position-unverified
+- Tomás Palpacelli: soloascenso-partial, position-unverified
 - Aarón Quirós: season-list-truncated, cups-partial
+- Agustín Ambrosio: soloascenso-partial, position-unverified
+- Agustín Lizondo: soloascenso-partial, position-unverified
+- Alejandro Vera: soloascenso-partial, position-unverified
+- Alejo Macelli: soloascenso-partial, position-unverified
+- Alejo Torres: soloascenso-partial, position-unverified
+- Alexis Galves: soloascenso-partial, position-unverified
+- Brandon Maciel: soloascenso-partial, position-unverified
 - Christian Bassedas: cups-partial
+- Claudio Acosta: soloascenso-partial, position-unverified
+- Cristian Romero: soloascenso-partial, position-unverified
+- Cristian Varela: soloascenso-partial, position-unverified
+- Damián Pérez Roa: soloascenso-partial, position-unverified
+- Damián Solferino: soloascenso-partial, position-unverified
+- Daniel Sosa: soloascenso-partial, position-unverified
+- Diego Leguiza: soloascenso-partial, position-unverified
+- Diego Ursino: soloascenso-partial, position-unverified
+- Emanuel Grespán: soloascenso-partial, position-unverified
+- Emiliano Bonfigli: soloascenso-partial, position-unverified
+- Emir Cejas: soloascenso-partial, position-unverified
+- Enzo Astiz: soloascenso-partial, position-unverified
+- Enzo Romano: soloascenso-partial, position-unverified
+- Esteban López: soloascenso-partial, position-unverified
+- Fabián Castillo: soloascenso-partial, position-unverified
+- Federico Maraschi: soloascenso-partial, position-unverified
+- Federico Rodríguez: soloascenso-partial, position-unverified
+- Fernando Gutiérrez: soloascenso-partial, position-unverified
+- Franco Carella: soloascenso-partial, position-unverified
 - Gabriel Cedrés: cups-partial
+- Ian Galván: soloascenso-partial, position-unverified
 - Jeremías Lázaro: cups-partial
-- Jeremías Perales: season-list-truncated, cups-partial
+- Joaquín Rodríguez: soloascenso-partial, position-unverified
+- Juan Gambarte: soloascenso-partial, position-unverified
+- Juan Vinaccia: soloascenso-partial, position-unverified
+- Kevin Joel Aquino: soloascenso-partial, position-unverified
+- Kevin Luque: soloascenso-partial, position-unverified
+- Lucas Gallo: soloascenso-partial, position-unverified
+- Luciano Andrada: soloascenso-partial, position-unverified
+- Manuel Oliver: soloascenso-partial, position-unverified
+- Marcelo Zaen: soloascenso-partial, position-unverified
+- Mariano Chávez: soloascenso-partial, position-unverified
 - Martín Posse: cups-partial
 - Mikel Amondarain: cups-partial
+- Nicolás Nobile: soloascenso-partial, position-unverified
 - Santiago Sosa: cups-partial
 - Tomás Adoryán: cups-partial
 - Tomás Castro Ponce: cups-partial
 - Agustín Hausch: cups-partial
 - Alexander Machado: cups-partial
-- Enzo Coacci: cups-partial
 - Franco Olego: club-unverified
 - Lautaro Godoy: cups-partial
 - Martín Lazarte: season-list-truncated, cups-partial
 - Mauro Burruchaga: season-list-truncated, cups-partial
 - Sebastián Riquelme: club-unverified, season-list-truncated
 - Valentín Aguiñagalde: season-list-truncated, cups-partial
+- Diego Velázquez: soloascenso-partial, position-unverified
+- Francisco Agost: soloascenso-partial, position-unverified
+- Gastón Portiño: soloascenso-partial, position-unverified
 - Hugo Gatti: goalkeeper-goals-assumed-zero
 - Ubaldo Fillol: goalkeeper-goals-assumed-zero
 

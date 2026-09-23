@@ -1,9 +1,8 @@
-import { useMemo, type ReactNode } from 'react'
+import { useMemo, useState, type ReactNode } from 'react'
 import { TARGET } from '../lib/scoring'
 import type { Formation, Lineup } from '../lib/types'
 import { CafecitoButton } from './Cafecito'
 import { FootballPitch } from './FootballPitch'
-import { BallOverBar, EmptyTank, Trophy } from './Illustrations'
 
 const COLORS = ['#75aadb', '#ffffff', '#f6b40e']
 
@@ -37,6 +36,23 @@ function Confetti() {
         />
       ))}
     </div>
+  )
+}
+
+const DEFEAT_PHOTOS = [1, 2, 3, 4, 5].map((n) => `/resultados/derrota-${n}.jpg`)
+const VICTORY_PHOTOS = [1, 2, 3].map((n) => `/resultados/victoria-${n}.jpg`)
+
+/** One photo picked at random when the screen opens. */
+function ResultPhoto({ photos, alt, tone }: { photos: string[]; alt: string; tone: 'win' | 'lose' }) {
+  const [src] = useState(() => photos[Math.floor(Math.random() * photos.length)])
+  return (
+    <img
+      src={src}
+      alt={alt}
+      className={`drop-in max-h-[40dvh] w-auto max-w-full rounded-3xl border object-contain shadow-[0_12px_30px_rgb(0_0_0/0.45)] ${
+        tone === 'win' ? 'border-sol/40' : 'border-bust/40'
+      }`}
+    />
   )
 }
 
@@ -82,7 +98,7 @@ export function VictoryScreen({
   return (
     <EndShell label="Dale campeón" tone="win">
       <Confetti />
-      <Trophy className="drop-in bob h-36 w-32 drop-shadow-[0_12px_30px_rgb(246_180_14/0.45)]" />
+      <ResultPhoto photos={VICTORY_PHOTOS} alt="Messi victoria" tone="win" />
       <p className="font-display tabular glow-sol mt-3 text-7xl leading-none text-sol">
         {total} <span className="text-3xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>
@@ -122,21 +138,20 @@ export function LostScreen({
   overBy,
   onRestart,
   onClose,
+  canFix,
 }: {
   total: number
   overBy: number
   onRestart: () => void
   onClose: () => void
+  /** a change is still available to fix the team */
+  canFix: boolean
 }) {
   const over = overBy > 0
   return (
     <EndShell label={over ? 'Te pasaste' : 'No llegaste'} tone="lose">
-      {over ? (
-        <BallOverBar className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.35)]" />
-      ) : (
-        <EmptyTank className="drop-in h-40 w-36 drop-shadow-[0_12px_30px_rgb(255_107_94/0.3)]" />
-      )}
-      <p className="mt-2 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Uy, casi</p>
+      <ResultPhoto photos={DEFEAT_PHOTOS} alt="Messi derrota" tone="lose" />
+      <p className="mt-4 text-xs font-extrabold tracking-[0.3em] text-bust uppercase">Uy, casi</p>
       <h2 className="font-display mt-1 text-[2.6rem] leading-none tracking-wide">
         {over ? '¡TE PASASTE DE ROSCA!' : '¡NO TE DIO LA NAFTA!'}
       </h2>
@@ -144,18 +159,19 @@ export function LostScreen({
         {total} <span className="text-2xl text-chalk-dim [text-shadow:none]">/ {TARGET}</span>
       </p>
       <p className="mt-3 max-w-xs text-sm text-chalk-dim">
-        {over
-          ? `La mandaste a la tribuna: ${overBy} goles de más. Sacá o cambiá a alguien.`
-          : `Completaste el XI y te faltan ${TARGET - total} goles. Cambiá a alguien.`}
+        {over ? `La mandaste a la tribuna: ${overBy} goles de más.` : `Te faltan ${TARGET - total} goles.`}{' '}
+        {canFix ? (over ? 'Sacá o cambiá a alguien.' : 'Cambiá a alguien.') : 'Y no te quedan cambios: partido terminado.'}
       </p>
       <div className="mt-7 flex w-full flex-col gap-3">
-        <button
-          type="button"
-          onClick={onClose}
-          className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
-        >
-          Corregir mi equipo
-        </button>
+        {canFix && (
+          <button
+            type="button"
+            onClick={onClose}
+            className="rounded-2xl bg-celeste py-4 font-extrabold tracking-wide text-night uppercase shadow-[0_10px_30px_-10px_rgb(117_170_219/0.7)] transition active:scale-[0.98]"
+          >
+            Corregir mi equipo
+          </button>
+        )}
         <button
           type="button"
           onClick={onRestart}

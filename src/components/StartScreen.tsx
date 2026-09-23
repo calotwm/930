@@ -25,6 +25,11 @@ export function StartScreen({ playerCount, onStart }: { playerCount: number; onS
             Acá vas a necesitar <b className="text-chalk">11 jugadores</b> para intentar alcanzar esa cifra. Elegilos bien, porque
             cada gol cuenta.
           </p>
+          <p className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-[14px] leading-snug text-chalk-dim">
+            <b className="text-celeste-soft">5 cambios en 3 ventanas</b>, como en el fútbol de hoy. Sacar o reemplazar a un
+            jugador que ya está en la cancha usa un cambio. Los cambios que hacés seguidos van en la misma ventana; cuando volvés
+            a completar un puesto vacío, la ventana se cierra.
+          </p>
           <p className="font-display text-3xl text-sol">¿Llegás a {TARGET}?</p>
           <p className="text-[15px] font-bold text-chalk">
             <span aria-hidden="true">🏆 </span>El desafío empieza ahora.

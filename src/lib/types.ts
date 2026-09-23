@@ -1,6 +1,6 @@
 export type Position = 'GK' | 'CB' | 'LB' | 'RB' | 'DM' | 'CM' | 'AM' | 'LW' | 'RW' | 'ST'
 
-export type Division = 'Primera' | 'Primera Nacional'
+export type Division = 'Primera' | 'Primera Nacional' | 'Ascenso'
 
 export interface SourceRef {
   name: string

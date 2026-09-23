@@ -27,7 +27,7 @@ export function PlayerCard({
           </p>
           <div className="mt-1.5 flex items-center gap-1.5 text-[10px] font-bold tracking-wider text-chalk-dim">
             <span className="rounded bg-white/10 px-1.5 py-0.5 text-chalk">{POSITION_LABEL[player.position]}</span>
-            <span className={player.division === 'Primera Nacional' ? 'text-sol' : ''}>{player.scope}</span>
+            <span className={player.division !== 'Primera' ? 'text-sol' : ''}>{player.scope}</span>
             {disabledReason && <span className="text-bust">· {disabledReason}</span>}
           </div>
         </div>

@@ -30,7 +30,7 @@ describe('dataset', () => {
     for (const p of PLAYERS) {
       expect(POSITIONS, p.id).toContain(p.position)
       expect(Number.isInteger(p.goals) && p.goals >= 0, p.id).toBe(true)
-      expect(['Primera', 'Primera Nacional'], p.id).toContain(p.division)
+      expect(['Primera', 'Primera Nacional', 'Ascenso'], p.id).toContain(p.division)
       expect(p.name.trim().length, p.id).toBeGreaterThan(0)
     }
   })

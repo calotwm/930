@@ -1,0 +1,1123 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = Boca Juniors match.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[Estadio Alberto J. Armando|estadio La Bombonera]] ([[Buenos Aires]]) fue sede del partido del vuelta de la [[Anexo:Final de la Copa Sudamericana 2004|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 35 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|10|8|2004}}<br>{{fecha2|17|12|2004}}
+| edición = III
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = {{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| semifinalistas = {{bandera|BRA}} [[Sport Club Internacional|Internacional]] <br> {{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+| partidos = 68
+| goles = 174 (2,55 por partido)
+| goleadores = 
+| anterior = [[Copa Sudamericana 2003]]
+| actual = Copa Sudamericana 2004
+| siguiente = [[Copa Sudamericana 2005]]
+|goleador={{bandera|ARG}} [[Horacio Chiorazzo]] (5 goles)<br><small>([[Club Bolívar|Bolívar]])</small>}}
+La '''[[Copa Sudamericana]] 2004''', denominada por motivos comerciales '''Copa Nissan Sudamericana 2004''', fue la tercera edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Club Atlético Boca Juniors|Boca Juniors]] de [[Argentina]], que derrotó en la final a [[Club Bolívar|Bolívar]] de [[Bolivia]] con un global de 2-1. Gracias a ello, disputó la [[Recopa Sudamericana 2005]] ante [[Once Caldas]], campeón de la [[Copa Libertadores 2004]]. Además, clasificó a los octavos de final de la [[Copa Sudamericana 2005]].
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. De los 35 participantes, solamente [[Club Atlético Boca Juniors|Boca Juniors]] y [[Club Atlético River Plate|River Plate]] de [[Argentina]] —invitados por Conmebol— iniciaron el torneo desde la tercera fase. Los restantes 33 debieron disputar la rondas previas, donde las llaves se establecieron enfrentándose los equipos del mismo país de origen. De ellas salieron los últimos 14 clasificados a la tercera fase, instancia inmediatamente previa a los cuartos de final, las semifinales y la final, en la que se declaró al campeón. En caso de igualdad de puntos y diferencia de goles al finalizar ambos encuentros, en cualquiera de las fases, se ejecutaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(10 equipos)
+|
+* 8 equipos de Brasil
+* 2 equipos de Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(28 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2003
+* 4 equipos de Brasil
+* 4 equipos de Argentina
+* 2 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú y Uruguay
+|
+* 5 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Tercera fase
+(16 equipos)
+|
+* 2 equipos de Argentina
+|
+* 14 equipos clasificados de la Segunda fase
+|-
+! colspan="2" |Cuartos de final
+(8 equipos)
+|
+|
+* 8 equipos clasificados de la Tercera fase
+|}
+
+== Distribución de los cupos ==
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! segunda fase
+! Primera fase
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''12'''
+| –
+|4 
+|8
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| 2
+| 4 
+| –
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+| –
+| 2
+| –
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|ECU|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+| –
+| 2
+| –
+|-
+| align="left" |{{Bandera|PAR|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+| –
+| 2
+| –
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''2'''
+| –
+| 2
+| –
+|- 
+| align="left" |{{Bandera|VEN|1954}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |Fase anterior
+| –
+| 14
+| 5
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| –
+| 1
+| –
+|-
+!Total
+!35
+!16
+!28
+!10
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="90%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="69%" |Vía de clasificación
+|-
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br>4 cupos<br>''+ 2 invitados''
+| ''[[Club Atlético Banfield|Banfield]]''<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>''[[Quilmes Atlético Club|Quilmes]]''<br>''[[Arsenal Fútbol Club|Arsenal]]''<ref group="Nota" name="Arsenal">Ingresó en lugar de [[Club Atlético Talleres (Córdoba)|Talleres de Córdoba]], que ocupó el 6.º puesto, pero no participó por tener que jugar la promoción por el descenso.</ref><br>[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético River Plate|River Plate]]
+|Mejor equipo ubicado en la [[Campeonato de Primera División 2003-04 (Argentina)#Clasificación a la Copa Sudamericana 2004|tabla de posiciones del Campeonato de Primera División 2003-04]]<br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2003-04<br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2003-04<br>5.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2003-04<br>''Invitado''<br>''Invitado''
+|- bgcolor=#D0E7FF
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br>2 cupos
+| [[Club Bolívar|Bolívar]]<br>''[[Club Aurora|Aurora]]''
+|Campeón del [[Campeonato de Primera División 2004 (Bolivia)#Torneo Apertura 2|Torneo Apertura 2004]]<br>Subcampeón del Torneo Apertura 2004
+|-
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br>12 cupos
+| [[São Paulo Futebol Clube|São Paulo]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]<br>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>[[Clube de Regatas do Flamengo|Flamengo]]<br>[[Santos Futebol Clube|Santos]]<br>[[Associação Desportiva São Caetano|São Caetano]]<br>''[[Coritiba Foot Ball Club|Coritiba]]''<br>[[Sport Club Internacional|Internacional]]<br>[[Clube Atlético Mineiro|Atlético Mineiro]]<br>''[[Goiás Esporte Clube|Goiás]]''<br>''[[Paraná Clube|Paraná]]''<br>''[[Figueirense Futebol Clube|Figueirense]]''
+|Mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>2.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>3.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>4.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>Subcampeón del [[Campeonato Brasileño de Fútbol 2003|Campeonato Brasileño de 2003]]<br>4.º puesto del Campeonato Brasileño de 2003<br>5.º puesto del Campeonato Brasileño de 2003<br>6.º puesto del Campeonato Brasileño de 2003<br>7.º puesto del Campeonato Brasileño de 2003<br>9.º puesto del Campeonato Brasileño de 2003<br>10.º puesto del Campeonato Brasileño de 2003<br>11.º puesto del Campeonato Brasileño de 2003
+|- bgcolor=#D0E7FF
+|{{Bandera|CHI}} '''[[Federación de Fútbol de Chile|Chile]]'''<br>2 cupos
+| [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]<br>''[[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]''
+|Ganador de la [[Liguilla Pre-Sudamericana 2004 (Chile)|Liguilla Pre-Sudamericana 2004]]<br>Ganador de la [[Liguilla Pre-Sudamericana 2004 (Chile)|Liguilla Pre-Sudamericana 2004]]
+|-
+|{{Bandera|COL}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br>2 cupos
+|''[[Junior de Barranquilla|Junior]]<br>[[Millonarios Fútbol Club|Millonarios]]''
+|Mejor equipo ubicado en la [[Temporada 2003 del fútbol colombiano#Tabla de reclasificación|Reclasificación 2003]] no participante de la Copa Libertadores 2004<br>2.º mejor equipo ubicado en la Reclasificación 2003 no participante de la Copa Libertadores 2004
+|- bgcolor=#D0E7FF
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>2 cupos
+| [[Sociedad Deportiva Aucas|Aucas]]<br>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|Ganador de la [[Campeonato Ecuatoriano de Fútbol 2004#Primera etapa|primera etapa del Campeonato Ecuatoriano de 2004]]<br>2.º puesto de la primera etapa del Campeonato Ecuatoriano de 2004
+|-
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>2 cupos
+| [[Club Libertad|Libertad]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Subcampeón del [[Campeonato Paraguayo de Fútbol 2004#Torneo Apertura 2004|Torneo Apertura 2004]]<br>Ganador de la [[Campeonato Paraguayo de Fútbol 2004#Pre-Sudamericana 2004|Liguilla Pre-Sudamericana 2004]]
+|- bgcolor=#D0E7FF
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br>2 cupos<br>''+ campeón vigente''
+| [[Club Cienciano del Cusco|Cienciano]]<br>''[[Alianza Atlético Sullana|Alianza Atlético]]<br>[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]]''
+|Campeón de la [[Copa Sudamericana 2003]]<br>2.º puesto del [[Campeonato Descentralizado 2003#Grupo clasificatorio|triangular clasificatorio a la Copa Libertadores 2004]]<br>3.º puesto del triangular clasificatorio a la Copa Libertadores 2004
+|-
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>2 cupos
+| ''[[Club Atlético Peñarol|Peñarol]]''<br>[[Danubio Fútbol Club|Danubio]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2003|Campeonato Uruguayo de 2003]]<br>2.º puesto de la [[Campeonato Uruguayo de Primera División 2003#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 2003]]
+|- bgcolor=#D0E7FF
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br>2 cupos
+| ''[[Carabobo Fútbol Club|Carabobo]]''<br>[[Deportivo Petare Fútbol Club|Deportivo Italchacao]]
+|Mejor equipo ubicado en la [[Primera División Venezolana 2003-04#Acumulada|tabla acumulada de la Primera División Venezolana 2003-04]] no participante de la Copa Libertadores 2005<br>2.º mejor equipo ubicado en la tabla acumulada de la Primera División Venezolana 2003-04 no participante de la Copa Libertadores 2005
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Sudamericana 2004'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''
+{{Esd|Equipos de la
+[[Buenos Aires|Ciudad de Buenos Aires]]}}'''<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''<br>Equipos de
+la [[Provincia de Buenos Aires]]:<br>[[Arsenal Fútbol Club|Arsenal]]<br>[[Club Atlético Banfield|Banfield]]<br>[[Quilmes Atlético Club|Quilmes]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Aurora|Aurora]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-16.678889|long=-49.253889|label=<small>[[Goiás Esporte Clube|Goiás]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-27.593281|long=-48.553047|label=<small>[[Figueirense Futebol Clube|Figueirense]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small><br>[[Santos Futebol Clube|Santos]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Clube Atlético Mineiro|Atlético Mineiro]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>'''{{Esd|São Paulo}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-35|long=-40|label=<small>'''{{Esd|Equipos de São Paulo:}}'''<br>[[Associação Desportiva São Caetano|São Caetano]]<br>[[São Paulo Futebol Clube|São Paulo]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small>[[Coritiba Foot Ball Club|Coritiba]]<br>[[Paraná Clube|Paraná]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.045944|long=-71.616361|label=<small>[[Club de Deportes Santiago Wanderers|{{Esd|Santiago Wanderers}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-36.833333|long=-73.05|label=<small><br>[[Club Deportivo Universidad de Concepción (fútbol)|{{Esd|Universidad de Concepción}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=10.963889|long=-74.796389|label=<small>[[Junior de Barranquilla|Junior]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Sociedad Deportiva Aucas|Aucas]]<br>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Libertad|Libertad]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-18.055556|long=-70.248333|label=<small><br>[[Club Deportivo Coronel Bolognesi|{{Esd|Coronel Bolognesi}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-4.9|long=-80.7|label=<small>[[Alianza Atlético Sullana|{{Esd|Alianza Atlético}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-13.518333|long=-71.978056|label=<small>[[Club Cienciano del Cusco|Cienciano]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Danubio Fútbol Club|Danubio]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.166667|long=-68|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=left}}
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Deportivo Petare Fútbol Club|{{Esd|Deportivo Italchacao}}]]</small>|position=right}}
+}}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2004|l1=Primera fase de la Copa Sudamericana 2004}}
+Los dos clasificados de Venezuela se enfrentaron entre sí, y los últimos ocho clasificados de Brasil fueron emparejados en otras cuatro llaves. Los 5 ganadores avanzaron a la segunda fase.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|25 de agosto y 4 de septiembre
+| align="right" |[[Paraná Clube|Paraná]] {{bandera|Brasil}}
+| align="2" | '''2:4'''
+| align="left" |{{bandera|Brasil}} '''[[Santos Futebol Clube|Santos]]'''
+|[https://web.archive.org/web/20050112033702/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=A&id=13&slangab=S 2:1]
+|[https://web.archive.org/web/20040904144706/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=A&id=21&slangab=S 0:3]
+!Brasil I
+
+|- align="center" style="background:#F5FAFF;"
+|25 de agosto y 4 de septiembre
+| align="right" |[[Figueirense Futebol Clube|Figueirense]] {{bandera|Brasil}}
+| align="2" | '''1:1''' <small>('''2:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} '''[[Sport Club Internacional|Internacional]]'''
+|[https://web.archive.org/web/20050112041259/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=B&id=14&slangab=S 0:0]
+|[https://web.archive.org/web/20050112041618/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=B&id=24&slangab=S 1:1]
+!Brasil II
+
+|- align="center"
+|25 de agosto y 4 de septiembre
+| align="right" |'''[[Goiás Esporte Clube|Goiás]]''' {{bandera|Brasil}}
+| align="2" | '''5:3'''
+| align="left" |{{bandera|Brasil}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|[https://web.archive.org/web/20050112042604/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=C&id=12&slangab=S 4:2]
+|[https://web.archive.org/web/20050112043934/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=C&id=22&slangab=S 1:1]
+!Brasil III
+
+|- align="center" style="background:#F5FAFF;"
+|26 de agosto y 4 de septiembre
+| align="right" |[[Coritiba Foot Ball Club|Coritiba]] {{bandera|Brasil}}
+| align="2" | '''3:4'''
+| align="left" |{{bandera|Brasil}} '''[[Associação Desportiva São Caetano|São Caetano]]'''
+|[https://web.archive.org/web/20090911051146/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=D&id=15&slangab=S 1:2]
+|[https://web.archive.org/web/20050112045519/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=D&id=23&slangab=S 2:2]
+!Brasil IV
+
+|- align="center"
+|12 y 17 de agosto
+| align="right" |[[Petare Fútbol Club|Deportivo Italchacao]] {{bandera|Venezuela|1954}}
+| align="2" | '''0:2'''
+| align="left" |{{bandera|Venezuela|1954}} '''[[Carabobo Fútbol Club|Carabobo]]'''
+|[https://web.archive.org/web/20050112044229/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=A&id=3&slangab=S 0:0]
+|[https://web.archive.org/web/20050112044455/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=A&id=5&slangab=S 0:2]
+!Venezuela 1
+
+|}
+
+== Segunda fase ==
+{{AP|Anexo:Segunda fase de la Copa Sudamericana 2004|l1=Segunda fase de la Copa Sudamericana 2004}}
+A los 5 ganadores de la primera fase se les unieron los últimos cuatro clasificados de Argentina, los mejores cuatro clasificados de Brasil, y todos los clasificados de los restantes países. Se establecieron 14 llaves, que enfrentó a cada equipo con otro clasificado de su mismo país, excepto por el campeón defensor, que fue emparejado con el clasificado venezolano de la primera fase. Los 14 ganadores avanzaron a la tercera fase.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|24 y 31 de agosto
+| align="right" |[[Carabobo Fútbol Club|Carabobo]] {{bandera|Venezuela|1954}}
+| align="2" | '''2:8'''
+| align="left" |{{bandera|Perú}} '''[[Club Cienciano del Cusco|Cienciano]]'''
+|[https://web.archive.org/web/20050112045445/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=B&id=10&slangab=S 1:2]
+|[https://web.archive.org/web/20050112051541/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=B&id=18&slangab=S 1:6]
+!Campeón/Venezuela
+
+|- align="center" style="background:#F5FAFF;"
+|18 de agosto y 1 de septiembre
+| align="right" |[[Quilmes Atlético Club|Quilmes]] {{bandera|Argentina}}
+| align="2" | '''0:2'''
+| align="left" |{{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|[https://web.archive.org/web/20040815114020/http://www2.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=B&id=7&slangab=S 0:2]
+|[https://web.archive.org/web/20050112051849/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=B&id=19&slangab=S 0:0]
+!Argentina 3
+
+|- align="center"
+|10 de agosto y 2 de septiembre
+| align="right" |'''[[Arsenal Fútbol Club|Arsenal]]''' {{bandera|Argentina}}
+| align="2" | '''5:4'''
+| align="left" |{{bandera|Argentina}} [[Club Atlético Banfield|Banfield]]
+|[https://web.archive.org/web/20040815114016/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=A&id=1&slangab=S 1:1]
+|[https://web.archive.org/web/20050112050839/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=A&id=20&slangab=S 4:3]
+!Argentina 4
+
+|- align="center" style="background:#F5FAFF;"
+|12 y 19 de agosto
+| align="right" |[[Club Aurora|Aurora]] {{bandera|Bolivia}}
+| align="2" | '''2:5'''
+| align="left" |{{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+|[https://web.archive.org/web/20050112033956/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=B&id=4&slangab=S 1:2]
+|[https://web.archive.org/web/20050112035250/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=B&id=8&slangab=S 1:3]
+!Bolivia 1
+
+|- align="center"
+|15 y 22 de septiembre
+| align="right" |'''[[Santos Futebol Clube|Santos]]''' {{bandera|Brasil}}
+| align="2" | '''2:2''' <small>('''5:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} [[Clube de Regatas do Flamengo|Flamengo]]
+|[https://web.archive.org/web/20050112051035/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=E&id=32&slangab=S 0:0]
+|[https://web.archive.org/web/20050112052136/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=E&id=40&slangab=S 2:2]
+!Brasil V
+
+|- align="center" style="background:#F5FAFF;"
+|15 y 22 de septiembre
+| align="right" |'''[[Sport Club Internacional|Internacional]]''' {{bandera|Brasil}}
+| align="2" | '''3:2'''
+| align="left" |{{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|[https://web.archive.org/web/20040917111004/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=F&id=31&slangab=S 2:0]
+|[https://web.archive.org/web/20050112053703/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=F&id=39&slangab=S 1:2]
+!Brasil VI
+
+|- align="center"
+|16 y 22 de septiembre
+| align="right" |[[Goiás Esporte Clube|Goiás]] {{bandera|Brasil}}
+| align="2" | '''4:5'''
+| align="left" |{{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|[https://web.archive.org/web/20090911051146/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=G&id=34&slangab=S 2:2]
+|[https://web.archive.org/web/20041014181714/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=G&id=37&slangab=S 2:3]
+!Brasil VII
+
+|- align="center" style="background:#F5FAFF;"
+|15 y 22 de septiembre
+| align="right" |[[Associação Desportiva São Caetano|São Caetano]] {{bandera|Brasil}}
+| align="2" | '''2:2''' <small>('''1:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|[https://web.archive.org/web/20050112033346/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=H&id=33&slangab=S 1:1]
+|[https://web.archive.org/web/20050112034437/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=H&id=38&slangab=S 1:1]
+!Brasil VIII
+
+|- align="center"
+|31 de agosto y 8 de septiembre
+| align="right" |'''[[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]''' {{bandera|Chile}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Chile}} [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|[https://web.archive.org/web/20050315185835/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=A&id=17&slangab=S 2:1]
+|[https://web.archive.org/web/20050315185857/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=A&id=25&slangab=S 1:0]
+!Chile 1
+
+|- align="center" style="background:#F5FAFF;"
+|19 de agosto y 9 de septiembre
+| align="right" |[[Millonarios Fútbol Club|Millonarios]] {{bandera|Colombia}}
+| align="2" | '''1:2'''
+| align="left" |{{bandera|Colombia}} '''[[Junior de Barranquilla|Junior]]'''
+|[https://web.archive.org/web/20050112043906/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=E&flt=A&id=9&slangab=S 1:0]
+|[https://web.archive.org/web/20050112042708/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=E&flt=A&id=28&slangab=S 0:2]
+!Colombia 1
+
+|- align="center"
+|11 de agosto y 14 de septiembre
+| align="right" |'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]''' {{bandera|Ecuador|1900}}
+| align="2" | '''2:1'''
+| align="left" |{{bandera|Ecuador|1900}} [[Sociedad Deportiva Aucas|Aucas]]
+|[https://web.archive.org/web/20050112052022/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=C&id=16&slangab=S 1:0]
+|[https://web.archive.org/web/20050112052510/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=C&id=29&slangab=S 1:1]
+!Ecuador 1
+
+|- align="center" style="background:#F5FAFF;"
+|17 de agosto y 14 de septiembre
+| align="right" |[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]] {{bandera|Perú}}
+| align="2" | '''2:4'''
+| align="left" |{{bandera|Perú}} '''[[Alianza Atlético Sullana|Alianza Atlético]]'''
+|[https://web.archive.org/web/20050112045529/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=E&flt=B&id=6&slangab=S 1:0]
+|1:4
+!Perú 1
+
+|- align="center"
+|11 y 24 de agosto
+| align="right" |'''[[Club Cerro Porteño|Cerro Porteño]]''' {{bandera|Paraguay|1990}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Paraguay|1990}} [[Club Libertad|Libertad]]
+|[https://web.archive.org/web/20050112053859/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=A&id=2&slangab=S 1:1]
+|[https://web.archive.org/web/20040826153401/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=A&id=11&slangab=S 2:0]
+!Paraguay 1
+
+|- align="center" style="background:#F5FAFF;"
+|9 y 21 de septiembre
+| align="right" |[[Danubio Fútbol Club|Danubio]] {{bandera|Uruguay}}
+| align="2" | '''2:3'''
+| align="left" |{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|[https://web.archive.org/web/20050112054357/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=B&id=27&slangab=S 1:2]
+|[https://web.archive.org/web/20050112022236/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=B&id=36&slangab=S 1:1]
+!Uruguay 1
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: tercera fase, cuartos de final, semifinales y final. A los 14 ganadores de la segunda fase se les sumaron [[Club Atlético Boca Juniors|Boca Juniors]] y [[Club Atlético River Plate|River Plate]], ambos invitados. Las llaves de la tercera fase fueron establecidas de acuerdo a los países de origen de cada equipo, de manera que los cuatro cuadros argentinos fueron emparejados en dos llaves, los cuatro brasileños integraron otras dos, y los ocho restantes formaron las últimas cuatro conforme a sus respectivas ubicaciones geográficas.
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!-- ATENCIÓN: Las denominaciones de cada ronda están tomadas de acuerdo a la página de Conmebol. Por favor, ¡no modificar! ¡Gracias! -->
+
+<!-- Tercera fase -->
+| RD1= Octavos de final
+| RD1-date= 7 de septiembre al 21 de octubre
+
+| RD1-team1 = {{bandera|Colombia}} '''[[Junior de Barranquilla|Junior]]'''
+| RD1-team2 = {{bandera|Perú}} [[Alianza Atlético Sullana|Alianza Atlético]]
+| RD1-score1-1 = 2
+| RD1-score2-1 = 0
+| RD1-score1-2 = 4
+| RD1-score2-2 = 1
+| RD1-score1-3 = '''6'''
+| RD1-score2-3 = '''1'''
+
+| RD1-team3 = {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD1-team4 = {{bandera|Brasil}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-score3-1 = 1
+| RD1-score4-1 = 3
+| RD1-score3-2 = 0
+| RD1-score4-2 = 1
+| RD1-score3-3 = '''1'''
+| RD1-score4-3 = '''4'''
+
+| RD1-team5 = {{bandera|Paraguay|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| RD1-team6 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score5-1 = 3
+| RD1-score6-1 = 1
+| RD1-score5-2 = 1
+| RD1-score6-2 = 2
+| RD1-score5-3 = '''4'''
+| RD1-score6-3 = '''3'''
+
+| RD1-team7 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-team8 = {{bandera|Argentina}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| RD1-score7-1 = 0
+| RD1-score8-1 = 1
+| RD1-score7-2 = 2
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''2&nbsp;{{small|(4)}}'''
+| RD1-score8-3 = '''2&nbsp;{{small|(1)}}'''
+
+| RD1-team9 = {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-team10 = {{nowrap|{{bandera|Chile}} [[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]}}
+| RD1-score9-1 = 0
+| RD1-score10-1 = 0
+| RD1-score9-2 = 4
+| RD1-score10-2 = 2
+| RD1-score9-3 = '''4'''
+| RD1-score10-3 = '''2'''
+
+| RD1-team11 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-team12 = {{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD1-score11-1 = 1
+| RD1-score12-1 = 2
+| RD1-score11-2 = 0
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''1'''
+| RD1-score12-3 = '''2'''
+
+| RD1-team13 = {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| RD1-team14 = {{bandera|Brasil}} '''[[Santos Futebol Clube|Santos]]'''
+| RD1-score13-1 = 0
+| RD1-score14-1 = 1
+| RD1-score13-2 = 1
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''1'''
+| RD1-score14-3 = '''2'''
+
+| RD1-team15 = {{bandera|Perú}} [[Club Cienciano del Cusco|Cienciano]]
+| RD1-team16 = {{bandera|Ecuador|1900}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+| RD1-score15-1 = 0
+| RD1-score16-1 = 4
+| RD1-score15-2 = 2
+| RD1-score16-2 = 2
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''6'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 27 de octubre al 11 de noviembre
+
+| RD2-team1 = {{bandera|Colombia}} [[Junior de Barranquilla|Junior]]
+| RD2-team2 = {{bandera|Brasil}} '''[[Sport Club Internacional|Internacional]]'''
+| RD2-score1-1 = 0
+| RD2-score2-1 = 1
+| RD2-score1-2 = 1
+| RD2-score2-2 = 1
+| RD2-score1-3 = '''1'''
+| RD2-score2-3 = '''2'''
+
+| RD2-team3 = {{bandera|Paraguay|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD2-team4 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-score3-1 = 1
+| RD2-score4-1 = 1
+| RD2-score3-2 = 0
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''1&nbsp;{{small|(7)}}'''
+| RD2-score4-3 = '''1&nbsp;{{small|(8)}}'''
+
+| RD2-team5 = {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| RD2-team6 = {{bandera|Argentina}} [[Arsenal Fútbol Club|Arsenal]]
+| RD2-score5-1 = 0
+| RD2-score6-1 = 1
+| RD2-score5-2 = 3
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''3'''
+| RD2-score6-3 = '''1'''
+
+| RD2-team7 = {{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+| RD2-team8 = {{bandera|Ecuador|1900}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+| RD2-score7-1 = 2
+| RD2-score8-1 = 3
+| RD2-score7-2 = 1
+| RD2-score8-2 = 2
+| RD2-score7-3 = '''3'''
+| RD2-score8-3 = '''5'''
+
+<!-- Semifinales -->
+| RD3= Semifinales
+| RD3-date= 24 de noviembre al 2 de diciembre
+
+| RD3-team1 = {{bandera|Brasil}} [[Sport Club Internacional|Internacional]]
+| RD3-team2 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD3-score1-1 = 2
+| RD3-score2-1 = 4
+| RD3-score1-2 = 0
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''2'''
+| RD3-score2-3 = '''4'''
+
+| RD3-team3 = {{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]'''
+| RD3-team4 = {{bandera|Ecuador|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+| RD3-score3-1 = 1
+| RD3-score4-1 = 1
+| RD3-score3-2 = 2
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''3'''
+| RD3-score4-3 = '''2'''
+
+<!-- Final -->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2004|Final]]
+| RD4-date= 8 y 17 de diciembre
+
+| RD4-team1 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD4-team2 = {{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+| RD4-score1-1 = 0
+| RD4-score2-1 = 1
+| RD4-score1-2 = 2
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''2'''
+| RD4-score2-3 = '''1'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2004|l1=Octavos de final de la Copa Sudamericana 2004}}
+{{Partido
+|local = [[Alianza Atlético Sullana|Alianza Atlético]]
+|paíslocal = PER
+|resultado = 0:2''' (0:1)
+|visita = [[Junior de Barranquilla|Junior]]
+|paísvisita = COL
+|refe = {{árbitro|VEN|var=1954|Luis Solórzano}}
+|fecha = 30 de septiembre de 2004
+|estadio = [[Estadio Miguel Grau (Piura)|Estadio Miguel Grau]]
+|ciudad = [[Piura]]
+|goleslocal = 
+|golesvisita = [[Juan Carlos Quintero|Quintero]] {{gol|29}}<br>[[Léiner Rolong|Rolong]] {{gol|60}}
+|reporte = https://web.archive.org/web/20050112050757/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=E&flt=C&id=44&slangab=S
+}}
+{{Partido
+|local = [[Junior de Barranquilla|Junior]]
+|paíslocal = COL
+|resultado = 4:1''' (2:0)
+|visita = [[Alianza Atlético Sullana|Alianza Atlético]]
+|paísvisita = PER
+|refe = {{árbitro|ECU|var=1900|Mauricio Reinoso}}
+|fecha = 19 de octubre de 2004
+|estadio = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad = [[Barranquilla]]
+|goleslocal = [[Orlando Ballesteros|Ballesteros]] {{gol|15}}<br>[[Leonardo Rojano|Rojano]] {{gol|18}}<br>[[Hayder Palacio|Palacio]] {{gol|51|pen.}}<br>[[Omar Pérez|Pérez]] {{gol|71}}
+|golesvisita = [[Emerson Panigutti|Panigutti]] {{gol|64|pen.}}
+|reporte = https://web.archive.org/web/20050112052153/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=E&flt=C&id=51&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Sport Club Internacional|Internacional]]
+|paíslocal = BRA
+|resultado = 3:1''' (1:1)
+|visita = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita = BRA
+|refe = {{árbitro|BRA|Wagner Tardelli}}
+|fecha = 10 de octubre de 2004
+|estadio = [[Estadio Beira-Rio]]
+|ciudad = [[Porto Alegre]]
+|goleslocal = [[Fernando Lúcio da Costa|Fernandão]] {{gol|19}}<br>[[Wilson Roberto dos Santos|Wilson]] {{gol|49}}<br>[[Paulo Francisco da Silva Paz|Chiquinho]] {{gol|82}}
+|golesvisita = [[Leandro Silva Wanderley|Leandro]] {{gol|36}}
+|reporte = 
+}}
+{{Partido
+|local = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal = BRA
+|resultado = 0:1''' (0:0)
+|visita = [[Sport Club Internacional|Internacional]]
+|paísvisita = BRA
+|refe = {{árbitro|BRA|Héber Lopes}}
+|fecha = 20 de octubre de 2004
+|estadio = [[Estadio Mineirão]]
+|ciudad = [[Belo Horizonte]]
+|goleslocal = 
+|golesvisita = [[Rafael Sóbis|Sóbis]] {{gol|73}}
+|reporte = https://web.archive.org/web/20050112043118/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=J&id=53&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal = URU
+|resultado = 1:3''' (0:2)
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|refe = {{árbitro|BRA|Carlos Simon}}
+|fecha = 6 de octubre de 2004
+|estadio = [[Estadio Centenario]]
+|ciudad = [[Montevideo]]
+|goleslocal = [[Jorge Horacio Serna|Serna]] {{gol|80}}
+|golesvisita = [[Julio dos Santos|Dos Santos]] {{gol|27}}<br>[[César Ramírez (futbolista)|Ramírez]] {{gol|30}}<br>[[Néstor Isasi|Isasi]] {{gol|66}}
+|reporte = https://web.archive.org/web/20050112032600/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=C&id=47&slangab=S
+}}
+{{Partido
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 1:2''' (0:0)
+|visita = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita = URU
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|fecha = 21 de octubre de 2004
+|estadio = [[Estadio General Pablo Rojas]]
+|ciudad = [[Asunción]]
+|goleslocal = [[César Ramírez (futbolista)|Ramírez]] {{gol|76}}
+|golesvisita = [[Cristian Rodríguez|C. Rodríguez]] {{gol|61}}<br>[[Carlos Diogo|Diogo]] {{gol|75}}
+|reporte = https://web.archive.org/web/20050112034416/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=F&flt=C&id=54&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 1:0''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Oscar Sequeira}}
+|fecha = 16 de septiembre de 2004
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Hernán Adrián González|A. González]] {{gol|89}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112053614/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=C&id=35&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 2:1''' (1:1)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Claudio Martín}}
+|fecha = 29 de septiembre de 2004
+|estadio = [[Estadio Padre Ernesto Martearena]]
+|ciudad = [[Salta]]
+|goleslocal = [[Martín Palermo|Palermo]] {{gol|33}}<br>[[Carlos Tévez|Tévez]] {{gol|80}}
+|golesvisita = [[Ariel Gustavo Pereyra|Pereyra]] {{gol|1}}
+|reporte = https://web.archive.org/web/20050112054751/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=C&id=42&slangab=S
+|penaltis1 = [[César Alberto González|C. González]] {{pengol}} <br> [[Guillermo Barros Schelotto|Barros Schelotto]] {{pengol}} <br> [[Martín Palermo|Palermo]] {{pengol}} <br> [[Cristian Traverso|Traverso]] {{pengol}}
+|resultado penalti = 4:1
+|penaltis2 = {{pengol}} [[Walter Ariel García|W. García]] <br> {{penfallo|desviado}} [[Pablo Zabaleta|Zabaleta]] <br> {{penfallo|atajado}} [[Ezequiel Lavezzi|Lavezzi]]
+}}
+<br>
+{{Partido
+|local = [[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]
+|paíslocal = CHI
+|resultado = 0:0
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|refe = {{árbitro|PAR|var=1990|Nelson Valenzuela}}
+|fecha = 28 de septiembre de 2004
+|estadio = [[Estadio Municipal Alcaldesa Ester Roa Rebolledo|Estadio Municipal]]
+|ciudad = [[Concepción (Chile)|Concepción]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050315185648/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=C&id=41&slangab=S
+}}
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 4:2''' (4:1)
+|visita = [[Club Deportivo Universidad de Concepción (fútbol)|Universidad de Concepción]]
+|paísvisita = CHI
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|fecha = 19 de octubre de 2004
+|estadio = [[Estadio Hernando Siles]]
+|ciudad = [[La Paz]]
+|goleslocal = [[Ronald García|García]] {{gol|16}}<br>[[Horacio Chiorazzo|Chiorazzo]] {{gol|26}}<br>[[Limberg Gutiérrez|Gutiérrez]] {{gol|30}}<br>[[Roger Suárez|Suárez]] {{gol|39}}
+|golesvisita = [[Cristián Gómez|Gómez]] {{gol|12}}<br>[[Nicolás Perić|Perić]] {{gol|68}} 
+|reporte = https://web.archive.org/web/20050315185711/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=D&flt=C&id=45&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 2:1''' (0:1)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Sergio Pezzotta}}
+|fecha = 7 de septiembre de 2004
+|estadio = [[Estadio Julio Humberto Grondona]]
+|ciudad = [[Sarandí]]
+|goleslocal = [[Carlos Casteglione|Casteglione]] {{gol|86}}<br>[[Jorge Martín Núñez|Núñez]] {{gol|90+2}}
+|golesvisita = [[Maxi López|López]] {{gol|42}}
+|reporte = https://web.archive.org/web/20050112021223/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=D&id=26&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|refe = {{árbitro|ARG|Horacio Elizondo}}
+|fecha = 30 de septiembre de 2004
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112033106/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=A&flt=D&id=43&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Santos Futebol Clube|Santos]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita = BRA
+|refe = {{árbitro|BRA|Carlos Simon}}
+|fecha = 10 de octubre de 2004
+|estadio = [[Estadio Urbano Caldeira]]
+|ciudad = [[Santos]]
+|goleslocal = [[Elano Blumer|Elano]] {{gol|76}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112035813/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=I&id=48&slangab=S
+}}
+{{Partido
+|local = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal = BRA
+|resultado = 1:1''' (1:0)
+|visita = [[Santos Futebol Clube|Santos]]
+|paísvisita = BRA
+|refe = {{árbitro|BRA|Wagner Tardelli}}
+|fecha = 20 de octubre de 2004
+|estadio = [[Estadio Morumbi]]
+|ciudad = [[São Paulo]]
+|goleslocal = [[Rodrigo Baldasso da Costa|Rodrigo]] {{gol|43}}
+|golesvisita = [[Preto Casagrande|Preto]] {{gol|82}}
+|reporte = https://web.archive.org/web/20050112041346/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=B&flt=I&id=52&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 4:0''' (4:0)
+|visita = [[Club Cienciano del Cusco|Cienciano]]
+|paísvisita = PER
+|refe = {{árbitro|COL|Henry Cervantes}}
+|fecha = 28 de septiembre de 2004
+|estadio = [[Estadio de Liga Deportiva Universitaria|Estadio Casa Blanca]]
+|ciudad = [[Quito]]
+|goleslocal = [[Carlos Castillo Ortiz|Castillo]] {{gol|13}}<br>[[Álex Aguinaga|Aguinaga]] {{gol|14||22}}<br>[[Paúl Ambrosi|Ambrosi]] {{gol|32}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112053622/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=D&id=46&slangab=S
+}}
+{{Partido
+|local = [[Club Cienciano del Cusco|Cienciano]]
+|paíslocal = PER
+|resultado = 2:2''' (2:1)
+|visita = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|refe = {{árbitro|CHI|Rubén Selmán}}
+|fecha = 5 de octubre de 2004
+|estadio = [[Estadio Inca Garcilaso de la Vega]]
+|ciudad = [[Cuzco]]
+|goleslocal = [[Miguel Mostto|Mostto]] {{gol|23}}<br>[[Germán Carty|Carty]] {{gol|28}}
+|golesvisita = [[Álex Aguinaga|Aguinaga]] {{gol|35}}<br>[[Paúl Ambrosi|Ambrosi]] {{gol|83}}
+|reporte = https://web.archive.org/web/20050112054647/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=C&flt=D&id=50&slangab=S
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2004|l1=Cuartos de final de la Copa Sudamericana 2004}}
+{{Partido
+|local = [[Sport Club Internacional|Internacional]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Junior de Barranquilla|Junior]]
+|paísvisita = COL
+|fecha = 3 de noviembre de 2004
+|estadio = [[Estadio Beira-Rio]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Porto Alegre]]
+|goleslocal = [[Fernando Lúcio da Costa|Fernandão]] {{gol|2}}
+|golesvisita = 
+|reporte = 
+}}
+{{Partido
+|local = [[Junior de Barranquilla|Junior]]
+|paíslocal = COL
+|resultado = 1:1''' (0:1)
+|visita = [[Sport Club Internacional|Internacional]]
+|paísvisita = BRA
+|fecha = 10 de noviembre de 2004
+|estadio = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|refe = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|ciudad = [[Barranquilla]]
+|goleslocal = [[Martín Arzuaga|Arzuaga]] {{gol|87}}
+|golesvisita = [[Edimo Ferreira Campos|Edinho]] {{gol|13}}
+|reporte = https://web.archive.org/web/20050112051220/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=G&flt=D&id=62&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 1:1''' (0:1)
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 27 de octubre de 2004
+|estadio = [[Estadio Padre Ernesto Martearena]]
+|refe = {{árbitro|BRA|Márcio Rezende}}
+|ciudad = [[Salta]]
+|goleslocal = [[Raúl Alfredo Cascini|Cascini]] {{gol|50}}
+|golesvisita = [[Pedro Benítez|Benítez]] {{gol|20}}
+|reporte = https://web.archive.org/web/20050112034750/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=G&flt=A&id=55&slangab=S
+}}
+{{Partido
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 0:0
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 10 de noviembre de 2004
+|estadio = [[Estadio Defensores del Chaco]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Asunción]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112040829/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=G&flt=A&id=59&slangab=S
+|penaltis1 = [[Glacinei Martins|Martins]] {{pengol}} <br> [[Julio dos Santos|Dos Santos]] {{pengol}} <br> [[César Ramírez (futbolista)|Ramírez]] {{penfallo}} <br> [[Aldo Bobadilla|Bobadilla]] {{pengol}} <br> [[Mario Grana|Grana]] {{pengol}} <br> [[Ángel Roberto Amarilla|Amarilla]] {{penfallo}} <br> [[Sergio Aquino|Aquino]] {{pengol}} <br> [[Pedro Sarabia|Sarabia]] {{pengol}} <br> [[Darío Caballero|Caballero]] {{pengol}} <br> [[Pedro Benítez|Benítez]] {{penfallo}}
+|resultado penalti = 7:8
+|penaltis2 = {{pengol}} [[Guillermo Barros Schelotto|Barros Schelotto]] <br> {{penfallo}} [[Rolando Schiavi|Schiavi]] <br> {{pengol}} [[Martín Palermo|Palermo]] <br> {{pengol}} [[Cristian Traverso|Traverso]] <br> {{pengol}} [[Carlos Tévez|Tévez]] <br> {{penfallo}} [[Andrés Guglielminpietro|Guglielminpietro]] <br> {{pengol}} [[Roberto Abbondanzieri|Abbondanzieri]] <br> {{pengol}} [[Claudio Morel Rodríguez|Morel Rodríguez]] <br> {{pengol}} [[Raúl Alfredo Cascini|Cascini]] <br> {{pengol}} [[Víctor Ormazábal|Ormazábal]]
+}}
+<br>
+{{Partido
+|local = [[Arsenal Fútbol Club|Arsenal]]
+|paíslocal = ARG
+|resultado = 1:0''' (1:0)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|fecha = 28 de octubre de 2004
+|estadio = [[Estadio Julio Humberto Grondona]]
+|refe = {{árbitro|PER|Eduardo Lecca}}
+|ciudad = [[Sarandí]]
+|goleslocal = [[Carlos Casteglione|Casteglione]] {{gol|3}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112041906/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=G&flt=B&id=56&slangab=S
+}}
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 3:0''' (2:0)
+|visita = [[Arsenal Fútbol Club|Arsenal]]
+|paísvisita = ARG
+|fecha = 4 de noviembre de 2004
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|PAR|1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Julio César Ferreira Da Costa|Ferreira]] {{gol|36}} <br> [[Horacio Chiorazzo|Chiorazzo]] {{gol|45+4}} <br> [[Rubén Tufiño|Tufiño]] {{gol|54}}
+|golesvisita = 
+|reporte = 
+}}
+<br>
+{{Partido
+|local = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 3:2''' (2:1)
+|visita = [[Santos Futebol Clube|Santos]]
+|paísvisita = BRA
+|fecha = 3 de noviembre de 2004
+|estadio = [[Estadio Rodrigo Paz Delgado|Estadio Casa Blanca]]
+|refe = {{árbitro|BOL|René Ortubé}}
+|ciudad = [[Quito]]
+|goleslocal = [[Elkin Murillo|Murillo]] {{gol|14}} <br> [[Paúl Ambrosi|Ambrosi]] {{gol|37}} <br> [[Franklin Salas|Salas]] {{gol|84}}
+|golesvisita = [[William Júnior Salles de Lima Souza|William]] {{gol|20}} <br> [[Valdeci Basílio da Silva|Basílio]] {{gol|51}}
+|reporte = https://web.archive.org/web/20050112043444/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=G&flt=C&id=57&slangab=S
+}}
+{{Partido
+|local = [[Santos Futebol Clube|Santos]]
+|paíslocal = BRA
+|resultado = 1:2''' (0:1)
+|visita = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|fecha = 11 de noviembre de 2004
+|estadio = [[Estadio Urbano Caldeira]]
+|refe = {{árbitro|PAR|1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Santos]]
+|goleslocal = [[Elano Blumer|Elano]] {{gol|83}}
+|golesvisita = [[Álex Aguinaga|Aguinaga]] {{gol|7}} <br> [[Elkin Murillo|Murillo]] {{gol|88}}
+|reporte = 
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2004|l1=Semifinales de la Copa Sudamericana 2004}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 4:2''' (0:0)
+|visita = [[Sport Club Internacional|Internacional]]
+|paísvisita = BRA
+|fecha = 24 de noviembre de 2004
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Cristian Traverso|Traverso]] {{gol|54}} <br> [[Diego Cagna|Cagna]] {{gol|60}} <br> [[Martín Palermo|Palermo]] {{gol|67}} <br> [[Neri Cardozo|Cardozo]] {{gol|70}}
+|golesvisita = [[Rafael Sóbis]] {{gol|46}} <br> [[Diego de Lima Barcelos|Diego]] {{gol|80}}
+|reporte = https://web.archive.org/web/20050112052313/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=H&flt=A&id=63&slangab=S
+}}
+{{Partido
+|local = [[Sport Club Internacional|Internacional]]
+|paíslocal = BRA
+|resultado = 0:0
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 1 de diciembre de 2004
+|estadio = [[Estadio Beira-Rio]]
+|refe = {{árbitro|PAR|1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Porto Alegre]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050112052815/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=H&flt=A&id=65&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 1:1''' (0:0)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|fecha = 25 de noviembre de 2004
+|estadio = [[Estadio Rodrigo Paz Delgado|Estadio Casa Blanca]]
+|refe = {{árbitro|CHI|Rubén Selmán}}
+|ciudad = [[Quito]]
+|goleslocal = [[Elkin Murillo|Murillo]] {{gol|63}}
+|golesvisita = [[Horacio Chiorazzo|Chiorazzo]] {{gol|69}}
+|reporte = https://web.archive.org/web/20050112054211/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=H&flt=B&id=64&slangab=S
+}}
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 2:1''' (1:0)
+|visita = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|fecha = 2 de diciembre de 2004
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|PER|Gilberto Hidalgo}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Horacio Chiorazzo|Chiorazzo]] {{gol|11}} <br> [[Ronald García|García]] {{gol|48}}
+|golesvisita = [[Giovanny Espinoza|Espinoza]] {{gol|50}}
+|reporte = https://web.archive.org/web/20041205011728/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=H&flt=B&id=66&slangab=S
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2004|l1=Final de la Copa Sudamericana 2004}}
+{{Partido
+|local = [[Club Bolívar|Bolívar]]
+|paíslocal = BOL
+|resultado = 1:0''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 8 de diciembre de 2004
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Horacio Chiorazzo|Chiorazzo]] {{gol|75}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20041223134456/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=I&flt=A&id=67&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 2:0''' (2:0)
+|visita = [[Club Bolívar|Bolívar]]
+|paísvisita = BOL
+|fecha = 17 de diciembre de 2004
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Buenos Aires]]
+|goleslocal =
+*[[Martín Palermo|Palermo]] {{gol|14}}
+*[[Carlos Tévez|Tévez]] {{gol|28}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20050414181616/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2004&dv=I&flt=A&id=68&slangab=S
+}}
+<br/>
+{{Campeón
+|equipo = [[Boca Juniors]]
+|bandera = Argentina
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=D0E7FF
+| {{bandera|ARG}} '''[[Horacio Chiorazzo]]'''
+| {{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| align=center|'''5'''
+|-
+| {{bandera|ECU|1900}} [[Álex Aguinaga]]
+| {{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+| align=center|4
+|-
+| {{bandera|ARG}} [[Carlos Casteglione]]
+| {{bandera|ARG}} [[Arsenal Fútbol Club|Arsenal]]
+| align=center|4
+|-
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2004]]
+* [[Recopa Sudamericana 2005]]
+
+== Notas ==
+{{listaref|group="Nota"}}
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20080805015022/http://www.conmebol.com/competiciones_evento_index_previo.jsp?evento=1154&ano=2004&slangab=S Copa Sudamericana 2004] en Conmebol.com
+* [http://www.rsssf.com/sacups/sudamcup04.html Copa Sudamericana 2004] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2003|2003]]
+| título     = Copa Sudamericana 2004
+| período    = III edición
+| sucesor    = [[Copa Sudamericana 2005|2005]]
+}}
+
+{{Control de autoridades}}
+
+[[Categoría:Copa Sudamericana 2004| ]]

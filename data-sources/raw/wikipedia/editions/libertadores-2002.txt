@@ -1,0 +1,1983 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| imagen = Olimpia-y-su-copa.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[Club Olimpia]], de Paraguay, se consagró campeón de la [[Copa Libertadores de América]] por 3.ª vez
+| deporte = fútbol
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]<br>{{México}}
+| participantes = 32 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|5|2|2002}}
+| fecha de cierre = {{fecha2|31|7|2002}}
+| edición = XLIII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]''' <small>({{ord|3.|er}} título)</small>
+| subcampeón = {{bandera|BRA}} [[Associação Desportiva São Caetano|São Caetano]]
+| semifinalistas = {{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] <br> {{bandera|MEX}} [[Club América|América]]
+| titulotercero = Semifinalistas
+| partidos = 126
+| goles = 346 (2,75 por partido)
+| goleadores = 
+| anterior = [[Copa Libertadores 2001]]
+| actual = Copa Libertadores 2002
+| siguiente = [[Copa Libertadores 2003]]
+|goleador={{bandera|BRA}} [[Rodrigo Mendes]] (10 goles)<br><small>([[Grêmio Foot-Ball Porto Alegrense|Grêmio]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 2002''', denominada por motivos comerciales '''Copa Toyota Libertadores 2002''', fue la cuadragésima tercera edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[México]], [[Paraguay]], [[Perú]] y [[Uruguay]].
+
+El campeón fue [[Club Olimpia|Olimpia]], que logró derrotar en penales a un histórico [[Associação Desportiva São Caetano|São Caetano]] que por primera vez en su historia (y única hasta la fecha) llegó a la final. Consiguió así su tercer título en la competición, y con él el boleto para la [[Copa Intercontinental 2002]] ante [[Real Madrid Club de Fútbol|Real Madrid]] de [[España]], campeón de la [[Liga de Campeones de la UEFA 2001-02]]; y la [[Recopa Sudamericana 2003]] frente a [[Club Atlético San Lorenzo de Almagro|San Lorenzo]] de [[Argentina]], vencedor de la [[Copa Sudamericana 2002]]. Asimismo, clasificó a la fase de grupos de la [[Copa Libertadores 2003]].
+
+== Formato ==
+Los representantes de México y Venezuela jugaron una eliminatoria previa en una zona única y bajo el [[sistema de todos contra todos]] a ida y vuelta para determinar los últimos 2 equipos que se unirían a los 30 clasificados en la fase de grupos. En esta última, los 32 clubes participantes fueron divididos en ocho grupos de 4 equipos; los dos primeros de cada grupo clasificaron a las fases finales, disputadas bajo el sistema de [[eliminación directa]] y compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(32 equipos)
+|
+* 1 equipo, campeón de la [[Copa Libertadores 2001]]
+* 4 equipos de Argentina y Brasil
+* 3 equipos de Bolivia, Chile, Colombia,<br>Ecuador, Paraguay, Perú y Uruguay
+* 2 equipos clasificados de la [[Anexo:Copa Pre Libertadores 2002|Copa Pre Libertadores 2002]]
+|
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+|
+* 8 equipos primeros de la Fase de grupos
+* 8 equipos segundos de la Fase de grupos
+|}
+
+== Copa Pre Libertadores ==
+{{AP|Anexo:Copa Pre Libertadores 2002|l1=Copa Pre Libertadores 2002}}
+Los dos clasificados de México y los dos de Venezuela se enfrentaron en la '''Copa Pre Libertadores''', con el fin de determinar a los dos últimos cuadros clasificados a la fase de grupos del certamen. El torneo se desarrolló bajo un sistema de liguilla en donde se enfrentaron todos contra todos. Los equipos ubicados en primer y segundo lugar de la tabla final accedieron a la Copa Libertadores.
+
+=== Equipos participantes ===
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="17%" |País
+! width="17%" |Equipo
+! width="66%" |Vía de clasificación
+|- bgcolor="#F5FAFF"
+|{{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>2 invitados</small>
+|[[Club América|América]]<br>''[[Atlético Morelia|Monarcas Morelia]]''
+|Campeón de la [[Pre Pre Libertadores 2001]]<br>Subcampeón de la [[Pre Pre Libertadores 2001]]
+|-
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Caracas Fútbol Club|Caracas]]<br>[[Deportivo Trujillanos]]
+|Campeón de la [[Primera División de Venezuela 2000-01]]<br>Subcampeón de la [[Primera División de Venezuela 2000-01]]
+|}
+
+=== Resultados ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{Bandera|México}} '''[[Club América|América]]'''
+|'''13'''||6||4||1||1||15||5||10
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{Bandera|México}} '''[[Monarcas Morelia]]'''
+|'''9'''||6||3||0||3||9||8||1
+|- align="center"
+|style="text-align:left;"|{{Bandera|Venezuela|1954}} [[Caracas Fútbol Club|Caracas]]
+|'''7'''||6||2||1||3||7||7||0
+|- align="center"
+|style="text-align:left;"|{{Bandera|Venezuela|1954}} [[Trujillanos Fútbol Club|Deportivo Trujillanos]]
+|'''6'''||6||2||0||4||4||15||–11
+|}
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|26 de septiembre de 2001
+|[[Valera]]
+| align=right | ''' [[Trujillanos Fútbol Club|Deportivo Trujillanos]] '''
+|1:0
+| align=left |[[Caracas Fútbol Club|Caracas]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de octubre de 2001
+|[[Morelia]]
+| align=right |[[Monarcas Morelia]]
+|1:3
+| align=left | ''' [[Club América|América]] '''
+
+|- align=center bgcolor=#F5FAFF
+|16 de octubre de 2001
+|[[Valera]]
+| align=right |[[Trujillanos Fútbol Club|Deportivo Trujillanos]]
+|0:1
+| align=left |'''[[Monarcas Morelia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|18 de octubre de 2001
+|[[Caracas]]
+| align=right |'''[[Caracas Fútbol Club|Caracas]]'''
+|3:1
+| align=left |[[Monarcas Morelia]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de octubre de 2001
+|[[Valera]]
+| align=right |'''[[Trujillanos Fútbol Club|Deportivo Trujillanos]]'''
+|2:1
+| align=left |[[Club América|América]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de octubre de 2001
+|[[Caracas]]
+| align=right |[[Caracas Fútbol Club|Caracas]]
+|'''1:1'''
+| align=left |[[Club América|América]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de octubre de 2001
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|2:0
+| align=left |[[Monarcas Morelia]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de octubre de 2001
+|[[Caracas]]
+| align=right | '''[[Caracas Fútbol Club|Caracas]]'''
+|3:0
+| align=left |[[Trujillanos Fútbol Club|Deportivo Trujillanos]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de noviembre de 2001
+|[[Morelia]]
+| align=right | ''' [[Monarcas Morelia]] '''
+|3:0
+| align=left |[[Trujillanos Fútbol Club|Deportivo Trujillanos]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de noviembre de 2001
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|7:1
+| align=left |[[Trujillanos Fútbol Club|Deportivo Trujillanos]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de noviembre de 2001
+|[[Morelia]]
+| align=right | '''[[Monarcas Morelia]]'''
+|3:0
+| align=left |[[Caracas Fútbol Club|Caracas]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de noviembre de 2001
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|1:0
+| align=left |[[Caracas Fútbol Club|Caracas]]
+|}
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=90%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|País
+!width=15%|Equipo
+!width=70%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>4 cupos + campeón vigente </small>
+|[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>[[Club Atlético River Plate|River Plate]]<br>''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''<br>[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|Campeón de la [[Copa Libertadores 2001]] y del [[Anexo:Torneo Apertura 2000 (Argentina)|Torneo Apertura 2000]]<br>Campeón del [[Anexo:Torneo Clausura 2001 (Argentina)|Torneo Clausura 2001]]<br>Mejor equipo ubicado en la [[Campeonato de Primera División 2000-01 (Argentina)#Clasificación a la Copa Libertadores 2002|tabla de posiciones del Campeonato de Primera División 2000-01]]<br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2000-01<br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2000-01
+
+|- bgcolor=#DDEEFF
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>3 cupos</small>
+|[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]<br>[[Club Bolívar|Bolívar]]<br>''[[Club Real Potosí|Real Potosí]]''
+|Campeón del [[Campeonato de Primera División 2001 (Bolivia)|Campeonato de Primera División 2001]]<br>Subcampeón del Campeonato de Primera División 2001<br>2.º puesto del [[Campeonato de Primera División 2001 (Bolivia)#Cuadrangular Final del Torneo|cuadrangular final del Torneo Clausura del Campeonato de Primera División 2001]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>4 cupos</small>
+|[[Clube Atlético Paranaense|Atlético Paranaense]]<br>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>[[Clube de Regatas do Flamengo|Flamengo]]<br>[[Associação Desportiva São Caetano|São Caetano]]
+|Campeón del [[Campeonato Brasileño de Fútbol 2001|Campeonato Brasileño de 2001]]<br>Campeón de la [[Copa de Brasil 2001]]<br>Campeón de la [[Copa de Campeones 2001]]<br>Subcampeón del Campeonato Brasileño de 2001
+
+|- bgcolor=#DDEEFF
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br><small>3 cupos</small>
+|[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>[[Club de Deportes Cobreloa|Cobreloa]]
+|Campeón del [[Primera División de Chile 2001|Campeonato de Primera División 2001]]<br>Subcampeón del Campeonato de Primera División 2001<br>Ganador de la [[Liguilla Pre-Libertadores 2001 (Chile)|Liguilla Pre-Libertadores 2001]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br><small>3 cupos</small>
+|[[América de Cali]]<br>''[[Cortuluá]]''<br>[[Once Caldas]]
+|Campeón de la [[Campeonato colombiano 2001|Campeonato Colombiano 2001]]<br>Ganador del [[Campeonato colombiano 2001|Torneo Apertura 2001]]<br>Ganador del [[Campeonato colombiano 2001|Torneo Finalización 2001]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>3 cupos</small>
+|[[Club Sport Emelec|Emelec]]<br>[[Club Deportivo El Nacional|El Nacional]]<br>[[Centro Deportivo Olmedo|Olmedo]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 2001|Campeonato Ecuatoriano de 2001]] <br>Subcampeón del Campeonato Ecuatoriano de 2001<br>3.º puesto de la [[Campeonato Ecuatoriano de Fútbol 2001#Liguilla Final|Liguilla Final del Campeonato Ecuatoriano de 2001]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>2 invitados</small>
+|[[Club América|América]]<br>''[[Monarcas Morelia]]''
+|1.º puesto de la [[Anexo:Copa Pre Libertadores 2002|Copa Pre Libertadores 2002]]<br>2.º puesto de la Copa Pre Libertadores 2002
+
+|- bgcolor=#DDEEFF
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>3 cupos</small>
+|[[Club Cerro Porteño|Cerro Porteño]]<br>''[[12 de Octubre Football Club|12 de Octubre]]''<br>[[Club Olimpia|Olimpia]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 2001|Campeonato Paraguayo de 2001]]<br>Ganador de la [[Campeonato Paraguayo de Fútbol 2001#Liguilla Pre-Libertadores 2002|Liguilla Pre-Libertadores 2002]]<br>2.º puesto de la Liguilla Pre-Libertadores 2002
+
+|- bgcolor=#F5FAFF
+|{{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>3 cupos</small>
+|[[Club Alianza Lima|Alianza Lima]]<br>''[[Club Cienciano del Cusco|Cienciano]]''<br>[[Club Sporting Cristal|Sporting Cristal]]
+|Campeón del [[Campeonato Descentralizado 2001]]<br>Subcampeón del Campeonato Descentralizado 2001<br>Ganador de la [[Campeonato Descentralizado 2001#Copa Libertadores|serie de partidos entre el subcampeón del Torneo Apertura 2001 y el subcampeón del Torneo Clausura 2001]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>3 cupos</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]<br>[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2001|Campeonato Uruguayo de 2001]] <br>Ganador del [[Campeonato Uruguayo de Primera División 2001#Torneo Clasificatorio|Torneo Clasificatorio 2001]]<br>Ganador de la [[Campeonato Uruguayo de Primera División 2001#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 2001]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Libertadores 2002'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-31.416667|long=-64.183333|label=<small>[[Club Atlético Talleres (Córdoba)|Talleres]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos de Buenos Aires:}}'''<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético San Lorenzo de Almagro|{{Esd|San Lorenzo}}]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.583333|long=-65.75|label=<small>[[Club Real Potosí|{{Esd|Real Potosí}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.622778|long=-46.550833|label=<small>[[Associação Desportiva São Caetano|{{Esd|São Caetano}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small><br>[[Clube Atlético Paranaense|{{Esd|Atlético Paranaense}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-22.466667|long=-68.916667|label=<small>[[Club de Deportes Cobreloa|Cobreloa]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.045944|long=-71.616361|label=<small>[[Club de Deportes Santiago Wanderers|{{Esd|Santiago Wanderers}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=bottom}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=5.066111|long=-75.484722|label=<small>[[Once Caldas|{{Esd|Once Caldas}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=4.084722|long=-76.198611|label=<small>[[Cortuluá]]</small>|position=left}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]</small>|position=bottom}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Club Deportivo El Nacional|{{Esd|El Nacional}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-1.674347|long=-78.648294|label=<small>[[Centro Deportivo Olmedo|Olmedo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Club Sport Emelec|Emelec]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-25.383333|long=-57.333333|label=<small>[[12 de Octubre Football Club|{{Esd|12 de Octubre}}]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-13.518333|long=-71.978056|label=<small>[[Club Cienciano del Cusco|Cienciano]]</small>|position=top}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''{{Esd|Montevideo}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-41|long=-40|label=<small>'''{{Esd|Equipos de Montevideo:}}'''<br>[[Montevideo Wanderers Fútbol Club|{{Esd|Montevideo Wanderers}}]]<br>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|mark=TransparentPlaceholder.png |position=right}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Libertadores 2002'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=19.419444|long=-99.145556|label=<small>[[Club América|América]]</small>|position=right}}
+{{Location map~|México|lat=19.768333|long=-101.189444|label=<small><br>[[Monarcas Morelia|{{Esd|Monarcas Morelia}}]]</small>|position=left}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|BRA}} '''[[Associação Desportiva São Caetano|São Caetano]]'''
+|'''12'''||6||4||0||2||14||4||10
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|CHI}} '''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|'''12'''||6||4||0||2||12||8||4
+|- align="center"
+| align=left |{{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''10'''||6||3||1||2||7||6||1
+|- align="center"
+| align=left |{{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''1'''||6||0||1||5||1||16||–15
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|5 de febrero
+|[[Lima]]
+| align=right |[[Club Alianza Lima|Alianza Lima]]
+|'''0:0'''
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Calama]]
+| align=right |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|2:1
+| align=left |[[Associação Desportiva São Caetano|São Caetano]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de febrero
+|[[São Caetano do Sul]]
+| align=right |'''[[Associação Desportiva São Caetano|São Caetano]]'''
+|4:0
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|3:0
+| align=left |[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Calama]]
+| align=right |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|5:0
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Ciudad del Este]]
+| align=right |[[Club Cerro Porteño|Cerro Porteño]]
+|1:3
+| align=left |'''[[Associação Desportiva São Caetano|São Caetano]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|2:0
+| align=left |[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[São Caetano do Sul]]
+| align=right |'''[[Associação Desportiva São Caetano|São Caetano]]'''
+|3:0
+| align=left |[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Lima]]
+| align=right |[[Club Alianza Lima|Alianza Lima]]
+|0:3
+| align=left |'''[[Associação Desportiva São Caetano|São Caetano]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Calama]]
+| align=right |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|3:0
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Lima]]
+| align=right |[[Club Alianza Lima|Alianza Lima]]
+|1:2
+| align=left |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[São Caetano do Sul]]
+| align=right |[[Associação Desportiva São Caetano|São Caetano]]
+|0:1
+| align=left |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|'''12'''||6||4||0||2||11||7||4
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|PER}} '''[[Club Cienciano del Cusco|Cienciano]]'''
+|'''9'''||6||3||0||3||8||7||1
+|- align="center"
+| align=left |{{bandera|PAR|1990}} [[12 de Octubre Football Club|12 de Octubre]]
+|'''9'''||6||3||0||3||5||7||–2
+|- align="center"
+| align=left |{{bandera|BOL}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''6'''||6||2||0||4||10||13||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|7 de febrero
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|2:4
+| align=left |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de febrero
+|[[Cuzco]]
+| align=right |'''[[Club Cienciano del Cusco|Cienciano]]'''
+|3:0
+| align=left |[[12 de Octubre Football Club|12 de Octubre]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de febrero
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|3:1
+| align=left |[[Club Cienciano del Cusco|Cienciano]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de febrero
+|[[Asunción]]
+| align=right |'''[[12 de Octubre Football Club|12 de Octubre]]'''
+|3:2
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de febrero
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|2:0
+| align=left |[[Club Cienciano del Cusco|Cienciano]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|3:2
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Asunción]]
+| align=right |'''[[12 de Octubre Football Club|12 de Octubre]]'''
+|1:0
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Asunción]]
+| align=right |'''[[12 de Octubre Football Club|12 de Octubre]]'''
+|1:0
+| align=left |[[Club Cienciano del Cusco|Cienciano]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|1:0
+| align=left |[[12 de Octubre Football Club|12 de Octubre]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Cuzco]]
+| align=right |'''[[Club Cienciano del Cusco|Cienciano]]'''
+|2:1
+| align=left |[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Cuzco]]
+| align=right |'''[[Club Cienciano del Cusco|Cienciano]]'''
+|2:0
+| align=left |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Porto Alegre]]
+| align=right |'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|1:0
+| align=left |[[12 de Octubre Football Club|12 de Octubre]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''12'''||6||4||0||2||11||7||4
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|ECU|1900}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|'''12'''||6||4||0||2||10||6||4
+|- align="center"
+| align=left |{{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''6'''||6||2||0||4||6||8||–2
+|- align="center"
+| align=left |{{bandera|BOL}} [[Club Real Potosí|Real Potosí]]
+|'''6'''||6||2||0||4||10||16||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|5 de febrero
+|[[Quito]]
+| align=right |'''[[Club Deportivo El Nacional|El Nacional]]'''
+|1:0
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de febrero
+|[[Potosí]]
+| align=right |'''[[Club Real Potosí|Real Potosí]]'''
+|1:0
+| align=left |[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|4:0
+| align=left |[[Club Real Potosí|Real Potosí]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|1:0
+| align=left |[[Club Deportivo El Nacional|El Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Potosí]]
+| align=right |[[Club Real Potosí|Real Potosí]]
+|2:4
+| align=left |'''[[Club Deportivo El Nacional|El Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|1:0
+| align=left |[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|3:0
+| align=left |[[Club Deportivo El Nacional|El Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|5:1
+| align=left |[[Club Real Potosí|Real Potosí]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Potosí]]
+| align=right |'''[[Club Real Potosí|Real Potosí]]'''
+|6:1
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Quito]]
+| align=right |'''[[Club Deportivo El Nacional|El Nacional]]'''
+|3:0
+| align=left |[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Quito]]
+| align=right |'''[[Club Deportivo El Nacional|El Nacional]]'''
+|2:0
+| align=left |[[Club Real Potosí|Real Potosí]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Buenos Aires]]
+| align=right |[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|0:2
+| align=left |'''[[Club Atlético Peñarol|Peñarol]]'''
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|COL}} '''[[América de Cali]]'''
+|'''11'''||6||3||2||1||10||3||7
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|ECU|1900}} '''[[Centro Deportivo Olmedo|Olmedo]]'''
+|'''9'''||6||3||0||3||7||7||0
+|- align="center"
+| align=left |{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''8'''||6||2||2||2||11||13||–2
+|- align="center"
+| align=left |{{bandera|BRA}} [[Clube Atlético Paranaense|Atlético Paranaense]]
+|'''5'''||6||1||2||3||10||15||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|5 de febrero
+|[[Curitiba]]
+| align=right |[[Clube Atlético Paranaense|Atlético Paranaense]]
+|1:2
+| align=left |'''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#F5FAFF
+|7 de febrero
+|[[Cali]]
+| align=right |'''[[América de Cali]]'''
+|1:0
+| align=left |[[Centro Deportivo Olmedo|Olmedo]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Riobamba]]
+| align=right |'''[[Centro Deportivo Olmedo|Olmedo]]'''
+|2:1
+| align=left |[[Clube Atlético Paranaense|Atlético Paranaense]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |[[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left |[[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[Curitiba]]
+| align=right |[[Clube Atlético Paranaense|Atlético Paranaense]]
+|'''1:1'''
+| align=left |[[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Riobamba]]
+| align=right |'''[[Centro Deportivo Olmedo|Olmedo]]'''
+|4:1
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Riobamba]]
+| align=right |'''[[Centro Deportivo Olmedo|Olmedo]]'''
+|1:0
+| align=left |[[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |[[Club Bolívar|Bolívar]]
+|'''5:5'''
+| align=left |[[Clube Atlético Paranaense|Atlético Paranaense]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Curitiba]]
+| align=right |'''[[Clube Atlético Paranaense|Atlético Paranaense]]'''
+|2:0
+| align=left |[[Centro Deportivo Olmedo|Olmedo]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Cali]]
+| align=right |'''[[América de Cali]]'''
+|2:0
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|2:0
+| align=left |[[Centro Deportivo Olmedo|Olmedo]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Cali]]
+| align=right |'''[[América de Cali]]'''
+|5:0
+| align=left |[[Clube Atlético Paranaense|Atlético Paranaense]]
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|MEX}} '''[[Monarcas Morelia]]'''
+|'''14'''||6||4||2||0||15||7||8
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''11'''||6||3||2||1||13||12||1
+|- align="center"
+| align=left |{{bandera|ARG}} [[Club Atlético Vélez Sársfield|Vélez Sarsfield]]
+|'''8'''||6||2||2||2||8||8||0
+|- align="center"
+| align=left |{{bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''0'''||6||0||0||6||5||14||–9
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|5 de febrero
+|[[Morelia]]
+| align=right |[[Monarcas Morelia]]
+|'''0:0'''
+| align=left |[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|3:4
+| align=left |'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Montevideo]]
+| align=right |[[Club Nacional de Football|Nacional]]
+|'''3:3'''
+| align=left |[[Monarcas Morelia]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Vélez Sársfield|Vélez Sársfield]]'''
+|1:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Montevideo]]
+| align=right |[[Club Nacional de Football|Nacional]]
+|'''2:2'''
+| align=left |[[Club Atlético Vélez Sársfield|Vélez Sársfield]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Morelia]]
+| align=right |'''[[Monarcas Morelia]]'''
+|4:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Buenos Aires]]
+| align=right |[[Club Atlético Vélez Sársfield|Vélez Sársfield]]
+|2:3
+| align=left |'''[[Monarcas Morelia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Nacional de Football|Nacional]]'''
+|1:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|2:3
+| align=left |'''[[Club Atlético Vélez Sársfield|Vélez Sársfield]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Morelia]]
+| align=right |'''[[Monarcas Morelia]]'''
+|4:2
+| align=left |[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|0:1
+| align=left |'''[[Monarcas Morelia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Buenos Aires]]
+| align=right |[[Club Atlético Vélez Sársfield|Vélez Sársfield]]
+|0:1
+| align=left |'''[[Club Nacional de Football|Nacional]]'''
+|}
+|}
+
+=== Grupo 6 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''13'''||6||4||1||1||7||2||5
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|URU}} '''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+|'''10'''||6||3||1||2||8||7||1
+|- align="center"
+| align=left |{{bandera|CHI}} [[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''9'''||6||2||3||1||6||6||0
+|- align="center"
+| align=left |{{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+|'''1'''||6||0||1||5||4||10||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Montevideo]]
+| align=right |'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+|3:1
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de febrero
+|[[Buenos Aires]]
+| align=right |[[Club Atlético Boca Juniors|Boca Juniors]]
+|'''0:0'''
+| align=left |[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Viña del Mar]]
+| align=right |[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+|'''1:1'''
+| align=left |[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|1:2
+| align=left |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|'''1:1'''
+| align=left |[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|2:0
+| align=left |[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|0:1
+| align=left |'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Viña del Mar]]
+| align=right |'''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|1:0
+| align=left |[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Montevideo]]
+| align=right |'''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+|3:1
+| align=left |[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|1:0
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Valparaíso]]
+| align=right |'''[[Club de Deportes Santiago Wanderers|Santiago Wanderers]]'''
+|2:1
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Montevideo]]
+| align=right |[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|0:2
+| align=left |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|}
+|}
+
+=== Grupo 7 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|MEX}} '''[[Club América|América]]'''
+|'''16'''||6||5||1||0||9||2||7
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''9'''||6||2||3||1||8||4||4
+|- align="center"
+| align=left |{{bandera|ARG}} [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|'''5'''||6||1||2||3||5||9||–4
+|- align="center"
+| align=left |{{bandera|COL}} [[Cortuluá]]
+|'''3'''||6||1||0||5||9||16||–7
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|2:0
+| align=left |[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de febrero
+|[[Buenos Aires]]
+| align=right |[[Club Atlético River Plate|River Plate]]
+|'''0:0'''
+| align=left |[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de febrero
+|[[Pereira]]
+| align=right |[[Cortuluá]]
+|0:2
+| align=left |'''[[Club América|América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[Córdoba (Argentina)|Córdoba]]
+| align=right |'''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+|2:1
+| align=left |[[Cortuluá]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Buenos Aires]]
+| align=right |[[Club Atlético River Plate|River Plate]]
+|0:1
+| align=left |'''[[Club América|América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|2:0
+| align=left |[[Cortuluá]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Pereira]]
+| align=right |'''[[Cortuluá]]'''
+|4:2
+| align=left |[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Ciudad de México]]
+| align=right |[[Club América|América]]
+|'''0:0'''
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Córdoba (Argentina)|Córdoba]]
+| align=right |[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|0:1
+| align=left |'''[[Club América|América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Pereira]]
+| align=right |[[Cortuluá]]
+|2:5
+| align=left |'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Córdoba (Argentina)|Córdoba]]
+| align=right |[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|'''1:1'''
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Ciudad de México]]
+| align=right |'''[[Club América|América]]'''
+|3:2
+| align=left |[[Cortuluá]]
+|}
+|}
+
+=== Grupo 8 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+|'''11'''||6||3||2||1||8||5||3
+|- align="center" style="background:#D0E7FF"
+| align=left |{{bandera|CHI}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''10'''||6||3||1||2||9||8||1
+|- align="center"
+| align=left |{{bandera|COL}} [[Once Caldas]]
+|'''9'''||6||3||0||3||10||11||–1
+|- align="center"
+| align=left |{{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|'''4'''||6||1||1||4||6||9||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|6 de febrero
+|[[Manizales]]
+| align=right |'''[[Once Caldas]]'''
+|1:0
+| align=left |[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de febrero
+|[[Río de Janeiro]]
+| align=right |[[Clube de Regatas do Flamengo|Flamengo]]
+|1:3
+| align=left |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|3:2
+| align=left |[[Once Caldas]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|0:1
+| align=left |'''[[Club Olimpia|Olimpia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[Río de Janeiro]]
+| align=right |'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|4:1
+| align=left |[[Once Caldas]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Río de Janeiro]]
+| align=right |[[Clube de Regatas do Flamengo|Flamengo]]
+|'''0:0'''
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Manizales]]
+| align=right |'''[[Once Caldas]]'''
+|3:0
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|2:1
+| align=left |[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Manizales]]
+| align=right |'''[[Once Caldas]]'''
+|2:1
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de abril
+|[[Asunción]]
+| align=right |[[Club Olimpia|Olimpia]]
+|'''1:1'''
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:0
+| align=left |[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|3:1
+| align=left |[[Once Caldas]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=35 | team-width= 176| score-width= 22
+| seeds = yes
+
+<!-- Fechas -->
+|octavos = 23 de abril al 2 de mayo
+|cuartos = 7 al 16 de mayo
+|semifinal = 9 al 17 de julio
+|final = 24 y 31 de julio
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 23 de abril al 2 de mayo
+
+| RD1-seed1 = G7 1
+| RD1-seed2 = G2 2
+| RD1-team1 = {{bandera|México}} '''[[Club América|América]]'''
+| RD1-team2 = {{bandera|Perú}} [[Club Cienciano del Cusco|Cienciano]]
+| RD1-score1-1 = 1
+| RD1-score2-1 = 0
+| RD1-score1-2 = 4
+| RD1-score2-2 = 1
+| RD1-score1-3 = '''5'''
+| RD1-score2-3 = '''1'''
+
+| RD1-seed3 = G5 1
+| RD1-seed4 = G4 2
+| RD1-team3 = {{bandera|México}} '''[[Monarcas Morelia]]'''
+| RD1-team4 = {{bandera|Ecuador|1900}} [[Centro Deportivo Olmedo|Olmedo]]
+| RD1-score3-1 = 5
+| RD1-score4-1 = 0
+| RD1-score3-2 = 3
+| RD1-score4-2 = 2
+| RD1-score3-3 = '''8'''
+| RD1-score4-3 = '''2'''
+
+| RD1-seed5 = G1 1
+| RD1-seed6 = G8 2
+| RD1-team5 = {{bandera|Brasil}} '''[[Associação Desportiva São Caetano|São Caetano]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-team6 = {{bandera|Chile}} [[Club Deportivo Universidad Catolica  (fútbol)|Universidad Católica]]
+| RD1-score5-1 = 1
+| RD1-score6-1 = 1
+| RD1-score5-2 = 1
+| RD1-score6-2 = 1
+| RD1-score5-3 = '''2&nbsp;{{small|(5)}}'''
+| RD1-score6-3 = '''2&nbsp;{{small|(4)}}'''
+
+| RD1-seed7 = G3 1
+| RD1-seed8 = G6 2
+| RD1-team7 = {{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-team8 = {{nowrap|{{bandera|Uruguay}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]}}
+| RD1-score7-1 = 2
+| RD1-score8-1 = 2
+| RD1-score7-2 = 2
+| RD1-score8-2 = 2
+| RD1-score7-3 = '''4&nbsp;{{small|(3)}}'''
+| RD1-score8-3 = '''4&nbsp;{{small|(0)}}'''
+
+| RD1-seed9 = G4 1
+| RD1-seed10 = G5 2
+| RD1-team9 = {{bandera|Colombia}} [[América de Cali]]
+| RD1-team10 = {{bandera|Uruguay}}  '''[[Club Nacional de Football|Nacional]]'''
+| RD1-score9-1 = 0
+| RD1-score10-1 = 1
+| RD1-score9-2 = 0
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''0'''
+| RD1-score10-3 = '''1'''
+
+| RD1-seed11 = G2 1
+| RD1-seed12 = G7 2
+| RD1-team11 = {{bandera|Brasil}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-team12 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-score11-1 = 2
+| RD1-score12-1 = 1
+| RD1-score11-2 = 4
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''6'''
+| RD1-score12-3 = '''1'''
+
+| RD1-seed13 = G8 1
+| RD1-seed14 = G1 2
+| RD1-team13 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD1-team14 = {{bandera|Chile}} [[Club de Deportes Cobreloa|Cobreloa]]
+| RD1-score13-1 = 2
+| RD1-score14-1 = 0
+| RD1-score13-2 = 2
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''4'''
+| RD1-score14-3 = '''1'''
+
+| RD1-seed15 = G6 1
+| RD1-seed16 = G3 2
+| RD1-team15 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-team16 = {{bandera|Ecuador|1900}} [[Club Deportivo El Nacional|El Nacional]]
+| RD1-score15-1 = 0
+| RD1-score16-1 = 0
+| RD1-score15-2 = 2
+| RD1-score16-2 = 0
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''0'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 7 al 16 de mayo
+
+| RD2-team1 = {{bandera|México}} '''[[Club América|América]]'''
+| RD2-team2 = {{bandera|México}} [[Monarcas Morelia]]
+| RD2-score1-1 = 2
+| RD2-score2-1 = 1
+| RD2-score1-2 = 2
+| RD2-score2-2 = 1
+| RD2-score1-3 = '''4'''
+| RD2-score2-3 = '''2'''
+
+| RD2-team3 = {{bandera|Brasil}} '''[[Associação Desportiva São Caetano|São Caetano]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-team4 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 2
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''2&nbsp;{{small|(3)}}'''
+| RD2-score4-3 = '''2&nbsp;{{small|(1)}}'''
+
+| RD2-team5 = {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+| RD2-team6 = {{bandera|Brasil}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD2-score5-1 = 0
+| RD2-score6-1 = 1
+| RD2-score5-2 = 1
+| RD2-score6-2 = 1
+| RD2-score5-3 = '''1'''
+| RD2-score6-3 = '''2'''
+
+| RD2-team7 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-team8 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD2-score7-1 = 1
+| RD2-score8-1 = 1
+| RD2-score7-2 = 1
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''2'''
+| RD2-score8-3 = '''1'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 9 al 17 de julio
+
+| RD3-team1 = {{bandera|México}} [[Club América|América]]
+| RD3-team2 = {{bandera|Brasil}} '''[[Associação Desportiva São Caetano|São Caetano]]'''
+| RD3-score1-1 = 0
+| RD3-score2-1 = 2
+| RD3-score1-2 = 1
+| RD3-score2-2 = 1
+| RD3-score1-3 = '''1'''
+| RD3-score2-3 = '''3'''
+
+| RD3-team3 = {{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD3-team4 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD3-score3-1 = 2
+| RD3-score4-1 = 3
+| RD3-score3-2 = 1
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''3&nbsp;{{small|(4)}}'''
+| RD3-score4-3 = '''3&nbsp;{{small|(5)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 2002|Final]]
+| RD4-date= 24 y 31 de julio
+
+| RD4-team1 = {{bandera|Brasil}} [[Associação Desportiva São Caetano|São Caetano]]
+| RD4-team2 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD4-score1-1 = 1
+| RD4-score2-1 = 0
+| RD4-score1-2 = 1
+| RD4-score2-2 = 2
+| RD4-score1-3 = '''2&nbsp;{{small|(2)}}'''
+| RD4-score2-3 = '''2&nbsp;{{small|(4)}}'''
+}}
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>'''Nota 2''': En las llaves de octavos de final, a cada equipo se le indica "''Gx p''", donde ''p'' es la posición final que ocupó en el grupo ''x'' de la fase de grupos.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Club Cienciano del Cusco|Cienciano]]
+|paíslocal       = PER
+|resultado       = 0:1''' (0:0)
+|visita          = [[Club América|América]]
+|paísvisita      = MEX
+|fecha           = 23 de abril de 2002
+|estadio         = [[Estadio Inca Garcilaso de la Vega]]
+|ciudad          = [[Cuzco]]
+|refe            = {{árbitro|ECU|var=1900|José Carpio}}
+|goleslocal      = 
+|golesvisita     = [[Reinaldo Navia|Navia]] {{gol|68}}
+|reporte         = 
+}}
+{{Partido
+|local           = [[Club América|América]]
+|paíslocal       = MEX
+|resultado       = 4:1''' (2:0)
+|visita          = [[Club Cienciano del Cusco|Cienciano]]
+|paísvisita      = PER
+|fecha           = 1 de mayo de 2002
+|estadio         = [[Estadio Azteca]]
+|ciudad          = [[Ciudad de México]]
+|refe            = {{árbitro|URU|Gustavo Gallesio}}
+|goleslocal      = [[Reinaldo Navia|Navia]] {{gol|5||89}}<br>[[Hugo Norberto Castillo|Castillo]] {{gol|24}}<br>[[Christian Patiño|Patiño]] {{gol|71}}
+|golesvisita     = [[Germán Carty|Carty]] {{gol|46}}
+|reporte         = 
+}}
+<br>
+{{Partido
+|local           = [[Centro Deportivo Olmedo|Olmedo]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 0:5''' (0:1)
+|visita          = [[Monarcas Morelia]]
+|paísvisita      = MEX
+|fecha           = 24 de abril de 2002
+|estadio         = [[Estadio Olímpico de Riobamba|Estadio Olímpico]]
+|ciudad          = [[Riobamba]]
+|refe            = {{árbitro|COL|Henry Cervantes}}
+|goleslocal      = 
+|golesvisita     = [[José Antonio Noriega|Noriega]] {{gol|41||48||85}}<br>[[Ismael Íñiguez|Íñiguez]] {{gol|70||83}}
+|reporte         = 
+}}
+{{Partido
+|local           = [[Monarcas Morelia]]
+|paíslocal       = MEX
+|resultado       = 3:2''' (0:2)
+|visita          = [[Centro Deportivo Olmedo|Olmedo]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 30 de abril de 2002
+|estadio         = [[Estadio Morelos]]
+|ciudad          = [[Morelia]]
+|refe            = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|goleslocal      = [[Alex Fernandes|Fernandes]] {{gol|79||85}}<br>[[José Antonio Noriega|Noriega]] {{gol|83}}
+|golesvisita     = [[Eduardo Iachetti|Iachetti]] {{gol|42||52}}
+|reporte         = 
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 1:1''' (1:1)
+|visita          = [[Associação Desportiva São Caetano|São Caetano]]
+|paísvisita      = BRA
+|fecha           = 25 de abril de 2002
+|estadio         = [[Estadio San Carlos de Apoquindo]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|refe            = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|goleslocal      = [[Jorge Luis Campos|Campos]] {{gol|28}}
+|golesvisita     = [[Anaílson Brito Noleto|Anaílson]] {{gol|9}}
+|reporte         = 
+}}
+{{Partido
+|local           = [[Associação Desportiva São Caetano|São Caetano]]
+|paíslocal       = BRA
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 1 de mayo de 2002
+|estadio         = [[Estadio Anacleto Campanella]]
+|ciudad          = [[São Caetano do Sul]]
+|refe            = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|goleslocal      = [[Brandão]] {{gol|45}}
+|golesvisita     = [[Arturo Norambuena|Norambuena]] {{gol|51}}
+|reporte         = 
+|resultado penalti = 4:2
+|penaltis1       = [[José Amadeu Elvino|Adãozinho]] {{pengol}}<br>[[Marcos Senna|Senna]] {{pengol}}<br>[[Marlon da Silva Santos|Marlon]] {{pengol}}<br>[[Rubens Cardoso|Cardoso]] {{penfallo}}<br>[[Daniel da Silva|Daniel]] {{pengol}}
+|penaltis2       = {{pengol}} [[Miguel Ramírez|Ramírez]]<br>{{pengol}} [[Arturo Norambuena|Norambuena]]<br>{{penfallo}} [[Mauricio Segovia|Segovia]]<br>{{penfallo}} [[Patricio Ormazábal|Ormazábal]]
+}}
+<br>
+{{Partido
+|local           = [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|paíslocal       = URU
+|resultado       = 2:2''' (2:1)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 24 de abril de 2002
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|refe            = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|goleslocal      = [[Sebastián Eguren|Eguren]] {{gol|28||32}}
+|golesvisita     = [[Carlos Bueno|Bueno]] {{gol|8||57|pen.}}
+|asistencia      = 10.000
+|reporte         = 
+}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 2:2''' (1:0)
+|visita          = [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|paísvisita      = URU
+|fecha           = 30 de abril de 2002
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|refe            = {{árbitro|URU|Fernando Cabrera (árbitro)|Fernando Cabrera}}
+|goleslocal      = [[Carlos Bueno|Bueno]] {{gol|29}}<br>[[Marcelo De Souza|De Souza]] {{gol|72}}
+|golesvisita     = [[José Óscar Herrera|Herrera]] {{gol|55}}<br>[[Alejandro Larrea|Larrea]] {{gol|84}}
+|asistencia      = 30.000
+|reporte         = 
+|resultado penalti = 3:0
+|penaltis1       = [[Pablo Bengoechea|Bengoechea]] {{pengol}}<br>[[Serafín García|García]] {{pengol}}<br>[[Nicolás Rotundo|Rotundo]] {{penfallo}}<br>[[Robert Lima|Lima]] {{pengol}}
+|penaltis2       = {{penfallo}} [[José Óscar Herrera|Herrera]]<br>{{penfallo}} [[Juan Carlos Lago|Lago]]<br>{{penfallo}} [[Jorge Andrés Martínez|Martínez]]
+}}
+<br>
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 1:0''' (0:0)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 23 de abril de 2002
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|refe            = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|goleslocal      = [[Marco Vanzini|Vanzini]] {{gol|87}}
+|golesvisita     = 
+|reporte         = 
+}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 0:0
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 2 de mayo de 2002
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|refe            = {{árbitro|PER|Gilberto Hidalgo}}
+|goleslocal      = 
+|golesvisita     = 
+|reporte         = 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:2''' (0:0)
+|visita          = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita      = BRA
+|fecha           = 24 de abril de 2002
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|refe            = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|goleslocal      = [[Eduardo Coudet|Coudet]] {{gol|46}}
+|golesvisita     = [[Paulo César Fonseca do Nascimento|Tinga]] {{gol|57}}<br>[[Gilberto da Silva Melo|Gilberto]] {{gol|90}}
+|reporte         = 
+}}
+{{Partido
+|local           = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal       = BRA
+|resultado       = 4:0''' (2:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 2 de mayo de 2002
+|estadio         = [[Estadio Olímpico Monumental]]
+|ciudad          = [[Porto Alegre]]
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = [[Rodrigo Mendes|Mendes]] {{gol|40}}<br>[[Luizão]] {{gol|45}}<br>[[Zinho]] {{gol|69}}<br>[[Luís Mário Miranda da Silva|Luís Mário]] {{gol|76}}
+|golesvisita     = 
+|reporte         = 
+}}
+<br>
+{{Partido
+|local           = [[Club de Deportes Cobreloa|Cobreloa]]
+|paíslocal       = CHI
+|resultado       = 0:2
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 23 de abril de 2002
+|estadio         = [[Estadio Zorros del Desierto|Estadio Municipal]]
+|ciudad          = [[Calama]]
+|refe            = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|goleslocal      = [[Mauricio Dinamarca|Dinamarca]] {{gol|10}}
+|golesvisita     = [[Nelson Zelaya|Zelaya]] {{gol|12}}
+|reporte         = 
+|suceso          = Partido suspendido en el entretiempo cuando se encontraba 1:1, por agresiones por parte de la parcialidad local hacia el árbitro Ángel Sánchez.<ref>{{cita web |url=https://www.eluniverso.com/2002/04/23/0001/15/FD2ED213ECD642E0A288B27F5870A5EA.html |título=Suspendido partido Cobreloa Olimpia, tras agresión al árbitro |fechaacceso=17 de noviembre de 2018 |apellido= |nombre= |fecha=23 de abril de 2002 |sitioweb=El Universo |idioma= |cita= }}</ref> Posteriormente, [[Confederación Sudamericana de Fútbol|Conmebol]] le otorgó el triunfo a Olimpia por 2:0.<ref>{{cita web |url=https://www.emol.com/noticias/deportes/2002/04/26/83955/cobreloa-pierde-los-puntos-y-su-estadio.html |título=Cobreloa pierde los puntos y su estadio
+|fechaacceso=17 de noviembre de 2018 |apellido= |nombre= |fecha=26 de abril de 2002 |sitioweb=[[EMOL]] |idioma= |cita= }}</ref>
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:1''' (2:0)
+|visita          = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita      = CHI
+|fecha           = 2 de mayo de 2002
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|refe            = {{árbitro|BRA|Paulo César de Oliveira}}
+|goleslocal      = [[Miguel Ángel Benítez Pavón|Benítez]] {{gol|24}}<br>[[Richart Báez|Báez]] {{gol|45}}
+|golesvisita     = [[Osvaldo Canobbio|Canobbio]] {{gol|48}}
+|reporte         = 
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo El Nacional|El Nacional]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 0:0
+|visita          = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita      = ARG
+|fecha           = 25 de abril de 2002
+|estadio         = [[Estadio Olímpico Atahualpa]]
+|ciudad          = [[Quito]]
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = 
+|golesvisita     = 
+|reporte         = 
+}}
+{{Partido
+|local           = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal       = ARG
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Deportivo El Nacional|El Nacional]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 1 de mayo de 2002
+|estadio         = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad          = [[Buenos Aires]]
+|refe            = {{árbitro|CHI|Carlos Chandía}}
+|goleslocal      = [[José María Calvo (futbolista)|Calvo]] {{gol|27}}<br>[[Marcelo Alejandro Delgado|Delgado]] {{gol|36}}
+|golesvisita     = 
+|reporte         = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Monarcas Morelia]]
+|paíslocal       = MEX
+|resultado       = 1:2''' (1:0)
+|visita          = [[Club América|América]]
+|paísvisita      = MEX
+|fecha           = 7 de mayo de 2002
+|estadio         = [[Estadio Morelos]]
+|ciudad          = [[Morelia]]
+|refe            = {{árbitro|MEX|Arturo Brizio Carter|Arturo Carter}}
+|goleslocal      = [[Carlos Adrián Morales|Morales]] {{gol|2}}
+|golesvisita     = [[Reinaldo Navia|Navia]] {{gol|74||75}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=C&id=113&slangab=S
+}}
+{{Partido
+|local           = [[Club América|América]]
+|paíslocal       = MEX
+|resultado       = 2:1''' (0:0)
+|visita          = [[Monarcas Morelia]]
+|paísvisita      = MEX
+|fecha           = 16 de mayo de 2002
+|estadio         = [[Estadio Azteca]]
+|ciudad          = [[Ciudad de México]]
+|refe            = {{árbitro|MEX|Felipe Ramos Rizo|Felipe Ramos}}
+|goleslocal      = [[Christian Patiño|Patiño]] {{gol|75}}<br>[[José Antonio Castro González|Castro]] {{gol|84}}
+|golesvisita     = [[Darío Franco|Franco]] {{gol|86}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=C&id=120&slangab=S
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:0''' (1:0)
+|visita          = [[Associação Desportiva São Caetano|São Caetano]]
+|paísvisita      = BRA
+|fecha           = 9 de mayo de 2002
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|refe            = {{árbitro|ARG|Horacio Elizondo}}
+|goleslocal      = [[Robert Lima|Lima]] {{gol|25}}
+|golesvisita     = 
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=A&id=116&slangab=S
+}}
+{{Partido
+|local           = [[Associação Desportiva São Caetano|São Caetano]]
+|paíslocal       = BRA
+|resultado       = 2:1''' (1:1)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 14 de mayo de 2002
+|estadio         = [[Estadio Anacleto Campanella]]
+|ciudad          = [[São Caetano do Sul]]
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = [[Jean Carlos da Conceição|Jean Carlos]] {{gol|27}}<br>[[Wanderson de Paula Sabino|Somália]] {{gol|55}}
+|golesvisita     = [[Daniel Jiménez|Jiménez]] {{gol|1}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=A&id=117&slangab=S
+|resultado penalti = 3:1
+|penaltis1       = [[José Amadeu Elvino|Adãozinho]] {{penfallo}}<br>[[Marcos Senna|Senna]] {{pengol}}<br>[[Marlon da Silva Santos|Marlon]] {{pengol}}<br>[[Robert da Silva Almeida|Robert]] {{pengol}}
+|penaltis2       = {{pengol}} [[Pablo Bengoechea|Bengoechea]]<br>{{penfallo}} [[Carlos Bueno|Bueno]]<br>{{penfallo}} [[Nicolás Rotundo|Rotundo]]<br>{{penfallo}} [[Robert Lima|Lima]]
+|suceso          = El gol de [[Daniel Jiménez]] fue convertido a los 43 segundos.
+}}
+<br>
+{{Partido
+|local           = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 8 de mayo de 2002
+|estadio         = [[Estadio Olímpico Monumental]]
+|ciudad          = [[Porto Alegre]]
+|refe            = {{árbitro|CHI|Carlos Chandía}}
+|goleslocal      = [[Rodrigo Fabri|Fabri]] {{gol|77}}
+|golesvisita     = 
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=B&id=115&slangab=S
+}}
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 1:1''' (0:0)
+|visita          = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita      = BRA
+|fecha           = 15 de mayo de 2002
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|refe            = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|goleslocal      = [[Richard Morales|Morales]] {{gol|54|pen.}}
+|golesvisita     = [[Claudiomiro Salenave Santiago|Claudiomiro]] {{gol|70}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=B&id=118&slangab=S
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 8 de mayo de 2002
+|estadio         = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad          = [[Buenos Aires]]
+|refe            = {{árbitro|PER|Gilberto Hidalgo}}
+|goleslocal      = [[Carlos Tévez|Tévez]] {{gol|18}}
+|golesvisita     = [[Cristian Traverso|Traverso]] {{gol|67|a.g.}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=D&id=114&slangab=S
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita      = ARG
+|fecha           = 16 de mayo de 2002
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|refe            = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|goleslocal      = [[Néstor Isasi|Isasi]] {{gol|67}}
+|golesvisita     = 
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=C&flt=D&id=119&slangab=S
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[Associação Desportiva São Caetano|São Caetano]]
+|paíslocal       = BRA
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club América|América]]
+|paísvisita      = MEX
+|fecha           = 9 de julio de 2002
+|estadio         = [[Estadio Anacleto Campanella]]
+|ciudad          = [[São Caetano do Sul]]
+|refe            = {{árbitro|PAR|var=1990|Ubaldo Aquino}}
+|goleslocal      = [[Wanderson de Paula Sabino|Somália]] {{gol|25}}<br>[[José Amadeu Elvino|Adãozinho]] {{gol|41|pen.}}
+|golesvisita     = 
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=D&flt=S&id=121&slangab=S
+}}
+{{Partido
+|local           = [[Club América|América]]
+|paíslocal       = MEX
+|resultado       = 1:1''' (0:1)
+|visita          = [[Associação Desportiva São Caetano|São Caetano]]
+|paísvisita      = BRA
+|fecha           = 16 de julio de 2002
+|estadio         = [[Estadio Azteca]]
+|ciudad          = [[Ciudad de México]]
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = [[Pável Pardo|Pardo]] {{gol|48}}
+|golesvisita     = [[Aílton Delfino|Aílton]] {{gol|8}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=D&flt=S&id=123&slangab=S
+}}
+<br>
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 3:2''' (1:1)
+|visita          = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita      = BRA
+|fecha           = 10 de julio de 2002
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|refe            = {{árbitro|CHI|Carlos Chandía}}
+|goleslocal      = [[Sergio Órteman|Órteman]] {{gol|27||56}}<br>[[Miguel Ángel Benítez Pavón|Benítez]] {{gol|62}}
+|golesvisita     = [[Ânderson Lima]] {{gol|13}}<br>[[Rodrigo Mendes|Mendes]] {{gol|85}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=D&flt=T&id=122&slangab=S
+}}
+{{Partido
+|local           = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 17 de julio de 2002
+|estadio         = [[Estadio Olímpico Monumental]]
+|ciudad          = [[Porto Alegre]]
+|refe            = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|goleslocal      = [[Zinho]] {{gol|45+1}}
+|golesvisita     = 
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=D&flt=T&id=124&slangab=S
+|resultado penalti = 4:5
+|penaltis1       = [[Ânderson Lima]] {{pengol}}<br>[[Anderson Polga|Ânderson Polga]] {{pengol}}<br>[[Zinho]] {{pengol}}<br>[[Rodrigo Fabri|Fabri]] {{penfallo}}<br>[[Fernando Menegazzo|Menegazzo]] {{pengol}}
+|penaltis2       = {{pengol}} [[Julio César Enciso|Enciso]]<br>{{pengol}} [[Sergio Órteman|Órteman]]<br>{{pengol}} [[Hernán Rodrigo López|López]]<br>{{pengol}} [[Mauro Antonio Caballero|Caballero]]<br>{{pengol}} [[Juan Carlos Franco (futbolista paraguayo)|Franco]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 2002|l1=Final de la Copa Libertadores 2002}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 0:1''' (0:0)
+|visita          = [[Associação Desportiva São Caetano|São Caetano]]
+|paísvisita      = BRA
+|fecha           = 24 de julio de 2002, 20:45 ([[UTC-4]])
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|refe            = {{árbitro|ARG|Horacio Elizondo}}
+|asistencia      = 40&nbsp;000
+|goleslocal      = 
+|golesvisita     = [[Aílton Delfino|Aílton]] {{gol|61}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=E&flt=Z&id=125&slangab=S
+|competición=Ida}}
+{{Partido
+|local           = [[Associação Desportiva São Caetano|São Caetano]]
+|paíslocal       = BRA
+|resultado       = 1:2''' (1:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 31 de julio de 2002, 21:45 ([[UTC-3]])
+|estadio         = [[Estadio Pacaembú]]
+|ciudad          = [[São Paulo]]
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|asistencia      = 32&nbsp;000
+|goleslocal      = [[Aílton Delfino|Aílton]] {{gol|31}}
+|golesvisita     = [[Fernando Gastón Córdoba|Córdoba]] {{gol|49}}<br>[[Richart Báez|Báez]] {{gol|59}}
+|reporte         = http://old.conmebol.com/conmeboltest/competiciones_evento_reporte.jsp?evento=1081&ano=2002&dv=E&flt=Z&id=126&slangab=S
+|resultado penalti = 2:4
+|penaltis1       = [[José Amadeu Elvino|Adãozinho]] {{pengol}}<br>[[Marcos Senna|Senna]] {{pengol}}<br>[[Marlon da Silva Santos|Marlon]] {{penfallo|desviado}}<br>[[Paulo Sérgio Oliveira da Silva|Serginho]] {{penfallo|desviado}}
+|penaltis2       = {{pengol}} [[Julio César Enciso|Enciso]]<br>{{pengol}} [[Sergio Órteman|Órteman]]<br>{{pengol}} [[Hernán Rodrigo López|López]]<br>{{pengol}} [[Mauro Antonio Caballero|Caballero]]
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club Olimpia|Olimpia]]
+|bandera = Paraguay
+|orden = 3
+|logo=|variante=1990}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+| {{bandera|Brasil}} '''[[Rodrigo Mendes]] 
+| {{bandera|Brasil}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]''' 
+| align=center|'''10'''
+|-
+| {{bandera|México}} [[José Antonio Noriega]] 
+| {{bandera|México}} [[Monarcas Morelia]]
+| align=center|8
+|-
+| {{bandera|Brasil}} [[Alex Fernandes]] 
+| {{bandera|México}} [[Monarcas Morelia]] 
+| align=center|7
+|-
+| {{bandera|Brasil}} [[Brandão]] 
+| {{bandera|Brasil}} [[Associação Desportiva São Caetano|São Caetano]] 
+| align=center|6
+|-
+| {{bandera|Paraguay|1990}} [[Richart Báez]] 
+| {{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]] 
+| align=center|5
+|-
+| {{bandera|Uruguay}} [[Carlos Bueno]] 
+| {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]] 
+| align=center|5
+|-
+| {{bandera|Argentina}} [[Sergio Galván]] 
+| {{bandera|Colombia}} [[Once Caldas]] 
+| align=center|5
+|-
+| {{bandera|Argentina}} [[Fabio Miguel Giménez|Fabio Giménez]] 
+| {{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]] 
+| align=center|5
+|-
+| {{bandera|Uruguay}} [[Richard Morales]] 
+| {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]] 
+| align=center|5
+|-
+| {{bandera|Chile}} [[Reinaldo Navia]]
+| {{bandera|México}} [[Club América|América]] 
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Wágner Pires de Almeida|Wágner]] 
+| {{bandera|Brasil}} [[Associação Desportiva São Caetano|São Caetano]] 
+| align=center|5
+|-
+|{{bandera|México}}  [[Héctor Hernández Ezpitia|Héctor Hernández]]   
+|{{bandera|Perú}}  [[Club Cienciano del Cusco|Cienciano]] 
+| align=center|4
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 2002]]
+* [[Copa Sudamericana 2002]]
+* [[Recopa Sudamericana 2003]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://rsssf.com/sacups/copa02.html Copa Libertadores 2002] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.conmebol.com/ Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 2001|2001]]
+| título     = Copa Libertadores 2002
+| período    = XLIII edición
+| sucesor    = [[Copa Libertadores 2003|2003]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 2002]]
+[[Categoría:Temporadas de la Copa Libertadores|2002]]
+[[Categoría:Fútbol en 2002]]

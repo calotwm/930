@@ -1,0 +1,508 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América|Copa de Campeones de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = La_bombonera_vista_aerea_1940.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Alberto J. Armando|estadio La Bombonera]] ([[Buenos Aires]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa de Campeones de América 1963|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 9 de 8 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|7|4|1963}}
+| fecha de cierre = {{fecha2|11|9|1963}}
+| edición = IV
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA|1960}} [[Santos Futebol Clube|Santos]]''' <small>(2.º título)</small>
+| subcampeón = {{bandera|ARG|alt}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| semifinalistas = {{bandera|BRA|1960}} [[Botafogo de Futebol e Regatas|Botafogo]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 20
+| goles = 63 (3,31 por partido)
+| paisgol = 
+| mejor_jugador = 
+| goleador = {{bandera|ARG|alt}} [[José Sanfilippo]] (7 goles)<br><small>([[Club Atlético Boca Juniors|Boca Juniors]])</small>
+| anterior = [[Copa de Campeones de América 1962]]
+| actual = Copa de Campeones de América 1963
+| siguiente = [[Copa de Campeones de América 1964]]
+}}
+La '''[[Copa Libertadores de América|Copa de Campeones de América]] 1963''' fue la cuarta edición de la actualmente denominada [[Copa Libertadores de América|Copa Conmebol Libertadores]], torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]]. Participaron equipos de ocho países sudamericanos: [[Argentina]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]] y [[Uruguay]]. Como en los certámenes anteriores, [[Venezuela]] no envió representante. Tampoco lo hizo [[Bolivia]], ya que el campeonato local de 1962 fue suspendido por la [[Federación Boliviana de Fútbol|federación]] para permitirse más tiempo para organizar el [[Campeonato Sudamericano 1963]], que se iba a llevar a cabo en el país.<ref>{{cita web|url=http://historiadelfutbolboliviano.com/2013/12/24/historia-de-los-campeonatos-del-futbol-profesional-boliviano/ |título= Campeonato del Fútbol Profesional Boliviano II: La Historia |editor=Historia del Fútbol Boliviano |fecha=24 de diciembre de 2013|fechaacceso=4 de enero de 2016}}</ref>
+
+El campeón fue nuevamente [[Santos Futebol Clube|Santos]] de Brasil, que alcanzó de esta manera su segundo título en la competición. Derrotó en las dos finales a [[Club Atlético Boca Juniors|Boca Juniors]] de Argentina, siendo el primer club que logra ser campeón ganando los dos partidos decisivos. Por ello, disputó la [[Copa Intercontinental 1963]] contra [[Associazione Calcio Milan|Milan]] de [[Italia]] y se clasificó a las semifinales de la [[Copa de Campeones de América 1964]].
+
+== Formato ==
+Los 8 equipos clasificados desde las competiciones locales iniciaron el torneo disputando la Fase de grupos, siendo divididos en tres grupos, dos de 3 equipos y el restante conformado por solo 2. El ganador de cada zona accedió directamente a las semifinales, donde se les unió el campeón de la edición anterior.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(8 equipos)
+|
+* 1 equipo de Argentina, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú y Uruguay
+|
+|-
+! colspan="2" |Fases finales
+(4 equipos)
+|
+* 1 equipo, campeón de la Copa de Campeones<br>de América 1962
+|
+* 3 equipos primeros de la Fase de grupos
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| class="wikitable" style="font-size:85%" width="100%" border="1"
+|-
+! width="25%" |País
+! width="23%" |Equipo
+! width="62%" |Vía de clasificación
+|-
+|{{bandera|Argentina|alt}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br>1 cupo
+|[[File:600px Blu con striscia Gialla7.png|border|18px]] ''[[Club Atlético Boca Juniors|Boca Juniors]]''
+|Campeón del [[Campeonato de Primera División 1962 (Argentina)|Campeonato de Primera División 1962]]
+|-
+|{{bandera|Brasil|1960}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br>1 cupo + campeón vigente de la copa
+|[[File:600px White background Black vertical and diagonal striped.svg|border|18px]] [[Santos Futebol Clube|Santos]] <br> [[Archivo:600px Nero con stella Bianca.svg|18px|borde]] ''[[Botafogo de Futebol e Regatas|Botafogo]]''
+|Campeón de la [[Copa de Campeones de América 1962]]<br> Subcampeón del Campeonato Brasileño de 1962
+|-
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br>1 cupo
+|[[Archivo:UdeChileLogo.png|18px|Universidad de Chile|borde]] [[Club Universidad de Chile|Universidad de Chile]]
+|Campeón del [[Primera División de Chile 1962|Campeonato de Primera División 1962]]
+|-
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br>1 cupo
+|[[Archivo:Flag Millos WhiteBlue.png|borde|18px]] [[Millonarios Fútbol Club|Millonarios]]
+|Campeón del [[Campeonato colombiano 1962|Campeonato Colombiano 1962]]
+|-
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>1 cupo
+|[[Archivo:Football of Guayas - Everest icon.svg|20px|borde]] ''[[Club Deportivo Everest|Everest]]''
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1962|Campeonato Ecuatoriano de 1962]]
+|-
+|{{bandera|Paraguay|1954}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>1 cupo
+|[[Archivo:Fantasy-Flag-Olimpia-Py.png|borde|18px]] [[Club Olimpia|Olimpia]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1962|Campeonato Paraguayo de 1962]]
+|-
+|{{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br>1 cupo
+|[[Archivo:Bandera del Club Alianza Lima.svg|18px|borde]] ''[[Club Alianza Lima|Alianza Lima]]''
+|Campeón del [[Campeonato Peruano de Fútbol de 1962|Campeonato Peruano de 1962]]
+|-
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>1 cupo
+|[[Archivo:Bandera-club-atletico-penarol.png|18px|borde]] [[Club Atlético Peñarol|Peñarol]]
+|Campeón del [[Campeonato Uruguayo de Primera División 1962|Campeonato Uruguayo de 1962]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=650|caption=Localización de los equipos de la '''Copa de Campeones de América 1963'''|AlternativeMap =Equipos participantes Copa de Campeones de América 1963.png|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-40.199722|long=-43.999944|label=<small>{{bandera|ARG|alt}}<br>[[Club Atlético Boca Juniors|<span style="color: #FFFFFF">Boca Juniors</span>]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-29.7|long=-38.2|label=<small>{{Bandera|Brasil|1960}} [[Santos Fútbol Club|<span style="color: #FFFFFF">Santos</span>]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-28.6|long=-35.8|label=<small>[[Botafogo de Futebol e Regatas|<span style="color: #b5933a">Botafogo</span>]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-39.78|long=-54.676667|label=<small>{{Bandera|Chile}}<br>[[Club Universidad de Chile|<span style="color: #b5933a">Univ. de Chile</span>]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=-4.79|long=-61.01|label=<small>{{Bandera|Colombia}} [[Millonarios Fútbol Club|<span style="color: #FFFFFF">Millonarios</span>]]</small>|position=bottom}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-10.8|long=-65.2|label=<small>{{Bandera|Ecuador|1900}}<br>[[Club Deportivo Everest|<span style="color: #b5933a">Everest</span>]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-31.9|long=-46.3|label=<small>{{Bandera|Paraguay|1954}} [[Club Olimpia|<span style="color: #FFFFFF">Olimpia</span>]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-20.1|long=-62.7|label=<small>{{Bandera|Perú}}<br>[[Club Alianza Lima|<span style="color: #FFFFFF">Alianza Lima</span>]]</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-40.081944|long=-41.966667|label=<small>{{Bandera|Uruguay}} [[Club Atlético Peñarol|<span style="color: #b5933a">Peñarol</span>]]</small>|position=right}}
+}}
+
+== Fase de grupos ==
+[[Santos Futebol Clube|Santos]], como campeón de la [[Copa de Campeones de América 1962]], inició su participación desde semifinales. Los otros 8 equipos participantes se distribuyeron en 3 grupos, 2 de ellos conformados por 3 equipos, y otro por solo 2, donde se enfrentaron todos contra todos. El primero de cada uno de ellos pasó a las semifinales.
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|align=left| {{bandera|BRA|1960}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|'''8'''||4||4||0||0||5||1||4
+|- align="center"
+|align=left|{{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''3'''||4||1||1||2||2||3||–1
+|- align="center"
+|align=left|{{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+|'''1'''||4||0||1||3||0||3||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|24 de abril
+|[[Lima]]
+| align=right| [[Club Alianza Lima|Alianza Lima]]
+|'''0:0'''
+| align=left| [[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de mayo
+|[[Bogotá]]
+| align=right| [[Millonarios Fútbol Club|Millonarios]]
+|0:1
+| align=left| '''[[Club Alianza Lima|Alianza Lima]]'''
+
+|- align=center bgcolor=#f8f3ed
+|30 de junio
+|[[Lima]]
+| align=right| [[Club Alianza Lima|Alianza Lima]]
+|0:1
+| align=left| '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+
+|- align=center bgcolor=#f8f3ed
+|7 de julio
+|[[Bogotá]]
+| align=right| [[Millonarios Fútbol Club|Millonarios]]
+|0:2
+| align=left| '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+
+|- align=center bgcolor=#f8f3ed
+|24 de julio
+|[[Río de Janeiro]]
+| align=right| '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|2:1
+| align=left| [[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#f8f3ed
+|No se disputó
+|[[Río de Janeiro]]
+| align=right| '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|{{Abreviatura|GP|Ganador del partido}}:{{Abreviatura|PP|Perdedor del partido}}{{refn|group="Nota"|El partido, programado para el 31 de julio, no se disputó debido a que Millonarios, ya eliminado, prefirió no presentarse y pagar una multa de [[Dólar estadounidense|USD]] 4.500 antes que viajar a Río de Janeiro. Se le dio por ganado a Botafogo, que ya se encontraba clasificado, aunque no se computaron goles.}}
+| align=left| [[Millonarios Fútbol Club|Millonarios]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|align=left|{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''4'''||2||2||0||0||14||1||13
+|- align="center"
+|align=left|{{bandera|Ecuador|1900}} [[Club Deportivo Everest|Everest]]
+|'''0'''||2||0||0||2||1||14||–13
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|9 de junio
+|[[Guayaquil]]
+| align=right| [[Club Deportivo Everest|Everest]]
+|0:5
+| align=left| '''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#f8f3ed
+|7 de julio
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|9:1
+| align=left| [[Club Deportivo Everest|Everest]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f8f3ed; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#b5933a" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#ebdcc7"
+|align=left|{{bandera|ARG|alt}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''6'''||4||3||0||1||9||6||3
+|- align="center"
+|align=left|{{bandera|Paraguay|1954}} [[Club Olimpia|Olimpia]]
+|'''4'''||4||2||0||2||7||10||–3
+|- align="center"
+|align=left|{{bandera|CHI}} [[Club Universidad de Chile|Universidad de Chile]]
+|'''2'''||4||1||0||3||7||7||0
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#f8f3ed
+|7 de abril
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+|1:0
+| align=left| [[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#f8f3ed
+|14 de abril
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|5:3
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#f8f3ed
+|26 de junio
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|1:0
+| align=left| [[Club Universidad de Chile|Universidad de Chile]]
+
+|- align=center bgcolor=#f8f3ed
+|17 de julio
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Universidad de Chile|Universidad de Chile]]'''
+|4:1
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#f8f3ed
+|24 de julio
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+|2:1
+| align=left| [[Club Universidad de Chile|Universidad de Chile]]
+
+|- align=center bgcolor=#f8f3ed
+|31 de julio
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Universidad de Chile|Universidad de Chile]]
+|2:3
+| align=left| '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|}
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por dos etapas: semifinales y final. A los tres clasificados de la fase de grupos se les sumó [[Santos Futebol Clube|Santos]] de Brasil, campeón de la [[Copa de Campeones de América 1962]]. En caso de que dos de los participantes pertenecieran al mismo país, ambos debieron enfrentarse en las semifinales, a fin de evitar que pudieran encontrarse en la final.
+=== Cuadro de desarrollo ===
+<center>
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = no
+
+<!--Semifinales-->
+| RD1= [[Anexo:Semifinales de la Copa de Campeones de América 1963|Semifinales]]
+| RD1-date= 7 al 28 de agosto
+
+<!--Llave 1-->
+| RD1-team1= {{Bandera|ARG|alt}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-score1-1= '''2'''
+| RD1-score1-2= '''1'''
+
+| RD1-team2= {{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score2-1= 1
+| RD1-score2-2= 0
+
+<!--Llave 2-->
+| RD1-team3= {{bandera|BRA|1960}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| RD1-score3-1= 1
+| RD1-score3-2= 0
+
+| RD1-team4= {{Bandera|BRA|1960}} '''[[Santos Futebol Clube|Santos]]'''
+| RD1-score4-1= '''1'''
+| RD1-score4-2= '''4'''
+
+<!--Final-->
+| RD2= [[Final de la Copa de Campeones de América 1963|Final]]
+| RD2-date= 4 y 11 de septiembre
+
+| RD2-team1= {{Bandera|ARG|alt}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD2-score1-1= 1 
+| RD2-score1-2= 2
+
+| RD2-team2= {{Bandera|BRA|1960}} '''[[Santos Futebol Clube|Santos]]'''
+| RD2-score2-1= '''2'''
+| RD2-score2-2= '''3'''
+}}
+</center>
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Semifinales ===
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:2''' (0:1)
+|visita          = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita      = ARG
+|etpaísvisita     = alt
+|fecha           = 7 de agosto de 1963
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 20&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}} 
+|goleslocal      = [[Rubén Magdalena|Magdalena]] {{gol|74|a.g.}}
+|golesvisita     = [[Paulo Valentim|Valentim]] {{gol|27||88}}
+}}
+{{Partido
+|local           = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal       = ARG
+|etpaíslocal    = alt
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 15 de agosto de 1963
+|hora            = 
+|estadio         = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 45&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|José Dimas Larrosa}} 
+|goleslocal      = [[José Sanfilippo|Sanfilippo]] {{gol|47}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Santos Futebol Clube|Santos]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 1:1''' (0:0)
+|visita          = [[Botafogo de Futebol e Regatas|Botafogo]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 22 de agosto de 1963
+|hora            = 
+|estadio         = [[Estadio de Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 45&nbsp;000
+|árbitro         = {{árbitro|BRA|var=1960|Eunapio de Queiroz}} 
+|goleslocal      = [[Pelé]] {{gol|90}}
+|golesvisita     = [[Jair Bala]] {{gol|69}}
+}}
+{{Partido
+|local           = [[Botafogo de Futebol e Regatas|Botafogo]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 0:4''' (0:3)
+|visita          = [[Santos Futebol Clube|Santos]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 28 de agosto de 1963
+|hora            = 
+|estadio         = [[Estadio de Maracaná]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 65&nbsp;000
+|árbitro         = {{árbitro|BRA|var=1960|Eunapio de Queiroz}} 
+|goleslocal      = 
+|golesvisita     = [[Pelé]] {{gol|11||15||33|pen.}}<br>[[Antônio Lima dos Santos|Lima]] {{gol|82}}
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa de Campeones de América 1963}}
+{{Partido
+|local           = [[Santos Futebol Clube|Santos]]
+|paíslocal       = BRA
+|etpaíslocal     = 1960
+|resultado       = 3:2''' (3:1)
+|visita          = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita      = ARG
+|etpaísvisita     = alt
+|fecha           = 4 de septiembre de 1963
+|hora            = 
+|estadio         = [[Estadio de Maracaná]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 63&nbsp;376
+|árbitro         = {{árbitro|FRA|Marcel Bois}} 
+|goleslocal      = [[Coutinho (futbolista nacido en 1943)|Coutinho]] {{gol|19}} {{gol|21}}<br>[[Antônio Lima dos Santos|Lima]] {{gol|28}}
+|golesvisita     = [[José Sanfilippo|Sanfilippo]] {{gol|43||89}}
+|competición=Ida}}
+{{Partido
+|local           = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal       = ARG
+|etpaíslocal    = alt
+|resultado       = 1:2''' (0:0)
+|visita          = [[Santos Futebol Clube|Santos]]
+|paísvisita      = BRA
+|etpaísvisita    = 1960
+|fecha           = 11 de septiembre de 1963
+|hora            = 
+|estadio         = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 69&nbsp;482
+|árbitro         = {{árbitro|FRA|Marcel Bois}} 
+|goleslocal      = [[José Sanfilippo|Sanfilippo]] {{gol|47}}
+|golesvisita     = [[Coutinho (futbolista nacido en 1943)|Coutinho]] {{gol|51}}<br>[[Pelé]] {{gol|83}}
+|competición=Vuelta|suceso=Primera vez que un mismo equipo gana los partidos de ida y vuelta en una final de [[Copa Libertadores]].<br>Primera [[vuelta olímpica]] en [[La Bombonera]] por torneos internacionales oficiales (en este caso, la [[Copa Libertadores]]).<br>Primera [[vuelta olímpica]] de un equipo extranjero en [[La Bombonera]].<br>Cuarta [[vuelta olímpica]] que se da en [[La Bombonera]].<br>Tercera [[vuelta olímpica]] que se da en la [[Copa Libertadores]].<ref>[https://www.tycsports.com/al-angulo/pele-boca-la-bombonera-y-la-historia-del-pantalon-id269548.html El Santos de Pelé, Boca y la historia del pantalón en La Bombonera]</ref><ref>[https://www.goal.com/es-mx/news/4799/copa-libertadores/2016/04/20/22606442/cuando-pel%C3%A9-se-cambi%C3%B3-en-la-bombonera Cuando Pelé se cambió en La Bombonera]</ref><ref>[https://www.infobae.com/america/deportes/2021/01/06/el-dia-que-pele-levanto-la-libertadores-con-el-santos-en-la-bombonera-que-historico-jugador-de-boca-lo-deslumbro/ El día que Pelé levantó la Libertadores con el Santos en la Bombonera: qué histórico jugador de Boca lo deslumbró]</ref>}}
+<br>
+<div style="clear: both;"></div>
+{{Campeón
+|equipo = [[Santos Futebol Clube|Santos]]
+|imagen = 
+|logo =
+|orden = 2
+|bandera=BRA|variante=1960}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#b5933a"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#ebdcc7
+| {{bandera|Argentina|alt}} '''[[José Sanfilippo]]''' 
+| {{bandera|Argentina|alt}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| align=center|'''7
+| align=center|'''7
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1963]]
+
+== Notas ==
+{{listaref|grupo="Nota"}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Commonscat|Copa Libertadores 1963}}
+* [http://rsssf.com/sacups/copa63.html Copa de Campeones de América de 1963] en [[RSSSF]].
+* [http://www.conmebol.com/ Página web oficial] de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa de Campeones de América 1962|1962]]
+| título     = Copa de Campeones de América 1963
+| período    = IV edición
+| sucesor    = [[Copa de Campeones de América 1964|1964]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa de Campeones de América 1963| ]]
+[[Categoría:Fútbol en 1963]]
+[[Categoría:Temporadas de la Copa Libertadores|1963]]

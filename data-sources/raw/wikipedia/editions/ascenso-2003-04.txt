@@ -1,0 +1,775 @@
+{{Ficha de competición deportiva
+|nombre          = Campeonato de Primera B Nacional 2003-04
+|nombre_original = [[Primera B Nacional]]
+|deporte         = fútbol
+|país            = [[Argentina]]
+|fecha de inicio = 9 de agosto de 2003
+|fecha de cierre = 26 de junio de 2004
+|edición         = '''XVIII temporada'''
+|televisión      = [[TyC Sports]]
+|campeón         = [[Instituto Atlético Central Córdoba|Instituto]]<ref>Reglamentariamente fue el ganador del primer ascenso. Posteriormente fue listado como campeón</ref>
+|participantes   = 20
+|partidos        = 380
+|goles           = 950 (2,50 por partido)
+|ascendidos      = [[Instituto Atlético Central Córdoba|Instituto]] <br /> [[Club Almagro|Almagro]] <br /> [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]] <small>(por promoción)</small> <br /> [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] <small>(por promoción)</small> 
+|descendidos     = [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]] <br /> [[Club Atlético Los Andes|Los Andes]]
+|anterior        = [[Campeonato de Primera B Nacional 2002-03|B Nacional 2002-03]]
+|siguiente       = [[Campeonato de Primera B Nacional 2004-05|B Nacional 2004-05]]
+}}
+
+El '''Campeonato de Primera B Nacional 2003-04''' fue la decimoctava temporada disputada de la categoría de [[Primera B Nacional]], y la séptima con esta denominación. El formato del torneo fue similar al de la temporada anterior, con la continuación de los torneos cortos de Apertura y Clausura. 
+
+En el torneo se incorporaron [[Club Atlético Unión (Santa Fe)|Unión (Santa Fe)]] y [[Club Atlético Huracán|Huracán]] (descendidos de [[Primera División de Argentina|Primera División]]); [[Ferro Carril Oeste]] (campeón de la [[Primera B (Argentina)|Primera B Metropolitana]]) y [[Club Atlético Tiro Federal|Tiro Federal]] (campeón del [[Torneo Argentino A]]).
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Descendidos de la [[Campeonato de Primera B Nacional 2002-03|Primera B Nacional 2002-03]]
+|- style="background: #FFCCCC;"
+|align=center|[[Torneo Argentino A 2003-04|Argentino A]]
+|[[Club Atlético Almirante Brown (Arrecifes)|Almirante Brown (A)]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato de Primera B 2003-04 (Argentina)|B Metropolitana]]
+|[[Club Deportivo Español de Buenos Aires|Deportivo Español]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Torneo
+! width=310|Ascendidos a la B Nacional 2003-04
+|- style="background: #cfc;"
+|align=center|[[Torneo Argentino A 2002-03|Argentino A]]
+|[[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 2002-03 (Argentina)|B Metropolitana]]
+|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Pos.
+! width=310|Ascendidos a la [[Campeonato de Primera División 2003-04 (Argentina)|Primera División 2003-04]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B Nacional 2002-03|1.º]]
+|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B Nacional 2002-03|Seg. Asc.]]
+|[[Quilmes Atlético Club|Quilmes]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Prom.
+! width=310|Descendidos de la [[Campeonato de Primera División 2002-03 (Argentina)|Primera División 2002-03]] 
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_2002-03_(Argentina)#Tabla_de_descenso|19.º]]
+|[[Club Atlético Unión (Santa Fe)|Unión]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_2002-03_(Argentina)#Tabla_de_descenso|20.º]]
+|[[Club Atlético Huracán|Huracán]]
+|}
+{{Final columnas}}
+
+== Equipos ==
+
+<center>
+{| class="wikitable sortable"
+!Equipo
+!Ciudad
+!Estadio
+!Capacidad
+|-
+| [[Club Almagro|Almagro]]
+| [[José Ingenieros (Buenos Aires)|José Ingenieros]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]
+| 19 000
+|-
+| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| [[Buenos Aires]]
+| [[Estadio Diego Armando Maradona (Argentina)|Diego Armando Maradona]]
+| 24 380
+|-
+| [[Club Atlético Belgrano|Belgrano]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+| 57 000
+|-
+| [[Comisión de Actividades Infantiles|C A I]]
+| [[Comodoro Rivadavia]]
+| [[Municipal de Comodoro Rivadavia]]
+| 12 000
+|-
+| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+| [[Florencio Varela (Buenos Aires)|Florencio Varela]]
+| [[Estadio Norberto Tomaghello|Norberto "Tito" Tomaghello]]
+| 12 000
+|-
+| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+| [[Buenos Aires]]
+| [[Estadio Juan Pasquale|Juan Pasquale]]
+| 10 000
+|-
+| [[Club El Porvenir|El Porvenir]]
+| [[Gerli]]
+| [[Estadio Gildo Francisco Ghersinich|Enrique De Roberts]]
+| 14 000
+|-
+| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+| [[Buenos Aires]]
+| [[Estadio Arquitecto Ricardo Etcheverri|Arquitecto Ricardo Etcheverri]]
+| 24 268
+|-
+| [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+| [[Concepción del Uruguay]]
+| [[Estadio Manuel y Ramón Núñez|Manuel y Ramón Núñez]]
+| 9000
+|-
+| [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+| [[San Salvador de Jujuy]]
+| [[Estadio 23 de Agosto|23 de Agosto]]
+| 23 000
+|-
+| [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| [[Godoy Cruz]]
+| [[Estadio Malvinas Argentinas|Malvinas Argentinas]]
+| 40 270
+|-
+| [[Club Atlético Huracán|Huracán]]
+| [[Buenos Aires]]
+| [[Estadio Tomás Adolfo Ducó|Tomás A. Ducó]]
+| 48 314 
+|-
+| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+| [[Tres Arroyos]]
+| [[Estadio Roberto Lorenzo Bottino|Roberto Lorenzo Bottino]]
+| 10 000
+|-
+| [[Instituto Atlético Central Córdoba|Instituto]]
+| [[Ciudad de Córdoba (Argentina)|Córdoba]]
+| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+| 32 000
+|-
+| [[Centro Juventud Antoniana|Juventud Antoniana]]
+| [[Ciudad de Salta|Salta]]
+| [[Estadio Fray Honorato Pistoia|Fray Honorato Pistoia]]
+| 12 000
+|-
+| [[Club Atlético Los Andes|Los Andes]] 
+| [[Lomas de Zamora]]
+| [[Estadio Eduardo Gallardón|Eduardo Gallardón]]
+| 36 942
+|-
+| [[Atlético Club San Martín|San Martín (M)]]
+| [[General San Martín]]
+| [[Estadio General José de San Martín|General José de San Martín]] 
+| 8782
+|-
+| [[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+| [[Ciudad de San Juan|San Juan]]
+| [[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]
+| 19 500
+|-
+| [[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+| [[Rosario (Argentina)|Rosario]]
+| [[Estadio Fortín de Ludueña|Fortín de Ludueña]]
+| 18 000
+|-
+| [[Club Atlético Unión (Santa Fe)|Unión]]
+| [[Ciudad de Santa Fe (Argentina)|Santa Fe]]
+| [[Estadio 15 de Abril|15 de Abril]]
+| 25 000
+|-
+|}
+</center>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=240|Región
+! width=25|Cant.
+! width=400|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires|conurbano bonaerense]]|| align="center" |4|| align="center" |[[Club Almagro|Almagro]], [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]], [[Club El Porvenir|El Porvenir]] y [[Club Atlético Los Andes|Los Andes]]
+|-
+|{{bandera|Buenos Aires}} [[Buenos Aires|Ciudad de Buenos Aires]]|| align="center" |4|| align="center" |[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]], [[Club Ferro Carril Oeste|Ferro Carril Oeste]] y [[Club Atlético Huracán|Huracán]]
+|-
+|{{bandera2|Santa Fe}}|| align="center" |2|| align="center" |[[Club Atlético Tiro Federal Argentino|Tiro Federal]] y [[Club Atlético Unión (Santa Fe)|Unión]]
+|-
+|[[Archivo:Flag of Cordoba Province in Argentina.svg|border|20px|Córdoba]] [[Provincia de Córdoba (Argentina)|Córdoba]]|| align="center" |2|| align="center" |[[Club Atlético Belgrano|Belgrano]] e [[Instituto Atlético Central Córdoba|Instituto]]
+|-
+|{{bandera2|Mendoza}}|| align="center" |2|| align="center" |[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]] y [[Atlético Club San Martín|San Martín (M)]]
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]|| align="center" |1|| align="center" |[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|-
+|{{bandera2|Chubut}}|| align="center" |1|| align="center" |[[Comisión de Actividades Infantiles|CAI]]
+|-
+|{{bandera2|Entre Ríos}}|| align="center" |1|| align="center" |[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+|-
+|{{bandera2|Jujuy}}|| align="center" |1|| align="center" |[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+|-
+|{{bandera2|Salta}}|| align="center" |1|| align="center" |[[Centro Juventud Antoniana|Juventud Antoniana]]
+|-
+|{{bandera2|San Juan}}|| align="center" |1|| align="center" |[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+|}
+</center>
+
+== Formato ==
+===Competición===
+Se disputaron dos torneos llamados Apertura y Clausura. En cada uno de ellos, los 20 equipos se enfrentaron todos contra todos. Ambos se jugaron a una sola rueda. Los partidos disputados en el Torneo Clausura representaron los desquites de los del Torneo Apertura, invirtiendo la localía. Si el ganador de ambas fases fuera el mismo equipo, sería el campeón. En cambio, si los ganadores del Apertura y el Clausura fueran dos equipos distintos disputarían una final a dos partidos para determinarlo.
+
+===Ascenso===
+Los ganadores del Apertura y el Clausura jugaron una final cuyo ganador se consagró campeón y obtuvo el ascenso a la [[Primera División Argentina|Primera División]]. El perdedor de esa final disputó contra el equipo mejor ubicado en la tabla de posiciones general, excluyendo a los que disputaron el primer ascenso, otra final para determinar el segundo ascenso. A su vez, el perdedor de esta final disputó una ''Promoción'' ante el equipo ubicado en el 18.º lugar de la tabla de promedios de esa categoría, mientras que los dos equipos mejor ubicados de la tabla de posiciones final, descontando a los ya clasificados a alguna de estas instancias, disputaron una eliminatoria cuyo ganador disputó la otra promoción, contra el 17.º de la tabla de promedios de Primera División.
+
+===Descenso===
+Se decidió mediante dos tablas de promedios de puntos obtenidos en las últimas 3 temporadas, una por cada afiliación. El último de cada tabla descendió a su categoría de origen, mientras que el anteúltimo disputó la ''Promoción'' con un equipo de esa categoría.
+
+== Torneo Apertura ==
+=== Tabla de posiciones ===
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- bgcolor=#90EE90
+||'''1º'''||align="left"| '''[[Instituto Atlético Central Córdoba|Instituto]]'''
+||'''36'''||19||10||6||3||34||22||12
+|-
+||'''2º'''||align="left"| [[Club Atlético Belgrano|Belgrano]]
+||'''29'''||19||8||5||6||24||18||6
+|-
+||'''3º'''||align="left"| [[Atlético Club San Martín|San Martín (Mza)]]
+||'''29'''||19||7||8||4||20||16||4
+|-
+||'''4º'''||align="left"| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+||'''28'''||19||7||7||5||29||24||5
+|-
+||'''5º'''||align="left"| [[Comisión de Actividades Infantiles|CAI]]
+||'''27'''||19||7||6||6||32||30||2
+|-
+||'''6º'''||align="left"| [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+||'''27'''||19||7||6||6||24||24||0
+|-
+||'''7º'''||align="left"| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]    
+||'''27'''||19||8||3||8||22||22||0
+|-
+||'''8º'''||align="left"| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]  
+||'''26'''||19||6||8||5||28||20||8
+|-
+||'''9º'''||align="left"| [[Club Atlético Huracán|Huracán]]
+||'''26'''||19||6||8||5||19||21||-2
+|-
+||'''10º'''||align="left"| [[Centro Juventud Antoniana|Juventud Antoniana]]    
+||'''25'''||19||7||4||8||25||28||-3
+|-
+||'''11º'''||align="left"|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+||'''25'''||19||6||7||6||17||21||-4
+|-
+||'''12º'''||align="left"| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''24'''||19||6||6||7||23||18||5
+|-
+||'''13º'''||align="left"| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] 
+||'''23'''||19||4||11||4||28||23||5
+|-
+||'''14º'''||align="left"| [[Club Atlético Tiro Federal Argentino|Tiro Federal]]
+||'''23'''||19||4||11||4||26||28||-2
+|-
+||'''15º'''||align="left"| [[Club Atlético Los Andes|Los Andes]]
+||'''21'''||19||4||9||6||16||17||-1
+|-
+||'''16º'''||align="left"| [[Club Almagro|Almagro]]             
+||'''21'''||19||5||6||8||22||24||-2
+|-
+||'''17º'''||align="left"| [[Club Atlético Unión (Santa Fe)|Unión]]
+||'''21'''||19||4||9||6||20||23||-3
+|-
+||'''18º'''||align="left"| [[Club El Porvenir|El Porvenir]]
+||'''21'''||19||5||6||8||18||26||-8
+|-
+||'''19º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||'''21'''||19||5||6||8||18||27||-9
+|-
+||'''20º'''||align="left"|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+||'''19'''||19||3||10||6||14||27||-13
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff align=left|<small>Ganador del Torneo Apertura.
+|}
+</center>
+
+== Torneo Clausura ==
+=== Tabla de posiciones ===
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|- bgcolor=#90EE90
+||'''1º'''||align="left"| '''[[Club Almagro|Almagro]]'''
+||'''37'''||19||11||4||4||35||19||16
+|-
+||'''2º'''||align="left"| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+||'''36'''||19||11||3||5||28||18||10
+|-
+||'''3º'''||align="left"| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+||'''34'''||19||8||10||1||26||15||11
+|-
+||'''4º'''||align="left"| [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+||'''33'''||19||9||6||4||26||21||5
+|-
+||'''5º'''||align="left"| [[Club El Porvenir|El Porvenir]]
+||'''31'''||19||9||4||6||26||16||10
+|-
+||'''6º'''||align="left"| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''30'''||19||9||3||7||20||19||1
+|-
+||'''7º'''||align="left"| [[Club Atlético San Martín (San Juan)|San Martín (SJ)]]    
+||'''29'''||19||8||5||6||22||23||-1
+|-
+||'''8º'''||align="left"| [[Club Atlético Belgrano|Belgrano]]  
+||'''28'''||19||7||7||5||22||15||7
+|-
+||'''9º'''||align="left"| [[Club Atlético Huracán|Huracán]]
+||'''28'''||19||7||7||5||31||28||3
+|-
+||'''10º'''||align="left"| [[Club Atlético Tiro Federal Argentino|Tiro Federal (R)]]    
+||'''27'''||19||8||3||8||27||26||1
+|-
+||'''11º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+||'''26'''||19||7||5||7||28||29||-1
+|-
+||'''12º'''||align="left"| [[Club Atlético Los Andes|Los Andes]]
+||'''25'''||19||6||7||6||23||29||-6
+|-
+||'''13º'''||align="left"| [[Instituto Atlético Central Córdoba|Instituto]] 
+||'''24'''||19||7||3||9||22||23||-1
+|-
+||'''14º'''||align="left"| [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+||'''22'''||19||6||4||9||26||32||-6
+|-
+||'''15º'''||align="left"| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''21'''||19||5||6||8||27||34||-7
+|-
+||'''16º'''||align="left"| [[Comisión de Actividades Infantiles|CAI]]             
+||'''20'''||19||6||2||11||23||25||-2
+|-
+||'''17º'''||align="left"| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+||'''20'''||19||5||5||9||21||26||-5
+|-
+||'''18º'''||align="left"| [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+||'''19'''||19||5||4||10||25||31||-6
+|-
+||'''19º'''||align="left"| [[Centro Juventud Antoniana|Juventud Antoniana]]                            
+||'''17'''||19||3||8||8||17||32||-15
+|-
+||'''20º'''||align="left"| [[Atlético Club San Martín|San Martín (M)]]
+||'''13'''||19||3||4||12||16||30||-14
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff align=left|<small>Ganador del Torneo Clausura.
+|}
+</center>
+
+== Tabla General ==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Pts
+!PJ
+!PG
+!PE
+!PP
+!GF
+!GC
+!Dif
+|-style="background:#ACE1AF;"  
+| 1.º||[[Huracán de Tres Arroyos|Huracán (TA)]]
+|'''62'''||38||15||17||6||55||39||16
+|-style="background:#90EE90;"
+| 2.º||[[Instituto Atlético Central Córdoba|Instituto]]
+|'''60'''||38||17||9||12||56||45||11
+|-style="background:#CCFFCF;"
+| 3.º||[[Argentinos Juniors]]
+|'''59'''||38||15||14||9||56||41||15
+|- style="background:#90EE90;"
+| 4.º||[[Club Almagro|Almagro]]
+|'''58'''||38||16||10||12||57||43||14
+|-style="background:#CCFFCF;"
+| 5.º||[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|'''58'''||38||15||13||10||43||42||1
+|-
+| 6.º||[[Club Atlético Belgrano|Belgrano]]
+|'''57'''||38||15||12||11||46||33||13
+|-
+| 7.º||[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|'''54'''||38||15||9||14||43||37||6
+|-
+| 8.º||[[Club Atlético Huracán|Huracán]]
+|'''54'''||38||13||15||10||50||49||1
+|-
+| 9.º||[[Club El Porvenir|El Porvenir]]
+|'''52'''||38||14||10||14||44||42||2
+|-
+| 10.º||[[Club Atlético Tiro Federal Argentino|Tiro Federal (R)]]
+|'''50'''||38||12||14||12||53||54||-1
+|-
+| 11.º||[[Club Atlético San Martín de San Juan|San Martín (SJ)]]
+|'''50'''||38||13||11||14||40||50||-10
+|-
+| 12.º||[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+|'''49'''||38||13||10||15||50||56||-6
+|-
+| 13.º||[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|'''48'''||38||14||9||15||49||56||-7
+|-
+| 14.º||[[Comisión de Actividades Infantiles|CAI]]
+|'''47'''||38||13||8||17||55||55||0
+|-
+| 15.º||[[Club Atlético Unión (Santa Fe)|Unión]]
+|'''47'''||38||11||14||13||48||52||-4
+|-
+| 16.º||[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+|'''46'''||38||11||13||14||49||46||3
+|-
+| 17.º||[[Club Atlético Los Andes|Los Andes]]
+|'''46'''||38||10||16||12||39||46||-7
+|-
+| 18.º||[[Atlético Club San Martín de Mendoza|San Martín (M)]]
+|'''42'''||38||10||12||16||36||46||-10
+|-
+| 19.º||[[Centro Juventud Antoniana|Juventud Antoniana]]
+|'''42'''||38||10||12||16||42||60||-18
+|-
+| 20.º||[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y  Esgrima (CdU)]]
+|'''38'''||38||8||14||16||39||58||-19
+|-
+|}
+</center>
+<center>
+{|
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#ACE1AF|
+|bgcolor=#ffffff align=left|<small>Clasificado al playoff por el segundo ascenso directo.
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff|<small>Clasificados a la final por el campeonato por ganar el Apertura o el Clausura.
+|-
+|bgcolor=#CCFFCF|
+|bgcolor=#ffffff align=left|<small>Clasificados al playoff por un lugar en la ''Promoción''.
+|}
+</center>
+
+== Final por el campeonato ==
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Final
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Almagro|Almagro]]
+|1 - 0 
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|-align=center
+|bgcolor=#D0E7FF|'''[[Instituto Atlético Central Córdoba|Instituto]]
+|2 - 0
+|[[Club Almagro|Almagro]]
+|-
+|colspan="6"| '''Instituto''' ascendió a Primera División con un global de '''2 - 1'''. Almagro jugó la final por el segundo ascenso.
+|}
+
+== Segundo ascenso ==
+
+La final por el segundo ascenso a la Primera División se disputó entre Almagro, perdedor de la final por el primer ascenso, y Huracán (TA), el equipo mejor ubicado en la temporada en la tabla general. El ganador ascendió mientras que el perdedor disputó la ''Promoción''.
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Segundo ascenso
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Almagro|Almagro]]
+|2 - 0 
+|[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|2 - 0
+(3 - 4)
+|[[Club Almagro|Almagro]]
+|-
+|colspan="6"| '''Almagro''' ascendió a Primera División tras empatar en el global '''2 - 2''' y ganar por penales. Huracán (TA) jugó la ''Promoción''.
+|}
+
+== Eliminatoria por la Promoción ==
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Final
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|1 - 0 
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|-align=center
+|bgcolor=#D0E7FF|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|2 - 0
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|-
+|colspan="6"| '''Argentinos Juniors''' disputó la ''Promoción'' con un equipo de la Primera División tras ganar con un global de '''2 - 1'''.
+|}
+
+== Promoción con Primera División ==
+La disputaron entre los que ocuparon el décimo séptimo y el décimo octavo equipo de la tabla de promedios de Primera División, [[A. M. S. y D. Atlético de Rafaela|Atlético de Rafaela]] y [[Club Atlético Talleres (Córdoba)|Talleres (C)]], que jugaron contra [[Huracán de Tres Arroyos|Huracán (TA)]], perdedor de la final por el segundo ascenso, y [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], ganador de la eliminatoria por la segunda promoción, los cuales ganaron sus respectivos enfrentamientos y lograron el ascenso.
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Promoción 1
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|2 - 1
+|[[Atlético de Rafaela]]
+|-align=center
+|[[Atlético de Rafaela]]
+|2 - 3
+|bgcolor=#D0E7FF|'''[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|-
+|colspan="6"| '''Huracán (TA)''' ascendió a Primera División con un global de '''5 - 3'''
+|}
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 2
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|2 - 1
+| [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|-align=center
+| [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|1 - 2
+|bgcolor=#D0E7FF|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|-
+|colspan="6"| '''Argentinos Juniors''' ascendió a Primera División con un global de '''4 - 2'''
+|}
+
+== Tabla de descenso ==
+Fueron contabilizadas la presente temporada y las dos anteriores. Descendió el último equipo de cada una de las afiliaciones, mientras que el anteúltimo disputó una ''Promoción'' para mantener la categoría.
+
+=== Interior ===
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Promedio
+![[Campeonato de Primera B Nacional 2001-02|2001/02]]
+![[Campeonato de Primera B Nacional 2002-03|2002/03]]
+!2003/04
+!Total
+!PJ
+|-
+||'''1.º'''||align="left"|[[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+||'''1,578'''||63||55||62||180||114
+|-
+||'''2.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||'''1,570'''||59||60||60||179||114
+|-
+||'''3.º'''||align="left"|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+||'''1,429'''||47||58||58||163||114
+|-
+||'''4.º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]
+||'''1,397'''||-||52||57||109||78
+|-
+||'''5.º'''||align="left"|[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia (J)]]
+||'''1,359'''||58||48||49||155||114
+|-
+||'''6.º'''||align="left"|[[Atlético Club San Martín|San Martín (M)]]
+||'''1,350'''||50||62||42||154|| 44 |114
+|-
+||'''7.º'''||align="left"|[[Club Atlético Tiro Federal Argentino|Tiro Federal (R)]]
+||'''1,315'''||-||-||50||50|| 44 |38
+|-
+||'''8.º'''||align="left"|[[Centro Juventud Antoniana|Juventud Antoniana]]
+||'''1,280'''||51||53||42||146|| 44 |114
+|-
+||'''9.º'''||align="left"|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+||'''1,254'''||57||36||50||143|| 44 |114
+|- style="background: #FFFF88;"
+||'''10.º'''||align="left"|[[Comisión de Actividades Infantiles|CAI]]
+||'''1,210'''||-||45||47||92|| 44 |76
+|- style="background: #FFCCCC;"
+||'''11.º'''||align="left"|[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+||'''1,184'''||64||33||38||135|| 44 |114
+|}
+{| align=center style="font-size: 90%; border-collapse:collapse" border=0 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+| style="background: #FFFF88;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Jugó la Promoción contra un equipo del [[Torneo Argentino A 2003-04|Torneo Argentino A]].
+|- align=center bgcolor=#98A1B2
+| style="background: #FFCCCC;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Descendió al [[Torneo Argentino A 2004-05|Torneo Argentino A]].
+|}
+</center>
+
+=== Metropolitana ===
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+!Pos
+!Equipo
+!Promedio
+![[Campeonato de Primera B Nacional 2001-02|2001/02]]
+![[Campeonato de Primera B Nacional 2002-03|2002/03]]
+!2003/04
+!Total
+!PJ
+|-
+||'''1.º'''||align="left"|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+||'''1,750'''||-||74||59||133||76
+|-
+||'''2.º'''||align="left"|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+||'''1,421'''||-||-||54||54||38
+|-
+||'''3.º'''||align="left"|[[Club Atlético Huracán|Huracán]]
+||'''1,421'''||-||-||54||54||38
+|-
+||'''4.º'''||align="left"|[[Club Almagro|Almagro]]
+||'''1,403'''||43||59||58||160||114
+|-
+||'''5.º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''1,403'''||57||55||48||160||114
+|-
+||'''6.º'''||align="left"|[[Club El Porvenir|El Porvenir]]
+||'''1,342'''||59||42||52||153||114
+|-
+||'''7.º'''||align="left"|[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+||'''1,324'''||56||49||46||151||114
+|- style="background: #FFFF88;"
+||'''8.º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+||'''1,236'''||-||-||47||47||38
+|- style="background: #FFCCCC;"
+||'''9.º'''||align="left"|[[Club Atlético Los Andes|Los Andes]]
+||'''1,228'''||49||45||46||140||114
+|}
+{| align=center style="font-size: 90%; border-collapse:collapse" border=0 cellspacing=0 cellpadding=2
+|- align=center bgcolor=#98A1B2
+| style="background: #FFFF88;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Jugó la Promoción contra un equipo de la [[Campeonato de Primera B 2003-04 (Argentina)|Primera B Metropolitana]].
+|- align=center bgcolor=#98A1B2
+| style="background: #FFCCCC;" width="20 px" | 
+| bgcolor="#ffffff" align="left" |Descendió a la [[Campeonato de Primera B 2004-05 (Argentina)|Primera B Metropolitana]].
+|}
+</center>
+
+== Descensos ==
+
+Descendieron los dos peores promedios por zona: [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]] (Interior, indirectamente afiliado) y [[Club Atlético Los Andes|Los Andes]] (Metropolitana, directamente afiliado a [[Asociación del Fútbol Argentino|AFA]]).
+
+== Promoción con Primera B y Torneo Argentino A ==
+
+[[Comisión de Actividades Infantiles]], por la zona Interior, y [[Club Atlético Unión (Santa Fe)|Unión (Santa Fe)]], por la Metropolitana, disputaron las promociones contra [[Club Atlético Tucumán|Atlético Tucumán]] y [[Club Social y Deportivo Tristán Suárez|Tristán Suárez]], respectivamente. Los equipos que estaban en Primera B Nacional tuvieron ventaja deportiva.
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 96%;"
+!colspan="12" style="with: 100%;" align=center | Promoción 1
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]
+|bgcolor=#D0E7FF|'''0 - 0
+|[[Club Atlético Unión (Santa Fe)|Unión]]
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Atlético Unión (Santa Fe)|Unión]]
+|3 - 0
+|[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]
+|-
+|colspan="6"| '''Unión''' mantuvo la categoría con un global de '''3 - 0'''
+|}
+
+{|class="wikitable collapsible" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Promoción 2
+|-
+!width="150"|Local 
+!width="75"|Resultado 
+!width="150"|Visitante 
+|-align=center
+|[[Club Atlético Tucumán|Atlético Tucumán]]
+|0 - 1
+|bgcolor=#D0E7FF|'''[[Comisión de Actividades Infantiles|CAI]]
+|-align=center
+|[[Comisión de Actividades Infantiles|CAI]]
+|0 - 1
+|bgcolor=#D0E7FF|'''[[Club Atlético Tucumán|Atlético Tucumán]]
+|-
+|colspan="6"| '''CAI''' mantuvo la categoría con un global de '''1 - 1''' por ventaja deportiva
+|}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/tablesa/arg2-04.html RSSSF]
+
+{{Sucesión
+|título= XVIII Torneo de [[Primera B Nacional]]
+|período=<small>'''Campeón: [[Instituto Atlético Central Córdoba|Instituto]] (2º título)</small> 
+|predecesor= [[Primera B Nacional 2002-03]]
+|sucesor= [[Primera B Nacional 2004-05]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Fútbol en 2003]]
+[[Categoría:Fútbol en 2004]]
+[[Categoría:Fútbol en Argentina en 2003]]
+[[Categoría:Fútbol en Argentina en 2004]]
+[[Categoría:Primera B Nacional|2003-04]]
+[[Categoría:Torneos regulares de fútbol en la era profesional de la Segunda División de Argentina]]

@@ -1,0 +1,2392 @@
+{{Ficha de competición deportiva
+| nombre = Primera Nacional 2020
+| nombre_original = [[Primera B Nacional]]
+| deporte = fútbol
+| país = [[Argentina]]
+| fecha de inicio = 28 de noviembre de 2020
+| fecha de cierre = 31 de enero de 2021
+| edición = XXXVI temporada
+| televisión = [[TyC Sports]]<br />[[DirecTV Sports]]
+| campeón = [[Club Atlético Sarmiento (Junin)|Sarmiento (J)]]
+| goleador = {{bandera|ARG}} [[Claudio Bieler]] {{small|(6 goles)}}
+| participantes = 32
+| partidos = 131
+| goles = 291 <small>(2,22 por partido)</small>
+| ascendidos = [[Club Atlético Sarmiento (Junin)|Sarmiento (J)]]<br />[[Club Atlético Platense|Platense]]
+| descendidos = No hubo
+| anterior = [[Campeonato de Primera Nacional 2019-20|Primera Nacional 2019-20]]
+| siguiente = [[Campeonato de Primera Nacional 2021|Primera Nacional 2021]]
+| imagen_pie = El [[estadio 15 de Abril]], sede de la final por el título.
+}}
+
+El '''Campeonato Transición de Primera Nacional 2020''',<ref>[https://www.afa.com.ar/upload/NewFolder/NewFolder/NewFolder/NewFolder/Bolet%C3%ADn%205814%20x%20Reglamento%20Primera%20Nacional%20Transici%C3%B3n%202020.pdf Boletín especial 5814-Reglamento del Campeonato Transición de Primera Nacional 2020]</ref> también llamado '''Campeonato de Primera Nacional Transición 2020''', fue la trigésima sexta edición del certamen de [[Segunda categoría del fútbol argentino|segunda división del fútbol argentino]]. Fue organizado de manera contingente, tras la cancelación del [[Campeonato de Primera Nacional 2019-20]] a causa de la [[pandemia de covid-19]]. Comenzó el de noviembre de 2020, finalizó el 31 de enero de 2021 y participaron los treinta y dos equipos equipos que habían intervenido en el torneo abortado.   
+
+[[Archivo:El Coloso del Parque 3.jpg|thumb|250x250px|[[Estadio Marcelo Bielsa]], sede de la segunda final en la que se enfrentaron [[Club Atlético Platense|Platense]] y [[Asociación Atlética Estudiantes|Estudiantes (RC)]].]]
+
+Consagró campeón por primera vez en el torneo y por segunda vez en la categoría al [[Club Atlético Sarmiento (Junin)|Club Atlético Sarmiento]], de la ciudad de [[Junín (Buenos Aires)|Junín]], que obtuvo así su tercer ascenso a la [[Primera División de Argentina|Primera División]]. Por su parte, el segundo ascenso lo logró el [[Club Atlético Platense]], que ganó la respectiva final.
+
+== Equipos participantes ==
+{| class="wikitable sortable col4cen" style="margin: auto;"
+! Equipo
+! Ciudad
+! Estadio
+! data-sort-type=number |Capacidad
+|-
+| [[Club Agropecuario Argentino|Agropecuario]]
+| [[Carlos Casares (Buenos Aires)|Carlos Casares]]
+| [[Estadio Ofelia Rosenzuaig|Ofelia Rosenzuaig]]
+| align=center|8&nbsp;000<ref>[https://www.mundoascenso.com.ar/club/279-agropecuario-argentino Capacidad del estadio Ofelia Rosenzuaig, en Mundo Ascenso]</ref>
+|-
+| [[Club Atlético All Boys|All Boys]]
+| [[Buenos Aires]]
+| [[Estadio Islas Malvinas|Islas Malvinas]]
+| align=center|21&nbsp;500
+|-
+| [[Club Almagro|Almagro]]
+| [[José Ingenieros (Buenos Aires)|José Ingenieros]]
+| [[Estadio Tres de Febrero|Tres de Febrero]]
+| align=center|19&nbsp;000<ref>[https://www.transfermarkt.es/club-almagro-de-buenos-aires/spielplan/verein/14977 Capacidad del estadio Tres de Febrero, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Alvarado|Alvarado]]
+| [[Mar del Plata]]
+| [[Estadio José María Minella|José María Minella]]
+| align=center|35&nbsp;354<ref>[http://www.mardelplata.gob.ar/Contenido/estadio-jos%C3%A9-mar%C3%ADa-minella Capacidad del estadio José María Minella en el sitio de la Municipalidad de General Pueyrredón]</ref>
+|-
+| [[Club Atlético Atlanta|Atlanta]]
+| [[Buenos Aires]]
+| [[Estadio Don León Kolbowsky|Don León Kolbowsky]]
+| align=center|18&nbsp;000<ref>[https://www.caatlanta.com.ar/estadio-leon-kolbowski Capacidad del estadio León Kolbowski ]</ref>
+|-
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| [[Rafaela]]
+| [[Estadio Nuevo Monumental|Nuevo Monumental]]
+| align=center|20&nbsp;000<ref>{{Cita web |url=http://atleticorafaela.com.ar/contenidos/home/instalaciones/estadio/ |título=Capacidad del estadio Nuevo Monumental, en el sitio oficial del Asociación Mutual Social y Deportiva Atlético de Rafaela |fechaacceso=20 de noviembre de 2020 |fechaarchivo=6 de agosto de 2015 |urlarchivo=https://web.archive.org/web/20150806062941/http://atleticorafaela.com.ar/contenidos/home/instalaciones/estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Barracas Central|Barracas Central]]
+| [[Buenos Aires]]
+| [[Estadio Claudio Chiqui Tapia|Claudio Chiqui Tapia]]
+| align=center|4&nbsp;400<ref>[https://www.estadiosdeargentina.com.ar/cancha-de-barracas-central/ Capacidad del estadio Claudio Chiqui Tapia ]</ref>
+|-
+| [[Club Atlético Belgrano|Belgrano]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Julio César Villagra|Julio César Villagra]]
+| align=center|30&nbsp;500<ref>{{Cita web |url=https://www.belgranocordoba.com/seccion-belgrano/3/ |título=Capacidad del estadio Julio Cesar Villagra |fechaacceso=20 de noviembre de 2020 |fechaarchivo=13 de febrero de 2024 |urlarchivo=https://web.archive.org/web/20240213200406/https://www.belgranocordoba.com/seccion-belgrano/3/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Brown|Brown]]
+| [[Adrogué]]
+| [[Estadio Lorenzo Arandilla|Lorenzo Arandilla]]
+| align=center|4&nbsp;500<ref>{{Cita web |url=http://www.cabrowndeadrogue.com.ar/?page_id=550 |título=Capacidad del estadio Lorenzo Arandilla, en el sitio oficial del Club Atlético Brown |fechaacceso=19 de mayo de 2019 |urlarchivo=https://web.archive.org/web/20190105200955/http://www.cabrowndeadrogue.com.ar/?page_id=550 |fechaarchivo=5 de enero de 2019 }}</ref>
+|-
+| [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+| [[Villa Maipú]]
+| [[Estadio de Chacarita Juniors|Chacarita Juniors]]
+| align=center|26&nbsp;530<ref>[https://www.transfermarkt.es/club-atletico-chacarita-juniors/stadion/verein/2154 Capacidad del estadio Chacarita Juniors, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+| [[Buenos Aires]]
+| [[Estadio Juan Pasquale|Juan Pasquale]]
+| align=center|10&nbsp;000<ref>[https://www.mundoascenso.com.ar/club/78-defensores-de-belgrano Capacidad del estadio Juan Pasquale, en Mundo Ascenso]</ref>
+|-
+| [[Club Deportivo Morón|Deportivo Morón]]
+| [[Morón (Buenos Aires)|Morón]]
+| [[Estadio Nuevo Francisco Urbano|Nuevo Francisco Urbano]]
+| align=center|35&nbsp;000<ref>[https://www.transfermarkt.es/deportivo-moron/stadion/verein/12458 Capacidad del estadio Nuevo Francisco Urbano, en Transfermarkt]</ref>
+|-
+| [[Club Deportivo Riestra|Deportivo Riestra]]
+| [[Buenos Aires]]
+| [[Estadio Guillermo Laza|Guillermo Laza]]
+| align=center|4&nbsp;000<ref>{{Cita web |url=https://clubdeportivoriestra.com/el-estadio/ |título=Capacidad del estadio Guillermo Laza |fechaacceso=20 de noviembre de 2020 |fechaarchivo=10 de agosto de 2020 |urlarchivo=https://web.archive.org/web/20200810223317/https://clubdeportivoriestra.com/el-estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Estudiantes|Estudiantes]]
+| [[Caseros (Buenos Aires)|Caseros]]
+| [[Estadio Ciudad de Caseros|Ciudad de Caseros]]
+| align=center|16&nbsp;700<ref>[https://caestudiantes.com.ar/estadio/ Capacidad del estadio Ciudad de Caseros]</ref>
+|-
+| [[Asociación Atlética Estudiantes|Estudiantes]]
+| [[Rio Cuarto (Córdoba)|Río Cuarto]]
+| [[Estadio Ciudad de Río Cuarto Antonio Candini|Antonio Candini]]
+| align=center|11&nbsp;000<ref>{{Cita web |url=http://aaestudiantes.com.ar/instalaciones/ |título=Capacidad del estadio Antonio Candini |fechaacceso=20 de noviembre de 2020 |fechaarchivo=16 de octubre de 2020 |urlarchivo=https://web.archive.org/web/20201016074843/https://aaestudiantes.com.ar/instalaciones/ |deadurl=yes }}</ref>
+|-
+| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+| [[Buenos Aires]]
+| [[Estadio Arquitecto Ricardo Etcheverri|Arquitecto Ricardo Etcheverri]]
+| align=center|24&nbsp;442<ref>[https://www.transfermarkt.es/ferro-carril-oeste/stadion/verein/4557 Capacidad del estadio Arquitecto Ricardo Etcheverri, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima]]
+| [[San Salvador de Jujuy|Jujuy]]
+| [[Estadio 23 de Agosto|23 de Agosto]]
+| align=center|24&nbsp;000<ref>[https://www.transfermarkt.es/gimnasia-y-esgrima-de-jujuy/stadion/verein/10885 Capacidad del estadio 23 de Agosto, en Transfermarkt]</ref>
+|-
+| [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima]]
+| [[Mendoza (ciudad)|Mendoza]]
+| [[Estadio Víctor Antonio Legrotaglie|Víctor Antonio Legrotaglie]]
+| align=center|14&nbsp;000<ref>[https://gimnasiayesgrimamza.com.ar/gye2017/wp-content/uploads/2018/06/GYE2018.pdf Información del Club Atlético Gimnasia y Esgrima Mendoza]</ref>
+|-
+| [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+| [[Puerto Madryn]]
+| [[Estadio Raúl Conti|Raúl Conti]]
+| align=center|14&nbsp;500<ref>[https://www.brown2000.com.ar/historia.htm Capacidad del estadio Raul Conti, en Brown2000]</ref>
+|-
+| [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+| [[Mendoza (ciudad)|Mendoza]]
+| [[Estadio Bautista Gargantini|Bautista Gargantini]]
+| align=center|24&nbsp;000<ref>{{Cita web |url=http://www.csir.com.ar/?page_id=3608 |título=Estadio Bautista Gargantini |fechaacceso=4 de septiembre de 2017 |urlarchivo=https://web.archive.org/web/20170904065644/http://www.csir.com.ar/?page_id=3608 |fechaarchivo=4 de septiembre de 2017 }}</ref>
+|-
+| [[Instituto Atlético Central Córdoba|Instituto]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+| align=center|26&nbsp;000<ref>[https://www.institutoacc.com.ar/index.php/instalaciones/ Capacidad del estadio Juan Domingo Perón, en el sitio oficial del Instituto Atlético Central Córdoba]</ref>
+|-
+| [[Club Atlético Mitre (Santiago del Estero)|Mitre]]
+| [[Santiago del Estero (ciudad)|Santiago del Estero]]
+| [[Estadio Doctores José y Antonio Castiglione|Doctores José y Antonio Castiglione]]
+| align=center|16&nbsp;500<ref>[https://www.mundoascenso.com.ar/club/265-mitre-de-santiago-del-estero Capacidad del estadio Doctores José y Antonio Castiglione, en Mundo Ascenso]</ref>
+|-
+| [[Club Atlético Nueva Chicago|Nueva Chicago]]
+| [[Buenos Aires]]
+| [[Estadio Nueva Chicago|Nueva Chicago]]
+| align=center|25&nbsp;000<ref>{{Cita web |url=http://www.canuevachicago.com.ar/estadio/ |título=Estadio |autor=Secretaría de Prensa |editor=Sitio oficial |urlarchivo=https://archive.today/20150805235943/http://www.canuevachicago.com.ar/estadio/ |fechaarchivo=5 de agosto de 2015 }}</ref>
+|-
+| [[Club Atlético Platense|Platense]]
+| [[Florida (Argentina)|Florida]]
+| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]
+| align=center|34&nbsp;530<ref>[https://cap.org.ar/estadio-ciudad-de-vicente-lopez/ Estadio “Ciudad de Vicente López”, en el sitio oficial del Club Atlético Platense]</ref>
+|-
+| [[Quilmes Atlético Club|Quilmes]]
+| [[Quilmes]]
+| [[Estadio Centenario Ciudad de Quilmes|Centenario Ciudad de Quilmes]]
+| align=center|32&nbsp;200<ref>[https://www.transfermarkt.es/quilmes-atletico-club/stadion/verein/1826 Capacidad del estadio Centenario Ciudad de Quilmes, en Transfermarkt]</ref>
+|-
+| [[Club y Biblioteca Ramón Santamarina|Ramón Santamarina]]
+| [[Tandil]]
+| [[Estadio Municipal General San Martín|Municipal General San Martín]]
+| align=center|8&nbsp;762
+|-
+|[[Club Atlético San Martín (San Juan)|San Martín]]
+|[[San Juan (Argentina)|San Juan]]
+|[[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]
+| align="center"|26&nbsp;000<ref>{{Cita web |url=http://www.promiedos.com.ar/estadio.php?id=37 |título=Capacidad del estadio Hilario Sánchez |fechaacceso=20 de noviembre de 2020 |fechaarchivo=2 de marzo de 2021 |urlarchivo=https://web.archive.org/web/20210302164816/https://www.promiedos.com.ar/estadio.php?id=37 |deadurl=yes }}</ref>
+|-
+| [[Club Atlético San Martín (Tucumán)|San Martín]]
+| [[San Miguel de Tucumán]]
+| [[Estadio La Ciudadela|La Ciudadela]]
+| align=center|30&nbsp;500<ref>{{Cita web |url=http://clubatleticosanmartin.com/la-ciudadela/ |título=Capacidad del estadio La Ciudadela |fechaacceso=20 de noviembre de 2020 |fechaarchivo=27 de noviembre de 2020 |urlarchivo=https://web.archive.org/web/20201127212158/http://clubatleticosanmartin.com/la-ciudadela/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Sarmiento (Junín)|Sarmiento]]
+| [[Junín (Buenos Aires)|Junín]]
+| [[Estadio Eva Perón|Eva Perón]]
+| align=center|22&nbsp;000<ref>{{Cita web |url=http://www.sarmientodejunin.com.ar/listado-completo.php?id=15 |título=Capacidad del estadio Eva Perón, en el sitio oficial del Club Atlético Sarmiento |fechaacceso=16 de junio de 2019 |urlarchivo=https://web.archive.org/web/20190405204922/http://www.sarmientodejunin.com.ar/listado-completo.php?id=15 |fechaarchivo=5 de abril de 2019 }}</ref>
+|-
+| [[Club Atlético Temperley|Temperley]]
+| [[Turdera]]
+| [[Estadio Alfredo Beranger|Alfredo Beranger]]
+| align=center|18&nbsp;000<ref>{{Cita web |url=http://temperley.org.ar/el-estadio/ |título=Capacidad del estadio Alfredo Beranger, en el sitio oficial del Club Atlético Temperley |fechaacceso=20 de noviembre de 2020 |fechaarchivo=18 de julio de 2020 |urlarchivo=https://web.archive.org/web/20200718040406/http://temperley.org.ar/el-estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Atlético Tigre|Tigre]]
+| [[Victoria (Buenos Aires)|Victoria]]
+| [[Estadio José Dellagiovanna|José Dellagiovanna]]
+| align=center|26&nbsp;282<ref>{{Cita web |url=https://catigre.com.ar/club/estadio/ |título=Capacidad del estadio José Dellagiovanna, en el sitio oficial del Club Atlético Tigre |fechaacceso=20 de noviembre de 2020 |fechaarchivo=21 de abril de 2021 |urlarchivo=https://web.archive.org/web/20210421032927/https://catigre.com.ar/club/estadio/ |deadurl=yes }}</ref>
+|-
+| [[Club Villa Dálmine|Villa Dálmine]]
+| [[Campana (Argentina)|Campana]]
+| [[Estadio El Coliseo de Mitre y Puccini|El Coliseo de Mitre y Puccini]]
+| align=center|11&nbsp;250<ref>[https://www.transfermarkt.es/club-villa-dalmine/spielplan/verein/8356 Capacidad del estadio El Coliseo de Mitre y Puccini, en Transfermarkt]</ref>
+|-
+|}
+
+=== Distribución geográfica de los equipos ===
+
+{| class="wikitable" style="margin: 0 auto;"
+|-
+! width=280|Región
+! width=25|Cant.
+! width=430|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]||align=center|9||align=center| Almagro, Brown de Adrogué, Chacarita Juniors, Deportivo Morón, Estudiantes, Platense, Quilmes, Temperley y Tigre.
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]||align=center|7||align=center|All Boys, Atlanta, Barracas Central, Defensores de Belgrano, Deportivo Riestra, Ferro Carril Oeste y Nueva Chicago
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]||align=center|5||align=center| Agropecuario, Alvarado, Ramón Santamarina, Sarmiento (J) y Villa Dálmine.
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]] ||align=center|3||align=center| Belgrano, Estudiantes (RC) e Instituto
+|-
+|{{bandera|Mendoza}} [[Provincia de Mendoza]]||align=center|2||align=center|Gimnasia y Esgrima e Independiente Rivadavia
+|-
+|{{bandera|Provincia del Chubut}} [[Provincia del Chubut]]||align=center|1||align=center| Guillermo Brown
+|-
+|{{bandera|Jujuy}} [[Provincia de Jujuy]]||align=center|1||align=center|Gimnasia y Esgrima
+|-
+|{{bandera|Provincia de San Juan}} [[Provincia de San Juan (Argentina)|Provincia de San Juan]]||align=center|1||align=center|San Martín
+|-
+|{{bandera|Provincia de Santa Fe}} [[Provincia de Santa Fe]]||align=center|1||align=center|Atlético de Rafaela
+|-
+|{{bandera|Provincia de Santiago del Estero}} [[Provincia de Santiago del Estero]]||align=center|1||align=center| Mitre
+|-
+|{{bandera|Provincia de Tucumán}} [[Provincia de Tucumán]]||align=center|1||align=center|San Martín
+|-
+|}
+
+== Formato ==
+El torneo se disputó en dos fases, llamadas, respectivamente,  primer y segundo ascenso a Primera División.
+
+=== Fase primer ascenso a Primera División ===
+
+==== Etapa clasificación ==== 
+Se disputó en las mismas dos zonas del [[Campeonato de Primera Nacional 2019-20]], integradas por los ocho mejores equipos de la tabla final de posiciones de cada una, que se enfrentaron en una sola rueda por el [[sistema de todos contra todos]]. Los dos ganadores jugaron la final. 
+
+Por su parte, los segundos de cada zona jugaron la Tercera instancia de la etapa eliminatoria de la Fase segundo ascenso y los restantes equipos disputaron la Primera instancia de la etapa eliminatoria de la misma fase.
+
+==== Final ====
+Se disputó a un solo partido en cancha neutral. Debido a que terminó en empate se ejecutaron [[tiros desde el punto penal]].
+
+El vencedor fue consagrado campeón del torneo y obtuvo el ascenso a la Primera División, y el perdedor pasó a las Semifinales de la etapa eliminatoria de la Fase segundo ascenso a Primera División.
+
+=== Fase segundo ascenso a Primera División ===
+==== Etapa clasificación ====
+Se disputó en las mismas dos zonas del [[Campeonato de Primera Nacional 2019-20]], integradas por los últimos ocho equipos de la tabla final de posiciones respectiva, que jugaron una sola rueda por el [[sistema de todos contra todos]]. Los dos primeros de cada una clasificaron a la Primera instancia de la etapa eliminatoria.
+
+==== Etapa eliminatoria ====
+Se disputó por [[eliminación directa]], a un solo partido, en cancha neutral. En caso de empate, la definición se operó mediante [[tiros desde el punto penal]].
+
+===== Primera instancia =====
+La jugaron dieciséis equipos: doce provenientes de la Etapa clasificación de la Fase primer ascenso y cuatro de la Etapa clasificación de esta fase.
+ 
+===== Segunda instancia =====
+La jugaron los ocho ganadores de la Primera instancia.
+
+===== Tercera instancia =====
+La jugaron seis equipos: los dos segundos de cada zona de la Etapa clasificación de la Fase primer ascenso y los cuatro ganadores de la Segunda instancia.
+
+===== Semifinales =====
+Las jugaron cuatro equipos: el perdedor de la final de la Fase primer ascenso y los tres ganadores de la Tercera instancia.
+
+===== Final =====
+La jugaron los dos semifinalistas ganadores. El vencedor obtuvo el segundo ascenso a la Primera División.
+
+== Fase primer ascenso ==
+=== Etapa clasificación ===
+==== Zona A ====
+===== Tabla de posiciones final =====
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=3|e=4|p=0|gf=11|gc=5|eq=[[Asociación Atlética Estudiantes|Estudiantes (RC)]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=3|e=4|p=0|gf=10|gc=6|eq=[[Club Atlético Platense|Platense]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=3|g=3|e=3|p=1|gf=13|gc=10|eq=[[Club Atlético Estudiantes|Estudiantes (BA)]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=4|g=3|e=1|p=3|gf=7|gc=11|eq=[[Club Agropecuario Argentino|Agropecuario]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=5|g=2|e=2|p=3|gf=12|gc=12|eq=[[Club Atlético Atlanta|Atlanta]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=6|g=1|e=3|p=3|gf=6|gc=8|eq=[[Club Deportivo Morón|Deportivo Morón]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=7|g=1|e=3|p=3|gf=3|gc=5|eq=[[Club Atlético Temperley|Temperley]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=8|g=2|e=0|p=5|gf=7|gc=12|eq=[[Club Ferro Carril Oeste|Ferro Carril Oeste]]|color=#C0DEFF}}
+{{Tabla de posiciones fin  
+ |color1=#cfc| texto1=Perdió la final por el título de campeón. Pasó a las semifinales de la etapa eliminatoria por el segundo ascenso.
+ |color2=#d0f0c0| texto2=Pasó a la tercera instancia de la etapa eliminatoria por el segundo ascenso.
+ |color3=#C0DEFF| texto3=Pasaron a la primera instancia de la etapa eliminatoria por el segundo ascenso.
+}}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+====== Evolución de las posiciones ======
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+|- align=center
+| Agropecuario
+|style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|5.º||style="background:#d0f0c0"|2.º||style="background:#cfc"|1.º||style="background:#cfc"|1.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º
+|- align=center
+| Atlanta
+|style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|5.º
+|- align=center
+| Deportivo Morón
+|style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|6.º
+|- align=center
+| Estudiantes (BA)
+|style="background:#cfc"|1.º||style="background:#cfc"|1.º||style="background:#cfc"|1.º||style="background:#d0f0c0"|2.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|3.º
+|- align=center
+| Estudiantes (RC)
+|style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|4.º||style="background:#d0f0c0"|2.º||style="background:#cfc"|1.º
+|- align=center
+| Ferro Carril Oeste
+|style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º
+|- align=center
+| Platense
+|style="background:#d0f0c0"|2.º||style="background:#d0f0c0"|2.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|3.º||style="background:#d0f0c0"|2.º||style="background:#cfc"|1.º||style="background:#d0f0c0"|2.º
+|- align=center
+| Temperley
+|style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+===== Resultados =====
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 1
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Atlanta
+|0 - 2
+|bgcolor=#D0E7FF|'''Platense
+|Don León Kolbowsky
+|28 de noviembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+| 3 - 1
+|Agropecuario
+|Ciudad de Caseros
+|29 de noviembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Temperley
+| 1 - 0
+|Ferro Carril Oeste
+|Alfredo Beranger
+|rowspan=2|30 de noviembre
+|17:10
+|- 
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|Antonio Candini
+|18:00
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 2
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''2 - 2
+|Estudiantes (RC)
+|Ciudad de Caseros
+|rowspan=2|5 de diciembre
+|rowspan=2|17:10
+|- 
+|Platense
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Morón
+|Ciudad de Vicente López
+|- 
+|bgcolor=#D0E7FF|'''Agropecuario
+|1 - 0
+|Temperley
+|Rosa Rosenzuaig
+|6 de diciembre
+|19:00
+|- 
+|Ferro Carril Oeste
+|0 - 3
+|bgcolor=#D0E7FF|'''Atlanta
+|Arquitecto Ricardo Etcheverri
+|7 de diciembre
+|21:10
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 3
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Estudiantes (RC)
+|bgcolor=#D0E7FF|'''1 - 1
+|Platense
+|Antonio Candini
+|11 de diciembre
+|19:00
+|- 
+|Deportivo Morón
+|2 - 3
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|Nuevo Francisco Urbano
+|12 de diciembre
+|17:10
+|- 
+|Atlanta
+|2 - 3
+|bgcolor=#D0E7FF|'''Agropecuario
+|Don León Kolbowsky
+|rowspan=2|13 de diciembre
+|rowspan=2|17:10
+|- 
+|Temperley
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|Alfredo Beranger
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 4
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''3 - 3
+|Atlanta
+|Ciudad de Caseros
+|18 de diciembre
+|21:30
+|- 
+|Temperley
+|bgcolor=#D0E7FF|'''0 - 0
+|Estudiantes (RC)
+|Alfredo Beranger
+|19 de diciembre
+|21:10
+|- 
+|Ferro Carril Oeste
+|1 - 2
+|bgcolor=#D0E7FF|'''Platense
+|Arquitecto Ricardo Etcheverri
+|21 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Agropecuario
+|1 - 0
+|Deportivo Morón
+|Ofelia Rosenzuaig
+|22 de diciembre
+|21:10
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 5
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Temperley
+|Don León Kolbowsky
+|rowspan=2|27 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|2 - 1
+|Ferro Carril Oeste
+|Antonio Candini
+|21:00
+|- 
+|Platense
+|bgcolor=#D0E7FF|'''1 - 1
+|Agropecuario
+|Ciudad de Vicente López
+|rowspan=2|28 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Estudiantes (BA)
+|Nuevo Francisco Urbano
+|21:30
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 6
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|Don León Kolbowsky
+|rowspan=2|3 de enero
+|17:10
+|- 
+|Temperley
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|Alfredo Beranger
+|21:10
+|- 
+|Agropecuario
+|0 - 1
+|bgcolor=#D0E7FF|'''Ferro Carril Oeste
+|Ofelia Rosenzuaig
+|rowspan=2|4 de enero
+|17:10
+|- 
+|Estudiantes (BA)
+|bgcolor=#D0E7FF|'''1 - 1
+|Platense
+|Ciudad de Caseros
+|19:10
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 7
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Estudiantes (RC)
+|4 - 0
+|Agropecuario
+|Antonio Candini
+|rowspan=4|10 de enero
+|rowspan=4|17:10
+|- 
+|Ferro Carril Oeste
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (BA)
+|Arquitecto Ricardo Etcheverri
+|- 
+|bgcolor=#D0E7FF|'''Platense
+|2 - 1
+|Temperley
+|Ciudad de Vicente López
+|- 
+|Deportivo Morón
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|Nuevo Francisco Urbano
+|}
+
+==== Zona B ====
+===== Tabla de posiciones final =====
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=4|e=3|p=0|gf=8|gc=4|eq=[[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=4|e=2|p=1|gf=13|gc=8|eq=[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]|color=#d0f0c0}}
+{{Tabla de posiciones equipo|pos=3|g=4|e=1|p=2|gf=6|gc=3|eq=[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=4|g=2|e=2|p=3|gf=9|gc=9|eq=[[Club Atlético Tigre|Tigre]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=5|g=1|e=4|p=2|gf=10|gc=10|eq=[[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]|color=#C0DEFF}}
+{{Tabla de posiciones equipo|pos=6|g=1|e=3|p=3|gf=8|gc=11|eq=[[Club Deportivo Riestra|Deportivo Riestra]]|color=#C0DEFF}}  
+{{Tabla de posiciones equipo|pos=7|g=1|e=3|p=3|gf=5|gc=9|eq=[[Club Villa Dálmine|Villa Dálmine]]|color=#C0DEFF}} 
+{{Tabla de posiciones equipo|pos=8|g=1|e=2|p=4|gf=3|gc=8|eq=[[Club Atlético San Martín (Tucumán)|San Martín (T)]]|color=#C0DEFF}}         
+{{Tabla de posiciones fin  
+ |color1=#cfc| texto1=Ganó la final por el título de campeón.
+ |color2=#d0f0c0| texto2=Pasó a la tercera instancia de la etapa eliminatoria por el segundo ascenso.
+ |color3=#C0DEFF| texto3=Pasaron a la primera instancia de la etapa eliminatoria por el segundo ascenso.
+}}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+====== Evolución de las posiciones ======
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+|- align=center
+| Atlético de Rafaela
+|style="background:#d0f0c0"|2.º||style="background:#cfc;"|1.º||style="background:#cfc;"|1.º||style="background:#cfc;"|1.º||style="background:#cfc;"|1.º||style="background:#d0f0c0"|2.º||style="background:#d0f0c0"|2.º
+|- align=center
+| Defensores de Belgrano<ref name="Suspendido1" group="n.">Tuvieron un partido pendiente entre la 3.ª y la 6.ª fecha.</ref>
+|style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|3.º
+|- align=center
+| Deportivo Riestra
+|style="background:#d0f0c0"|2.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|6.º
+|- align=center
+| Gimnasia y Esgrima (M)
+|style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|5.º
+|- align=center
+| San Martín (T)
+|style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|5.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º
+|- align=center
+| Sarmiento (J)<ref name="Suspendido1" group="n."/>
+|style="background:#C0DEFF"|4.º||style="background:#d0f0c0"|2.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|3.º||style="background:#d0f0c0"|2.º||style="background:#cfc;"|1.º||style="background:#cfc;"|1.º
+|- align=center
+| Tigre
+|style="background:#cfc;"|1.º||style="background:#C0DEFF"|3.º||style="background:#d0f0c0"|2.º||style="background:#d0f0c0"|2.º||style="background:#C0DEFF"|3.º||style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|4.º
+|- align=center
+| Villa Dálmine
+|style="background:#C0DEFF"|4.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º||style="background:#C0DEFF"|8.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|6.º||style="background:#C0DEFF"|7.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+===== Resultados =====
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 1
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Sarmiento (J)
+|bgcolor=#D0E7FF|'''0 - 0
+|Villa Dálmine
+|Eva Perón
+|28 de noviembre
+|19:00
+|- 
+|San Martín (T)
+| 0 - 1
+|bgcolor=#D0E7FF|'''Tigre
+|La Ciudadela
+|rowspan=2|29 de noviembre
+|9:00
+|- 
+|Defensores de Belgrano
+|bgcolor=#D0E7FF|'''0 - 0
+|Gimnasia y Esgrima (M)
+|Juan Pasquale
+|17:10
+|- 
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''3 - 3
+|Atlético de Rafaela
+|Guillermo Laza
+|30 de noviembre
+|17:10
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 2
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Gimnasia y Esgrima (M)
+|2 - 3
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|Víctor Antonio Legrotaglie 
+|rowspan=2|5 de diciembre
+|rowspan=2|17:10
+|- 
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra
+|El Coliseo de Mitre y Puccini
+|- 
+|Defensores de Belgrano
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (T)
+|Juan Pasquale
+|6 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 2
+|Tigre
+|Nuevo Monumental
+|7 de diciembre
+|17:10
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 3
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="26%"|Estadio
+!width="16%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|1 - 0
+|Defensores de Belgrano
+|Eva Perón
+|12 de diciembre{{refn|group="n."|Suspendido en el entretiempo por fallas en el sistema de iluminación, con el resultado 0 a 0. Se completó el 6 de enero, a partir de las 17:10.}}
+|19:00
+|- 
+|San Martin (T)
+|0 - 3
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|La Ciudadela
+|13 de diciembre
+|21:30
+|- 
+|Deportivo Riestra
+|1 - 3
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (M)
+|Guillermo Laza
+|rowspan=2|14 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Tigre
+|3 - 1
+|Villa Dálmine
+|Monumental de Victoria
+|21:10
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 4
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|1 - 0
+|San Martín (T)
+|Eva Perón
+|19 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|1 - 0
+|Deportivo Riestra
+|Juan Pasquale
+|rowspan=2|20 de diciembre
+|rowspan=2|17:10
+|- 
+|Villa Dálmine
+|0 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|El Coliseo de Mitre y Puccini
+|- 
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''1 - 1
+|Tigre
+|Víctor Antonio Legrotaglie
+|21 de diciembre
+|21:30
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 5
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|Gimnasia y Esgrima (M)
+|Nuevo Monumental
+|rowspan=2|27 de diciembre
+|17:10
+|- 
+|San Martín (T)
+|0 - 1
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|La Ciudadela
+|21:30
+|- 
+|Deportivo Riestra
+|1 - 2
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|Guillermo Laza
+|28 de diciembre
+|17:10
+|- 
+|Tigre
+|0 - 1
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|Monumental de Victoria
+|29 de diciembre
+|19:20
+
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 6
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Deportivo Riestra
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (T)
+|Guillermo Laza
+|rowspan=4|3 de enero
+|rowspan=2|17:10
+|- 
+|Sarmiento (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Tigre
+|Eva Perón
+|- 
+|Gimnasia y Esgrima (M)
+|bgcolor=#D0E7FF|'''1 - 1
+|Villa Dálmine
+|Víctor Antonio Legrotaglie
+|18:10
+|- 
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|2 - 0
+|Atlético de Rafaela
+|Juan Pasquale
+|19:10
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 7
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|San Martín (T)
+|bgcolor=#D0E7FF|'''2 - 2
+|Gimnasia y Esgrima (M)
+|La Ciudadela
+|rowspan=4|10 de enero
+|rowspan=4|19:15
+|- 
+|Villa Dálmine
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensores de Belgrano
+|El Coliseo de Mitre y Puccini
+|- 
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Sarmiento (J)
+|Nuevo Monumental
+|- 
+|Tigre
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Riestra
+|Monumental de Victoria
+|}
+
+<small>{{listaref|group="n."}}</small>
+
+=== Final ===
+Se disputó a un solo partido, que se definió por [[tiros desde el punto penal]] al haber finalizado empatado. El ganador se consagró campeón y ascendió a la [[Primera División de Argentina|Primera División]]. El perdedor pasó a las Semifinales de la Etapa eliminatoria por el segundo ascenso.
+
+<center>
+{|class="wikitable" style="font-size:95%; text-align: center; width: 85%;"
+|-
+!colspan="12" style="with: 100%;" align=center | Partido
+|-
+!width="100"|Equipo 1
+!width="30"|Resultado
+!width="100"|Equipo 2
+!width="85"|Estadio
+!width="55"|Fecha
+!width="30"|Hora 
+|-align=center
+|bgcolor="#90ee90"|'''Sarmiento (J)'''
+|{{small|(4)}} 1 - 1 {{small|(3)}}
+|Estudiantes (RC)
+|[[Estadio 15 de Abril|15 de Abril]]
+|16 de enero
+|19:10
+|-
+|colspan=6|Sarmiento obtuvo el título de campeón y ascendió a Primera División.
+|}
+</center>
+
+===== Partido =====
+{{Partido
+|local       = [[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]
+|resultado   = 1:1 {{sin negrita|(1:1)}}
+|visita      = [[Asociación Atletica Estudiantes|Estudiantes (RC)]]
+|fecha       = 16 de enero, 19:10
+|estadio     = Estadio 15 de Abril
+|refe        = [[Fernando Rapallini]]
+|ciudad      = [[Santa Fe (Argentina)|Santa Fe]]
+|asistencia  = 
+|goleslocal  = [[Claudio Pombo|Pombo]] {{gol|39}}
+|golesvisita = Sepúlveda {{gol|21}}
+|resultado penalti = 4:3
+|penaltis1   = [[Jonathan Torres|Torres]] {{penfallo}}<br>[[Yamil Garnier|Garnier]] {{pengol}}<br>[[Gabriel Graciani|Graciani]] {{pengol}}<br>[[Federico Mancinelli|Mancinelli]] {{pengol}}<br>[[Federico Vismara|Vismara]] {{pengol}}
+|penaltis2   = {{pengol}} [[Néstor Ortigoza|Ortigoza]]<br>{{pengol}} [[Javier Ferreira (futbolista paraguayo)|Ferreira]]<br>{{penfallo}} [[Luis Ardente|Ardente]]<br>{{pengol}} Vester<br>{{penfallo}} Sepúlveda
+|reporte     = https://www.diariodemocracia.com/mas-deportivo/futbol/235103-sarmiento-va-ascenso-primera-estudiantes-rio-cuart/
+}}
+
+== Fase segundo ascenso ==
+=== Etapa clasificación ===
+==== Zona A ====
+===== Tabla de posiciones final =====
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=4|e=3|p=0|gf=5|gc=1|eq=[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=4|e=2|p=1|gf=7|gc=4|eq=[[Club Atlético Barracas Central|Barracas Central]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=3|g=3|e=3|p=1|gf=8|gc=3|eq=[[Club Atlético Belgrano|Belgrano]]}}
+{{Tabla de posiciones equipo|pos=4|g=2|e=3|p=2|gf=12|gc=8|eq=[[Club Atlético Alvarado|Alvarado]]}}
+{{Tabla de posiciones equipo|pos=5|g=1|e=5|p=1|gf=8|gc=9|eq=[[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]}}
+{{Tabla de posiciones equipo|pos=6|g=1|e=3|p=3|gf=6|gc=7|eq=[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]}}
+{{Tabla de posiciones equipo|pos=7|g=1|e=2|p=4|gf=6|gc=12|eq=[[Club Atlético Nueva Chicago|Nueva Chicago]]}}
+{{Tabla de posiciones equipo|pos=8|g=1|e=1|p=5|gf=3|gc=11|eq=[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]}}
+{{Tabla de posiciones fin  
+ |color1=#cfc| texto1=Clasificaron a la Primera instancia de la etapa eliminatoria.
+}}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+====== Evolución de las posiciones ======
+
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+|- align=center
+| Alvarado
+| 3.º||style="background:#cfc;"| 1.º||4.º||5.º||4.º||4.º||4.º
+|- align=center
+| Barracas Central
+|style="background:#cfc;"| 1.º||4.º||style="background:#cfc;"| 1.°||style="background:#cfc;"| 1.°||style="background:#cfc;"| 1.°||style="background:#cfc;"| 1.°||style="background:#cfc;"| 2.º
+|- align=center
+| Belgrano
+| 3.º ||style="background:#cfc;"| 2.º||5.º||3.º||3.º||3.º||3.º
+|- align=center
+| Guillermo Brown
+| 3.º||3.º||3.º||4.º||5.º||4.º||6.º
+|- align=center
+| Independiente Rivadavia
+| 8.º||8.º|| 8.º||6.º||7.º||7.º||8.º
+|- align=center
+| Mitre (SdE)
+| 3.º||6.º||6.º||7.º||6.º||6.º||5.º
+|- align=center
+| Nueva Chicago
+| 7.º||7.º||7.º||8.º||8.º||8.º||7.º
+|- align=center
+| San Martín (SJ)
+|style="background:#cfc;"| 2.º||5.º||style="background:#cfc;"| 2.°||style="background:#cfc;"| 2.°||style="background:#cfc;"| 2.º ||style="background:#cfc;"| 2.º||style="background:#cfc;"| 1.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+===== Resultados =====
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 1
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Barracas Central
+|2 - 1
+|Independiente Rivadavia
+|Claudio Chiqui Tapia
+|rowspan=3|28 de noviembre
+|17:10
+|- 
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano
+|Doctores José y Antonio Castiglione
+|19:10
+|- 
+|Alvarado
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|José María Minella
+|20:30
+|- 
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+| 1 - 0
+|Nueva Chicago
+|Ingeniero Hilario Sánchez
+|29 de noviembre
+|18:00
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 2
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Nueva Chicago
+|2 - 5
+|bgcolor=#D0E7FF|'''Alvarado
+|Nueva Chicago
+|rowspan=3|5 de diciembre
+|17:10
+|-
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''0 - 0
+|Barracas Central
+|Ingeniero Hilario Sánchez
+|18:00
+|- 
+|bgcolor=#D0E7FF|'''Belgrano
+|3 - 0
+|Independiente Rivadavia
+|Gigante de Alberdi
+|19:10
+|- 
+|bgcolor=#D0E7FF|'''Guillermo Brown
+|4 - 2
+|Mitre (SdE)
+|Raúl Conti
+|6 de diciembre
+|17:10
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 3
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Barracas Central
+|1 - 0
+|Belgrano
+|Claudio Chiqui Tapia
+|rowspan=3|12 de diciembre
+|rowspan=2|17:10
+|- 
+|Independiente Rivadavia
+|bgcolor=#D0E7FF|'''0 - 0
+|Guillermo Brown
+|Bautista Gargantini
+|- 
+|Alvarado
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|José María Minella
+|19:00
+|- 
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Nueva Chicago
+|Dres. José y Antonio Castiglione
+|14 de diciembre
+|9:00
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 4
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Alvarado
+|0 - 1
+|bgcolor=#D0E7FF|'''Barracas Central
+|José María Minella
+|19 de diciembre
+|19:00
+|- 
+|Nueva Chicago
+|1 - 2
+|bgcolor=#D0E7FF|'''Independiente Rivadavia
+|Nueva Chicago
+|rowspan=3|20 de diciembre
+|rowspan=2|17:10
+|- 
+|Guillermo Brown
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano
+|Raúl Conti
+|- 
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''1 - 1
+|Mitre (SdE)
+|Ingeniero Hilario Sánchez
+|20:30
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 5
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Barracas Central
+|2 - 1
+|Guillermo Brown
+|Claudio Chiqui Tapia
+|rowspan=4|27 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Belgrano
+|2 - 0
+|Nueva Chicago
+|Gigante de Alberdi
+|rowspan=2|19:10
+|- 
+|Independiente Rivadavia
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Bautista Gargantini
+|- 
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''2 - 2 
+|Alvarado
+|Doctores José y Antonio Castiglione
+|21:00
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 6
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Mitre (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Barracas Central
+|Doctores José y Antonio Castiglione
+|2 de enero
+|21:00
+|- 
+|Nueva Chicago
+|bgcolor=#D0E7FF|'''1 - 1
+|Guillermo Brown
+|Nueva Chicago
+|rowspan=3|3 de enero
+|17:10
+|-
+|bgcolor=#D0E7FF|'''Alvarado
+|3 - 0
+|Independiente Rivadavia
+|José María Minella
+|rowspan=2|18:00
+|- 
+|San Martín (SJ)
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano
+|Ingeniero Hilario Sánchez
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 7
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Barracas Central
+|0 - 1
+|bgcolor=#D0E7FF|'''Nueva Chicago
+|Claudio Chiqui Tapia
+|rowspan=4|10 de enero
+|rowspan=4|17:10
+|- 
+|Guillermo Brown
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (SJ)
+|Raúl Conti
+|- 
+|Belgrano
+|bgcolor=#D0E7FF|'''2 - 2
+|Alvarado
+|Gigante de Alberdi 
+|- 
+|Independiente Rivadavia 
+|0 - 1
+|bgcolor=#D0E7FF|'''Mitre (SdE)
+|Bautista Gargantini
+|}
+
+==== Zona B ====
+===== Tabla de posiciones final =====
+
+{{Tabla de posiciones inicio|ordenable=sí|ancho=200}}
+{{Tabla de posiciones equipo|pos=1|g=4|e=1|p=2|gf=9|gc=7|eq=[[Quilmes Atlético Club|Quilmes]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=3|e=3|p=1|gf=11|gc=9|eq=[[Instituto Atlético Central Córdoba|Instituto]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=3|g=4|e=0|p=3|gf=7|gc=5|eq=[[Club Almagro|Almagro]]}}
+{{Tabla de posiciones equipo|pos=4|g=3|e=1|p=3|gf=11|gc=10|eq=[[Club y Biblioteca Ramón Santamarina|Ramón Santamarina]]}}
+{{Tabla de posiciones equipo|pos=5|g=2|e=3|p=2|gf=6|gc=5|eq=[[Club Atlético Brown|Brown de Adrogué]]}}
+{{Tabla de posiciones equipo|pos=6|g=2|e=2|p=3|gf=9|gc=9|eq=[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]}}
+{{Tabla de posiciones equipo|pos=7|g=1|e=4|p=2|gf=3|gc=8|eq=[[Club Atlético All Boys|All Boys]]}}
+{{Tabla de posiciones equipo|pos=8|g=1|e=2|p=4|gf=6|gc=9|eq=[[Club Atlético Chacarita Juniors|Chacarita Juniors]]}}
+{{Tabla de posiciones fin  
+ |color1=#cfc| texto1=Clasificaron a la Primera instancia de la etapa eliminatoria.
+}}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+====== Evolución de las posiciones ======
+
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+|- align=center
+| All Boys
+|4.º||style="background:#cfc;"|2.º||5.º||6.º||7.º||7.º||7.º
+|- align=center
+| Almagro
+|style="background:#cfc;"|2.º||style="background:#cfc;"|1.º||3.º||style="background:#cfc;"|1.°||style="background:#cfc;"|1.°||style="background:#cfc;"|1.º||3.º
+|- align=center
+| Brown de Adrogué
+|4.º||6.º||7.º||7.º||5.º||4.º||5.º
+|- align=center
+| Chacarita Juniors
+|6.º||7.º||8.º||8.º||8.º||8.º||8.º
+|- align=center
+| Gimnasia y Esgrima (J)
+|7.º||8.º||6.º||5.º||4.º||6.º||6.º
+|- align=center
+| Instituto
+|style="background:#cfc;"|1.º||4.º||4.º||style="background:#cfc;"|2.º||3.º||style="background:#cfc;"|2.º||style="background:#cfc;"|2.º
+|- align=center
+| Quilmes
+|7.º||3.º||style="background:#cfc;"|2.°||3.°||style="background:#cfc;"|2.°||3.°||style="background:#cfc;"|1.º
+|- align=center
+| Ramón Santamarina
+|style="background:#cfc;"|2.º||5.º||style="background:#cfc;"|1.º||4.º||6.º||5.º||4.º
+|}
+
+{| style="font-size: 85%; margin: auto; width: 88%;"
+| {{listaref|group="n."}}
+|}
+
+===== Resultados =====
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 1
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Almagro
+|1 - 0
+|Gimnasia y Esgrima (J)
+|Tres de Febrero
+|rowspan=4|28 de noviembre
+|rowspan=3|17:10
+|- 
+|bgcolor=#D0E7FF|'''Ramón Santamarina
+|1 - 0
+|Quilmes
+|Municipal General San Martín
+|- 
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|Lorenzo Arandilla
+|- 
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 1
+|Chacarita Juniors
+|Mario Alberto Kempes
+|19:10
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 2
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''0 - 0
+|Brown de Adrogué
+|Chacarita Juniors
+|3 de diciembre
+|17:10
+|- 
+|Instituto
+|0 - 1
+|bgcolor=#D0E7FF|'''Almagro
+|Mario Alberto Kempes
+|4 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''All Boys
+|1 - 0
+|Ramón Santamarina
+|Malvinas Argentinas
+|rowspan=2|5 de diciembre
+|rowspan=2|17:10
+|- 
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 2
+|Gimnasia y Esgrima (J)
+|Centenario
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 3
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Almagro
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|Tres de Febrero
+|11 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|2 - 0
+|All Boys
+|23 de Agosto
+|rowspan=3|12 de diciembre
+|rowspan=3|17:10
+|- 
+|bgcolor=#D0E7FF|'''Ramón Santamarina
+|3 - 1
+|Chacarita Juniors
+|Municipal General San Martín
+|- 
+|Brown de Adrogué
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto
+|Lorenzo Arandilla
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 4
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Brown de Adrogué
+|0 - 1
+|bgcolor=#D0E7FF|'''Almagro
+|Lorenzo Arandilla
+|rowspan=3|19 de diciembre
+|rowspan=3|17:10
+|- 
+|Chacarita Juniors
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (J)
+|Chacarita Juniors
+|- 
+|All Boys
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|Islas Malvinas
+|- 
+|bgcolor=#D0E7FF|'''Instituto
+|3 - 2
+|Ramón Santamarina
+|Mario Alberto Kempes
+|21 de diciembre
+|19:00
+|}
+
+{|class="wikitable collapsible collapsed " style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 5
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Almagro
+|4 - 0
+|All Boys
+|Tres de Febrero
+|rowspan=2|27 de diciembre
+|rowspan=2|17:10
+|- 
+|Gimnasia y Esgrima (J)
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto
+|23 de Agosto
+|- 
+|Ramón Santamarina
+|1 - 3
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|Municipal General San Martín
+|28 de diciembre
+|17:10
+|- 
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 2
+|Chacarita Juniors
+|Centenario
+|29 de diciembre
+|17:10
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 6
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|bgcolor=#D0E7FF|'''Ramón Santamarina
+|2 - 0
+|Almagro
+|Municipal General San Martín
+|rowspan=3|3 de enero
+|rowspan=3|17:10
+|- 
+|bgcolor=#D0E7FF|'''Brown de Adrogué
+|2 - 1
+|Gimnasia y Esgrima (J)
+|Lorenzo Arandilla
+|- 
+|Chacarita Juniors
+|bgcolor=#D0E7FF|'''0 - 0
+|All Boys
+|Chacarita Juniors
+|- 
+|bgcolor=#D0E7FF|'''Instituto
+|2 - 1
+|Quilmes
+|Juan Domingo Perón
+|5 de enero
+|19:00
+|}
+
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width:85%;"
+!colspan="6"|Fecha 7
+|-
+!width="19%"|Local
+!width="10%"|Resultado
+!width="19%"|Visitante
+!width="30%"|Estadio
+!width="12%"|Fecha
+!width="10%"|Hora
+|- 
+|Almagro
+|0 - 2
+|bgcolor=#D0E7FF|'''Chacarita Juniors
+|Tres de Febrero
+|rowspan=4|11 de enero
+|rowspan=4|21:10
+|- 
+|All Boys
+|bgcolor=#D0E7FF|'''2 - 2
+|Instituto
+|Islas Malvinas
+|- 
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Brown de Adrogué
+|Centenario
+|- 
+|Gimnasia y Esgrima (J)
+|bgcolor=#D0E7FF|'''2 - 2
+|Ramón Santamarina
+|23 de Agosto
+|}
+
+<!--
+== Entrenadores ==
+{| class="wikitable collapsible collapsed" style="margin: auto; margin-top: 2%;" width="55%"
+|-
+! colspan="3" | Listado de entrenadores
+|-
+!Equipo
+!Entrenador/es
+!Fechas
+|-
+|[[Club Agropecuario Argentino|Agropecuario]]
+|{{bandera|ARG}} Manuel Fernández
+|1.ª en adelante
+|-
+|[[Club Almagro|Almagro]]
+|{{bandera|ARG}}  [[Gastón Esmerado]]
+|1.ª en adelante
+|-
+|[[Club Atlético Alvarado|Alvarado]]
+|{{bandera|ARG}} [[Walter Coyette]]
+|1.ª en adelante
+|-
+|[[Club Atlético Atlanta|Atlanta]]
+|{{bandera|ARG}} [[Fabián Lisa]]
+|1.ª en adelante
+|-
+|[[Club Atlético All Boys|All Boys]]
+|{{bandera|ARG}} [[José Santos Romero]]
+|1.ª en adelante
+|-
+|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+|{{bandera|ARG}} [[Walter Otta]]
+|1.ª en adelante
+|-
+|[[Club Atlético Brown|Brown de Adrogué]]
+|{{bandera|ARG}} [[Pablo Vicó]]
+|1.ª en adelante
+|-
+|[[Club Atlético Barracas Central|Barracas Central]]
+|{{bandera|ARG}} [[Alejandro Milano]]
+|1.ª en adelante
+|-
+|[[Club Atlético Belgrano|Belgrano]]
+|{{bandera|ARG}} [[Ricardo Caruso Lombardi]]
+|1.ª en adelante
+|-
+|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|{{bandera|ARG}} [[Claudio Biaggio]]
+|1.ª en adelante
+|-
+|[[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+|{{bandera|ARG}} [[Fabián Nardozza]]
+|1.ª en adelante
+|-
+|[[Club Deportivo Morón|Deportivo Morón]]
+|{{bandera|ARG}} [[Sebastián Sibelli]]
+|1.ª en adelante
+|-
+|[[Club Deportivo Riestra|Deportivo Riestra]]
+|{{bandera|ARG}} [[Bruno Maffoni]]
+|1.ª en adelante
+|-
+|[[Club Atlético Estudiantes|Estudiantes (BA)]]
+|{{bandera|ARG}} [[Mauricio Giganti]] 
+|1.ª en adelante
+|-
+|[[Asociación Atlética Estudiantes|Estudiantes (RC)]]
+|{{bandera|ARG}} [[Sergio Marcelo Vázquez|Marcelo Vázquez]]
+|1.ª en adelante
+|-
+|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|{{bandera|ARG}} [[Jorge Cordon]]
+|1.ª en adelante
+|-
+|[[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+|{{bandera|ARG}} [[Arnaldo Sialle]]
+|1.ª en adelante
+|-
+|[[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]
+|{{bandera|ARG}} [[Diego Pozo (futbolista)|Diego Pozo]]
+|1.ª en adelante
+|-
+|[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+|{{bandera|ARG}} [[Marcelo Broggi]]
+|1.ª en adelante
+|-
+| [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+|{{bandera|ARG}} [[Marcelo Straccia]]
+|1.ª en adelante
+|-
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|{{bandera|ARG}} [[Fernando Quiroz]]
+|1.ª en adelante
+|-
+|[[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]
+|{{bandera|ARG}}  [[Hernán Darío Ortiz]]
+|1.ª en adelante
+|-
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|{{bandera|ARG}} [[Rubén Forestello]]
+|1.ª en adelante
+|-
+|[[Club Atlético Platense|Platense]]
+|{{bandera|ARG}} [[Juan Manuel Llop]]
+|1.ª en adelante
+|-
+|[[Quilmes Atlético Club|Quilmes]]
+|{{bandera|ARG}} [[Facundo Sava]]
+|1.ª en adelante
+|-
+|[[Club y Biblioteca Ramón Santamarina|Ramón Santamarina]]
+|{{bandera|ARG}} [[Pablo Ricchetti]]
+|1.ª en adelante
+|-
+|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|{{bandera|ARG}} [[Sergio Gómez]]-[[Favio Orsi]]
+|1.ª en adelante
+|-
+|[[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+|{{bandera|ARG}} [[Paulo Ferrari]]
+|1.ª en adelante
+|-
+|[[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]
+|{{bandera|ARG}} [[Iván Delfino]]
+|1.ª en adelante
+|-
+|[[Club Atlético Temperley|Temperley]]
+|{{bandera|Colombia}}{{bandera|Argentina}} [[Walter Perazzo]]
+|1.ª en adelante
+|-
+|[[Club Atlético Tigre|Tigre]]
+|{{bandera|ARG}} [[Juan Carlos Blengio]]
+|1.ª en adelante
+|-
+|[[Club Villa Dálmine|Villa Dálmine]]
+|{{bandera|Uruguay}} [[Felipe De la Riva]]
+|1.ª en adelante
+|-
+|}
+-->
+
+=== Etapa eliminatoria ===
+Se jugó en cinco rondas (Primera instancia, Segunda instancia, Tercera instancia, Semifinales y Final) por [[eliminación directa]], a un solo partido en cancha neutral. En caso de empate, se ejecutaron [[tiros desde el punto penal]].
+
+==== Cuadro de desarrollo ====
+{{Copa
+| seed-width= 20| team-width= 180| score-width= 20
+| seeds = sí
+
+| RD1= Primera instancia
+| RD1-date= 17 y 18 de enero
+
+| RD1-seed21= 1
+| RD1-team21='''Defensores de Belgrano'''
+| RD1-score21='''2'''
+
+| RD1-seed22= 16
+| RD1-team22= Instituto
+| RD1-score22= 0
+
+| RD1-seed31= 8
+| RD1-team31='''Deportivo Riestra'''
+| RD1-score31='''1'''
+
+| RD1-seed32= 9
+| RD1-team32=Temperley
+| RD1-score32=0
+
+| RD1-seed9= 2
+| RD1-team9='''Estudiantes (BA)'''
+| RD1-score9={{nowrap|'''2 <small>(3)</small>'''}}
+
+| RD1-seed10= 15
+| RD1-team10=Barracas Central
+| RD1-score10=2 <small>(2)</small>
+
+| RD1-seed29= 7
+| RD1-team29='''Deportivo Morón'''
+| RD1-score29='''2'''
+
+| RD1-seed30= 10
+| RD1-team30=Villa Dálmine
+| RD1-score30= 1
+
+| RD1-seed23= 3
+| RD1-team23=Agropecuario
+| RD1-score23=0
+
+| RD1-seed24= 14
+| RD1-team24='''Quilmes'''
+| RD1-score24='''1'''
+  
+| RD1-seed15= 6
+| RD1-team15=Gimnasia y Esgrima (M)
+| RD1-score15=1
+
+| RD1-seed16= 11
+| RD1-team16='''Ferro Carril Oeste'''
+| RD1-score16='''4'''
+
+| RD1-seed11= 4
+| RD1-team11=Tigre
+| RD1-score11=1 <small>(3)</small>
+
+| RD1-seed12= 13
+| RD1-team12='''San Martín (SJ)'''
+| RD1-score12={{nowrap|'''1 <small>(4)</small>'''}}
+
+| RD1-seed13= 5
+| RD1-team13='''Atlanta'''
+| RD1-score13={{nowrap|'''2 <small>(4)</small>'''}}
+
+| RD1-seed14= 12
+| RD1-team14=San Martín (T)
+| RD1-score14=2 <small>(1)</small>
+
+
+| RD2= Segunda instancia
+| RD2-date= 21 de enero
+
+| RD2-seed11= 1
+| RD2-team11= Defensores de Belgrano
+| RD2-score11=0
+
+| RD2-seed12= 8
+| RD2-team12= '''Quilmes'''
+| RD2-score12='''1'''
+
+| RD2-seed5= 2
+| RD2-team5= '''Estudiantes (BA)'''
+| RD2-score5= '''3'''
+
+| RD2-seed6= 7
+| RD2-team6= San Martín (SJ)
+| RD2-score6= 1
+
+| RD2-seed7= 3
+| RD2-team7= '''Atlanta'''
+| RD2-score7= '''2'''
+
+| RD2-seed8= 6
+| RD2-team8= Ferro Carril Oeste
+| RD2-score8= 1
+
+| RD2-seed15= 4
+| RD2-team15= Deportivo Morón
+| RD2-score15= 0
+
+| RD2-seed16= 5
+| RD2-team16= '''Deportivo Riestra'''
+| RD2-score16= '''1'''
+
+| RD3= Tercera instancia
+| RD3-date= 24 de enero
+
+| RD3-seed5= 1
+| RD3-team5= '''Atlético de Rafaela'''
+| RD3-score5= {{nowrap|'''2 <small>(10)</small>'''}}
+
+| RD3-seed6= 6
+| RD3-team6= Quilmes
+| RD3-score6= 2 <small>(9)</small>
+
+| RD3-seed7= 2
+| RD3-team7= '''Platense'''
+| RD3-score7= '''0 <small>(8)</small>
+
+| RD3-seed8= 5
+| RD3-team8= Deportivo Riestra
+| RD3-score8= 0 <small>(7)</small>
+
+| RD3-seed3= 3
+| RD3-team3= '''Estudiantes (BA)'''
+| RD3-score3= '''1'''
+
+| RD3-seed4= 4
+| RD3-team4= Atlanta
+| RD3-score4= 0
+
+| RD4= Semifinales
+| RD4-date= 27 de enero
+
+| RD4-seed1= 1
+| RD4-team1= '''Estudiantes (RC)'''
+| RD4-score1= '''1'''
+
+| RD4-seed2= 4
+| RD4-team2= Estudiantes (BA)
+| RD4-score2= 0
+
+| RD4-seed3= 2
+| RD4-team3= Atlético de Rafaela
+| RD4-score3= 0
+
+| RD4-seed4= 3
+| RD4-team4= '''Platense'''
+| RD4-score4= '''2'''
+
+
+| RD5= Final
+| RD5-date= 31 de enero
+
+| RD5-seed1  = 1
+| RD5-team1  = Estudiantes (RC)
+| RD5-score1 = 1&nbsp;<small>(2)</small>
+
+| RD5-seed2  = 2
+| RD5-team2  = '''Platense'''
+| RD5-score2 = '''1&nbsp;<small>(4)</small>'''
+}}
+
+==== Primera instancia ====
+La disputaron dieciséis equipos, doce provenientes de la Etapa clasificación de la Fase primer ascenso, que ocuparon los primeros lugares en el ordenamiento, y cuatro de la Etapa clasificación de la Fase por el segundo ascenso.
+
+===== Tabla de ordenamiento =====
+Se confeccionó según el puesto que ocuparon los equipos en sus respectivas zonas de las etapas clasificatorias, comparando sus desempeños. Se enfrentaron los de mejor contra los de peor posición, de manera sucesiva (1 con 16, 2 con 15, etc.).
+
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona en la Etapa clasificatoria}}
+!Ptos
+!J 
+!G 
+!E 
+!P 
+!GF
+!GC
+!DG 
+|- bgcolor="#d0e7ff"
+|'''1||Defensores de Belgrano||rowspan=2|'''3.º||13||7||4||1||2||6||3||3 
+|- bgcolor="#d0e7ff"
+|'''2||Estudiantes (BA)||12||7||3||3||1||13||10||3
+|- bgcolor="#d0e7ff"
+|'''3||Agropecuario||rowspan=2|'''4.º||10||7||3||1||3||7||11||–4
+|- bgcolor="#d0e7ff"
+|'''4||Tigre||8||7||2||2||3||9||9||0
+|- bgcolor="#d0e7ff"
+|'''5||Atlanta||rowspan=2|'''5.º||8||7||2||2||3||12||12||0 
+|- bgcolor="#d0e7ff"
+|'''6||Gimnasia y Esgrima (M)||7||7||1||4||2||10||10||0  
+|- bgcolor="#d0e7ff"
+|'''7||Deportivo Morón||rowspan=2|'''6.º||6||7||1||3||3||6||8||–2
+|- bgcolor="#d0e7ff"
+|'''8||Deportivo Riestra||6||7||1||3||3||8||11||–3 
+|- bgcolor="#d0e7ff"
+|'''9||Temperley||rowspan=2|'''7.º||6||7||1||3||3||3||5||–2 
+|- bgcolor="#d0e7ff"
+|'''10||Villa Dálmine||6||7||1||3||3||5||9||–4 
+|- bgcolor="#d0e7ff"
+|'''11||Ferro Carril Oeste||rowspan=2|'''8.º||6||7||2||0||5||7||12||–5
+|- bgcolor="#d0e7ff"
+|'''12||San Martín (T)||5||7||1||2||4||3||8||–5
+|-
+|'''13||San Martín (SJ)||rowspan=2|'''1.º||15||7||4||3||0||5||1||4 
+|-
+|'''14||Quilmes||13||7||4||1||2||9||7||2 
+|-
+|'''15||Barracas Central||rowspan=2|'''2.º||14||7||4||2||1||7||4||3
+|-
+|'''16||Instituto||12||7||3||3||1||11||9||2
+{{Tabla de posiciones fin |color1= #d0e7ff |texto1= Clasificados en la Etapa clasificación de la Fase primer ascenso.|color2= #F8F8F8 |texto2= Clasificados en la Etapa clasificación de la Fase segundo ascenso. }}
+
+===== Partidos =====
+{{Partido
+|local = Defensores de Belgrano
+|resultado = 2:0''' (1:0)
+|visita = Instituto 
+|fecha = 17 de enero, 17:10
+|estadio = Estadio El Coliseo de Mitre y Puccini
+|refe = Yamil Possi
+|ciudad = Campana 
+|asistencia = 
+|goleslocal = [[Nicolás Benegas|Benegas]] {{gol|10}}<br />[[Maximiliano Núñez|M. Núñez]] {{gol|90+5}}
+|golesvisita = 
+|reporte = 
+}}
+
+{{Partido
+|local = Atlanta
+|resultado = 2:2 {{sin negrita|(0:0)}}
+|visita = San Martín (T)
+|fecha = 17 de enero, 17:10
+|estadio = Estadio Antonio Candini
+|refe = Adrián Franklin
+|ciudad = Río Cuarto 
+|asistencia = 
+|goleslocal = [[Milton Giménez|M. Giménez]] {{gol|55|pen.}}<br />[[Julián Marcioni|Marcioni]] {{gol|90}}
+|golesvisita = [[Ricardo Noir|Noir]] {{gol|48}}<br />[[Alberto Costa|A. Costa]] {{gol|69}}
+|resultado penalti = 4:1
+|penaltis1 = M. Giménez {{pengol}}<br>[[Leonardo Marinucci|Marinucci]] {{pengol}}<br>[[Nicolás Previtali|Previtali]] {{pengol}}<br>[[Julián Marcioni|Marcioni]] {{pengol}}
+|penaltis2 ={{penfallo}} A. Costa<br>{{pengol}} [[Lucas Diarte|Diarte]]<br>{{penfallo}} [[Ramiro Costa|R. Costa]]
+|reporte = 
+}}
+
+{{Partido
+|local = Gimnasia y Esgrima (M)
+|resultado = 1:4''' (0:2)
+|visita = Ferro Carril Oeste
+|fecha = 17 de enero, 17:10
+|estadio = Estadio Juan Domingo Perón 
+|refe = Yael Falcón Pérez
+|ciudad = Córdoba 
+|asistencia = 
+|goleslocal = [[Ramón Lentini|Lentini]] {{gol|71}}
+|golesvisita = [[Franco Toloza|Toloza]] {{gol|4}}<br />[[Cristian Bordacahar|Bordacahar]] {{gol|24}}<br />[[Nicolás Gómez|N. Gómez]] {{gol|57}}<br />[[Matías Ramírez (futbolista argentino)|M. Ramírez]] {{gol|85}}
+|reporte = 
+}}
+
+{{Partido
+|local = Deportivo Morón
+|resultado = 2:1''' (1:0)
+|visita = Villa Dálmine
+|fecha = 17 de enero, 17:10
+|estadio = Estadio Ciudad de Vicente López 
+|refe = Nazareno Arasa
+|ciudad = Florida 
+|asistencia = 
+|goleslocal = [[Guillermo Villalba|Villalba]] {{gol|39}}<br />[[Iván Álvarez (futbolista argentino)|Álvarez]] {{gol|90+2}}
+|golesvisita = [[Catriel Sánchez|C. Sánchez]] {{gol|73}}
+|reporte = 
+}}
+
+{{Partido
+|local = Estudiantes (BA)
+|resultado = 2:2 {{sin negrita|(2:1)}}
+|visita = Barracas Central 
+|fecha = 17 de enero, 19:10
+|estadio = Estadio Diego Armando Maradona 
+|refe = [[Diego Ceballos]]
+|ciudad = Buenos Aires
+|asistencia = 
+|goleslocal = [[Neri Bandiera|Bandiera]] {{gol|41}}<br />[[Gastón Verón|Verón]] {{gol|45}}
+|golesvisita = [[Germán Estigarribia]] {{gol|22}} {{gol|67}}
+|resultado penalti = 3:2
+|penaltis1 = [[Juan Pablo Ruiz|Ruiz Gómez]] {{pengol}}<br>[[Francisco González Metilli|González Metilli]] {{penfallo}}<br>Bandiera {{pengol}}<br>[[Diego Sebastián Figueroa|Figueroa]] {{penfallo}}<br>[[Nicolás Rinaldi|Rinaldi]] {{pengol}}
+|penaltis2 = {{pengol}} [[Iván Tapia|Tapia]]<br>{{penfallo}} [[Lucas Colitto|Colitto]]<br>{{pengol}} [[Gastón Estigarribia]]<br>{{penfallo}} [[Juan Manuel Vázquez|J. M. Vázquez]]<br>{{penfallo}} [[Matías Acuña|M. Acuña]] 
+|reporte = 
+}}
+
+{{Partido
+|local = Tigre
+|resultado = 1:1 {{sin negrita|(1:1)}}
+|visita = San Martín (SJ)
+|fecha = 17 de enero, 19:15
+|estadio = Estadio Ciudad de Caseros
+|refe = Pablo Echavarría
+|ciudad = Caseros
+|asistencia = 
+|goleslocal = [[Ijiel Protti|Protti]] {{gol|20}}
+|golesvisita = [[Gastón Hernández|Hernández]] {{gol|30}}
+|resultado penalti = 3:4
+|penaltis1 = [[Pablo Magnin|Magnin]] {{pengol}}<br>[[Néstor Moiraghi|Moiraghi]] {{pengol}}<br>[[Facundo Giacopuzzi|Giacopuzzi]] {{penfallo}}<br>[[Gonzalo Marinelli|G. Marinelli]] {{pengol}}<br>[[Carlos Luna|Luna]] {{penfallo}}
+|penaltis2 = {{penfallo}} [[Cristian Sánchez|C. Sánchez]]<br>{{pengol}} [[Lucas Campana|Campana]]<br>{{pengol}} [[Gonzalo Berterame|Berterame]]<br>{{pengol}} [[Julio Gonzalo Ramírez|J. Ramírez]]<br>{{pengol}} [[Ezequiel Rescaldani|Rescaldani]] 
+|reporte = 
+}}
+
+{{Partido
+|local = Deportivo Riestra
+|resultado = 1:0''' (0:0)
+|visita = Temperley
+|fecha = 17 de enero, 20:00
+|estadio = Estadio de Chacarita Juniors
+|refe = Gerardo Méndez Cedro
+|ciudad = Villa Maipú
+|asistencia = 
+|goleslocal = [[Maximiliano Brito|Brito]] {{gol|57}}
+|golesvisita = 
+|reporte = 
+}}
+
+{{Partido
+|local = Agropecuario
+|resultado = 0:1''' (0:0)
+|visita = Quilmes
+|fecha = 17 de enero, 21:10
+|estadio = Estadio Don León Kolbowsky
+|refe = Leandro Rey Hilfer
+|ciudad = Buenos Aires
+|asistencia = 
+|goleslocal = 
+|golesvisita = [[Mariano Pavone|Pavone]] {{gol|72}}
+|reporte = 
+|suceso  = Suspendido por fallas en el suministro eléctrico. Se jugó el 18 de enero, a partir de las 17:10.
+}}
+
+==== Segunda instancia ====
+La disputaron los ocho ganadores de la Primera, con el mismo ordenamiento.
+
+===== Tabla de ordenamiento =====
+Se confeccionó según el mismo criterio.
+
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona en la Etapa clasificatoria}}
+!Ptos
+!J 
+!G 
+!E 
+!P 
+!GF
+!GC
+!DG 
+|- bgcolor="#d0e7ff"
+|'''1||Defensores de Belgrano||rowspan=2|'''3.º||13||7||4||1||2||6||3||3 
+|- bgcolor="#d0e7ff"
+|'''2||Estudiantes (BA)||12||7||3||3||1||13||10||3
+|- bgcolor="#d0e7ff"
+|'''3||Atlanta||'''5.º||8||7||2||2||3||12||12||0 
+|- bgcolor="#d0e7ff"
+|'''4||Deportivo Morón||rowspan=2|'''6.º||6||7||1||3||3||6||8||–2
+|- bgcolor="#d0e7ff"
+|'''5||Deportivo Riestra||6||7||1||3||3||8||11||–3 
+|- bgcolor="#d0e7ff"
+|'''6||Ferro Carril Oeste||'''8.º||6||7||2||0||5||7||12||–5
+|-
+|'''7||San Martín (SJ)||rowspan=2|'''1.º||15||7||4||3||0||5||1||4 
+|-
+|'''8||Quilmes||13||7||4||1||2||9||7||2
+{{Tabla de posiciones fin |color1= #d0e7ff |texto1= Clasificados en la Etapa clasificación de la Fase primer ascenso.|color2= #F8F8F8 |texto2= Clasificados en la Etapa clasificación de la Fase segundo ascenso.}}
+
+===== Partidos =====
+
+{{Partido
+|local = Estudiantes (BA)
+|resultado = 3:1''' (0:1)
+|visita = San Martín (SJ)
+|fecha = 21 de enero, 17:10
+|estadio = Estadio Don León Kolbowsky
+|refe = Yael Pérez Falcón
+|ciudad = Buenos Aires
+|asistencia = 
+|goleslocal = [[Martín Garay|Garay]] {{gol|63}}<br>[[Tomás Bolzicco|Bolzicco]] {{gol|67}} {{gol|81}} 
+|golesvisita = [[Gonzalo Berterame|Berterame]] {{gol|7}} 
+|reporte = 
+}}
+{{Partido
+|local = Deportivo Morón
+|resultado = 0:1''' (0:0)
+|visita = Deportivo Riestra
+|fecha = 21 de enero, 19:15
+|estadio = Estadio José Dellagiovanna
+|refe = Adrián Franklin
+|ciudad = Victoria 
+|goleslocal = 
+|golesvisita = [[Víctor Hugo Gómez|Gómez]] {{gol|59}}
+|reporte = 
+}}
+{{Partido
+|local = Atlanta
+|resultado = 2:1''' (1:0)
+|visita = Ferro Carril Oeste
+|fecha = 21 de enero, 19:20
+|estadio = Estadio Ciudad de Vicente López
+|refe = Pablo Echavarría 
+|ciudad = Florida
+|asistencia = 
+|goleslocal = [[Joaquín Ochoa Giménez|Ochoa]] {{gol|32}}<br>[[Nahuel Tecilla|Tecilla]] {{gol|46}}
+|golesvisita = [[Cristian Bordacahar|Bordacahar]] {{gol|90+2}}
+|reporte = 
+}}
+{{Partido
+|local = Defensores de Belgrano
+|resultado = 0:1''' (0:0)
+|visita = Quilmes
+|fecha = 21 de enero, 21:30
+|estadio = Estadio Ciudad de Caseros
+|refe = Pablo Giménez
+|ciudad = Caseros
+|goleslocal = 
+|golesvisita = [[Mariano Pavone|Pavone]] {{gol|68}}
+|reporte = 
+}}
+
+==== Tercera instancia ====
+La disputaron los dos equipos que ocuparon el segundo puesto en cada una de las dos zonas de la Etapa clasificación de la Fase primer ascenso y los cuatro ganadores de la Segunda instancia.
+
+===== Tabla de ordenamiento =====
+Se confeccionó según el mismo criterio.
+
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona en la Etapa clasificatoria}}
+!Ptos
+!J 
+!G 
+!E 
+!P 
+!GF
+!GC
+!DG 
+|- bgcolor="#d0e7ff"
+|'''1||Atlético de Rafaela||rowspan=2|'''2.º||14||7||4||2||1||13||8||5
+|- bgcolor="#d0e7ff"
+|'''2||Platense||13||7||3||4||0||10||6||4
+|- bgcolor="#d0e7ff"
+|'''3||Estudiantes (BA)||'''3.º||12||7||3||3||1||13||10||3
+|- bgcolor="#d0e7ff"
+|'''4||Atlanta||'''5.º||8||7||2||2||3||12||12||0
+|- bgcolor="#d0e7ff"
+|'''5||Deportivo Riestra||'''6.º||6||7||1||3||3||8||11||–3 
+|- bgcolor="#F8F8F8"
+|'''6||Quilmes||'''1.º||13||7||4||1||2||9||7||2
+{{Tabla de posiciones fin |color1= #d0e7ff |texto1= Clasificados en la Etapa clasificación de la Fase primer ascenso.|color2= #F8F8F8 |texto2= Clasificado en la Etapa clasificación de la Fase segundo ascenso. }}
+
+===== Partidos =====
+
+{{Partido
+|local = Atlético de Rafaela
+|resultado = 2:2 {{sin negrita|(0:1)}}
+|visita = Quilmes
+|fecha = 24 de enero, 18:20
+|estadio = Estadio Marcelo Bielsa 
+|refe = [[Darío Herrera (árbitro)|Darío Herrera]]
+|ciudad = Rosario 
+|asistencia = 
+|goleslocal = [[Ayrton Portillo|Portillo]] {{gol|59}}<br>[[Claudio Bieler|Bieler]] {{gol|78|pen.}}
+|golesvisita = [[Mariano Pavone|Pavone]] {{gol|42}}<br>[[Jonás Acevedo|Acevedo]] {{gol|84}}
+|resultado penalti = 10:9
+|penaltis1 = Bieler {{pengol}}<br>[[Stefano Brundo|Brundo]] {{pengol}}<br>[[Germán Lesman|Lesman]] {{pengol}}<br>[[Enzo Copetti|Copetti]] {{pengol}}<br>[[Rodrigo Facundo Castro|Castro]] {{penfallo}}<br>[[Ángelo Martino|Martino]] {{pengol}}<br>[[Emiliano Romero Clavijo|E. Romero]] {{pengol}}<br>[[Lucas Blondel|Blondel]] {{pengol}}<br>[[Fernando Piñero|Piñero]] {{pengol}}<br>[[Guillermo Sara|Sara]] {{pengol}}<br>Bieler {{pengol}}
+|penaltis2 = {{penfallo}} [[Adrián Calello|Calello]]<br>{{pengol}} [[Ramiro Arias|Arias]]<br>{{pengol}} [[Rodrigo Miguel Moreira|Moreira]]<br>{{pengol}} [[Leandro González|L. González]]<br>{{pengol}} [[Carlos Matheu|Matheu]]<br>{{pengol}} [[Jonás Acevedo|Acevedo]]<br>{{pengol}} [[Tomás Blanco (futbolista)|T. Blanco]]<br>{{pengol}} [[Martín Ortega (futbolista)|M. Ortega]]<br>{{pengol}} [[Alan Alegre|Alegre]]<br>{{pengol}} [[Esteban Glellel|Glellel]]<br>{{penfallo}} Calello
+|reporte = 
+}}
+{{Partido
+|local = Estudiantes (BA)
+|resultado = 1:0''' (0:0)
+|visita = Atlanta
+|fecha = 24 de enero, 20:25 
+|estadio = Estadio José Dellagiovanna
+|refe = [[Fernando Echenique]]
+|ciudad = Victoria 
+|asistencia = 
+|goleslocal = [[Neri Bandiera|Bandiera]] {{gol|52}}
+|golesvisita = 
+|reporte =  
+}}
+{{Partido
+|local = Platense
+|resultado = 0:0
+|visita = Deportivo Riestra
+|fecha = 24 de enero, 22:25
+|estadio = Estadio Ciudad de Caseros 
+|refe = Andrés Merlos 
+|ciudad = Caseros
+|resultado penalti = 8:7
+|penaltis1 = [[Mauro Bogado|Bogado]] {{pengol}}<br>[[Stefano Callegari|Callegari]] {{penfallo}}<br>[[Luciano Recalde|Recalde]] {{pengol}}<br>[[Matías Tissera|Tissera]] {{pengol}}<br>[[Daniel Vega|D. Vega]] {{pengol}}<br>[[Braian Lluy|Lluy]] {{penfallo}}<br>[[Tiago Palacios|Palacios]] {{pengol}}<br>[[Franco Pedro Baldassarra|Baldassarra]] {{pengol}}<br>[[Jorge De Olivera|De Olivera]] {{pengol}}<br>[[José Luis Sinisterra|Sinisterra]] {{pengol}}<br>
+|penaltis2 = {{penfallo}} [[Guillermo Pereira|Pereira]]<br>{{pengol}} [[Maximiliano Brito|Brito]]<br>{{pengol}} [[Yamil Romero|Romero]]<br>{{pengol}} [[Mario Zaninovich|Zaninovich]]<br>{{pengol}} [[Yaison Murillo|Murillo]]<br>{{penfallo}} [[Víctor Hugo Gómez|V. Gómez]]<br>{{pengol}} [[Mauricio Soto|Soto]]<br>{{pengol}} [[Eric Joel Tovo|Tovo]]<br>{{pengol}} [[Tomás Villoldo|Villoldo]]<br>{{penfallo}} [[Matías Alejandro Vega|M. Vega]]
+|reporte =
+}}
+
+==== Semifinales ====
+Las disputaron el perdedor de la final de la Fase primer ascenso y los tres ganadores de la Tercera instancia.
+
+===== Tabla de ordenamiento =====
+Se confeccionó según el mismo criterio.
+
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona en la Etapa clasificatoria}}
+!Ptos
+!J 
+!G 
+!E 
+!P 
+!GF
+!GC
+!DG 
+|- bgcolor="#d0e7ff"
+|'''1||Estudiantes (RC)||'''1.º||13||7||3||4||0||11||5||6
+|- bgcolor="#d0e7ff"
+|'''2||Atlético de Rafaela||rowspan=2|'''2.º||14||7||4||2||1||13||8||5
+|- bgcolor="#d0e7ff"
+|'''3||Platense||13||7||3||4||0||10||6||4
+|- bgcolor="#d0e7ff"
+|'''4||Estudiantes (BA)||'''3.º||12||7||3||3||1||13||10||3
+{{Tabla de posiciones fin |color1= #d0e7ff |texto1= Clasificados en la Etapa clasificación de la Fase primer ascenso.}}
+
+===== Partidos =====
+
+{{Partido
+|local = Estudiantes (RC)
+|resultado = 1:0''' (1:0)
+|visita = Estudiantes (BA)
+|fecha = 27 de enero, 19:15
+|estadio = Estadio Gigante de Arroyito
+|refe = [[Jorge Baliño]]
+|ciudad = Rosario
+|asistencia = 
+|goleslocal = [[Ibrahim Hesar|Hesar]] {{gol|18}}
+|golesvisita = 
+|reporte =  
+}}
+{{Partido
+|local = Atlético de Rafaela
+|resultado = 0:2''' (0:1)
+|visita = Platense
+|fecha = 27 de enero, 21:30
+|estadio = Estadio Marcelo Bielsa
+|refe = Ariel Penel
+|ciudad = Rosario
+|goleslocal = 
+|golesvisita = [[Luciano Recalde|Recalde]] {{gol|2}}<br>[[Franco Pedro Baldassarra|Baldassarra]] {{gol|78}}
+|reporte =
+}}
+
+==== Final ====
+La disputaron los ganadores de las Semifinales.
+
+===== Tabla de ordenamiento =====
+Se confeccionó según el mismo criterio.
+
+{| class="wikitable sortable" style="margin: 0 auto; text-align:center;"
+|- style="background:#dddddd;"
+!Orden
+!Equipo
+!{{Abreviatura|Pos.|Posición obtenida en su zona en la Etapa clasificatoria}}
+!Ptos
+!J 
+!G 
+!E 
+!P 
+!GF
+!GC
+!DG 
+|- bgcolor="#d0e7ff"
+|'''1||Estudiantes (RC)||'''1.º||13||7||3||4||0||11||5||6
+|- bgcolor="#d0e7ff"
+|'''2||Platense||'''2.º||13||7||3||4||0||10||6||4
+{{Tabla de posiciones fin |color1= #d0e7ff |texto1= Clasificados en la Etapa clasificación de la Fase primer ascenso.}}
+
+===== Partido =====
+
+{{Partido
+|local       = Estudiantes (RC)
+|resultado   = 1:1 {{sin negrita|(1:1)}}
+|visita      = Platense
+|fecha       = 31 de enero, 21:10	
+|estadio     = Estadio Marcelo Bielsa 
+|refe        = [[Néstor Pitana]] 
+|ciudad      = Rosario
+|suceso      = Platense ascendió a la Primera División.
+|goleslocal  = [[Ibrahim Hesar|Hesar]] {{gol|38}}
+|golesvisita = [[Matías Tissera|Tissera]] {{gol|5}}
+|resultado penalti = 2:4
+|penaltis1   = [[Néstor Ortigoza|Ortigoza]] {{pengol}}<br>[[Marcos Gabriel Fernández|M. Fernández]] {{penfallo}}<br>[[Maximiliano Padilla|Padilla]] {{pengol}}<br>[[Gastón Benavídez|Benavídez]] {{penfallo}}
+|penaltis2   = {{pengol}} [[Hernán Lamberti|Lamberti]]<br>{{pengol}} [[Nicolás Zalazar|Zalazar]]<br>{{pengol}} [[Luciano Recalde|Recalde]]<br>{{pengol}} Tissera
+|reporte     =  
+}}
+
+== Entrenadores ==
+{{AP|Anexo:Entrenadores de la Primera Nacional Transición 2020|l1=Entrenadores de la Primera Nacional Transición 2020}}
+
+== Goleadores ==
+{| class="wikitable col1izq col2izq" style="margin: 0 auto; text-align: center; white-space: nowrap;"
+! width="200" | Jugador
+! width="180" | Equipo
+! width="50"  | Goles
+! width="50"  | Jugada
+! width="50"  | Cabeza
+! width="50"  | T. libre
+! width="50"  | Penal
+|- bgcolor=#EEEEEE
+| {{bandera|ARG}} '''[[Claudio Bieler]]'''
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| '''6''' || 4 || 0 || 0 || 2 
+|- 
+| {{bandera|ARG}} [[Enzo Copetti]]
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| '''5''' || 3 || 2 || 0 || 0
+|-
+| {{bandera|ARG}} [[Ibrahim Hesar]]
+| [[Asociación Atlética Estudiantes|Estudiantes (RC)]]
+| '''5''' || 5 || 0 || 0 || 0
+|-
+| {{bandera|ARG}} [[Mariano Pavone]]
+| [[Quilmes Atlético Club|Quilmes]]
+| '''5''' || 4 || 1 || 0 || 0
+|-
+| {{bandera|ARG}} [[Neri Bandiera]]
+| [[Club Atlético Estudiantes|Estudiantes (BA)]]
+| '''5''' || 0 || 5 || 0 || 0
+|}
+<center><small>[https://www.afa.com.ar/es/pages/estadisticas-primera-b-nacional www.afa.com.ar] | [https://web.archive.org/web/20210203145031/https://www.livefutbol.com/goleadores/arg-primera-b-nacional-2019-2020-finalizacion/ www.livefutbol.com]</small></center>
+
+== Véase también ==
+* [[Copa de la Liga Profesional 2020|Copa Diego Armando Maradona]]
+* [[Campeonato Transición de Primera B 2020 (Argentina)|Primera B 2020]]
+* [[Campeonato Transición de Primera C 2020 (Argentina)|Primera C 2020]]
+* [[Campeonato Transición de Primera D 2020|Primera D 2020]]
+* [[Torneo Transición Federal A 2020|Torneo Federal A 2020]]
+* [[Torneo Transición Regional Federal Amateur 2020-21]]
+* [[Copa Argentina 2019-20]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [https://www.afa.com.ar/es/ Sitio oficial de la AFA]
+
+{{Sucesión
+|título= XXXVI Temporada de la [[Primera B Nacional|Primera Nacional]]
+|período=<small>'''Campeón: Sarmiento (J) ({{Ord|1.|er}} título)<small>
+|predecesor= &nbsp;[[Campeonato de Primera Nacional 2019-20|Primera Nacional 2019-20]]&nbsp;
+|sucesor= &nbsp;[[Campeonato de Primera Nacional 2021|Primera Nacional 2021]]&nbsp;
+}}
+
+{{Control de autoridades}}
+
+[[Categoría:Primera B Nacional|2020T]]
+[[Categoría:Fútbol en Argentina en 2020]]
+[[Categoría:Fútbol en Argentina en 2021]]

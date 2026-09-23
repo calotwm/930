@@ -1,0 +1,1581 @@
+{{Ficha de competición deportiva
+|nombre = Copa Argentina 2012-13
+|nombre_original = [[Copa Argentina (fútbol)|Copa Argentina]]  
+|nombre comercial = Copa Sancor Seguros Argentina 2012-13
+|deporte = fútbol
+|país = {{Argentina}}
+|patrocinador = {{bandera|ARG}} [[Sancor Seguros]]
+|imagen = Estadio Bicentenario lleno.JPG
+|imagen_tamaño = 300px
+|imagen_pie = El [[estadio Bicentenario Ciudad de Catamarca]], sede de la final.
+|fecha de inicio = '''Fases finales''': 23 de octubre de 2012
+|fecha de cierre = 16 de octubre de 2013
+|edición = IV
+|campeón = {{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]''' <small>({{Ord|1.|er}} título)</small>
+|subcampeón = {{bandera|Buenos Aires}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|semifinalistas = {{bandera|Buenos Aires}} [[Club Atlético All Boys|All Boys]]<br /> {{bandera|Provincia de Buenos Aires}} [[Club Atlético Estudiantes|Estudiantes (BA)]]
+|goleador = {{Bandera|ARG}} [[Daniel Bazán Vera]] <small>(5 goles)</small><br /><small>([[Club Social y Deportivo Tristán Suárez|Tristán Suárez]])</small>
+|participantes = '''Fases finales''': 32
+|partidos = 223
+|goles = 529 (2,37 por partido)
+|televisión = [[DeporTV (Argentina)|DeporTV]]<br /> [[Canal 7 (Argentina)|Canal 7]]<br /> [[Canal 9 (Buenos Aires)|Canal 9]]<br /> [[América Televisión (Argentina)|América]]<br /> [[Telefe]]
+|torneo1         = [[Copa Libertadores 2014]]
+|clasificado1    = {{bandera|Provincia de Buenos Aires}} [[Arsenal Fútbol Club|Arsenal]]
+|torneo2         = [[Supercopa Argentina 2013]]
+|clasificado2    = {{bandera|Provincia de Buenos Aires}} [[Arsenal Fútbol Club|Arsenal]]
+|anterior = [[Copa Argentina 2011-12]]
+|actual = 
+|siguiente = [[Copa Argentina 2013-14]]
+|página web      = https://www.copaargentina.org
+}}
+
+La '''Copa Argentina 2012-13''' (llamada '''Copa «[[Grupo Sancor Seguros|Sancor Seguros]]» Argentina 2012-13''' por motivos de patrocinio) fue la cuarta edición de [[Copa Argentina (fútbol)|dicha competición]] oficial organizada por la [[Asociación del Fútbol Argentino]], y la segunda de su nueva etapa.<ref>{{Cita web |url=http://www.copaargentina.org/es/noticias/2073_Se-larga-la-segunda-edicion.html |título=Se larga la segunda edición |fechaacceso=18 de octubre de 2012 |urlarchivo=https://web.archive.org/web/20121026025611/http://www.copaargentina.org/es/noticias/2073_Se-larga-la-segunda-edicion.html |fechaarchivo=26 de octubre de 2012 }}</ref> Contó con la participación de 224 equipos, todos los que disputaban los torneos de [[Primera División de Argentina|Primera División]], [[Primera B Nacional]], [[Torneo Argentino A]], [[Primera B (Argentina)|Primera B]], [[Torneo Argentino B]], [[Primera C (Argentina)|Primera C]] y [[Primera D (Argentina)|Primera D]].
+
+Consagró campeón al [[Arsenal Fútbol Club]], que en esa condición disputó la [[Supercopa Argentina 2013]] frente al campeón del [[Campeonato de Primera División 2012-13 (Argentina)#Partido final del campeonato|Campeonato de Primera División 2012-13]], el [[Club Atlético Vélez Sarsfield]]. También participó de la [[Copa Libertadores 2014]].<ref>{{Cita web |url=http://www.copaargentina.org/es/noticias/1621/el-campeon-de-la-copa-argentina-2013-jugara-la-libertadores-2014 |título=Copaargentina.org |fechaacceso=26 de junio de 2012 |urlarchivo=https://web.archive.org/web/20120829225340/http://www.copaargentina.org/es/noticias/1621/el-campeon-de-la-copa-argentina-2013-jugara-la-libertadores-2014 |fechaarchivo=29 de agosto de 2012 }}</ref>
+
+== Equipos participantes ==
+
+=== Primera División ===
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético All Boys|All Boys]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Belgrano|Belgrano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Colón|Colón]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Independiente|Independiente]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Lanús|Lanús]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Quilmes Atlético Club|Quilmes]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Racing Club]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético River Plate|River Plate]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Atlético San Martín (San Juan)|San Martín (SJ)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Tigre|Tigre]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Unión (Santa Fe)|Unión]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|}
+</center>
+
+=== Segunda categoría ===
+
+==== Primera B Nacional ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Aldosivi|Aldosivi]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Almirante Brown|Almirante Brown]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Atlético Tucumán|Atlético Tucumán]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Banfield|Banfield]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Corrientes}} [[Club Atlético Boca Unidos|Boca Unidos]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Misiones}} [[Club Mutual Crucero del Norte|Crucero del Norte]]'''
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Merlo|Deportivo Merlo]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Douglas Haig|Douglas Haig]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Jujuy}} [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|La Plata}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Huracán|Huracán]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Instituto Atlético Central Córdoba|Instituto]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Nueva Chicago|Nueva Chicago]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Olimpo|Olimpo]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Atlético Patronato de la Juventud Católica|Patronato]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Rosario Central|Rosario Central]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]
+|}
+</center>
+
+=== Tercera categoría ===
+
+==== Primera B ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Acassuso|Acassuso]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Almagro|Almagro]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Atlanta|Atlanta]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Barracas Central|Barracas Central]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Brown|Brown (A)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Colegiales (Munro)|Colegiales]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Comunicaciones de Buenos Aires|Comunicaciones]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Deportivo Armenio|Deportivo Armenio]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Deportivo Morón|Deportivo Morón]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Estudiantes|Estudiantes (BA)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Flandria|Flandria]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Los Andes|Los Andes]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Platense|Platense]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético San Telmo|San Telmo]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Temperley|Temperley]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Villa Dálmine|Villa Dálmine]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Villa San Carlos|Villa San Carlos]]
+|}
+</center>
+
+==== Torneo Argentino A ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Alumni|Alumni]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Alvarado|Alvarado]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santiago del Estero}} [[Club Atlético Central Córdoba (Santiago del Estero)|Central Córdoba (SdE)]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Salta}} [[Club Atlético Central Norte (Salta)|Central Norte]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Río Negro}} [[Club Cipolletti|Cipolletti]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético y Social Defensores de Belgrano|Defensores de Belgrano (VR)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Club Deportivo Maipú|Deportivo Maipú]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Sportivo Desamparados|Desamparados]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Salta}} [[Club de Gimnasia y Tiro de Salta|Gimnasia y Tiro (S)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Misiones}} [[Club Deportivo Guaraní Antonio Franco|Guaraní Antonio Franco]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Salta}} [[Centro Juventud Antoniana|Juventud Antoniana]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Luis}} [[Club Atlético Juventud Unida Universitario|Juventud Unida (SL)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Deportivo Libertad|Libertad (S)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Racing|Racing (C)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Racing Athletic Club|Racing (O)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Rivadavia|Rivadavia (L)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Social y Deportivo San Jorge|San Jorge (T)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club y Biblioteca Ramón Santamarina|Santamarina]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Sportivo Belgrano|Sportivo Belgrano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Tiro Federal Argentino|Tiro Federal (R)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Unión (Mar del Plata)|Unión (MdP)]]
+|}
+</center>
+
+=== Cuarta categoría ===
+
+==== Primera C ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Argentino (Merlo)|Argentino de Merlo]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Asociación Deportiva Berazategui|Berazategui]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Defensores de Cambaceres|Cambaceres]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Defensores Unidos|Defensores Unidos]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Deportivo Español de Buenos Aires|Deportivo Español]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Sportivo Dock Sud|Dock Sud]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club El Porvenir|El Porvenir]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Excursionistas|Excursionistas]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Fénix|Fénix]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético General Lamadrid|General Lamadrid]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Asociación Social y Deportiva Justo José de Urquiza|J.J. Urquiza]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Cultural Deportivo Laferrere|Laferrere]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Liniers|Liniers]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Luján|Luján]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Ferrocarril Midland|Midland]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Sacachispas Fútbol Club|Sacachispas]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético San Miguel|San Miguel]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Sportivo Italiano|Sportivo Italiano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Deportivo UAI Urquiza|UAI Urquiza]]
+|}
+</center>
+
+==== Torneo Argentino B ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Deportiva 9 de Julio (Morteros)|9 de Julio (M)]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético 9 de Julio (Rafaela)|9 de Julio (R)]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Alianza Coronel Moldes|Alianza de Moldes]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Jujuy}} [[Asociación Cultural y Deportiva Altos Hornos Zapla|Altos Hornos Zapla]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Neuquén}} [[Club Social y Deportivo Alianza (Cutral Có)|Alianza de Cutral Có]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de La Rioja (Argentina)}} [[Club Atlético Américo Tesorieri|Américo Tesorieri]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Andes Talleres Sport Club|Andes Talleres]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de La Rioja (Argentina)}} [[Andino Sport Club|Andino]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de La Pampa}} [[Alvear Foot Ball Club|Alvear FBC]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Agropecuario Argentino|Agropecuario Argentino]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Sportivo y Biblioteca Atenas|Atenas]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Atlético Concepción|Atlético Concepción]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Atlético Famaillá|Atlético Famaillá]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Atlético Paraná|Atlético Paraná]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Catamarca}} [[Club Atlético Policial|Atlético Policial]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético San Jorge|Atlético San Jorge]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Atlético Uruguay|Atlético Uruguay]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Bella Vista|Bella Vista]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Atlético Belgrano (Paraná)|Belgrano (P)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Sportivo Ben Hur|Ben Hur]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Cruz}} [[Club Boca Río Gallegos|Boca Río Gallegos]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Comisión de Actividades Infantiles|CAI]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chaco}} [[Club Atlético Chaco For Ever|Chaco For Ever]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Atlético Colegiales (Concordia)|Colegiales (C)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Corrientes}} [[Club Comunicaciones (Mercedes)|Comunicaciones (M)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Concepción Fútbol Club]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Río Negro}} [[Asociación Civil Club Deportivo Cruz del Sur|Cruz del Sur]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Defensores de Pronunciamiento|Defensores de Pronunciamiento]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Defensores de Salto|Defensores de Salto]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Tucumán}} [[Club Deportivo Aguilares|Deportivo Aguilares]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Club Social y Deportivo Madryn|Deportivo Madryn]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Corrientes}} [[Club Deportivo Mandiyú|Deportivo Mandiyú]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Patagones|Deportivo Patagones]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Río Negro}} [[Club Social y Deportivo General Roca|Deportivo Roca]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético El Linqueño|El Linqueño]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Atlética Estudiantes|Estudiantes (RC)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Luis}} [[Club Sportivo Estudiantes (San Luis)|Estudiantes (SL)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de La Pampa}} [[Club Ferro Carril Oeste (General Pico)|Ferro (GP)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Fútbol Club Ferro Carril Sud|Ferro (O)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chaco}} [[Club Social y Deportivo Fontana|Fontana]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético General Paz Juniors|General Paz Juniors]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Club Atlético Germinal|Germinal]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Grupo Universitario]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Club Deportivo y Social Guaymallén|Guaymallén]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santiago del Estero}} [[Club Atlético Güemes|Güemes]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Gutiérrez Sport Club]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Club Atlético Huracán (Comodoro Rivadavia)|Huracán de Comodoro]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Corrientes}} [[Huracán Football Club (Goya)|Huracán de Goya]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Asociación Atlética Huracán Las Heras|Huracán Las Heras]]
+| align="left" bgcolor="#EBF5FF" |{{bandera|Provincia de Mendoza}} [[Club Huracán (San Rafael)|Huracán (SR)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Independiente (Chivilcoy)|Independiente (C)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Neuquén}} [[Club Atlético Independiente (Neuquén)|Independiente (N)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Río Negro}} [[Club Deportivo Independiente (Río Colorado)|Independiente (RC)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Misiones}} [[Club Jorge Gibson Brown|Jorge Gibson Brown]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Club Atlético Jorge Newbery (Comodoro Rivadavia)|Jorge Newbery (CR)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Jorge Newbery (Venado Tuerto)|Jorge Newbery (VT)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Atlético de la Juventud Alianza|Juventud Alianza]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Social y Deportivo Juventud Unida|Juventud Unida (G)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo La Emilia|La Emilia]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Liniers|Liniers (BB)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Neuquén}} [[Club Atlético Maronese|Maronese]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Mercedes|Mercedes]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Salta}} [[Club Atlético Mitre (Salta)|Mitre (S)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santiago del Estero}} [[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Jujuy}} [[Club Atlético Monterrico San Vicente|Monterrico San Vicente]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Once Tigres|Once Tigres]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Sportivo Peñarol|Sportivo Peñarol]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chubut}} [[Asociación Civil Racing Club (Trelew)|Racing (T)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Salta}} [[Club Atlético River Plate de Embarcación|River de Embarcación]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Misiones}} [[Club Deportivo Rosamonte|Rosamonte]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Catamarca}} [[Club Atlético San Lorenzo de Alem|San Lorenzo de Alem]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Formosa}} [[Club Sportivo General San Martín|San Martín (F)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Atlético Club San Martín de Mendoza|San Martín (M)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Sanjustino|Sanjustino]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Aeronáutico Biblioteca y Mutual Sarmiento|Sarmiento (L)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia del Chaco}} [[Club Atlético Sarmiento (Resistencia)|Sarmiento (R)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santiago del Estero}} [[Club Atlético Sarmiento (Santiago del Estero)|Sarmiento (SdE)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Formosa}} [[Club Sol de América (Formosa)|Sol de América]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Río Negro}} [[Club Sol de Mayo|Sol de Mayo]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Mendoza}} [[Sport Club Pacífico|SC Pacífico]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Sportivo Juan Bautista Del Bono|Sportivo Del Bono]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santiago del Estero}} [[Club Sportivo Fernández|Sportivo Fernández]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Cruz}} [[Club Sportivo Huracán (Gobernador Gregores)|Sportivo Huracán]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Entre Ríos}} [[Club Sportivo Las Heras (Concordia)|Sportivo Las Heras]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Sportivo Atlético Club|Sportivo Las Parejas]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Formosa}} [[Club Sportivo Patria|Sportivo Patria]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Sportivo Rivadavia (Venado Tuerto)|Sportivo Rivadavia (VT)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Jujuy}} [[Club Atlético Talleres (Perico)|Talleres (P)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Corrientes}} [[Club Social y Deportivo Textil Mandiyú|Textil Mandiyú]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Tiro Federal (Bahía Blanca)|Tiro Federal (BB)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Mutual del Club Tiro Federal y Deportivo Morteros|Tiro Federal (M)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Atlético Trinidad|Trinidad]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Catamarca}} [[Club Unión Aconquija|Unión Aconquija]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Unión (Sunchales)|Unión (S)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de San Juan}} [[Club Atlético Unión (Villa Krause)|Unión (VK)]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Villa Belgrano|Villa Belgrano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Catamarca}} [[Club Sportivo Villa Cubas (Catamarca)|Villa Cubas]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Villa Mitre|Villa Mitre]]
+|}
+</center>
+
+=== Quinta categoría ===
+
+==== Primera D ====
+<center>
+{| width=90%
+|-
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Argentino (Quilmes)|Argentino de Quilmes]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Santa Fe}} [[Club Atlético Argentino (Rosario)|Argentino de Rosario]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Atlas|Atlas]]
+|width=25% bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Cañuelas Fútbol Club|Cañuelas]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Central Ballester|Central Ballester]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Centro Social y Recreativo Español|Centro Español]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Claypole|Claypole]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Muñiz|Deportivo Muñiz]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Deportivo Paraguayo|Deportivo Paraguayo]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Deportivo Riestra|Deportivo Riestra]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Ituzaingó|Ituzaingó]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Deportivo y Social Juventud Unida|Juventud Unida (SM)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Deportivo y Mutual Leandro N. Alem|Leandro N. Alem]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Lugano|Lugano]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Puerto Nuevo|Puerto Nuevo]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo San Martín|San Martín (B)]]
+|-
+|bgcolor=#EBF5FF align="left"|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Victoriano Arenas|Victoriano Arenas]]
+|bgcolor=#EBF5FF align="left"|{{bandera|Ciudad de Buenos Aires}} [[Club Social y Deportivo Yupanqui|Yupanqui]]
+|}
+</center>
+
+=== Distribución geográfica de los equipos ===
+Uno de los principales objetivos de esta copa es la federalización de la competencia, haciendo participar a equipos de todo el país, por lo que se propuso que en la primera instancia jueguen representantes de todas las regiones. En esta edición no habrá equipos de una única provincia, Tierra del Fuego, ya que no posee ningún equipo desde el Torneo Argentino B en adelante.
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=35%
+|- bgcolor=#006699 style="color:white;"
+!width=300|Región
+!width=25|Equipos
+|- bgcolor=#F5FAFF
+|{{bandera|Ciudad de Buenos Aires}} [[Buenos Aires|Ciudad de Buenos Aires]]||align=center|20
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Provincia de Buenos Aires]]||align=center|84
+|-
+|{{bandera|Provincia de Catamarca}} [[Provincia de Catamarca]]||align=center|4
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia del Chaco}} [[Provincia del Chaco]]||align=center|3
+|-
+|{{bandera|Provincia del Chubut}} [[Provincia del Chubut]]||align=center|7
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|14
+|-
+|{{bandera|Provincia de Corrientes}} [[Provincia de Corrientes]]||align=center|5
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Entre Ríos}} [[Provincia de Entre Ríos]]||align=center|9
+|-
+|{{bandera|Provincia de Formosa}} [[Provincia de Formosa]]||align=center|3
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Jujuy}} [[Provincia de Jujuy]]||align=center|4
+|-
+|{{bandera|Provincia de La Pampa}} [[Provincia de La Pampa]]||align=center|2
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de La Rioja (Argentina)}} [[Provincia de La Rioja (Argentina)|Provincia de La Rioja]]||align=center|2
+|-
+|{{bandera|Provincia de Mendoza}} [[Provincia de Mendoza]]||align=center|11
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Misiones}} [[Provincia de Misiones]]||align=center|4
+|-
+|{{bandera|Provincia del Neuquén}} [[Provincia del Neuquén]]||align=center|3
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Río Negro}} [[Provincia de Río Negro]]||align=center|5
+|-
+|{{bandera|Provincia de Salta}} [[Provincia de Salta]]||align=center|5
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de San Juan}} [[Provincia de San Juan]]||align=center|7
+|-
+|{{bandera|Provincia de San Luis}} [[Provincia de San Luis]]||align=center|2
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Santa Cruz}} [[Provincia de Santa Cruz]]||align=center|2
+|-
+|{{bandera|Provincia de Santa Fe}} [[Provincia de Santa Fe]]||align=center|16
+|-
+|{{bandera|Provincia de Santiago del Estero}} [[Provincia de Santiago del Estero]]||align=center|5
+|- bgcolor=#F5FAFF
+|{{bandera|Provincia de Tucumán}} [[Provincia de Tucumán]]||align=center|7
+|-
+|'''Total||align=center|'''224
+|}
+</center>
+
+== Fase preliminar ==
+{{AP|Anexo:Fase preliminar de la Copa Argentina 2012-13}}
+
+De esta primera etapa participaron los 100 equipos del Torneo Argentino B. Entre el 23 y el 30 de octubre se eliminaron en un solo partido, y de allí salieron 50 equipos ganadores, que pasaron a la Tercera eliminatoria.
+
+Fue organizada por el [[Consejo Federal del Fútbol Argentino|Consejo Federal]], órgano interno de la AFA.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=35%|Local
+!width=12%|Resultado
+!width=35%|Visitante
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| [[Club Atlético Monterrico San Vicente|Monterrico San Vicente]] {{bandera|Provincia de Jujuy}} || align=center| <small>(3)</small> 1 - 1 <small>(4)</small> || {{bandera|Provincia de Salta}} '''[[Club Atlético River Plate de Embarcación|River de Embarcación]]'''
+|-
+|align=center| 30 de octubre ||align=right| '''[[Asociación Cultural y Deportiva Altos Hornos Zapla|Altos Hornos Zapla]]''' {{bandera|Provincia de Jujuy}} || align=center| 1 - 0{{Refn|1=<small>Suspendido a los 20' cuando iban 0 a 0 debido a un grave accidente de tránsito protagonizado por hinchas de Talleres (P) en su traslado al estadio.<ref>[http://www.lavoz.com.ar/noticias/sucesos/chicos-muertos-terrible-choque-jujuy Chicos muertos en un terrible choque en Jujuy]</ref> Se completó el 7 de noviembre.</small>|group=n.}} ||align=left| {{bandera|Provincia de Jujuy}} [[Club Atlético Talleres (Perico)|Talleres (P)]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| [[Club Deportivo Aguilares|Deportivo Aguilares]] {{bandera|Provincia de Tucumán}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Tucumán}} '''[[Club Atlético Famaillá|Atlético Famaillá]]'''
+|-
+|align=center| 24 de octubre ||align=right| [[Concepción Fútbol Club|Concepción FC]] {{bandera|Provincia de Tucumán}} || align=center|1 - 2  ||align=left| {{bandera|Provincia de Tucumán}} '''[[Club Atlético Concepción|Atlético Concepción]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| ''' [[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]]''' {{bandera|Provincia de Santiago del Estero}} || align=center|4 - 1 ||align=left| {{bandera|Provincia de Santiago del Estero}} [[Club Atlético Güemes|Güemes]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Sarmiento (Santiago del Estero)|Sarmiento (SdE)]]''' {{bandera|Provincia de Santiago del Estero}} || align=center|3 - 1  ||align=left| {{bandera|Provincia de Santiago del Estero}} [[Club Sportivo Fernández|Sportivo Fernández]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Mitre (Salta)|Mitre (S)]]''' {{bandera|Provincia de Salta}} || align=center| <small>(11)</small> 1 - 1 <small>(10)</small>||align=left| {{bandera|Provincia de Catamarca}} [[Club Unión Aconquija|Unión Aconquija]]
+|-
+|align=center| 24 de octubre ||align=right| [[Andino Sport Club|Andino]] {{bandera|Provincia de La Rioja (Argentina)}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de La Rioja (Argentina)}} '''[[Club Atlético Américo Tesorieri|Américo Tesorieri]]'''
+|-bgcolor=#F5FAFF
+|align=center| 23 de octubre ||align=right|'''[[Club Sportivo Villa Cubas (Catamarca)|Villa Cubas]]''' {{bandera|Provincia de Catamarca}} ||  align=center| 3 - 1 ||align=left| {{bandera|Provincia de Catamarca}} [[Club Atlético San Lorenzo de Alem|San Lorenzo de Alem]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Policial|Atlético Policial]]''' {{bandera|Provincia de Catamarca}} || align=center| <small>(5)</small> 1 -1 <small>(4)||align=left| {{bandera|Provincia de San Juan}} [[Club Sportivo Peñarol|Sportivo Peñarol]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Sportivo Estudiantes (San Luis)|Estudiantes (SL)]]''' {{bandera|Provincia de San Luis}} || align=center|2 - 1  ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Alianza Coronel Moldes|Alianza de Moldes]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Sportivo y Biblioteca Atenas|Atenas]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| <small>(4)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Atlética Estudiantes|Estudiantes (RC)]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]]''' {{bandera|Provincia de Mendoza}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia de Mendoza}} [[Club Deportivo y Social Guaymallén|Guaymallén]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Atlético Club San Martín (Mendoza)|San Martín (M)]]''' {{bandera|Provincia de Mendoza}} || align=center|<small>(4)</small> 1 - 1 <small>(3)</small>||align=left| {{bandera|Provincia de Mendoza}} [[Asociación Atlética Huracán Las Heras|Huracán Las Heras]]
+|-bgcolor=#F5FAFF
+|align=center| 23 de octubre ||align=right| '''[[Club Atlético Unión (Villa Krause)|Unión (VK)]]''' {{bandera|Provincia de San Juan}} || align=center| <small>(4)</small> 2 - 2 <small>(2)</small> ||align=left| {{bandera|Provincia de San Juan}} [[Club Sportivo Juan Bautista Del Bono|Sportivo Del Bono]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético de la Juventud Alianza|Juventud Alianza]]''' {{bandera|Provincia de San Juan}} || align=center| <small>(5)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de San Juan}} [[Club Atlético Trinidad|Trinidad]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Sport Club Pacífico|SC Pacífico]]''' {{bandera|Provincia de Mendoza}} || align=center| 1 - 0{{Refn|1=<small>Suspendido a los 88' por incidentes provocados por la parcialidad de Huracán de San Rafael, con el resultado 1 - 2. Se le dio por ganado a SC Pacífico.</small>|group=n.}} || align="left" | {{bandera|Provincia de Mendoza}} [[Club Huracán (San Rafael)|Huracán (SR)]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Gutiérrez Sport Club|Gutiérrez SC]]''' {{bandera|Provincia de Mendoza}}|| align=center| 3 - 2 ||align=left| {{bandera|Provincia de Mendoza}} [[Andes Talleres Sport Club|Andes Talleres]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético General Paz Juniors|General Paz Juniors]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center|4 - 1 ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Aeronáutico Biblioteca y Mutual Sarmiento|Sarmiento (L)]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Asociación Deportiva 9 de Julio (Morteros)|9 de Julio (M)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center|2 - 1 ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Mutual del Club Tiro Federal y Deportivo Morteros|Tiro Federal (M)]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| ''' [[Club Atlético San Jorge|Atlético San Jorge]]''' {{bandera|Provincia de Santa Fe}} || align=center|1 - 0  ||align=left| {{bandera|Provincia de Santa Fe}} [[Club Atlético 9 de Julio (Rafaela)|9 de Julio (R)]]
+|-
+|align=center| 24 de octubre ||align=right| [[Club Atlético Unión (Sunchales)|Unión (S)]] {{bandera|Provincia de Santa Fe}}|| align=center| <small>(2)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Provincia de Santa Fe}} '''[[Club Sportivo Ben Hur|Ben Hur]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Sportivo Rivadavia (Venado Tuerto)|Sportivo Rivadavia (VT)]]''' {{bandera|Provincia de Santa Fe}}|| align=center| <small>(3)</small> 0 - 0 <small>(1)</small> ||align=left| {{bandera|Provincia de Santa Fe}} [[Club Atlético Jorge Newbery (Venado Tuerto)|Jorge Newbery (VT)]]
+|-
+|align=center| 24 de octubre ||align=right| [[Club Sanjustino|Sanjustino]] {{bandera|Provincia de Santa Fe}}|| align=center| <small>(2)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Provincia de Entre Ríos}} '''[[Club Defensores de Pronunciamiento|Def. de Pronunciamiento]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Paraná|Atlético Paraná]]''' {{bandera|Provincia de Entre Ríos}}|| align=center| <small>(5)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Provincia de Entre Ríos}} [[Club Atlético Belgrano (Paraná)|Belgrano (P)]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Social y Deportivo Juventud Unida|Juventud Unida (G)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| <small>(4)</small> 0 - 0 <small>(1)</small>  ||align=left| {{bandera|Provincia de Entre Ríos}} [[Club Atlético Uruguay|Atlético Uruguay]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Deportivo Mandiyú|Deportivo Mandiyú]]''' {{bandera|Provincia de Corrientes}} || align=center| <small>(3)</small> 0 - 0 <small>(1)</small>  ||align=left| {{bandera|Provincia de Corrientes}} [[Club Social y Deportivo Textil Mandiyú|Textil Mandiyú]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Comunicaciones (Mercedes)|Comunicaciones (M)]]''' {{bandera|Provincia de Corrientes}}|| align=center| <small>(4)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de Corrientes}} [[Huracán Football Club (Goya)|Huracán de Goya]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Jorge Gibson Brown|Jorge Gibson Brown]]''' {{bandera|Provincia de Misiones}}|| align=center| <small>(4)</small> 1 - 1 <small>(3)||align=left| {{bandera|Provincia de Misiones}} [[Club Deportivo Rosamonte|Rosamonte]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Sarmiento (Resistencia)|Sarmiento (R)]]''' {{bandera|Provincia del Chaco}} || align=center| <small>(4)</small> 0 - 0 <small>(3)</small> ||align=left|{{bandera|Provincia del Chaco}} [[Club Atlético Chaco For Ever|Chaco For Ever]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| [[Club Sol de América (Formosa)|Sol de América]] {{bandera|Provincia de Formosa}} || align=center| <small>(4)</small> 0 - 0 <small>(5)</small> ||align=left| {{bandera|Provincia del Chaco}} '''[[Club Social y Deportivo Fontana|Fontana]]'''
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Sportivo Patria|Sportivo Patria]]''' {{bandera|Provincia de Formosa}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Formosa}} [[Club Sportivo General San Martín|San Martín (F)]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Colegiales (Concordia)|Colegiales (C)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| 3 - 0 ||align=left| {{bandera|Provincia de Entre Ríos}} [[Club Sportivo Las Heras (Concordia)|Sportivo Las Heras]]
+|-
+|align=center| 24 de octubre ||align=right| [[Sportivo Atlético Club|Sportivo Las Parejas]] {{bandera|Provincia de Santa Fe}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Social y Deportivo La Emilia|La Emilia]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Once Tigres|Once Tigres]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left| {{bandera| Provincia de Buenos Aires}} [[Club Atlético Independiente (Chivilcoy)|Independiente (C)]]
+|-
+|align=center| 25 de octubre ||align=right| [[Fútbol Club Ferro Carril Sud|Ferro (O)]] {{bandera| Provincia de Buenos Aires}}|| align=center|<small>(2)</small> 1 - 1 <small>(4)</small> ||align=left| {{bandera| Provincia de Buenos Aires}} '''[[Club Defensores de Salto|Defensores de Salto]]'''
+|-bgcolor=#F5FAFF
+|align=center| 25 de octubre ||align=right| '''[[Club Atlético El Linqueño|El Linqueño]]''' {{bandera| Provincia de Buenos Aires}} || align=center|<small>(4)</small> 0 - 0 <small>(2)</small> ||align=left| {{bandera| Provincia de Buenos Aires}} [[Club Atlético Villa Belgrano|Villa Belgrano]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Agropecuario Argentino|Agropecuario Argentino]]''' {{bandera| Provincia de Buenos Aires}} || align=center| 4 - 1 ||align=left| {{bandera| Provincia de Buenos Aires}} [[Club Mercedes|Mercedes]]
+|-bgcolor=#F5FAFF
+|align=center| 25 de octubre ||align=right| [[Club Atlético Huracán (Tres Arroyos)|Huracán (TA)]] {{bandera| Provincia de Buenos Aires}}|| align=center| 0 - 3 ||align=left| {{bandera| Provincia de Buenos Aires}} '''[[Grupo Universitario]]'''
+|-
+|align=center| 24 de octubre ||align=right| [[Club Ferro Carril Oeste (General Pico)|Ferro (GP)]] {{bandera|Provincia de La Pampa}}|| align=center| <small>(2)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de La Pampa}} '''[[Alvear Foot-Ball Club|Alvear FBC]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Asociación Civil Club Deportivo Cruz del Sur|Cruz del Sur]]''' {{bandera|Provincia de Río Negro}}|| align=center| 3 - 1 ||align=left| {{bandera|Provincia del Neuquén}} [[Club Social y Deportivo Alianza (Cutral Có)|Alianza de Cutral Có]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Atlético Maronese|Maronese]]''' {{bandera|Provincia del Neuquén}} || align=center| <small>(7)</small> 1 - 1 <small>(6) ||align=left| {{bandera|Provincia del Neuquén}} [[Club Atlético Independiente (Neuquén)|Independiente (N)]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| [[Club Bella Vista|Bella Vista]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 1 - 1 <small>(5) ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Villa Mitre|Villa Mitre]]'''
+|-
+|align=center| 24 de octubre ||align=right| [[Club Atlético Liniers|Liniers (BB)]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 4 - 4 <small>(5) ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Tiro Federal (Bahía Blanca)|Tiro Federal (BB)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Social y Deportivo General Roca|Deportivo Roca]]''' {{bandera|Provincia de Río Negro}} || align=center| 6 - 0 ||align=left| {{bandera|Provincia de Río Negro}} [[Club Deportivo Independiente (Río Colorado)|Independiente (RC)]]
+|-
+|align=center| 24 de octubre ||align=right| [[Club Social y Deportivo Patagones|Deportivo Patagones]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(2)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Provincia de Río Negro}} '''[[Club Sol de Mayo|Sol de Mayo]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| '''[[Club Social y Deportivo Madryn|Deportivo Madryn]]''' {{bandera|Provincia del Chubut}} || align=center|  1 - 0 ||align=left| {{bandera|Provincia del Chubut}} [[Asociación Civil Racing Club (Trelew)|Racing (T)]]
+|-
+|align=center| 24 de octubre ||align=right| '''[[Comisión de Actividades Infantiles|CAI]]''' {{bandera|Provincia del Chubut}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia del Chubut}} [[Club Atlético Germinal|Germinal]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right| [[Club Atlético Huracán (Comodoro Rivadavia)|Huracán de Comodoro]] {{bandera|Provincia del Chubut}} || align=center| <small>(4)</small> 1 - 1 <small>(5)</small> ||align=left| {{bandera|Provincia del Chubut}} '''[[Club Atlético Jorge Newbery (Comodoro Rivadavia)|Jorge Newbery (CR)]]'''
+|-
+|align=center| 24 de octubre ||align=right| '''[[Club Boca Río Gallegos|Boca Río Gallegos]]''' {{bandera|Provincia de Santa Cruz}} || align=center| 5 - 1 ||align=left| {{bandera|Provincia de Santa Cruz}} [[Club Sportivo Huracán (Gobernador Gregores)|Sportivo Huracán]]
+|}
+</center>
+
+{{listaref|group=n.}}
+
+== Fase inicial ==
+
+=== Primera eliminatoria ===
+Se enfrentaron los 18 equipos de Primera D y 8 equipos de Primera C (los últimos 7 de la tabla general de la temporada pasada y el recién ascendido) y de allí surgieron 13 equipos ganadores que pasaron a la Segunda eliminatoria. Estos partidos se disputaron entre el 23 de octubre y el 1 de noviembre.
+
+Fue organizada directamente por la AFA.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=25%|Local
+!width=15%|Resultado
+!width=25%|Visitante
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right|'''[[Club Luján|Luján]]''' {{bandera|Provincia de Buenos Aires}}||  align=center| 2 - 0 ||align=left |{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Central Ballester|Central Ballester]]
+|-
+|align=center| 31 de octubre ||align=right|'''[[Club El Porvenir|El Porvenir]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| <small>(3)</small> 1 - 1 <small>(2)</small> || align=left |{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Deportivo Paraguayo|Deportivo Paraguayo]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right|[[Club Atlético Argentino (Merlo)|Argentino de Merlo]] {{bandera|Provincia de Buenos Aires}}||align=center|  1 - 3 || align=left | {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Puerto Nuevo|Puerto Nuevo]]'''
+|-
+|align=center| 1 de noviembre ||align=right|'''[[Club Atlético Defensores Unidos|Defensores Unidos]]''' {{bandera|Provincia de Buenos Aires}}|| align=center|  <small>(3)</small> 1 - 1 <small>(1)</small> || align=left |{{bandera|Provincia de Buenos Aires}} [[Club Atlético Ituzaingó|Ituzaingó]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right|'''[[Mercado Central Sacachispas Fútbol Club|Sacachispas]]''' {{bandera|Ciudad de Buenos Aires}}|| align=center|  6 - 0 || align=left |{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Lugano|Lugano]]
+|-
+|align=center| 23 de octubre ||align=right|'''[[Club Deportivo Español de Buenos Aires|Deportivo Español]]''' {{bandera|Ciudad de Buenos Aires}}|| align=center|  <small>(4)</small> 3 - 3 <small>(3)</small> || align=left |{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Muñiz|Muñiz]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right|[[Club Atlético Fénix|Fénix]] {{bandera|Provincia de Buenos Aires}}|| align=center|  0 - 2 || align=left | {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Claypole|Claypole]]'''
+|-
+|align=center| 31 de octubre ||align=right|'''[[Club Social y Deportivo Liniers|Liniers]]''' {{bandera|Provincia de Buenos Aires}}|| align=center|  2 - 0 ||align=left |{{bandera|Provincia de Santa Fe}} [[Club Atlético Argentino (Rosario)|Argentino de Rosario]]
+|-bgcolor=#F5FAFF
+|align=center| 31 de octubre ||align=right|'''[[Club Atlético Argentino de Quilmes|Argentino de Quilmes]]''' {{bandera|Provincia de Buenos Aires}}|| align=center|  <small>(3)</small> 1 - 1 <small>(0)</small> ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Victoriano Arenas|Victoriano Arenas]]
+|-
+|align=center| 31 de octubre ||align=right|'''[[Club Atlético Atlas|Atlas]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| 1 - 0 ||align=left|  {{bandera|Ciudad de Buenos Aires}} [[Club Social y Deportivo Yupanqui|Yupanqui]]
+|-bgcolor=#F5FAFF
+|align=center| 24 de octubre ||align=right|'''[[Club Deportivo y Mutual Leandro N. Alem|Leandro N. Alem]]''' {{bandera|Provincia de Buenos Aires}}|| align=center|  <small>(4)</small> 1 - 1 <small>(1)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Deportivo y Social Juventud Unida|Juventud Unida (SM)]]
+|-
+|align=center| 31 de octubre ||align=right|'''[[Centro Social y Recreativo Español|Centro Español]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| <small>(5)</small> 1 - 1 <small>(4)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Cañuelas Fútbol Club|Cañuelas]]
+|-bgcolor=#F5FAFF
+|align=center| 31 de octubre ||align=right|'''[[Club Deportivo Riestra|Deportivo Riestra]]''' {{bandera|Ciudad de Buenos Aires}}|| align=center| 3 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo San Martín|San Martín (B)]]
+|}
+</center>
+
+=== Segunda eliminatoria ===
+{{AP|Anexo:Segunda eliminatoria de la Copa Argentina 2012-13}}
+
+Organizada directamente por la AFA, la conformaron los 13 equipos ganadores de la Primera eliminatoria, más los 12 equipos restantes de la Primera C y los 21 que militan en la Primera B, totalizando 46 equipos. Los mismos se enfrentaron entre sí a efectos de determinar 23 ganadores, que pasaron a la Quinta eliminatoria. Estos partidos se disputaron entre el 6 y el 15 de noviembre.
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=25%|Local
+!width=15%|Resultado
+!width=25%|Visitante
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Atlético Chacarita Juniors|Chacarita]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 5 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Puerto Nuevo|Puerto Nuevo]]
+|-
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Atlanta|Atlanta]] {{bandera|Ciudad de Buenos Aires}}  || align=center| <small>(2)</small> 1 - 1 <small>(4)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Claypole|Claypole]]'''
+|-bgcolor=#F5FAFF
+|align=center| 6 de noviembre ||align=right| '''[[Club Atlético Platense|Platense]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Argentino (Quilmes)|Argentino (Q)]]
+|-
+|align=center| 15 de noviembre ||align=right| '''[[Club Atlético Estudiantes|Estudiantes (BA)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 1 - 1 <small>(2)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Centro Social y Recreativo Español|Centro Español]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Los Andes|Los Andes]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Deportivo y Mutual Leandro N. Alem|Leandro N. Alem]]'''
+|-
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Colegiales (Munro)|Colegiales]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 1 - 1 <small>(5)</small> ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Deportivo Riestra|Deportivo Riestra]]'''
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Atlético Brown|Brown (A)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 3 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Atlas|Atlas]]
+|-
+|align=center| 13 de noviembre ||align=right| '''[[Club Social y Deportivo Flandria|Flandria]]'''  {{bandera|Provincia de Buenos Aires}}  || align=center| <small>(6)</small> 0 - 0 <small>(5)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Luján|Luján]]
+|-bgcolor=#F5FAFF
+|align=center| 6 de noviembre ||align=right| '''[[Club Deportivo Armenio|Deportivo Armenio]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 0 ||align=left| {{bandera|Ciudad de Buenos Aires}} [[Club Deportivo Español de Buenos Aires|Deportivo Español]]
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Deportivo Morón|Deportivo Morón]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Sportivo Dock Sud|Dock Sud]]
+|-bgcolor=#F5FAFF
+|align=center| 14 de noviembre ||align=right| [[Club Atlético Defensores de Belgrano|Defensores de Belgrano]] {{bandera|Ciudad de Buenos Aires}}  || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Asociación Deportiva Berazategui|Berazategui]]'''
+|-
+|align=center| 14 de noviembre ||align=right| [[Club Atlético Temperley|Temperley]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(3)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético Excursionistas|Excursionistas]]'''
+|-bgcolor=#F5FAFF
+|align=center| 6 de noviembre ||align=right| [[Club Atlético Barracas Central|Barracas Central]] {{bandera|Ciudad de Buenos Aires}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Ferrocarril Midland|Midland]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 4 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]]
+|-bgcolor=#F5FAFF
+|align=center| 14 de noviembre ||align=right| [[Club Villa Dálmine|Villa Dálmine]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(1)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Social y Cultural Deportivo Laferrere|Laferrere]]'''
+|-
+|align=center| 14 de noviembre ||align=right| '''[[Club Almagro|Almagro]]''' {{bandera|Provincia de Buenos Aires}}  || align=center| 1 - 0 ||align=left| {{bandera|Ciudad de Buenos Aires}} [[Sacachispas Fútbol Club|Sacachispas]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Atlético San Telmo|San Telmo]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 1 - 1 <small>(3)</small>  ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético San Miguel|San Miguel]]
+|-
+|align=center| 14 de noviembre ||align=right|  '''[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]''' {{bandera|Santa Fe}}|| align="center" |  1 - 0 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Asociación Social y Deportiva Justo José de Urquiza|J.J. Urquiza]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Villa San Carlos|Villa San Carlos]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club El Porvenir|El Porvenir]]'''
+|-
+|align=center| 6 de noviembre ||align=right| [[Club Comunicaciones de Buenos Aires|Comunicaciones]] {{bandera|Ciudad de Buenos Aires}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Social y Deportivo Liniers|Liniers]]'''
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Acassuso|Acassuso]] {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Defensores Unidos|Defensores Unidos]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Sportivo Italiano|Sportivo Italiano]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(3)</small> 0 - 0 <small>(2)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Defensores de Cambaceres|Cambaceres]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético General Lamadrid|General Lamadrid]] {{bandera|Ciudad de Buenos Aires}}  || align=center| 0 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Deportivo UAI Urquiza|UAI Urquiza]]'''
+|}
+</center>
+
+=== Tercera eliminatoria ===
+{{AP|Tercera eliminatoria de la Copa Argentina 2012-13}}
+
+Los 50 equipos provenientes de la Fase preliminar se enfrentaron entre sí a efectos de determinar 25 equipos ganadores, que pasaron a la Cuarta eliminatoria. Estos partidos se disputaron entre el 6 y el 14 de noviembre y fueron organizados por el Consejo Federal.
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=25%|Local
+!width=15%|Resultado
+!width=25%|Visitante
+|-bgcolor=#F5FAFF
+|align=center| 14 de noviembre ||align=right| '''[[Asociación Cultural y Deportiva Altos Hornos Zapla|Altos Hornos Zapla]]''' {{bandera|Provincia de Jujuy}} || align=center| <small>(5)</small> 2 - 2 <small>(3)</small> ||align=left| {{bandera|Provincia de Salta}} [[Club Atlético River Plate de Embarcación|River de Embarcación]]
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Atlético Famaillá|Atlético Famaillá]]''' {{bandera|Provincia de Tucumán}} || align=center| <small>(4)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de Tucumán}} [[Club Atlético Concepción|Atlético Concepción]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Mitre (Santiago del Estero)|Mitre (SdE)]] {{bandera|Provincia de Santiago del Estero}} || align=center| <small>(3)</small> 0 - 0 <small>(4)</small> ||align=left|{{bandera|Provincia de Santiago del Estero}} '''[[Club Atlético Sarmiento (Santiago del Estero)|Sarmiento (SdE)]]'''
+|-
+|align=center| 6 de noviembre ||align=right| '''[[Club Atlético Américo Tesorieri|Américo Tesorieri]]''' {{bandera|Provincia de La Rioja (Argentina)}} || align=center| 6 - 0 ||align=left| {{bandera|Provincia de Salta}} [[Club Atlético Mitre (Salta)|Mitre (S)]]
+|-bgcolor=#F5FAFF
+|align=center| 8 de noviembre ||align=right| [[Club Atlético Policial|Atlético Policial]] {{bandera|Provincia de Catamarca}}  || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Catamarca}} '''[[Club Sportivo Villa Cubas (Catamarca)|Villa Cubas]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Sportivo y Biblioteca Atenas|Atenas]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 3 - 1 ||align=left|  {{bandera|Provincia de San Luis}}[[Club Sportivo Estudiantes (San Luis)|Estudiantes (SL)]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Gimnasia y Esgrima (Mendoza)|Gimnasia y Esgrima (M)]] {{bandera|Provincia de Mendoza}} || align=center| <small>(4)</small> 1 - 1 <small>(5)</small> ||align=left| {{bandera|Provincia de Mendoza}} '''[[Atlético Club San Martín de Mendoza|San Martín (M)]]'''
+|-
+|align=center| 7 de noviembre ||align=right| [[Club Atlético de la Juventud Alianza|Juventud Alianza]] {{bandera|Provincia de San Juan}} || align=center| <small>(4)</small> 1 - 1 <small>(5)</small> ||align=left| {{bandera|Provincia de San Juan}} '''[[Club Atlético Unión (Villa Krause)|Unión (VK)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Gutiérrez Sport Club|Gutiérrez SC]]''' {{bandera|Provincia de Mendoza}} ||align=center| <small>(9)</small> 1 - 1 <small>(8)</small> ||align=left| {{bandera|Provincia de Mendoza}} [[Sport Club Pacífico|SC Pacífico]]
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Asociación Deportiva 9 de Julio (Morteros)|9 de Julio (M)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 2 - 1 ||align=left|  {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético General Paz Juniors|General Paz Juniors]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Sportivo Ben Hur|Ben Hur]]''' {{bandera|Provincia de Santa Fe}} || align=center| 2 - 1 ||align=left|{{bandera|Provincia de Santa Fe}} [[Club Atlético San Jorge|Atlético San Jorge]]
+|-
+|align=center| 7 de noviembre ||align=right|  [[Club Defensores de Pronunciamiento|Def. de Pronunciamiento]] {{bandera|Provincia de Entre Ríos}}|| align=center| <small>(3)</small> 0 - 0 <small>(5)</small> ||align=left| {{bandera|Provincia de Santa Fe}} '''[[Club Sportivo Rivadavia (Venado Tuerto)|Sportivo Rivadavia (VT)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Social y Deportivo Juventud Unida|Juventud Unida (G)]] {{bandera|Provincia de Entre Ríos}} || align=center| 0 - 1 ||align=left|{{bandera|Provincia de Entre Ríos}} '''[[Club Atlético Paraná|Atlético Paraná]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Deportivo Mandiyú|Deportivo Mandiyú]]''' {{bandera|Provincia de Corrientes}} || align=center| 3 - 1 ||align=left| {{bandera|Provincia de Corrientes}} [[Club Comunicaciones (Mercedes)|Comunicaciones (M)]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Sarmiento (Resistencia)|Sarmiento (R)]] {{bandera|Provincia del Chaco}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Misiones}} '''[[Club Jorge Gibson Brown|Jorge Gibson Brown]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Club Sportivo Patria|Sportivo Patria]]''' {{bandera|Provincia de Formosa}} ||align=center| 4 - 2 ||align=left| {{bandera|Provincia del Chaco}} [[Club Social y Deportivo Fontana|Fontana]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Atlético Colegiales (Concordia)|Colegiales (C)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo La Emilia|La Emilia]]
+|-
+|align=center| 8 de noviembre ||align=right| '''[[Club Atlético Once Tigres|Once Tigres]]''' {{bandera|Provincia de Buenos Aires}} || align=center|  2 - 1 ||align=left| {{bandera| Provincia de Buenos Aires}} [[Club Defensores de Salto|Defensores de Salto]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Agropecuario Argentino|Agropecuario Argentino]]''' {{bandera| Provincia de Buenos Aires}} || align=center| <small>(5)</small> 2 - 2 <small>(4)</small> ||align=left| {{bandera| Provincia de Buenos Aires}} [[Club Atlético El Linqueño|El Linqueño]]
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Grupo Universitario]]''' {{bandera| Provincia de Buenos Aires}} || align=center| <small>(5)</small> 1 - 1 <small>(4)</small> ||align=left| {{bandera|Provincia de La Pampa}} [[Alvear Foot-Ball Club|Alvear FBC]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Maronese|Maronese]] {{bandera|Provincia del Neuquén}} || align=center| <small>(0)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de Río Negro}} '''[[Asociación Civil Club Deportivo Cruz del Sur|Cruz del Sur]]'''
+|-
+|align=center| 7 de noviembre ||align=right| [[Club Atlético Tiro Federal (Bahía Blanca)|Tiro Federal (BB)]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Villa Mitre|Villa Mitre]]'''
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| [[Club Social y Deportivo General Roca|Deportivo Roca]] {{bandera|Provincia de Río Negro}} || align=center| 0 - 2 ||align=left| {{bandera|Provincia de Río Negro}} '''[[Club Sol de Mayo|Sol de Mayo]]'''
+|-
+|align=center| 7 de noviembre ||align=right| '''[[Comisión de Actividades Infantiles|CAI]]''' {{bandera|Provincia del Chubut}} || align=center| 5 - 2 ||align=left| {{bandera|Provincia del Chubut}} [[Club Social y Deportivo Madryn|Deportivo Madryn]]
+|-bgcolor=#F5FAFF
+|align=center| 7 de noviembre ||align=right| '''[[Club Boca Río Gallegos|Boca Río Gallegos]]''' {{bandera|Provincia de Santa Cruz}} || align=center| 2 - 0 ||align=left| {{bandera|Provincia del Chubut}} [[Club Atlético Jorge Newbery (Comodoro Rivadavia)|Jorge Newbery (CR)]]
+|}
+</center>
+
+=== Cuarta eliminatoria ===
+{{AP|Cuarta eliminatoria de la Copa Argentina 2012-13}}
+
+Organizada por el Consejo Federal, formaron parte de ella los 25 equipos clasificados en la Tercera eliminatoria y los 25 participantes del Argentino A, determinando 25 ganadores que pasaron a la Quinta eliminatoria. Estos partidos se disputaron entre el 20 y el 28 de noviembre.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=25%|Local
+!width=15%|Resultado
+!width=25%|Visitante
+|-bgcolor=#F5FAFF
+|align=center| 21 de noviembre ||align=right| '''[[Club Atlético Central Norte (Salta)|Central Norte (S)]]''' {{bandera|Provincia de Salta}}|| align=center| 3 - 2 || {{bandera|Provincia de Jujuy}} [[Asociación Cultural y Deportiva Altos Hornos Zapla|Altos Hornos Zapla]]
+|-
+|align=center| 22 de noviembre ||align=right| '''[[Club Atlético San Martín (Tucumán)|San Martín (T)]]''' {{bandera|Provincia de Tucumán}} || align=center| 3 - 1 || {{bandera|Provincia de Tucumán}} [[Club Atlético Famaillá|Atlético Famaillá]]
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Club Atlético Central Córdoba (Santiago del Estero)|Central Córdoba (SdE)]]''' {{bandera|Provincia de Santiago del Estero}} || align=center| 2 - 0 || {{bandera|Provincia de Santiago del Estero}} [[Club Atlético Sarmiento (Santiago del Estero)|Sarmiento (SdE)]]
+|-
+|align=center| 22 de noviembre ||align=right| '''[[Centro Juventud Antoniana|Juventud Antoniana]]''' {{bandera|Provincia de Salta}}|| align=center| 3 - 0 ||{{bandera|Provincia de La Rioja (Argentina)}} [[Club Atlético Américo Tesorieri|Américo Tesorieri]]
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Club de Gimnasia y Tiro de Salta|Gimnasia y Tiro (S)]]''' {{bandera|Provincia de Salta}}|| align=center| 2 - 1 ||{{bandera|Provincia de Catamarca}} [[Club Sportivo Villa Cubas (Catamarca)|Villa Cubas]]
+|-
+|align=center| 22 de noviembre ||align=right| [[Club Atlético Juventud Unida Universitario|Juventud Unida (SL)]] {{bandera|Provincia de San Luis}}|| align=center| <small>(1)</small> 2 - 2 <small>(3)</small> ||{{bandera|Provincia de Córdoba (Argentina)}} '''[[Club Sportivo y Biblioteca Atenas|Atenas]]'''
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right|[[Club Deportivo Maipú|Deportivo Maipú]] {{bandera|Provincia de Mendoza}} || align=center| 1 - 2 || {{bandera|Provincia de Mendoza}} '''[[Atlético Club San Martín de Mendoza|San Martín (M)]]'''
+|-
+|align=center| 28 de noviembre ||align=right| [[Club Sportivo Desamparados|Desamparados]] {{bandera|Provincia de San Juan}}|| align=center| <small>(3)</small> 1 - 1 <small>(4)</small> || {{bandera|Provincia de San Juan}} '''[[Club Atlético Unión (Villa Krause)|Unión (VK)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 3 - 1 || {{bandera|Provincia de Mendoza}} [[Gutiérrez Sport Club|Gutiérrez SC]]
+|-
+|align=center| 22 de noviembre ||align=right| '''[[Club Sportivo Belgrano|Sportivo Belgrano]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 2 - 1 ||{{bandera|Provincia de Córdoba (Argentina)}} [[Asociación Deportiva 9 de Julio (Morteros)|9 de Julio (M)]]
+|-bgcolor=#F5FAFF
+|align=center| 21 de noviembre ||align=right| [[Club Deportivo Libertad|Libertad (S)]] {{bandera|Provincia de Santa Fe}}|| align=center| 0 - 1 ||{{bandera|Provincia de Santa Fe}} '''[[Club Sportivo Ben Hur|Ben Hur]]'''
+|-
+|align=center| 21 de noviembre ||align=right| [[Club Atlético Alumni|Alumni]] {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 0 - 2 ||{{bandera|Provincia de Santa Fe}} '''[[Club Sportivo Rivadavia (Venado Tuerto)|Sportivo Rivadavia (VT)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| <small>(3)</small> 2 - 2 <small>(2)</small> || {{bandera|Provincia de Entre Ríos}} [[Club Atlético Paraná|Atlético Paraná]]
+|-
+|align=center| 21 de noviembre ||align=right| [[Club Atlético Tiro Federal Argentino|Tiro Federal (R)]] {{bandera|Santa Fe}}|| align="center" | <small>(3)</small> 1 - 1 <small>(4)</small> || {{bandera|Provincia de Corrientes}} '''[[Club Deportivo Mandiyú|Deportivo Mandiyú]]'''
+|-bgcolor=#F5FAFF
+|align=center| 20 de noviembre ||align=right| [[Club Deportivo Guaraní Antonio Franco|Guaraní Antonio Franco]] {{bandera|Provincia de Misiones}}|| align=center| <small>(3)</small> 1 - 1 <small>(5)</small> || {{bandera|Provincia de Misiones}} '''[[Club Jorge Gibson Brown|Jorge Gibson Brown]]'''
+|-
+|align=center| 21 de noviembre ||align=right| '''[[Club Social y Deportivo San Jorge|San Jorge (T)]]''' {{bandera|Provincia de Tucumán}}|| align=center| <small>(3)</small> 1 - 1 <small>(2)</small> || {{bandera|Provincia de Formosa}} [[Club Sportivo Patria|Sportivo Patria]]
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Club Atlético Racing|Racing (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center|  2 - 0 ||{{bandera|Provincia de Entre Ríos}} [[Club Atlético Colegiales (Concordia)|Colegiales (C)]]
+|-
+|align=center| 21 de noviembre ||align=right| '''[[Club Atlético y Social Defensores de Belgrano|Def. de Belgrano (VR)]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| 3 - 0 || {{bandera|Provincia de Buenos Aires}} [[Club Atlético Once Tigres|Once Tigres]]
+|-bgcolor=#F5FAFF
+|align=center| 21 de noviembre ||align=right| [[Club Rivadavia|Rivadavia (L)]] {{bandera|Provincia de Buenos Aires}} || align=center| 3 - 5 || {{bandera| Provincia de Buenos Aires}} '''[[Club Agropecuario Argentino|Agropecuario Argentino]]'''
+|-
+|align=center| 21 de noviembre ||align=right| '''[[Club y Biblioteca Ramón Santamarina|Santamarina]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| 1 - 0 ||{{bandera|Provincia de Buenos Aires}} [[Grupo Universitario]]
+|-bgcolor=#F5FAFF
+|align=center| 22 de noviembre ||align=right| '''[[Racing Athletic Club|Racing (O)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 5 - 1 || align=left| {{bandera|Provincia de Río Negro}} [[Asociación Civil Club Deportivo Cruz del Sur|Cruz del Sur]]
+|-
+|align=center| 20 de noviembre ||align=right| [[Club Atlético Unión (Mar del Plata)|Unión (MdP)]] {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 3 || {{bandera|Provincia de Buenos Aires}} '''[[Club Villa Mitre|Villa Mitre]]'''
+|-bgcolor=#F5FAFF
+|align=center| 21 de noviembre ||align=right| '''[[Club Atlético Alvarado|Alvarado]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| 3 - 2 || {{bandera|Provincia de Río Negro}} [[Club Sol de Mayo|Sol de Mayo]]
+|-
+|align=center| 21 de noviembre ||align=right| '''[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]''' {{bandera|Provincia del Chubut}}|| align=center| 1 - 0 || {{bandera|Provincia del Chubut}} [[Comisión de Actividades Infantiles|CAI]]
+|-bgcolor=#F5FAFF
+|align=center| 28 de noviembre ||align=right| [[Club Cipolletti|Cipolletti]] {{bandera|Provincia de Río Negro}}|| align=center| 0 - 2 || {{bandera|Provincia de Santa Cruz}} '''[[Club Boca Río Gallegos|Boca Río Gallegos]]'''
+|}
+</center>
+
+=== Quinta eliminatoria ===
+Los 48 equipos ganadores provenientes de la Segunda y Cuarta eliminatorias, 23 equipos [[Anexo:Clubes directamente afiliados a la AFA|directamente afiliados]] y 25 equipos [[Anexo:Ligas regionales de fútbol en Argentina|dependientes del Consejo Federal]], respectivamente, fueron emparejados a efectos de obtener las llaves de partidos, que se disputaron entre los días 21 de noviembre de 2012 y 23 de enero de 2013. Los 24 equipos ganadores clasificaron a la siguiente etapa, la Ronda previa de la Fase final.
+
+Esta etapa fue organizada directamente por la AFA.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=60%
+|- bgcolor=#006699 style="color:white;"
+!width=18%|Fecha
+!width=25%|Local
+!width=15%|Resultado
+!width=25%|Visitante
+|-bgcolor=#F5FAFF
+|align=center|21 de noviembre||align=right| '''[[Club Atlético Platense|Platense]]''' {{bandera|Provincia de Buenos Aires}}  || align=center| 1 - 0 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Liniers|Liniers]]
+|-
+|align=center|21 de noviembre ||align=right| '''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 4 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Social y Cultural Deportivo Laferrere|Laferrere]]
+|-bgcolor=#F5FAFF
+|align=center|21 de noviembre||align=right| '''[[Club Atlético Brown|Brown (A)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Deportivo y Mutual Leandro N. Alem|Leandro N. Alem]]
+|-
+|align=center|21 de noviembre||align=right| [[Club Social y Deportivo Flandria|Flandria]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 0 - 0 <small>(5)</small> ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético Excursionistas|Excursionistas]]'''
+|-bgcolor=#F5FAFF
+|align=center|21 de noviembre||align=right| '''[[Club Atlético Chacarita Juniors|Chacarita]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 4 - 0 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Claypole|Claypole]]
+|-
+|align=center|21 de noviembre||align=right| [[Club Atlético San Telmo|San Telmo]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(2)</small> 1 - 1 <small>(3)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Ferrocarril Midland|Midland]]'''
+|-bgcolor=#F5FAFF
+|align=center|21 de noviembre||align=right| '''[[Club Deportivo Armenio|Deportivo Armenio]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(3)</small> 1 - 1 <small>(1)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club El Porvenir|El Porvenir]]
+|-
+|align=center| 28 de noviembre ||align=right| [[Club Sportivo Italiano|Sportivo Italiano]] {{bandera|Provincia de Buenos Aires}} || align=center|  <small>(5)</small> 1 - 1 <small>(6)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Deportivo UAI Urquiza|UAI Urquiza]]'''
+|-bgcolor=#F5FAFF
+|align=center| 23 de enero ||align=right| [[Club Almagro|Almagro]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Defensores Unidos|Defensores Unidos]]'''
+|-
+|align=center| 5 de diciembre ||align=right| '''[[Club Atlético Estudiantes|Estudiantes (BA)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 0 ||align=left| {{bandera|Ciudad de Buenos Aires}} [[Club Deportivo Riestra|Deportivo Riestra]]
+|-bgcolor=#F5FAFF
+|align=center| 23 de enero ||align=right| '''[[Club Deportivo Morón|Deportivo Morón]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 5 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Asociación Deportiva Berazategui|Berazategui]]
+|-
+|align=center| 5 de diciembre ||align=right| '''[[Club Social y Atlético Guillermo Brown|Guillermo Brown]]''' {{bandera|Provincia del Chubut}}|| align=center| 1 - 0 || align=left| {{bandera|Provincia de Santa Cruz}} [[Club Boca Río Gallegos|Boca Río Gallegos]]
+|-bgcolor=#F5FAFF
+|align=center| 5 de diciembre ||align=right| '''[[Club Atlético Unión (Villa Krause)|Unión (VK)]]''' {{bandera|Provincia de San Juan}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia de Mendoza}} [[Atlético Club San Martín de Mendoza|San Martín (M)]]
+|-
+|align=center| 5 de diciembre ||align=right| '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}}|| align=center| 3 - 0 ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Racing (Córdoba)|Racing (C)]]
+|-bgcolor=#F5FAFF
+|align=center| 5 de diciembre ||align=right| '''[[Club Sportivo Belgrano|Sportivo Belgrano]]''' {{bandera|Provincia de Córdoba (Argentina)}}|| align=center| 2 - 1 ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Club Sportivo y Biblioteca Atenas|Atenas]]
+|-
+|align=center| 5 de diciembre ||align=right| '''[[Club Atlético San Martín (Tucumán)|San Martín (T)]]''' {{bandera|Provincia de Tucumán}} || align=center| 3 - 1 ||align=left| {{bandera|Provincia de Tucumán}} [[Club Social y Deportivo San Jorge|San Jorge (T)]]
+|-bgcolor=#F5FAFF
+|align=center| 5 de diciembre ||align=right| '''[[Club Atlético Central Norte (Salta)|Central Norte]]''' {{bandera|Provincia de Salta}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Salta}} [[Club de Gimnasia y Tiro de Salta|Gimnasia y Tiro (S)]]
+|-
+|align=center| 6 de diciembre ||align=right| '''[[Centro Juventud Antoniana|Juventud Antoniana]]''' {{bandera|Provincia de Salta}} || align=center| 3 - 0 ||align=left| {{bandera|Provincia de Santiago del Estero}} [[Club Atlético Central Córdoba (Santiago del Estero)|Central Córdoba (SdE)]]
+|-bgcolor=#F5FAFF
+|align=center| 5 de diciembre ||align=right| '''[[Club Jorge Gibson Brown|Jorge Gibson Brown]]''' {{bandera|Provincia de Misiones}}|| align=center| 2 - 1 || align=left|{{bandera|Provincia de Corrientes}} [[Club Deportivo Mandiyú|Deportivo Mandiyú]]
+|-
+|align=center| 6 de diciembre ||align=right| [[Club Villa Mitre|Villa Mitre]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Racing Athletic Club|Racing (O)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 30 de noviembre ||align=right|  '''[[Club Atlético Alvarado|Alvarado]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 0 - 0 <small>(2)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Agropecuario Argentino|Agropecuario Argentino]]
+|-
+|align=center| 5 de diciembre ||align=right| '''[[Club y Biblioteca Ramón Santamarina|Santamarina]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético y Social Defensores de Belgrano|Def. de Belgrano (VR)]]
+|-bgcolor=#F5FAFF
+|align=center| 5 de diciembre ||align=right| '''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| <small>(4)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Provincia de Santa Fe}} [[Club Sportivo Ben Hur|Ben Hur]]
+|-
+|align=center| 6 de diciembre ||align=right| '''[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]''' {{bandera|Provincia de Santa Fe}}|| align="center" |<small>(4)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Provincia de Santa Fe}} [[Club Sportivo Rivadavia (Venado Tuerto)|Sportivo Rivadavia (VT)]]
+|}
+</center>
+
+== Fase final ==
+Participan de la misma un total de 64 equipos: los 20 respectivos de Primera División y Primera B Nacional, sumados a los 24 clasificados de la Fase Inicial.
+
+Consta de una etapa preliminar y otra de eliminatorias.
+
+=== Preclasificatorio ===
+{{AP|Anexo:Etapa preliminar de la fase final de la Copa Argentina 2012-13}}
+Afrontaron esta instancia 16 equipos de la [[Primera B Nacional]], quedando exceptuados Huracán, Ferro Carril Oeste, Rosario Central y Banfield, preclasificados directamente a la Etapa de Eliminatorias de esta Fase Final, por haber sido campeones de [[Primera División de Argentina#profesionalismo|Primera División en el profesionalismo]].<ref>En el reglamento oficial de la competencia se excluye a Gimnasia y Esgrima (LP) del beneficio de no disputar esta ronda, aún siendo campeón de [[Campeonato de Primera División 1929 (Argentina)|Primera División en 1929]], porque obtuvo el logro durante la era amateur [http://www.afa.org.ar/index.php?option=com_content&view=article&id=17281%3Areglamento-de-la-copa-argentina-20122013&Itemid=78].</ref> Tras los cruces, que se disputaron entre el 25 y el 30 de enero, quedaron 8 equipos ganadores, que pasaron a la mencionada siguiente etapa.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=95%
+|- bgcolor=#006699 style="color:white;"
+!width=10%|Fecha
+!width=30%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 30 de enero||align=center| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]  ||align=right|'''[[Instituto Atlético Central Córdoba|Instituto]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| <small>(4)</small> 1 - 1 <small>(3)</small> ||align=left|{{bandera|Provincia de Mendoza}} [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+|-
+|align=center| 27 de enero||align=center| [[Estadio Roberto Natalio Carminatti|Roberto Natalio Carminatti]] ||align=right|'''[[Club Olimpo|Olimpo]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 4 - 1 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Aldosivi|Aldosivi]]
+|-bgcolor=#F5FAFF
+|align=center| 29 de enero||align=center| [[Estadio José Antonio Romero Feris|José Antonio Romero Feris]] ||align=right|'''[[Club Atlético Boca Unidos|Boca Unidos]] {{bandera|Provincia de Corrientes}}  || align=center| 4 - 0 ||align=left|{{bandera|Provincia de Misiones}} [[Club Mutual Crucero del Norte|Crucero del Norte]]
+|-
+|align=center| 26 de enero ||align=center| [[Estadio Monumental José Fierro|Monumental José Fierro]]  ||align=right|'''[[Club Atlético Tucumán|Atlético Tucumán]]''' {{bandera|Provincia de Tucumán}} || align=center| <small>(6)</small> 2 - 2 <small>(5)</small> ||align=left|{{bandera|Provincia de Jujuy}} [[Club Atlético Gimnasia y Esgrima (Jujuy)|Gimnasia y Esgrima (J)]]
+|-bgcolor=#F5FAFF
+|align=center| 27 de enero ||align=center| [[Estadio Presbítero Bartolomé Grella|Presbítero Bartolomé Grella]]  ||align=right|'''[[Club Atlético Patronato de la Juventud Católica|Patronato]]''' {{bandera|Provincia de Entre Ríos}}|| align=center| 2 - 0 ||align=left|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Nueva Chicago|Nueva Chicago]]
+|-
+|align=center| 25 de enero ||align=center| [[Estadio Fragata Presidente Sarmiento|Fragata Presidente Sarmiento]]  ||align=right|'''[[Club Almirante Brown|Almirante Brown]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 0||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]
+|-bgcolor=#F5FAFF
+|align=center| 26 de enero ||align=center| [[Estadio Juan Carmelo Zerillo|Juan Carmelo Zerillo]]  ||align=right|'''[[Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]''' {{bandera|La Plata}} || align=center| 3 - 0 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Atlético Douglas Haig|Douglas Haig]]
+|-
+|align=center| 27 de enero ||align=center| [[Estadio Norberto Tomaghello|Norberto Tomaghello]] ||align=right|'''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left|{{bandera|Provincia de Buenos Aires}} [[Club Social y Deportivo Merlo|Deportivo Merlo]]
+|}
+</center>
+
+=== Etapa de eliminatorias ===
+Se formaron 4 zonas de 14 equipos cada una, con los 24 clasificados en la Fase Inicial, los 8 vencedores de la Etapa preliminar anterior, los 4 campeones de Primera División que participan de la Primera B Nacional detallados precedentemente, y los 20 equipos de Primera División, de los cuales los 8 equipos con más campeonatos obtenidos serán preclasificados directamente para la siguiente instancia.
+
+==== Sedes ====
+A partir de esta etapa, los partidos se desarrollaron en sedes neutrales. Los siguientes estadios fueron escenario de los mismos, según lo dispuesto por los organizadores.<ref>[http://www.copaargentina.org/es/sedes.html Copa Argentina / Web oficial de la Copa Argentina 2012/13]</ref>
+{|border=0 cellspacing=1 cellpadding=0 style="font-size: 90%;" width=85% align=center
+|width=25%|
+|width=25%|
+|width=25%|
+|- align="center"
+|[[Archivo:Estadio Bicentenario lleno.JPG|190px|border]]
+|[[Archivo:Platea alta y baja del Estadio Centenario.jpg|190px|border]]
+|[[Archivo:Estadio platense.jpg|190px|border]]
+|[[Archivo:Plateasbanfield.jpg|190px|border]]
+|- align="center" valign="top" bgcolor="#EBF5FF" style="border:1px solid #aaa;"
+|'''[[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]]'''<br />
+Ciudad: [[San Fernando del Valle de Catamarca|Catamarca]]<br />
+Capacidad: '''36.000'''<br />
+|'''[[Estadio Centenario (Resistencia)|Centenario de Resistencia]]'''<br />
+Ciudad: [[Ciudad de Resistencia|Resistencia]]<br />
+Capacidad: '''25.000'''<br />
+|'''[[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]'''<br />
+Ciudad: [[Florida (Buenos Aires)|Florida]]<br />
+Capacidad: '''31.051'''<br />
+|'''[[Estadio Florencio Sola|Florencio Sola]]'''<br />
+Ciudad: [[Banfield]]<br />
+Capacidad: '''34.901'''<br />
+
+|- align="center"
+|[[Archivo:Cabecera Norte.jpg|190px|border]]
+| 
+|[[Archivo:Estadio.Arsenal.Futbol.Club.jpg|190px|border]]
+|[[Archivo:Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg|200px]]
+|- align="center" valign="top" bgcolor="#EBF5FF" style="border:1px solid #aaa;"
+|'''[[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]]'''<br />
+Ciudad: [[Ciudad de San Juan|San Juan]]<br />
+Capacidad: '''19.500'''<br />
+|'''[[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]'''<br />
+Ciudad: [[Ciudad de Córdoba (Argentina)|Córdoba]]<br />
+Capacidad: '''35.535'''<br />
+|'''[[Estadio Julio Humberto Grondona|Julio Humberto Grondona]]'''<br />
+Ciudad: [[Sarandí]]<br />
+Capacidad: '''16.300'''<br />
+|'''[[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]'''<br />
+Ciudad: [[Ciudad de Córdoba (Argentina)|Córdoba]]<br />
+Capacidad: '''57.000'''<br />
+
+|- align="center"
+|[[Archivo:Estadio José Fierro.png|190px|border]]
+|[[Archivo:Estadio_San_Juan_del_Bicentenario.JPG|190px|border]]
+|[[Archivo:Estadio_Tres_de_Febrero_popular.jpg|190px|border]]
+|- align="center" valign="top" bgcolor="#EBF5FF" style="border:1px solid #aaa;"
+|'''[[Estadio Monumental José Fierro|Monumental José Fierro]]'''<br />
+Ciudad: [[San Miguel de Tucumán]]<br />
+Capacidad: '''32.500'''<br />
+|'''[[Estadio San Juan del Bicentenario|San Juan del Bicentenario]]'''<br />
+Ciudad: [[Ciudad de San Juan|San Juan]]<br />
+Capacidad: '''25.286'''<br />
+|'''[[Estadio Tres de Febrero|Tres de Febrero]]'''<br />
+Ciudad: [[José Ingenieros (Buenos Aires)|José Ingenieros]]<br />
+Capacidad: '''19.000'''<br />
+|}
+
+=== Ronda previa ===
+Participaron 48 equipos: los 24 ganadores de la Quinta Eliminatoria, los 8 provenientes de la Etapa Preliminar, los 4 de la [[Primera B Nacional]] campeones de [[Primera División de Argentina|Primera División]] (Huracán, Ferro Carril Oeste, Rosario Central y Banfield) y todos los equipos de [[Primera División de Argentina|Primera División]] a excepción de River Plate, Boca Juniors, Independiente, San Lorenzo de Almagro, Vélez Sarsfield, Racing Club, Estudiantes de La Plata y Newell's Old Boys, que por ser los equipos con más títulos en la máxima categoría clasificaron directamente a los dieciseisavos (Cuartos de final de zona). Se agruparon en 4 zonas, 12 equipos que cada una de ellas, por lo que quedaron 24 ganadores que pasaron a los cuartos de final de zona. Estos partidos se disputaron entre el 12 de febrero y el 25 de marzo.
+
+==== Zona 1 ====
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 20 de febrero ||align=center| [[Estadio Florencio Sola|Florencio Sola]] ||align=right| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]] {{bandera|Provincia de Buenos Aires}}|| align=center| 0 - 3 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Estudiantes|Estudiantes (BA)]]'''
+|-
+|align=center| 21 de marzo ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| [[Club Atlético Tigre|Tigre]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 1 ||align=left|''' {{bandera|Provincia de Salta}} [[Centro Juventud Antoniana|Juventud Antoniana]]
+|-bgcolor=#F5FAFF
+|align=center| 13 de marzo ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] || align="right" | [[Club Atlético Central Norte (Salta)|Central Norte (S)]]  {{bandera|Provincia de Salta}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Banfield|Banfield]]'''
+|-
+|align=center| 13 de marzo ||align=center| [[Estadio Mario Alberto Kempes|Mario Alberto Kempes]] ||align=right| '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 1 - 0 || align="left" | {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Belgrano|Belgrano (C)]]
+|-
+|align=center| 12 de marzo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| [[Club Almirante Brown|Almirante Brown]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(2)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Deportivo Armenio|Deportivo Armenio]]'''
+|-bgcolor=#F5FAFF
+|align=center| 23 de marzo ||align=center| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]] ||align=right| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] {{bandera|Ciudad de Buenos Aires}} || align=center| <small>(2)</small> 0 - 0 <small>(4)</small> ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} '''[[Club Sportivo Belgrano|Sportivo Belgrano]]'''
+|}
+</center>
+
+==== Zona 2 ====
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 6 de marzo ||align=center| [[Estadio Monumental Jose Fierro|Monumental Jose Fierro]] ||align=right| '''[[Club Atlético Tucumán|Atlético Tucumán]]''' {{bandera|Provincia de Tucumán}} || align=center| 3 - 1 ||align=left| {{bandera|Provincia de Tucumán}} [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|-
+|align=center| 12 de febrero ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Club Atlético San Martín (San Juan)|San Martín (SJ)]] {{bandera|Provincia de San Juan}} || align=center| <small>(2)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Provincia de San Juan}} '''[[Club Atlético Unión (Villa Krause)|Unión (VK)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 5 de marzo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| [[Club Atlético Ferrocarril Midland|Midland]] {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 3 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Quilmes Atlético Club|Quilmes]]'''
+|-
+|align=center| 20 de febrero ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| [[Club Atlético Rosario Central|Rosario Central]] {{bandera|Provincia de Santa Fe}}|| align="center" | 1 - 2 ||align=left|{{bandera|Provincia de Santa Fe}} '''[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]'''
+|-bgcolor=#F5FAFF
+|align=center| 13 de febrero ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| '''[[Club Atlético All Boys|All Boys]]''' {{bandera|Ciudad de Buenos Aires}} || align=center| 4 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Brown|Brown (A)]]
+|-
+|align=center| 6 de marzo ||align=center| [[Estadio Tres de Febrero|Tres de Febrero]]<ref>{{Enlace roto|1=[http://diagonales.infonews.com/nota-194602-Cambio-el-escenario-del-partido-con-Excursionistas.html Cambió el escenario del partido con Excursionistas] |2=http://diagonales.infonews.com/nota-194602-Cambio-el-escenario-del-partido-con-Excursionistas.html |bot=InternetArchiveBot }}</ref> ||align=right| [[Gimnasia y Esgrima La Plata|Gimnasia (LP)]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(2)</small> 0 - 0 <small>(3)</small> ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético Excursionistas|Excursionistas]]'''
+|}
+</center>
+
+==== Zona 3 ====
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 13 de marzo ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| '''[[Club Atlético Boca Unidos|Boca Unidos]]''' {{bandera|Provincia de Corrientes}} || align=center| 1 - 0||align=left| {{bandera|Provincia de Misiones}} [[Club Jorge Gibson Brown|Jorge Gibson Brown]]
+|-
+|align=center| 20 de febrero ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| [[Club Atlético Colón|Colón]] {{bandera|Provincia de Santa Fe}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Platense|Platense]]'''
+|-bgcolor=#F5FAFF
+|align=center| 23 de marzo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| [[Club y Biblioteca Ramón Santamarina|Santamarina]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|-
+|align=center| 6 de marzo ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| '''[[Club Atlético Huracán|Huracán]]''' {{bandera|Ciudad de Buenos Aires}} || align=center| 5 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Racing Athletic Club|Racing (O)]]
+|-bgcolor=#F5FAFF
+|align=center| 19 de febrero ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| '''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]''' {{bandera|Provincia de Mendoza}} || align=center| <small>(7)</small> 0 - 0 <small>(6)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Chacarita Juniors|Chacarita]]
+|-
+|align=center| 21 de febrero ||align=center| [[Estadio Julio Humberto Grondona|Julio Humberto Grondona]] ||align=right| '''[[Club Olimpo|Olimpo]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia del Chubut}} [[Club Social y Atlético Guillermo Brown|Guillermo Brown]]
+|}
+</center>
+
+==== Zona 4 ====
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 20 de marzo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| [[Club Atlético Patronato de la Juventud Católica|Patronato]] {{bandera|Provincia de Entre Ríos}} || align=center| <small>(9)</small> 2 - 2 <small>(10)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]'''
+|-
+|align=center| 14 de marzo ||align=center| [[Estadio Tres de Febrero|Tres de Febrero]] ||align=right| '''[[Club Atlético Defensores Unidos|Defensores Unidos]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(6)</small> 0 - 0 <small>(5)</small> ||align=left| {{bandera|Ciudad de Buenos Aires}} [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|-
+|align=center| 21 de marzo ||align=center| [[Estadio Julio Humberto Grondona|Julio Humberto Grondona]] ||align=right| '''[[Club Atlético Lanús|Lanús]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Deportivo UAI Urquiza|UAI Urquiza]]
+|-bgcolor=#F5FAFF
+|align=center| 13 de febrero ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| '''[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]''' {{bandera|Provincia de Santa Fe}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Alvarado|Alvarado]]
+|-
+|align=center| 6 de marzo ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Instituto Atlético Central Córdoba|Instituto]] {{bandera|Provincia de Córdoba (Argentina)}} || align=center| 1 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Deportivo Morón|Deportivo Morón]]'''
+|-
+|align=center| 25 de marzo ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| [[Club Atlético Unión (Santa Fe)|Unión]] {{bandera|Provincia de Santa Fe}} || align=center| <small>(7)</small> 1 - 1 <small>(8)</small> ||align=left| {{bandera|Provincia de Entre Ríos}} '''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]'''
+
+|}
+</center>
+
+=== Cuadro de desarrollo ===
+Los 24 equipos que quedaron en competencia se sumaron a los 8 clubes con más campeonatos de Primera División en el profesionalismo (River, Boca, Independiente, San Lorenzo, Vélez, Racing, Estudiantes (LP) y Newell's), haciendo un total de 32 equipos, los que se eliminaron entre sí hasta obtener un ganador por cada una de las zonas, los que disputaron las semifinales, en las que se enfrentaron el ganador de la Zona 1 con el ganador de la Zona 4 y el de la Zona 2 con el de la Zona 3, clasificando a los finalistas.
+
+{{32TeamBracket
+| RD1= Dieciseisavos de final
+| RD2= Octavos de final
+| RD3= Cuartos de final
+| RD4= Semifinales
+| RD5= Final
+| group1=
+| group2=
+| group3=
+| group4=
+| seed-width=
+| team-width=200
+| score-width=50
+
+<!-- Primera Ronda -->
+| RD1-seed01={{bandera|Buenos Aires}}
+| RD1-team01=[[Club Atlético River Plate|River Plate]] 
+| RD1-score01=0
+| RD1-seed02={{bandera|Provincia de Buenos Aires}}  
+| RD1-team02='''[[Club Atlético Estudiantes|Estudiantes (BA)]]'''
+| RD1-score02='''1'''
+
+| RD1-seed03={{bandera|Provincia de Salta}}
+| RD1-team03=[[Centro Juventud Antoniana|Juventud Antoniana]]
+| RD1-score03=0
+| RD1-seed04={{bandera|Provincia de Buenos Aires}}  
+| RD1-team04='''[[Club Atlético Banfield|Banfield]]'''
+| RD1-score04='''1'''
+
+| RD1-seed05={{bandera|Provincia de Córdoba (Argentina)}}
+| RD1-team05='''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score05='''1 <small>(5)</small>'''
+| RD1-seed06= {{bandera|Provincia de Córdoba (Argentina)}}
+| RD1-team06=[[Club Sportivo Belgrano|Sportivo Belgrano]]
+| RD1-score06=1 <small>(3)</small>
+
+| RD1-seed07={{bandera|Provincia de Buenos Aires}}  
+| RD1-team07=[[Club Deportivo Armenio|Deportivo Armenio]]
+| RD1-score07=1
+| RD1-seed08={{bandera|Provincia de Santa Fe}}
+| RD1-team08='''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+| RD1-score08='''2'''
+
+| RD1-seed09={{bandera|Provincia de Buenos Aires}}  
+| RD1-team09=[[Racing Club]] 
+| RD1-score09=0
+| RD1-seed10={{bandera|Provincia de Buenos Aires}}
+| RD1-team10='''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]'''
+| RD1-score10='''1'''
+
+| RD1-seed11={{bandera|Provincia de Entre Ríos}}
+| RD1-team11='''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia (CdU)]]'''
+| RD1-score11='''3'''
+| RD1-seed12= {{bandera|Provincia de Buenos Aires}}
+| RD1-team12= [[Club Atlético Defensores Unidos|Defensores Unidos]]
+| RD1-score12=0
+
+| RD1-seed13={{bandera|Provincia de Buenos Aires}}  
+| RD1-team13= [[Club Atlético Lanús|Lanús]]
+| RD1-score13=0
+| RD1-seed14={{bandera|Provincia de Santa Fe}}
+| RD1-team14='''[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]'''
+| RD1-score14='''1'''
+
+| RD1-seed15={{bandera|Provincia de Buenos Aires}}
+| RD1-team15=[[Club Deportivo Morón|Deportivo Morón]]
+| RD1-score15=0 <small>(2)</small>
+| RD1-seed16={{bandera|Buenos Aires}}
+| RD1-team16='''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score16='''0 <small>(3)</small>'''
+
+| RD1-seed17={{bandera|Provincia de Buenos Aires}}
+| RD1-team17='''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| RD1-score17='''2'''
+| RD1-seed18={{bandera|Provincia de Tucumán}}  
+| RD1-team18=[[Club Atlético Tucumán|Atlético Tucumán]] 
+| RD1-score18=1
+
+| RD1-seed19={{bandera|Provincia de San Juan}}  
+| RD1-team19=[[Club Atlético Unión (Villa Krause)|Unión (VK)]]
+| RD1-score19=0
+| RD1-seed20={{bandera|Provincia de Buenos Aires}}  
+| RD1-team20='''[[Quilmes Atlético Club|Quilmes]]'''
+| RD1-score20='''3'''
+
+| RD1-seed21={{bandera|Provincia de Santa Fe}}
+| RD1-team21=[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+| RD1-score21=0
+| RD1-seed22={{bandera|Buenos Aires}}
+| RD1-team22='''[[Club Atlético All Boys|All Boys]]'''
+| RD1-score22='''2'''
+
+| RD1-seed23={{bandera|Buenos Aires}}
+| RD1-team23=[[Club Atlético Excursionistas|Excursionistas]]
+| RD1-score23=0
+| RD1-seed24={{bandera|Buenos Aires}} 
+| RD1-team24='''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-score24='''4'''
+
+| RD1-seed25={{bandera|Provincia de Buenos Aires}}
+| RD1-team25='''[[Club Atlético Independiente|Independiente]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score25='''1 <small>(4)</small>'''
+| RD1-seed26={{bandera|Corrientes}}
+| RD1-team26=[[Club Atlético Boca Unidos|Boca Unidos]]
+| RD1-score26=1 <small>(2)</small>
+
+| RD1-seed27={{bandera|Provincia de Buenos Aires}} 
+| RD1-team27=[[Club Atlético Platense|Platense]]
+| RD1-score27=1
+| RD1-seed28={{bandera|Provincia de Buenos Aires}}  
+| RD1-team28='''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD1-score28='''3'''
+
+| RD1-seed29={{bandera|Buenos Aires}}
+| RD1-team29=[[Club Atlético Huracán|Huracán]]
+| RD1-score29=0 <small>(3)</small>
+| RD1-seed30={{bandera|Provincia de Mendoza}}
+| RD1-team30='''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score30='''0 <small>(5)</small>'''
+
+| RD1-seed31={{bandera|Provincia de Buenos Aires}}
+| RD1-team31='''[[Club Olimpo|Olimpo]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score31='''0 <small>(4)</small>'''
+| RD1-seed32={{bandera|Buenos Aires}} 
+| RD1-team32=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+| RD1-score32=0 <small>(2)</small>
+
+<!-- Segunda Ronda -->
+| RD2-seed01={{bandera|Provincia de Buenos Aires}}  
+| RD2-team01='''[[Club Atlético Estudiantes|Estudiantes (BA)]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-score01='''1 <small>(6)</small>'''
+| RD2-seed02={{bandera|Provincia de Buenos Aires}}
+| RD2-team02=[[Club Atlético Banfield|Banfield]]
+| RD2-score02=1 <small>(5)</small>
+
+| RD2-seed03={{bandera|Provincia de Córdoba (Argentina)}}
+| RD2-team03='''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+| RD2-score03='''1
+| RD2-seed04={{bandera|Provincia de Santa Fe}}
+| RD2-team04=[[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+| RD2-score04=0
+
+| RD2-seed05={{bandera|Provincia de Buenos Aires}}
+| RD2-team05=[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]
+| RD2-score05=0 <small>(3)</small>
+| RD2-seed06={{bandera|Provincia de Entre Ríos}}
+| RD2-team06='''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia (CdU)]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-score06='''0 <small>(4)</small>'''
+
+| RD2-seed07={{bandera|Provincia de Santa Fe}}
+| RD2-team07=[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| RD2-score07=0
+| RD2-seed08={{bandera|Buenos Aires}}
+| RD2-team08='''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD2-score08='''3'''
+
+| RD2-seed09={{bandera|Provincia de Buenos Aires}}
+| RD2-team09='''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| RD2-score09='''2'''
+| RD2-seed10={{bandera|Provincia de Buenos Aires}}
+| RD2-team10=[[Quilmes Atlético Club|Quilmes]]
+| RD2-score10=1
+
+| RD2-seed11={{bandera|Buenos Aires}}
+| RD2-team11='''[[Club Atlético All Boys|All Boys]]
+| RD2-score11= '''3
+| RD2-seed12={{bandera|Buenos Aires}}
+| RD2-team12=[[Club Atlético Boca Juniors|Boca Juniors]]
+| RD2-score12= 1
+
+| RD2-seed13={{bandera|Provincia de Buenos Aires}}
+| RD2-team13=[[Club Atlético Independiente|Independiente]]
+| RD2-score13=0
+| RD2-seed14={{bandera|Provincia de Buenos Aires}}
+| RD2-team14='''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD2-score14='''1'''
+
+| RD2-seed15={{bandera|Provincia de Mendoza}}
+| RD2-team15='''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]''' 
+| RD2-score15='''3'''
+| RD2-seed16={{bandera|Provincia de Buenos Aires}}
+| RD2-team16=[[Club Olimpo|Olimpo]]
+| RD2-score16=2
+
+<!-- Cuartos de Final -->
+| RD3-seed01={{bandera|Provincia de Buenos Aires}}
+| RD3-team01='''[[Club Atlético Estudiantes|Estudiantes (BA)]]'''
+| RD3-score01='''1'''
+| RD3-seed02={{bandera|Provincia de Córdoba (Argentina)}}
+| RD3-team02=[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+| RD3-score02=0
+
+| RD3-seed03={{bandera|Provincia de Entre Ríos}}
+| RD3-team03=[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia (CdU)]]
+| RD3-score03=0
+| RD3-seed04={{bandera|Buenos Aires}}
+| RD3-team04='''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+| RD3-score04='''2'''
+
+| RD3-seed05={{bandera|Provincia de Buenos Aires}}
+| RD3-team05=[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| RD3-score05=0
+| RD3-seed06={{bandera|Buenos Aires}}
+| RD3-team06='''[[Club Atlético All Boys|All Boys]]'''
+| RD3-score06='''1
+
+| RD3-seed07={{bandera|Provincia de Buenos Aires}}
+| RD3-team07='''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD3-score07='''1
+| RD3-seed08={{bandera|Provincia de Mendoza}}
+| RD3-team08=[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| RD3-score08=0
+
+<!-- Semifinales -->
+| RD4-seed01={{bandera|Provincia de Buenos Aires}}
+| RD4-team01=[[Club Atlético Estudiantes|Estudiantes (BA)]]
+| RD4-score01=1 <small>(4)</small>
+| RD4-seed02={{bandera|Buenos Aires}}
+| RD4-team02='''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD4-score02='''1 <small>(5)</small>'''
+
+| RD4-seed03={{bandera|Buenos Aires}}
+| RD4-team03=[[Club Atlético All Boys|All Boys]]
+| RD4-score03=1 <small>(4)</small>
+| RD4-seed04={{bandera|Provincia de Buenos Aires}}
+| RD4-team04='''[[Arsenal Fútbol Club|Arsenal]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD4-score04='''1 <small>(5)</small>'''
+
+<!-- Final -->
+| RD5-seed01={{bandera|Buenos Aires}} 
+| RD5-team01=[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| RD5-score01= 0
+| RD5-seed02={{bandera|Provincia de Buenos Aires}}
+| RD5-team02='''[[Arsenal Fútbol Club|Arsenal]]'''
+| RD5-score02= '''3'''
+}}
+
+=== Dieciseisavos de final ===
+{{AP|Anexo:Dieciseisavos de final de la Copa Argentina 2012-13}}
+A los 8 equipos de Primera División con más campeonatos obtenidos en el profesionalismo, preclasificados de manera directa, se agregaron los 24 ganadores de la ronda previa, en cada una de las 4 zonas. Los 32 equipos se eliminaron para determinar a los ganadores que pasaron a las semifinales de zona. Estos partidos se disputaron entre el 21 de marzo y el 22 de mayo de 2013.
+
+==== Zona 1 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 24 de abril ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right|[[Club Atlético River Plate|River Plate]] {{bandera|Ciudad de Buenos Aires}}|| align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Estudiantes|Estudiantes (BA)]]'''
+|-
+|align=center| 8 de mayo ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| [[Centro Juventud Antoniana|Juventud Antoniana]] {{bandera|Provincia de Salta}}  || align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Atlético Banfield|Banfield]]'''
+|-bgcolor=#F5FAFF
+|align=center| 9 de mayo ||align=center| [[Estadio Mario Alberto Kempes|Mario Alberto Kempes]] ||align=right| '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}} || align=center| <small>(5)</small> 1 - 1 <small>(3)</small>||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Club Sportivo Belgrano|Sportivo Belgrano]]
+|-
+|align=center| 27 de marzo ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| [[Club Deportivo Armenio|Deportivo Armenio]] {{bandera|Provincia de Buenos Aires}}|| align=center| 1 - 2 ||align=left|{{bandera|Santa Fe}} '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+|}
+</center>
+
+==== Zona 2 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 2 de mayo ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left|{{bandera|Provincia de Tucumán}} [[Club Atlético Tucumán|Atlético Tucumán]]
+|-
+|align=center| 27 de marzo ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Club Atlético Unión (Villa Krause)|Unión (VK)]] {{bandera|Provincia de San Juan}}|| align=center| 0 - 3 ||align=left|{{bandera|Provincia de Buenos Aires}} '''[[Quilmes Atlético Club|Quilmes]]'''
+|-bgcolor=#F5FAFF
+|align=center| 24 de abril ||align=center| [[Estadio Tres de Febrero|Tres de Febrero]]  ||align=right| [[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]] {{bandera|Santa Fe}}|| align="center" | 0 - 2 ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético All Boys|All Boys]]'''
+|-
+|align=center| 21 de marzo ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| [[Club Atlético Excursionistas|Excursionistas]] {{bandera|Ciudad de Buenos Aires}} || align=center| 0 - 4 || align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|}
+</center>
+
+==== Zona 3 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 22 de mayo ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right|'''[[Club Atlético Independiente|Independiente]]''' {{bandera|Provincia de Buenos Aires}}|| align=center| <small>(4)</small> 1 - 1 <small>(2)</small> ||align=left| {{bandera|Corrientes}} [[Club Atlético Boca Unidos|Boca Unidos]]
+|-
+|align=center| 21 de mayo ||align=center| [[Estadio Florencio Sola|Florencio Sola]] ||align=right|[[Club Atlético Platense|Platense]]{{bandera|Provincia de Buenos Aires}}  || align=center| 1 - 3 ||align=left|{{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|-bgcolor=#F5FAFF
+|align=center| 17 de abril ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Club Atlético Huracán|Huracán]] {{bandera|Ciudad de Buenos Aires}} || align=center| <small>(3)</small> 0 - 0 <small>(5)</small>  ||align=left|{{bandera|Provincia de Mendoza}} '''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]'''
+|-
+|align=center| 17 de abril ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]]  ||align=right| '''[[Club Olimpo|Olimpo]]''' {{bandera|Provincia de Buenos Aires}} || align=center| <small>(4)</small> 0 - 0 <small>(2)</small> ||align=left|{{bandera|Ciudad de Buenos Aires}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|}
+</center>
+
+==== Zona 4 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 24 de abril ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right|[[Racing Club]] {{bandera|Provincia de Buenos Aires}}|| align=center| 0 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} '''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]'''
+|-
+|align=center| 2 de mayo  ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| '''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]''' {{bandera|Provincia de Entre Ríos}} || align=center| 3 - 0 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Defensores Unidos|Defensores Unidos]]
+|-bgcolor=#F5FAFF
+|align=center| 17 de abril ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]]  ||align=right| [[Club Atlético Lanús|Lanús]] {{bandera|Provincia de Buenos Aires}}|| align=center| 0 - 1 ||align=left| {{bandera|Provincia de Santa Fe}} '''[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]'''
+|-
+|align=center| 15 de mayo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]] ||align=right| [[Club Deportivo Morón|Deportivo Morón]] {{bandera|Provincia de Buenos Aires}} || align=center| <small>(2)</small> 0 - 0 <small>(3)</small>  ||align=left|{{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|}
+</center>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Argentina 2012-13}}
+En los octavos de final o semifinales de zona se eliminaron 16 equipos para determinar a los 8 ganadores que pasaron a las finales de zona. Estos partidos se disputaron entre el 14 de mayo y el 23 de julio de 2013.<ref>{{Cita web |url=http://www.copaargentina.org/es/noticias/2990_Estudiantes-LP-Quilmes-culminara-con-los-Octavos-a-fines-de-julio.html |título=''Estudiantes (LP)-Quilmes jugarán el martes 23 de julio en Chaco'' |fechaacceso=9 de julio de 2013 |urlarchivo=https://web.archive.org/web/20130712014917/http://www.copaargentina.org/es/noticias/2990_Estudiantes-LP-Quilmes-culminara-con-los-Octavos-a-fines-de-julio.html |fechaarchivo=12 de julio de 2013 }}</ref>
+
+==== Zona 1 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 29 de mayo ||align=center| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]  ||align=right| '''[[Club Atlético Estudiantes|Estudiantes (BA)]]''' {{bandera|Provincia de Buenos Aires}} || align=center|  <small>(6)</small> 1 - 1 <small>(5)</small> ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Atlético Banfield|Banfield]]
+|-
+|align=center| 19 de junio ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]''' {{bandera|Provincia de Córdoba (Argentina)}}|| align=center| 1 - 0 ||align=left| {{bandera|Santa Fe}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|}
+</center>
+
+==== Zona 2 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 23 de julio ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 2 - 1 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Quilmes Atlético Club|Quilmes]]
+|-
+|align=center| 19 de junio ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| '''[[Club Atlético All Boys|All Boys]]''' {{bandera|Ciudad de Buenos Aires}} || align=center| 3 - 1 || align="left" | {{bandera|Ciudad de Buenos Aires}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|}
+</center>
+
+==== Zona 3 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 12 de junio ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]] ||align=right| [[Club Atlético Independiente|Independiente]] {{bandera|Provincia de Buenos Aires}} || align=center| 0 - 1 ||align=left|{{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|-
+|align=center| 22 de mayo ||align=center|  [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right|  '''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]''' {{bandera|Provincia de Mendoza}}|| align=center| 3 - 2 ||align=left| {{bandera|Provincia de Buenos Aires}} [[Club Olimpo|Olimpo]]
+|}
+</center>
+
+==== Zona 4 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 14 de mayo ||align=center| [[Estadio Julio Humberto Grondona|Julio Humberto Grondona]] ||align=right| [[Club Social y Deportivo Tristán Suárez|Tristán Suárez]] {{bandera|Provincia de Buenos Aires}}|| align=center| <small>(3)</small> 0 - 0 <small>(4)</small>   ||align=left| {{bandera|Provincia de Entre Ríos}} '''[[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]]'''
+|-
+|align=center| 19 de junio ||align=center| [[Estadio Ingeniero Hilario Sánchez|Ingeniero Hilario Sánchez]] ||align=right|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]] {{bandera|Provincia de Santa Fe}}|| align=center| 0 - 3 ||align=left| {{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|}
+</center>
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Argentina 2012-13}}
+Los ganadores de las semifinales de zona se eliminaron para determinar a los semifinalistas del torneo. Estos partidos se disputaron entre el 7 de agosto y el 28 de agosto de 2013.
+
+==== Zona 1 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 7 de agosto ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| '''[[Club Atlético Estudiantes|Estudiantes (BA)]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Córdoba (Argentina)}} [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|}
+</center>
+
+==== Zona 2 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 14 de agosto ||align=center|  [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Club Estudiantes de La Plata|Estudiantes (LP)]] {{bandera|Provincia de Buenos Aires}}|| align=center| 0 - 1 ||align=left|{{bandera|Ciudad de Buenos Aires}} '''[[Club Atlético All Boys|All Boys]]'''
+|}
+</center>
+
+==== Zona 3 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 28 de agosto ||align=center|  [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| '''[[Arsenal Fútbol Club|Arsenal]]''' {{bandera|Provincia de Buenos Aires}} || align=center| 1 - 0 ||align=left| {{bandera|Provincia de Mendoza}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|}
+</center>
+
+==== Zona 4 ====
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 13 de agosto ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| [[Club Gimnasia y Esgrima (Concepción del Uruguay)|Gimnasia y Esgrima (CdU)]] {{bandera|Provincia de Entre Ríos}} || align=center| 0 - 2 ||align=left| {{bandera|Buenos Aires}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|}
+</center>
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Argentina 2012-13}}
+Los 4 equipos ganadores de las finales de zona se eliminaron para determinar a los finalistas del torneo. Estos partidos se disputaron el 18 de septiembre y el 2 de octubre de 2013.
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 18 de septiembre ||align=center| [[Estadio Centenario (Resistencia)|Centenario de Resistencia]] ||align=right| [[Club Atlético Estudiantes|Estudiantes (BA)]] {{bandera|Provincia de Buenos Aires}} || align=center|<small>(4)</small> 1 - 1 <small>(5)</small>||align=left| {{bandera|Buenos Aires}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|-
+|align=center| 2 de octubre ||align=center| [[Estadio San Juan del Bicentenario|San Juan del Bicentenario]] ||align=right| [[Club Atlético All Boys|All Boys]] {{bandera|Ciudad de Buenos Aires}} || align=center| <small>(4)</small> 1 - 1 <small>(5)</small> ||align=left|  {{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|}
+</center>
+
+=== Final ===
+
+{{AP|Anexo:Final de la Copa Argentina 2012-13}}
+
+Los dos equipos ganadores de las semifinales se enfrentaron, el 16 de octubre de 2013, en el partido final para determinar al campeón. El ganador fue [[Arsenal Fútbol Club|Arsenal]], que obtuvo el derecho a disputar la [[Supercopa Argentina 2013]] contra [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]], campeón del [[Campeonato de Primera División 2012-13 (Argentina)#Final del campeonato|Campeonato de Primera División 2012-13]] y la clasificación a la segunda fase de la [[Copa Libertadores 2014]].
+
+<center>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|Fecha
+!width=26%|Estadio
+!width=25%|Equipo 1
+!width=9%|Resultado
+!width=25%|Equipo 2
+|-bgcolor=#F5FAFF
+|align=center| 16 de octubre ||align=center| [[Estadio Bicentenario Ciudad de Catamarca|Bicentenario Ciudad de Catamarca]]<ref>{{Cita web |url=http://www.copaargentina.org/es/noticias/2350_Catamarca-comienza-a-vivir-los-24avos.html |título=Brumec afima "la final del torneo federal se disputará en Catamarca - Copa Argentina |fechaacceso=27 de enero de 2013 |urlarchivo=https://web.archive.org/web/20130201074000/http://www.copaargentina.org/es/noticias/2350_Catamarca-comienza-a-vivir-los-24avos.html |fechaarchivo=1 de febrero de 2013 }}</ref> || align="right" | [[Club Atlético San Lorenzo de Almagro|San Lorenzo]] {{bandera|Buenos Aires}} || align="center" |0 - 3||align=left|{{bandera|Provincia de Buenos Aires}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|}
+</center>
+== Goleadores ==
+{{AP|Anexo:Goleadores de la Copa Argentina 2012-13}}
+{| align=center cellpadding="2" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=55%
+|- align=center bgcolor=#006699 style="color:white;"
+!width=30%|Jugador
+!width=30%|Equipo
+!width=10%|Goles
+|- bgcolor=#D0E7FF
+|{{bandera|ARG}} '''[[Daniel Bazán Vera]]''' ||'''[[Club Social y Deportivo Tristán Suárez|Tristán Suárez]]'''|| align=center|'''5'''
+|- bgcolor=
+|{{bandera|ARG}} [[Damián Akerman]] ||[[Club Deportivo Morón|Deportivo Morón]]|| align=center |4
+|- bgcolor=
+|{{bandera|ARG}} [[Joaquín Cabral]] ||[[Club Social y Deportivo General Roca|Deportivo Roca]]|| align=center |4
+|- bgcolor=
+|{{bandera|ARG}} [[David Neyra]] ||[[Club Atlético Américo Tesorieri|Américo Tesorieri]]|| align=center |4
+|- bgcolor=
+|{{bandera|ARG}} [[Ignacio Piatti]] ||[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]|| align=center |4
+|- bgcolor=
+|{{bandera|ARG}} [[Martín Prost]] ||[[Comisión de Actividades Infantiles|CAI]]|| align=center |4
+|- bgcolor=
+|{{bandera|ARG}} [[Daniel Segovia]] ||[[Asociación Civil Club Deportivo Cruz del Sur|Cruz del Sur]]|| align=center |4
+|}
+
+== Véase también ==
+* [[Asociación del Fútbol Argentino]]
+* [[Fútbol Argentino]]
+* [[Anexo:Competiciones oficiales del fútbol argentino|Competiciones oficiales del fútbol argentino]]
+
+== Notas y referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* {{Portal|Deporte en Argentina}}
+* [http://www.afa.org.ar/ Sitio oficial de la AFA]
+* [http://www.copaargentina.org/ Sitio oficial de la Copa Argentina]
+* [http://www.afa.org.ar/images/stories/4699_10.10.2012_Reglamento_Copa_Argentina_2012-2013_1.pdf Reglamento oficial de la Copa Argentina 2012/2013]
+
+{{ sucesión
+| predecesor = [[Copa Argentina 2011-12]]
+| título = IV [[Copa Argentina]]
+| período = '''2012-13'''
+| sucesor = [[Copa Argentina 2013-14]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Argentina de fútbol]]
+[[Categoría:Fútbol en Argentina en 2012]]
+[[Categoría:Fútbol en Argentina en 2013]]

@@ -1,0 +1,924 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = River Plate campeón de América 1986.png
+| imagen_tamaño = 300px
+| imagen_pie = El [[Club Atlético River Plate]], de Argentina, se consagró campeón de la [[Copa Libertadores de América]] por 1.ª vez
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 19 de 9 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|12|3|1986}}<br>{{fecha2|29|10|1986}}
+| edición = XXVII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|COL}} [[América de Cali]]
+| semifinalistas = {{bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br>{{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]<br> {{bandera|PAR|1954}} [[Club Olimpia|Olimpia]] <br> {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| titulotercero = Semifinalistas
+| partidos = 65
+| goles = 170 (2,61 por partido)
+| anterior = [[Copa Libertadores 1985]]
+| actual = Copa Libertadores 1986
+| siguiente = [[Copa Libertadores 1987]]
+|goleador={{bandera|URU}} [[Juan Carlos de Lima]] (9 goles)<br><small>([[Sociedad Deportivo Quito|Deportivo Quito]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1986''' fue la vigésima séptima edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de nueve países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]] y [[Uruguay]]. En esta oportunidad, no participó ningún representante de [[Venezuela]], ya que la [[Federación Venezolana de Fútbol|federación de aquel país]] se encontraba suspendida por la [[FIFA]] debido a irregularidades en su administración.
+
+El campeón fue [[Club Atlético River Plate|River Plate]] de Argentina, que alcanzó de esta manera su primer título en la competición. Por ello, disputó la [[Copa Intercontinental 1986]] ante [[Steaua de Bucarest]] de [[Rumania]], y la [[Copa Interamericana 1987]] contra [[Liga Deportiva Alajuelense|Alajuelense]] de [[Costa Rica]]. Además, clasificó a la segunda fase de la [[Copa Libertadores 1987]].<ref>{{Cita web|url=https://web.archive.org/web/20110531170248/http://www.sitioriverplatense.com.ar/lib86.htm|título=Copa Libertadores de Am�rica 1986|fechaacceso=2025-05-12|fecha=2011-05-31|sitioweb=web.archive.org}}</ref><ref>{{Cita web|url=https://www.zerozero.com.ar/edicion/copa-libertadores-1986/12247|título=Copa Libertadores 1986 - Partidos, Posiciones y Estadísticas|fechaacceso=2025-05-12|sitioweb=www.zerozero.com.ar|idioma=es-AR}}</ref>
+
+== Formato ==
+El campeón vigente accedió de manera directa a la segunda fase, mientras que los 18 equipos restantes disputaron la primera. En ella, los clubes fueron divididos en cinco grupos, cuatro conformado por 4 equipos y el restante compuesto por solamente 2, distribuidos de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. El ganador de cada uno de los cinco grupos clasificó a la segunda fase, uniéndose al campeón vigente, estableciéndose dos zonas de 3 equipos. El primer posicionado en cada una de ellas accedió a la final, que se llevó a cabo en encuentros de ida y vuelta, disputándose un partido de desempate en caso de ser necesario.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(18 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile,<br>Colombia, Ecuador, Paraguay, Perú y Uruguay
+|
+|-
+! colspan="2" |Segunda fase
+(6 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1985
+|
+* 5 equipos primeros de la Primera fase
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos primeros de la Segunda fase
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+!width=10%|País
+!width=12%|Equipo
+!width=78%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos + campeón<br>vigente</small>
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Boca Juniors|Boca Juniors]]
+|Campeón de la [[Copa Libertadores 1985]]<br>Campeón del [[Campeonato de Primera División 1985-86 (Argentina)|Campeonato de Primera División 1985-86]]<br>Ganador de la [[Campeonato de Primera División 1985-86 (Argentina)#Torneo de clasificación a la Copa Libertadores|Liguilla Pre-Libertadores 1985-86]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Bolívar|Bolívar]]<br>[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|Campeón del [[Campeonato de Primera División 1985 (Bolivia)|Campeonato de Primera División 1985]]<br>Subcampeón del Campeonato de Primera División 1985
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil|1968}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|''[[Coritiba Foot Ball Club|Coritiba]]''<br>''[[Bangu Atlético Clube|Bangu]]''
+|Campeón del [[Campeonato Brasileño de Fútbol 1985|Campeonato Brasileño de 1985]]<br>Subcampeón del Campeonato Brasileño de 1985
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|''[[Club de Deportes Cobresal|Cobresal]]''<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Ganador de la [[Primera División de Chile 1985#Clasificación a la Copa Libertadores 1986|serie de partidos entre el campeón del Campeonato de Primera División 1985 y el subcampeón del Campeonato de Primera División 1984]]<br>Ganador de la [[Liguilla Pre-Libertadores 1985 (Chile)|Liguilla Pre-Libertadores 1985]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[América de Cali]]<br>[[Deportivo Cali]]
+|Campeón del [[Campeonato colombiano 1985|Campeonato Colombiano 1985]]<br>Subcampeón del Campeonato Colombiano 1985
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>[[Sociedad Deportivo Quito|Deportivo Quito]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1985|Campeonato Ecuatoriano de 1985]]<br>Subcampeón del Campeonato Ecuatoriano de 1985
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Nacional (Paraguay)|Nacional]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1985|Campeonato Paraguayo de 1985]]<br>Subcampeón del Campeonato Paraguayo de 1985
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Universitario de Deportes|Universitario]]<br>''[[Club Universidad Técnica de Cajamarca|UTC]]''
+|Campeón del [[Campeonato Descentralizado 1985]]<br>Subcampeón del Campeonato Descentralizado 1985
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Club Atlético Peñarol|Peñarol]]<br>[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|1.º puesto de la [[Liguilla Pre-Libertadores de América de 1985]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1985
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1986'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Jorge Wilstermann|{{Esd|Jorge Wilstermann}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Bangu Atlético Clube|Bangu]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small>[[Coritiba Foot Ball Club|Coritiba]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-26.25|long=-69.616667|label=<small>[[Club de Deportes Cobresal|Cobresal]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]<br>[[Deportivo Cali|{{Esd|Deportivo Cali}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Sociedad Deportivo Quito|{{Esd|Deportivo Quito}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Nacional (Paraguay)|Nacional]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-7.164444|long=-78.510556|label=<small>[[Club Universidad Técnica de Cajamarca|{{Esd|UTC}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Universitario de Deportes|Universitario]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Montevideo Wanderers Fútbol Club|{{Esd|Montevideo Wanderers}}]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+
+== Primera fase ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''11'''||6||5||1||0||13||4||9
+|- align="center"
+|style="text-align:left;"|{{bandera|URU}} [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|'''6'''||6||3||0||3||10||10||0
+|- align="center"
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''6'''||6||2||2||2||7||8||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|'''1'''||6||0||1||5||4||12||–8
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|9 de julio
+|[[Buenos Aires]]
+| align=right| [[Club Atlético Boca Juniors|Boca Juniors]]
+| '''1:1'''
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de julio 
+|[[Montevideo]]
+| align=right| '''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+| 3:1
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de julio 
+|[[Montevideo]]
+| align=right| [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+|0:2
+| align=left| '''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|17 de julio 
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|1:2
+| align=left| '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de julio 
+|[[Montevideo]]
+| align=right| '''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+|2:0
+| align=left| [[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de julio 
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|0:2
+| align=left| '''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|29 de julio 
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|0:1
+| align=left| '''[[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]'''
+
+|- align=center bgcolor=#F5FAFF
+|1 de agosto 
+|[[Buenos Aires]]
+| align=right| [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''1:1'''
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de agosto 
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|3:1
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de agosto 
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|3:2
+| align=left| [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de agosto 
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|4:2
+| align=left| [[Montevideo Wanderers Fútbol Club|Montevideo Wanderers]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de agosto 
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|1:0
+| align=left| [[Club Atlético Boca Juniors|Boca Juniors]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''9'''||6||4||1||1||12||7||5
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''6'''||6||3||0||3||11||8||3
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+|'''6'''||6||3||0||3||9||11||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Club Universidad Técnica de Cajamarca|UTC]]
+|'''3'''||6||1||1||4||7||13||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|27 de abril 
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+| 2:0
+| align=left| [[Club Universidad Técnica de Cajamarca|UTC]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de abril 
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+| 2:0
+| align=left| [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de mayo 
+|[[Cochabamba]]
+| align=right| '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|4:0
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de mayo 
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|2:1
+| align=left| [[Club Universidad Técnica de Cajamarca|UTC]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de mayo 
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|4:0
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de mayo 
+|[[Cochabamba]]
+| align=right| '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|2:0
+| align=left| [[Club Universidad Técnica de Cajamarca|UTC]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de mayo 
+|[[Cochabamba]]
+| align=right| [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|1:2
+| align=left| '''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#F5FAFF
+|18 de mayo 
+|[[Cajamarca]]
+| align=right| [[Club Universidad Técnica de Cajamarca|UTC]]
+|1:3
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de mayo 
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|3:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de mayo 
+|[[Cajamarca]]
+| align=right| [[Club Universidad Técnica de Cajamarca|UTC]]
+|'''2:2'''
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de mayo 
+|[[Lima]]
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|1:2
+| align=left| '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+
+|- align=center bgcolor=#F5FAFF
+|28 de mayo 
+|[[Cajamarca]]
+| align=right| '''[[Club Universidad Técnica de Cajamarca|UTC]]'''
+|3:2
+| align=left| [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''8'''||6||2||4||0||7||5||2
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BRA|1968}} [[Coritiba Foot Ball Club|Coritiba]]
+|'''7'''||6||2||3||1||8||5||3
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''7'''||6||2||3||1||12||11||1
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BRA|1968}} [[Bangu Atlético Clube|Bangu]]
+|'''2'''||6||0||2||4||6||12||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|20 de abril 
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+| '''3:3'''
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de abril 
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+| '''1:1'''
+| align=left| [[Coritiba Foot Ball Club|Coritiba]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de abril 
+|[[Quito]]
+| align=right| '''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|2:1
+| align=left| [[Coritiba Foot Ball Club|Coritiba]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de mayo 
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|1:0
+| align=left| [[Bangu Atlético Clube|Bangu]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de mayo 
+|[[Quito]]
+| align=right| '''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|3:1
+| align=left| [[Bangu Atlético Clube|Bangu]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de mayo 
+|[[Río de Janeiro]]
+| align=right| [[Bangu Atlético Clube|Bangu]]
+|'''1:1'''
+| align=left| [[Coritiba Foot Ball Club|Coritiba]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de julio 
+|[[Río de Janeiro]]
+| align=right| [[Bangu Atlético Clube|Bangu]]
+|1:2
+| align=left| '''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center bgcolor=#F5FAFF
+|18 de julio 
+|[[Curitiba]]
+| align=right| [[Coritiba Foot Ball Club|Coritiba]]
+|'''0:0'''
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de julio 
+|[[Río de Janeiro]]
+| align=right| [[Bangu Atlético Clube|Bangu]]
+|'''3:3'''
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de julio 
+|[[Curitiba]]
+| align=right| '''[[Coritiba Foot Ball Club|Coritiba]]'''
+|3:1
+| align=left| [[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de julio 
+|[[Curitiba]]
+| align=right| '''[[Coritiba Foot Ball Club|Coritiba]]'''
+|2:0
+| align=left| [[Bangu Atlético Clube|Bangu]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de julio 
+|[[Quito]]
+| align=right| [[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''0:0'''
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[América de Cali]]'''
+|'''9'''||6||3||3||0||8||4||4
+|- align="center"
+|style="text-align:left;"|{{bandera|COL}} [[Deportivo Cali]]
+|'''7'''||6||2||3||1||8||5||3
+|- align="center"
+|style="text-align:left;"|{{bandera|CHI}} [[Club de Deportes Cobresal|Cobresal]]
+|'''7'''||6||1||5||0||6||5||1
+|- align="center"
+|style="text-align:left;"|{{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''1'''||6||0||1||5||5||13||–8
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|12 de marzo 
+|[[Cali]]
+| align=right| [[América de Cali]]
+| '''0:0'''
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo 
+|[[Cali]]
+| align=right| [[América de Cali]]
+| '''0:0'''
+| align=left| [[Club de Deportes Cobresal|Cobresal]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo 
+|[[Cali]]
+| align=right| [[Deportivo Cali]]
+|'''1:1'''
+| align=left| [[Club de Deportes Cobresal|Cobresal]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo 
+|[[El Salvador (Chile)|El Salvador]]
+| align=right| [[Club de Deportes Cobresal|Cobresal]]
+|'''1:1'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril 
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:1
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril 
+|[[Cali]]
+| align=right| '''[[Deportivo Cali]]'''
+|3:1
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril 
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|0:1
+| align=left| '''[[Club de Deportes Cobresal|Cobresal]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril 
+|[[Cali]]
+| align=right| [[Deportivo Cali]]
+|0:1
+| align=left| '''[[América de Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|15 de abril 
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|1:3
+| align=left| '''[[Deportivo Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|18 de abril 
+|[[El Salvador (Chile)|El Salvador]]
+| align=right| [[Club de Deportes Cobresal|Cobresal]]
+|'''2:2'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de abril 
+|[[El Salvador (Chile)|El Salvador]]
+| align=right| [[Club de Deportes Cobresal|Cobresal]]
+|'''1:1'''
+| align=left| [[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de abril 
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|1:3
+| align=left| '''[[América de Cali]]'''
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1954}} '''[[Club Olimpia|Olimpia]]'''
+|'''4'''||2||2||0||0||5||2||3
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Nacional (Paraguay)|Nacional]]
+|'''0'''||2||0||0||2||2||5||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|6 de agosto 
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+|3:1
+| align=left| [[Club Nacional (Paraguay)|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de agosto 
+|[[Asunción]]
+| align=right| [[Club Nacional (Paraguay)|Nacional]]
+|1:2
+| align=left| '''[[Club Olimpia|Olimpia]]'''
+|}
+|}
+
+== Segunda fase ==
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''5'''||4||2||1||1||7||3||4
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''5'''||4||2||1||1||3||1||2
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''2'''||4||1||0||3||2||8||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|4 de septiembre
+|[[Buenos Aires]]
+| align=right| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| '''0:0'''
+| align=left| [[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de septiembre
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+| 1:0
+| align=left| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de septiembre
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|0:3
+| align=left| '''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de septiembre
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético River Plate|River Plate]]'''
+|4:1
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de septiembre
+|[[Buenos Aires]]
+| align=right| [[Club Atlético River Plate|River Plate]]
+|0:2
+| align=left| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|30 de septiembre
+|[[Buenos Aires]]
+| align=right| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|1:0
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|3 de octubre
+|[[Buenos Aires]]
+|align=right|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''0:0'''  ([[Prórroga|t.s.]])
+|align=left|[[Club Atlético River Plate|River Plate]]
+|- align=center bgcolor=#F5FAFF
+|colspan=5|<small>River Plate clasificó a la final por haber tenido mejor diferencia de goles en la Segunda fase.</small>
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[América de Cali]]'''
+|'''5'''||4||2||1||1||4||4||0
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+|'''4'''||4||1||2||1||5||4||1
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''3'''||4||1||1||2||5||6||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|11 de septiembre
+|[[Asunción]]
+| align=right| '''[[Club Olimpia|Olimpia]]'''
+| 3:1
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de septiembre
+|[[Asunción]]
+| align=right| [[Club Olimpia|Olimpia]]
+| '''1:1'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de septiembre
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|2:0
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de septiembre
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:1
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de septiembre
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left| [[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de octubre
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|1:0
+| align=left| [[Club Olimpia|Olimpia]]
+|}
+|}
+
+== Final ==
+{{AP|Anexo:Final de la Copa Libertadores 1986|l1=Final de la Copa Libertadores 1986}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 1:2''' (0:2)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 22 de octubre de 1986
+|hora            = 
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 48&nbsp;600
+|árbitro         = {{árbitro|URU|Juan Daniel Cardellino}}
+|goleslocal      = [[Roberto Cabañas|Cabañas]] {{gol|46}}
+|golesvisita     = [[Juan Gilberto Funes|Funes]] {{gol|22}}<br>[[Norberto Alonso|Alonso]] {{gol|25}}
+|reporte         = https://www.livefutbol.com/cronica/copa-libertadores-1986-finale-america-de-cali-river-plate/
+|competición=Ida}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 29 de octubre de 1986
+|hora            = 
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 86.000
+|árbitro         = {{árbitro|BRA|var=1968|José Roberto Wright}}
+|goleslocal      = [[Juan Gilberto Funes|Funes]] {{gol|68}}
+|golesvisita     = 
+|reporte         = https://www.livefutbol.com/cronica/copa-libertadores-1986-finale-river-plate-america-de-cali/
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club Atlético River Plate|River Plate]]
+|bandera = Argentina
+|orden = 1
+|logo=}}
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Uruguay}} '''[[Juan Carlos de Lima]]'''
+|{{bandera|Ecuador|1900}} '''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|align=center|'''9'''
+|- 
+|{{bandera|Argentina}} [[Juan Carlos Sánchez Frías|Juan Carlos Sánchez]]
+|{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|align=center|8
+|- 
+|{{bandera|Bolivia}} [[Fernando Salinas|Luis Fernando Salinas]]
+|{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|align=center|7
+|- 
+|{{bandera|Argentina}} [[Ramón Centurión]]
+|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+|align=center|7
+|- 
+|{{bandera|Uruguay}} [[Antonio Alzamendi]]
+|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+|align=center|6
+|- 
+|{{bandera|Brasil|1968}} [[Severino Vasconcelos]]
+|{{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+|align=center|6
+|- 
+|{{bandera|Argentina}} [[Ricardo Gareca]]
+|{{bandera|Colombia}} [[América de Cali]]
+|align=center|5
+|- 
+|{{bandera|Argentina}} [[Miguel Oswaldo González|Miguel González]]{{refn|group=n.|La [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] le adjudica a Miguel González sólo 4 goles, ya que no le contabiliza un gol en el partido Universidad Católica 1-3 Deportivo Cali, por el Grupo 4 de la primera fase, que sí es considerado por otras fuentes.<ref>[https://www.livefutbol.com/cronica/copa-libertadores-1986-gruppe-4-universidad-catolica-deportivo-cali/ Ficha de Universidad Católica 1-3 Deportivo Cali] en livefutbol.com</ref>}}
+|{{bandera|Colombia}} [[Deportivo Cali]]
+|align=center|5
+|- 
+|{{bandera|Perú}} [[Juan Caballero Lora]]
+|{{bandera|Perú}} [[Club Universitario de Deportes|Universitario]]
+|align=center|4
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1986]]
+* [[Copa Interamericana 1986]]
+
+== Notas ==
+{{Listaref|grupo=n.}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa86.html Copa Libertadores 1986] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [https://web.archive.org/web/20100330011935/http://www.elgrafico.com.ar/coberturas-historicas/1986-river-gana-la-copa-libertadores.php Las diez razones del ganador] en Revista [[El Gráfico]]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1985|1985]]
+| título     = Copa Libertadores 1986
+| período    = XXVII edición
+| sucesor    = [[Copa Libertadores 1987|1987]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1986]]
+[[Categoría:Temporadas de la Copa Libertadores|1986]]
+[[Categoría:Fútbol en 1986]]

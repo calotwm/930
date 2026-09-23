@@ -1,0 +1,1023 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Argentinos festeja copa.jpg
+| imagen_tamaño = 300px
+| imagen_pie = La [[Asociación Atlética Argentinos Juniors]], de Argentina, se consagró campeón de la [[Copa Libertadores de América]] por 1.ª vez
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|3|3|1985}}
+| fecha de cierre = {{fecha2|24|10|1985}}
+| edición = XXVI
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = {{nowrap|'''{{bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]''' <small>({{ord|1.|er}} título)</small>}}
+| subcampeón = {{bandera|COL}} [[América de Cali]]
+| semifinalistas = {{bandera|ARG}} [[Club Atlético Independiente|Independiente]]<br>{{bandera|BOL}} [[Club Blooming|Blooming]]<br>{{bandera|ECU|1900}} [[Club Deportivo El Nacional|El Nacional]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 74
+| goles = 183 (2,47 por partido)
+| goleador = {{bandera|ARG}} [[Juan Carlos Sánchez Frías|Juan Carlos Sánchez]] (11 goles)<br><small>([[Club Blooming|Blooming]])</small>
+| anterior = [[Copa Libertadores 1984]]
+| actual = Copa Libertadores 1985
+| siguiente = [[Copa Libertadores 1986]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1985''' fue la vigésima sexta edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], que logró su primer título en la competición en su primera participación. Gracias a él, disputó la [[Copa Intercontinental 1985]] ante [[Juventus de Turín|Juventus]] de [[Italia]], y la [[Copa Interamericana 1986]] frente a [[Defence Force]] de [[Trinidad y Tobago]]. Asimismo, se clasificó a la segunda fase de la [[Copa Libertadores 1986]].
+
+== Formato ==
+La competición se disputó bajo el mismo formato que se utilizó ininterrumpidamente desde la edición de 1974. El campeón vigente accedió de manera directa a la segunda fase, mientras que los 20 equipos restantes disputaron la primera. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. El ganador de cada uno de los cinco grupos clasificó a la segunda fase, uniéndose al campeón vigente, estableciéndose dos zonas de 3 equipos. El primer posicionado en cada una de ellas accedió a la final, que se llevó a cabo en encuentros de ida y vuelta, disputándose un partido de desempate en caso de ser necesario.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(6 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1984
+|
+* 5 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos primeros de la Segunda fase
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!width=20%|País
+!width=22%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club Atlético Independiente|Independiente]]<br>[[Club Ferro Carril Oeste|Ferro Carril Oeste]]<br>''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]''
+|Campeón de la [[Copa Libertadores 1984]]<br>Campeón del [[Campeonato Nacional 1984 (Argentina)|Campeonato Nacional 1984]]<br>Campeón del [[Campeonato de Primera División 1984 (Argentina)|Campeonato de Primera División 1984]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Blooming|Blooming]]<br>[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|Campeón del [[Campeonato de Primera División 1984 (Bolivia)|Campeonato de Primera División 1984]]<br>Subcampeón del Campeonato de Primera División 1984
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil|1968}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|[[Fluminense Football Club|Fluminense]]<br>[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1984|Campeonato Brasileño de 1984]]<br>Subcampeón del Campeonato Brasileño de 1984
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>''[[Deportes Magallanes|Magallanes]]''
+|Campeón del [[Primera División de Chile 1983|Campeonato de Primera División 1983]]<br>Ganador de la [[Liguilla Pre-Libertadores 1983 (Chile)|Liguilla Pre-Libertadores 1983]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[América de Cali]]<br>[[Millonarios Fútbol Club|Millonarios]]
+|Campeón del [[Campeonato colombiano 1984|Campeonato Colombiano 1984]]<br>Subcampeón del Campeonato Colombiano 1984
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Club Deportivo El Nacional|El Nacional]]<br>[[9 de Octubre Fútbol Club|9 de Octubre]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1984|Campeonato Ecuatoriano de 1984]]<br>Subcampeón del Campeonato Ecuatoriano de 1984
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Guaraní|Guaraní]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1984|Campeonato Paraguayo de 1984]]<br>Subcampeón del Campeonato Paraguayo de 1984
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Sport Boys Association|Sport Boys]]<br>[[Club Universitario de Deportes|Universitario]]
+|Campeón del [[Campeonato Descentralizado 1984]]<br>Subcampeón del Campeonato Descentralizado 1984
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Club Atlético Peñarol|Peñarol]]<br>[[Club Atlético Bella Vista|Bella Vista]]
+|1.º puesto de la [[Liguilla Pre-Libertadores de América de 1984]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1984
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]<br>[[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|Campeón de la [[Primera División Venezolana 1984]]<br>Subcampeón de la Primera División Venezolana 1984
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1985'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Ferro Carril Oeste|{{Esd|Ferro Carril Oeste}}]]<br>[[Club Atlético Independiente|Independiente]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Blooming|Blooming]]<br>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Fluminense Football Club|Fluminense]]<br>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.88897|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Deportes Magallanes|Magallanes]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Club Deportivo El Nacional|{{Esd|El Nacional}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[9 de Octubre Fútbol Club|{{Esd|9 de Octubre}}]]</small>|position=bottom}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>
+[[Club Guaraní|Guaraní]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Sport Boys Association|{{Esd|Sport Boys}}]]<br>[[Club Universitario de Deportes|Universitario]]</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Atlético Bella Vista|{{Esd|Bella Vista}}]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Deportivo Italia Fútbol Club|{{Esd|Deportivo Italia}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.768172|long=-72.232242|label=<small>[[Deportivo Táchira Fútbol Club|{{Esd|Deportivo Táchira}}]]</small>|position=right}}
+}}
+
+== Primera fase ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|'''9'''||6||4||1||1||9||5||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina}} [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|'''9'''||6||4||1||1||7||3||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Brasil|1968}} [[Fluminense Football Club|Fluminense]]
+|'''3'''||6||0||3||3||3||6||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Brasil|1968}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''3'''||6||0||3||3||6||11||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|23 de julio
+|[[Río de Janeiro]]
+| align=right| [[Fluminense Football Club|Fluminense]]
+|'''3:3'''<ref group="n.">Si bien el resultado final del partido fue Fluminense 3-3 Vasco da Gama, la RSSSF indica que, presuntamente, se le dio por ganado a Fluminense luego de que en el equipo visitante ingresara [[Gerson Sebastião Moisés|Gersinho]], quien no estaba habilitado para jugar. No existen certezas sobre tal dato, ni tampoco es constatado por la Conmebol en su sitio oficial.</ref>
+| align=left| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de julio
+|[[Buenos Aires]]
+| align=right| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|0:1
+| align=left| '''[[Club Ferro Carril Oeste|Ferro Carril Oeste]]'''
+
+|- align=center bgcolor=#F5FAFF
+|2 de agosto
+|[[Río de Janeiro]]
+| align=right| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|1:2
+| align=left| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de agosto
+|[[Río de Janeiro]]
+| align=right| [[Fluminense Football Club|Fluminense]]
+|0:1
+| align=left| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|6 de agosto
+|[[Buenos Aires]]
+| align=right| '''[[Club Ferro Carril Oeste|Ferro Carril Oeste]]'''
+|2:0
+| align=left| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de agosto
+|[[Buenos Aires]]
+| align=right| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''2:2'''
+| align=left| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de agosto
+|[[Río de Janeiro]]
+| align=right| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''0:0'''
+| align=left| [[Fluminense Football Club|Fluminense]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de agosto
+|[[Buenos Aires]]
+| align=right| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|1:3
+| align=left| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|20 de agosto
+|[[Buenos Aires]]
+| align=right| '''[[Club Ferro Carril Oeste|Ferro Carril Oeste]]'''
+|1:0
+| align=left| [[Fluminense Football Club|Fluminense]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de agosto
+|[[Buenos Aires]]
+| align=right| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|1:0
+| align=left| [[Fluminense Football Club|Fluminense]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de agosto
+|[[Río de Janeiro]]
+| align=right| [[Fluminense Football Club|Fluminense]]
+|'''0:0'''
+| align=left| [[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de agosto
+|[[Río de Janeiro]]
+| align=right| [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|0:2
+| align=left| '''[[Club Ferro Carril Oeste|Ferro Carril Oeste]]'''
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|11 de septiembre
+|[[Buenos Aires]]
+|align=right|'''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|3:1
+|align=left|[[Club Ferro Carril Oeste|Ferro Carril Oeste]]
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Bolivia}} '''[[Club Blooming|Blooming]]'''
+|'''11'''||6||5||1||0||20||4||16
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|'''8'''||6||3||2||1||11|| 6||5
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''4'''||6||1||2||3||9||12||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|'''1'''||6||0||1||5||2||20||–18
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''0:0'''
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| [[Club Blooming|Blooming]]
+|'''1:1'''
+| align=left| [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''1:1'''
+| align=left| [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|0:3
+| align=left| '''[[Club Blooming|Blooming]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|0:3
+| align=left| '''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|0:1
+| align=left| '''[[Club Blooming|Blooming]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Caracas]]
+| align=right| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+|1:3
+| align=left| '''[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]'''
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+|0:1
+| align=left| '''[[Club Blooming|Blooming]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| '''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|3:1
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| '''[[Club Blooming|Blooming]]'''
+|8:0
+| align=left| [[Deportivo Italia Fútbol Club|Deportivo Italia]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| '''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]'''
+|3:2
+| align=left| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| '''[[Club Blooming|Blooming]]'''
+|6:3
+| align=left| [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[América de Cali]]'''
+|'''8'''||6||2||4||0||5||2||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''7'''||6||2||3||1||5||3||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Millonarios Fútbol Club|Millonarios]]
+|'''5'''||6||1||3||2||5||5||0
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Guaraní|Guaraní]]
+|'''4'''||6||1||2||3||6||11||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Asunción]]
+| align=right| [[Club Guaraní|Guaraní]]
+|'''0:0'''
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Cali]]
+| align=right| [[América de Cali]]
+|'''0:0'''
+| align=left| [[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Guaraní|Guaraní]]'''
+|2:0
+| align=left| [[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+| align=left| [[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de marzo
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Asunción]]
+| align=right| [[Club Guaraní|Guaraní]]
+|'''1:1'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|3:1
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Bogotá]]
+| align=right| [[Millonarios Fútbol Club|Millonarios]]
+|'''0:0'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:0
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Bogotá]]
+| align=right| '''[[Millonarios Fútbol Club|Millonarios]]'''
+|5:1
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:1
+| align=left| [[Club Guaraní|Guaraní]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Bogotá]]
+| align=right| [[Millonarios Fútbol Club|Millonarios]]
+|0:2
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''11'''||6||5||1||0||10||3||7
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''6'''||6||3||0||3||10||8||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Deportes Magallanes|Magallanes]]
+|'''5'''||6||2||1||3||5||8||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+|'''2'''||6||1||0||5||3||9||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|23 de abril
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|1:0
+| align=left| [[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|2:0
+| align=left| [[Deportes Magallanes|Magallanes]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|2:0
+| align=left| [[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Deportes Magallanes|Magallanes]]
+|'''1:1'''
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Deportes Magallanes|Magallanes]]'''
+|2:1
+| align=left| [[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|1:2
+| align=left| '''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de mayo
+|[[Montevideo]]
+| align=right| [[Club Atlético Bella Vista|Bella Vista]]
+|0:2
+| align=left| '''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de mayo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Deportes Magallanes|Magallanes]]
+|1:3
+| align=left| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de mayo
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|1:0
+| align=left| [[Deportes Magallanes|Magallanes]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de mayo
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Bella Vista|Bella Vista]]'''
+|2:1
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de mayo
+|[[Montevideo]]
+| align=right| [[Club Atlético Bella Vista|Bella Vista]]
+|0:1
+| align=left| '''[[Deportes Magallanes|Magallanes]]'''
+
+|- align=center bgcolor=#F5FAFF
+|30 de mayo
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|3:1
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|'''11'''||6||5||1||0||13||4||9
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Universitario de Deportes|Universitario]]
+|'''5'''||5||2||1||2||8||6||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[9 de Octubre Fútbol Club|9 de Octubre]]
+|'''4'''||4||2||0||2||6||4||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Sport Boys Association|Sport Boys]]
+|'''0'''||5||0||0||5||1||14||–13
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|15 de mayo
+|[[Lima]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|0:2
+| align=left| '''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de junio
+|[[Quito]]
+| align=right| '''[[Club Deportivo El Nacional|El Nacional]]'''
+|3:1
+| align=left| [[9 de Octubre Fútbol Club|9 de Octubre]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de julio
+|[[Quito]]
+| align=right| '''[[Club Deportivo El Nacional|El Nacional]]'''
+|2:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de julio
+|[[Guayaquil]]
+| align=right| '''[[9 de Octubre Fútbol Club|9 de Octubre]]'''
+|1:0
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de julio
+|[[Milagro (Ecuador)|Milagro]]
+| align=right| '''[[9 de Octubre Fútbol Club|9 de Octubre]]'''
+|4:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de julio
+|[[Quito]]
+| align=right| '''[[Club Deportivo El Nacional|El Nacional]]'''
+|4:1
+| align=left| [[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de julio
+|[[Milagro (Ecuador)|Milagro]]
+| align=right| [[9 de Octubre Fútbol Club|9 de Octubre]]
+|0:1
+| align=left| '''[[Club Deportivo El Nacional|El Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|19 de julio
+|[[Lima]]
+| align=right| '''[[Club Universitario de Deportes|Universitario]]'''
+|4:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de julio
+|[[Lima]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|1:2
+| align=left| '''[[Club Deportivo El Nacional|El Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|2 de agosto
+|[[Lima]]
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|'''1:1'''
+| align=left| [[Club Deportivo El Nacional|El Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de agosto
+|—
+| align=right| [[Club Universitario de Deportes|Universitario]]
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<ref name=Suspendido group="n.">Los partidos fueron definitivamente suspendidos de común acuerdo entre los equipos implicados y [[Confederación Sudamericana de Fútbol|Conmebol]].</ref>
+| align=left| [[9 de Octubre Fútbol Club|9 de Octubre]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de agosto
+|—
+| align=right| [[Sport Boys Association|Sport Boys]]
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<ref name=Suspendido group="n." />
+| align=left| [[9 de Octubre Fútbol Club|9 de Octubre]]
+|}
+|}
+
+== Segunda fase ==
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|'''6'''||4||2||2||0||6||4||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+|'''4'''||4||1||2||1||6||5||1
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club Blooming|Blooming]]
+|'''2'''||4||0||2||2||2||5||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|16 de septiembre
+|[[Buenos Aires]]
+| align=right| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''2:2'''
+| align=left| [[Club Atlético Independiente|Independiente]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de septiembre
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| [[Club Blooming|Blooming]]
+|'''1:1'''
+| align=left| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de septiembre
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right| [[Club Blooming|Blooming]]
+|'''1:1'''
+| align=left| [[Club Atlético Independiente|Independiente]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de octubre
+|[[Buenos Aires]]
+| align=right| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|1:0
+| align=left| [[Club Blooming|Blooming]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de octubre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| '''[[Club Atlético Independiente|Independiente]]'''
+|2:0
+| align=left| [[Club Blooming|Blooming]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de octubre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right| [[Club Atlético Independiente|Independiente]]
+|1:2
+| align=left| '''[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]'''
+|}
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[América de Cali]]'''
+|'''5'''||4||2||1||1||10||3||7
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[Club Deportivo El Nacional|El Nacional]]
+|'''4'''||4||2||0||2||4||7||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+|'''3'''||4||1||1||2||3||7||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|18 de septiembre
+|[[Montevideo]]
+| align=right| [[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de septiembre
+|[[Quito]]
+| align=right| '''[[Club Deportivo El Nacional|El Nacional]]'''
+|2:0
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de septiembre
+|[[Montevideo]]
+| align=right| '''[[Club Atlético Peñarol|Peñarol]]'''
+|2:0
+| align=left| [[Club Deportivo El Nacional|El Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de septiembre
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|4:0
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de octubre
+|[[Quito]]
+| align=right| '''[[Club Deportivo El Nacional|El Nacional]]'''
+|2:0
+| align=left| [[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de octubre
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|5:0
+| align=left| [[Club Deportivo El Nacional|El Nacional]]
+|}
+|}
+
+== Final ==
+{{AP|Anexo:Final de la Copa Libertadores 1985|l1=Final de la Copa Libertadores 1985}}
+{{Partido
+|local           = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (1:0)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 17 de octubre de 1985
+|hora            = 
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 50&nbsp;000
+|árbitro         = {{árbitro|PAR|var=1954|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|goleslocal      = [[Emilio Commisso|Commisso]] {{gol|40}}
+|golesvisita     = 
+|reporte         = https://www.livefutbol.com/cronica/copa-libertadores-1985-finale-argentinos-juniors-america-de-cali/
+|competición=Ida}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 1:0''' (1:0)
+|visita          = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita      = ARG
+|fecha           = 22 de octubre de 1985
+|hora            = 
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 50&nbsp;000
+|árbitro         = {{árbitro|BRA|var=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Willington Ortiz|Ortiz]] {{gol|3}}
+|golesvisita     = 
+|reporte         = https://www.livefutbol.com/cronica/copa-libertadores-1985-finale-america-de-cali-argentinos-juniors/
+|competición=Vuelta}}
+{{Partido
+|local           = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (1:1, 1:1)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 24 de octubre de 1985
+|hora            = 
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 25&nbsp;000
+|árbitro         = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva Arce}}
+|goleslocal      = [[Emilio Commisso|Commisso]] {{gol|37}}
+|golesvisita     = [[Ricardo Gareca|Gareca]] {{gol|41}}
+|reporte         = https://www.livefutbol.com/cronica/copa-libertadores-1985-finale-argentinos-juniors-america-de-cali_2/
+|prórroga        = sí
+|resultado penalti = 5:4
+|penaltis1 = [[Jorge Olguín|Olguín]] {{pengol}}<br>[[Sergio Batista|Batista]] {{pengol}}<br>[[José Luis Pavoni|Pavoni]] {{pengol}}<br>[[Claudio Borghi|Borghi]] {{pengol}}<br>[[Mario Hernán Videla (Hijo)|Videla]] {{pengol}}
+|penaltis2 = {{pengol}} [[Ricardo Gareca|Gareca]]<br>{{pengol}} [[Roberto Cabañas|Cabañas]]<br>{{pengol}} [[Hernán Darío Herrera|Herrera]]<br>{{pengol}} [[Gonzalo Soto Cortázar|Soto]]<br>{{penfallo|atajado}} [[Antony de Ávila|De Ávila]]
+|competición=Desempate}}
+<br>
+{{Campeón
+|equipo = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|bandera = 
+|orden = 1
+|logo=|imagen=Flag of Argentina.svg}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Argentina}} '''[[Juan Carlos Sánchez Frías|Juan Carlos Sánchez]]'''
+|{{bandera|Bolivia}} '''[[Club Blooming|Blooming]]'''
+|align=center|'''11'''
+|- 
+|{{bandera|Ecuador|1900}} [[Geovanny Mera]]
+|{{bandera|Ecuador|1900}} [[Club Deportivo El Nacional|El Nacional]] 
+|align=center|8
+|- 
+|{{bandera|Bolivia}} [[Víctor Hugo Antelo]]
+|{{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]] 
+|align=center|6
+|- 
+|{{bandera|Argentina}} [[Claudio Borghi]]
+|{{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]] 
+|align=center|6
+|- 
+|{{bandera|Argentina}} [[Esteban Fernando González|Esteban González]]
+|{{bandera|Argentina}} [[Club Ferro Carril Oeste|Ferro Carril Oeste]] 
+|align=center|6
+|- 
+|{{bandera|Ecuador|1900}} [[José Villafuerte]]
+|{{bandera|Ecuador|1900}} [[Club Deportivo El Nacional|El Nacional]] 
+|align=center|6
+|- 
+|{{bandera|Argentina}} [[Ricardo Gareca]]
+|{{bandera|Colombia}} [[América de Cali]] 
+|align=center|5
+|- 
+|{{bandera|Uruguay}} [[Hebert Revetria]]
+|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]] 
+|align=center|4
+|- 
+|{{bandera|Bolivia}} [[Silvio Rojas]]
+|{{bandera|Bolivia}} [[Club Blooming|Blooming]] 
+|align=center|4
+|}
+
+== Notas ==
+{{listaref|grupo="n."}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa85.html Copa Libertadores 1985] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [https://www.conmebol.com Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1984|1984]]
+| título     = Copa Libertadores 1985
+| período    = XXVI edición
+| sucesor    = [[Copa Libertadores 1986|1986]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1985]]
+[[Categoría:Temporadas de la Copa Libertadores|1985]]
+[[Categoría:Fútbol en 1985]]

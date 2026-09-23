@@ -1,0 +1,896 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Supercopa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = Racing v Bayern - Estadio Presidente Perón.jpg
+| imagen_tamaño = 
+| imagen_pie = El [[estadio Presidente Perón|estadio El Cilindro]] ([[Avellaneda (Buenos Aires)|Avellaneda]]) fue sede del partido de vuelta de la [[Anexo:Final de la Supercopa Sudamericana 1992|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 16
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|29|9|1992}}<br />{{fecha2|25|11|1992}}
+| edición = V
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]''' <small>(2.º título)</small>
+| subcampeón = {{bandera|ARG}} [[Racing Club]]
+| semifinalistas = {{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] <br /> {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| titulotercero = Semifinalistas
+| partidos = 28
+| goles = 68 (2,42 por partido)
+| goleadores = {{bandera|BRA}} [[Renato Gaúcho]] (6 goles)<br /><small>([[Cruzeiro Esporte Clube|Cruzeiro]])</small>
+| anterior = [[Supercopa Sudamericana 1991]]
+| actual = Supercopa Sudamericana 1992
+| siguiente = [[Supercopa Sudamericana 1993]]
+}}
+La '''[[Supercopa Sudamericana]] 1992''' fue la quinta edición del torneo de clubes de [[América del Sur]] que reunía a todos los campeones de la [[Copa Libertadores de América]], organizado por la [[Confederación Sudamericana de Fútbol]].
+
+Por segunda vez consecutiva, vio campeón a [[Cruzeiro Esporte Clube|Cruzeiro]] de [[Brasil]], que en esta oportunidad superó en la final a [[Racing Club]] de [[Argentina]], reeditándose así la [[Supercopa Sudamericana 1988|final de 1988]], en donde aquella oportunidad la Academia se había coronado. Por ello, disputó la [[Recopa Sudamericana 1993]] ante su coterráneo de [[São Paulo Futebol Clube|São Paulo]], que había obtenido la [[Copa Libertadores 1992]].
+
+== Formato ==
+El torneo se desarrolló en un formato plenamente eliminatorio, en cuatro rondas desde los octavos hasta la final. Todas las llaves se disputaron en ida y vuelta. Ante la igualdad de puntos, obtenía la clasificación el equipo con mejor [[diferencia de goles]]; de persistir el empate, se efectuaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Octavos de final
+(16 equipos)
+|
+* [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], [[Atlético Nacional]], [[Club Atlético Boca Juniors|Boca Juniors]], <br />[[Club Social y Deportivo Colo-Colo|Colo-Colo]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Club Estudiantes de La Plata|Estudiantes (LP)]], [[Clube de Regatas do Flamengo|Flamengo]], <br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Club Atlético Independiente|Independiente]], [[Club Nacional de Football|Nacional]], [[Club Olimpia|Olimpia]], <br />[[Club Atlético Peñarol|Peñarol]], [[Racing Club]], [[Club Atlético River Plate|River Plate]], [[São Paulo Futebol Clube|São Paulo]] <br /> y [[Santos Futebol Clube|Santos]]
+|
+|-
+! colspan="2" |Cuartos de final
+(8 equipos)
+|
+|
+* 8 equipos clasificados de los Octavos de final
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!País
+!Equipo
+!{{tc|Copa Libertadores de América|Copas Libertadores}} ganadas
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>6 participantes</small>
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br />[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br />[[Club Atlético Independiente|Independiente]]<br />[[Racing Club]]<br />[[Club Atlético River Plate|River Plate]]<br />
+|[[Copa Libertadores 1985|1985]] <br />[[Copa Libertadores 1977|1977]] – [[Copa Libertadores 1978|1978]]<br />[[Copa Libertadores 1968|1968]] – [[Copa Libertadores 1969|1969]] – [[Copa Libertadores 1970|1970]] <br />[[Copa Libertadores 1964|1964]] – [[Copa Libertadores 1965|1965]] – [[Copa Libertadores 1972|1972]] – [[Copa Libertadores 1973|1973]] – [[Copa Libertadores 1974|1974]] – [[Copa Libertadores 1975|1975]] – [[Copa Libertadores 1984|1984]]<br />[[Copa Libertadores 1967|1967]]<br />[[Copa Libertadores 1986|1986]]<br />
+
+|- bgcolor=#DDEEFF
+|{{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>5 participantes</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]<br />[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[Santos Futebol Clube|Santos]]<br />''[[São Paulo Futebol Clube|São Paulo]]''
+|[[Copa Libertadores 1976|1976]]<br />[[Copa Libertadores 1981|1981]]<br />[[Copa Libertadores 1983|1983]]<br />[[Copa Libertadores 1962|1962]] – [[Copa Libertadores 1963|1963]]<br />[[Copa Libertadores 1992|1992]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br /><small> 1 participante</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[[Copa Libertadores 1991|1991]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br /><small> 1 participante</small>
+|[[Atlético Nacional]]
+|[[Copa Libertadores 1989|1989]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>1 participante</small>
+|[[Club Olimpia|Olimpia]]
+|[[Copa Libertadores 1979|1979]] – [[Copa Libertadores 1990|1990]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>2 participantes</small>
+|[[Club Nacional de Football|Nacional]]<br />[[Club Atlético Peñarol|Peñarol]]
+|[[Copa Libertadores 1971|1971]] – [[Copa Libertadores 1980|1980]] – [[Copa Libertadores 1988|1988]]<br />[[Copa Libertadores 1960|1960]] – [[Copa Libertadores 1961|1961]] – [[Copa Libertadores 1966|1966]] – [[Copa Libertadores 1982|1982]] – [[Copa Libertadores 1987|1987]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Supercopa Sudamericana 1992'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Racing Club|{{Esd|Racing Club}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|Santos]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+
+== Resultados ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20 | team-width= 170| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+| octavos = 29 de septiembre al 15 de octubre
+| cuartos = 20 al 30 de octubre
+| semifinal = 4 al 11 de noviembre
+| final = 18 y 25 de noviembre
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 29 de septiembre al 15 de octubre
+
+| RD1-team1 = {{bandera|Argentina}} [[Club Atlético Independiente|Independiente]] 
+| RD1-team2 = {{bandera|Argentina}} '''[[Racing Club]]'''
+| RD1-score1-1 = 1
+| RD1-score2-1 = 2
+| RD1-score1-2 = 0
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''1'''
+| RD1-score2-3 = '''2'''
+
+| RD1-team3 = {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]''' 
+| RD1-team4 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score3-1 = 2
+| RD1-score4-1 = 2
+| RD1-score3-2 = 1
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''3'''
+| RD1-score4-3 = '''2'''
+
+| RD1-team5 = {{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team6 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]] 
+| RD1-score5-1 = 1
+| RD1-score6-1 = 2
+| RD1-score5-2 = 1
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''2&nbsp;{{small|(4)}}'''
+| RD1-score6-3 = '''2&nbsp;{{small|(3)}}'''
+
+| RD1-team7 = {{bandera|Brasil}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD1-team8 = {{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] 
+| RD1-score7-1 = 1
+| RD1-score8-1 = 1
+| RD1-score7-2 = 1
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''2'''
+| RD1-score8-3 = '''1'''
+
+| RD1-team9 = {{bandera|Argentina}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-team10 = {{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| RD1-score9-1 = 2
+| RD1-score10-1 = 1
+| RD1-score9-2 = 3
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''5'''
+| RD1-score10-3 = '''1'''
+
+| RD1-team11 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD1-team12 = {{bandera|Colombia}} [[Atlético Nacional]]
+| RD1-score11-1 = 1
+| RD1-score12-1 = 1
+| RD1-score11-2 = 8
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''9'''
+| RD1-score12-3 = '''1'''
+
+| RD1-team13 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team14 = {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-score13-1 = 0
+| RD1-score14-1 = 1
+| RD1-score13-2 = 1
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''1&nbsp;{{small|(3)}}'''
+| RD1-score14-3 = '''1&nbsp;{{small|(2)}}'''
+
+| RD1-team15 = {{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-team16 = {{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+| RD1-score15-1 = 1
+| RD1-score16-1 = 1
+| RD1-score15-2 = 4
+| RD1-score16-2 = 1
+| RD1-score15-3 = '''5'''
+| RD1-score16-3 = '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 20 al 30 de octubre
+
+| RD2-team1 = {{bandera|Argentina}} '''[[Racing Club]]''' <small>([[Walkover|w/o.]])</small>{{refn|group=n|Nacional fue impedido por la Mutual Uruguaya de Futbolistas Profesionales de disputar la serie de cuartos de final ante Racing Club, luego de que se levantara una huelga de futbolistas por incidentes en el campeonato de su país. Nacional fue retirado y Racing Club accedió directamente a semifinales.<ref>{{cita web|url=https://elpais.com/diario/1992/10/22/deportes/719708406_850215.html |título=La huelga del fútbol uruguayo impide al Nacional jugar la Supercopa |fechaacceso=10 de abril de 2019 |apellido= |nombre= |fecha=22 de octubre de 1992 |sitioweb=[[El País (Uruguay)|elpais]].com |idioma= |cita= }}</ref>}}
+| RD2-team2 = {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+| RD2-score1-1 = 1
+| RD2-score2-1 = 0
+| RD2-score1-2 = '''–'''
+| RD2-score2-2 = '''–'''
+| RD2-score1-3 = 1
+| RD2-score2-3 = 0
+
+| RD2-team3 = {{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| RD2-team4 = {{bandera|Brasil}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 1
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''2'''
+
+| RD2-team5 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD2-team6 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD2-score5-1 = 0
+| RD2-score6-1 = 2
+| RD2-score5-2 = 2
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''2&nbsp;{{small|(4)}}'''
+| RD2-score6-3 = '''2&nbsp;{{small|(5)}}'''
+
+| RD2-team7 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-team8 = {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| RD2-score7-1 = 2
+| RD2-score8-1 = 1
+| RD2-score7-2 = 1
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''3'''
+| RD2-score8-3 = '''1'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 4 al 11 de noviembre
+
+| RD3-team1 = {{bandera|Argentina}} '''[[Racing Club]]''' 
+| RD3-team2 = {{bandera|Brasil}} [[Clube de Regatas do Flamengo|Flamengo]] 
+| RD3-score1-1 = 3
+| RD3-score2-1 = 3
+| RD3-score1-2 = 1
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''4'''
+| RD3-score2-3 = '''3'''
+
+| RD3-team3 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD3-team4 = {{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+| RD3-score3-1 = 1
+| RD3-score4-1 = 0
+| RD3-score3-2 = 2
+| RD3-score4-2 = 2
+| RD3-score3-3 = '''3'''
+| RD3-score4-3 = '''2'''
+
+<!--Final-->
+| RD4= Final
+| RD4-date= 18 y 25 de noviembre
+
+| RD4-team1 = {{bandera|Argentina}} [[Racing Club]]
+| RD4-team2 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD4-score1-1 = 0
+| RD4-score2-1 = 4
+| RD4-score1-2 = 1
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''1'''
+| RD4-score2-3 = '''4'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 2:1''' (1:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 2 de octubre de 1992
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|ARG|Juan Bava}}
+|asistencia  = 
+|goleslocal  = [[Claudio García|García]] {{gol}}<br />[[Félix Torres Rodríguez|Torres]] {{gol}}
+|golesvisita = [[Adrián Mahía|Mahía]] {{gol}}
+}}
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 10 de octubre de 1992
+|estadio     = [[Estadio de la Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|ARG|Francisco Lamolina}}
+|asistencia  = 
+|goleslocal  =
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal   = URU
+|resultado   = 2:2''' (0:0)
+|reporte     = https://atilio.uy/partido:5261
+|visita      = [[Club Nacional de Football|Nacional]]
+|paísvisita  = URU
+|fecha       = 30 de septiembre de 1992
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]] 
+|refe        = {{árbitro|PAR|var=1990|Carlos Maciel}}
+|asistencia  = 
+|goleslocal  = [[Adrián Paz|A. Paz]] {{gol|47}}<br />[[Pedro Pedrucci|P. Pedrucci]] {{penalti|50}}
+|golesvisita = [[Julio César Dely Valdés|Dely Valdés]] {{gol|67}}<br />[[José Enrique García|García]] {{gol|78}}
+}}
+{{Partido
+|local       = [[Club Nacional de Football|Nacional]]
+|paíslocal   = URU
+|resultado   = 1:0''' (0:0)
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita  = URU
+|fecha       = 7 de octubre de 1992
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]]
+|refe        = {{árbitro|CHI|Enrique Marín Gallo}}
+|asistencia  = 
+|goleslocal  = [[Edison Suárez|E. Suárez]] {{gol|62}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 2:1''' (1:1)
+|visita      = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|paísvisita  = ARG
+|fecha       = 29 de septiembre de 1992
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Francisco Lamolina}}
+|asistencia  =
+|goleslocal  = [[José Luis Villarreal|Villareal]] {{gol|18}}<br />[[Roberto Cabañas|Cabañas]] {{gol|84}}
+|golesvisita = [[Rubén Capria|Capria]] {{gol|28}}
+}}
+{{Partido
+|local       = [[Club Estudiantes de La Plata|Estudiantes]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (0:0)
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 7 de octubre de 1992
+|estadio     = [[Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda]]
+|refe        = {{árbitro|ARG|Juan Bava}}
+|asistencia  = 
+|goleslocal  = [[Darío Siviski|Siviski]] {{gol|54}}
+|golesvisita = 
+|penaltis1   = [[José Luis Calderón|Calderón]] {{pengol}}<br />[[Marcos Marcelo Lorenzo|Lorenzo]] {{pengol}}<br />[[Marcelo Maydana|Maydana]] {{penfallo|atajado}}<br />[[Pablo Erbín|Erbín]] {{pengol}}<br />[[Arturo Marcelo Yorno|Yorno]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2   = {{pengol}} [[Alberto Márcico|Márcico]]<br />{{pengol}} [[Sergio Daniel Martínez|S. Martínez]]<br />{{penfallo|desviado}} [[Diego Soñora|Soñora]]<br />{{pengol}} [[Luis Alberto Carranza|Carranza]]<br />{{penfallo|atajado}} [[Blas Giunta|Giunta]]
+}}
+<br />
+{{Partido
+|local       = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:1)
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 8 de octubre de 1992
+|estadio     = [[Estadio Olímpico Monumental]]
+|ciudad      = [[Porto Alegre]]
+|refe        = {{árbitro|BRA|Márcio Rezende}}
+|asistencia  = 
+|goleslocal  = [[Júnior Baiano]] {{gol||a.g.}}
+|golesvisita = [[Paulo Nunes|Nunes]] {{gol}}
+}}
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (1:0)
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita  = BRA
+|fecha       = 15 de octubre de 1992
+|estadio     = [[Estadio de Moça Bonita]]
+|ciudad      = [[Río de Janeiro]]
+|refe        = {{árbitro|BRA|Manoel Serapião Filho|Manoel Serapião}}
+|asistencia  =
+|goleslocal  = [[Rogério Lourenço|Rogério]] {{gol}}
+|golesvisita =
+}}
+<br />
+{{Partido
+|local       = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal   = ARG
+|resultado   = 1:2''' (0:1)
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 30 de septiembre de 1992
+|estadio     = [[Estadio Arquitecto Ricardo Etcheverri|Estadio Ferro Carril Oeste]]
+|ciudad      = [[Buenos Aires]] 
+|refe        = {{árbitro|ARG|Juan Carlos Crespi (árbitro)|Juan Carlos Crespi}}
+|asistencia  = 
+|goleslocal  = [[Christian Trapasso|Trapasso]] {{gol||pen.}}
+|golesvisita = [[Ramón Medina Bello|Medina Bello]] {{gol}}<br />[[Walter Silvani|Silvani]] {{gol}}
+}}
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 3:0''' (1:0)
+|visita      = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita  = ARG
+|fecha       = 7 de octubre de 1992
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]] 
+|refe        = {{árbitro|ARG|Juan Carlos Biscay}}
+|asistencia  = 
+|goleslocal  = [[Julio César Toresani|Toresani]] {{gol|1}}<br />[[Ariel Ortega|Ortega]] {{gol|46}}<br />[[Walter Silvani|Silvani]] {{gol|48}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Atlético Nacional]]
+|paíslocal   = COL
+|resultado   = 1:1''' (0:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 8 de octubre de 1992
+|estadio     = [[Estadio Atanasio Girardot]]
+|ciudad      = [[Medellín]]
+|refe        = {{árbitro|PER|Alberto Tejada Noriega}}
+|asistencia  = 
+|goleslocal  = [[Gustavo Restrepo|Restrepo]] {{gol|58|pen.}}
+|golesvisita = [[Renato Gaúcho]] {{gol|47}}
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]] 
+|paíslocal   = BRA
+|resultado   = 8:0''' (3:0)
+|visita      = [[Atlético Nacional]]
+|paísvisita  = COL
+|fecha       = 15 de octubre de 1992
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|URU|Ernesto Filippi}}
+|asistencia  = 
+|goleslocal  = [[Luís Fernando Flores|Luís Fernando]] {{gol|11}}<br />[[Renato Gaúcho]] {{gol|22}} {{gol|47}} {{gol|52}}<br />{{gol|54}} {{gol|85}}<br />[[Raimundo Nonato da Silva|Nonato]] {{gol|35}}<br />[[Cleisson Edson Assunção|Cleisson]] {{gol|75}}
+|golesvisita =
+}}
+<br />
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 1:0''' (1:0)
+|visita      = [[Club Olimpia|Olimpia]]
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|fecha       = 30 de septiembre de 1992
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|COL|José Torres Cadena}}
+|asistencia  = 
+|goleslocal  = [[Marcelo Barticciotto|Barticciotto]] {{gol}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 1:0''' (0:0)
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 7 de octubre de 1992
+|estadio     = [[Estadio Defensores del Chaco]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|BRA|Ulisses Tavares da Silva Filho|Ulisses Tavares}}
+|asistencia  = 
+|goleslocal  = [[Mauro Antonio Caballero|Caballero]] {{gol}}
+|golesvisita =
+|penaltis1   = [[Mario César Ramírez|M. Ramírez]] {{penfallo|atajado}}<br />[[Silvio Suárez|Suárez]] {{penfallo|atajado}}<br />[[Gabriel González Chaves|González]] {{pengol}}<br />[[Raúl Vicente Amarilla|Amarilla]] {{pengol}}<br />[[Vidal Sanabria|Sanabria]] {{pengol}}
+|resultado penalti = 3:2
+|penaltis2   = {{pengol}} [[Héctor Adomaitis|Adomaitis]]<br />{{pengol}} [[Alejandro Hisis|Hisis]]<br />{{penfallo|atajado}} [[Mario Rebollo|Rebollo]]<br />{{penfallo|atajado}} [[Miguel Ramírez|Ramírez]]<br />{{penfallo|atajado}} [[Jaime Pizarro|Pizarro]]
+}}
+<br />
+{{Partido
+|local       = [[Santos Futebol Clube|Santos]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:0)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 29 de septiembre de 1992
+|estadio     = [[Estadio Urbano Caldeira|Estadio de Vila Belmiro]]
+|ciudad      = [[Santos]] 
+|refe        = 
+|asistencia  = 
+|goleslocal  = [[Alexandre da Silva|Guga]] {{gol||pen.}}
+|golesvisita = [[Müller (futbolista)|Müller]] {{gol}}
+}}
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 4:1''' (2:1)
+|visita      = [[Santos Futebol Clube|Santos]]
+|paísvisita  = BRA
+|fecha       = 10 de octubre de 1992
+|estadio     = [[Estadio de Morumbí]]
+|ciudad      = [[São Paulo]]
+|refe        = 
+|asistencia  = 
+|goleslocal  = [[Raí]] {{gol}}<br />[[Jorge Ferreira da Silva|Palhinha]] {{gol}}<br />[[Válber Roel de Oliveira|Válber]] {{gol}}<br />[[Edi Wilson José dos Santos|Dinho]] {{gol}}
+|golesvisita = [[Alexandre da Silva|Guga]] {{gol}}
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local       = [[Racing Club de Avellaneda|Racing Club]]
+|paíslocal   = ARG
+|resultado   = 1:0
+|visita      = [[Club Nacional de Football|Nacional]]
+|paísvisita  = URU
+|fecha       = 22 de octubre de 1992
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = -
+|asistencia  = -
+|goleslocal  = -
+|golesvisita = -
+}}
+{{Partido
+|local       = [[Club Nacional de Football|Nacional]]
+|paíslocal   = URU
+|resultado   = 0:1
+|visita      = [[Racing Club de Avellaneda|Racing Club]]
+|paísvisita  = ARG
+|fecha       = 29 de octubre de 1992
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]]
+|refe        = -
+|asistencia  = -
+|goleslocal  = -
+|golesvisita = -
+}}
+<br />
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (0:0)
+|visita      = [[Club Estudiantes de La Plata|Estudiantes]]
+|paísvisita  = ARG
+|fecha       = 22 de octubre de 1992
+|estadio     = [[Estadio de Moça Bonita]]
+|ciudad      = [[Río de Janeiro]]
+|refe        = {{árbitro|URU|Jorge Nieves}}
+|asistencia  = 
+|goleslocal  = [[Luís Carlos Tóffoli|Gaúcho]] {{gol|83|pen.}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Estudiantes de La Plata|Estudiantes]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (0:0)
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 30 de octubre de 1992
+|estadio     = [[Estadio Jorge Luis Hirschi]]
+|ciudad      = [[La Plata]]
+|refe        = {{árbitro|URU|Ernesto Filippi}}
+|asistencia  = 
+|goleslocal  = [[Darío Siviski|Siviski]] {{gol}}
+|golesvisita = [[Marcos Corrêa|Marquinhos]] {{gol}}
+}}
+<br />
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 2:0''' (1:0)
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 21 de octubre de 1992
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|PAR|var=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|asistencia  = 
+|goleslocal  = [[Paulo Roberto Curtis Costa|Paulo Roberto]] {{gol|29|pen.}}<br />[[Diego Cocca|Cocca]] {{gol|65|a.g.}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 2:0''' (0:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 28 de octubre de 1992
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|CHI|Enrique Marín Gallo}}
+|asistencia  = 
+|goleslocal  = [[Ramón Díaz (futbolista argentino)|R. Díaz]] {{gol|87|pen.}}<br />[[Walter Silvani|Silvani]] {{gol|89}}
+|golesvisita = 
+|penaltis1   = [[Walter Silvani|Silvani]] {{pengol}}<br />[[Rubén Da Silva|Da Silva]] {{pengol}}<br />[[Ramón Díaz (futbolista argentino)|R. Díaz]] {{penfallo|desviado}}<br />[[Ramón Medina Bello|Medina Bello]] {{pengol}}<br />[[Gustavo Zapata|Zapata]] {{pengol}}
+|resultado penalti = 4:5
+|penaltis2   = {{pengol}} [[Paulo Roberto Curtis Costa|Paulo Roberto]]<br />{{pengol}} [[Raimundo Nonato da Silva|Nonato]]<br />{{pengol}} [[Roberto Gaúcho]]<br />{{pengol}} [[Luís Fernando Flores|Luís Fernando]]<br />{{pengol}} [[William Douglas Humia Menezes|Douglas]]
+}}
+<br />
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 1:2''' (1:1)
+|visita      = [[Club Olimpia|Olimpia]]
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|fecha       = 20 de octubre de 1992
+|estadio     = [[Estadio de Morumbi]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|ARG|Juan Bava}}
+|asistencia  = 
+|goleslocal  = [[Jorge Ferreira da Silva|Palhinha]] {{gol}}
+|golesvisita = [[Raúl Vicente Amarilla|Amarilla]] {{gol}}<br />[[Vidal Sanabria|Sanabria]] {{gol}}
+}}
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 1:0''' (1:0)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 28 de octubre de 1992
+|estadio     = [[Estadio Defensores del Chaco]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|PER|Alberto Tejada Noriega}}
+|asistencia  = 
+|goleslocal  = [[Raúl Vicente Amarilla|Amarilla]] {{gol|31}}
+|golesvisita =
+}}
+
+=== Semifinales ===
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 3:3''' (1:0)
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 4 de noviembre de 1992
+|estadio     = [[Estadio de Pacaembú]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|COL|Armando Pérez Hoyos}}
+|asistencia  = 
+|goleslocal  = [[Leovegildo Lins da Gama Júnior|Júnior]] {{gol|28}}<br />[[Rogério Lourenço|Rogério]] {{gol|63}}<br />[[Djalminha]] {{gol|90+5|pen.}} 
+|golesvisita = [[Alfredo Graciani|Graciani]] {{gol|59}}<br />[[Claudio García|García]] {{gol|61}}<br />[[Gustavo Matosas|Matosas]] {{gol|85|pen.}} 
+}}
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (1:0)
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 11 de noviembre de 1992
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|ECU|var=1900|Jorge Oswaldo Orellana Vimos|Jorge Orellana}}
+|asistencia  = 
+|goleslocal  = [[Alfredo Graciani|Graciani]] {{gol|17}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 0:1''' (0:1)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 6 de noviembre de 1992
+|estadio     = [[Estadio Defensores del Chaco]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|ECU|var=1900|Jorge Oswaldo Orellana Vimos|Jorge Orellana}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = [[Luís Fernando Flores|Luís Fernando]] {{gol|35}}
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 2:2''' (1:0)
+|visita      = [[Club Olimpia|Olimpia]]
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|fecha       = 11 de noviembre de 1992
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|PER|Alberto Tejada Noriega}}
+|asistencia  = 
+|goleslocal  = [[Paulo Roberto Curtis Costa|Paulo Roberto]] {{gol|3|pen.}}<br />[[Roberto Gaúcho]] {{gol|54}}
+|golesvisita = [[Raúl Vicente Amarilla|Amarilla]] {{gol}}<br />[[Mario César Ramírez|M. Ramírez]] {{gol}}
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Supercopa Sudamericana 1992|l1=Final de la Supercopa Sudamericana 1992}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 4:0''' (1:0)
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 18 de noviembre
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|COL|José Torres Cadena}}
+|asistencia  = 79{{esd}}213
+|goleslocal  = [[Roberto Gaúcho]] {{gol|27}} {{gol|47}}<br />[[Luís Fernando Flores|Luís Fernando]] {{gol|85}}<br />[[Marco Antônio Boiadeiro|Boiadeiro]] {{gol|88}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (0:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 25 de noviembre, 21:15 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|PAR|var=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|asistencia  = 
+|goleslocal  = [[Claudio García|García]] {{gol|85|pen.}}
+|golesvisita = 
+}}
+{{Campeón|equipo=[[Cruzeiro Esporte Clube|Cruzeiro]]|imagen=|orden=2|logo=SupercopaLibertadores1988-1997.png|bandera=BRA}}
+
+== Estadísticas ==
+=== Clasificación general ===
+{| class="sortable" cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%; margin: auto; text-align: center;" width="55%"
+ |- bgcolor="#006699" style="color: white;"
+ ! width="5%"  | {{abreviación|Pos.|Posición}}
+ ! width="45%" | Equipo
+ ! width="5%"  | {{abreviación|Pts|Puntos}}
+ ! width="5%"  | {{abreviación|PJ|Partidos jugados}}
+ ! width="5%"  | {{abreviación|PG|Partidos ganados}}
+ ! width="5%"  | {{abreviación|PE|Partidos empatados}}
+ ! width="5%"  | {{abreviación|PP|Partidos perdidos}}
+ ! width="5%"  | {{abreviación|GF|Goles a favor}}
+ ! width="5%"  | {{abreviación|GC|Goles en contra}}
+ ! width="5%"  | {{abreviación|Dif.|Diferencia de goles}}
+ ! width="10%" | {{abreviación|Rend.|Rendimiento}}
+ |- bgcolor=gold
+ !1
+ |align=left|{{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+ |'''10'''||8||4||2||2||18||6||12||62,50%
+ |- bgcolor=silver
+ !2
+ |align=left|{{bandera|Argentina}} [[Racing Club]]
+ |'''12'''||8||5||2||1||7||8||−1||75,00%
+ |-style="border-top:1px solid #222;" bgcolor=#D2B48C
+ !3
+ |align=left|{{bandera|Brasil}} [[Clube de Regatas do Flamengo|Flamengo]]
+ |'''7'''||6||3||1||2||7||6||1||58,33%
+ |-
+ !4
+ |align=left|{{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+ |'''7'''||6||3||1||2||6||5||1||58,33%
+ |-style="border-top:1px solid #222;"
+ !5
+ |align=left|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+ |'''6'''||4||3||0||1||7||3||4||75%
+ |-
+ !6
+ |align=left|{{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+ |'''3'''||4||1||1||2||6||5||1||37,50%
+ |-
+ !7
+ |align=left|{{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+ |'''3'''||4||1||1||2||3||4||−1||37,50%
+ |-
+ !8
+ |align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]<ref group=n>Se retiró antes del inicio de la ronda de cuartos de final.</ref>
+ |'''3'''||2||1||1||0||3||2||1||75%
+ |-style="border-top:1px solid #222;"
+ !9
+ |align=left|{{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+ |'''2'''||2||1||0||1||2||2||0||50%
+ |-
+ !10
+ |align=left|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+ |'''2'''||2||1||0||1||1||1||0||50%
+ |-
+ !11
+ |align=left|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+ |'''1'''||2||0||1||1||2||3||−1||25%
+ |-
+ !12
+ |align=left|{{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+ |'''1'''||2||0||1||1||1||2||−1||25%
+ |-
+ !13
+ |align=left|{{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+ |'''1'''||2||0||1||1||1||2||−1||25%
+ |-
+ !14
+ |align=left|{{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+ |'''1'''||2||0||1||1||2||5||−3||25%
+ |-
+ !15
+ |align=left|{{bandera|Colombia}} [[Atlético Nacional]]
+ |'''1'''||2||0||1||1||1||9||−8||25%
+ |-
+ !16
+ |align=left|{{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+ |'''0'''||2||0||0||2||1||5||−4||0%
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=#D0E7FF
+| {{bandera|BRA}} '''[[Renato Gaúcho]]'''
+| {{bandera|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| align=center|'''6'''
+|- 
+| {{bandera|PAR|1990}} [[Raúl Vicente Amarilla]]
+| {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| align=center|3
+|- 
+| {{bandera|ARG}} [[Claudio García]]
+| {{bandera|ARG}} [[Racing Club]]
+| align=center|3
+|- 
+| {{bandera|BRA}} [[Luís Fernando Flores|Luís Fernando]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center|3
+|- 
+| {{bandera|BRA}} [[Roberto Gaúcho]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center|3
+|- 
+| {{bandera|ARG}} [[Walter Silvani]]
+| {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align=center|3
+|- 
+| {{bandera|ARG}} [[Alfredo Graciani]]
+| {{bandera|ARG}} [[Racing Club]]
+| align=center|2
+|- 
+| {{bandera|BRA}} [[Alexandre da Silva|Guga]]
+| {{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| align=center|2
+|- 
+| {{bandera|BRA}} [[Jorge Ferreira da Silva|Palhinha]]
+| {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align=center|2
+|- 
+| {{bandera|BRA}} [[Paulo Roberto Curtis Costa|Paulo Roberto]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center|2
+|- 
+| {{bandera|BRA}} [[Rogério Lourenço|Rogério]]
+| {{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| align=center|2
+|- 
+| {{bandera|ARG}} [[Darío Siviski]]
+| {{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| align=center|2
+|}
+
+== Véase también ==
+* [[Copa Libertadores 1992]]
+* [[Copa Conmebol 1992]]
+* [[Recopa Sudamericana 1993]]
+
+== Notas ==
+{{listaref|group=n}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://historiayfutbol.obolog.com/supercopa-sudamericana-1992-117753 Supercopa Sudamericana 1992] {{Wayback|url=http://historiayfutbol.obolog.com/supercopa-sudamericana-1992-117753 |date=20090519013441 }} en ''Historia y Fútbol''
+* [http://www.rsssf.com/sacups/supcopa92.html Supercopa Sudamericana 1992] y [http://www.rsssf.com/sacups/supcopa92full.html Detalles] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Supercopa Sudamericana 1991|1991]]
+| título     = Supercopa Sudamericana 1992
+| período    = V edición
+| sucesor    = [[Supercopa Sudamericana 1993|1993]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Supercopa Sudamericana 1992]]

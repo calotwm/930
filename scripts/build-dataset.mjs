@@ -3,6 +3,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs'
+import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
+import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -60,6 +62,12 @@ function cleanClub(raw) {
     .replace(/^(CA|CD|CSD|AA|CS|CSyD)\s+/, '')
     .trim()
   return short || name
+}
+
+const mostCommon = (xs) => {
+  const n = new Map()
+  for (const x of xs) n.set(x, (n.get(x) ?? 0) + 1)
+  return [...n.entries()].sort((a, b) => b[1] - a[1])[0]?.[0]
 }
 
 function eraFromYears(minY, maxY) {
@@ -435,6 +443,83 @@ function main() {
   )
   for (const r of clubRejected) skipped.push(`${r.club} — ${r.name}: ${r.why} (${r.league}+${r.cups}+${r.intl} vs ${r.total})`)
 
+  // Wikipedia scorer tables (Primera career tables + more club tables). Only players still missing are
+  // added; a Primera career total wins over club totals, club totals are summed across clubs.
+  const wikiDir = path.join(RAW, 'wikipedia')
+  const { rows: wikiRows, rejected: wikiRejected } = parseWikiTables(wikiDir)
+  const wikiInfo = JSON.parse(fs.readFileSync(path.join(wikiDir, 'positions.json'), 'utf8'))
+  for (const p of players) known.push(norm(p.name).split(' '))
+  const wikiAdds = new Map()
+  const primeraCheck = []
+  const upgraded = []
+  for (const r of wikiRows) {
+    const existing = players.find((p) => norm(p.name) === norm(r.name))
+    if (existing) {
+      const league = existing.leagueGoals ?? existing.goals
+      // a one-club total is partial; a larger Primera career total replaces it
+      if (r.table.kind === 'primera' && existing.review?.includes('club-total-only') && r.goals > existing.goals) {
+        const clubs = r.clubs.map((c) => cleanClub(c.club))
+        Object.assign(existing, {
+          goals: r.goals,
+          leagueGoals: r.goals,
+          club: clubs[0] ?? existing.club,
+          clubs: clubs.length ? clubs : existing.clubs,
+          scope: 'Liga (Primera), carrera',
+          source: { name: r.table.label, url: r.table.url },
+          review: existing.review.filter((x) => x !== 'club-total-only'),
+        })
+        upgraded.push(`${existing.name}: ${league} (un club) → ${r.goals} (Primera, carrera)`)
+        continue
+      }
+      if (r.table.kind === 'primera' && existing.division === 'Primera' && Math.abs(league - r.goals) >= 5)
+        primeraCheck.push(`${existing.name}: dataset ${league} vs Wikipedia ${r.goals} (${r.table.file})`)
+      continue
+    }
+    if (isKnown(r.name)) continue
+    const key = norm(r.name)
+    const prev = wikiAdds.get(key)
+    if (prev) {
+      // first Primera row wins; club rows add up only among themselves
+      if (prev.kind === 'club' && r.table.kind === 'club' && !prev.clubs.includes(r.table.club)) {
+        prev.goals += r.goals
+        prev.clubs.push(r.table.club)
+        prev.scope = `Goles oficiales en ${prev.clubs.join(' y ')}`
+      }
+      if (prev.kind === 'club' && r.table.kind === 'primera') wikiAdds.delete(key)
+      else continue
+    }
+    const info = wikiInfo[r.page]
+    const position = positionFromWiki(info?.raw)
+    const display = r.name
+    const parts = display.split(' ')
+    const clubs = r.table.kind === 'primera' ? r.clubs.map((c) => cleanClub(c.club)) : [r.table.club]
+    wikiAdds.set(key, {
+      kind: r.table.kind,
+      id: slug(display),
+      name: display,
+      shortName: parts.length > 1 ? parts.slice(1).join(' ') : display,
+      position: position ?? 'ST',
+      goals: r.goals,
+      ...(r.table.kind === 'primera' ? { leagueGoals: r.goals } : {}),
+      club: clubs[0] ?? '—',
+      clubs,
+      division: 'Primera',
+      scope: r.table.kind === 'primera' ? 'Liga (Primera), carrera' : r.table.scope,
+      era: '—',
+      source: { name: r.table.label, url: r.table.url },
+      secondarySource: info ? { name: 'Wikipedia — posición', url: `https://es.wikipedia.org/wiki/${encodeURIComponent(r.page.replace(/ /g, '_'))}` } : undefined,
+      review: [...(r.table.kind === 'club' ? ['club-total-only'] : []), ...(position ? [] : ['position-unverified'])],
+    })
+  }
+  for (const { kind, ...p } of wikiAdds.values()) {
+    players.push(p)
+    known.push(norm(p.name).split(' '))
+  }
+  report.push(
+    `Tablas de Wikipedia (${WIKI_TABLES.length}: ${WIKI_TABLES.map((t) => t.club ?? 'Primera').join(', ')}): ${wikiRows.length} filas válidas, ${wikiAdds.size} jugadores agregados, ${wikiRejected.length} filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: ${upgraded.length}${upgraded.length ? ` (${upgraded.join('; ')})` : ''}. Diferencias de 5+ goles con la tabla de Primera: ${primeraCheck.length} (ver abajo).`,
+  )
+  for (const r of wikiRejected) skipped.push(`${r.table} — ${r.name}: ${r.why}`)
+
   // players the scraped sources don't cover (mostly pre-1990 with <100 goals), each with a quoted source
   const manual = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'manual-additions.json'), 'utf8'))
   let manualAdded = 0
@@ -448,6 +533,102 @@ function main() {
     manualAdded++
   }
   report.push(`Altas manuales con fuente citada (data-sources/manual-additions.json): ${manualAdded}.`)
+
+  // Cups and ascenso from Wikipedia edition tables (lower bounds: each table lists only the top scorers)
+  // and the all-time Libertadores / Sudamericana tables (exact, goals with Argentine clubs only).
+  // Added only to league-only totals; RSSSF and club totals already include cups.
+  const argClubs = argentineClubs(wikiDir)
+  const isArgClub = (page) => argClubs.has(page)
+  const ed = parseEditions(wikiDir, isArgClub)
+  const allTimeCups = parseAllTime(wikiDir, isArgClub)
+  const TM_SCOPES = new Set(['Liga desde 1990/91', 'Ascenso desde 2008/09'])
+  const LEAGUE_ONLY = new Set([...TM_SCOPES, 'Liga (Primera), carrera'])
+  const nameCount = new Map()
+  for (const p of players) nameCount.set(norm(p.name), (nameCount.get(norm(p.name)) ?? 0) + 1)
+  const byName = new Map(players.filter((p) => nameCount.get(norm(p.name)) === 1).map((p) => [norm(p.name), p]))
+  // a cup row belongs to a dataset player only if one of its teams is one of his clubs
+  const GENERIC = new Set(['club', 'atletico', 'deportivo', 'sportivo', 'social', 'de', 'la', 'y', 'del', 'cultural', 'asociacion', 'ca', 'cd', 'fc', 'lp'])
+  const words = (s) => norm(s).split(' ').filter((w) => w.length > 2 && !GENERIC.has(w))
+  const sameClub = (teams, clubs) => teams.some((t) => clubs.some((c) => words(c).some((w) => words(t).includes(w))))
+  const cupLog = { upgraded: 0, exact: 0, added: 0, unmatched: [] }
+  const perComp = {}
+  for (const w of ed.perPlayer.values()) {
+    const exact = allTimeCups.get(w.page)?.goals ?? {}
+    let p = byName.get(norm(w.name)) ?? byName.get(norm(w.page.replace(/\s*\([^)]*\)$/, '')))
+    if (p && !sameClub(w.allTeams, p.clubs ?? [])) {
+      cupLog.unmatched.push(`${w.name} (${[...new Set(w.allTeams.filter((_, i) => i % 2 === 0))].join(', ')} no coincide con ${p.clubs?.join(', ') || 'sin clubes'})`)
+      continue
+    }
+    if (!p && nameCount.get(norm(w.name)) > 1) {
+      cupLog.unmatched.push(`${w.name} (nombre repetido en el dataset)`)
+      continue
+    }
+    const add = {}
+    for (const [comp, g] of Object.entries(w.goals)) {
+      if (comp === 'ascenso') continue
+      add[comp] = exact[comp] ?? g
+    }
+    for (const [comp, g] of Object.entries(exact)) add[comp] ??= g
+    // Transfermarkt already sums the second division from 2008/09 on
+    const limit = p && TM_SCOPES.has(p.scope) ? 2008 : null
+    const ascensoGoals = w.editions
+      .filter((x) => x.startsWith(COMPS.ascenso.label + ' '))
+      .filter((x) => !limit || +x.match(/ (\d{4}): /)[1] <= limit)
+      .reduce((s, x) => s + +x.split(': ')[1], 0)
+    const intl = (add.libertadores ?? 0) + (add.sudamericana ?? 0) + (add.supercopa ?? 0)
+    const dom = (add.copaArgentina ?? 0) + (add.copaLiga ?? 0)
+    if (!p) {
+      if (!(w.goals.ascenso > 0)) continue // cup-only rows are not enough for a card
+      if (isKnown(w.name)) {
+        cupLog.unmatched.push(w.name)
+        continue
+      }
+      const info = wikiInfo[w.page]
+      const position = positionFromWiki(info?.raw)
+      const parts = w.name.split(' ')
+      const p2 = {
+        id: slug(w.name),
+        name: w.name,
+        shortName: parts.length > 1 ? parts.slice(1).join(' ') : w.name,
+        position: position ?? 'ST',
+        goals: ascensoGoals + dom + intl,
+        leagueGoals: ascensoGoals,
+        cupGoals: dom,
+        intlGoals: intl,
+        club: mostCommon(w.teams) ?? '—',
+        clubs: [...new Set(w.teams)],
+        division: 'Primera Nacional',
+        scope: 'Ascenso y copas (goleadores por temporada, parcial)',
+        era: '—',
+        source: { name: 'Wikipedia — tablas de goleadores por temporada (Primera B Nacional / Primera Nacional y copas)', url: wikiUrl(w.page) },
+        editions: w.editions,
+        review: ['editions-partial', ...(position ? [] : ['position-unverified'])],
+      }
+      players.push(p2)
+      byName.set(norm(p2.name), p2)
+      cupLog.added++
+      continue
+    }
+    if (!LEAGUE_ONLY.has(p.scope)) continue
+    const extra = dom + intl + ascensoGoals
+    if (!extra) continue
+    p.goals += extra
+    p.leagueGoals = (p.leagueGoals ?? 0) + ascensoGoals
+    p.cupGoals = (p.cupGoals ?? 0) + dom
+    p.intlGoals = (p.intlGoals ?? 0) + intl
+    p.scope = `${p.scope} + ${[dom && 'copas nacionales', intl && 'internacionales', ascensoGoals && 'ascenso previo'].filter(Boolean).join(', ')}`
+    p.cupSources = w.editions
+    const partial = Object.keys(add).some((c) => exact[c] === undefined) || ascensoGoals > 0
+    if (partial) (p.review ??= []).push('cups-partial')
+    else cupLog.exact++
+    for (const c of Object.keys(add)) perComp[c] = (perComp[c] ?? 0) + 1
+    cupLog.upgraded++
+  }
+  report.push(
+    `Copas y ascenso (Wikipedia): ${EDITIONS.length} ediciones (${ed.fromInfobox.length} solo con el goleador de la ficha, ${ed.empty.length} sin tabla legible), tablas históricas de Libertadores y Sudamericana. ${cupLog.upgraded} jugadores con goles de copas o ascenso previo sumados (${cupLog.exact} con totales exactos; el resto marcado \`cups-partial\`), ${cupLog.added} jugadores de ascenso agregados (\`editions-partial\`), ${cupLog.unmatched.length} sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: ${Object.entries(perComp).map(([c, n]) => `${COMPS[c].label} ${n}`).join(', ')}.`,
+  )
+  for (const t of ed.empty) skipped.push(`${t}: sin tabla de goleadores legible`)
+  for (const n of cupLog.unmatched) skipped.push(`Copas/ascenso sin sumar — ${n}`)
 
   // unique ids
   const seen = new Map()
@@ -468,7 +649,7 @@ function main() {
 
   // full audit copy (review flags, discrepancies) next to the report; the app ships a slim copy
   fs.writeFileSync(FULL, JSON.stringify(players, null, 1) + '\n')
-  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, ...p }) => ({
+  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, editions: _e, cupSources: _c, ...p }) => ({
     ...p,
     source: { name: p.source.name, url: p.source.url },
   }))
@@ -481,8 +662,8 @@ function main() {
     `Generado por \`scripts/build-dataset.mjs\`. Total: **${players.length}** jugadores.`,
     '',
     '## Definición de goles',
-    'Goles de liga argentina en la división indicada. Sin copas, sin selección, sin clubes extranjeros, sin amistosos.',
-    'Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura + Liga Profesional, desde 1990/91, si hizo goles ahí o es arquero) > Transfermarkt Primera Nacional (ARG2, desde 2008/09). Los goles de Transfermarkt salen de sumar las listas por temporada (completas) y se controlan contra su lista histórica. No incluye Copa de la Liga ni copas.',
+    'Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.',
+    'Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura + Liga Profesional, desde 1990/91, si hizo goles ahí o es arquero) > Transfermarkt Primera Nacional (ARG2, desde 2008/09). Los goles de Transfermarkt salen de sumar las listas por temporada (completas) y se controlan contra su lista histórica. Copas y ascenso previo a 2008/09 se suman desde Wikipedia (tablas de goleadores por edición: cota inferior, marcada `cups-partial`; tablas históricas de Libertadores y Sudamericana: exactas).',
     '',
     '## Resumen',
     ...report.map((r) => `- ${r}`),
@@ -492,6 +673,9 @@ function main() {
     '',
     '## Discrepancias entre fuentes (se usa RSSSF)',
     ...(discrepancyLog.length ? discrepancyLog.map((d) => `- ${d}`) : ['- Ninguna']),
+    '',
+    '## Primera: dataset vs tablas de Wikipedia (5+ goles de diferencia; se mantiene el dato del dataset)',
+    ...(primeraCheck.length ? primeraCheck.map((d) => `- ${d}`) : ['- Ninguna']),
     '',
     '## Suma por temporada vs histórico de Transfermarkt',
     ...(sumMismatch.length ? sumMismatch.map((d) => `- ${d}`) : ['- Todas coinciden']),
@@ -504,6 +688,8 @@ function main() {
     '- `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.',
     '- `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).',
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
+    '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
+    '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players
       .filter((p) => p.review?.some((r) => r !== 'position-unverified' && !r.startsWith('seasons-before') && r !== 'season-list-truncated'))

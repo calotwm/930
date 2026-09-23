@@ -1,0 +1,1722 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Estádio Palestra Itália3.JPG
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Palestra Itália]] ([[São Paulo]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Libertadores 1999|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]<br>{{México}}
+| participantes = 21 de 11 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|21|2|1999}}
+| fecha de cierre = {{fecha2|16|6|1999}}
+| edición = XL
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|COL}} [[Deportivo Cali]]
+| semifinalistas = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]] <br> {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| titulotercero = Semifinalistas
+| partidos = 90
+| goles = 259 (2,87 por partido)
+| goleadores = {{bandera|COL}} [[Víctor Bonilla]] (6 goles)<br><small>([[Deportivo Cali]])</small><br>{{bandera|BRA}} [[João Fernando Nelo|Fernando Baiano]] (6 goles)<br><small>([[Sport Club Corinthians Paulista|Corinthians]])</small><br>{{bandera|BRA}} [[Paulo Roberto Junges|Gauchinho]] (6 goles)<br><small>([[Club Cerro Porteño|Cerro Porteño]])</small><br>{{bandera|VEN|1954}} [[Ruberth Morán]] (6 goles)<br><small>([[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]])</small><br>{{bandera|URU}} [[Rubén Sosa]] (6 goles)<br><small>([[Club Nacional de Football|Nacional]])</small><br>{{bandera|COL}} [[Martín Zapata Viveros|Martín Zapata]] (6 goles)<br><small>([[Deportivo Cali]])</small>
+| anterior = [[Copa Libertadores 1998]]
+| actual = Copa Libertadores 1999
+| siguiente = [[Copa Libertadores 2000]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1999''', denominada por motivos comerciales '''Copa Toyota Libertadores 1999''', fue la cuadragésima edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de once países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[México]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Sociedade Esportiva Palmeiras|Palmeiras]] de Brasil, que logró su primer título en la competición. Gracias a él, disputó la [[Copa Intercontinental 1999]] frente a [[Manchester United Football Club|Manchester United]] de [[Inglaterra]] y consiguió clasificarse a la fase de grupos de la [[Copa Libertadores 2000]].
+
+== Formato ==
+Los representantes de [[México]] y [[Venezuela]] jugaron una eliminatoria previa en una zona única y bajo el [[sistema de todos contra todos]] a ida y vuelta para determinar a los últimos 2 clasificados a la competición. El campeón vigente accedió de manera directa a las fases finales, mientras que los 20 equipos restantes disputaron la Fase de grupos. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que, de haber dos representantes de una misma asociación nacional, ambos debían caer indefectiblemente en la misma zona. Los tres primeros de cada uno de los cinco grupos clasificaron a los octavos de final, en donde se les unió el campeón vigente, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile,<br>Colombia, Ecuador, Paraguay, Perú y Uruguay
+* 2 equipos clasificados de la [[Anexo:Copa Pre Libertadores 1999|Copa Pre Libertadores 1999]]
+|
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la [[Copa Libertadores 1998]]
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 5 equipos terceros de la Fase de grupos
+|}
+
+== Copa Pre Libertadores 1999 ==
+{{AP|Anexo:Copa Pre Libertadores 1999|l1=Copa Pre Libertadores 1999}}
+Los dos clasificados de México y los dos de Venezuela se enfrentaron en la '''Copa Pre Libertadores''', con el fin de determinar a los dos últimos cuadros clasificados a la fase de grupos del certamen. El torneo se desarrolló bajo un sistema de liguilla en donde se enfrentaron todos contra todos. Los equipos ubicados en primer y segundo lugar de la tabla final accedieron a la Copa Libertadores.
+
+=== Equipos participantes ===
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="17%" |País
+! width="17%" |Equipo
+! width="66%" |Vía de clasificación
+|- bgcolor="#F5FAFF"
+|{{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>2 invitados</small>
+|[[Club de Fútbol Monterrey|''Monterrey'']]<br>[[Club Necaxa|''Necaxa'']]
+|Campeón de la [[Pre Pre Libertadores 1998]]<br>Campeón de la [[Pre Pre Libertadores 1998]]
+|-
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Universidad de Los Andes FC|Universidad de Los Andes]]<ref>[[Atlético Zulia Fútbol Club|Atlético Zulia]] clasificó por ser el campeón de la [[Primera División de Venezuela 1997-98]], pero negoció sus derechos con [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]] para que éste ascendiera y tomase su lugar.</ref><br>[[Atlético Zulia Fútbol Club|Estudiantes de Mérida]]
+|Campeón de la [[Primera División de Venezuela 1997-98]]<br>Subcampeón de la [[Primera División de Venezuela 1997-98]]
+|}
+
+=== Resultados ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|MEX}} '''[[Club de Fútbol Monterrey|Monterrey]]'''
+|'''10'''||6||3||1||2||13||9||4
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|VEN|1954}} '''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|'''10'''||6||3||1||2||9||9||0
+|- align="center"
+|style="text-align:left;"|{{bandera|MEX}} [[Club Necaxa|Necaxa]]
+|'''9'''||6||2||3||1||5||3||2
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+|'''4'''||6||1||1||4||5||11||–6
+|}
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|16 de septiembre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|3:2
+| align=left |[[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de septiembre de 1998
+|[[Ciudad de México]]
+| align=right |[[Club Necaxa|Necaxa]]
+|'''2:2'''
+| align=left |[[Club de Fútbol Monterrey|Monterrey]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de septiembre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|'''0:0'''
+| align=left |[[Club Necaxa|Necaxa]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de octubre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |[[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+|'''0:0'''
+| align=left |[[Club Necaxa|Necaxa]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de octubre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|3:0
+| align=left |[[Club de Fútbol Monterrey|Monterrey]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de octubre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Union Local Andina Fútbol Club|Universidad de Los Andes]]'''
+|2:1
+| align=left |[[Club de Fútbol Monterrey|Monterrey]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de octubre de 1998
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |[[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+|0:2
+| align=left |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+
+|- align=center bgcolor=#F5FAFF
+|28 de octubre de 1998
+|[[Monterrey]]
+| align=right |'''[[Club de Fútbol Monterrey|Monterrey]]'''
+|1:0
+| align=left |[[Club Necaxa|Necaxa]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de noviembre de 1998
+|[[Ciudad de México]]
+| align=right |'''[[Club Necaxa|Necaxa]]'''
+|2:0
+| align=left |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de noviembre de 1998
+|[[Monterrey]]
+| align=right |'''[[Club de Fútbol Monterrey|Monterrey]]'''
+|5:1
+| align=left |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de noviembre de 1998
+|[[Ciudad de México]]
+| align=right |'''[[Club Necaxa|Necaxa]]'''
+|1:0
+| align=left |[[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de noviembre de 1998
+|[[Monterrey]]
+| align=right |'''[[Club de Fútbol Monterrey|Monterrey]]'''
+|4:1
+| align=left |[[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+|}
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!width=19%|País
+!width=23%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|Campeón del [[Anexo:Torneo Apertura 1997 (Argentina)|Torneo Apertura 1997]]<br>Campeón del [[Anexo:Torneo Clausura 1998 (Argentina)|Torneo Clausura 1998]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Blooming|Blooming]]<br>[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|Campeón del [[Campeonato de Primera División 1998 (Bolivia)|Campeonato de Primera División 1998]]<br>Subcampeón del Campeonato de Primera División 1998
+
+|- bgcolor=#F5FAFF
+| {{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club de Regatas Vasco da Gama|Vasco da Gama]]<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]
+|Campeón de la [[Copa Libertadores 1998]]<br>Campeón del [[Campeonato Brasileño de Fútbol 1998|Campeonato Brasileño de 1998]]<br>Campeón de la [[Copa de Brasil 1998]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Campeón del [[Primera División de Chile 1998|Campeonato de Primera División 1998]]<br>Ganador de la [[Liguilla Pre-Libertadores 1998 (Chile)|Liguilla Pre-Libertadores 1998]]
+
+|- bgcolor=#F5FAFF
+| {{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Deportivo Cali]]<br>''[[Once Caldas]]''
+|Campeón del [[Campeonato colombiano 1998|Campeonato Colombiano 1998]]<br>Mejor equipo ubicado en la [[Campeonato colombiano 1998#Reclasificación|Reclasificación 1998]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>[[Club Sport Emelec|Emelec]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1998|Campeonato Ecuatoriano de 1998]]<br>Subcampeón del Campeonato Ecuatoriano de 1998
+
+|- bgcolor=#F5FAFF
+| {{bandera|México}} '''[[Federación Mexicana de Fútbol Asociación|México]]'''<br><small>1 invitado</small>
+|''[[Club de Fútbol Monterrey|Monterrey]]''
+|1.º puesto de la [[Anexo:Copa Pre Libertadores 1999|Copa Pre Libertadores 1999]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1998|Campeonato Paraguayo de 1998]]<br>Subcampeón del Campeonato Paraguayo de 1998
+
+|- bgcolor=#F5FAFF
+| {{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Universitario de Deportes|Universitario]]<br>[[Club Sporting Cristal|Sporting Cristal]]
+|Campeón del [[Campeonato Descentralizado 1998]]<br>Subcampeón del Campeonato Descentralizado 1998
+
+|- bgcolor=#DDEEFF
+| {{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Bella Vista|Bella Vista]]
+|Campeón del [[Campeonato Uruguayo de Primera División 1998|Campeonato Uruguayo de 1998]]<br>Ganador de la [[Liguilla Pre-Libertadores de América de 1998]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>1 cupo</small>
+|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|2.º puesto de la Copa Pre Libertadores 1999
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Libertadores 1999'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Blooming|Blooming]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small><br>[[Club Deportivo Jorge Wilstermann|{{Esd|Jorge Wilstermann}}]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=5.066111|long=-75.484722|label=<small>[[Once Caldas|{{Esd|Once Caldas}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[Deportivo Cali|{{Esd|Deportivo Cali}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Club Sport Emelec|Emelec]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]<br>[[Club Universitario de Deportes|Universitario]]</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Atlético Bella Vista|{{Esd|Bella Vista}}]]<br>[[Club Nacional de Football|Nacional]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=8.583333|long=-71.133333|label=<small>[[Estudiantes de Mérida Fútbol Club|{{Esd|Estudiantes de Mérida}}]]</small>|position=right}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Libertadores 1999'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=25.671389|long=-100.308611|label=<small>[[Club de Fútbol Monterrey|Monterrey]]</small>|position=left}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''12'''||6||4||0||2||9||8||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|VEN}} '''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|'''9'''||6||3||0||3||9||14||–5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Atlético Bella Vista|Bella Vista]]'''
+|'''7'''||6||2||1||3||9||6||3
+|- align="center"
+|style="text-align:left;"|{{bandera|MEX}} [[Club de Fútbol Monterrey|Monterrey]]
+|'''7'''||6||2||1||3||10||9||1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|2:1
+| align=left |[[Club de Fútbol Monterrey|Monterrey]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Montevideo]]
+| align=right |[[Club Atlético Bella Vista|Bella Vista]]
+|0:1
+| align=left |'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Monterrey]]
+| align=right |[[Club de Fútbol Monterrey|Monterrey]]
+|'''1:1'''
+| align=left |[[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|2:1
+| align=left |[[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Monterrey]]
+| align=right |[[Club de Fútbol Monterrey|Monterrey]]
+|1:2
+| align=left |'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+| align=right |'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|3:1
+| align=left |[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Monterrey]]
+| align=right |'''[[Club de Fútbol Monterrey|Monterrey]]'''
+|4:0
+| align=left |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Nacional de Football|Nacional]]'''
+|1:0
+| align=left |[[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Maldonado]]
+| align=right |'''[[Club Atlético Bella Vista|Bella Vista]]'''
+|2:0
+| align=left |[[Club de Fútbol Monterrey|Monterrey]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Montevideo]]
+| align=right |[[Club Nacional de Football|Nacional]]
+|2:3
+| align=left |'''[[Club de Fútbol Monterrey|Monterrey]]'''
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[Maldonado]]
+| align=right |'''[[Club Atlético Bella Vista|Bella Vista]]'''
+|5:1
+| align=left |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de abril
+|[[Montevideo]]
+| align=right |'''[[Club Nacional de Football|Nacional]]'''
+|2:1
+| align=left |[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|'''9'''||6||2||3||1||6||3||3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[Deportivo Cali]]'''
+|'''9'''||6||3||0||3||4||8||–4
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''8'''||6||2||2||2||8||8||0
+|- align="center"
+|style="text-align:left;"|{{bandera|COL}} [[Once Caldas]]
+|'''7'''||6||2||1||3||7||6||1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Cali]]
+| align=right |'''[[Deportivo Cali]]'''
+|1:0
+| align=left |[[Once Caldas]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Buenos Aires]]
+| align=right |[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|'''1:1'''
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Manizales]]
+| align=right |'''[[Once Caldas]]'''
+|4:1
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Cali]]
+| align=right |'''[[Deportivo Cali]]'''
+|1:0
+| align=left |[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Manizales]]
+| align=right |[[Once Caldas]]
+|'''0:0'''
+| align=left |[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Cali]]
+| align=right |'''[[Deportivo Cali]]'''
+|1:0
+| align=left |[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Manizales]]
+| align=right |'''[[Once Caldas]]'''
+|3:0
+| align=left |[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Buenos Aires]]
+| align=right |[[Club Atlético River Plate|River Plate]]
+|'''1:1'''
+| align=left |[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|1:0
+| align=left |[[Once Caldas]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|3:0
+| align=left |[[Once Caldas]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de abril
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético River Plate|River Plate]]'''
+|2:1
+| align=left |[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|3:0
+| align=left |[[Deportivo Cali]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|'''12'''||6||4||0||2||16||8||8
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''10'''||6||3||1||2||12||10||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''7'''||6||2||1||3||14||20||–6
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+|'''5'''||6||1||2||3||11||15||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|4:3
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de febrero
+|[[São Paulo]]
+| align=right |'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|1:0
+| align=left |[[Sport Club Corinthians Paulista|Corinthians]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Asunción]]
+| align=right |[[Club Cerro Porteño|Cerro Porteño]]
+|2:5
+| align=left |'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|4:2
+| align=left |[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[São Paulo]]
+| align=right |'''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|8:2
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[São Paulo]]
+| align=right |[[Sociedade Esportiva Palmeiras|Palmeiras]]
+|'''1:1'''
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Asunción]]
+| align=right |[[Club Olimpia|Olimpia]]
+|'''2:2'''
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[São Paulo]]
+| align=right |'''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|2:1
+| align=left |[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|3:0
+| align=left |[[Sport Club Corinthians Paulista|Corinthians]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Asunción]]
+| align=right |[[Club Olimpia|Olimpia]]
+|1:2
+| align=left |'''[[Sport Club Corinthians Paulista|Corinthians]]'''
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[São Paulo]]
+| align=right |'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|2:1
+| align=left |[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[São Paulo]]
+| align=right |'''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|4:0
+| align=left |[[Club Olimpia|Olimpia]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''11'''||6||3||2||1||9||5||4
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''8'''||6||2||2||2||5||7||–2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+|'''7'''||6||2||1||3||7||8||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''5'''||6||0||5||1||7||8||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Lima]]
+| align=right |'''[[Club Universitario de Deportes|Universitario]]'''
+|2:1
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''1:1'''
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Lima]]
+| align=right |'''[[Club Universitario de Deportes|Universitario]]'''
+|2:0
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|1:0
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''1:1'''
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''2:2'''
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|3:1
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|'''1:1'''
+| align=left |[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''1:1'''
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Lima]]
+| align=right |[[Club Universitario de Deportes|Universitario]]
+|1:3
+| align=left |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|'''10'''||6||3||1||2||10||8||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Club Sport Emelec|Emelec]]'''
+|'''9'''||6||3||0||3||9||12||–3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|'''8'''||6||2||2||2||9||9||0
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Blooming|Blooming]]
+|'''7'''||6||2||1||3||5||4||1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Quito]]
+| align=right |'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|4:1
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |[[Club Blooming|Blooming]]
+|'''0:0'''
+| align=left |[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|3:2
+| align=left |[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Quito]]
+| align=right |'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|3:1
+| align=left |[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|1:0
+| align=left |[[Club Blooming|Blooming]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Quito]]
+| align=right |'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|1:0
+| align=left |[[Club Blooming|Blooming]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|2:0
+| align=left |[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Cochabamba]]
+| align=right |'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|1:0
+| align=left |[[Club Blooming|Blooming]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Cochabamba]]
+| align=right |'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|4:2
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Blooming|Blooming]]'''
+|2:0
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de abril
+|[[Cochabamba]]
+| align=right |[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''1:1'''
+| align=left |[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+| align=right |'''[[Club Blooming|Blooming]]'''
+|3:1
+| align=left |[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=35 | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Fechas -->
+|octavos = 14 al 21 de abril
+|cuartos = 5 al 12 de mayo
+|semifinal = 19 al 26 de mayo
+|final = 2 y 16 de agosto
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 14 al 21 de abril
+
+|RD1-seed1 = G3 1
+|RD1-seed2 = G5 3
+|RD1-team1 = {{bandera|BRA}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|RD1-team2 = {{bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|RD1-score1-1 = 1
+|RD1-score2-1 = 1
+|RD1-score1-2 = 5
+|RD1-score2-2 = 2
+|RD1-score1-3 = '''6'''
+|RD1-score2-3 = '''3'''
+
+|RD1-seed3 = CV
+|RD1-seed4 = G3 2
+|RD1-team3 = {{bandera|BRA}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|RD1-team4 = {{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|RD1-score3-1 = 1
+|RD1-score4-1 = 1
+|RD1-score3-2 = 2
+|RD1-score4-2 = 4
+|RD1-score3-3 = '''3'''
+|RD1-score4-3 = '''5'''
+
+|RD1-seed5 = G2 1
+|RD1-seed6 = G4 3
+|RD1-team5 = {{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|RD1-team6 = {{bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+|RD1-score5-1 = 0
+|RD1-score6-1 = 0
+|RD1-score5-2 = 4
+|RD1-score6-2 = 0
+|RD1-score5-3 = '''4'''
+|RD1-score6-3 = '''0'''
+
+|RD1-seed7 = G5 1
+|RD1-seed8 = G2 3
+|RD1-team7 = {{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|RD1-team8 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]''' <small>([[Tiros desde el punto penal|p]])</small>
+|RD1-score7-1 = 0
+|RD1-score8-1 = 1
+|RD1-score7-2 = 1
+|RD1-score8-2 = 0
+|RD1-score7-3 = '''1&nbsp;{{small|(4)}}'''
+|RD1-score8-3 = '''1&nbsp;{{small|(5)}}'''
+
+|RD1-seed9 = G1 1
+|RD1-seed10 = G3 3
+|RD1-team9 = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|RD1-team10 = {{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|RD1-score9-1 = 0
+|RD1-score10-1 = 5
+|RD1-score9-2 = 2
+|RD1-score10-2 = 1
+|RD1-score9-3 = '''2'''
+|RD1-score10-3 = '''6'''
+
+|RD1-seed11 = G1 2
+|RD1-seed12 = G5 2
+|RD1-team11 = {{nowrap|{{bandera|VEN|1954}} '''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''}}
+|RD1-team12 = {{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+|RD1-score11-1 = 3
+|RD1-score12-1 = 1
+|RD1-score11-2 = 0
+|RD1-score12-2 = 1
+|RD1-score11-3 = '''3'''
+|RD1-score12-3 = '''2'''
+
+|RD1-seed13 = G4 1
+|RD1-seed14 = G1 3
+|RD1-team13 = {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|RD1-team14 = {{bandera|URU}} '''[[Club Atlético Bella Vista|Bella Vista]]'''
+|RD1-score13-1 = 2
+|RD1-score14-1 = 2
+|RD1-score13-2 = 1
+|RD1-score14-2 = 3
+|RD1-score13-3 = '''3'''
+|RD1-score14-3 = '''5'''
+
+|RD1-seed15 = G4 2
+|RD1-seed16 = G2 2
+|RD1-team15 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|RD1-team16 = {{bandera|COL}} '''[[Deportivo Cali]]'''
+|RD1-score15-1 = 0
+|RD1-score16-1 = 2
+|RD1-score15-2 = 1
+|RD1-score16-2 = 0
+|RD1-score15-3 = '''1'''
+|RD1-score16-3 = '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 5 al 12 de mayo
+
+|RD2-team1 = {{bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|RD2-team2 = {{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' <small>([[Tiros desde el punto penal|p]])</small>
+|RD2-score1-1 = 0
+|RD2-score2-1 = 2
+|RD2-score1-2 = 2
+|RD2-score2-2 = 0
+|RD2-score1-3 = '''2&nbsp;{{small|(2)}}'''
+|RD2-score2-3 = '''2&nbsp;{{small|(4)}}'''
+
+|RD2-team3 = {{bandera|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|RD2-team4 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|RD2-score3-1 = 0
+|RD2-score4-1 = 2
+|RD2-score3-2 = 1
+|RD2-score4-2 = 0
+|RD2-score3-3 = '''1'''
+|RD2-score4-3 = '''2'''
+
+|RD2-team5 = {{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|RD2-team6 = {{bandera|VEN|1954}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|RD2-score5-1 = 0
+|RD2-score6-1 = 3
+|RD2-score5-2 = 4
+|RD2-score6-2 = 0
+|RD2-score5-3 = '''4'''
+|RD2-score6-3 = '''3'''
+
+|RD2-team7 = {{bandera|URU}} [[Club Atlético Bella Vista|Bella Vista]]
+|RD2-team8 = {{bandera|COL}} '''[[Deportivo Cali]]'''
+|RD2-score7-1 = 1
+|RD2-score8-1 = 2
+|RD2-score7-2 = 1
+|RD2-score8-2 = 1
+|RD2-score7-3 = '''2'''
+|RD2-score8-3 = '''3'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 19 al 26 de mayo
+
+|RD3-team1 = {{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|RD3-team2 = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|RD3-score1-1 = 0
+|RD3-score2-1 = 1
+|RD3-score1-2 = 3
+|RD3-score2-2 = 0
+|RD3-score1-3 = '''3'''
+|RD3-score2-3 = '''1'''
+
+|RD3-team3 = {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|RD3-team4 = {{bandera|COL}} '''[[Deportivo Cali]]'''
+|RD3-score3-1 = 0
+|RD3-score4-1 = 4
+|RD3-score3-2 = 3
+|RD3-score4-2 = 2
+|RD3-score3-3 = '''3'''
+|RD3-score4-3 = '''6'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 1999|Final]]
+| RD4-date= 2 y 16 de junio
+
+|RD4-team1 = {{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' <small>([[Tiros desde el punto penal|p]])</small>
+|RD4-team2 = {{bandera|COL}} [[Deportivo Cali]]
+|RD4-score1-1 = 0
+|RD4-score2-1 = 1
+|RD4-score1-2 = 2
+|RD4-score2-2 = 1
+|RD4-score1-3 = '''2&nbsp;{{small|(4)}}'''
+|RD4-score2-3 = '''2&nbsp;{{small|(3)}}'''
+}}
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>'''Nota 2''': En las llaves de octavos de final, a cada equipo se le indica "''Gx p''", donde ''p'' es la posición final que ocupó en el grupo ''x'' de la fase de grupos.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paíslocal       = BOL
+|resultado       = 1:1''' (0:0)
+|visita          = [[Sport Club Corinthians Paulista|Corinthians]]
+|paísvisita      = BRA
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Félix Capriles]]
+|ciudad          = [[Cochabamba]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Epifanio González}}
+|goleslocal      = [[Sérgio João|João]] {{gol|48}}
+|golesvisita     = {{gol|69}} [[Marcelinho Carioca|Marcelinho]] 
+}}
+{{Partido
+|local           = [[Sport Club Corinthians Paulista|Corinthians]]
+|paíslocal       = BRA
+|resultado       = 5:2''' (2:0)
+|visita          = [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|paísvisita      = BOL
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Ubaldo Aquino}}
+|goleslocal      = [[Edílson da Silva Ferreira|Edílson]] {{gol|31}}<br>[[Claudinei Alexandre Pires|Dinei]] {{gol|44||80}}<br>[[Fábio Camilo de Brito|Nenê]] {{gol|50||86}}
+|golesvisita     = {{gol|82}} [[Jhonny Villarroel|Villarroel]]<br>{{gol|82}} [[Carlos Cárdenas Rodríguez|Cárdenas]] 
+}}
+<br>
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|resultado       = 1:1''' (1:0)
+|visita          = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paísvisita      = BRA
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Palestra Itália]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = [[Oséas Reis dos Santos|Oséas]] {{gol|41}}
+|golesvisita     = {{gol|64}} [[Guilherme de Cássio Alves|Guilherme]] 
+}}
+{{Partido
+|local           = [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|paíslocal       = BRA
+|resultado       = 2:4''' (2:2)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio São Januário]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Wilson de Souza Mendonça|Wilson de Souza}}
+|goleslocal      = [[Luizão]] {{gol|3}}<br>[[César Sampaio|Sampaio]] {{gol|34|a.g.}}
+|golesvisita     = {{gol|28}} [[Paulo Nunes|Nunes]]<br>{{gol|31||48}} [[Alexsandro de Souza|Alex]]<br>{{gol|50}} [[Francisco Arce|Arce]] 
+}}
+<br>
+{{Partido
+|local           = [[Club Universitario de Deportes|Universitario]]
+|paíslocal       = PER
+|resultado       = 0:0
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      = 44&nbsp;750
+|refe            = {{árbitro|COL|Óscar Ruiz}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 4:0''' (2:0)
+|visita          = [[Club Universitario de Deportes|Universitario]]
+|paísvisita      = PER
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Oscar Roberto Godói}}
+|goleslocal      = [[José Luis Chilavert|Chilavert]] {{gol|6}}<br>[[Patricio Camps|Camps]] {{gol|40}}<br>[[Darío Husaín|Husaín]] {{gol|81||88}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (1:0)
+|visita          = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Mario Sánchez Yantén}}
+|goleslocal      = [[Carlos Netto|Netto]] {{gol|8|pen.}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio de Liga Deportiva Universitaria|Estadio Casa Blanca]]
+|ciudad          = [[Quito]]
+|asistencia      = 
+|refe            = {{árbitro|URU|José Luis Da Rosa}}
+|goleslocal      = [[Luis Capurro|Capurro]] {{gol|88}}
+|golesvisita     = 
+|penaltis1       = [[Ricardo Pérez Tamayo|Pérez]] {{pengol}}<br>[[Ulises de la Cruz|de la Cruz]] {{pengol}}<br>[[Patricio Hurtado|Hurtado]] {{pengol}}<br>[[Líder Mejía|Mejía]] {{pengol}}<br>[[Alexander Escobar Gañán|Escobar]] {{penfallo|atajado}}
+|resultado penalti = 4:5
+|penaltis2       = {{pengol}} [[Carlos Netto|Netto]]<br>{{pengol}} [[Leonardo Ramos|Ramos]]<br>{{pengol}} [[Leonel Gancedo|Gancedo]]<br>{{pengol}} [[Eduardo Berizzo|Berizzo]]<br>{{pengol}} [[Leonardo Astrada|Astrada]]
+}}
+<br>
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 5:0''' (3:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Cláudio Cerdeira}}
+|goleslocal      = [[Héctor Antonio Blanco Salcedo|Blanco]] {{gol|1}}<br>[[Jorge Luis Campos|Campos]] {{gol|30}}<br>[[Mauro Antonio Caballero|M. Caballero]] {{gol|45||65}}<br>[[Paulo Roberto Junges|Gauchinho]] {{gol|57}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 2:1''' (1:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Guido Aros}}
+|goleslocal      = [[Rubén Sosa|Sosa]] {{gol|26}}<br>[[Gabriel Álvez|Álvez]] {{gol|86}}
+|golesvisita     = {{gol|46}} [[Éber Fernández|Fernández]] 
+}}
+<br>
+{{Partido
+|local           = [[Club Sport Emelec|Emelec]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:3''' (1:3)
+|visita          = [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio George Capwell]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|José Flavio Rojas|Flavio Rojas}}
+|goleslocal      = [[Carlos Alberto Juárez|Juárez]] {{gol|31}}
+|golesvisita     = {{gol|14||41}} [[Hernán Raíces|Raíces]]<br>{{gol|26}} [[Ruberth Morán|Morán]] 
+}}
+{{Partido
+|local           = [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 0:1''' (0:1)
+|visita          = [[Club Sport Emelec|Emelec]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio Guillermo Soto Rosa]]
+|ciudad          = [[Mérida (Venezuela)|Mérida]]
+|asistencia      = 
+|refe            = {{árbitro|PER|José Arana Villamonte}}
+|goleslocal      = 
+|golesvisita     = {{gol|37}} [[Luis Moreira|Moreira]] 
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Bella Vista|Bella Vista]]
+|paíslocal       = URU
+|resultado       = 2:2''' (0:1)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Domingo Burgueño Miguel|Estadio Domingo Burgueño]]
+|ciudad          = [[Maldonado]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Horacio Elizondo}}
+|goleslocal      = [[Diego Alonso|Alonso]] {{gol|72}}<br>[[Alejandro Lembo|Lembo]] {{gol|89}}
+|golesvisita     = {{gol|36}} [[Rodrigo Ríos (futbolista chileno)|Ríos]]<br>{{gol|54}} [[Marco Antonio Figueroa|Figueroa]] 
+}}
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 1:3''' (0:1)
+|visita          = [[Club Atlético Bella Vista|Bella Vista]]
+|paísvisita      = URU
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio San Carlos de Apoquindo]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|BOL|René Ortubé}}
+|goleslocal      = [[Marco Antonio Figueroa|Figueroa]] {{gol|67}}
+|golesvisita     = {{gol|35}} [[Martín Adrián García|García]]<br>{{gol|70}} [[Rodrigo Lemos Posende|Lemos]]<br>{{gol|82}} [[Diego Alonso|Alonso]]
+}}
+<br>
+{{Partido
+|local           = [[Deportivo Cali]]
+|paíslocal       = COL
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 14 de abril de 1999
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Gilberto Hidalgo}}
+|goleslocal      = [[Víctor Bonilla|Bonilla]] {{gol|3}}<br>[[Martín Zapata (futbolista colombiano)|Zapata]] {{gol|12|pen.}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 1:0''' (0:0)
+|visita          = [[Deportivo Cali]]
+|paísvisita      = COL
+|fecha           = 21 de abril de 1999
+|estadio         = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Saúl Feldman Apelbaum|Saúl Feldman}}
+|goleslocal      = [[Cristian Montecinos|Montecinos]] {{gol|48}}
+|golesvisita     = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|resultado       = 2:0''' (1:0)
+|visita          = [[Sport Club Corinthians Paulista|Corinthians]]
+|paísvisita      = BRA
+|fecha           = 5 de mayo de 1999
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Paulo Cesar de Oliveira}}
+|goleslocal      = [[Oséas Reis dos Santos|Oséas]] {{gol|19}}<br>[[Rogério Fidélis Régis|Rogério]] {{gol|67}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Sport Club Corinthians Paulista|Corinthians]]
+|paíslocal       = BRA
+|resultado       = 2:0''' (1:0)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|fecha           = 12 de mayo de 1999
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Oscar Roberto Godói}}
+|goleslocal      = [[Edílson da Silva Ferreira|Edílson]] {{gol|31}}<br>[[Ricardo Luís Pozzi Rodrigues|Ricardinho]] {{gol|54}}
+|golesvisita     = 
+|penaltis1       = [[Freddy Rincón|Rincón]] {{pengol}}<br>[[Claudinei Alexandre Pires|Dinei]] {{penfallo}}<br>[[Vampeta]] {{penfallo}}<br>[[Sylvio Mendes Campos Junior|Sylvinho]] {{pengol}}
+|resultado penalti = 2:4
+|penaltis2       = {{pengol}} [[Francisco Arce|Arce]]<br>{{pengol}} [[Evair Aparecido Paulino|Evair]]<br>{{pengol}} [[Rogério Fidélis Régis|Rogério]]<br>{{pengol}} [[Zinho]]
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 5 de mayo de 1999
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Horacio Elizondo}}
+|goleslocal      = [[Juan Pablo Sorín|Sorín]] {{gol|32}}<br>[[Javier Saviola|Saviola]] {{gol|71}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 12 de mayo de 1999
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|goleslocal      = [[Christian Bassedas|Bassedas]] {{gol|73}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 3:0''' (2:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 5 de mayo de 1999
+|estadio         = [[Estadio Guillermo Soto Rosa]]
+|ciudad          = [[Mérida (Venezuela)|Mérida]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Gilberto Hidalgo}}
+|goleslocal      = [[Miguel Ángel Echenausi|Echenausi]] {{gol|24}}<br>[[Hernán Raíces|Raíces]] {{gol|41}}<br>[[Ruberth Morán|Morán]] {{gol|86}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 4:0''' (1:0)
+|visita          = [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 12 de mayo de 1999
+|estadio         = [[Estadio General Pablo Rojas]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = [[Mauro Antonio Caballero|M. Caballero]] {{gol|27}}<br>[[Héctor Antonio Blanco Salcedo|Blanco]] {{gol|48}}<br>[[Paulo Roberto Junges|Gauchinho]] {{gol|68}}<br>[[Danilo Aceval|Aceval]] {{gol|87|pen.}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Deportivo Cali]]
+|paíslocal       = COL
+|resultado       = 2:1''' (1:1)
+|visita          = [[Club Atlético Bella Vista|Bella Vista]]
+|paísvisita      = URU
+|fecha           = 5 de mayo de 1999
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|VEN|Luis Vladimir Solórzano|Luis Solórzano}}
+|goleslocal      = [[Martín Zapata (futbolista colombiano)|Zapata]] {{gol|41}}<br>[[Víctor Bonilla|Bonilla]] {{gol|66}}
+|golesvisita     = {{gol|10}} [[Fabián Pumar|Pumar]] 
+}}
+{{Partido
+|local           = [[Club Atlético Bella Vista|Bella Vista]]
+|paíslocal       = URU
+|resultado       = 1:1''' (0:0)
+|visita          = [[Deportivo Cali]]
+|paísvisita      = COL
+|fecha           = 12 de mayo de 1999
+|estadio         = [[Estadio Domingo Burgueño Miguel|Estadio Domingo Burgueño]]
+|ciudad          = [[Maldonado]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Oscar Sequeira}}
+|goleslocal      = [[Martín Adrián García|García]] {{gol|59}}
+|golesvisita     = {{gol|79}} [[Víctor Bonilla|Bonilla]] 
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|fecha           = 19 de mayo de 1999
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|var=1990|Ubaldo Aquino}}
+|goleslocal      = [[Sergio Berti|Berti]] {{gol|48}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|resultado       = 3:0''' (2:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|fecha           = 26 de mayo de 1999
+|estadio         = [[Estadio Palestra Itália]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Gustavo Méndez (árbitro)|Gustavo Méndez}}
+|goleslocal      = [[Alexsandro de Souza|Alex]] {{gol|17||88}}<br>[[Roque Júnior]] {{gol|19}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Deportivo Cali]]
+|paíslocal       = COL
+|resultado       = 4:0''' (1:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 19 de mayo de 1999
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|goleslocal      = [[Carlos Castillo Ortiz|Castillo]] {{gol|35}}<br>[[Mayer Candelo|Candelo]] {{gol|46}}<br>[[Giovanni Córdoba|Córdoba]] {{gol|86}}<br>[[John Wilmar Pérez|Pérez]] {{gol|88}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 3:2''' (1:1)
+|visita          = [[Deportivo Cali]]
+|paísvisita      = COL
+|fecha           = 26 de mayo de 1999
+|estadio         = [[Estadio General Pablo Rojas]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Luis Mariano Peña}}
+|goleslocal      = [[Darío Caballero|D. Caballero]] {{gol|36}}<br>[[Paulo Roberto Junges|Gauchinho]] {{gol|61}}<br>[[Guido Alvarenga|Alvarenga]] {{gol|80}}
+|golesvisita     = {{gol|27}} [[Mayer Candelo|Candelo]]<br>{{gol|89}} [[Víctor Bonilla|Bonilla]] 
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1999|l1=Final de la Copa Libertadores 1999}}
+{{Partido
+|local           = [[Deportivo Cali]] 	 
+|paíslocal       = COL
+|resultado       = 1:0''' (1:0)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|fecha           = 2 de junio de 1999, 20:10 ([[UTC-5]])
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]] 
+|ciudad          = [[Cali]]
+|asistencia      = 37&nbsp;000
+|refe            = {{árbitro|CHI|Mario Sánchez Yantén}}
+|goleslocal      = [[Víctor Bonilla|Bonilla]] {{gol|42}}
+|golesvisita     = 
+|reporte         = http://www.senorgol.nu/libertadores/liber99calivspalm.htm
+|competición=Ida}}
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|resultado       = 2:1''' (0:0) 
+|visita          = [[Deportivo Cali]] 
+|paísvisita      = COL
+|fecha           = 16 de junio de 1999, 21:40 ([[UTC-3]]) 
+|estadio         = [[Estadio Palestra Itália]]	 
+|ciudad          = [[São Paulo]]	 
+|asistencia      = 32&nbsp;000
+|refe            = {{árbitro|PAR|var=1990|Ubaldo Aquino}}
+|goleslocal      = [[Evair Aparecido Paulino|Evair]] {{gol|64|pen.}} <br> [[Oséas Reis dos Santos|Oséas]] {{gol|75}}
+|golesvisita     = {{gol|69|pen.}} [[Martín Zapata (futbolista colombiano)|Zapata]] 
+|reporte         = http://www.senorgol.nu/libertadores/liber99calivspalm.htm
+|penaltis1       = [[Zinho]] {{penfallo|desviado}}<br>[[Júnior Baiano|Baiano]] {{pengol}}<br>[[Roque Júnior]] {{pengol}}<br>[[Rogério Fidélis Régis|Rogério]] {{pengol}}<br>[[Euller Elias de Carvalho|Euller]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2       = {{pengol}} [[Rafael Dudamel|Dudamel]]<br>{{pengol}} [[Hernán Gaviria|Gaviria]]<br>{{pengol}} [[Mario Yepes|Yepes]]<br>{{penfallo|palo}} [[Gerardo Bedoya|Bedoya]]<br>{{penfallo|desviado}} [[Martín Zapata (futbolista colombiano)|Zapata]]
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|bandera = Brasil
+|orden = 1
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+| {{bandera|Colombia}} '''[[Víctor Bonilla]]'''
+| {{bandera|Colombia}} '''[[Deportivo Cali]]'''
+| align=center|'''6'''
+|- bgcolor="D0E7FF"
+| {{bandera|Brasil}} '''[[João Fernando Nelo|Fernando Baiano]]'''
+| {{bandera|Brasil}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+| align=center|'''6'''
+|- bgcolor="D0E7FF"
+| {{bandera|Brasil}} '''[[Paulo Roberto Junges|Gauchinho]]'''
+| {{bandera|Paraguay|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| align=center|'''6'''
+|- bgcolor="D0E7FF"
+| {{bandera|Venezuela|1954}} '''[[Ruberth Morán]]'''
+| {{bandera|Venezuela|1954}} '''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+| align=center|'''6'''
+|- bgcolor="D0E7FF"
+| {{bandera|Uruguay}} '''[[Rubén Sosa]]'''
+| {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+| align=center|'''6'''
+|- bgcolor="D0E7FF"
+| {{bandera|Colombia}} '''[[Martín Zapata (futbolista colombiano)|Martín Zapata]]'''
+| {{bandera|Colombia}} '''[[Deportivo Cali]]'''
+| align=center|'''6'''
+|-
+| {{bandera|Uruguay}} [[Diego Alonso]]
+| {{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+| align=center|5
+|-
+| {{bandera|Paraguay|1990}} [[Mauro Antonio Caballero]]
+| {{bandera|Paraguay|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Claudinei Alexandre Pires|Dinei]]
+| {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Júnior Baiano]]
+| {{bandera|Brasil}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| align=center|5
+|-
+| {{bandera|Brasil}} [[Sérgio João]]
+| {{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+| align=center|5
+|}
+
+== Tabla general ==
+{| align=center cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=50%
+|- align=center bgcolor=#006699 style="color:white;"
+!width=50% colspan=2|Equipo
+!width=5%|Pts
+!width=5%|PJ
+!width=5%|PG
+!width=5%|PE
+!width=5%|PP
+!width=5%|GF
+!width=5%|GC
+!width=5%|Dif
+|- align=center bgcolor=#D0E7FF
+!1
+|align=left|{{bandera|Brasil}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''23'''||14||7||2||5||24||18||+6
+|- align=center
+!2
+|align=left|{{bandera|Colombia}} [[Deportivo Cali]]
+|'''22'''||14||7||1||6||17||16||+1
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!3
+|align=left|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+|'''17'''||12||5||2||5||12||13||-1
+|- align=center
+!4
+|align=left|{{bandera|Paraguay|variante=1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''16'''||12||5||1||6||27||31||-4
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!5
+|align=left|{{bandera|Venezuela|variante=1954}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|'''25'''||16||8||1||7||24||29||–5
+|- align=center
+!6
+|align=left|{{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+|'''19'''||10||6||1||3||24||13||+11
+|- align=center bgcolor=#D0E7FF
+!7
+|align=left|{{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|'''16'''||10||4||4||2||11||6||+5
+|- align=center
+!8
+|align=left|{{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+|'''12'''||10||3||3||4||16||12||+4
+|- style="border-top:1px solid #222;"align=center bgcolor=#D0E7FF
+!9
+|align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+|'''15'''||8||5||0||3||11||14||–3
+|- align=center 
+!10
+|align=left|{{bandera|Ecuador|variante=1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''13'''||8||4||1||3||11||9||+2
+|- align=center bgcolor=#D0E7FF
+!11
+|align=left|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''12'''||8||3||3||2||12||10||+2
+|- align=center
+!12
+|align=left|{{bandera|Ecuador|variante=1900}} [[Club Sport Emelec|Emelec]]
+|'''12'''||8||4||0||4||11||15||–4
+|- align=center bgcolor=#D0E7FF
+!13
+|align=left|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''11'''||8||3||2||3||6||9||–3
+|- align=center
+!14
+|align=left|{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''9'''||8||2||3||3||12||15||–3
+|- align=center bgcolor=#D0E7FF
+!15
+|align=left|{{bandera|Perú}} [[Club Universitario de Deportes|Universitario]]
+|'''8'''||8||2||2||4||7||12||–5
+|- align=center
+!16
+|align=left|{{bandera|Brasil}} [[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|'''1'''||2||0||1||1||3||5||–2
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!17
+|align=left|{{bandera|México}} [[Club de Fútbol Monterrey|Monterrey]]
+|'''17'''||12||5||2||5||23||18||+5
+|- align=center
+!18
+|align=left|{{bandera|Colombia}} [[Once Caldas]]
+|'''7'''||6||2||1||3||7||6||+1
+|- align=center bgcolor=#D0E7FF
+!19
+|align=left|{{bandera|Bolivia}} [[Club Blooming|Blooming]]
+|'''7'''||6||2||1||3||5||4||+1
+|- align=center
+!20
+|align=left|{{bandera|Perú}} [[ Club Sporting Cristal|Sporting Cristal]]
+|'''5'''||6||0||5||1||7||8||–1
+|- align=center bgcolor=#D0E7FF
+!21
+|align=left|{{bandera|Paraguay|variante=1990}} [[Club Olimpia|Olimpia]]
+|'''5'''||6||1||2||3||11||15||–4
+|- style="border-top:1px solid #222;" align=center 
+!22
+|align=left|{{bandera|México}} [[Club Necaxa|Necaxa]]
+|'''9'''||6||2||3||1||5||3||+2
+|- align=center bgcolor=#D0E7FF
+!23
+|align=left|{{bandera|Venezuela|variante=1954}} [[Union Local Andina Fútbol Club|Universidad de Los Andes]]
+|'''4'''||6||1||1||4||5||11||–6
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1999]]
+* [[Copa Conmebol 1999]]
+* [[Copa Merconorte 1999]]
+* [[Copa Mercosur 1999]]
+
+== Notas ==
+{{listaref|group="n."}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa99.html Copa Libertadores 1999] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.conmebol.com/ Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1998|1998]]
+| título     = Copa Libertadores 1999
+| período    = XL edición
+| sucesor    = [[Copa Libertadores 2000|2000]]
+}}
+
+{{Control de autoridades}}
+
+[[Categoría:Copa Libertadores 1999]]
+[[Categoría:Temporadas de la Copa Libertadores|1999]]

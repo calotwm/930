@@ -1,0 +1,1217 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+|deporte         = fútbol
+|tipo            = 
+|imagen          = Boca Juniors vs. Pumas - Flickr - nica.jpg
+|imagen_tamaño   = 300px
+|imagen_pie      = El [[Estadio Alberto J. Armando|estadio La Bombonera]] ([[Buenos Aires]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2005|final]]
+|recinto         = 
+|ubicación       = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|participantes   = 34 de 12 países 
+|calificados     = 
+|plantillapais   = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+|fecha           = {{fecha2|9|8|2005}}<br>{{fecha2|18|12|2005}}
+|edición         = IV
+|organizador     = [[Confederación Sudamericana de Fútbol|Conmebol]]
+|campeón         = '''{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]''' <small>(2.º título)</small>
+|subcampeón      = {{bandera|MEX}} [[Club Universidad Nacional|Pumas UNAM]]
+|semifinalistas  = {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] <br> {{bandera|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|partidos        = 66
+|goles           = 184 (2,78 por partido)
+|goleadores      = 
+|anterior        = [[Copa Sudamericana 2004]]
+|actual          = Copa Sudamericana 2005
+|siguiente       = [[Copa Sudamericana 2006]]
+|goleador={{bandera|ARG}} [[Bruno Marioni]] (7 goles)<br><small>([[Club Universidad Nacional|Pumas UNAM]])</small>}}
+La '''[[Copa Sudamericana]] 2005''', denominada por motivos comerciales '''Copa Nissan Sudamericana 2005''', fue la cuarta edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de doce países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Estados Unidos]], [[México]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]]. Fue la primera edición del certamen a la que fueron invitados equipos pertenecientes a [[Concacaf]].
+
+[[Club Atlético Boca Juniors|Boca Juniors]] se consagró campeón, revalidando el título obtenido en la [[Copa Sudamericana 2004|edición anterior]], y coronándose como el primer bicampeón en la historia de la competición, quedando también hasta la fecha como el único bicampeón consecutivo. El logro llegó tras vencer a los [[Club Universidad Nacional|Pumas de la UNAM]], de México, por medio de la [[tiros desde el punto penal|definición por penales]], tras empatar los dos encuentros de la final, siendo esta la primera vez en la que se llega a esta instancia en una final del susodicho certamen. La consagración le permitió al cuadro Xeneize disputar la [[Recopa Sudamericana 2006]] ante [[São Paulo Futebol Clube|São Paulo]] de Brasil, campeón de la [[Copa Libertadores 2005]]. Además, clasificó directamente para los octavos de final de la [[Copa Sudamericana 2006]].
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. De los 34 participantes, solamente [[Club Atlético Boca Juniors|Boca Juniors]] —último campeón—, [[Club Atlético River Plate|River Plate]] —invitado por Conmebol—, [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] —mejor clasificado de Argentina— y los tres invitados de Concacaf iniciaron el torneo desde los octavos de final. Los restantes 28 debieron disputar las dos fases clasificatorias, en donde las llaves se establecieron enfrentándose los equipos del mismo país de origen. De allí salieron los últimos 10 clasificados a las fases finales, compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón. Se implementó, por primera vez, la [[regla del gol de visitante]], que se aplicó en caso de igualdad de puntos y diferencia de goles al finalizar los dos encuentros de la llave en cualquiera de las fases. De mantenerse la igualdad, se ejecutaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase preliminar
+(16 equipos)
+|
+* 2 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 8 equipos de Brasil
+* 4 equipos de Argentina
+|
+* 8 equipos clasificados de la Fase preliminar
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2004
+* 2 equipos de Argentina y México
+* 1 equipo de Estados Unidos
+|
+* 10 equipos clasificados de la Primera fase
+|}
+
+== Distribución de los cupos ==
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Primera fase
+! Fase preliminar
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''8'''
+| –
+|8 
+|  -
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| 2
+| 4 
+|  -
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|ECU|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|MEX}} [[Federación Mexicana de Fútbol|México]]
+|'''2'''
+| 2
+| -
+| -
+|-
+| align="left" |{{Bandera|PAR|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|VEN|1954}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|USA}} [[Federación de Fútbol de los Estados Unidos|Estados Unidos]]
+|'''1'''
+| 1
+| -
+| -
+|-
+| align="left" |Fase anterior
+| –
+| 10
+| 8
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| 1
+| -
+| –
+|-
+!Total
+!34
+!16
+!20
+!20
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="90%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="69%" |Vía de clasificación
+|-
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br>5 cupos<br>''+ 1 invitado''<br>''+ campeón vigente''
+|[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]<br>''[[Club Estudiantes de La Plata|Estudiantes (LP)]]''<br>[[Club Atlético Rosario Central|Rosario Central]]<br>''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]''<br>[[Club Atlético Banfield|Banfield]]<br>[[Club Atlético River Plate|River Plate]]
+|Campeón de la [[Copa Sudamericana 2004]] e Invitado<br>Mejor equipo ubicado en la [[Campeonato de Primera División 2004-05 (Argentina)#Clasificación a la Copa Sudamericana 2005|tabla de posiciones del Campeonato de Primera División 2004-05]]<br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2004-05<br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2004-05<br>4.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2004-05<br>5.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2004-05<br>''Invitado''
+|- bgcolor=#D0E7FF
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br>2 cupos
+| [[Club Bolívar|Bolívar]]<br>[[Club The Strongest|The Strongest]]
+|Campeón del [[Campeonato de Primera División 2005-06 (Bolivia)#Torneo Adecuación|Torneo Adecuación 2005]]<br>Subcampeón del Torneo Adecuación 2005
+|-
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br>8 cupos
+| [[Santos Futebol Clube|Santos]]<br>[[São Paulo Futebol Clube|São Paulo]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Goiás Esporte Clube|Goiás]]<br>''[[Esporte Clube Juventude|Juventude]]''<br>[[Sport Club Internacional|Internacional]]<br>[[Fluminense Football Club|Fluminense]]
+|Mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>2.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>3.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>4.º mejor equipo brasileño ubicado en el Ranking de Clubes de la Conmebol<br>6.º puesto del [[Campeonato Brasileño de Fútbol 2004|Campeonato Brasileño de 2004]]<br>7.º puesto del Campeonato Brasileño de 2004<br>8.º puesto del Campeonato Brasileño de 2004<br>9.º puesto del Campeonato Brasileño de 2004
+|- bgcolor=#D0E7FF
+|{{Bandera|CHI}} '''[[Federación de Fútbol de Chile|Chile]]'''<br>2 cupos
+| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br>''[[Club Universidad de Chile|Universidad de Chile]]''
+|1.º puesto de la [[Torneo Apertura 2005 (Chile)#Fase Clasificatoria|fase clasificatoria del Torneo Apertura 2005]]<br>2.º puesto de la fase clasificatoria del Torneo Apertura 2005
+|-
+|{{Bandera|COL}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br>2 cupos
+| [[Atlético Nacional]]<br>''[[Deportivo Cali]]''
+|Mejor equipo ubicado en la [[Temporada 2004 del fútbol colombiano#Tabla de reclasificación|Reclasificación 2004]] no participante de la Copa Libertadores 2005<br>2.º mejor equipo ubicado en la Reclasificación 2004 no participante de la Copa Libertadores 2005
+|- bgcolor=#D0E7FF
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>2 cupos
+| [[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>''[[Club Deportivo El Nacional|El Nacional]]''
+|1.º puesto de la [[Campeonato Ecuatoriano de Fútbol 2005#Torneo Apertura|primera fase del Torneo Apertura 2005]]<br>2.º puesto de la primera fase del Torneo Apertura 2005
+|-
+|{{Bandera|Estados Unidos}} '''[[Major League Soccer|Estados Unidos]]'''<br>''1 invitado''
+| ''[[D.C. United]]''
+|Campeón de la [[Copa MLS 2004]]
+|- bgcolor=#D0E7FF
+|{{Bandera|México}} '''[[Federación Mexicana de Fútbol|México]]'''<br>''2 invitados''
+| ''[[Club Universidad Nacional|Pumas UNAM]]<br>[[Club América|América]]''
+|Campeón del [[Torneo Clausura 2004 (México)|Torneo Clausura 2004]] y del [[Torneo Apertura 2004 (México)|Torneo Apertura 2004]]<br>Campeón del [[Torneo Clausura 2005 (México)|Torneo Clausura 2005]]
+|-
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>2 cupos
+| [[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Guaraní|Guaraní]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 2005#Torneo Apertura 2005|Torneo Apertura 2005]]<br>Ganador de la [[Campeonato Paraguayo de Fútbol 2005#Pre-Sudamericana 2005|Liguilla Pre-Sudamericana 2005]]
+|- bgcolor=#D0E7FF
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br>2 cupos
+| [[Alianza Atlético Sullana|Alianza Atlético]]<br>[[Club Universitario de Deportes|Universitario]]
+|Mejor equipo ubicado en la [[Campeonato Descentralizado 2004#Tabla acumulada|tabla acumulada del Campeonato Descentralizado 2004]] no participante de la Copa Libertadores 2005<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2004 no participante de la Copa Libertadores 2005
+|-
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>2 cupos
+|[[Danubio Fútbol Club|Danubio]]<br>''[[Defensor Sporting Club|Defensor Sporting]]''
+|Campeón del [[Campeonato Uruguayo de Primera División 2004|Campeonato Uruguayo de 2004]]<br>Finalista de la [[Campeonato Uruguayo de Fútbol 2004#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores 2004]]
+|- bgcolor=#D0E7FF
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br>2 cupos
+| ''[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]<br>[[Trujillanos Fútbol Club|Trujillanos]]''
+|Mejor equipo ubicado en la [[Primera División Venezolana 2004-05#Acumulada|tabla acumulada de la Primera División Venezolana 2004-05]] no participante de la Copa Libertadores 2006<br>2.º mejor equipo ubicado en la tabla acumulada de la Primera División Venezolana 2004-05 no participante de la Copa Libertadores 2006
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Sudamericana 2005'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-32.95|long=-60.65|label=<small>'''{{Esd|Rosario}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-41|long=-42|label=<small>'''{{Esd|Equipos de Rosario:}}'''<br>[[Club Atlético Newell's Old Boys|{{Esd|Newell's Old Boys}}]]<br>[[Club Atlético Rosario Central|{{Esd|Rosario Central}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos de Buenos Aires:}}'''<br>[[Club Atlético Banfield|Banfield]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95}}
+{{Location map~|América del Sur|lat=-34.933333|long=-60|label=<small>[[Club Estudiantes de La Plata|Estudiantes]]</small>|mark=TransparentPlaceholder.png |position=bottom}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-16.678889|long=-49.253889|label=<small>[[Goiás Esporte Clube|Goiás]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Fluminense Football Club|Fluminense]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|Santos]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>'''{{Esd|São Paulo}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-30|long=-41.5|label=<small>'''{{Esd|Equipos de São Paulo:}}'''<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[São Paulo Futebol Clube|São Paulo]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small><br>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-29.167778|long=-51.178889|label=<small>[[Esporte Clube Juventude|Juventude]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]<br>[[Club Universidad de Chile|{{Esd|Universidad de Chile}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[Deportivo Cali|{{Esd|Deportivo Cali}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Club Deportivo El Nacional|{{Esd|El Nacional}}]]<br>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Guaraní|Guaraní]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-4.9|long=-80.7|label=<small>[[Alianza Atlético Sullana|{{Esd|Alianza Atlético}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Universitario de Deportes|Universitario]]</small>|position=right}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=9.033333|long=-70.6|label=<small>[[Trujillanos Fútbol Club|{{Esd|Trujillanos}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=8.359617|long=-62.651653|label=<small>[[Club Deportivo Mineros de Guayana|{{Esd|Mineros de Guayana}}]]</small>|position=right}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Sudamericana 2005'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=19.419444|long=-99.145556|label=<small>[[Club América|América]]<br>[[Club Universidad Nacional|{{Esd|Pumas UNAM}}]]</small>|position=left}}
+}}
+{{Location map+|Estados Unidos|float=center|width=575|caption=Localización de los equipos estadounidenses de la '''Copa Sudamericana 2005'''|AlternativeMap =USA location map.svg|places=
+<!-- CLUBES DE ESTADOS UNIDOS -->
+{{Location map~|Estados Unidos|lat=38.895|long=-77.036667|label=<small>[[D.C. United|{{Esd|D.C. United}}]]</small>|position=left}}
+}}
+
+== Fase preliminar ==
+{{AP|Anexo:Fase preliminar de la Copa Sudamericana 2005|l1=Fase preliminar de la Copa Sudamericana 2005}}
+Los dos clasificados de todas las confederaciones de América del Sur —exceptuando Argentina y Brasil— fueron emparejados en ocho llaves. Cada equipo enfrentó al rival de su propio país. Los 8 ganadores avanzaron a la primera fase.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|11 y 25 de agosto
+| align="right" |'''[[Club The Strongest|The Strongest]]''' {{bandera|Bolivia}}
+| align="2" | '''4:2'''
+| align="left" |{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|[https://web.archive.org/web/20090316080126/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=1&id=5&slangab=S 2:1]
+|[https://web.archive.org/web/20090316004521/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=1&id=21&slangab=S 2:1]
+!Bolivia 1
+
+|- align="center" style="background:#F5FAFF;"
+|11 y 25 de agosto
+| align="right" |[[Club Universidad de Chile|Universidad de Chile]] {{bandera|Chile}}
+| align="2" | '''2:2'''
+| align="left" |{{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]''' <small>([[Regla del gol de visitante|v.]])</small>
+|[https://web.archive.org/web/20090316080110/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=1&id=6&slangab=S 1:2]
+|[https://web.archive.org/web/20090315160949/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=1&id=22&slangab=S 1:0]
+!Chile 1
+
+|- align="center"
+|16 y 23 de agosto
+| align="right" |[[Asociación Deportivo Cali|Deportivo Cali]] {{bandera|Colombia}}
+| align="2" | '''2:2''' <small>('''6:7''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Colombia}} '''[[Atlético Nacional]]'''
+|[https://web.archive.org/web/20090316080151/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=1&id=8&slangab=S 2:0]
+|[https://web.archive.org/web/20090315161004/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=1&id=17&slangab=S 0:2]
+!Colombia 1
+
+|- align="center" style="background:#F5FAFF;"
+|9 y 25 de agosto
+| align="right" |[[Club Deportivo El Nacional|El Nacional]] {{bandera|Ecuador|1900}}
+| align="2" | '''5:5'''
+| align="left" |{{bandera|Ecuador|1900}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]''' <small>([[Regla del gol de visitante|v.]])</small>
+|[https://web.archive.org/web/20090316080131/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=2&id=2&slangab=S 3:4]
+|[https://web.archive.org/web/20090316080616/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=2&id=23&slangab=S 2:1]
+!Ecuador 1
+
+|- align="center"
+|9 y 23 de agosto
+| align="right" |[[Club Guaraní|Guaraní]] {{bandera|Paraguay|1990}}
+| align="2" | '''3:3''' <small>('''3:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Paraguay|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[https://web.archive.org/web/20090316004536/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=2&id=1&slangab=S 1:2]
+|[https://web.archive.org/web/20090316080141/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=2&id=16&slangab=S 2:1]
+!Paraguay 1
+
+|- align="center" style="background:#F5FAFF;"
+|10 y 24 de agosto
+| align="right" |[[Club Universitario de Deportes|Universitario]] {{bandera|Perú}}
+| align="2" | '''2:2''' <small>('''1:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Perú}} '''[[Alianza Atlético Sullana|Alianza Atlético]]'''
+|[https://web.archive.org/web/20090316080121/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=2&id=4&slangab=S 1:1]
+|[https://web.archive.org/web/20090316080116/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=2&id=19&slangab=S 1:1]
+!Perú 1
+
+|- align="center"
+|16 y 23 de agosto
+| align="right" |'''[[Defensor Sporting Club|Defensor Sporting]]''' {{bandera|Uruguay}}
+| align="2" | '''5:4'''
+| align="left" |{{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+|[https://web.archive.org/web/20090316004531/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=1&id=7&slangab=S 2:3]
+|[https://web.archive.org/web/20090316004526/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=1&id=15&slangab=S 3:1]
+!Uruguay 1
+
+|- align="center" style="background:#F5FAFF;"
+|18 y 24 de agosto
+| align="right" |'''[[Trujillanos Fútbol Club|Trujillanos]]''' {{bandera|Venezuela|1954}}
+| align="2" | '''5:2'''
+| align="left" |{{bandera|Venezuela|1954}} [[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|[https://web.archive.org/web/20090316080156/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=2&id=14&slangab=S 3:1]
+|[https://web.archive.org/web/20090316080201/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=2&id=18&slangab=S 2:1]
+!Venezuela 1
+
+|}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2005|l1=Primera fase de la Copa Sudamericana 2005}}
+Los 8 ganadores de la fase preliminar fueron emparejados en cuatro nuevas llaves, determinadas por la ubicación geográfica de cada equipo. Asimismo, con los últimos cuatro clasificados de Argentina por un lado y los ocho clasificados de Brasil por otro se establecieron los seis cruces restantes, definidos basándose en la plaza que ocuparon en representación de sus países. Los 10 ganadores avanzaron a los octavos de final.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|10 y 25 de agosto
+| align="right" |'''[[Club Atlético Banfield|Banfield]]''' {{bandera|Argentina}}
+| align="2" | '''3:2'''
+| align="left" |{{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|[https://web.archive.org/web/20090316080545/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=1&flt=1&id=3&slangab=S 2:0]
+|[https://web.archive.org/web/20090316080540/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=1&flt=1&id=20&slangab=S 1:2]
+!Argentina I
+
+|- align="center" style="background:#F5FAFF;"
+|18 y 29 de agosto
+| align="right" |[[Club Atlético Newell's Old Boys|Newell's Old Boys]] {{bandera|Argentina}}
+| align="2" | '''0:1'''
+| align="left" |{{bandera|Argentina}} '''[[Club Atlético Rosario Central|Rosario Central]]'''
+|[https://web.archive.org/web/20090316080039/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=1&flt=2&id=13&slangab=S 0:0]
+|[https://web.archive.org/web/20090316080044/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=1&flt=2&id=32&slangab=S 0:1]
+!Argentina II
+
+|- align="center"
+|17 y 31 de agosto
+| align="right" |'''[[Fluminense Football Club|Fluminense]]''' {{bandera|Brasil}}
+| align="2" | '''3:3''' <small>('''4:2''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+|[https://web.archive.org/web/20090316080049/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=1&id=12&slangab=S 2:1]
+|[https://web.archive.org/web/20090316003639/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=1&id=30&slangab=S 1:2]
+!Brasil I
+
+|- align="center" style="background:#F5FAFF;"
+|17 de agosto y 1 de septiembre
+| align="right" |'''[[Sport Club Internacional|Internacional]]''' {{bandera|Brasil}}
+| align="2" | '''3:2'''
+| align="left" |{{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+|[https://web.archive.org/web/20090316080550/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=2&id=10&slangab=S 2:1]
+|[https://web.archive.org/web/20090316080556/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=2&id=30&slangab=S 1:1]
+!Brasil II
+
+|- align="center"
+|17 de agosto y 1 de septiembre
+| align="right" |[[Esporte Clube Juventude|Juventude]] {{bandera|Brasil}}
+| align="2" | '''2:3'''
+| align="left" |{{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|[https://web.archive.org/web/20090316080601/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=3&id=9&slangab=S 1:3]
+|[https://web.archive.org/web/20090316080055/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=3&id=30&slangab=S 1:0]
+!Brasil III
+
+|- align="center" style="background:#F5FAFF;"
+|17 y 31 de agosto
+| align="right" |[[Goiás Esporte Clube|Goiás]] {{bandera|Brasil}}
+| align="2" | '''1:3'''
+| align="left" |{{bandera|Brasil}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|[https://web.archive.org/web/20090316080100/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=4&id=11&slangab=S 0:2]
+|[https://web.archive.org/web/20090316080105/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=2&flt=4&id=30&slangab=S 1:1]
+!Brasil IV
+
+|- align="center"
+|30 de agosto y 6 de septiembre
+| align="right" |'''[[Club Cerro Porteño|Cerro Porteño]]''' {{bandera|Paraguay|1990}}
+| align="2" | '''3:1'''
+| align="left" |{{bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+|[https://web.archive.org/web/20090315160959/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=3&id=25&slangab=S 2:0]
+|[https://web.archive.org/web/20090316080146/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=5&flt=3&id=33&slangab=S 1:1]
+!Octavofinalista 1
+
+|- align="center" style="background:#F5FAFF;"
+|30 de agosto y 8 de septiembre
+| align="right" |[[Trujillanos Fútbol Club|Trujillanos]] {{bandera|Venezuela|1954}}
+| align="2" | '''1:7'''
+| align="left" |{{bandera|Colombia}} '''[[Atlético Nacional]]'''
+|[https://web.archive.org/web/20090316003646/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=3&id=27&slangab=S 1:5]
+|[https://web.archive.org/web/20090316080621/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=6&flt=3&id=36&slangab=S 0:2]
+!Octavofinalista 2
+
+|- align="center"
+|30 de agosto y 8 de septiembre
+| align="right" |'''[[Club The Strongest|The Strongest]]''' {{bandera|Bolivia}}
+| align="2" | '''5:1'''
+| align="left" |{{bandera|Ecuador|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|[https://web.archive.org/web/20090316080136/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=3&id=24&slangab=S 2:1]
+|[https://web.archive.org/web/20090315160954/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=4&flt=3&id=35&slangab=S 3:0]
+!Octavofinalista 3
+
+|- align="center" style="background:#F5FAFF;"
+|30 de agosto y 7 de septiembre
+| align="right" |'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]''' {{bandera|Chile}}
+| align="2" | '''5:2'''
+| align="left" |{{bandera|Perú}} [[Alianza Atlético Sullana|Alianza Atlético]]
+|[https://web.archive.org/web/20090316080606/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=3&id=26&slangab=S 5:0]
+|[https://web.archive.org/web/20090316080611/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=3&flt=3&id=34&slangab=S 0:2]
+!Octavofinalista 4
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los 10 ganadores de la primera fase se les sumaron [[Club Atlético Boca Juniors|Boca Juniors]], [[Club Atlético River Plate|River Plate]], [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] —todos de Argentina—, [[Club América|América]], [[Club Universidad Nacional|Pumas UNAM]] —ambos de México— y [[D.C. United]] —de Estados Unidos—. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta la denominación que se le asignó a cada equipo; en el caso de los cuadros que clasificaron desde la primera fase, dicha denominación fue determinada por el nombre del cruce que ganaron en aquella instancia. De esa manera, el Octavofinalista 1 enfrentó al Octavofinalista 8, el 2 al 7, el 3 al 6, y el 4 al 5; mientras que los clasificados de Argentina y Brasil se enfrentaron uno contra aquel del otro país que tuviera asignado el mismo número (Argentina I ante Brasil I, Argentina II ante Brasil II, y así sucesivamente).
+
+{{columnas}}
+=== Clasificados automáticamente a octavos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="40%" |Equipo
+! width="60%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|'''Argentina III'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''Argentina IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|USA}} [[D.C. United]]
+|'''Octavofinalista 5'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|MEX}} [[Club Universidad Nacional|Pumas UNAM]]
+|'''Octavofinalista 6'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|MEX}} [[Club América|América]]
+|'''Octavofinalista 7'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''Octavofinalista 8'''
+|}
+{{nueva columna}}
+=== Clasificados de la primera fase ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="40%" |Equipo
+! width="60%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Banfield|Banfield]]
+|'''Argentina I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Rosario Central|Rosario Central]]
+|'''Argentina II'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+|'''Brasil I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[Sport Club Internacional|Internacional]]
+|'''Brasil II'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|'''Brasil III'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|'''Brasil IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''Octavofinalista 1'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|COL}} [[Atlético Nacional]]
+|'''Octavofinalista 2'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BOL}} [[Club The Strongest|The Strongest]]
+|'''Octavofinalista 3'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''Octavofinalista 4'''
+|}
+{{fin columnas}}
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Octavos de final -->
+| RD1= Octavos de final
+| RD1-date= 13 de septiembre al 5 de octubre
+
+| RD1-seed1 = O4
+| RD1-seed2 = O5
+| RD1-team1 = {{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| RD1-team2 = {{bandera|Estados Unidos}} [[D.C. United]]
+| RD1-score1-1 = 1
+| RD1-score2-1 = 1
+| RD1-score1-2 = 3
+| RD1-score2-2 = 2
+| RD1-score1-3 = '''4'''
+| RD1-score2-3 = '''3'''
+
+| RD1-seed3 = A I
+| RD1-seed4 = B I
+| RD1-team3 = {{bandera|Argentina}} [[Club Atlético Banfield|Banfield]]
+| RD1-team4 = {{bandera|Brasil}} '''[[Fluminense Football Club|Fluminense]]'''
+| RD1-score3-1 = 1
+| RD1-score4-1 = 3
+| RD1-score3-2 = 0
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''1'''
+| RD1-score4-3 = '''3'''
+
+| RD1-seed5 = O8
+| RD1-seed6 = O1
+| RD1-team5 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-team6 = {{bandera|Paraguay|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD1-score5-1 = 2
+| RD1-score6-1 = 2
+| RD1-score5-2 = 5
+| RD1-score6-2 = 1
+| RD1-score5-3 = '''7'''
+| RD1-score6-3 = '''3'''
+
+| RD1-seed7 = B II
+| RD1-seed8 = A II
+| RD1-team7 = {{bandera|Brasil}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-team8 = {{bandera|Argentina}} [[Club Atlético Rosario Central|Rosario Central]]
+| RD1-score7-1 = 1
+| RD1-score8-1 = 0
+| RD1-score7-2 = 1
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''2'''
+| RD1-score8-3 = '''1'''
+
+| RD1-seed9 = O3
+| RD1-seed10 = O6
+| RD1-team9 = {{bandera|Bolivia}} [[Club The Strongest|The Strongest]]
+| RD1-team10 = {{bandera|México}} '''[[Club Universidad Nacional|Pumas UNAM]]'''
+| RD1-score9-1 = 1
+| RD1-score10-1 = 3
+| RD1-score9-2 = 2
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''4'''
+
+| RD1-seed11 = A IV
+| RD1-seed12 = {{nowrap|B IV}}
+| RD1-team11 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-team12 = {{bandera|Brasil}} '''[[Sport Club Corinthians Paulista|Corinthians]]''' <small>([[Regla del gol de visitante|v]])</small>
+| RD1-score11-1 = 0
+| RD1-score12-1 = 0
+| RD1-score11-2 = 1
+| RD1-score12-2 = 1
+| RD1-score11-3 = '''1'''
+| RD1-score12-3 = '''1'''
+
+| RD1-seed13 = B III
+| RD1-seed14 = A III
+| RD1-team13 = {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD1-team14 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD1-score13-1 = 0
+| RD1-score14-1 = 2
+| RD1-score13-2 = 2
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''2'''
+| RD1-score14-3 = '''3'''
+
+| RD1-seed15 = O2
+| RD1-seed16 = O7
+| RD1-team15 = {{bandera|Colombia}} [[Atlético Nacional]]
+| RD1-team16 = {{bandera|México}} '''[[Club América|América]]'''
+| RD1-score15-1 = 3
+| RD1-score16-1 = 3
+| RD1-score15-2 = 1
+| RD1-score16-2 = 4
+| RD1-score15-3 = '''4'''
+| RD1-score16-3 = '''7'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 18 de octubre al 10 de noviembre
+
+| RD2-team1 = {{bandera|Chile}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+| RD2-team2 = {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]]
+| RD2-score1-1 = 1
+| RD2-score2-1 = 2
+| RD2-score1-2 = 2
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''3'''
+| RD2-score2-3 = '''2'''
+
+| RD2-team3 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD2-team4 = {{bandera|Brasil}} [[Sport Club Internacional|Internacional]]
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 4
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''4'''
+| RD2-score4-3 = '''2'''
+
+| RD2-team5 = {{bandera|México}} '''[[Club Universidad Nacional|Pumas UNAM]]'''
+| RD2-team6 = {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 2
+| RD2-score5-2 = 3
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''4'''
+| RD2-score6-3 = '''2'''
+
+| RD2-team7 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD2-team8 = {{bandera|México}} [[Club América|América]]
+| RD2-score7-1 = 2
+| RD2-score8-1 = 0
+| RD2-score7-2 = 2
+| RD2-score8-2 = 0
+| RD2-score7-3 = '''4'''
+| RD2-score8-3 = '''0'''
+
+<!-- Semifinales -->
+| RD3= Semifinales
+| RD3-date= 23 de noviembre al 1 de diciembre
+
+| RD3-team1 = {{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| RD3-team2 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD3-score1-1 = 2
+| RD3-score2-1 = 2
+| RD3-score1-2 = 0
+| RD3-score2-2 = 1
+| RD3-score1-3 = '''2'''
+| RD3-score2-3 = '''3'''
+
+| RD3-team3 = {{bandera|México}} '''[[Club Universidad Nacional|Pumas UNAM]]'''
+| RD3-team4 = {{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+| RD3-score3-1 = 0
+| RD3-score4-1 = 0
+| RD3-score3-2 = 4
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''4'''
+| RD3-score4-3 = '''0'''
+
+<!-- Final -->
+| RD4= Final
+| RD4-date= 6 y 18 de diciembre
+
+| RD4-team1 = {{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD4-team2 = {{bandera|México}} [[Club Universidad Nacional|Pumas UNAM]]
+| RD4-score1-1 = 1
+| RD4-score2-1 = 1
+| RD4-score1-2 = 1
+| RD4-score2-2 = 1
+| RD4-score1-3 = '''2&nbsp;{{small|(4)}}'''
+| RD4-score2-3 = '''2&nbsp;{{small|(3)}}'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2005|l1=Octavos de final de la Copa Sudamericana 2005}}
+{{Partido
+|local = [[D.C. United]]
+|paíslocal = USA
+|resultado = 1:1''' (0:0)
+|visita = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita = CHI
+|fecha = 13 de septiembre de 2005
+|estadio = [[Estadio Conmemorativo Robert F. Kennedy|Estadio Robert F. Kennedy]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Washington D. C.|Washington]]
+|goleslocal = [[Jamil Walker|Walker]] {{gol|80}}
+|golesvisita = [[Jorge Quinteros|Quinteros]] {{gol|48}}
+|reporte = https://web.archive.org/web/20090316080708/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=8&id=37&slangab=S
+}}
+{{Partido
+|local = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal = CHI
+|resultado = 3:2''' (1:2)
+|visita = [[D.C. United]]
+|paísvisita = USA
+|fecha = 22 de septiembre de 2005
+|estadio = [[Estadio San Carlos de Apoquindo]]
+|refe = {{árbitro|COL|Alberto Duque}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Jorge Quinteros|Quinteros]] {{gol|39||85}} <br> [[Darío Conca|Conca]] {{gol|77}}
+|golesvisita = [[Christian Gómez|Gómez]] {{gol|14}} <br> [[José María Buljubasich|Buljubasich]] {{gol|26|a.g.}}
+|reporte = https://web.archive.org/web/20090316080328/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=8&id=45&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Fluminense Football Club|Fluminense]]
+|paíslocal = BRA
+|resultado = 3:1''' (1:1)
+|visita = [[Club Atlético Banfield|Banfield]]
+|paísvisita = ARG
+|fecha = 14 de septiembre de 2005
+|estadio = [[Estadio São Januário]]
+|refe = {{árbitro|BOL|René Ortubé}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal = [[Leandro Lessa Azevedo|Leandro]] {{gol|14}} <br> [[Moacir Bastos|Tuta]] {{gol|70||86}}
+|golesvisita = [[Jesús Dátolo|Dátolo]] {{gol|13}}
+|reporte = https://web.archive.org/web/20090316080216/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=1&id=40&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Banfield|Banfield]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Fluminense Football Club|Fluminense]]
+|paísvisita = BRA
+|fecha = 28 de septiembre de 2005
+|estadio = [[Estadio Florencio Sola]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Banfield]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090315161050/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=1&id=48&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal = PAR
+|etpaíslocal = 1990
+|resultado = 2:2''' (2:2)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 21 de septiembre de 2005
+|estadio = [[Estadio Defensores del Chaco]]
+|refe = {{árbitro|BRA|Márcio Rezende}}
+|ciudad = [[Asunción]]
+|goleslocal = [[Walter Fretes|Fretes]] {{gol|20}} <br> [[Pedro Benítez|Benítez]] {{gol|31}}
+|golesvisita = [[Neri Cardozo|Cardozo]] {{gol|2}} <br> [[Rodrigo Palacio|Palacio]] {{gol|12}}
+|reporte = https://web.archive.org/web/20090316080658/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=5&id=43&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 5:1''' (1:0)
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita = PAR
+|etpaísvisita = 1990
+|fecha = 29 de septiembre de 2005
+|estadio = [[Estadio Padre Ernesto Martearena]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Salta]]
+|goleslocal = [[Juan Krupoviesa|Krupoviesa]] {{gol|9}} <br> [[Martín Palermo|Palermo]] {{gol|66}} <br> [[Guillermo Barros Schelotto|Barros Schelotto]] {{gol|75}} <br> [[Neri Cardozo|Cardozo]] {{gol|87}} <br> [[Federico Insúa|Insúa]] {{gol|89}}
+|golesvisita = [[Érwin Ávalos|Ávalos]] {{gol|69}}
+|reporte = https://web.archive.org/web/20090316080703/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=5&id=49&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Rosario Central|Rosario Central]]
+|paíslocal = ARG
+|resultado = 0:1''' (0:0)
+|visita = [[Sport Club Internacional|Internacional]]
+|paísvisita = BRA
+|fecha = 15 de septiembre de 2005
+|estadio = [[Estadio Gigante de Arroyito]]
+|refe = {{árbitro|CHI|Rubén Selmán}}
+|ciudad = [[Rosario (Argentina)|Rosario]]
+|goleslocal = 
+|golesvisita = [[Rafael Sóbis|Sóbis]] {{gol|69}}
+|reporte = https://web.archive.org/web/20090316080225/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=2&id=41&slangab=S
+}}
+{{Partido
+|local = [[Sport Club Internacional|Internacional]]
+|paíslocal = BRA
+|resultado = 1:1''' (0:0)
+|visita = [[Club Atlético Rosario Central|Rosario Central]]
+|paísvisita = ARG
+|fecha = 29 de septiembre de 2005
+|estadio = [[Estadio Beira-Rio]]
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|ciudad = [[Porto Alegre]]
+|goleslocal = [[Jorge Wágner Goés Conceição|Wágner]] {{gol|54|pen.}}
+|golesvisita = [[Germán Rivarola|Rivarola]] {{gol|58}}
+|reporte = https://web.archive.org/web/20090316080646/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=2&id=50&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Universidad Nacional|Pumas UNAM]]
+|paíslocal = MEX
+|resultado = 3:1''' (2:0)
+|visita = [[Club The Strongest|The Strongest]]
+|paísvisita = BOL
+|fecha = 20 de septiembre de 2005
+|estadio = [[Estadio Olímpico Universitario]]
+|refe = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Bruno Marioni|Marioni]] {{gol|5}} <br> [[Antonio de Nigris|De Nigris]] {{gol|42}} <br> [[Martín Cardetti|Cardetti]] {{gol|89}}
+|golesvisita = [[Pablo Escobar (futbolista)|Escobar]] {{gol|83}}
+|reporte = https://web.archive.org/web/20090316003235/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=7&id=42&slangab=S
+}}
+{{Partido
+|local = [[Club The Strongest|The Strongest]]
+|paíslocal = BOL
+|resultado = 2:1''' (1:1)
+|visita = [[Club Universidad Nacional|Pumas UNAM]]
+|paísvisita = MEX
+|fecha = 5 de octubre de 2005
+|estadio = [[Estadio Hernando Siles]]
+|refe = {{árbitro|URU|Roberto Silvera}}
+|ciudad = [[La Paz]]
+|goleslocal = [[Líder Paz|Paz]] {{gol|34||90+1}}
+|golesvisita = [[José Ailton Da Silva|Da Silva]] {{gol|40}}
+|reporte = https://web.archive.org/web/20090318034846/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=7&id=51&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|paíslocal = BRA
+|resultado = 0:0
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 14 de septiembre de 2005
+|estadio = [[Estadio Morumbi]]
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|ciudad = [[São Paulo]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316003217/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=4&id=39&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 1:1''' (1:0)
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|paísvisita = BRA
+|fecha = 28 de septiembre de 2005
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Jonathan Santana|Santana]] {{gol|15}}
+|golesvisita = [[Mário Custódio Nazaré|Marinho]] {{gol|90+1}}
+|reporte = https://web.archive.org/web/20090316080236/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=4&id=47&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal = ARG
+|resultado = 2:0''' (2:0)
+|visita = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita = BRA
+|fecha = 14 de septiembre de 2005
+|estadio = [[Estadio José Amalfitani]]
+|refe = {{árbitro|URU|Roberto Silvera}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Lucas Castromán|Castromán]] {{gol|26||34}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316080231/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=3&id=38&slangab=S
+}}
+{{Partido
+|local = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal = BRA
+|resultado = 2:1''' (1:1)
+|visita = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita = ARG
+|fecha = 28 de septiembre de 2005
+|estadio = [[Estadio Mineirão]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Belo Horizonte]]
+|goleslocal = [[Diego José Clementino|Diego]] {{gol|15||74}}
+|golesvisita = [[Lucas Castromán|Castromán]] {{gol|40}}
+|reporte = https://web.archive.org/web/20090316080651/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=3&id=46&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 3:3''' (1:2)
+|visita = [[Atlético Nacional]]
+|paísvisita = COL
+|fecha = 21 de septiembre de 2005
+|estadio = [[Los Angeles Memorial Coliseum|Coliseo Memorial]]
+|refe = {{árbitro|VEN|var=1954|Gustavo Alonso Brand|Gustavo Brand}}
+|ciudad = [[Los Ángeles]]
+|goleslocal = [[Claudio Javier López|López]] {{gol|25}} <br> [[Kléber Pereira|Kléber]] {{gol|65}} <br> [[Christian Giménez|Giménez]] {{gol|85}}
+|golesvisita = [[Gerardo Bedoya|Bedoya]] {{gol|1}} <br> [[Víctor Hugo Aristizábal|Aristizábal]] {{gol|40}} <br> [[Héctor Hurtado|Hurtado]] {{gol|90+1}}
+|reporte = https://web.archive.org/web/20090316004553/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=6&id=44&slangab=S
+}}
+{{Partido
+|local = [[Atlético Nacional]]
+|paíslocal = COL
+|resultado = 1:4''' (1:0)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 5 de octubre de 2005
+|estadio = [[Estadio Atanasio Girardot]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Medellín]]
+|goleslocal = [[Marcelo Silva Ramos|Ramos]] {{gol|22}}
+|golesvisita = [[Aarón Padilla|Padilla]] {{gol|59}} <br> [[Kléber Pereira|Kléber]] {{gol|70||77||83}}
+|reporte = https://web.archive.org/web/20090316162123/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=O&flt=6&id=52&slangab=S
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2005|l1=Cuartos de final de la Copa Sudamericana 2005}}
+{{Partido
+|local = [[Fluminense Football Club|Fluminense]]
+|paíslocal = BRA
+|resultado = 2:1''' (2:0)
+|visita = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita = CHI
+|fecha = 18 de octubre de 2005
+|estadio = [[Estadio São Januário]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal = [[Juan Maldonado Jaimez|Juan]] {{gol|23}} <br> [[Dejan Petković|Petković]] {{gol|36}}
+|golesvisita = [[Miguel Ponce|Ponce]] {{gol|89}}
+|reporte = https://web.archive.org/web/20090315161029/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=4&id=53&slangab=S
+}}
+{{Partido
+|local = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal = CHI
+|resultado = 2:0''' (1:0)
+|visita = [[Fluminense Football Club|Fluminense]]
+|paísvisita = BRA
+|fecha = 9 de noviembre de 2005
+|estadio = [[Estadio San Carlos de Apoquindo]]
+|refe = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Jorge Quinteros|Quinteros]] {{gol|41}} <br> [[Francisco Arrué|Arrué]] {{gol|65}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316080636/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=4&id=58&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Sport Club Internacional|Internacional]]
+|paíslocal = BRA
+|resultado = 1:0''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 19 de octubre de 2005
+|estadio = [[Estadio Beira-Rio]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Porto Alegre]]
+|goleslocal = [[Fernando Lúcio da Costa|Fernandão]] {{gol|90+3}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316080206/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=1&id=54&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 4:1''' (1:0)
+|visita = [[Sport Club Internacional|Internacional]]
+|paísvisita = BRA
+|fecha = 10 de noviembre de 2005
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Rodrigo Palacio|Palacio]] {{gol|6||77||90}} <br> [[Martín Palermo|Palermo]] {{gol|75}}
+|golesvisita = [[Rafael Sóbis|Sóbis]] {{gol|65}}
+|reporte = https://web.archive.org/web/20090315161016/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=1&id=60&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|paíslocal = BRA
+|resultado = 2:1''' (1:0)
+|visita = [[Club Universidad Nacional|Pumas UNAM]]
+|paísvisita = MEX
+|fecha = 19 de octubre de 2005
+|estadio = [[Estadio Pacaembú]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[São Paulo]]
+|goleslocal = [[Hugo Henrique Assis do Nascimento|Hugo]] {{gol|34}} <br> [[Bobô]] {{gol|70}}
+|golesvisita = [[Antonio de Nigris|De Nigris]] {{gol|90+2}}
+|reporte = https://web.archive.org/web/20090316080626/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=2&id=55&slangab=S
+}}
+{{Partido
+|local = [[Club Universidad Nacional|Pumas UNAM]]
+|paíslocal = MEX
+|resultado = 3:0''' (0:0)
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|paísvisita = BRA
+|fecha = 9 de noviembre de 2005
+|estadio = [[Estadio Olímpico Universitario]]
+|refe = {{árbitro|ARG|Horacio Elizondo}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Bruno Marioni|Marioni]] {{gol|65||90+2}} <br> [[Leandro Augusto|Augusto]] {{gol|87}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090315161023/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=2&id=59&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club América|América]]
+|paíslocal = MEX
+|resultado = 0:2''' (0:1)
+|visita = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita = ARG
+|fecha = 26 de octubre de 2005
+|estadio = [[Estadio Azul]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = 
+|golesvisita = [[Maximiliano Pellegrino|Pellegrino]] {{gol|6}} <br> [[Leandro Gracián|Gracián]] {{gol|55}}
+|reporte = https://web.archive.org/web/20090316080631/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=3&id=56&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal = ARG
+|resultado = 2:0''' (0:0)
+|visita = [[Club América|América]]
+|paísvisita = MEX
+|fecha = 2 de noviembre de 2005
+|estadio = [[Estadio José Amalfitani]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Marcelo Bustamante|Bustamante]] {{gol|65}} <br> [[Leandro Somoza|Somoza]] {{gol|77|pen.}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316080211/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=C&flt=3&id=57&slangab=S
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2005|l1=Semifinales de la Copa Sudamericana 2005}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 2:2''' (0:0)
+|visita = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita = CHI
+|fecha = 23 de noviembre de 2005
+|hora = 21:10 ([[UTC-3]]) 
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Federico Insúa|Insúa]] {{gol|70}} <br> [[Martín Palermo|Palermo]] {{gol|83}}
+|golesvisita = [[Facundo Imboden|Imboden]] {{gol|74}} <br> [[Jorge Quinteros|Quinteros]] {{gol|78}}
+|reporte = https://web.archive.org/web/20090316080713/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=S&flt=1&id=61&slangab=S
+}}
+{{Partido
+|local = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal = CHI
+|resultado = 0:1''' (0:0)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 1 de diciembre de 2005
+|hora = 22:10 ([[UTC-3]]) 
+|estadio = [[Estadio San Carlos de Apoquindo]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = 
+|golesvisita = [[Rolando Schiavi|Schiavi]] {{gol|59}}
+|reporte = https://web.archive.org/web/20090316003651/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=S&flt=1&id=63&slangab=S
+}}
+<br>
+{{Partido
+|local = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal = ARG
+|resultado = 0:0
+|visita = [[Club Universidad Nacional|Pumas UNAM]]
+|paísvisita = MEX
+|fecha = 23 de noviembre de 2005
+|hora = 21:10 ([[UTC-3]]) 
+|estadio = [[Estadio José Amalfitani]]
+|refe = {{árbitro|BRA|Sálvio Fagundes}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316003656/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=S&flt=2&id=62&slangab=S
+}}
+{{Partido
+|local = [[Club Universidad Nacional|Pumas UNAM]]
+|paíslocal = MEX
+|resultado = 4:0''' (1:0)
+|visita = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita = ARG
+|fecha = 30 de noviembre de 2005
+|hora = 19:10 ([[UTC-3]]) 
+|estadio = [[Estadio Olímpico Universitario]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Marco Antonio Palacios|Palacios]] {{gol|17}} <br> [[Bruno Marioni|Marioni]] {{gol|50||77||87}}
+|golesvisita = 
+|reporte = https://web.archive.org/web/20090316080727/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=S&flt=2&id=64&slangab=S
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2005|l1=Final de la Copa Sudamericana 2005}}
+{{Partido
+|local = [[Club Universidad Nacional|Pumas UNAM]]
+|paíslocal = MEX
+|resultado = 1:1''' (0:1)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 6 de diciembre de 2005
+|estadio = [[Estadio Olímpico Universitario]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Ciudad de México]]
+|goleslocal = [[Joaquín Botero|Botero]] {{gol|53}}
+|golesvisita = [[Rodrigo Palacio|Palacio]] {{gol|30}}
+|reporte = https://web.archive.org/web/20090310143430/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=F&flt=B&id=65&slangab=S
+}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 1:1''' (1:0)
+|visita = [[Club Universidad Nacional|Pumas UNAM]]
+|paísvisita = MEX
+|fecha = 18 de diciembre de 2005
+|estadio = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Martín Palermo|Palermo]] {{gol|31}}
+|golesvisita = [[Bruno Marioni|Marioni]] {{gol|54|pen.}}
+|reporte = https://web.archive.org/web/20090316080641/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2005&dv=F&flt=B&id=66&slangab=S
+|penaltis1 = [[Guillermo Barros Schelotto|Barros Schelotto]] {{penfallo|atajado}} <br> [[Federico Insúa|Insúa]] {{pengol}} <br> [[Martín Palermo|Palermo]] {{penfallo|travesaño}} <br> [[Rolando Schiavi|Schiavi]] {{pengol}} <br> [[Marcelo Alejandro Delgado|Delgado]] {{pengol}} <br> [[Roberto Abbondanzieri|Abbondanzieri]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2 = {{penfallo|atajado}} [[Leandro Augusto|Augusto]] <br> {{pengol}} [[Gonzalo Pineda|Pineda]] <br> {{penfallo|atajado}} [[Joaquín Beltrán|Beltrán]] <br> {{pengol}} [[Martín Cardetti|Cardetti]] <br> {{pengol}} [[Bruno Marioni|Marioni]] <br> {{penfallo|palo}} [[Gerardo Galindo|Galindo]]
+}}
+<br/>{{Campeón
+|equipo = [[Club Atlético Boca Juniors|Boca Juniors]]
+|bandera = Argentina
+|orden = 2
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=D0E7FF
+| {{bandera|ARG}} '''[[Bruno Marioni]]'''
+| {{bandera|MEX}} '''[[Club Universidad Nacional|UNAM]]'''
+| align=center|'''7'''
+|-
+| {{bandera|ARG}} [[Jorge Quinteros]]
+| {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| align=center|6
+|-
+| {{bandera|ARG}} [[Rodrigo Palacio]]
+| {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| align=center|5
+|-
+| {{bandera|BRA}} [[Diego José Clementino|Diego]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center|4
+|-
+| {{bandera|BOL}} [[Pablo Daniel Escobar|Pablo Escobar]]
+| {{bandera|BOL}} [[Club The Strongest|The Strongest]]
+| align=center|4
+|-
+| {{bandera|BRA}} [[Kléber Pereira]]
+| {{bandera|MEX}} [[Club América|América]]
+| align=center|4
+|-
+| {{bandera|ARG}} [[Martín Palermo]]
+| {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| align=center|4
+|-
+| {{bandera|BRA}} [[Moacir Bastos|Tuta]]
+| {{bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+| align=center|4
+|-
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2005]]
+* [[Recopa Sudamericana 2006]]
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20080805080800/http://www.conmebol.com/competiciones_evento_index_previo.jsp?evento=1154&ano=2005&slangab=S Copa Sudamericana 2005] en Conmebol.com
+* [http://www.rsssf.com/sacups/sudamcup05.html Copa Sudamericana 2005] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2004|2004]]
+| título     = Copa Sudamericana 2005
+| período    = IV edición
+| sucesor    = [[Copa Sudamericana 2006|2006]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana 2005| ]]

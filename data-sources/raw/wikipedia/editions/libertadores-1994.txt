@@ -1,0 +1,1466 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Patinhas esteve aqui - Estadio do Morumbi 1 - panoramio.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio de Morumbi]] ([[São Paulo]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Libertadores 1994|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|13|2|1994}}
+| fecha de cierre = {{fecha2|31|8|1994}}
+| edición = XXXV
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| semifinalistas = {{bandera|COL}} [[Junior de Barranquilla|Junior]] <br> {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| titulotercero = Semifinalistas
+| partidos = 90
+| goles = 205 (2,27 por partido)
+| goleadores = 
+| anterior = [[Copa Libertadores 1993]]
+| actual = Copa Libertadores 1994
+| siguiente = [[Copa Libertadores 1995]]
+|goleador={{bandera|VEN|1954}} [[Stalin Rivas]] (7 goles)<br><small>([[Minervén Sport Club|Minerven]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1994''' fue la trigésima quinta edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] de Argentina, que alcanzó así su primer título en la competición. Gracias a él, disputó la [[Copa Intercontinental 1994]] frente a [[Associazione Calcio Milan|Milan]] de [[Italia]], la [[Recopa Sudamericana 1995]] ante su compatriota [[Club Atlético Independiente|Independiente]] y la [[Copa Interamericana 1996]] contra [[Club Sport Cartaginés|Cartaginés]] de [[Costa Rica]]. Asimismo, se clasificó a los octavos de final de la [[Copa Libertadores 1995]].
+
+== Formato ==
+El campeón vigente accedió de manera directa a las fases finales, mientras que los 20 equipos restantes disputaron la fase de grupos. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. Los tres primeros de cada uno de los cinco grupos clasificaron a los octavos de final, en donde se les unió el campeón vigente, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1993
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 5 equipos terceros de la Fase de grupos
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<!-- <small>En ''cursiva'' los equipos debutantes en el torneo. NO SE INCORPORA ESTA LEYENDA EN ESTA EDICIÓN AL NO HABER EQUIPOS DEBUTANTES.</small> -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=90%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|País
+!width=15%|Equipo
+!width=70%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|Campeón del [[Anexo:Torneo Apertura 1992 (Argentina)|Torneo Apertura 1992]]<br>Campeón del [[Anexo:Torneo Clausura 1993 (Argentina)|Torneo Clausura 1993]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club The Strongest|The Strongest]]<br>[[Club Bolívar|Bolívar]]
+|Campeón del [[Campeonato de Primera División 1993 (Bolivia)|Campeonato de Primera División 1993]]<br>Subcampeón del Campeonato de Primera División 1993
+
+|- bgcolor=#F5FAFF
+| {{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos + campeón vigente</small>
+|[[São Paulo Futebol Clube|São Paulo]]<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]
+|Campeón de la [[Copa Libertadores 1993]]<br>Campeón del [[Campeonato Brasileño de Fútbol 1993|Campeonato Brasileño de 1993]]<br>Campeón de la [[Copa de Brasil 1993]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Unión Española]]
+|Campeón del [[Primera División de Chile 1993|Campeonato de Primera División 1993]]<br>Ganador de la [[Liguilla Pre-Libertadores 1993 (Chile)|Liguilla Pre-Libertadores 1993]]
+
+|- bgcolor=#F5FAFF
+| {{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Junior de Barranquilla|Junior]]<br>[[Independiente Medellín]]
+|Campeón del [[Campeonato colombiano 1993|Campeonato Colombiano 1993]]<br>Subcampeón del Campeonato Colombiano 1993
+
+|- bgcolor=#DDEEFF
+| {{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Club Sport Emelec|Emelec]]<br>[[Barcelona Sporting Club|Barcelona]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1993|Campeonato Ecuatoriano de 1993]]<br>Subcampeón del Campeonato Ecuatoriano de 1993
+
+|- bgcolor=#F5FAFF
+| {{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1993|Campeonato Paraguayo de 1993]]<br>Ganador de la [[Campeonato Paraguayo de Fútbol 1993#Clasificación a copas internacionales|final entre el subcampeón del Campeonato Paraguayo de 1993 y el campeón del Torneo República 1993]]
+
+|- bgcolor=#DDEEFF
+| {{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Universitario de Deportes|Universitario]]<br>[[Club Alianza Lima|Alianza Lima]]
+|Campeón del [[Campeonato Descentralizado 1993]]<br>Ganador de la [[Campeonato Descentralizado 1993#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores 1994]]
+
+|- bgcolor=#F5FAFF
+| {{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Defensor Sporting Club|Defensor Sporting]]
+|1.º puesto de la [[Campeonato Uruguayo de Primera División 1993#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 1993]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1993
+
+|- bgcolor=#DDEEFF
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]<br>[[Minervén Sport Club|Minerven]]
+|Campeón de la [[Primera División de Venezuela 1992-93|Primera División Venezolana 1992-93]]<br>Subcampeón de la Primera División Venezolana 1992-93
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1994'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[Sociedade Esportiva Palmeiras|Palmeiras]]<br>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Unión Española|{{Esd|Unión Española}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=10.963889|long=-74.796389|label=<small>[[Junior de Barranquilla|Junior]]</small>|position=left}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Independiente Medellín|{{Esd|Independiente Medellín}}]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]<br>[[Club Sport Emelec|Emelec]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Universitario de Deportes|Universitario]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]<br>[[Club Nacional de Football|Nacional]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Club Sport Marítimo de Venezuela|{{Esd|Sport Marítimo}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.34629|long=-61.8271|label=<small>[[Minervén Sport Club|Minerven]]</small>|position=right}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[Independiente Medellín]]'''
+|'''8'''||6||3||2||1||6||1||5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+|'''8'''||6||3||2||1||5||3||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+|'''5'''||6||2||1||3||4||5||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''3'''||6||1||1||4||4||10||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Asunción]]
+|align=right|'''[[Club Olimpia|Olimpia]]'''
+|1:0
+|align=left|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Barranquilla]]
+|align=right|[[Junior de Barranquilla|Junior]]
+|0:1
+|align=left|'''[[Independiente Medellín]]'''
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Medellín]]
+|align=right|[[Independiente Medellín]]
+|'''0:0'''
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[Barranquilla]]
+|align=right|[[Junior de Barranquilla|Junior]]
+|'''0:0'''
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de marzo
+|[[Medellín]]
+|align=right|'''[[Independiente Medellín]]'''
+|3:0
+|align=left|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Barranquilla]]
+|align=right|'''[[Junior de Barranquilla|Junior]]'''
+|3:2
+|align=left|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Asunción]]
+|align=right|[[Club Cerro Porteño|Cerro Porteño]]
+|1:3
+|align=left|'''[[Club Olimpia|Olimpia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Medellín]]
+|align=right|[[Independiente Medellín]]
+|0:1
+|align=left|'''[[Junior de Barranquilla|Junior]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|0:2
+|align=left|'''[[Independiente Medellín]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Asunción]]
+|align=right|[[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+|align=left|[[Independiente Medellín]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de abril
+|[[Asunción]]
+|align=right|'''[[Club Olimpia|Olimpia]]'''
+|1:0
+|align=left|[[Junior de Barranquilla|Junior]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de abril
+|[[Asunción]]
+|align=right|'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|1:0
+|align=left|[[Junior de Barranquilla|Junior]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|'''8'''||6||3||2||1||8||7||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|'''7'''||6||3||1||2||7||8||–1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''6'''||6||3||0||3||14||7||7
+|- align="center"
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''3'''||6||1||1||4||7||14||–7
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|13 de febrero
+|[[Buenos Aires]]
+|align=right|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|'''1:1'''
+|align=left|[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[São Paulo]]
+|align=right|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|2:0
+|align=left|[[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[São Paulo]]
+|align=right|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|6:1
+|align=left|[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Belo Horizonte]]
+|align=right|[[Cruzeiro Esporte Clube|Cruzeiro]]
+|'''1:1'''
+|align=left|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de marzo
+|[[Buenos Aires]]
+|align=right|[[Club Atlético Boca Juniors|Boca Juniors]]
+|1:2
+|align=left|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|1:0
+|align=left|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Buenos Aires]]
+|align=right|[[Club Atlético Boca Juniors|Boca Juniors]]
+|1:2
+|align=left|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|2:1
+|align=left|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|2:1
+|align=left|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+|2:0
+|align=left|[[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de abril
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|2:1
+|align=left|[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[São Paulo]]
+|align=right|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|4:1
+|align=left|[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Club Sport Emelec|Emelec]]'''
+|'''7'''||6||3||1||2||9||5||4
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''6'''||6||2||2||2||5||3||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+|'''6'''||6||2||2||2||4||5||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''5'''||6||2||1||3||6||11||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Guayaquil]]
+|align=right|[[Club Sport Emelec|Emelec]]
+|0:1
+|align=left|'''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Lima]]
+|align=right|[[Club Universitario de Deportes|Universitario]]
+|0:1
+|align=left|'''[[Club Alianza Lima|Alianza Lima]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Guayaquil]]
+|align=right|[[Barcelona Sporting Club|Barcelona]]
+|'''0:0'''
+|align=left|[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Guayaquil]]
+|align=right|'''[[Club Sport Emelec|Emelec]]'''
+|2:0
+|align=left|[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de marzo
+|[[Guayaquil]]
+|align=right|'''[[Barcelona Sporting Club|Barcelona]]'''
+|3:0
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Guayaquil]]
+|align=right|'''[[Club Sport Emelec|Emelec]]'''
+|3:0
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Guayaquil]]
+|align=right|[[Barcelona Sporting Club|Barcelona]]
+|0:1
+|align=left|'''[[Club Sport Emelec|Emelec]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Lima]]
+|align=right|[[Club Alianza Lima|Alianza Lima]]
+|1:2
+|align=left|'''[[Club Universitario de Deportes|Universitario]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[Lima]]
+|align=right|'''[[Club Alianza Lima|Alianza Lima]]'''
+|2:1
+|align=left|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Lima]]
+|align=right|[[Club Universitario de Deportes|Universitario]]
+|'''0:0'''
+|align=left|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de abril
+|[[Lima]]
+|align=right|[[Club Alianza Lima|Alianza Lima]]
+|'''2:2'''
+|align=left|[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de abril
+|[[Lima]]
+|align=right|'''[[Club Universitario de Deportes|Universitario]]'''
+|2:1
+|align=left|[[Club Sport Emelec|Emelec]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''9'''||6||4||1||1||11||6||5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Unión Española|Unión Española]]'''
+|'''7'''||6||3||1||2||6||6||0
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Defensor Sporting Club|Defensor Sporting]]'''
+|'''5'''||6||1||3||2||3||5||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''3'''||6||1||1||4||5||8||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Montevideo]]
+|align=right|'''[[Defensor Sporting Club|Defensor Sporting]]'''
+|1:0
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|[[Unión Española]]
+|1:2
+|align=left|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Unión Española]]'''
+|1:0
+|align=left|[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|2:0
+|align=left|[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Unión Española]]'''
+|1:0
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|4:2
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|'''1:1'''
+|align=left|[[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:1
+|align=left|[[Unión Española]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[Montevideo]]
+|align=right|[[Defensor Sporting Club|Defensor Sporting]]
+|'''0:0'''
+|align=left|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Montevideo]]
+|align=right|'''[[Club Nacional de Football|Nacional]]'''
+|2:0
+|align=left|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de abril
+|[[Montevideo]]
+|align=right|[[Defensor Sporting Club|Defensor Sporting]]
+|'''1:1'''
+|align=left|[[Unión Española]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de abril
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|0:1
+|align=left|'''[[Unión Española]]'''
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''9'''||6||3||3||0||9||2||7
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club The Strongest|The Strongest]]'''
+|'''7'''||6||2||3||1||13||7||6
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|VEN|1954}} '''[[Minervén Sport Club|Minervén]]'''
+|'''5'''||6||2||1||3||10||17||–7
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''3'''||6||1||1||4||7||13||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|[[Club Bolívar|Bolívar]]
+|'''0:0'''
+|align=left|[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Ciudad Guayana]]
+|align=right|'''[[Minervén Sport Club|Minervén]]'''
+|2:1
+|align=left|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de marzo
+|[[Ciudad Guayana]]
+|align=right|[[Minervén Sport Club|Minerven]]
+|'''1:1'''
+|align=left|[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Caracas]]
+|align=right|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|0:2
+|align=left|'''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Ciudad Guayana]]
+|align=right|'''[[Minervén Sport Club|Minervén]]'''
+|5:0
+|align=left|[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Caracas]]
+|align=right|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''1:1'''
+|align=left|[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de marzo
+|[[Caracas]]
+|align=right|'''[[Club Sport Marítimo de Venezuela|Sport Marítimo]]'''
+|4:1
+|align=left|[[Minervén Sport Club|Minerven]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|[[Club The Strongest|The Strongest]]
+|'''0:0'''
+|align=left|[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club Bolívar|Bolívar]]'''
+|4:0
+|align=left|[[Minervén Sport Club|Minerven]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club The Strongest|The Strongest]]'''
+|7:1
+|align=left|[[Minervén Sport Club|Minerven]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club Bolívar|Bolívar]]'''
+|2:1
+|align=left|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club The Strongest|The Strongest]]'''
+|5:0
+|align=left|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=35 | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Fechas -->
+|octavos = 14 de abril al 24 de julio
+|cuartos = 27 de julio al 3 de agosto
+|semifinal = 10 al 17 de agosto
+|final = 24 y 31 de agosto
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 14 de abril al 24 de julio
+
+| RD1-seed1 = G1 2
+| RD1-seed2 = G3 2
+| RD1-team1 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD1-team2 = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| RD1-score1-1= 1
+| RD1-score2-1= 0
+| RD1-score1-2= 2
+| RD1-score2-2= 1
+| RD1-score1-3= '''3'''
+| RD1-score2-3= '''1'''
+
+| RD1-seed3 = G5 1
+| RD1-seed4 = G5 2
+| RD1-team3 = {{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+| RD1-team4 = {{bandera|BOL}} [[Club The Strongest|The Strongest]]
+| RD1-score3-1= 2
+| RD1-score4-1= 1
+| RD1-score3-2= 4
+| RD1-score4-2= 0
+| RD1-score3-3= '''6'''
+| RD1-score4-3= '''1'''
+
+| RD1-seed5 = CV
+| RD1-seed6 = G2 3
+| RD1-team5 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-team6 = {{bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| RD1-score5-1= 0
+| RD1-score6-1= 0
+| RD1-score5-2= 2
+| RD1-score6-2= 1
+| RD1-score5-3= '''2'''
+| RD1-score6-3= '''1'''
+
+| RD1-seed7 = G2 2
+| RD1-seed8 = G4 2
+| RD1-team7 = {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD1-team8 = {{bandera|CHI}} '''[[Unión Española]]'''
+| RD1-score7-1= 0
+| RD1-score8-1= 1
+| RD1-score7-2= 0
+| RD1-score8-2= 0
+| RD1-score7-3= '''0'''
+| RD1-score8-3= '''1'''
+
+| RD1-seed9 = G2 1
+| RD1-seed10 = G4 3
+| RD1-team9 = {{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team10 = {{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]] 
+| RD1-score9-1= 1
+| RD1-score10-1= 1
+| RD1-score9-2= 0
+| RD1-score10-2= 0
+| RD1-score9-3= '''1&nbsp;{{small|(4)}}'''
+| RD1-score10-3= '''1&nbsp;{{small|(3)}}'''
+
+| RD1-seed11 = G3 1
+| RD1-seed12 = G5 3
+| RD1-team11 = {{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+| RD1-team12 = {{bandera|VEN|1954}} '''[[Minervén Sport Club|Minervén]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score11-1= 0
+| RD1-score12-1= 2
+| RD1-score11-2= 3
+| RD1-score12-2= 1
+| RD1-score11-3= '''3&nbsp;{{small|(2)}}'''
+| RD1-score12-3= '''3&nbsp;{{small|(4)}}'''
+
+| RD1-seed13 = G4 1
+| RD1-seed14 = G1 3
+| RD1-team13 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-team14 = {{bandera|COL}} '''[[Junior de Barranquilla|Junior]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score13-1= 1
+| RD1-score14-1= 1
+| RD1-score13-2= 2
+| RD1-score14-2= 2
+| RD1-score13-3= '''3&nbsp;{{small|(3)}}'''
+| RD1-score14-3= '''3&nbsp;{{small|(4)}}'''
+
+| RD1-seed15 = G1 1
+| RD1-seed16 = G3 3
+| RD1-team15 = {{nowrap|{{bandera|COL}} '''[[Independiente Medellín]]'''}}
+| RD1-team16 = {{bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+| RD1-score15-1= 1
+| RD1-score16-1= 2
+| RD1-score15-2= 2
+| RD1-score16-2= 0
+| RD1-score15-3= '''3'''
+| RD1-score16-3= '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 27 de julio al 3 de agosto
+
+| RD2-team1 = {{bandera|PAR|1990}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-team2 = {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| RD2-score1-1= 1
+| RD2-score2-1= 0
+| RD2-score1-2= 2
+| RD2-score2-2= 0
+| RD2-score1-3= '''3'''
+| RD2-score2-3= '''0'''
+
+| RD2-team3 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD2-team4 = {{bandera|CHI}} [[Unión Española]]
+| RD2-score3-1= 1
+| RD2-score4-1= 1
+| RD2-score3-2= 4
+| RD2-score4-2= 3
+| RD2-score3-3= '''5'''
+| RD2-score4-3= '''4'''
+
+| RD2-team5 = {{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD2-team6 = {{bandera|VEN|1954}} [[Minervén Sport Club|Minerven]]
+| RD2-score5-1= 0
+| RD2-score6-1= 0
+| RD2-score5-2= 2
+| RD2-score6-2= 0
+| RD2-score5-3= '''2'''
+| RD2-score6-3= '''0'''
+
+| RD2-team7 = {{bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+| RD2-team8 = {{bandera|COL}} [[Independiente Medellín]]
+| RD2-score7-1= 2
+| RD2-score8-1= 0
+| RD2-score7-2= 0
+| RD2-score8-2= 0
+| RD2-score7-3= '''2'''
+| RD2-score8-3= '''0'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 10 al 17 de agosto
+
+| RD3-team1 = {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| RD3-team2 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-score1-1= 1
+| RD3-score2-1= 2
+| RD3-score1-2= 1
+| RD3-score2-2= 0
+| RD3-score1-3= '''2&nbsp;{{small|(3)}}'''
+| RD3-score2-3= '''2&nbsp;{{small|(4)}}'''
+
+| RD3-team3 = {{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-team4 = {{bandera|COL}} [[Junior de Barranquilla|Junior]] 
+| RD3-score3-1= 1
+| RD3-score4-1= 2
+| RD3-score3-2= 2
+| RD3-score4-2= 1
+| RD3-score3-3= '''3&nbsp;{{small|(5)}}'''
+| RD3-score4-3= '''3&nbsp;{{small|(4)}}'''
+
+<!--Final-->
+| RD4= [[Final de la Copa Libertadores 1994|Final]]
+| RD4-date= 24 y 31 de agosto
+
+| RD4-team1 = {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| RD4-team2 = {{bandera|ARG}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD4-score1-1= 0
+| RD4-score2-1= 1
+| RD4-score1-2= 1
+| RD4-score2-2= 0
+| RD4-score1-3= '''1&nbsp;{{small|(3)}}'''
+| RD4-score2-3= '''1&nbsp;{{small|(5)}}'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>Nota 2: En las llaves de octavos de final, a cada equipo se le indica "''Gx p''", donde ''p'' es la posición final que ocupó en el grupo ''x'' de la fase de grupos.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 0:1''' (0:1)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 20 de abril de 1994
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|José Torres Cadena}}
+|goleslocal      = 
+|golesvisita     = [[Casiano Delvalle|Delvalle]] {{gol|6}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:1''' (1:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Julio Matto}}
+|goleslocal      = [[José Saturnino Cardozo|Cardozo]] {{gol|24||50}}
+|golesvisita     = [[Alberto Montaño|Montaño]] {{gol|63}}
+}}
+<br>
+{{Partido
+|local           = [[Club The Strongest|The Strongest]]
+|paíslocal       = BOL
+|resultado       = 1:2''' (1:2)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 14 de abril de 1994
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Arturo García Yale|García]] {{gol|23}}
+|golesvisita     = [[Víctor Hugo Antelo|Antelo]] {{gol|25||28}}
+}}
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 4:0''' (2:0)
+|visita          = [[Club The Strongest|The Strongest]]
+|paísvisita      = BOL
+|fecha           = 24 de abril de 1994
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Ángel Sánchez (árbitro)|Ángel Sánchez}}
+|goleslocal      = [[Víctor Hugo Antelo|Antelo]] {{gol|2}}<br>[[Julio César Baldivieso|Baldivieso]] {{gol|36||85}}<br>[[Vladimir Soria|Soria]] {{gol|53}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paíslocal       = BRA
+|resultado       = 0:0
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio Pacaembú]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|João Paulo Araújo}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 2:1''' (1:0)
+|visita          = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|paísvisita      = BRA
+|fecha           = 24 de julio de 1994
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Antônio Pereira da Silva|Antônio Pereira}}
+|goleslocal      = [[Euller Elias de Carvalho|Euller]] {{gol|29||58}}
+|golesvisita     = [[Evair Aparecido Paulino|Evair]] {{gol|89}}
+}}
+<br>
+{{Partido
+|local           = [[Unión Española]]
+|paíslocal       = CHI
+|resultado       = 1:0''' (0:0)
+|visita          = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita      = BRA
+|fecha           = 21 de abril de 1994
+|estadio         = [[Estadio Santa Laura]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Sabino Fariña}}
+|goleslocal      = [[Juan Carreño López|Carreño]] {{gol|76}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal       = BRA
+|resultado       = 0:0
+|visita          = [[Unión Española]]
+|paísvisita      = CHI
+|fecha           = 28 de abril de 1994
+|estadio         = [[Estadio Mineirão]]
+|ciudad          = [[Belo Horizonte]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      =
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal       = URU
+|resultado       = 1:1''' (1:1)
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 21 de abril de 1994
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Renato Marsiglia}}
+|goleslocal      = [[Julio de Souza|de Souza]] {{gol|22}}
+|golesvisita     = [[Héctor Almandoz|Almandoz]] {{gol|11}}
+}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 0:0
+|visita          = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita      = URU
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = 
+|golesvisita     = 
+|penaltis1       = [[Roberto Trotta|Trotta]] {{pengol}}<br>[[José Luis Chilavert|Chilavert]] {{pengol}}<br>[[Héctor Almandoz|Almandoz]] {{pengol}}<br>[[Esteban Fernando González|González]] {{penfallo}}<br>[[José Oscar Flores|Flores]] {{pengol}}
+|resultado penalti = 4:3
+|penaltis2       = {{penfallo}} [[Guillermo Almada|Almada]]<br>{{pengol}} [[José Chilelli|Chilelli]]<br>{{penfallo}} [[Rubén dos Santos|dos Santos]]<br>{{pengol}} [[Juan Carlos de Lima|de Lima]]<br>{{pengol}} [[Enrique Saravia|Saravia]]
+}}
+<br>
+{{Partido
+|local           = [[Minervén Sport Club|Minerven]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Sport Emelec|Emelec]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 20 de abril de 1994
+|estadio         = [[Estadio Cachamay]]
+|ciudad          = [[Ciudad Guayana]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Fernando Chappell}}
+|goleslocal      = [[Juan García Rivas|García]] {{gol|30}}<br>[[Stalin Rivas|Rivas]] {{gol|62}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Sport Emelec|Emelec]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 3:1''' (3:1)
+|visita          = [[Minervén Sport Club|Minerven]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio George Capwell]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|BOL|Rene Ortubé}}
+|goleslocal      = [[Máximo Tenorio|Tenorio]] {{gol|13}}<br>[[Roberto Luis Oste|Oste]] {{gol|28||39}}
+|golesvisita     = [[Juan García Rivas|García]] {{gol|17}}
+|resultado penalti = 2:4
+|penaltis1       = [[Edú Manga|Manga]] {{pengol}}<br>[[Ivo Ron|Ron]] {{pengol}}<br>[[Walter Pico|Pico]] {{penfallo}}<br>[[Marcelo Morales|Morales]] {{penfallo}}
+|penaltis2       = {{pengol}} [[Edson Tortolero|Tortolero]]<br>{{pengol}} [[Stalin Rivas|Rivas]]<br>{{pengol}} [[Luis Darío Erramuspe|Erramuspe]]<br>{{pengol}} [[Eleazar García (futbolista)|García]]
+}}
+<br>
+{{Partido
+|local           = [[Junior de Barranquilla|Junior]]
+|paíslocal       = COL
+|resultado       = 1:1''' (0:1)
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 20 de abril de 1994
+|estadio         = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad          = [[Barranquilla]]
+|asistencia      = 
+|refe            = {{árbitro|ECU|variante=1900|Alfredo Rodas}}
+|goleslocal      = [[Miguel Guerrero|Guerrero]] {{gol|50}}
+|golesvisita     = [[Eduardo Vilches|Vilches]] {{gol|8}}
+}}
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 2:2''' (2:0)
+|visita          = [[Junior de Barranquilla|Junior]]
+|paísvisita      = COL
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Javier Castrilli}}
+|goleslocal      = [[Toninho Dos Santos|Toninho]] {{gol|10||15|pen.}}
+|golesvisita     = [[Miguel Guerrero|Guerrero]] {{gol|75}}<br>[[Luis Grau (futbolista colombiano)|Grau]] {{gol|85}}
+|resultado penalti = 3:4
+|penaltis1       = [[Toninho Dos Santos|Toninho]] {{pengol}}<br>[[Javier Adrián Baena|Baena]] {{pengol}}<br>[[Jorge Contreras Lira|Contreras]] {{pengol}}<br>[[Eduardo Vilches|Vilches]] {{penfallo}}<br>[[Ricardo González (futbolista)|González]] {{penfallo}}
+|penaltis2       = {{pengol}} [[Iván René Valenciano|Valenciano]]<br>{{pengol}} [[Miguel Guerrero|Guerrero]]<br>{{pengol}} [[Carlos Valderrama|C. Valderrama]]<br>{{penfallo}} [[Francisco Cassiani|Cassiani]]<br>{{pengol}} [[Héctor Méndez (futbolista uruguayo)|Méndez]]
+}}
+<br>
+{{Partido
+|local           = [[Club Universitario de Deportes|Universitario]]
+|paíslocal       = PER
+|resultado       = 2:1''' (0:0)
+|visita          = [[Independiente Medellín]]
+|paísvisita      = COL
+|fecha           = 20 de abril de 1994
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      = 28&nbsp;921
+|refe            = {{árbitro|CHI|Iván Guerrero (árbitro)|Iván Guerrero}}
+|goleslocal      = [[Jorge Amado Nunes|Nunes]] {{gol|72|pen.|82}}
+|golesvisita     = [[Jhon Jaime Gómez|Gómez]] {{gol|73}}
+}}
+{{Partido
+|local           = [[Independiente Medellín]]
+|paíslocal       = COL
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Universitario de Deportes|Universitario]]
+|paísvisita      = PER
+|fecha           = 27 de abril de 1994
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Juan Francisco Escobar Valdéz|Juan Francisco Escobar}}
+|goleslocal      = [[Jhon Jaime Gómez|Gómez]] {{gol|28}}<br>[[Oscar Eduardo Juárez|Juárez]] {{gol|84}}
+|golesvisita     = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 0:1''' (0:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 27 de julio de 1994
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = 
+|golesvisita     = [[Marco Sandy|Sandy]] {{gol|87|a.g.}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 3 de agosto de 1994
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Renato Marsiglia}}
+|goleslocal      = [[Miguel Ángel Sanabria|Sanabria]] {{gol|28}}<br>[[Adolfo Jara Heyn|Jara]] {{gol|89}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Unión Española]]
+|paíslocal       = CHI
+|resultado       = 1:1''' (1:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 29 de julio de 1994
+|estadio         = [[Estadio Santa Laura]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Jorge Nieves}}
+|goleslocal      = [[José Luis Sánchez Moretti|Sánchez]] {{gol|30}}
+|golesvisita     = [[Juninho Paulista|Paulista]] {{gol|50}}
+}}
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 4:3''' (2:0)
+|visita          = [[Unión Española]]
+|paísvisita      = CHI
+|fecha           = 3 de agosto de 1994
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|COL|José Torres Cadena}}
+|goleslocal      = [[Jorge Ferreira da Silva|Palhinha]] {{gol|22}}<br>[[Válber Roel de Oliveira|Válber]] {{gol|27}}<br>[[André Luiz Moreira|André Luiz]] {{gol|58}}<br>[[Euller Elias de Carvalho|Euller]] {{gol|78}}
+|golesvisita     = [[José Luis Sánchez Moretti|Sánchez]] {{gol|52||72}}<br>[[José Luis Sierra (futbolista chileno)|Sierra]] {{gol|83}}
+}}
+<br>
+{{Partido
+|local           = [[Minervén Sport Club|Minerven]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 0:0
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 27 de julio de 1994
+|estadio         = [[Estadio Cachamay]]
+|ciudad          = [[Ciudad Guayana]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Salvador Imperatore}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 2:0''' (1:0)
+|visita          = [[Minervén Sport Club|Minerven]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 3 de agosto de 1994
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|goleslocal      = [[José Oscar Flores|Flores]] {{gol|40}}<br>[[Omar Asad|Asad]] {{gol|61}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Independiente Medellín]]
+|paíslocal       = COL
+|resultado       = 0:2''' (0:0)
+|visita          = [[Junior de Barranquilla|Junior]]
+|paísvisita      = COL
+|fecha           = 27 de julio de 1994
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|João Paulo Araújo}}
+|goleslocal      = 
+|golesvisita     = [[Oswaldo Mackenzie|Mackenzie]] {{gol|53}}<br>[[Ronald Valderrama|R. Valderrama]] {{gol|89}}
+}}
+{{Partido
+|local           = [[Junior de Barranquilla|Junior]]
+|paíslocal       = COL
+|resultado       = 0:0
+|visita          = [[Independiente Medellín]]
+|paísvisita      = COL
+|fecha           = 3 de agosto de 1994
+|estadio         = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad          = [[Barranquilla]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Javier Castrilli}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 2:1''' (1:1)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 10 de agosto de 1994
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Jorge Nieves}}
+|goleslocal      = [[Jorge Ferreira da Silva|Palhinha]] {{gol|39|pen.}}<br>[[Müller (futbolista)|Müller]] {{gol|65}}
+|golesvisita     = [[José Saturnino Cardozo|Cardozo]] {{gol|12}}
+}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 1:0''' (0:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 17 de agosto de 1994
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Francisco Ferreira|Ferreira]] {{gol|82}}
+|golesvisita     = 
+|penaltis1       = [[José Saturnino Cardozo|Cardozo]] {{pengol}}<br>[[Gustavo Sotelo|Sotelo]] {{pengol}}<br>[[Carlos Vidal Sanabria|Vidal Sanabria]] {{penfallo}}<br>[[Miguel Ángel Sanabria|Sanabria]] {{pengol}}<br>[[Jorge Luis Campos|Campos]] {{penfallo}}
+|resultado penalti = 3:4
+|penaltis2       = {{penfallo}} [[Jorge Ferreira da Silva|Palhinha]]<br>{{pengol}} [[Müller (futbolista)|Müller]]<br>{{pengol}} [[André Luiz Moreira|André Luiz]]<br>{{pengol}} [[Euller Elias de Carvalho|Euller]]<br>{{pengol}} [[Gilmar Jorge Alberto Dos Santos|Gilmar]]
+}}
+<br>
+{{Partido
+|local           = [[Junior de Barranquilla|Junior]]
+|paíslocal       = COL
+|resultado       = 2:1''' (1:0)
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 10 de agosto de 1994
+|estadio         = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad          = [[Barranquilla]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Iván René Valenciano|Valenciano]] {{gol|2||79}}
+|golesvisita     = [[José Oscar Flores|Flores]] {{gol|66}}
+}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 2:1''' (2:1)
+|visita          = [[Junior de Barranquilla|Junior]]
+|paísvisita      = COL
+|fecha           = 17 de agosto de 1994
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Iván Guerrero (árbitro)|Iván Guerrero}}
+|goleslocal      = [[Christian Bassedas|Bassedas]] {{gol|4}}<br>[[José Oscar Flores|Flores]] {{gol|12}}
+|golesvisita     = [[Iván René Valenciano|Valenciano]] {{gol|18}}
+|penaltis1       = [[Roberto Trotta|Trotta]] {{pengol}}<br>[[José Luis Chilavert|Chilavert]] {{pengol}}<br>[[Flavio Zandoná|Zandoná]] {{pengol}}<br>[[Roberto Pompei|Pompei]] {{pengol}}<br>[[José Oscar Flores|Flores]] {{penfallo}}<br>[[José Basualdo|Basualdo]] {{pengol}}
+|resultado penalti = 5:4
+|penaltis2       = {{pengol}} [[Iván René Valenciano|Valenciano]]<br>{{pengol}} [[Alexis Mendoza|Mendoza]]<br>{{pengol}} [[Carlos Valderrama|C. Valderrama]]<br>{{pengol}} [[Oswaldo Mackenzie|Mackenzie]]<br>{{penfallo}} [[Héctor Méndez (futbolista uruguayo)|Méndez]]<br>{{penfallo}} [[Ronald Valderrama|R. Valderrama]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1994|l1=Final de la Copa Libertadores 1994}}
+{{Partido
+|local           = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (1:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 24 de agosto de 1994, 21:50 ([[UTC-3]])
+|hora            = 
+|estadio         = [[Estadio José Amalfitani]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 51&nbsp;000
+|árbitro         = {{árbitro|COL|José Torres Cadena}}
+|goleslocal      = [[Omar Asad|Asad]] {{gol|35}}
+|golesvisita     = 
+|reporte         = 
+|competición=Ida}}
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (1:0)
+|visita          = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita      = ARG
+|fecha           = 31 de agosto de 1994, 21:50 ([[UTC-3]])
+|hora            = 
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 92&nbsp;650
+|árbitro         = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[Müller (futbolista)|Müller]] {{gol|33|pen.}}
+|golesvisita     = 
+|reporte         = 
+|resultado penalti = 3:5
+|penaltis1       = [[Jorge Ferreira da Silva|Palhinha]] {{penfallo|atajado}}<br>[[André Luiz Moreira|André Luiz]] {{pengol}}<br>[[Müller (futbolista)|Müller]] {{pengol}}<br>[[Euller Elias de Carvalho|Euller]] {{pengol}}
+|penaltis2       = {{pengol}} [[Roberto Trotta|Trotta]]<br>{{pengol}} [[José Luis Chilavert|Chilavert]]<br>{{pengol}} [[Flavio Zandoná|Zandoná]]<br>{{pengol}} [[Héctor Almandoz|Almandoz]]<br>{{pengol}} [[Roberto Pompei|Pompei]]
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|bandera = Argentina
+|orden = 1
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Venezuela|1954}} '''[[Stalin Rivas]]''' {{refn|group=n.|La [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] le adjudica a Stalin Rivas, erróneamente, dos goles en el partido Minervén 2-0 Emelec, por los octavos de final, cuando otras fuentes<ref>[https://www.livefutbol.com/cronica/copa-libertadores-1994-achtelfinale-minerven-fc-cs-emelec/ Ficha de Minervén 2-0 Emelec] en livefutbol.com</ref><ref>[https://eliezerperez.wordpress.com/tag/copa-libertadores-minerven-fc-sport-maritimo-the-strongest-bolivar-emelec-velez-sarsfield-futven-futve-venezuela/ Copa Libertadores 1994] por Eliezerperez – Historias y estadísticas del fútbol de Venezuela desde 1902</ref> afirman correctamente que convirtió sólo uno.}}
+|{{bandera|Venezuela|1954}} '''[[Minervén Sport Club|Minervén]]'''
+|align=center|'''7'''
+|-
+|{{bandera|Bolivia}} [[Víctor Hugo Antelo]]
+|{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|align=center|6
+|-
+|{{bandera|Argentina}} [[Omar Asad]]
+|{{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|align=center|6
+|-
+|{{bandera|Bolivia}} [[Julio César Baldivieso]]
+|{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|align=center|5
+|-
+|{{bandera|Chile}} [[Juan Carreño López|Juan Carreño]]
+|{{bandera|Chile}} [[Unión Española]]
+|align=center|5
+|-
+|{{bandera|Brasil}} [[Toninho Dos Santos|Toninho]]
+|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|align=center|5
+|-
+|{{bandera|Brasil}} [[Edilson da Silva Pereira|Edilson]]
+|{{bandera|Brasil}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|align=center|5
+|-
+|{{bandera|Argentina}} [[Roberto Oste]]
+|{{bandera|Ecuador|1900}} [[Club Sport Emelec|Emelec]]
+|align=center|5
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1994]]
+* [[Supercopa Sudamericana 1994]]
+* [[Recopa Sudamericana 1995]]
+* [[Copa Interamericana 1996]]
+
+== Notas ==
+{{listaref|group=n.}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa94.html Copa Libertadores 1994] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.conmebol.com/ Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1993|1993]]
+| título     = Copa Libertadores 1994
+| período    = XXXV edición
+| sucesor    = [[Copa Libertadores 1995|1995]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1994]]
+[[Categoría:Temporadas de la Copa Libertadores|1994]]
+[[Categoría:Fútbol en 1994]]

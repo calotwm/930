@@ -1,0 +1,2727 @@
+{{Ficha de competición deportiva
+| nombre = Copa de la Liga Profesional 2024
+| nombre_original = [[Copa de la Liga Profesional]]
+| imagen = Edlp-museo-postales-campeones-2024.jpg
+| imagen_tamaño = 300px
+| imagen_pie = [[Club Estudiantes de La Plata|Estudiantes de La Plata]], campeón de la Copa de la Liga Profesional.
+| deporte = fútbol
+| asociación = [[Asociación del Fútbol Argentino]]
+| organizador = [[Liga Profesional de Fútbol Argentino|Liga Profesional de Fútbol]]
+| país = {{Argentina}}
+| patrocinador = Sur Finanzas
+| fecha de inicio = 25 de enero
+| fecha de cierre = 5 de mayo
+| edición = V
+| campeón = '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| subcampeón = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+| semifinalistas = [[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| goleador = {{bandera|COL}} [[Miguel Borja]] {{small|(13 goles)}}
+| participantes = 28
+| partidos = 203
+| goles = 451 {{small|(2,22 goles por partido)}}
+| televisión = {{Lista desplegable
+ |'''Local''':
+ |[[TNT Sports (Argentina)|TNT Sports]]
+ |[[ESPN Premium (Argentina)|ESPN Premium]]
+ |[[ESPN (Latinoamérica)|ESPN]] 
+ |[[Televisión Pública (Argentina)|TV Pública]]
+ |'''Internacional''':
+ |'''Sudamérica y Centroamérica:'''
+ |[[ESPN (Latinoamérica)|ESPN]] 
+ |[[Star+]]
+ |[[TyC Sports Internacional]]
+ |'''Exterior:'''
+ |[[Fanatiz]] - AFA Play
+ |[[TyC Sports Internacional]]
+ |[[Star+]]
+ |[[Vix (servicio de streaming)|Vix]]
+ |[[Sport TV]]
+}}
+| torneo1 = [[Copa Libertadores 2025]]
+| clasificado1 = Estudiantes (LP)
+| torneo2 = [[Trofeo de Campeones de la Liga Profesional 2024|Trofeo de Campeones 2024]]
+| clasificado2 = Estudiantes (LP)
+| anterior = [[Copa de la Liga Profesional 2023]]
+| actual = Copa de la Liga Profesional 2024
+| siguiente = -
+}}
+La '''Copa de la Liga Profesional de Fútbol de AFA 2024''', conocida como '''Copa de la Liga Profesional 2024''', '''Copa de la Liga 2024''', '''«Copa Sur Finanzas 2024»''' (por motivos de patrocinio) o simplemente '''Copa 2024''', fue la quinta y última edición de [[Copa de la Liga Profesional|esta competición]] organizada por la [[Liga Profesional de Fútbol Argentino|Liga Profesional de Fútbol]], órgano interno de la [[Asociación del Fútbol Argentino]]. Comenzó el 25 de enero y finalizó el 5 de mayo. 
+
+La disputaron los veintiocho equipos que luego participaron del [[Campeonato de Primera División 2024 (Argentina)|Campeonato de Primera División 2024]]. El campeón fue el [[Club Estudiantes de La Plata]], que ganó su cuarta [[Copas nacionales del fútbol argentino|copa nacional]]<ref>{{cita web|título=Campeones de Primera División|url=https://www.afa.com.ar/es/pages/campeones-de-primera-division|sitioweb=AFA|fecha=Permanente|fechaacceso=5 de mayo de 2024}}</ref>y obtuvo la clasificación a la [[Copa Libertadores 2025]] y al [[Trofeo de Campeones de la Liga Profesional 2024|Trofeo de Campeones 2024]]. Asimismo, los puntos obtenidos en la fase de zonas sumaron con el Campeonato 2024 para la tabla general de la temporada y para la de descenso por promedios.
+
+== Equipos participantes ==
+{| class="wikitable sortable col4cen" style="margin:auto;"
+|-
+! Equipo
+! Ciudad
+! Estadio
+! Capacidad
+|-
+| [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| [[Buenos Aires]]
+| [[Estadio Diego Armando Maradona (Argentina)|Diego Armando Maradona]]
+| 26{{esd}}000<ref name=":1">{{Cita web |url=https://www.argentinosjuniors.com.ar/el-club/estadio/ |título=Capacidad del estadio Diego Armando Maradona, en el sitio oficial de Argentinos Juniors |fechaacceso=22 de diciembre de 2021 |fechaarchivo=23 de septiembre de 2020 |urlarchivo=https://web.archive.org/web/20200923123650/https://www.argentinosjuniors.com.ar/el-club/estadio/ |deadurl=yes }}</ref>
+
+|-
+| [[Club Atlético Tucumán|Atlético Tucumán]]
+| [[San Miguel de Tucumán]]
+| [[Estadio Monumental José Fierro|Monumental José Fierro]]
+| 35{{esd}}200<ref>[http://www.decaweb.com.ar/monumental-jose-fierro.asp Capacidad del estadio José Fierro, en el sitio oficial del Club Atlético Tucumán]</ref>
+
+|-
+| [[Club Atlético Banfield|Banfield]]
+| [[Banfield]]
+| [[Estadio Florencio Sola|Florencio Sola]]
+| 34{{esd}}900<ref>{{Cita web |url=http://clubabanfield.org/inicio/club/estadio/ |título=Capacidad del estadio Florencio Sola, en el sitio oficial del Club Atlético Banfield |fechaacceso=30 de diciembre de 2022 |fechaarchivo=2 de agosto de 2016 |urlarchivo=https://web.archive.org/web/20160802035518/http://clubabanfield.org/inicio/club/estadio/ |deadurl=yes }}</ref>
+
+|-
+| [[Club Atlético Barracas Central|Barracas Central]]
+| [[Buenos Aires]]
+| [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Ciudad de Lanús-Néstor Díaz Pérez]]<br />[[Estadio Tomás Adolfo Ducó|Tomás Adolfo Ducó]]
+| 47{{esd}}027<ref name=":0" /><br />48&nbsp;314<ref name="ducó" />
+
+|-
+| [[Club Atlético Belgrano|Belgrano]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Julio César Villagra|Julio César Villagra]]
+| align=center|33{{esd}}000<ref>[https://www.belgranocordoba.com/seccion-belgrano/3/ Capacidad del estadio Julio Cesar Villagra ]</ref>
+
+|-
+| [[Club Atlético Boca Juniors|Boca Juniors]]
+| [[Buenos Aires]]
+| [[Estadio Alberto J. Armando|Alberto J. Armando]]
+| 54{{esd}}000<ref>[http://www.bocajuniors.com.ar/el-club/la-bombonera Capacidad del estadio Alberto J. Armando, en el sitio oficial del Club Atlético Boca Juniors]</ref>
+
+|-
+| [[Club Atlético Central Córdoba (Santiago del Estero)|Central Córdoba]]
+| [[Santiago del Estero (ciudad)|Santiago del Estero]]
+| [[Estadio Alfredo Terrera|Alfredo Terrera]]<br />[[Estadio Único Madre de Ciudades|Único Madre de Ciudades]]
+| 21{{esd}}500<ref>[https://www.transfermarkt.es/club-atletico-central-cordoba-sde-/stadion/verein/31284 Capacidad del estadio Alfredo Terrera, en Transfermarkt]</ref><br />30{{esd}}000<ref>[https://www.copaargentina.org/es/sedes/323_Estadio-Unico-Madre-de-Ciudades.html Capacidad del estadio Único Madre de Ciudades, en el sitio oficial de la Copa Argentina]</ref>
+
+|-
+| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+| [[Gobernador Julio A. Costa|Gobernador Costa]]
+| [[Estadio Norberto Tomaghello|Norberto Tomaghello]]
+| 20{{esd}}000<ref>[http://www.defensayjusticia.org.ar/index.php?se=8 Capacidad del estadio Norberto Tomaghello, en el sitio oficial del Club Social y Deportivo Defensa y Justicia]</ref>
+
+|-
+| [[Deportivo Riestra]]
+| [[Buenos Aires]]
+| [[Estadio Guillermo Laza|Guillermo Laza]]
+| 3{{esd}}000<ref>[https://www.tycsports.com/liga-profesional-de-futbol/como-es-el-guillermo-laza-el-curioso-estadio-de-riestra-que-debutara-en-liga-profesional-id551178.html Capacidad del estadio Guillermo Laza, en el sitio web de TyC Sports]</ref>
+
+|-
+| [[Club Estudiantes de La Plata|Estudiantes]]
+| [[La Plata]]
+| [[Estadio Jorge Luis Hirschi|Jorge Luis Hirschi]]
+| 32{{esd}}530<ref name="uno">[https://www.estudiantesdelaplata.com/la-nueva-tribuna-lista-para-usar/ Capacidad del estadio Jorge Luis Hirschi, en el sitio oficial del Club Estudiantes de La Plata]</ref>
+
+|-
+| [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]]
+| [[La Plata]]
+| [[Estadio Juan Carmelo Zerillo|Juan Carmelo Zerillo]]
+| 30{{esd}}973<ref>{{Cita web |url=http://www.gimnasia.org.ar/sedes/estadio-juan-carmelo-zerillo/ |título=Capacidad del estadio Juan Carmelo Zerillo, en el sitio oficial del Club de Gimnasia y Esgrima La Plata|fechaacceso=17 de octubre de 2020}}</ref>
+
+|-
+| [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| [[Godoy Cruz]]
+| [[Estadio Víctor Antonio Legrotaglie|Víctor Antonio Legrotaglie]]<br />[[Estadio Malvinas Argentinas|Malvinas Argentinas]]
+| 14{{esd}}000<ref name="datos">{{cita web |url= http://gimnasiayesgrimamza.com.ar/gye2017/wp-content/uploads/2018/06/GYE2018.pdf |título= Información del Club Atlético Gimnasia y Esgrima |fechaacceso= 22 de septiembre de 2018 |editor= gimnasiayesgrimamza.com.ar |formato=PDF}}</ref><br />42{{esd}}500<ref>{{Cita web|url=http://www.estadiomalvinasargentinas.com/caracteristicas-del-estadio-malvinas-argentinas/|título=Sitio oficial del estadio Malvinas Argentinas|fechaacceso=16 de abril de 2019|urlarchivo=https://web.archive.org/web/20160401064328/http://www.estadiomalvinasargentinas.com/caracteristicas-del-estadio-malvinas-argentinas/|fechaarchivo=1 de abril de 2016}}</ref>
+
+|-
+| [[Club Atlético Huracán|Huracán]]
+| [[Buenos Aires]]
+| [[Estadio Tomás Adolfo Ducó|Tomás Adolfo Ducó]]
+| 48&nbsp;314<ref name="ducó">[https://cahuracan.com/estadio-tomas-a-duco/ Capacidad del estadio Tomás Adolfo Ducó, en el sitio oficial del Club Atlético Huracán]</ref>
+
+|-
+| [[Club Atlético Independiente|Independiente]]
+| [[Avellaneda (Buenos Aires)|Avellaneda]]
+| [[Estadio Libertadores de América-Ricardo Enrique Bochini|Libertadores de América-Ricardo Enrique Bochini]]
+| 49{{esd}}592<ref name=rojo>{{Cita web |url=http://clubaindependiente.com/es/institucion/estadio |título=Capacidad del estadio Libertadores de América, en el sitio oficial del Club Atlético Independiente |fechaacceso=7 de diciembre de 2023 |fechaarchivo=23 de agosto de 2018 |urlarchivo=https://web.archive.org/web/20180823162424/http://clubaindependiente.com/es/institucion/estadio |deadurl=yes }}</ref>
+
+|-
+| [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]
+| [[Mendoza (Argentina)|Mendoza]]
+| [[Estadio Bautista Gargantini|Bautista Gargantini]]
+| 24{{esd}}000<ref>[https://www.ole.com.ar/futbol-primera/nuevo-estadio-liga-profesional-caracteristica-unico_0_6Xzjoc60ka.html Capacidad del estadio Bautista Gargantini, en el sitio web del Diario Olé]</ref>
+
+|-
+| [[Instituto Atlético Central Córdoba|Instituto]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]<br />[[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+|align=center|26{{esd}}000<ref>[http://www.institutoacc.com.ar/index.php/instalaciones/ Capacidad del estadio Juan Domingo Perón, en el sitio oficial del Instituto Atlético Central Córdoba]</ref><br />57{{esd}}000<ref name=":3" />
+
+|-
+| [[Club Atlético Lanús|Lanús]]
+| [[Lanús|Lanús Este]]
+| [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Ciudad de Lanús-Néstor Díaz Pérez]]
+| 47{{esd}}027<ref name=":0">{{Cita web |url=http://deportes.starmedia.com/futbol/copa-sudamericana/fecha-hora-final-vuelta-lanus-vs-ponte-preta-copa-sudamericana-2013.html |título=Capacidad del estadio Ciudad de Lanús-Néstor Díaz Pérez, en Starmedia |fechaacceso=16 de abril de 2019 |urlarchivo=https://web.archive.org/web/20160816091535/http://deportes.starmedia.com/futbol/copa-sudamericana/fecha-hora-final-vuelta-lanus-vs-ponte-preta-copa-sudamericana-2013.html |fechaarchivo=16 de agosto de 2016 }}</ref>
+
+|-
+| [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+| [[Rosario (Argentina)|Rosario]]
+| [[Estadio Marcelo Bielsa|Marcelo Bielsa]]
+| 42{{esd}}000<ref>{{Cita web |url=http://www.newellsoldboys.com.ar/page/new_club/id/6/title/Sedes-%3E-Estadio-Marcelo-A.-Bielsa |título=Capacidad del estadio Marcelo A. Bielsa, en el sitio oficial del Club Atlético Newell's Old Boys |fechaacceso=16 de abril de 2019 |urlarchivo=https://web.archive.org/web/20191026174839/http://www.newellsoldboys.com.ar/page/new_club/id/6/title/Sedes-%3E-Estadio-Marcelo-A.-Bielsa |fechaarchivo=26 de octubre de 2019 }}</ref>
+
+|-
+| [[Club Atlético Platense|Platense]]
+| [[Partido de Vicente López|Vicente López]]
+| [[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]
+| align=center|34{{esd}}530<ref>[https://www.transfermarkt.es/club-atletico-platense/stadion/verein/928 Capacidad del estadio Ciudad de Vicente López, en Transfermarkt]</ref>
+
+|-
+| [[Racing Club]]
+| [[Avellaneda (Buenos Aires)|Avellaneda]]
+| [[Estadio Presidente Perón|Presidente Perón]]
+| 51{{esd}}000<ref>[http://www.racingclub.com.ar/estadio/ Capacidad del estadio Presidente Perón, en el sitio oficial del Racing Club]</ref>
+
+|-
+| [[Club Atlético River Plate|River Plate]]
+| [[Buenos Aires]]
+| [[Estadio Monumental (River Plate)|Monumental]]
+| 84{{esd}}567<ref>[http://www.cariverplate.com.ar/el-monumental/ Capacidad del estadio Mâs Monumental, en el sitio oficial del Club Atlético River Plate]</ref>
+
+|-
+| [[Club Atlético Rosario Central|Rosario Central]]
+| [[Rosario (Argentina)|Rosario]]
+| [[Estadio Gigante de Arroyito|Gigante de Arroyito]]<br />[[Estadio Único de San Nicolás|Único de San Nicolás]]
+| 41{{esd}}465<ref>[http://www.rosariocentral.com/historia/ Capacidad del estadio Gigante de Arroyito, en el sitio oficial del Club Atlético Rosario Central]</ref><br />25{{esd}}000<ref>{{Cita web|url=https://estadiosannicolas.com.ar/|título=Capacidad del estadio Único de San Nicolás, en el sitio oficial del Estadio San Nicolás|fechaacceso=16 de abril de 2023}}</ref>
+
+|-
+| [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| [[Buenos Aires]]
+| [[Estadio Pedro Bidegain|Pedro Bidegain]]
+| 47{{esd}}964<ref name=":2">[http://www.transfermarkt.es/club-atletico-san-lorenzo-de-almagro/stadion/verein/1775 Capacidad del estadio Pedro Bidegain, en Transfermarkt]</ref>
+
+|-
+| [[Club Atlético Sarmiento (Junín)|Sarmiento]]
+| [[Junín (Buenos Aires)|Junín]]
+| [[Estadio Eva Perón|Eva Perón]]
+| 23{{esd}}000<ref>[https://www.futbolargentino.com/clubes/sarmiento-de-junin/ Capacidad del estadio Eva Perón, en Fútbol Argentino]</ref>
+
+|-
+| [[Club Atlético Talleres (Córdoba)|Talleres]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]
+| 57{{esd}}000<ref name=":3">[http://www.cba.gov.ar/estadio-mario-alberto-kempes/ Estadio Mario Alberto Kempes en la página oficial de la provincia de Córdoba]</ref>
+
+|-
+| [[Club Atlético Tigre|Tigre]]
+| [[Victoria (Buenos Aires)|Victoria]]
+| [[Estadio José Dellagiovanna|José Dellagiovanna]]
+| align=center|26{{esd}}282<ref>{{Cita web |url=https://catigre.com.ar/club/estadio/ |título=Capacidad del estadio José Dellagiovanna, en el sitio oficial del Club Atlético Tigre |fechaacceso=22 de diciembre de 2021 |fechaarchivo=21 de abril de 2021 |urlarchivo=https://web.archive.org/web/20210421032927/https://catigre.com.ar/club/estadio/ |deadurl=yes }}</ref>
+
+|-
+| [[Club Atlético Unión (Santa Fe)|Unión]]
+| [[Santa Fe (Argentina)|Santa Fe]]
+| [[Estadio 15 de Abril|15 de abril]]
+| 30{{esd}}000<ref>[http://www.clubaunion.com.ar/estadio-15-de-abril/ Capacidad del estadio 15 de Abril, en el sitio oficial del Club Atlético Unión]</ref>
+
+|-
+| [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+| [[Buenos Aires]]
+| [[Estadio José Amalfitani|José Amalfitani]]
+| 49{{esd}}540<ref>[http://www.velezsarsfield.com.ar/club/estadio/ Capacidad del estadio José Amalfitani, en el sitio oficial del Club Atlético Vélez Sarsfield]</ref>
+|}
+
+=== Distribución geográfica de los equipos ===
+{| class="wikitable" style="margin:auto;"
+|-
+!Jurisdicción
+!{{Abreviatura|Cant.|Cantidad}}
+!Equipos
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]|| align="center" |8|| align="center" |Argentinos Juniors, Barracas Central, Boca Juniors, Deportivo Riestra, Huracán, River Plate, San Lorenzo, y Vélez Sarsfield
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]|| align="center" |7|| align="center" |Banfield, Defensa y Justicia, Independiente, Lanús, Platense, Racing Club, y Tigre
+|-
+|{{bandera|Provincia de Santa Fe}} [[Provincia de Santa Fe]]||align=center|3|| align="center" |Newell's Old Boys, Rosario Central, y Unión
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|3|| align="center" |Belgrano, Instituto, y Talleres
+|-
+|{{bandera|La Plata}} Ciudad de [[La Plata]]||align=center|2||align="center"|Estudiantes, y Gimnasia y Esgrima
+|-
+|{{bandera|Provincia de Mendoza}} [[Provincia de Mendoza]]|| align="center" |2|| align="center" |Godoy Cruz, e Independiente Rivadavia
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]||align=center|1||align=center|Sarmiento (J)
+|-
+|{{bandera|Provincia de Santiago del Estero}} [[Provincia de Santiago del Estero]]||align=center|1||align=center|Central Córdoba
+|-
+|{{bandera|Provincia de Tucumán}} [[Provincia de Tucumán]]||align=center|1||align=center|Atlético Tucumán
+|}
+
+== Sistema de disputa ==
+=== Primera fase ===
+Llamada fase de zonas. Los equipos se dividieron en dos grupos de catorce integrantes cada uno, donde jugaron una ronda por el [[sistema de todos contra todos]], más una fecha especial de clásicos/interzonales. Los cuatro primeros de cada una clasificaron a la fase final.<ref name="LPF2023">{{Cita web|url=https://www.ligaprofesional.ar/notas/copa-sur-finanzas/2023/12/29/calendario-de-la-copa-sur-finanzas/|título=Calendario de la Copa Sur Finanzas|fechaacceso=30 de diciembre de 2023|sitioweb=Sitio oficial de la Liga Profesional de Fútbol Argentino}}</ref>
+
+=== Fase final ===
+Se desarrolló en tres rondas de [[eliminación directa]], a partido único, que se jugaron en cancha neutral. En las dos primeras instancias, de haber empate se definió con [[tiros desde el punto penal]], mientras que en la final se jugó un [[Prórroga (deporte)|tiempo suplementario]] previo.
+
+== Sorteo ==
+No se realizó un sorteo, debido a que se decidió utilizar el mismo calendario de la edición anterior, invirtiendo las localías. Los equipos ascendidos, [[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]] y [[Deportivo Riestra]], ocuparon los lugares respectivos de [[Club Atlético Colón|Colón]] y [[Arsenal Fútbol Club|Arsenal]] en el fixture del torneo. Así, los emparejamientos quedaron de la siguiente manera:
+
+{|class="wikitable" style="font-size: 95%; margin: 5px auto; text-align: center; width: 38%;"
+!colspan=2|Emparejamientos
+|- bgcolor=#eee
+|width=50%|Boca Juniors
+|River Plate
+|- bgcolor=#fafafa
+|Independiente
+|Racing Club
+|-bgcolor=#eee
+|Huracán
+|San Lorenzo
+|- bgcolor=#fafafa
+|Newell's Old Boys
+|Rosario Central
+|- bgcolor=#eee
+|Estudiantes (LP)
+|Gimnasia y Esgrima (LP)
+|- bgcolor=#fafafa
+|Independiente Rivadavia
+|Unión
+|- bgcolor=#eee
+|Banfield
+|Lanús
+|- bgcolor=#fafafa
+|Belgrano (C)
+|Talleres (C)
+|- bgcolor=#eee
+|Argentinos Juniors
+|Platense
+|- bgcolor=#fafafa
+|Tigre
+|Vélez Sarsfield
+|- bgcolor=#eee
+|Godoy Cruz
+|Instituto
+|- bgcolor=#fafafa
+|Atlético Tucumán
+|Central Córdoba (SdE)
+|- bgcolor=#eee
+|Defensa y Justicia
+|Deportivo Riestra
+|- bgcolor=#fafafa
+|Barracas Central 
+|Sarmiento (J)
+|}
+
+== Fase de zonas ==
+=== Zona A ===
+==== Tabla de posiciones final ====
+{{Tabla de posiciones inicio|ordenable=sí}}
+{{Tabla de posiciones equipo|pos=1|g=7|e=6|p=1|gf=26|gc=10|eq=[[Club Atlético River Plate|River Plate]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=7|e=5|p=2|gf=25|gc=14|eq=[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=3|g=7|e=5|p=2|gf=20|gc=15|eq=[[Club Atlético Barracas Central|Barracas Central]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=4|g=7|e=4|p=3|gf=14|gc=13|eq=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=5|g=6|e=6|p=2|gf=24|gc=16|eq=[[Club Atlético Talleres (Córdoba)|Talleres (C)]]}}
+{{Tabla de posiciones equipo|pos=6|g=6|e=5|p=3|gf=14|gc=10|eq=[[Club Atlético Independiente|Independiente]]}}
+{{Tabla de posiciones equipo|pos=7|g=5|e=2|p=7|gf=18|gc=17|eq=[[Instituto Atlético Central Córdoba|Instituto]]}}
+{{Tabla de posiciones equipo|pos=8|g=4|e=5|p=5|gf=14|gc=15|eq=[[Club Atlético Banfield|Banfield]]}}
+{{Tabla de posiciones equipo|pos=9|g=4|e=4|p=6|gf=12|gc=12|eq=[[Club Atlético Huracán|Huracán]]}}
+{{Tabla de posiciones equipo|pos=10|g=5|e=1|p=8|gf=18|gc=23|eq=[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]}}
+{{Tabla de posiciones equipo|pos=11|g=4|e=3|p=7|gf=10|gc=18|eq=[[Club Atlético Rosario Central|Rosario Central]]}}
+{{Tabla de posiciones equipo|pos=12|g=3|e=4|p=7|gf=8|gc=16|eq=[[Deportivo Riestra]]}}
+{{Tabla de posiciones equipo|pos=13|g=1|e=7|p=6|gf=8|gc=23|eq=[[Club Atlético Tucumán|Atlético Tucumán]]}}
+{{Tabla de posiciones equipo|pos=14|g=2|e=2|p=10|gf=13|gc=25|eq=[[Club Sportivo Independiente Rivadavia|Independiente Rivadavia]]}}
+{{Tabla de posiciones fin
+ |color1=#cfc| texto1=Clasificaron a los Cuartos de final.
+}}
+
+===== Evolución de las posiciones =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+! style="padding: 0 8px 0 0; width: 28px;"| 8
+! style="padding: 0 8px 0 0; width: 28px;"| 9
+! style="padding: 0 8px 0 0; width: 28px;"| 10
+! style="padding: 0 8px 0 0; width: 28px;"| 11
+! style="padding: 0 8px 0 0; width: 28px;"| 12
+! style="padding: 0 8px 0 0; width: 28px;"| 13
+! style="padding: 0 8px 0 0; width: 28px;"| 14
+|- align=center
+|Argentinos Juniors
+|bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||7.°||bgcolor=#cfc|3.°||6.°||bgcolor=#cfc|4.°||bgcolor=#cfc|1.°||bgcolor=#cfc|4.º||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°||bgcolor=#cfc|2.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|2.°
+|- align=center
+|Atlético Tucumán
+|bgcolor=#cfc|4.°||14.°||11.°||12.°||12.°||14.°||14.°||13.°||14.°||14.°||14.°||14.°||13.°||13.°
+|- align=center
+|Banfield
+|14.°||12.°||13.°||13.°||13.°||13.°||13.°||11.°||9.°||10.°||10.°||9.°||9.°||8.°
+|- align=center
+|Barracas Central
+|bgcolor=#cfc|4.°||11.°||8.°||5.°||7.°||5.º||bgcolor=#cfc|4.º||bgcolor=#cfc|2.°||5.°||7.°||5.°||bgcolor=#cfc|3.°||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°
+|- align=center
+|Deportivo Riestra
+|10.°||12.°||12.°||14.°||14.°||12.°||12.°||14.°||13.°||12.°||11.°||12.°||12.°||12.°
+|- align=center
+|Gimnasia y Esgrima (LP)
+|bgcolor=#cfc|2.°||6.°||5.°||8.°||5.°||8.º||9.°||9.°||10.°||9.°||9.°||8.º||8.º||10.°
+|- align=center
+|Huracán
+|bgcolor=#cfc|1.°||5.°||9.°||10.°||11.°||11.°||11.°||10.°||11.°||11.°||12.°||11.°||11.°||9.°
+|- align=center
+|Independiente
+|bgcolor=#cfc|2.°||bgcolor=#cfc|1.°||6.°||6.°||bgcolor=#cfc|4.°||bgcolor=#cfc|1.°||bgcolor=#cfc|3.°||bgcolor=#cfc|1.°||bgcolor=#cfc|4.°||bgcolor=#cfc|4.°||6.°||6.°||5.°||6.°
+|- align=center
+|Independiente Rivadavia
+|12.°||6.°||bgcolor=#cfc|4.°||7.°||9.°||10.º||10.°||12.°||12.°||13.°||13.°||13.°||14.°||14.°
+|- align=center
+|Instituto
+|10.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°||6.°||5.°||bgcolor=#cfc|3.°||6.°||7.°||7.°||7.°||7.°
+|- align=center
+|River Plate
+|bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||bgcolor=#cfc|1.°
+|- align=center
+|Rosario Central
+|bgcolor=#cfc|4.°||9.°||10.°||9.°||10.°||9.º||7.°||8.°||8.°||8.°||8.°||10.°||10.°||11.°
+|- align=center
+|Talleres (C)
+|12.°||8.°||bgcolor=#cfc|3.°||bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||6.º||5.°||6.°||6.°||bgcolor=#cfc|2.°||bgcolor=#cfc|4.°||bgcolor=#cfc|2.°||bgcolor=#cfc|4.°||5.°
+|- align=center
+|Vélez Sarsfield
+|bgcolor=#cfc|4.°||10.°||14.°||11.°||8.°||7.º||8.°||7.°||7.°||5.°||bgcolor=#cfc|3.°||5.°||6.°||bgcolor=#cfc|4.°
+|}
+
+=== Zona B ===
+==== Tabla de posiciones final ====
+{{Tabla de posiciones inicio|ordenable=sí}}
+{{Tabla de posiciones equipo|pos=1|g=9|e=2|p=3|gf=16|gc=6|eq=[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=2|g=8|e=3|p=3|gf=19|gc=9|eq=[[Club Estudiantes de La Plata|Estudiantes (LP)]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=3|g=7|e=5|p=2|gf=17|gc=13|eq=[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=4|g=7|e=4|p=3|gf=20|gc=12|eq=[[Club Atlético Boca Juniors|Boca Juniors]]|color=#cfc}}
+{{Tabla de posiciones equipo|pos=5|g=7|e=3|p=4|gf=24|gc=11|eq=[[Racing Club]]}}
+{{Tabla de posiciones equipo|pos=6|g=7|e=2|p=5|gf=20|gc=14|eq=[[Club Atlético Lanús|Lanús]]}}
+{{Tabla de posiciones equipo|pos=7|g=6|e=3|p=5|gf=13|gc=15|eq=[[Club Atlético Newell's Old Boys|Newell's Old Boys]]}}
+{{Tabla de posiciones equipo|pos=8|g=5|e=5|p=4|gf=16|gc=14|eq=[[Club Atlético Unión (Santa Fe)|Unión]]}}
+{{Tabla de posiciones equipo|pos=9|g=4|e=6|p=4|gf=10|gc=14|eq=[[Club Atlético Platense|Platense]]}}
+{{Tabla de posiciones equipo|pos=10|g=3|e=7|p=4|gf=10|gc=14|eq=[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]}}
+{{Tabla de posiciones equipo|pos=11|g=3|e=5|p=6|gf=19|gc=21|eq=[[Club Atlético Belgrano|Belgrano]]}}
+{{Tabla de posiciones equipo|pos=12|g=2|e=5|p=7|gf=10|gc=20|eq=[[Club Atlético Central Córdoba (Santiago del Estero)|Central Córdoba (SdE)]]}}
+{{Tabla de posiciones equipo|pos=13|g=2|e=3|p=9|gf=9|gc=19|eq=[[Club Atlético Sarmiento (Junín)|Sarmiento (J)]]}}
+{{Tabla de posiciones equipo|pos=14|g=1|e=2|p=11|gf=7|gc=25|eq=[[Club Atlético Tigre|Tigre]]}}
+{{Tabla de posiciones fin
+ |color1=#cfc| texto1=Clasificaron a los Cuartos de final.
+}}
+
+===== Evolución de las posiciones =====
+{| class="wikitable sortable col1izq" style="background-color: #f9f9f9; margin: auto; text-align: center; font-size: smaller;"
+! width="170" |Equipo / Fecha
+! style="padding: 0 8px 0 0; width: 28px;"| 1
+! style="padding: 0 8px 0 0; width: 28px;"| 2
+! style="padding: 0 8px 0 0; width: 28px;"| 3
+! style="padding: 0 8px 0 0; width: 28px;"| 4
+! style="padding: 0 8px 0 0; width: 28px;"| 5
+! style="padding: 0 8px 0 0; width: 28px;"| 6
+! style="padding: 0 8px 0 0; width: 28px;"| 7
+! style="padding: 0 8px 0 0; width: 28px;"| 8
+! style="padding: 0 8px 0 0; width: 28px;"| 9
+! style="padding: 0 8px 0 0; width: 28px;"| 10
+! style="padding: 0 8px 0 0; width: 28px;"| 11
+! style="padding: 0 8px 0 0; width: 28px;"| 12
+! style="padding: 0 8px 0 0; width: 28px;"| 13
+! style="padding: 0 8px 0 0; width: 28px;"| 14
+|- align=center
+|Belgrano
+|10.°||10.°||12.°||13.°||12.°||11.º||10.°||11.°||12.°||13.°||13.°||11.º||11.º||11.°
+|- align=center
+|Boca Juniors<ref name="Pendiente1" group="n.">Tuvieron un partido pendiente entre la 11.ª y la 13.ª fecha.</ref>
+|6.°||8.°||5.°||7.°||6.°||7.°||7.°||5.°||7.°||5.°||6.°||5.°||5.°||bgcolor=#cfc|4.°
+|- align=center
+|Central Córdoba (SdE)
+|10.°||14.°||14.°||10.°||10.°||12.º||12.°||12.°|| 11.°||12.°||11.°||12.°||12.º||12.º
+|- align=center
+|Defensa y Justicia
+|13.°||5.°||bgcolor=#cfc|4.°||5.°||5.°||5.º||5.°||8.°||8.°||6.°||5.°||bgcolor=#cfc|4.°||bgcolor=#cfc|4.°||bgcolor=#cfc|3.°
+|- align=center
+|Estudiantes (LP)<ref name="Pendiente1" group="n."/>
+|bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||7.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°
+|- align=center
+|Godoy Cruz<ref name="Pendiente2" group="n.">Tuvieron un partido pendiente entre la 9.ª y la 11.ª fecha.</ref>
+|bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|2.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°||bgcolor=#cfc|1.°
+|- align=center
+|Lanús
+|bgcolor=#cfc|1.°||6.°||9.°||6.°||7.°||bgcolor=#cfc|3.°||bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||bgcolor=#cfc|3.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|3.°||6.°
+|- align=center
+|Newell's Old Boys
+|bgcolor=#cfc|3.°||bgcolor=#cfc|2.°||bgcolor=#cfc|2.°||bgcolor=#cfc|1.°||bgcolor=#cfc|2.°||bgcolor=#cfc|4.°||6.°||6.°||bgcolor=#cfc|4.°||bgcolor=#cfc|4.°||bgcolor=#cfc|4.°||bgcolor=#cfc|3.°||7.°||7.°
+|- align=center
+|Platense
+|6.°||12.°||8.°||9.°||9.°||10.º||11.°||10.°||9.°||9.°||10.°||10.°||10.º||9.°
+|- align=center
+|Racing Club
+|10.°||bgcolor=#cfc|4.°||6.°||bgcolor=#cfc|4.°||bgcolor=#cfc|4.°||6.º||bgcolor=#cfc|3.°||bgcolor=#cfc|4.°||6.°||8.°|| 8.°||6.°||6.°||5.°
+|- align=center
+|San Lorenzo<ref name="Pendiente2" group="n."/>
+|13.°||11.°||11.°||12.°||11.°||9.º||9.°||9.°||10.°||10.°||9.°||9.°||9.º||10.°
+|- align=center
+|Sarmiento (J)
+|6.°||9.°||10.°||11.°||13.°||13.º||13.°||14.°||13.°||11.°||12.°||13.°||13.º||13.º
+|- align=center
+|Tigre
+|6.°||12.°||13.°||14.°||14.°||14.°||14.°||13.°||14.°||14.°||14.°||14.°||14.°||14.°
+|- align=center
+|Unión
+|bgcolor=#cfc|3.°||7.°||7.°||8.°||8.°||8.º||8.°||7.°||5.°||7.°||7.°||8.°||8.°||8.°
+|}
+<small>{{listaref|group="n."}}</small>
+
+=== Resultados ===
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 1
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Instituto 
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Riestra 
+|Juan Domingo Perón 
+|rowspan=2|25 de enero
+|19:00
+|-
+|Atlético Tucumán 
+|bgcolor=#D0E7FF|'''1 - 1
+|Rosario Central 
+|Monumental José Fierro 
+|21:15
+|-
+|Barracas Central 
+|bgcolor=#D0E7FF|'''1 - 1
+|Vélez Sarsfield 
+|Ciudad de Lanús 
+|rowspan=4|26 de enero 
+|18:00
+|-
+|Talleres (C)
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (LP)
+|Mario Alberto Kempes 
+|19:00
+|-
+|Independiente Rivadavia 
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente 
+|Bautista Gargantini 
+|rowspan=2|21:15
+|-
+|Banfield 
+|0 - 2
+|bgcolor=#D0E7FF|'''Huracán 
+|Florencio Sola
+|-
+|River Plate 
+|bgcolor=#D0E7FF|'''1 - 1
+|Argentinos Juniors 
+|Monumental 
+|28 de enero 
+|19:00
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Tigre
+|bgcolor=#D0E7FF|'''0 - 0
+|Sarmiento (J)
+|Monumental de Victoria 
+|rowspan=2|25 de enero
+|19:00
+|-
+|Central Córdoba (SdE)
+|0 - 1
+|bgcolor=#D0E7FF|'''Newell's Old Boys
+|Alfredo Terrera 
+|21:15
+|-
+|San Lorenzo 
+|0 - 2
+|bgcolor=#D0E7FF|'''Lanús 
+|Nuevo Gasómetro 
+|rowspan=3|27 de enero 
+|17:00
+|-
+|Platense
+|bgcolor=#D0E7FF|'''0 - 0
+|Boca Juniors
+|Ciudad de Vicente López
+|19:00
+|-
+|Racing Club 
+|0 - 1
+|bgcolor=#D0E7FF|'''Unión 
+|El Cilindro 
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|2 - 0
+|Defensa y Justicia
+|Víctor Antonio Legrotaglie	 
+|rowspan=2|28 de enero 
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|1 - 0
+|Belgrano 
+|Jorge Luis Hirschi
+|21:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 2
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Instituto 
+|3 - 0
+|Atlético Tucumán 
+|Juan Domingo Perón 
+|29 de enero
+|21:00
+|-
+|Huracán 
+|1 - 2
+|bgcolor=#D0E7FF|'''Talleres (C)
+|Diego Armando Maradona 
+|rowspan=4|30 de enero 
+|17:00
+|-
+|Gimnasia y Esgrima (LP)
+|2 - 3
+|bgcolor=#D0E7FF|'''Independiente Rivadavia 
+|Del Bosque 
+|rowspan=2|19:15
+|-
+|Rosario Central
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|Gigante de Arroyito
+|-
+|Vélez Sarsfield 
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente 
+|José Amalfitani 
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors
+|2 - 0
+|Deportivo Riestra
+|Diego Armando Maradona
+|rowspan=2|31 de enero 
+|17:00
+|-
+|Barracas Central
+|0 - 2
+|bgcolor=#D0E7FF|'''River Plate
+|Ciudad de Lanús 
+|21:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Lanús 
+|0 - 2
+|bgcolor=#D0E7FF|'''Newell's Old Boys
+|Ciudad de Lanús 
+|30 de enero
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|3 - 0
+|Platense 
+|Norberto Tomaghello
+|rowspan=3|31 de enero 
+|17:45
+|-
+|Belgrano 
+|bgcolor=#D0E7FF|'''1 - 1
+|San Lorenzo 
+|Gigante de Alberdi 
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Racing Club 
+|3 - 0
+|Tigre
+|El Cilindro
+|20:00
+|-
+|Boca Juniors 
+|bgcolor=#D0E7FF|'''1  - 1
+|Sarmiento (J)
+|Nuevo Gasómetro
+|rowspan=3|1 de febrero 
+|19:00
+|-
+|Unión 
+|0 - 1
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|15 de abril 
+|rowspan=2|21:30
+|-
+|Central Córdoba (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|Alfredo Terrera
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 3
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Independiente 
+|0 - 1
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (LP)
+|Libertadores de América 
+|rowspan=3|3 de febrero
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Independiente Rivadavia 
+|2 - 0
+|Huracán 
+|Bautista Gargantini 
+|rowspan=2|21:15
+|-
+|bgcolor=#D0E7FF|'''Talleres (C)
+|4 - 1
+|Rosario Central 
+|Mario Alberto Kempes 
+|-
+|Deportivo Riestra 
+|0 - 1
+|bgcolor=#D0E7FF|'''Barracas Central 
+|Guillermo Laza
+|rowspan=2|4 de febrero 
+|17:00
+|-
+|bgcolor=#D0E7FF|'''River Plate 
+|5 - 0
+|Vélez Sarsfield 
+|Monumental 
+|19:15
+|-
+|Banfield 
+|0 - 2
+|bgcolor=#D0E7FF|'''Instituto
+|Florencio Sola
+|5 de febrero 
+|22:00
+|-
+|Atlético Tucumán 
+|bgcolor=#D0E7FF|'''0 - 0
+|Argentinos Juniors 
+|Monumental José Fierro 
+|6 de febrero 
+|21:15
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Platense 
+|1 - 0
+|Central Córdoba (SdE)
+|Ciudad de Vicente López 
+|rowspan=2|4 de febrero
+|20:30
+|-
+|bgcolor=#D0E7FF|'''Newell's Old Boys
+|1 - 0
+|Belgrano 
+|Marcelo Bielsa  
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|1 - 0
+|Lanús 
+|Víctor Antonio Legrotaglie 
+|rowspan=4|5 de febrero 
+|17:30
+|-
+|San Lorenzo 
+|bgcolor=#D0E7FF|'''0 - 0
+|Unión 
+|Nuevo Gasómetro 
+|18:00
+|-
+|Tigre
+|0 - 2
+|bgcolor=#D0E7FF|'''Boca Juniors
+|Monumental de Victoria
+|19:45
+|-
+|Estudiantes (LP)
+|bgcolor=#D0E7FF|'''0 - 0
+|Racing Club 
+|Jorge Luis Hirschi
+|21:30
+|-
+|Sarmiento (J)
+|2 - 3
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|Eva Perón 
+|6 de febrero 
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 4
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Rosario Central 
+|1 - 0
+|Independiente Rivadavia 
+|Único de San Nicolás 
+|rowspan=2|8 de febrero
+|19:30
+|-
+|Huracán 
+|bgcolor=#D0E7FF|'''0 - 0
+|Independiente 
+|Tomás Adolfo Ducó
+|21:15
+|-
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|3 - 1
+|Gimnasia y Esgrima (LP)
+|José Amalfitani 
+|9 de febrero 
+|21:15
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|4 - 2
+|Banfield 
+|Diego Armando Maradona 
+|10 de febrero 
+|17:00
+|-
+|Deportivo Riestra 
+|0 - 3
+|bgcolor=#D0E7FF|'''River Plate 
+|Guillermo Laza
+|rowspan=2|11 de febrero 
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Barracas Central
+|2 - 0
+|Atlético Tucumán
+|Tomás Adolfo Ducó
+|21:00
+|-
+|Instituto 
+|bgcolor=#D0E7FF|'''2 - 2
+|Talleres (C)
+|Mario Alberto Kempes 
+|12 de febrero 
+|19:00
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Unión 
+|1 - 3
+|bgcolor=#D0E7FF|'''Newell's Old Boys
+|15 de abril 
+|rowspan=3|9 de febrero
+|rowspan=2|19:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|2 - 0
+|Tigre
+|Jorge Luis Hirschi 
+|-
+|bgcolor=#D0E7FF|'''Racing Club 
+|4 - 1
+|San Lorenzo 
+|El Cilindro 
+|21:15
+|-
+|Boca Juniors
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensa y Justicia
+|La Bombonera
+|rowspan=3|10 de febrero 
+|19:15
+|-
+|Belgrano 
+|0 - 1
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|Gigante de Alberdi 
+|rowspan=2|21:30
+|-
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|3 - 0
+|Sarmiento (J)
+|Alfredo Terrera 
+|-
+|bgcolor=#D0E7FF|'''Lanús 
+|3 - 0
+|Platense 
+|Ciudad de Lanús 
+|11 de febrero 
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 5
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (LP)
+|3 - 1
+|Huracán 
+|Del Bosque 
+|rowspan=2|13 de febrero
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Independiente 
+|1 - 0
+|Rosario Central 
+|Libertadores de América 
+|21:30
+|-
+|Banfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Barracas Central
+|Florencio Sola
+|rowspan=2|14 de febrero 
+|19:15
+|-
+|Atlético Tucumán 
+|bgcolor=#D0E7FF|'''0 - 0
+|River Plate 
+|Monumental José Fierro 
+|21:30
+|-
+|Deportivo Riestra 
+|1 - 2
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|Guillermo Laza
+|rowspan=3|15 de febrero 
+|17:00
+|-
+|Independiente Rivadavia 
+|0 - 2
+|bgcolor=#D0E7FF|'''Instituto 
+|Bautista Gargantini 
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Talleres (C)
+|2 - 1
+|Argentinos Juniors 
+|Mario Alberto Kempes 
+|21:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Newell's Old Boys 
+|0 - 4
+|bgcolor=#D0E7FF|'''Racing Club 
+|Marcelo Bielsa 
+|12 de febrero
+|21:00
+|-
+|San Lorenzo 
+|bgcolor=#D0E7FF|'''1 - 1
+|Estudiantes (LP)
+|Nuevo Gasómetro 
+|rowspan=2|13 de febrero 
+|17:00
+|-
+|Godoy Cruz 
+|bgcolor=#D0E7FF|'''0 - 0
+|Unión 
+|Malvinas Argentinas 
+|21:30
+|-
+|Sarmiento (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Lanús 
+|Eva Perón 
+|rowspan=3|14 de febrero 
+|rowspan=2|17:00
+|-
+|Tigre 
+|0 - 1
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|Monumental de Victoria 
+|-
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|2 - 0
+|Central Córdoba (SdE)
+|La Bombonera 
+|19:15
+|-
+|Platense 
+|bgcolor=#D0E7FF|'''1 - 1
+|Belgrano 
+|Ciudad de Vicente López 
+|15 de febrero 
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 6
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Rosario Central 
+|2 - 1
+|Gimnasia y Esgrima (LP)
+|Gigante de Arroyito 
+|17 de febrero
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|1 - 0
+|Huracán 
+|José Amalfitani 
+|rowspan=3|18 de febrero 
+|rowspan=2|17:00
+|-
+|Instituto
+|0 - 2
+|bgcolor=#D0E7FF|'''Independiente
+|Juan Domingo Perón
+|-
+|River Plate 
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield 
+|Monumental 
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra 
+|1 - 0
+|Atlético Tucumán 
+|Guillermo Laza
+|rowspan=2|19 de febrero 
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Barracas Central 
+|2 - 1
+|Talleres (C)
+|Tomás Adolfo Ducó
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|2 - 1
+|Independiente Rivadavia 
+|Diego Armando Maradona 
+|20 de febrero 
+|19:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''San Lorenzo 
+|2 - 0
+|Tigre
+|Nuevo Gasómetro
+|rowspan=2|17 de febrero
+|17:00
+|-
+|Racing Club 
+|0 - 2
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|El Cilindro 
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Lanús 
+|2 - 1
+|Boca Juniors 
+|Ciudad de Lanús 
+|18 de febrero 
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|2 - 0
+|Newell's Old Boys
+|Jorge Luis Hirschi
+|rowspan=3|19 de febrero 
+|19:15
+|-
+|Unión 
+|bgcolor=#D0E7FF|'''0 - 0
+|Platense 
+|15 de abril 
+|rowspan=2|21:30
+|-
+|bgcolor=#D0E7FF|'''Belgrano 
+|4 - 1
+|Sarmiento (J)
+|Gigante de Alberdi 
+|-
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Central Córdoba (SdE)
+|Norberto Tomaghello
+|20 de febrero 
+|20:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 7
+|-
+!colspan="6"|Interzonales
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Independiente 
+|0 - 1
+|bgcolor=#D0E7FF|'''Racing Club 
+|Libertadores de América 
+|rowspan=5|24 de febrero
+|17:00
+|-
+|Huracán 
+|bgcolor=#D0E7FF|'''0 - 0
+|San Lorenzo 
+|Tomás Adolfo Ducó 
+|rowspan=2|19:30
+|-
+|Belgrano 
+|bgcolor=#D0E7FF|'''2 - 2
+|Talleres (C)
+|Gigante de Alberdi 
+|-
+|Sarmiento (J)
+|bgcolor=#D0E7FF|'''0 - 0
+|Barracas Central 
+|Eva Perón 
+|rowspan=2|22:00
+|-
+|bgcolor=#D0E7FF|'''Unión 
+|4 - 1
+|Independiente Rivadavia 
+|15 de abril 
+|-
+|River Plate 
+|bgcolor=#D0E7FF|'''1 - 1
+|Boca Juniors 
+|Monumental 
+|rowspan=5|25 de febrero 
+|17:00
+|-
+|Gimnasia y Esgrima (LP)
+|bgcolor=#D0E7FF|'''0 - 0
+|Estudiantes (LP)
+|Del Bosque 
+|19:30
+|-
+|Newell's Old Boys
+|0 - 1
+|bgcolor=#D0E7FF|'''Rosario Central 
+|Marcelo Bielsa 
+|19:45
+|-
+|Lanús 
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield 
+|Ciudad de Lanús 
+|22:00
+|-
+|Instituto 
+|0 - 2
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|Juan Domingo Perón 
+|22:10
+|-
+|Defensa y Justicia 
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Riestra 
+|Norberto Tomaghello  
+|rowspan=4|26 de febrero 
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|3 - 1
+|Platense 
+|Diego Armando Maradona 
+|19:30
+|-
+|Vélez Sarsfield 
+|bgcolor=#D0E7FF|'''2 - 2
+|Tigre
+|José Amalfitani 
+|21:30
+|-
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán 
+|Único Madre de Ciudades
+|21:45
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 8
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Gimnasia y Esgrima (LP)
+|1 - 3
+|bgcolor=#D0E7FF|'''Instituto 
+|Del Bosque 
+|rowspan=3|29 de febrero 
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Huracán 
+|2 - 0
+|Rosario Central 
+|Tomás Adolfo Ducó
+|rowspan=2|21:15
+|-
+|Independiente Rivadavia 
+|1 - 3
+|bgcolor=#D0E7FF|'''Barracas Central 
+|Bautista Gargantini 
+|-
+|bgcolor=#D0E7FF|'''Banfield 
+|2 - 0
+|Deportivo Riestra 
+|Florencio Sola 
+|1 de marzo 
+|21:15
+|-
+|Atlético Tucumán 
+|bgcolor=#D0E7FF|'''0 - 0
+|Vélez Sarsfield 
+|Monumental José Fierro 
+|rowspan=3|2 de marzo 
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Independiente 
+|2 - 1
+|Argentinos Juniors 
+|Libertadores de América 
+|19:15
+|-
+|Talleres (C)
+|bgcolor=#D0E7FF|'''2 - 2
+|River Plate 
+|Mario Alberto Kempes 
+|21:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Central Córdoba (SdE)
+|Monumental de Victoria
+|rowspan=2|1 de marzo
+|19:00
+|-
+|Platense 
+|bgcolor=#D0E7FF|'''0 - 0
+|Racing Club 
+|Ciudad de Vicente López 
+|21:15
+|-
+|Sarmiento (J)
+|1 - 2
+|bgcolor=#D0E7FF|'''Unión 
+|Eva Perón 
+|2 de marzo 
+|17:00
+|-
+|Defensa y Justicia 
+|0 - 4
+|bgcolor=#D0E7FF|'''Lanús 
+|Norberto Tomaghello 
+|rowspan=4|3 de marzo 
+|rowspan=2|17:00
+|-
+|Godoy Cruz 
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|Malvinas Argentinas 
+|-
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|3 - 2
+|Belgrano 
+|La Bombonera 
+|19:15
+|-
+|Newell's Old Boys
+|bgcolor=#D0E7FF|'''2 - 2
+|San Lorenzo
+|Marcelo Bielsa
+|21:30
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 9
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Instituto 
+|2 - 0
+|Huracán 
+|Juan Domingo Perón 
+|4 de marzo
+|21:00
+|-
+|Barracas Central 
+|bgcolor=#D0E7FF|'''2 - 2
+|Independiente 
+|Tomás Adolfo Ducó
+|rowspan=2|5 de marzo 
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|1 - 0
+|Rosario Central 
+|José Amalfitani 
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|2 - 0
+|Gimnasia y Esgrima (LP)
+|Diego Armando Maradona 
+|rowspan=3|6 de marzo 
+|17:00
+|-
+|bgcolor=D0E7FF|'''River Plate
+|2 - 0
+|Independiente Rivadavia
+|Monumental
+|rowspan=2|21:30
+|-
+|Atlético Tucumán 
+|0 - 3
+|bgcolor=#D0E7FF|'''Banfield
+|Monumental José Fierro 
+|-
+|Deportivo Riestra 
+|0 - 1
+|bgcolor=#D0E7FF|'''Talleres (C)
+|Guillermo Laza
+|7 de marzo
+|17:00
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Racing Club 
+|0 - 1
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|El Cilindro 
+|5 de marzo
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Unión 
+|1 - 0
+|Boca Juniors 
+|15 de abril 
+|rowspan=2|6 de marzo 
+|rowspan=2|19:15
+|-
+|Estudiantes (LP)
+|1 - 2
+|bgcolor=#D0E7FF|'''Platense
+|Jorge Luis Hirschi
+|-
+|Lanús 
+|0 - 1
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|Ciudad de Lanús 
+|rowspan=3|7 de marzo
+|19:00
+|-
+|bgcolor=#D0E7FF|'''Newell's Old Boys 
+|1 - 0
+|Tigre 
+|Marcelo Bielsa 
+|rowspan=2|21:15
+|-
+|Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|Gigante de Alberdi
+|-
+|bgcolor=#D0E7FF|'''San Lorenzo 
+|1 - 0
+|Godoy Cruz 
+|Nuevo Gasómetro 
+|20 de marzo{{refn|group=n.|Suspendido por las condiciones climáticas. Se jugó el 21 de marzo, a partir de las 19:00.}}
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 10
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (LP)
+|2 - 0
+|Barracas Central 
+|Del Bosque 
+|rowspan=3|9 de marzo
+|17:00
+|-
+|Independiente 
+|bgcolor=#D0E7FF|'''1 - 1
+|River Plate 
+|Libertadores de América 
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Rosario Central 
+|1 - 0
+|Instituto 
+|Gigante de Arroyito 
+|21:30
+|-
+|Huracán 
+|bgcolor=#D0E7FF|'''1 - 1
+|Argentinos Juniors 
+|Tomás Adolfo Ducó 
+|rowspan=2|10 de marzo
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Talleres (C)
+|4 - 1
+|Atlético Tucumán 
+|Mario Alberto Kempes 
+|19:15
+|-
+|Independiente Rivadavia 
+|1  - 2
+|bgcolor=#D0E7FF|'''Deportivo Riestra 
+|Bautista Gargantini 
+|rowspan=2|11 de marzo
+|21:15
+|-
+|Banfield 
+|1 - 2
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|Florencio Sola
+|21:45
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Sarmiento (J)
+|3 - 1
+|Estudiantes (LP)
+|Eva Perón 
+|rowspan=2|9 de marzo
+|17:00
+|-
+|Platense 
+|bgcolor=#D0E7FF|'''0 - 0
+|San Lorenzo 
+|Ciudad de Vicente López 
+|21:30
+|-
+|Godoy Cruz 
+|bgcolor=#D0E7FF|'''1 - 1
+|Newell's Old Boys
+|Malvinas Argentinas 
+|rowspan=3|10 de marzo
+|17:00
+|-
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|2 - 1
+|Unión 
+|Norberto Tomaghello
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|4 - 2
+|Racing Club 
+|La Bombonera 
+|21:30
+|-
+|Tigre
+|2 - 3
+|bgcolor=#D0E7FF|'''Lanús 
+|Monumental de Victoria 
+|11 de marzo 
+|19:30
+|-
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Belgrano 
+|Único Madre de Ciudades
+|12 de marzo 
+|21:15
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 11
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Deportivo Riestra 
+|1 - 0
+|Independiente 
+|Guillermo Laza
+|15 de marzo
+|16:30
+|-
+|Atlético Tucumán 
+|bgcolor=#D0E7FF|'''2 - 2
+|Independiente Rivadavia 
+|Monumental José Fierro 
+|rowspan=2|16 de marzo
+|rowspan=2|21:30
+|-
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|1 - 0
+|Instituto 
+|José Amalfitani 
+|-
+|bgcolor=#D0E7FF|'''Barracas Central 
+|1 - 0
+|Huracán 
+|Ciudad de Lanús
+|rowspan=3|17 de marzo
+|16:00
+|-
+|bgcolor=#D0E7FF|'''River Plate 
+|3 - 1
+|Gimnasia y Esgrima (LP)
+|Monumental 
+|18:30
+|-
+|Banfield 
+|bgcolor=#D0E7FF|'''0 - 0
+|Talleres (C)
+|Florencio Sola
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|3 - 0
+|Rosario Central 
+|Diego Armando Maradona 
+|19 de marzo
+|21:15
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Newell's Old Boys
+|bgcolor=#D0E7FF|'''0 - 0
+|Platense 
+|Marcelo Bielsa 
+|15 de marzo
+|21:00
+|-
+|bgcolor=#D0E7FF|'''San Lorenzo 
+|1 - 0
+|Sarmiento (J)
+|Nuevo Gasómetro 
+|rowspan=2|16 de marzo 
+|17:00
+|-
+|Racing Club 
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia 
+|El Cilindro 
+|19:15
+|-
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|1 - 0
+|Tigre
+|Malvinas Argentinas 
+|17 de marzo
+|16:00
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|1 - 0
+|Boca Juniors 
+|Jorge Luis Hirschi
+|17 de marzo{{refn|group=n.|Suspendido a los 27' del primer tiempo por descompensación de un jugador del equipo local, con el resultado 0-0. Se completó el 12 de abril, a partir de las 19:30.}}
+|21:00
+|-
+|Unión 
+|bgcolor=#D0E7FF|'''2 - 2
+|Central Córdoba (SdE)
+|15 de abril 
+|18 de marzo
+|21:15
+|-
+|Belgrano 
+|0  - 1
+|bgcolor=#D0E7FF|'''Lanús 
+|Gigante de Alberdi 
+|20 de marzo 
+|21:15
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 12
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Rosario Central 
+|1 - 2
+|bgcolor=#D0E7FF|'''Barracas Central 
+|Gigante de Arroyito 
+|rowspan=2|28 de marzo
+|20:00
+|-
+|Instituto 
+|1  - 2
+|bgcolor=#D0E7FF|'''Argentinos Juniors 
+|Juan Domingo Perón 
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Huracán 
+|1 - 0
+|River Plate 
+|Tomás Adolfo Ducó 
+|29 de marzo 
+|20:30
+|-
+|bgcolor=#D0E7FF|'''Talleres (C)
+|1 - 0
+|Vélez Sarsfield 
+|Mario Alberto Kempes 
+|30 de marzo 
+|21:00
+|-
+|bgcolor=#D0E7FF|'''Gimnasia y Esgrima (LP)
+|2 - 1
+|Deportivo Riestra 
+|Del Bosque 
+|rowspan=3|31 de marzo 
+|16:00
+|-
+|Independiente 
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán 
+|Libertadores de América 
+|18:30
+|-
+|Independiente Rivadavia 
+|1 - 2
+|bgcolor=#D0E7FF|'''Banfield 
+|Bautista Gargantini 
+|21:00
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Lanús 
+|bgcolor=#D0E7FF|'''2 - 2
+|Unión 
+|Ciudad de Lanús 
+|27 de marzo
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|1 - 0
+|Estudiantes (LP)
+|Norberto Tomaghello 
+|rowspan=2|29 de marzo 
+|rowspan=2|18:00
+|-
+|Tigre
+|1 - 4
+|bgcolor=#D0E7FF|'''Belgrano 
+|Monumental de Victoria 
+|-
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|2 - 1
+|San Lorenzo 
+|La Bombonera 
+|rowspan=2|30 de marzo 
+|17:00
+|-
+|Central Córdoba (SdE)
+|1 - 3
+|bgcolor=#D0E7FF|'''Racing Club 
+|Único Madre de Ciudades 
+|19:00
+|-
+|Sarmiento (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Newell's Old Boys
+|Eva Perón
+|31 de marzo 
+|16:00
+|-
+|Platense
+|1 - 2
+|bgcolor=#D0E7FF|'''Godoy Cruz
+|Ciudad de Vicente López
+|1 de abril 
+|19:00
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 13
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Vélez Sarsfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Argentinos Juniors
+|José Amalfitani
+|rowspan=2|5 de abril
+|19:30
+|-
+|Banfield 
+|0 - 1
+|bgcolor=#D0E7FF|'''Independiente 
+|Florencio Sola 
+|21:00
+|-
+|Talleres (C)
+|bgcolor=#D0E7FF|'''1 - 1
+|Independiente Rivadavia 
+|Mario Alberto Kempes 
+|6 de abril 
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Barracas Central 
+|3 - 2
+|Instituto 
+|Tomás Adolfo Ducó
+|rowspan=3|7 de abril 
+|rowspan=2|16:00
+|-
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 2
+|Gimnasia y Esgrima (LP)
+|Monumental José Fierro
+|-
+|bgcolor=#D0E7FF|'''River Plate 
+|2 - 1
+|Rosario Central 
+|Monumental 
+|21:00
+|-
+|Deportivo Riestra 
+|bgcolor=#D0E7FF|'''0 - 0
+|Huracán 
+|Guillermo Laza 
+|8 de abril 
+|15:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Newell's Old Boys
+|1 - 3
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|Marcelo Bielsa 
+|rowspan=4|6 de abril
+|17:00
+|-
+|San Lorenzo 
+|0 - 2
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|Nuevo Gasómetro 
+|rowspan=2|19:15
+|-
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|5 - 0
+|Central Córdoba (SdE)
+|Jorge Luis Hirschi 
+|-
+|Unión 
+|1 - 2
+|bgcolor=#D0E7FF|'''Belgrano 
+|15 de abril 
+|21:30
+|-
+|bgcolor=#D0E7FF|'''Racing Club 
+|2 - 0
+|Lanús 
+|El Cilindro 
+|7 de abril 
+|18:30
+|-
+|bgcolor=#D0E7FF|'''Godoy Cruz 
+|1 - 0
+|Sarmiento (J)
+|Malvinas Argentinas 
+|rowspan=2|8 de abril 
+|rowspan=2|20:00
+|-
+|bgcolor=#D0E7FF|'''Platense 
+|3 - 1
+|Tigre 
+|Ciudad de Vicente López 
+|}
+{|class="wikitable collapsible collapsed" style="font-size: 95%; margin: 5px auto; text-align: center; width: 100%;"
+!colspan="6"|Fecha 14
+|-
+!colspan="6"|Zona A
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|bgcolor=#D0E7FF|'''Huracán 
+|4 - 0
+|Atlético Tucumán 
+|Tomás Adolfo Ducó 
+|13 de abril
+|19:00
+|-
+|Gimnasia y Esgrima (LP)
+|1 - 2
+|bgcolor=#D0E7FF|'''Banfield 
+|Del Bosque 
+|14 de abril 
+|18:15
+|-
+|Instituto 
+|1 - 3
+|bgcolor=#D0E7FF|'''River Plate 
+|Juan Domingo Perón 
+|rowspan=4|15 de abril 
+|rowspan=4|20:00
+|-
+|Independiente 
+|bgcolor=#D0E7FF|'''2 - 2
+|Talleres (C)
+|Libertadores de América 
+|-
+|Independiente Rivadavia 
+|0 - 1
+|bgcolor=#D0E7FF|'''Vélez Sarsfield 
+|Bautista Gargantini
+|-
+|Argentinos Juniors 
+|bgcolor=#D0E7FF|'''3 - 3
+|Barracas Central
+|Diego Armando Maradona 
+|-
+|Rosario Central 
+|bgcolor=#D0E7FF|'''1  - 1
+|Deportivo Riestra 
+|Gigante de Arroyito 
+|17 de abril 
+|19:30
+|-
+!colspan="6"|Zona B
+|-
+!width="21%"|Local
+!width="10%"|Resultado
+!width="21%"|Visitante
+!width="26%"|Estadio
+!width="14%"|Fecha
+!width="8%"|Hora
+|-
+|Tigre
+|0 - 1
+|bgcolor=#D0E7FF|'''Unión
+|Monumental de Victoria
+|13 de abril
+|17:00
+|-
+|Sarmiento (J)
+|0 - 1
+|bgcolor=#D0E7FF|'''Platense 
+|Eva Perón 
+|rowspan=2|14 de abril 
+|16:00
+|-
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|San Lorenzo 
+|Único Madre de Ciudades
+|20:00
+|-
+|bgcolor=#D0E7FF|'''Boca Juniors 
+|1 - 0
+|Godoy Cruz 
+|La Bombonera 
+|rowspan=4|16 de abril 
+|rowspan=4|19:30
+|-
+|Belgrano 
+|0 - 4
+|bgcolor=#D0E7FF|'''Racing Club 
+|Gigante de Alberdi 
+|-
+|Lanús 
+|1 - 2
+|bgcolor=#D0E7FF|'''Estudiantes (LP)
+|Ciudad de Lanús 
+|-
+|bgcolor=#D0E7FF|'''Defensa y Justicia 
+|1 - 0
+|Newell's Old Boys 
+|Norberto Tomaghello
+|}
+{| style="font-size: 85%; margin: auto; width: 88%;" 
+|{{listaref|group="n."}}
+|}
+
+== Fase final ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=40| team-width=160| score-width=30
+| seeds = 
+
+| RD1= Cuartos de final
+| RD1-date= 20 y 21 de abril
+
+| RD1-seed3= 1.º A
+| RD1-team3= River Plate
+| RD1-score3= 2
+| RD1-seed4= 4.º B
+| RD1-team4= '''Boca Juniors'''
+| RD1-score4= '''3'''
+
+| RD1-seed1= 2.º B
+| RD1-team1= '''Estudiantes (LP)'''
+| RD1-score1= '''3'''
+| RD1-seed2= 3.º A
+| RD1-team2= Barracas Central
+| RD1-score2= 0
+
+| RD1-seed7= 1.º B
+| RD1-team7= Godoy Cruz
+| RD1-score7= 1
+| RD1-seed8= 4.º A
+| RD1-team8= '''Vélez Sarsfield'''
+| RD1-score8= '''2'''
+
+| RD1-seed5= 2.º A
+| RD1-team5= '''Argentinos Juniors'''
+| RD1-score5= '''1&nbsp;{{small|(3)}}'''
+| RD1-seed6= 3.º B
+| RD1-team6= Defensa y Justicia
+| RD1-score6= 1&nbsp;{{small|(2)}}
+
+| RD2= Semifinales
+| RD2-date= 28 y 30 de abril
+
+| RD2-seed2= 
+| RD2-team2= Boca Juniors
+| RD2-score2= 1&nbsp;{{small|(1)}}
+| RD2-seed1= 
+| RD2-team1= '''Estudiantes (LP)'''
+| RD2-score1= '''1&nbsp;{{small|(3)}}'''
+ 
+| RD2-seed4= 
+| RD2-team4= '''Vélez Sarsfield'''
+| RD2-score4= '''0&nbsp;{{small|(4)}}'''
+| RD2-seed3= 
+| RD2-team3= Argentinos Juniors
+| RD2-score3= 0&nbsp;{{small|(2)}}
+
+| RD3= Final
+| RD3-date= 5 de mayo
+
+| RD3-seed1= 
+| RD3-team1= '''Estudiantes (LP)'''
+| RD3-score1= '''1&nbsp;{{small|(4)}}'''
+| RD3-seed2= 
+| RD3-team2=  Vélez Sarsfield 
+| RD3-score2= 1&nbsp;{{small|(3)}}
+
+
+
+}}
+
+=== Sedes ===
+En esta etapa, los partidos se desarrollaron en sedes neutrales.<ref>{{cita web|título=Cómo se define la Copa de la Liga 2024: así se jugará la Fase Final|url=https://www.lavoz.com.ar/deportes/futbol/como-se-define-la-copa-de-la-liga-2024-asi-se-jugara-la-fase-final/|periódico=La Voz|fecha=15 Abril 2024|fechaacceso=6 Diciembre 2024}}</ref> Los siguientes estadios fueron los utilizados.
+
+{|border=0 cellspacing=1 cellpadding=0 style="font-size: 90%;" width=85% align=center
+|width=25%|
+|width=25%|
+|width=25%|
+|- align="center"
+|[[Archivo:Estadio_platense.jpg|240px|border]]
+|[[Archivo:Lenchosolabanf.jpg|240px|border]]
+|[[Archivo:Estadio_La_Pedrera_Villa_Mercedes.jpg|240px|border]]
+|- align="center" valign="top" bgcolor="#EBF5FF" style="border:1px solid #aaa;"
+|'''[[Estadio Ciudad de Vicente López|Ciudad de Vicente López]]'''<br />Ciudad: [[Florida (Vicente López)|Florida]]
+|'''[[Estadio Florencio Sola|Florencio Sola]]'''<br />Ciudad: [[Banfield]]
+|'''[[Estadio Único de Villa Mercedes|La Pedrera]]'''<br />Ciudad: [[Villa Mercedes (San Luis)|Villa Mercedes]]
+|- align="center"
+|[[Archivo:Vista aérea del Estadio Mario Alberto Kempes, Córdoba.jpg|240px|border]]
+| 
+|[[Archivo:Est santiago del estero 1.png|240px|border]]
+|- align="center" valign="top" bgcolor="#EBF5FF" style="border:1px solid #aaa;"
+|'''[[Estadio Mario Alberto Kempes|Mario Alberto Kempes]]'''<br />Ciudad: [[Córdoba (Argentina)|Córdoba]]
+|'''[[Estadio Único de San Nicolás|Único de San Nicolás]]'''<br />Ciudad: [[San Nicolás de los Arroyos|San Nicolás]]
+|'''[[Estadio Único Madre de Ciudades|Único Madre de Ciudades]]'''<br />Ciudad: [[Santiago del Estero]]
+|}
+
+=== Cuartos de final ===
+{{Partido
+|local= '''Argentinos Juniors
+|resultado= 1:1 {{sin negrita|(0:1)}}
+|visita= Defensa y Justicia
+|refe= [[Andrés Merlos]]
+|var= [[Fernando Espinoza (árbitro)|Fernando Espinoza]]
+|fecha= 20 de abril, 15:30
+|estadio= Estadio Florencio Sola
+|ciudad= Banfield
+|goleslocal= [[Alan Rodríguez Guaglianoni|A. Rodríguez]] {{gol|85}} 
+|golesvisita= [[Rodrigo Bogarín|Bogarín]] {{gol|11}}
+|resultado penalti= 3:2
+|penaltis1= [[Nicolás Oroz|Oroz]] {{pengol}}<br>[[Franco Moyano|Moyano]] {{penfallo}}<br>[[Luciano Gondou|Gondou]] {{penfallo}}<br>[[Gastón Verón|Verón]] {{pengol}}<br>[[Santiago Montiel|Montiel]] {{penfallo}}<br>[[Diego Matías Rodríguez|D. Rodríguez]] {{pengol}}
+|penaltis2= {{pengol}} [[Emanuel Aguilera|Aguilera]]<br>{{penfallo}} [[Esteban Burgos|Burgos]]<br>{{penfallo}} [[Leandro Godoy|Godoy]]<br>{{penfallo}} [[Alexis Soto|Soto]]<br>{{pengol}} [[Kevin Miguel Ángel López|López]]<br>{{penfallo}} [[Aarón Molinas|Molinas]]
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439632
+}}
+{{Partido
+|local= '''Estudiantes (LP)'''
+|resultado= 3:0 {{sin negrita|(1:0)}}
+|visita= Barracas Central
+|refe= [[Darío Herrera (árbitro)|Darío Herrera]]
+|var= [[Silvio Trucco]]
+|fecha= 20 de abril, 18:30
+|estadio = Estadio Ciudad de Vicente López
+|ciudad= Florida
+|goleslocal= [[Guido Carrillo|Carrillo]] {{gol|2||62}}<br>[[Marcelo Javier Correa|Correa]] {{gol|86}}
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439630
+}}
+{{Partido
+|local= Godoy Cruz
+|resultado= 1:2 {{sin negrita|(1:1)}}
+|visita= '''Vélez Sarsfield
+|refe= [[Sebastián Zunino]]
+|var= [[Pablo Dóvalo]]
+|fecha= 20 de abril, 21:30
+|estadio= [[Estadio Único de Villa Mercedes|Estadio La Pedrera]]
+|ciudad= [[Villa Mercedes (San Luis)|Villa Mercedes]]
+|goleslocal= [[Facundo Altamira|Altamira]] {{gol|18}}
+|golesvisita= [[Braian Romero|Romero]] {{gol|24||68}}
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439631
+}}
+
+{{Partido
+|local= River Plate
+|resultado= 2:3 {{sin negrita|(1:1)}}
+|visita= '''Boca Juniors
+|refe= [[Yael Falcón Pérez]] 
+|var= [[Jorge Baliño]]
+|fecha= 21 de abril, 15:30
+|estadio= Estadio Mario Alberto Kempes
+|ciudad= Córdoba
+|goleslocal= [[Miguel Borja|Borja]] {{gol|10}}<br/>[[Paulo Díaz|P. Díaz]] {{gol|90+7}}
+|golesvisita= [[Miguel Merentiel|Merentiel]] {{gol|45+1||67}}<br>[[Edinson Cavani|Cavani]] {{gol|62}}
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439629
+}}
+
+=== Semifinales ===
+{{Partido
+|local= Argentinos Juniors
+|resultado= 0:0
+|visita= '''Vélez Sarsfield'''
+|refe= [[Facundo Tello]]
+|var= [[Mauro Vigliano]]
+|fecha= 28 de abril, 15:30
+|estadio= [[Estadio Único de San Nicolás]]
+|ciudad= [[San Nicolás de los Arroyos]]
+|resultado penalti= 2:4
+|penaltis1= [[Gastón Verón|Verón]] {{pengol}}<br>[[Leonardo Heredia|Heredia]] {{penfallo}}<br>[[Franco Moyano|Moyano]] {{pengol}}<br>[[Luciano Gondou|Gondou]] {{penfallo}} 
+|penaltis2= {{penfallo}} [[Juan Ignacio Méndez|Méndez]]<br>{{pengol}} [[Thiago Vecino|Vecino]]<br>{{pengol}} [[Roberto Joaquín García|García]]<br>{{pengol}} [[Santiago Cáseres|Cáseres]]<br>{{pengol}} [[Lenny Lobato|Lobato]]
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439848
+}}
+
+{{Partido
+|local= '''Estudiantes (LP)'''
+|resultado= 1:1 {{sin negrita|(0:1)}}
+|visita= Boca Juniors
+|refe= [[Nazareno Arasa]]
+|var= [[Fernando Espinoza (árbitro)|Fernando Espinoza]]
+|fecha= 30 de abril, 20:00
+|estadio= Estadio Mario Alberto Kempes
+|ciudad= Córdoba
+|goleslocal= [[Edwuin Cetré|Cetré]] {{gol|76|pen.}}
+|golesvisita= [[Miguel Merentiel|Merentiel]] {{gol|41}}
+|resultado penalti= 3:1
+|penaltis1= Cetré {{penfallo}}<br>[[Eros Mancuso|Mancuso]] {{pengol}}<br>[[Guido Carrillo|Carrillo]] {{pengol}}<br>[[Mauro Méndez|Méndez]] {{pengol}}
+|penaltis2= {{penfallo}} [[Edinson Cavani|Cavani]]<br>{{penfallo}} Merentiel<br>{{pengol}} [[Kevin Zenón|Zenón]]<br>{{penfallo}} [[Nicolás Figal|Figal]]
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2439883
+}}
+
+=== Final ===
+{{Partido
+|local= '''Estudiantes (LP)'''
+|resultado= 1:1 {{sin negrita|(1:1, 1:0)}}
+|visita= Vélez Sarsfield 
+|refe= [[Nicolás Ramírez (árbitro)|Nicolás Ramírez]]
+|var= [[Héctor Paletta]]
+|fecha= 5 de mayo, 15:30
+|estadio= Estadio Único Madre de Ciudades
+|ciudad= Santiago del Estero
+|goleslocal= [[Eros Mancuso|Mancuso]] {{gol|14}}
+|golesvisita= [[Alejo Sarco|Sarco]] {{gol|63}}
+|prórroga= sí
+|resultado penalti= 4:3
+|penaltis1= [[Pablo Piatti|Piatti]] {{pengol}}<br>Mancuso {{penfallo}}<br>[[Javier Correa|Correa]] {{pengol}}<br>[[Edwuin Cetré|Cetré]] {{pengol}}<br>[[Santiago Ascacibar|Ascacibar]] {{penfallo}}<br>[[Fernando Zuqui|Zuqui]] {{pengol}}
+|penaltis2= {{pengol}} [[Emanuel Mammana|Mamanna]]<br>{{pengol}} Sarco<br>{{penfallo}} [[Joaquín García|García]]<br>{{penfallo}} [[Santiago Cáseres|Cáseres]]<br>{{pengol}} [[Lenny Lobato|Lobato]]<br>{{penfallo}} [[Álvaro Montoro|Montoro]]
+|reporte = https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2440000
+}}
+<br>
+
+==== Ficha del partido ====
+{| width=100%
+| width=17%|{{Camisetas
+|pattern_la=_edelp24h
+|pattern_b=_edelp24h
+|pattern_ra=_edelp24h
+|pattern_sh=_edelp24h
+|pattern_so=_edelp24h
+|leftarm= FF0000
+|body= FFFFFF
+|rightarm= FF0000
+|shorts= 000000
+|socks= 000000
+|título= Estudiantes (LP)
+}}
+|width=66% rowspan=2|
+{| align=center cellpadding="2" cellspacing="0" style="background: #D0E7FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width=100%
+|- align=center bgcolor=#006699 style="color:white;"
+!{{tc|Club Estudiantes de La Plata|Estudiantes (LP)}}<br /> 1 <small>(4)</small>
+!{{tc|Club Atlético Vélez Sarsfield|Vélez Sarsfield}}<br /> 1 <small>(3)</small>
+|- bgcolor=#006699 style="color:white;"
+|colspan=3 align=left|5 de mayo de 2024, 15:30 ({{tc|UTC-3}})<br />{{tc|Estadio Único Madre de Ciudades}}, {{tc|Santiago del Estero (ciudad)|Santiago del Estero}}
+|- style="border-bottom:1px solid #aaa;"
+|
+{| cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|- style="border-bottom:1px solid #006699;"
+| 22 || width=10%|{{por}} || width=65%|{{bandera|ARG}} [[Matías Lisandro Mansilla|Matías Mansilla]] || width="15%" |
+|-
+| 14 || {{def}} || {{bandera|ARG}} [[Eros Mancuso]] ||
+|-
+| 26 || {{def}} || {{bandera|ARG}} [[Luciano Lollo]] ||
+|-
+| &nbsp;&nbsp;2 || {{def}} || {{bandera|ARG}} [[Zaid Romero]] ||
+|- style="border-bottom:1px solid #006699;"
+| 13 || {{def}} || {{bandera|ARG}} [[Gastón Benedetti]] ||
+|-
+| &nbsp;&nbsp;6 || {{mdc}} || {{bandera|ARG}} [[Santiago Ascacíbar]] || 
+|-
+| 22 || {{mdc}} || {{bandera|ARG}} [[Enzo Pérez]] || {{salió|87}}
+|-
+| 32 || {{mdc}} || {{bandera|URU}} [[Tiago Palacios]] || {{salió|75}}
+|- 
+| &nbsp;&nbsp;7 || {{mdc}} || {{bandera|ARG}} [[José Sosa]] {{cap}} || {{salió|46}}
+|- style="border-bottom:1px solid #006699;"
+| 18 || {{mdc}} || {{bandera|COL}} [[Edwuin Cetré]] || 
+|- style="border-bottom:1px solid #006699;"
+| &nbsp;&nbsp;9 || {{del}} || {{bandera|ARG}} [[Guido Carrillo]] || {{salió|75}}
+|-
+!colspan=2|Entrenador
+| {{bandera|ARG}} [[Eduardo Domínguez (entrenador)|Eduardo Domínguez]]
+|}
+|width=50%|
+{| cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|- style="border-bottom:1px solid #006699;"
+| &nbsp;&nbsp;1 || width=10%|{{por}} || width=65%|{{bandera|ARG}} [[Tomás Marchiori]] || width="15%" |
+|-
+| &nbsp;&nbsp;4 || {{def}} || {{bandera|ARG}} [[Roberto Joaquín García|Joaquín García]] ||
+|-
+| 34 || {{def}} || {{bandera|ARG}} [[Damián Fernández]] ||
+|-
+| 31 || {{def}} || {{bandera|ARG}} [[Valentín Gómez (futbolista)|Valentín Gómez]] ||
+|- style="border-bottom:1px solid #006699;"
+| &nbsp;&nbsp;3 || {{def}} || {{bandera|ARG}} [[Elías Gómez]] || {{salió|62}}
+|-
+| 32 || {{mdc}} || {{bandera|ARG}} [[Christian Ordóñez]] || 
+|-
+| 26 || {{mdc}} || {{bandera|ARG}} [[Agustín Bouzat]] || {{salió|99}}
+|-
+| 20 || {{mdc}} || {{bandera|ARG}} [[Francisco Pizzini]] || {{salió|88}}
+|- 
+| 22 || {{mdc}} || {{bandera|ARG}} [[Claudio Aquino]] {{cap}} || {{salió|88}}
+|- style="border-bottom:1px solid #006699;"
+| 27 || {{mdc}} || {{bandera|ARG}} [[Thiago Fernández]] || {{salió|67}}
+|- style="border-bottom:1px solid #006699;"
+| 18 || {{del}} || {{bandera|URU}} [[Thiago Vecino]] || {{salió|62}}
+|-
+!colspan=2|Entrenador
+| {{bandera|ARG}} [[Gustavo Quinteros]] 
+|}
+|- 
+!colspan=3|Sustituciones 
+|- style="border-bottom:1px solid #aaa;" valign=top
+|
+{| cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=10%| &nbsp;&nbsp;8 || width=10%|{{mdc}} || width=65%|{{bandera|ARG}} [[Fernando Zuqui]] || width=15%|{{entró|46}}
+|-
+| 20 || {{def}} || {{bandera|ARG}} [[Eric Meza]] || {{entró|75}}
+|-
+| 27 || {{del}} || {{bandera|ARG}} [[Javier Correa]]|| {{entró|75}}
+|-
+| 10 || {{del}} || {{bandera|ARG}} [[Pablo Piatti]]|| {{entró|87}}
+|}
+|colspan=2|
+{| cellpadding="2" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=10%| &nbsp;&nbsp;2 || width=10%|{{def}} || width=65%|{{bandera|ARG}} [[Emanuel Mammana]]|| width=15%|{{entró|62}}
+|-
+| 30 || {{del}} ||{{bandera|ARG}} [[Alejo Sarco]]|| {{entró|62}}
+|-
+| 37 || {{def}} || {{bandera|ARG}} [[Tomás Cavanagh]]|| {{entró|67}}
+|-
+| 36 || {{mdc}} || {{bandera|ARG}} [[Álvaro Montoro]]|| {{entró|88}}
+|-
+| 14 || {{del}} || {{bandera|BRA}} [[Lenny Lobato]]|| {{entró|88}}
+|-
+| 35 || {{mdc}} || {{bandera|ARG}} [[Santiago Cáseres]]|| {{entró|99}}
+|}
+|- 
+!colspan=3|Anotaciones
+|- style="border-bottom:1px solid #aaa;" valign=top
+|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=10% align=center|{{gol}} || width=10%|14' || Eros Mancuso || width=10%|1-0
+|}
+|colspan=2|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=10% align=center|{{gol}} || width=10%|63' || Alejo Sarco || width=10%|1-1
+|}
+|- style="font-size:90%"
+!colspan=2|[[Tiros desde el punto penal]]
+|- style="border-bottom:1px solid #aaa;" valign=top
+|colspan=2 align=center|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=42.5% align=right|
+! width="5%"|
+! width=5%|0:1
+! width=5%|{{pengol}}
+| width=42.5% align=left|Emanuel Mammana
+|-
+| width=42.5% align=right|Pablo Piatti
+! width="5%"|{{pengol}}
+! width=5%|1:1
+! width=5%|
+| width=42.5% align=left|
+|-
+| width=42.5% align=right|
+! width="5%"|
+! width=5%|1:2
+! width=5%|{{pengol}}
+| width=42.5% align=left|Alejo Sarco
+|-
+| width=42.5% align=right|Eros Mancuso
+! width="5%"|{{penfallo|atajado}}
+! width=5%|1:2
+! width=5%|
+| width=42.5% align=left|
+|-
+| width=42.5% align=right|
+! width="5%"|
+! width=5%|1:2
+! width=5%|{{penfallo|atajado}}
+| width=42.5% align=left|Joaquín García
+|-
+| width=42.5% align=right|Javier Correa
+! width="5%"|{{pengol}}
+! width=5%|2:2
+! width=5%|
+| width=42.5% align=left|
+|-
+| width=42.5% align=right|
+! width="5%"|
+! width=5%|2:2
+! width=5%|{{penfallo|atajado}}
+| width=42.5% align=left|Santiago Cáseres
+|-
+| width=42.5% align=right|Edwuin Cetré
+! width="5%"|{{pengol}}
+! width=5%|3:2
+! width=5%|
+| width=42.5% align=left|
+|-
+| width=42.5% align=right|
+! width="5%"|
+! width=5%|3:3
+! width=5%|{{pengol}}
+| width=42.5% align=left|Lenny Lobato
+|-
+| width=42.5% align=right|Santiago Ascacíbar
+! width="5%"|{{penfallo|atajado}}
+! width=5%|3:3
+! width=5%|
+| width=42.5% align=left|
+|-
+|
+!
+!3:3
+!{{penfallo|atajado}}
+|Álvaro Montoro
+|-
+|width=42.5% align=right|Fernando Zuqui
+!{{pengol}}
+!4:3
+!
+|
+|}
+|-
+!colspan=3|Amonestaciones
+|- style="border-bottom:1px solid #aaa;" valign=top
+|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| align=center|{{yel}} || 52' || Santiago Ascacíbar
+|-
+| align=center|{{yel}} || 77' || Enzo Pérez
+|-
+| align=center|{{yel}} || 77' || Javier Correa
+|-
+| align=center|{{yel}} || 90+4' || Edwuin Cetré
+|-
+| align=center|{{yel}} || 103' || Eric Meza
+|}
+|colspan=2|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=100%
+|-
+| width=10% align=center|{{yel}} || width=10%| 25' || Christian Ordóñez
+|-
+| align=center|{{yel}} || 34' || Elías Gómez
+|-
+| align=center|{{yel}} || 120' || Diego Gómez
+|}
+|-
+! colspan="2" |Expulsiones
+|- valign="top" style="border-bottom:1px solid #aaa;"
+|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width="100%"
+|-
+| width="10%" align="center" |{{expulsado|0}}|| width=10%| 70' ||Gastón Benedetti
+|}
+|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width="100%"
+|-
+| width="10%" align="center" |{{expulsado|0}}|| width=10%| 59' ||Damián Fernández
+|}
+|- 
+|colspan=3 align=center|
+{| cellpadding="0" cellspacing="0" style="background: #D0E7FF; border-collapse: collapse; font-size: 90%;" width=50%
+|-
+!Árbitro
+| {{bandera|ARG}} [[Nicolás Ramírez (árbitro)|Nicolás Ramírez]]
+|- valign=t
+!rowspan=2|Árbitros asistentes 
+| {{bandera|ARG}} Maximiliano Del Yesso
+|-
+| {{bandera|ARG}} Sebastián Raineri
+|-
+!Cuarto árbitro
+| {{bandera|ARG}} [[Leandro Rey Hilfer]]
+|-
+!Quinto árbitro
+|align=left|{{Bandera|ARG}} Pablo González
+|-valign=top
+! VAR
+|align=left|{{Bandera|ARG}} Héctor Paletta
+|-valign=top
+!Asistente del VAR
+|align=left|{{Bandera|ARG}} [[Pablo Dóvalo]]
+|-
+|}
+[https://www.ligaprofesional.ar/ficha-partido?competition=384&season=2024&match=2440000 Reporte]
+|}
+| width=17%|{{Camisetas
+| pattern_la=_velez2024h
+| pattern_b =_velez2024h
+| pattern_ra=_velez2024h
+| pattern_sh=_velez2024h
+| pattern_so=_navytop
+| leftarm=ffffff
+| body=ffffff
+| rightarm=ffffff
+| shorts=ffffff
+| socks=ffffff
+|título=Vélez Sarsfield
+}}
+|}
+
+== Goleadores ==
+{| class="wikitable col1izq col2izq" style="margin: auto; text-align: center;"
+!width="200"|Jugador
+!width="240"|Equipo
+!width="50" |Goles
+!width="50" |{{Abreviatura|Jugada|Goles hechos con otra parte del cuerpo que no sea la cabeza}}
+!width="50" |{{Abreviatura|Cabeza|Goles hechos con la cabeza}}
+!width="50" |{{Abreviatura|T. libre|Goles hechos de tiro libre}}
+!width="50" |{{Abreviatura|Penal|Goles hechos de penal}}
+!width="50" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor="#eee"
+|{{Bandera|COL}} '''[[Miguel Borja]]'''
+|'''River Plate'''
+|'''13'''||7||6||0||0||13
+|- 
+|{{bandera|ARG}} [[Adrián Emmanuel Martínez|Adrián Martínez]]
+|Racing Club
+|12||10||2||0||0||14
+|- 
+|{{Bandera|URU}} [[Juan Ignacio Ramírez]]
+|Newell's Old Boys
+|8||6||1||0||1||14
+|- 
+|{{Bandera|URU}} [[Edinson Cavani]]
+|Boca Juniors
+|7||4||2||0||1||12
+|- 
+|{{Bandera|URU}} [[Miguel Merentiel]]
+|Boca Juniors
+|7||7||0||0||0||16
+|}
+{{center|{{small|Fuente: [https://www.transfermarkt.com.ar/copa-de-la-liga-profesional-de-futbol/torschuetzenliste/pokalwettbewerb/CDLP Transfermarkt: Goleadores de la Copa de la Liga Profesional 2024]}}}}
+
+== Entrenadores ==
+{| class="wikitable collapsible collapsed" style="margin: auto; margin-top: 2%;" width="65%"
+ |-
+ !colspan=3| Listado de entrenadores
+ |-
+ !Equipo
+ !Entrenador
+ !Fechas
+ |-
+ |Argentinos Juniors
+ |{{bandera|ARG}} [[Pablo Guede]]
+ |align=center|1.ª a semifinales
+ |-
+ |rowspan=3|Atlético Tucumán
+ |{{bandera|ARG}} [[Sergio Omar Gómez|Sergio Gómez]]<ref group=n. name=dupla>{{small|{{cita web|título=No va más: La dupla Orsi-Gómez presentó la renuncia en Atlético Tucumán|url=https://www.dobleamarilla.com.ar/liga-/no-va-mas--la-dupla-orsi-gomez-presento-la-renuncia-en-atletico-tucuman_a65d3e6303728740fa0026439|sitioweb=Doble Amarilla}}}}</ref><br />{{bandera|ARG}} [[Favio Orsi]]
+ |align=center|1.ª a 6.ª
+ |-
+ |{{bandera|ARG}} [[Diego Barrado]] <small>(interino)</small><ref group=n. name=Barrado>{{small|{{cita web|título=El motivo por el cual asumirá Sava|url=https://www.elgrafico.com.ar/articulo/1038/74414/el-motivo-por-el-cual-sava-asumira-en-atletico-tucuman-en-la-novena-fecha|sitioweb=El Gráfico}}}}</ref>
+ |align=center|7.ª y 8.ª
+ |-
+ |{{bandera|ARG}} [[Facundo Sava]]<ref group=n. name=Sava_Tucuman>{{small|{{cita web|título=Facundo Sava será el nuevo técnico de Atlético Tucumán|url=https://www.tycsports.com/liga-profesional-de-futbol/facundo-sava-sera-el-nuevo-tecnico-de-atletico-tucuman-id565805.html|sitioweb=TyC Sports}}}}</ref>
+ |align=center|9.ª a 14.ª
+ |-
+ |Banfield
+ |{{bandera|ARG}} [[Julio César Falcioni]]
+ |align=center|1.ª a 14.ª
+ |-
+ |Barracas Central
+ |{{bandera|URU}} [[Alejandro Orfila Colmenares|Alejandro Orfila]] 
+ |align=center|1.ª a cuartos de final 
+ |-
+ |rowspan=3|Belgrano
+ |{{bandera|ARG}} [[Guillermo Farré]]<ref group=n. name=Farré>{{small|{{cita web|título=Belgrano se quedó sin DT: renunció Farré|url=https://www.ole.com.ar/belgrano/belgrano-quedo-dt-renuncio-farre_0_sMuDXtkvYX.html|sitioweb=Olé}}}}</ref>
+ |align=center|1.ª a 10.ª
+ |-
+ |{{bandera|ARG}} [[Norberto Antonio Fernández|Norberto Fernández]] <small>(interino)</small><ref group=n. name=Beto>{{small|{{cita web|título=Quién es "Beto" Fernández, el DT interino que estará a cargo de Belgrano|url=https://www.cadena3.com/noticia/futbol/quien-es-beto-fernandez-el-dt-interino-que-estara-a-cargo-de-belgrano_382724|sitioweb=Cadena 3}}}}</ref>
+ |align=center|11.ª
+ |-
+ |{{bandera|ARG}} [[Juan Cruz Real]]<ref group=n. name=Real>{{small|{{cita web|título=Belgrano tiene un técnico Real|url=https://www.ole.com.ar/belgrano/belgrano-tecnico-real-artime_0_8bEPexlr4s.html|sitioweb=Olé}}}}</ref>
+ |align=center|12.ª a 14.ª
+ |-
+ |Boca Juniors
+ |{{bandera|ARG}} [[Diego Hernán Martínez|Diego Martínez]]
+ |align=center|1.ª a semifinales
+ |-
+ |rowspan=2|Central Córdoba (SdE)
+ |{{bandera|ARG}} [[Abel Balbo]]<ref group=n. name=Balbo>{{small|{{cita web|título=Abel Balbo dejó de ser el DT de Central Córdoba|url=https://www.ole.com.ar/central-cordoba-santiago-del-estero/abel-balbo-dejo-dt-central-cordoba_0_wDJi436i5Z.html|sitioweb=Olé}}}}</ref>
+ |align=center|1.ª a 13.ª
+ |-
+ |{{bandera|ARG}} [[Juan Carlos Roldán]] <small>(interino)</small><ref group=n. name=Pollo>{{small|{{cita web|título=El Pollo Roldán será el entrenador de Central Córdoba de manera interina|url=https://www.diariopanorama.com/noticia/479703/pollo-roldan-sera-entrenador-central-cordoba-manera-interina|sitioweb=Diario Panorama}}}}</ref>
+ |align=center|14.ª
+ |-
+ |Defensa y Justicia
+ |{{bandera|ARG}} [[Julio Vaccari]]
+ |align=center|1.ª a cuartos de final 
+ |-
+ |rowspan=2|Deportivo Riestra
+ |{{bandera|ARG}} [[Matías Módolo]]<ref group=n. name=Módolo>{{small|{{cita web|título=Riestra despidió a Módolo y contrató a Fabbiani|url=https://www.pagina12.com.ar/711346-riestra-despidio-a-modolo-y-contrato-a-fabbiani|sitioweb=Página/12}}}}</ref>
+ |align=center|1.ª a 3.ª
+ |-
+ |{{bandera|ARG}} [[Cristian Fabbiani]]<ref group=n. name=Ogro>{{small|{{cita web|título=Bombazo de Riestra: Fabbiani fue anunciado como nuevo DT y debutará ante River|url=https://www.elgrafico.com.ar/articulo/1038/73909/bombazo-de-riestra-fabbiani-fue-anunciado-como-nuevo-dt-y-debutara-ante-river|sitioweb=El Gráfico}}}}</ref>
+ |align=center|4.ª a 14.ª
+ |-
+ |Estudiantes (LP)
+ |{{bandera|ARG}} [[Eduardo Domínguez (entrenador)|Eduardo Domínguez]]
+ |align=center|1.ª a final
+ |-
+ |Gimnasia y Esgrima (LP)
+ |{{bandera|ARG}} [[Leonardo Madelón]]
+ |align=center|1.ª a 14.ª
+ |-
+ |Godoy Cruz
+ |{{bandera|ARG}} [[Daniel Oldrá]]
+ |align=center|1.ª a cuartos de final
+ |-
+ |rowspan=3|Huracán 
+ |{{bandera|ARG}} [[Facundo Sava]]<ref group=n. name=Sava>{{small|{{cita web|título=Facundo Sava dejó de ser el entrenador de Huracán|url=https://www.elgrafico.com.ar/articulo/primera-division/74259/facundo-sava-dejo-de-ser-el-entrenador-de-huracan|sitioweb=El Gráfico}}}}</ref>
+ |align=center|1.ª a 6.ª
+ |-
+ |{{bandera|ARG}} [[Walter Coyette]] <small>(interino)</small><ref group=n. name=Coyette>{{small|{{cita web|título=Huracán confirmó a Coyette para el clásico|url=https://www.unosantafe.com.ar/ovacion/huracan-confirmo-coyette-el-clasico-n10119591.html|sitioweb=Diario Uno Santa Fe}}}}</ref>
+ |align=center|7.ª a 9.ª
+ |-
+ |{{bandera|ARG}} [[Frank Darío Kudelka]]<ref group=n. name=Kudelka>{{small|{{cita web|título=Frank Darío Kudelka será el nuevo técnico de Huracán|url=https://www.tycsports.com/liga-profesional-de-futbol/frank-dario-kudelka-sera-el-nuevo-tecnico-de-huracan-id568844.html|sitioweb=TyC Sports}}}}</ref>
+ |align=center|10.ª a 14.ª
+ |-
+ |Independiente
+ |{{bandera|ARG}} [[Carlos Tevez]]
+ |align=center|1.ª a 14.ª
+ |-
+ |rowspan=3|Independiente Rivadavia
+ |{{bandera|ARG}} [[Rodolfo de Paoli]]<ref group=n. name=de_Paoli>{{small|{{cita web|título=Rodolfo de Paoli dejó su cargo en Independiente Rivadavia|url=https://www.tycsports.com/liga-profesional-de-futbol/copa-liga-profesional-rodolgfo-de-paoli-renuncia-independiente-rivadavia-id566892.html|sitioweb=TyC Sports}}}}</ref>
+ |align=center|1.ª a 7.ª
+ |-
+ |{{bandera|ARG}} [[Federico Arias]] <small>(interino)</small><ref group=n. name=Federico_Arias>{{small|{{cita web|título=Federico Arias será el entrenador interino de Independiente Rivadavia|url=https://www.tycsports.com/liga-profesional-de-futbol/federico-arias-sera-el-entrenador-interino-de-independiente-rivadavia-id567139.html|sitioweb=TyC Sports}}}}</ref>
+ |align=center|8.ª 
+ |-
+ |{{bandera|ARG}} [[Martín Cicotello]]<ref group=n. name=Cicotello>{{small|{{cita web|título=Independiente Rivadavia anunció a Martín Cicotello como DT y a sus colaboradores|url=https://www.diariouno.com.ar/ovacion/futbol/independiente-rivadavia-anuncio-martin-cicotello-como-dt-y-sus-colaboradores-n1300468|sitioweb=Diario Uno Santa Fe}}}}</ref>
+ |align=center|9.ª a 14.ª
+ |-
+ |Instituto
+ |{{bandera|ARG}} [[Diego Dabove]]
+ |align=center|1.ª a 14.ª
+ |-
+ |Lanús
+ |{{bandera|ARG}} [[Ricardo Zielinski]]
+ |align=center|1.ª a 14.ª
+ |-
+ |Newell's Old Boys
+ |{{bandera|URU}} [[Mauricio Larriera]]
+ |align=center|1.ª a 14.ª
+ |-
+ |rowspan=2 |Platense
+ |{{bandera|ARG}} [[Sebastián Grazzini]]<ref group=n. name=Grazzini>{{small|{{cita web|título=Sebastián Grazzini dejó de ser el DT de Platense|url=https://www.ole.com.ar/platense/platense-grazzini-renuncia_0_806oHd4NZr.html|sitioweb=Olé}}}}</ref>
+ |align=center|1.ª a 7.ª
+ |- 
+ |{{bandera|ARG}} [[Sergio Omar Gómez|Sergio Gómez]]<ref group=n. name=dupla_Platense>{{small|{{cita web|título=Favio Orsi y Sergio Gómez reemplazarán a Grazzini en Platense|url=https://www.ole.com.ar/platense/dupla-favio-orsi-sergio-gomez-reemplazo-grazzini-platense_0_CQtGEDGEGM.html|sitioweb=Olé}}}}</ref><br />{{bandera|ARG}} [[Favio Orsi]]
+ |align=center|8.ª a 14.ª
+ |- 
+ |Racing Club
+ |{{bandera|ARG}} [[Gustavo Costas]]
+ |align=center|1.ª a 14.ª
+ |-
+ |River Plate
+ |{{bandera|ARG}} [[Martín Demichelis]]
+ |align=center|1.ª a cuartos de final
+ |-
+ |Rosario Central
+ |{{bandera|ARG}} [[Miguel Ángel Russo]]
+ |align=center|1.ª a 14.ª
+ |-
+ | rowspan=2|San Lorenzo
+ |{{bandera|ARG}} [[Rubén Darío Insúa]]<ref group=n. name=Gallego>{{small|{{cita web|título=Rubén Darío Insúa dejó de ser el entrenador de San Lorenzo|url=https://tn.com.ar/deportes/futbol/2024/04/11/ruben-dario-insua-dejo-de-ser-el-entrenador-de-san-lorenzo/|sitioweb=TN}}}}</ref> 
+ |align=center|1.ª a 13.ª
+ |-
+ |{{bandera|ARG}} [[Leandro Romagnoli]] <small>(interino)</small><ref group=n. name=Romagnoli>{{small|{{cita web|título=Quiénes serán los dos DT interinos que pondrán la cara por Central Córdoba y San Lorenzo|url=https://www.ole.com.ar/futbol-primera/copa-liga-central-cordoba-san-lorenzo-dt-interino-leandro-pipi-romagnoli-ruben-gallego-insua_0_qqKQ4CdQS6.html|sitioweb=Olé}}}}</ref>
+ |align=center|14.ª
+ |-
+ | rowspan=3|Sarmiento (J)
+ |{{bandera|ARG}} [[Sergio Rondina]]<ref group=n. name=huevo>{{small|{{cita web|título=Sergio Rondina renunció como DT de Sarmiento|url=https://www.ellitoral.com/deportes/sergio-rondina-sarmiento-entrenador-renuncia-copa-liga-verde-junin_0_tzzDoCJKY3.html|sitioweb=El Litoral}}}}</ref>
+ |align=center|1.ª a 6.ª
+ |-
+ |{{bandera|ARG}} [[Martín Funes]] <small>(interino)</small><ref group=n. name=Funes>{{small|{{cita web|título=Sarmiento recibe a Barracas con técnico interino|url=https://www.diariojunin.com/noticias/95623_sarmiento-recibe-a-barracas-con-tecnico-interino.html|sitioweb=Diario Junín}}}}</ref>
+ |align=center|7.ª 
+ |-
+ |{{bandera|ARG}} [[Israel Damonte]]<ref group=n. name=Damonte>{{small|{{cita web|título=Israel Damonte es el nuevo DT de Sarmiento|url=https://www.ole.com.ar/sarmiento-junin/sarmiento-nuevo-entrenador-israel-damonte_0_o4wmai7kXr.html|sitioweb=Olé}}}}</ref>
+ |align=center|8.ª a 14.ª
+ |-
+ |Talleres (C)
+ |{{bandera|ARG}} [[Walter Ribonetto]]
+ |align=center|1.ª a 14.ª
+ |- 
+ |rowspan=3|Tigre
+ |{{bandera|ARG}} [[Néstor Gorosito]]<ref group=n. name=Gorosito>{{small|{{cita web|título=Pipo Gorosito dejó de ser el entrenador de Tigre|url=https://espndeportes.espn.com/futbol/argentina/nota/_/id/13393032/nestor-pipo-gorosito-dejo-de-ser-el-entrenador-de-tigre|sitioweb=ESPN Deportes}}}}</ref>
+ |align=center|1.ª a 11.ª
+ |-
+ |{{bandera|ARG}} [[Juan Carlos Blengio]] <small>(interino)</small><ref group=n. name=Chimi>{{small|{{cita web|título=Se confirmó el nuevo director técnico de Tigre tras la salida de Gorosito|url=https://tntsports.com.ar/ligaprofesional/confirmo-nuevo-entrenador-tigre-salida-gorosito-20240327-0032.html|sitioweb=TNT Sports}}}}</ref>
+ |align=center|12.ª
+ |-
+ |{{bandera|ARG}} [[Sebastián Enrique Domínguez|Sebastián Domínguez]]<ref group=n. name=Seba>{{small|{{cita web|título=Tigre tiene nuevo DT: Sebastián Domínguez dirigió su primera práctica|url=https://www.tycsports.com/liga-profesional-de-futbol/tigre-anuncio-al-nuevo-entrenador-casi-un-mes-despues-de-la-renuncia-de-pipo-gorosito-id575867.html|sitioweb=TyC Sports}}}}</ref>
+ |align=center|13.ª y 14.ª
+ |-
+ |Unión
+ |{{bandera|ARG}} [[Kily González|Cristian González]]
+ |align=center|1.ª a 14.ª
+ |-
+ |Vélez Sarsfield
+ |{{Bandera|ARG}} [[Gustavo Quinteros]]
+ |align=center|1.ª a final 
+ |-
+ |colspan=3|{{listaref|group="n."}}
+|}
+
+== Véase también ==
+* [[Campeonato de Primera División 2024 (Argentina)|Primera División 2024]]
+* [[Campeonato de Primera Nacional 2024|Primera Nacional 2024]]
+* [[Campeonato de Primera B 2024 (Argentina)|Primera B 2024]]
+* [[Torneo Federal A 2024]]
+* [[Campeonato de Primera C 2024 (Argentina)|Primera C 2024]]
+* [[Torneo Regional Federal Amateur 2024-25]]
+* [[Torneo Promocional Amateur 2024]]
+* [[Copa Argentina 2024]]
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [https://www.afa.com.ar/es/ Sitio oficial de la AFA]
+* [https://www.ligaprofesional.ar/ Sitio oficial de la Liga Profesional de Fútbol]
+
+{{Sucesión
+| predecesor = [[Copa de la Liga Profesional 2023|2023]]
+| título = V [[Copa de la Liga Profesional]]
+| período = '''2024'''
+| sucesor = -
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa de la Liga Profesional|2024]]
+[[Categoría:Fútbol en Argentina en 2024]]

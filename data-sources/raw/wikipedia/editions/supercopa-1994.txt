@@ -1,0 +1,898 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Supercopa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = Estádio Libertadores da América 2.png
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio La Doble Visera]] ([[Avellaneda (Buenos Aires)|Avellaneda]]) fue sede del partido de vuelta de la [[Anexo:Final de la Supercopa Sudamericana 1994|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 16
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|7|9|1994}}<br />{{fecha2|9|11|1994}}
+| edición = VII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético Independiente|Independiente]]''' <small>(1.º título)</small>
+| subcampeón = {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| semifinalistas = {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]] <br /> {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| titulotercero = Semifinalistas
+| partidos = 30
+| goles = 69 (2,30 por partido)
+| goleadores = {{bandera|ARG}} [[Sebastián Rambert]] (5 goles)<br /><small>([[Club Atlético Independiente|Independiente]])</small>
+| anterior = [[Supercopa Sudamericana 1993]]
+| actual = Supercopa Sudamericana 1994
+| siguiente = [[Supercopa Sudamericana 1995]]
+}}
+La '''[[Supercopa Sudamericana]] 1994''' fue la séptima edición del torneo de clubes de [[América del Sur]] organizado por la [[Confederación Sudamericana de Fútbol]] que reunía a todos los campeones de la [[Copa Libertadores de América]].
+
+[[Club Atlético Independiente|Independiente]] de [[Argentina]] se consagró campeón tras vencer a [[Club Atlético Boca Juniors|Boca Juniors]] en la final, reeditando el cruce decisivo de la edición de [[Supercopa Sudamericana 1989|1989]], oportunidad en la que el club ''Xeneize'' se había coronado. Gracias al título, disputó la [[Recopa Sudamericana 1995]] ante [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]], ganador de la [[Copa Libertadores 1994]].
+
+== Formato ==
+El torneo se desarrolló en un formato plenamente eliminatorio, en cuatro rondas desde los octavos hasta la final. Todas las llaves se disputaron en ida y vuelta. Ante la igualdad de puntos, obtenía la clasificación el equipo con mejor [[diferencia de goles]]; de persistir el empate, se efectuaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+!
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+!Octavos de final
+(16 equipos)
+|
+* [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], [[Atlético Nacional]], [[Club Atlético Boca Juniors|Boca Juniors]], <br />[[Club Social y Deportivo Colo-Colo|Colo-Colo]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Club Estudiantes de La Plata|Estudiantes (LP)]], [[Clube de Regatas do Flamengo|Flamengo]], <br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Club Atlético Independiente|Independiente]], [[Club Nacional de Football|Nacional]], [[Club Olimpia|Olimpia]], <br />[[Club Atlético Peñarol|Peñarol]], [[Racing Club]], [[Club Atlético River Plate|River Plate]], [[São Paulo Futebol Clube|São Paulo]]<br /> y [[Santos Futebol Clube|Santos]]
+|
+|-
+!Cuartos de final
+(8 equipos)
+|
+|
+* 8 equipos clasificados de los Octavos de final
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!País
+!Equipo
+!{{tc|Copa Libertadores de América|Copas Libertadores}} ganadas
+
+|- bgcolor=#F5FAFF
+|{{bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>6 participantes</small>
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br />[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Club Estudiantes de La Plata|Estudiantes de La Plata]]<br />[[Club Atlético Independiente|Independiente]]<br />[[Racing Club]]<br />[[Club Atlético River Plate|River Plate]]
+|[[Copa Libertadores 1985|1985]] <br />[[Copa Libertadores 1977|1977]] – [[Copa Libertadores 1978|1978]]<br />[[Copa Libertadores 1968|1968]] – [[Copa Libertadores 1969|1969]] – [[Copa Libertadores 1970|1970]] <br />[[Copa Libertadores 1964|1964]] – [[Copa Libertadores 1965|1965]] – [[Copa Libertadores 1972|1972]] – [[Copa Libertadores 1973|1973]] – [[Copa Libertadores 1974|1974]] – [[Copa Libertadores 1975|1975]] – [[Copa Libertadores 1984|1984]]<br />[[Copa Libertadores 1967|1967]]<br />[[Copa Libertadores 1986|1986]]<br />
+|- bgcolor=#DDEEFF
+|{{bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>5 participantes</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]<br />[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[Santos Futebol Clube|Santos]]<br />[[São Paulo Futebol Clube|São Paulo]]
+|[[Copa Libertadores 1976|1976]]<br />[[Copa Libertadores 1981|1981]]<br />[[Copa Libertadores 1983|1983]]<br />[[Copa Libertadores 1962|1962]] – [[Copa Libertadores 1963|1963]]<br />[[Copa Libertadores 1992|1992]] – [[Copa Libertadores 1993|1993]]
+|- bgcolor=#F5FAFF
+|{{bandera|CHI}} '''[[Federación de Fútbol de Chile|Chile]]'''<br /><small> 1 participante</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[[Copa Libertadores 1991|1991]]
+|- bgcolor=#DDEEFF
+|{{bandera|COL}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br /><small> 1 participante</small>
+|[[Atlético Nacional]]
+|[[Copa Libertadores 1989|1989]]
+|- bgcolor=#F5FAFF
+|{{bandera|PAR|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>1 participante</small>
+|[[Club Olimpia|Olimpia]]
+|[[Copa Libertadores 1979|1979]] – [[Copa Libertadores 1990|1990]]
+|- bgcolor=#DDEEFF
+|{{bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>2 participantes</small>
+|[[Club Nacional de Football|Nacional]]<br />[[Club Atlético Peñarol|Peñarol]]
+|[[Copa Libertadores 1971|1971]] – [[Copa Libertadores 1980|1980]] – [[Copa Libertadores 1988|1988]]<br />[[Copa Libertadores 1960|1960]] – [[Copa Libertadores 1961|1961]] – [[Copa Libertadores 1966|1966]] – [[Copa Libertadores 1982|1982]] – [[Copa Libertadores 1987|1987]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Supercopa Sudamericana 1994'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Racing Club|{{Esd|Racing Club}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|Santos]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+
+== Resultados ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20 | team-width= 170| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+| octavos = 7 al 29 de septiembre
+| cuartos = 5 al 13 de octubre
+| semifinal = 19 al 26 de octubre
+| final = 2 y 9 de noviembre
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 7 al 29 de septiembre
+
+| RD1-team1 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD1-team2 = {{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| RD1-score1-1 = 0
+| RD1-score2-1 = 1
+| RD1-score1-2 = 4
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''4'''
+| RD1-score2-3 = '''1'''
+
+| RD1-team3 = {{bandera|ARG}} [[Racing Club]]
+| RD1-team4 = {{bandera|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-score3-1 = 1
+| RD1-score4-1 = 1
+| RD1-score3-2 = 1
+| RD1-score4-2 = 2 
+| RD1-score3-3 = '''2'''
+| RD1-score4-3 = '''3'''
+
+| RD1-team5 = {{bandera|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD1-team6 = {{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+| RD1-score5-1 = 0
+| RD1-score6-1 = 2
+| RD1-score5-2 = 4
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''4'''
+| RD1-score6-3 = '''2'''
+
+| RD1-team7 = {{bandera|ARG}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+| RD1-team8 = {{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD1-score7-1 = 0 
+| RD1-score8-1 = 0
+| RD1-score7-2 = 2
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''2'''
+| RD1-score8-3 = '''0'''
+
+| RD1-team9 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-team10 = {{bandera|COL}} [[Atlético Nacional]]
+| RD1-score9-1 = 2
+| RD1-score10-1 = 0
+| RD1-score9-2 = 1
+| RD1-score10-2 = 1 
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''1'''
+
+| RD1-team11 = {{bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+| RD1-team12 = {{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+| RD1-score11-1 = 1
+| RD1-score12-1 = 4
+| RD1-score11-2 = 1
+| RD1-score12-2 = 1
+| RD1-score11-3 = '''2'''
+| RD1-score12-3 = '''5'''
+
+| RD1-team13 = {{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-team14 = {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]] 
+| RD1-score13-1 = 0
+| RD1-score14-1 = 1
+| RD1-score13-2 = 4
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''4'''
+| RD1-score14-3 = '''2'''
+
+| RD1-team15 = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD1-team16 = {{bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score15-1 = 2
+| RD1-score16-1 = 2
+| RD1-score15-2 = 0
+| RD1-score16-2 = 1
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''3'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 5 al 13 de octubre
+
+| RD2-team1 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD2-team2 = {{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD2-score1-1 = 1
+| RD2-score2-1 = 1
+| RD2-score1-2 = 2
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''3'''
+| RD2-score2-3 = '''1'''
+
+| RD2-team3 = {{bandera|BRA}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD2-team4 = {{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 3
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''3'''
+| RD2-score4-3 = '''1'''
+
+| RD2-team5 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD2-team6 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 2
+| RD2-score5-2 = 4
+| RD2-score6-2 = 1
+| RD2-score5-3 = '''5'''
+| RD2-score6-3 = '''3'''
+
+| RD2-team7 = {{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-team8 = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD2-score7-1 = 0
+| RD2-score8-1 = 0
+| RD2-score7-2 = 1
+| RD2-score8-2 = 1
+| RD2-score7-3 = '''1&nbsp;{{small|(6)}}'''
+| RD2-score8-3 = '''1&nbsp;{{small|(5)}}'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 19 al 26 de octubre
+
+| RD3-team1 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD3-team2 = {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD3-score1-1 = 0
+| RD3-score2-1 = 1
+| RD3-score1-2 = 4
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''4'''
+| RD3-score2-3 = '''1'''
+
+| RD3-team3 = {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| RD3-team4 = {{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD3-score3-1 = 0
+| RD3-score4-1 = 2
+| RD3-score3-2 = 1
+| RD3-score4-2 = 0
+| RD3-score3-3 = '''1'''
+| RD3-score4-3 = '''2'''
+
+<!--Final-->
+| RD4= Final
+| RD4-date= 2 y 9 de noviembre
+
+| RD4-team1 = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| RD4-team2 = {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD4-score1-1 = 1
+| RD4-score2-1 = 1
+| RD4-score1-2 = 1
+| RD4-score2-2 = 0 
+| RD4-score1-3 = '''2'''
+| RD4-score2-3 = '''1'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local       = [[Santos Futebol Clube|Santos]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (1:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 8 de septiembre de 1994
+|estadio     = [[Estadio Urbano Caldeira|Estadio de Vila Belmiro]]
+|ciudad      = [[Santos]]
+|refe        = {{árbitro|ECU|var=1900|Alfredo Rodas}}
+|asistencia  = 
+|goleslocal  = [[Pablo Rotchen|Rotchen]] {{gol|33|a.g.}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 4:0''' (2:0)
+|global      = 4:1
+|visita      = [[Santos Futebol Clube|Santos]]
+|paísvisita  = BRA
+|fecha       = 22 de septiembre de 1994
+|estadio     = [[Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  = 35 000 
+|goleslocal  = [[Claudio Arzeno|Arzeno]] {{gol|22}}<br />[[Albeiro Usuriaga|Usuriaga]] {{gol|27}}<br />[[Sebastián Rambert|Rambert]] {{gol|67}}<br />[[Hugo Leonardo Pérez|H. Pérez]] {{gol||pen.}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:1)
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 15 de septiembre de 1994
+|estadio     = [[Estadio Olímpico Monumental]]
+|ciudad      = [[Porto Alegre]]
+|refe        = {{árbitro|PAR|var=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|asistencia  = 
+|goleslocal  = [[Fábio Ribeiro|Fabinho]] {{gol|77}}
+|golesvisita = {{gol|33}} [[Claudio García|García]]
+}}
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 1:2''' (0:0)
+|global      = 2:3
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita  = BRA
+|fecha       = 29 de septiembre de 1994
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|URU|José Luis Da Rosa}}
+|asistencia  = 
+|goleslocal  = [[Néstor Adrián de Vicente|de Vicente]] {{gol|43}}
+|golesvisita = {{gol|73}} [[Fábio Ribeiro|Fabinho]]<br />{{gol|78}} [[Carlos Ângelo|Carlinhos]]
+}}
+<br />
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 2:0''' (2:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 7 de septiembre de 1994
+|estadio     = [[Estadio Defensores del Chaco]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 
+|goleslocal  = [[Miguel Ángel Sanabria|Sanabria]] {{gol|11}}<br />[[Casiano Delvalle|Delvalle]] {{gol|43}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 4:0''' (2:0)
+|global      = 4:2
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|visita      = [[Club Olimpia|Olimpia]]
+|fecha       = 22 de septiembre de 1994
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|CHI|Iván Guerrero (árbitro)|Iván Guerrero}}
+|asistencia  =10 000 
+|goleslocal  = [[Rogério Lage da Silva|Rogério Lage]] {{gol|26}}<br />[[Raimundo Nonato da Silva|Nonato]] {{gol|41|pen.}}<br />[[Cleisson Edson Assunção|Cleisson]] {{gol|51}}<br />[[Edenilson Vicente Franco|Edenilson]] {{gol|69}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 0:0
+|visita      = [[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|paísvisita  = ARG
+|fecha       = 13 de septiembre de 1994
+|estadio     = [[Estadio de Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|refe        = {{árbitro|URU|Eduardo Dluzniewski}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|paíslocal   = ARG
+|resultado   = 2:0''' (1:0)
+|global      = 2:0
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 27 de septiembre de 1994
+|estadio     = [[Estadio Jorge Luis Hirschi]]
+|ciudad      = [[La Plata]]
+|refe        = {{árbitro|PAR|var=1990|Sabino Fariña}}
+|asistencia  = 14 000 
+|goleslocal  = [[Javier Ferreira|Ferreira]] {{gol|30}}<br />[[Alejandro Julián Méndez|Méndez]] {{gol|57}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Atlético Nacional]]
+|paíslocal   = COL
+|resultado   = 0:2''' (0:2)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 22 de septiembre de 1994
+|estadio     = [[Estadio Atanasio Girardot]]
+|ciudad      = [[Medellín]]
+|refe        = 
+|asistencia  = 45 000 
+|golesvisita = {{gol|13}} [[Caio Ribeiro Decoussau|Caio]]<br />{{gol|18}} [[Euller Elias de Carvalho|Euller]]
+}}
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:1)
+|global      = 3:1
+|visita      = [[Atlético Nacional]]
+|paísvisita  = COL
+|fecha       = 29 de septiembre de 1994
+|estadio     = [[Estadio de Morumbí]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|ARG|Francisco Lamolina}}
+|asistencia  =5 000 
+|goleslocal  = [[Jorge Ferreira da Silva|Palhinha]] {{gol|79}}
+|golesvisita = {{gol|1|pen.}} [[Mauricio Serna|Serna]]
+}}
+<br />
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 4:1''' (1:0)
+|visita      = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita  = ARG
+|fecha       = 15 de septiembre de 1994
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|PER|Fernando Chappell}}
+|asistencia  = 16 700 
+|goleslocal  = [[Jaime Pizarro|Pizarro]] {{gol|45}}<br />[[Toninho Dos Santos]] {{gol|52|pen.|69||77}}
+|golesvisita = [[Carlos Luis Torres|Torres]] {{gol|47}}
+}}
+{{Partido
+|local       = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (1:0)
+|global      = 2:5
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 28 de septiembre de 1994
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|BOL|René Ortubé}}
+|asistencia  = 
+|goleslocal  = [[Juan Ramón Comas|Comas]] {{gol|40}}
+|golesvisita = {{gol|58}} [[Marcelo Vega|Vega]]
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal   = URU
+|resultado   = 1:0''' (1:0)
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 14 de septiembre de 1994
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]]
+|refe        = {{árbitro|BRA|Márcio Rezende}}
+|asistencia  = 16.131
+|goleslocal  = [[Pablo Bengoechea|Bengoechea]] {{gol|43|t.l.}} 
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 4:1''' (1:1)
+|global      = 4:2
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita  = URU
+|fecha       = 28 de septiembre de 1994
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|BRA|Cláudio Cerdeira}}
+|asistencia  = 25.000 
+|goleslocal  = [[Rubén Da Silva|Da Silva]] {{gol|44}}<br />[[Luis Alberto Carranza|Carranza]] {{gol|76}}<br />[[Walter Pico|Pico]] {{gol|82}}<br />[[Néstor Fabbri|Fabbri]] {{gol|85}}
+|golesvisita = {{gol|38}} [[Carlos Alberto Aguilera|Aguilera]]
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 2:2''' (1:1)
+|visita      = [[Club Nacional de Football|Nacional]]
+|paísvisita  = URU
+|fecha       = 7 de septiembre de 1994
+|estadio     = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|CHI|Salvador Imperatore}}
+|asistencia  = 
+|goleslocal  = [[Enzo Francescoli|Francescoli]] {{gol|17|pen.}}<br />[[Gabriel Amato|Amato]] {{gol|70}}
+|golesvisita = {{gol|45||68}} [[Osvaldo Canobbio|Canobbio]]
+}}
+{{Partido
+|local       = [[Club Nacional de Football|Nacional]]
+|paíslocal   = URU
+|resultado   = 0:1''' (0:0)
+|global      = 2:3
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 21 de septiembre de 1994
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]]
+|refe        = {{árbitro|BRA|João Paulo Araújo}}
+|asistencia  = 
+|golesvisita = {{gol|89}} [[Gabriel Amato|Amato]]
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local       = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 5 de octubre de 1994
+|estadio     = [[Estadio Olímpico Monumental]]
+|ciudad      = [[Porto Alegre]]
+|refe        = {{árbitro|CHI|Salvador Imperatore}}
+|asistencia  = 24 000 
+|goleslocal  = [[Marco Aurélio Ayupe|Ayupe]] {{gol|86}}
+|golesvisita = {{gol|82}} [[Sebastián Rambert|Rambert]]
+}}
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 2:0''' (1:0)
+|global      = 3:1
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita  = BRA
+|fecha       = 12 de octubre de 1994
+|estadio     = [[Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|PAR|var=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|asistencia  =25 000 
+|goleslocal  = [[Albeiro Usuriaga|Usuriaga]] {{gol|33}}<br />[[Gustavo Adrián López|G. López]] {{gol|77}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (0:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 5 de octubre de 1994
+|estadio     = [[Estadio Jorge Luis Hirschi]]
+|ciudad      = [[La Plata]]
+|refe        = {{árbitro|PAR|var=1990|Epifanio González}}
+|asistencia  = 
+|goleslocal  = [[Juan Sebastián Verón|Verón]] {{gol|73}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 3:0''' (0:0)
+|global      = 3:1
+|visita      = [[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|paísvisita  = ARG
+|fecha       = 12 de octubre de 1994
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  =34 300 
+|goleslocal  = [[Roberto Gaúcho]] {{gol|63}}<br />[[Raimundo Nonato da Silva|Nonato]] {{gol|81|pen.}}<br />[[Edenilson Vicente Franco|Edenilson]] {{gol|90+2}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 2:1''' (0:0)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 5 de octubre de 1994
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|ARG|Aníbal Hay}}
+|asistencia  = 30 000 
+|goleslocal  = [[Marco Etcheverry|Etcheverry]] {{gol|62|pen.}}<br />[[Jaime Pizarro|Pizarro]] {{gol|87|pen.}}
+|golesvisita = {{gol|68}} [[Aílton Delfino|Aílton]]
+}}
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 4:1''' (0:0)
+|global      = 5:3
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 12 de octubre de 1994
+|estadio     = [[Estadio de Morumbí]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|COL|Armando Pérez Hoyos}}
+|asistencia  = 
+|goleslocal  = [[Euller Elias de Carvalho|Euller]] {{gol|60}}<br />[[Aílton Delfino|Aílton]] {{gol|61}}<br />[[Müller (futbolista)|Müller]] {{gol|84}}<br />[[Jorge Ferreira da Silva|Palhinha]] {{gol|90}}
+|golesvisita = {{gol|88}} [[Marcelo Fracchia|Fracchia]]
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 5 de octubre de 1994
+|estadio     = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 55 000 
+}}
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (1:0)
+|global      = 1:1
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 13 de octubre de 1994
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Francisco Lamolina}}
+|asistencia  = 45 000 
+|goleslocal  = [[Luis Alberto Carranza|Carranza]] {{gol|6}}
+|golesvisita = {{gol|48}} [[Enzo Francescoli|Francescoli]]
+|penaltis1   = [[Alberto Márcico|Márcico]] {{pengol}}<br />[[Rubén Da Silva|Da Silva]] {{pengol}}<br />[[Silvio Rudman|Rudman]] {{pengol}}<br />[[Roberto Acuña|Acuña]] {{pengol}}<br />[[Fernando Gamboa|Gamboa]] {{pengol}}
+|resultado penalti = 5:4
+|penaltis2   = {{pengol}} [[Enzo Francescoli|Francescoli]]<br />{{pengol}} [[Gabriel Amato|Amato]]<br />{{pengol}} [[Guillermo Rivarola|Rivarola]]<br />{{pengol}} [[Walter Silvani|Silvani]]<br />{{penfallo|atajado}} [[Sergio Berti|Berti]]
+}}
+
+=== Semifinales ===
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (1:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 19 de octubre de 1994
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|PAR|var=1990|Epifanio González}}
+|asistencia  = 50 000 
+|goleslocal  = [[Edenilson Vicente Franco|Edenilson]] {{gol|7}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 4:0''' (1:0)
+|global      = 4:1
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 26 de octubre de 1994
+|estadio     = [[Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|ECU|var=1900|Alfredo Rodas}}
+|asistencia  =55 000 
+|goleslocal  = [[Albeiro Usuriaga|Usuriaga]] {{gol|37||67}}<br />[[Sebastián Rambert|Rambert]] {{gol|61}}<br />[[Juan José Serrizuela|Serrizuela]] {{gol|81}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 2:0''' (2:0)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 19 de octubre de 1994
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|CHI|Salvador Imperatore}}
+|asistencia  =50 000 
+|goleslocal  = [[Luis Alberto Carranza|Carranza]] {{gol|30}}<br />[[Alberto Márcico|Márcico]] {{gol|37|pen.}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (0:0)
+|global      = 1:2
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 26 de octubre de 1994
+|estadio     = [[Estadio de Morumbí]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  = 7 000 
+|goleslocal  = [[Caio Ribeiro Decoussau|Caio]] {{gol|72}}
+|golesvisita = 
+}}
+
+=== Final ===
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (1:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 2 de noviembre de 1994
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Roberto Ruscio}}
+|asistencia  = 
+|goleslocal  = [[Sergio Daniel Martínez|Martínez]] {{gol|24}}
+|golesvisita = {{gol|72}} [[Sebastián Rambert|Rambert]]
+}}
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (0:0)
+|global      = 2:1
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 9 de noviembre de 1994
+|estadio     = [[Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        = {{árbitro|ARG|Francisco Lamolina}}
+|asistencia  = 
+|goleslocal  = [[Sebastián Rambert|Rambert]] {{gol|55}}
+|golesvisita = 
+}}
+{{Campeón|equipo=[[Club Atlético Independiente|Independiente]]|imagen=Flag of Argentina.svg|orden=1|logo=SupercopaLibertadores1988-1997.png}}
+
+== Estadísticas ==
+=== Clasificación general ===
+{| class="sortable" cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%; margin: auto; text-align: center;" width="55%"
+ |- bgcolor="#006699" style="color: white;"
+ ! width="5%"  | {{abreviación|Pos.|Posición}}
+ ! width="45%" | Equipo
+ ! width="5%"  | {{abreviación|Pts|Puntos}}
+ ! width="5%"  | {{abreviación|PJ|Partidos jugados}}
+ ! width="5%"  | {{abreviación|PG|Partidos ganados}}
+ ! width="5%"  | {{abreviación|PE|Partidos empatados}}
+ ! width="5%"  | {{abreviación|PP|Partidos perdidos}}
+ ! width="5%"  | {{abreviación|GF|Goles a favor}}
+ ! width="5%"  | {{abreviación|GC|Goles en contra}}
+ ! width="5%"  | {{abreviación|Dif.|Diferencia de goles}}
+ ! width="10%" | {{abreviación|Rend.|Rendimiento}}
+ |- bgcolor=gold
+ !1
+ |align=left|{{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+ |'''10'''||8||4||2||2||13||4||9||62,50%
+ |- bgcolor=silver
+ !2
+ |align=left|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+ |'''9'''||8||2||3||3||8||6||2||56,25%
+ |-style="border-top:1px solid #222;" bgcolor=#D2B48C
+ !3
+ |align=left|{{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+ |'''7'''||6||3||1||2||9||6||3||58,33%
+ |-
+ !4
+ |align=left|{{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+ |'''6'''||6||3||0||3||8||7||1||50%
+ |-style="border-top:1px solid #222;"
+ !5
+ |align=left|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+ |'''5'''||4||2||1||1||8||7||1||62,50%
+ |-
+ !6
+ |align=left|{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+ |'''5'''||4||1||3||0||4||3||1||62,50%
+ |-
+ !7
+ |align=left|{{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+ |'''5'''||4||2||1||1||3||3||0||62,50%
+ |-
+ !8
+ |align=left|{{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+ |'''4'''||4||1||2||1||4||5||−1||50%
+ |-style="border-top:1px solid #222;"
+ !9
+ |align=left|{{bandera|PAR|1990}} [[Club Olimpia|Olimpia]]
+ |'''2'''||2||1||0||1||2||4||−2||50%
+ |-
+ !10
+ |align=left|{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+ |'''2'''||2||1||0||1||2||4||−2||50%
+ |-
+ !11
+ |align=left|{{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+ |'''2'''||2||1||0||1||1||4||−3||50%
+ |-
+ !12
+ |align=left|{{bandera|URU}} [[Club Nacional de Football|Nacional]]
+ |'''1'''||2||0||1||1||2||3||−1||25%
+ |-
+ !13
+ |align=left|{{bandera|ARG}} [[Racing Club]]
+ |'''1'''||2||0||1||1||2||3||−1||25%
+ |-
+ !14
+ |align=left|{{bandera|COL}} [[Atlético Nacional]]
+ |'''1'''||2||0||1||1||1||3||−2||25%
+ |-
+ !15
+ |align=left|{{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+ |'''1'''||2||0||1||1||0||2||−2||25%
+ |-
+ !16
+ |align=left|{{bandera|ARG}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+ |'''1'''||2||0||1||1||2||5||−3||25%
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=#D0E7FF
+| {{bandera|ARG}} '''[[Sebastián Rambert]]'''
+| {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]'''
+| align=center| '''5'''
+|-
+| {{bandera|COL}} [[Albeiro Usuriaga]]
+| {{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align=center| 4
+|-
+| {{bandera|ARG}} [[Luis Alberto Carranza]]
+| {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| align=center| 3
+|-
+| {{bandera|BRA}} [[Edenilson Vicente Franco|Edenilson]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center| 3
+|-
+| {{bandera|BRA}} [[Toninho Dos Santos]]
+| {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| align=center| 3
+|-
+| {{bandera|BRA}} [[Aílton Delfino|Aílton]]
+| {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align=center| 2
+|-
+| {{bandera|ARG}} [[Gabriel Amato]]
+| {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align=center| 2
+|-
+| {{bandera|BRA}} [[Caio Ribeiro Decoussau|Caio]]
+| {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align=center| 2
+|-
+| {{bandera|URU}} [[Osvaldo Canobbio]]
+| {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| align=center| 2
+|-
+| {{bandera|BRA}} [[Euller Elias de Carvalho|Euller]]
+| {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align=center| 2
+|-
+| {{bandera|BRA}} [[Fábio Ribeiro|Fabinho]]
+| {{bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| align=center| 2
+|-
+| {{bandera|URU}} [[Enzo Francescoli]]
+| {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align=center| 2
+|-
+| {{bandera|BRA}} [[Raimundo Nonato da Silva|Nonato]]
+| {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center| 2
+|-
+| {{bandera|BRA}} [[Jorge Ferreira da Silva|Palhinha]]
+| {{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align=center| 2
+|-
+| {{bandera|CHI}} [[Jaime Pizarro]]
+| {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| align=center| 2
+|}
+
+== Véase también ==
+* [[Copa Libertadores 1994]]
+* [[Copa Conmebol 1994]]
+* [[Recopa Sudamericana 1995]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/supcopa94.html Supercopa Sudamericana 1994] y [http://www.rsssf.com/sacups/supcopa94full.html Detalles] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Supercopa Sudamericana 1993|1993]]
+| título     = Supercopa Sudamericana 1994
+| período    = VII edición
+| sucesor    = [[Supercopa Sudamericana 1995|1995]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Temporadas de la Supercopa Sudamericana|1994]]
+[[Categoría:Fútbol en 1994]]

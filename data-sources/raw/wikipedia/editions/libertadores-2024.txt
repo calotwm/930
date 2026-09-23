@@ -1,0 +1,2954 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px|link=|América del Sur]] [[América del Sur]]
+| tipo = 
+| imagen = Torcedores do Botafogo no Monumental de Núñez.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Monumental (River Plate)|estadio Monumental]] ([[Buenos Aires]]) fue sede de la [[Anexo:Final de la Copa Libertadores 2024|final]]
+| ciudad = {{nowrap|{{bandera|ARG}} [[Buenos Aires]], [[Argentina]] ([[Anexo:Final de la Copa Libertadores 2024|final]])}}
+| participantes = 47
+| partidos = 155
+| goles = 370 <small>({{#expr:370/155 round 2}} por partido)</small>
+| fecha de inicio = 6 de febrero
+| fecha de cierre = 30 de noviembre
+| edición = LXV
+| campeón = {{Bandera|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]''' <small>({{Ord|1.|er}} título)</small>
+| subcampeón = {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| semifinalistas = {{bandera|ARG}} [[Club Atlético River Plate|River Plate]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| goleador = {{Bandera|BRA}} [[Júnior Santos]] (10 goles)<br />{{small|([[Botafogo de Futebol e Regatas|Botafogo]])}}
+| mejor_jugador = {{Bandera|BRA}} [[Luiz Henrique André Rosa da Silva|Luiz Henrique]]<br />{{small|([[Botafogo de Futebol e Regatas|Botafogo]])}}
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| televisión = {{Lista desplegable|[[Archivo:Latin America (orthographic projection).svg|20px]] '''[[América Latina|Latinoamérica]]:'''<br> [[ESPN (Latinoamérica)|ESPN]] (excepto Argentina)<ref name="ESPNCL">{{Cita web|url=https://espnpressroom.com/latinamerica/press-releases/2022/06/la-conmebol-otorgo-los-derechos-de-la-libertadores-a-the-walt-disney-company-latin-america-hasta-el-2026/|título=LA CONMEBOL OTORGÓ LOS DERECHOS DE LA LIBERTADORES A THE WALT DISNEY COMPANY LATIN AMERICA HASTA EL 2026|fechaacceso=2022-12-29|fecha=2022-06-03|sitioweb=ESPN Press Room Latin America South|idioma=es}}</ref><br>[[Star+]]/[[Disney+]]<ref name="ESPNCL" /><br>[[Pluto TV]] (excepto Brasil)<br>'''{{Chile}}:'''<br>[[Chilevisión]]<ref>{{Cita web|url=https://www.chilevision.cl/chv-deportes/futbol-internacional/vuelve-la-libertadores-a-la-tv-abierta-chilevision-y-pluto-tv|título=¡Vuelve la Libertadores a la TV abierta! Chilevisión y Pluto TV transmitirán gratis el torneo de clubes más importante de Sudamérica|fecha=2022-06-15|fechaacceso=2022-12-29|sitioweb=chilevision.cl}}</ref><br> '''{{Argentina}}:'''<br>[[Fox Sports (Argentina)|Fox Sports]]<br>[[Telefe]]<ref>{{cita web|url=https://mitelefe.com/actualidad/deportes/la-copa-libertadores-vuelve-a-la-television-abierta-a-traves-de-telefe/|título=La Copa Libertadores vuelve a la televisión abierta a través de Telefe|fechaacceso=28 de diciembre de 2022}}</ref><br>'''{{Brasil}}:'''<br>[[ESPN (Brasil)|ESPN]]/[[Star+]]/[[Disney+]]<ref>{{Cita web|url=https://espnpressroom.com/brazil/press-releases/2022/06/a-conmebol-concedeu-os-direitos-da-libertadores-e-da-copa-sul-americana-a-the-walt-disney-company-latin-america-no-brasil-ate-2026/|título=A Conmebol concedeu os direitos da Libertadores e da Copa Sul-Americana à The Walt Disney Company Latin America no Brasil até 2026|fechaacceso=2022-12-29|apellido=Francischini|nombre=Guto|fecha=2022-06-03|sitioweb=ESPN MediaZone Brasil|idioma=pt-BR}}</ref><br>[[TV Globo]]<ref>{{Cita web|url=https://ge.globo.com/negocios-do-esporte/noticia/2022/05/12/globo-vai-transmitir-jogos-da-libertadores-de-2023-a-2026.ghtml|título=Globo vai transmitir jogos da Libertadores de 2023 a 2026|fechaacceso=2022-12-29|fecha=2022-05-12|sitioweb=ge.globo.com|idioma=pt-BR}}</ref><br>[[Paramount+]]<ref>{{Cite tweet|author=Paramount+ Brasil|autor-link=Paramount+ Brasil|usuario=paramountplusbr|number=1587051998930681856|date=31 de octubre de 2022|title=Nem deu tempo de sentir saudade e a Libertadores, competição pela taça mais cobiçada do continente, está chegando no #ParamountPlus em 2023|url=https://twitter.com/paramountplusbr/status/1587051998930681856}}</ref><br>'''{{Estados Unidos}} y {{Canadá}}:'''<br>[[Bein Sports (Estados Unidos)|Bein Sports]]/[[Bein Sports Ñ]]<ref>{{Cita web|url=https://www.beinsports.com/us/copa-libertadores/news/bein-sports-renews-exclusive-rights-for-conme/2010270|título=beIN SPORTS Renews Exclusive Rights for CONMEBOL Libertadores, CONMEBOL Sudamericana and CONMEBOL Recopa|fechaacceso=2022-12-28|sitioweb=beIN SPORTS USA|idioma=en-us}}</ref>}}
+| anterior = [[Copa Libertadores 2023]]
+| actual = Copa Libertadores 2024
+| siguiente = [[Copa Libertadores 2025]]
+| página web = https://conmebollibertadores.com/
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 2024''', denominada oficialmente '''Copa Conmebol Libertadores 2024''', fue la sexagésima quinta edición del torneo de clubes más importante de América del Sur, organizado por la [[Confederación Sudamericana de Fútbol|Conmebol]]. Participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+La final se jugó el sábado 30 de noviembre, en el [[Estadio Monumental (River Plate)|Estadio Monumental]] de [[Buenos Aires]], [[Argentina]].
+
+[[Botafogo de Futebol e Regatas|Botafogo]] de [[Brasil]] se coronó campeón de esta edición tras derrotar 3-1 en la final a su compatriota [[Atlético Mineiro]], obteniendo así su primer título en la competición. Por ello, jugó [[Copa Mundial de Clubes de la FIFA 2025]], la [[Copa Intercontinental de la FIFA 2024]], la [[Recopa Sudamericana 2025]] contra [[Racing Club de Avellaneda|Racing Club]], campeón de la [[Copa Sudamericana 2024]], y se clasificó a la fase de grupos de la [[Copa Libertadores 2025]].
+
+Esta edición fue marcada por el fallecimiento de [[Juan Izquierdo Viana|Juan Izquierdo]], un futbolista del [[Club Nacional de Football|Nacional]] de [[Uruguay]] que colapsó durante el partido de vuelta de octavos de final contra [[São Paulo Futebol Clube|São Paulo]] de [[Brasil]] a causa de una arritmia que desencadenó un paro cardíaco.<ref>{{Cita web|url=https://elintransigente.com/2024/08/irreversible-conmocion-en-el-futbol-y-la-copa-libertadores-por-el-estado-de-salud-de-juan-izquierdo/|título="Irreversible": conmoción en el fútbol y la Copa Libertadores por el estado de salud de Juan Izquierdo|fechaacceso=2024-12-01|apellido=Quercia|nombre=Nicolás|fecha=2024-08-27|sitioweb=El Intransigente|idioma=es}}</ref> Falleció el 27 de agosto de 2024, cinco días después del incidente en el Hospital Israelita Albert Einstein.<ref>{{Cita web|url=https://www.ole.com.ar/futbol-internacional/juan-izquierdo-muerte-fallecimiento-uruguay-nacional_0_MlpIwSdfmv.html|título=Tristeza infinita: murió Juan Izquierdo|fechaacceso=2024-12-01|apellido=Olé|nombre=Diario Deportivo|fecha=2024-08-27|sitioweb=Olé|idioma=es-AR}}</ref>
+
+== Formato ==
+La competencia cuenta con tres fases clasificatorias de [[eliminación directa]], en las que participan diecinueve equipos, de los cuales cuatro lograrán la clasificación para la fase de grupos donde se sumarán a los veintiocho ya clasificados.
+
+Los dos primeros de cada zona de la fase de grupos accederán a las cuatro fases finales (octavos y cuartos de final, semifinales y final), también de eliminación directa, hasta determinar al campeón. Además, 12 equipos serán transferidos a la [[Copa Sudamericana 2024]] (los 4 perdedores de la fase 3 pasan a la fase de grupos de ese torneo, y los terceros de la fase de grupos lo harán en el repechaje para los octavos de final contra los segundos de la fase de grupos de esa misma competición).
+
+{| class="wikitable"
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase 1
+(6 equipos)
+|
+* 1 equipo de Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fase 2
+(16 equipos)
+|
+* 2 equipos de Brasil, Chile y Colombia.
+* 1 equipo de Argentina, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+* 3 ganadores de la fase 1
+|-
+! colspan="2" |Fase 3
+(8 equipos)
+|
+|
+* 8 ganadores de la fase 2
+|-
+! colspan="2" |Fase de grupos
+(32 equipos)
+|
+* 5 equipos de Brasil y Argentina
+* 2 equipos de Chile, Colombia, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+* El campeón de la Copa Libertadores 2023
+* El campeón de la Copa Sudamericana 2023
+|
+* 4 ganadores de la fase 3
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+|
+* 8 equipos primeros de la fase de grupos
+* 8 equipos segundos de la fase de grupos
+|}
+
+=== Distribución ===
+{| class="wikitable"
+!Asociación 
+!Cupos
+!Fase de grupos
+!Fase 3
+!Fase 2
+!Fase 1
+|- align=center
+| align="left" |{{Bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''7'''
+|5
+| rowspan="12" |
+|2
+| rowspan="4" |
+|- align=center
+| align="left" |{{Bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+|5
+|1
+|- align=center
+| align="left" |{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+|2
+|2
+|- align=center
+| align="left" |{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+|2
+|2
+|- align=center
+| align="left" |{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Ecuador}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Paraguay}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+|2
+|1
+|1
+|- align=center
+| align="left" |Campeón de la [[Copa Libertadores 2023]]
+|'''1'''
+|1
+| rowspan="2" |
+| rowspan="3" |
+|- align=center
+| align="left" |Campeón de la [[Copa Sudamericana 2023]]
+|'''1'''
+|1
+|- align=center
+| align="left" |Fase anterior
+| –
+|4
+|8
+|3
+|-
+!Total
+!47
+!32
+!8
+!16
+!6
+|}
+
+=== Calendario ===
+El calendario de partidos fue anunciado el 30 de noviembre de 2023.<ref>{{cita web|título=Calendario de la CONMEBOL Libertadores y CONMEBOL Sudamericana 2024|url=https://www.conmebol.com/noticias/las-fechas-para-tener-en-cuenta-en-los-torneos-de-clubes/|obra=Conmebol|fechaacceso=30 de noviembre de 2023}}</ref>
+{| class="wikitable" style="text-align:center"
+!Fase
+!Ronda
+!Fecha de sorteo
+!Ida
+!Vuelta
+|-
+|rowspan="3"|Preliminar 
+|Fase 1
+|rowspan="3"|19 de diciembre de 2023
+|6–8 de febrero
+|13–15 de febrero
+|-
+|Fase 2
+|20–22 de febrero
+|27–29 de febrero
+|-
+|Fase 3
+|5–7 de marzo
+|12–14 de marzo
+|-
+| rowspan="6" |Grupos
+|Fecha 1
+| rowspan="6" |18 de marzo
+| colspan="2" |2–4 de abril
+|-
+|Fecha 2
+| colspan="2" |9–11 de abril
+|-
+|Fecha 3
+| colspan="2" |23–25 de abril
+|-
+|Fecha 4
+| colspan="2" |7–9 de mayo
+|-
+|Fecha 5
+| colspan="2" |14–16 de mayo
+|-
+|Fecha 6
+| colspan="2" |28–30 de mayo
+|-
+| rowspan="4" |Eliminatoria
+|Octavos de final
+| rowspan="4" |3 de junio
+|13–15 de agosto
+|20–22 de agosto
+|-
+|Cuartos de final
+|17–19 de septiembre
+|24–26 de septiembre
+|-
+|Semifinales
+|22–24 de octubre
+|29–31 de octubre
+|-
+|Final
+| colspan="2" |30 de noviembre
+|}
+
+== Sede de la final ==
+{{AP|Anexo:Final de la Copa Libertadores 2024|l1=Final de la Copa Libertadores 2024}}
+{{AP|Anexo:Sedes de finales únicas de competiciones de Conmebol#Sedes de las finales de 2024|l1=Sedes de finales únicas de competiciones de Conmebol}}El 13 de febrero, la [[Asociación del Fútbol Argentino]] anunció mediante un comunicado oficial<ref>{{Cita web|url=https://www.afa.com.ar/es/posts/buenos-aires-sera-la-sede-de-la-final-de-la-conmebol-libertadores-2024|título=Buenos Aires será la sede de la final de la CONMEBOL Libertadores 2024|fechaacceso=2024-08-24|autor=AFA|fecha=13 de febrero de 2024}}</ref>que, tras la aprobación del Consejo de la Conmebol, la Dirección de Competiciones y Operaciones confirmaba a la [[Buenos Aires|Ciudad de Buenos Aires]] como sede de la final de la Copa Libertadores 2024.<ref>{{Cita web|url=https://www.conmebol.com/noticias/visita-tecnica-en-buenos-aires-final-conmebol-libertadores/|título=Visita técnica en Buenos Aires - Final CONMEBOL Libertadores|fechaacceso=2024-08-24|fecha=2024-05-30|sitioweb=CONMEBOL|idioma=es-ES}}</ref> El 4 de octubre, se confirmó al [[Estadio Monumental (River Plate)|estadio Monumental]] del [[Club Atlético River Plate]] como el recinto que albergará el encuentro decisivo.<ref>{{Cita web|url=https://www.conmebol.com/noticias/la-final-de-la-conmebol-libertadores-2024-se-disputara-en-el-estadio-monumental/|título=La Final de la CONMEBOL Libertadores 2024 se disputará en el Estadio Monumental|fechaacceso=mismo día|fecha=2024-10-04|sitioweb=CONMEBOL|idioma=es-ES}}</ref>
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+| colspan="2" | {{Bandera|Argentina}} [[Argentina]]
+|-
+!Ciudad
+!Estadio
+|-
+|{{Escudo|Buenos Aires}} [[Buenos Aires]]
+|[[Estadio Monumental (River Plate)|Mâs Monumental]]
+|-
+|[[Archivo:Montaje_de_la_Ciudad_de_Buenos_Aires.png|215x215px]]
+|[[Archivo:Estadio_mas_monumental.jpg|382x382px]]
+|-
+| colspan="2" | 84{{Esd}}567 espectadores
+|-
+| colspan="2" | <small>'''Final Copa Libertadores 2024'''</small>
+|}
+</center>
+
+== Participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Libertadores 2024|l1=Participantes de la Copa Libertadores 2024}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="59%" |Vía de clasificación
+|- bgcolor="#f5faff"
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>6 cupos</small>
+|[[Club Atlético River Plate|River Plate]]<br />[[Club Atlético Rosario Central|Rosario Central]]<br />[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br />[[Club Atlético Talleres (Córdoba)|Talleres (C)]]<br />[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br />[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|Campeón de la [[Campeonato de Primera División 2023 (Argentina)|Liga Profesional 2023]]<br />Campeón de la [[Copa de la Liga Profesional 2023]]<br />Campeón de la [[Copa Argentina 2023]]<br />{{ord|1.|er}} ubicado en la [[Copa de la Liga Profesional 2023#Tabla general de la temporada 2023|tabla general de la temporada 2023]]<br />2.º ubicado en la tabla general de la temporada 2023<br />{{ord|3.|er}} ubicado en la tabla general de la temporada 2023 
+|- bgcolor="#ddeeff"
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br /><small>4 cupos</small>
+|[[Club The Strongest|The Strongest]]<br />[[Club Bolívar|Bolívar]]<br />[[Club Always Ready|Always Ready]]<br />[[Club Deportivo Aurora|Aurora]]
+|Campeón de la [[Primera División de Bolivia 2023]]<br />{{Ord|1.|er}} ubicado de la tabla acumulada de la Primera División de Bolivia 2023<br />2.º ubicado de la tabla acumulada de la Primera División de Bolivia 2023<br />{{Ord|3.|er}} ubicado de la tabla acumulada de la Primera División de Bolivia 2023
+|- bgcolor="#f5faff"
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>7 cupos + campeón vigente de la Copa Libertadores</small>
+|[[Fluminense Football Club|Fluminense]]<br />[[São Paulo Futebol Clube|São Paulo]]<br />[[Sociedade Esportiva Palmeiras|Palmeiras]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[Clube Atlético Mineiro|Atlético Mineiro]]<br />[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Botafogo de Futebol e Regatas|Botafogo]]<br />[[Red Bull Bragantino|Bragantino]]
+|Campeón de la [[Copa Libertadores 2023]]<br />Campeón de la [[Copa de Brasil 2023]]<br />Campeón del [[Campeonato Brasileño de Fútbol Serie A 2023|Campeonato Brasileño Serie A 2023]]<br />Subcampeón del Campeonato Brasileño Serie A 2023<br />{{Ord|3.|er}} puesto del Campeonato Brasileño Serie A 2023<br />4.º puesto del Campeonato Brasileño Serie A 2023<br />5.º puesto del Campeonato Brasileño Serie A 2023<br />6.º puesto del Campeonato Brasileño Serie A 2023
+|- bgcolor="#ddeeff"
+|'''{{Bandera|CHI}} [[Federacion de Futbol de Chile|Chile]]'''<br /><small>4 cupos</small>
+|[[Club Deportivo Huachipato|Huachipato]]<br />[[Club de Deportes Cobresal|Cobresal]]<br />[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br />[[Club Deportivo Palestino|Palestino]]
+|Campeón de la [[Primera División de Chile 2023]]<br />Subcampeón de la Primera División de Chile 2023<br />{{Ord|3.|er}} puesto de la Primera División de Chile 2023<br />4.º puesto de la Primera División de Chile 2023
+|- bgcolor="#f5faff"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''<br /><small>4 cupos</small>
+|[[Millonarios Fútbol Club|Millonarios]]<br />[[Junior de Barranquilla|Junior]]<br />[[Águilas Doradas]]<br />[[Atlético Nacional]]
+|Campeón del [[Torneo Apertura 2023 (Colombia)|Torneo Apertura 2023]]<br />Campeón del [[Torneo Finalización 2023 (Colombia)|Torneo Finalización 2023]]<br />{{Ord|1.|er}} ubicado de la [[Temporada 2023 del fútbol colombiano#Tabla de reclasificación|tabla de reclasificación de la Categoría Primera A 2023]]<br />Campeón de la [[Copa Colombia 2023]]
+|- bgcolor="#ddeeff"
+|{{Bandera|ECU}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br /><small>4 cupos + campeón vigente de la Copa Sudamericana</small>
+|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br />[[Independiente del Valle]]<br />[[Barcelona Sporting Club|Barcelona]]<br />[[Club Deportivo El Nacional|El Nacional]]<br />[[Sociedad Deportiva Aucas|Aucas]]
+|Campeón de la [[Copa Sudamericana 2023]]<br />Subcampeón de la [[Serie A de Ecuador 2023]]<br />{{ord|1.|er}} ubicado de la tabla acumulada de la Serie A de Ecuador 2023<br />2.º ubicado de la tabla acumulada de la Serie A de Ecuador 2023<br />{{ord|3.|er}} ubicado de la tabla acumulada de la Serie A de Ecuador 2023
+|- bgcolor="#f5faff"
+|{{Bandera|PAR}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>4 cupos</small>
+|[[Club Libertad|Libertad]]<br />[[Club Cerro Porteño|Cerro Porteño]]<br />[[Club Sportivo Trinidense|Sportivo Trinidense]]<br />[[Club Nacional (Paraguay)|Nacional]]
+|Campeón del [[Torneo Apertura 2023 (Paraguay)|Torneo Apertura 2023]] y [[Torneo Clausura 2023 (Paraguay)|Torneo Clausura 2023]]<br />2.º puesto de la tabla acumulada de la [[Torneo Clausura 2023 (Paraguay)#Clasificación para copas internacionales|Primera División de Paraguay 2023]]<br />{{Ord|3.|er}} puesto de la tabla acumulada de la Primera División de Paraguay 2023<br />{{Ord|3.|er}} puesto de la [[Copa Paraguay 2023]]
+|- bgcolor="#ddeeff"
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br /><small>4 cupos</small>
+|[[Club Universitario de Deportes|Universitario]]<br />[[Club Alianza Lima|Alianza Lima]]<br />[[Club Sporting Cristal|Sporting Cristal]]<br />[[Foot Ball Club Melgar|Melgar]]
+|Campeón de la [[Liga 1 2023 (Perú)|Liga1 de Perú 2023]]<br />Subcampeón de la Liga1 de Perú 2023<br />{{ord|3.|er}} puesto de la tabla acumulada de la Liga1 de Perú 2023<br />4.º puesto de la tabla acumulada de la Liga1 de Perú 2023
+|- bgcolor="#f5faff"
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>4 cupos</small>
+|[[Liverpool Fútbol Club|Liverpool]]<br />[[Club Atlético Peñarol|Peñarol]]<br />[[Club Nacional de Football|Nacional]]<br />[[Defensor Sporting Club|Defensor Sporting]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2023]]<br />Subcampeón del Campeonato Uruguayo de Primera División 2023<br />{{ord|1.|er}} ubicado en la tabla anual no finalista del Campeonato Uruguayo de Primera División 2023<br />2.º ubicado en la tabla anual no finalista del Campeonato Uruguayo de Primera División 2023
+|- bgcolor="#ddeeff"
+|{{Bandera|VEN}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br /><small>4 cupos</small>
+|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]<br />[[Caracas Fútbol Club|Caracas]]<br />[[Portuguesa Fútbol Club|Portuguesa]]<br />[[Academia Puerto Cabello Club de Fútbol|Puerto Cabello]]
+|Campeón de la [[Primera División de Venezuela 2023]]<br />Subcampeón de la Primera División de Venezuela 2023<br />{{Ord|3.|er}} puesto de la Primera División de Venezuela 2023<br />4.º puesto de la Primera División de Venezuela 2023 
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Libertadores 2024'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.9333|long=-57.95|label=<small>{{Esd|[[Club Estudiantes de La Plata|Estudiantes (LP)]]}}</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-32.8833|long=-68.83|label=<small>[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-31.416|long=-64.183|label=<small>[[Club Atlético Talleres (Córdoba)|Talleres]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-32.95|long=-60.65|label=<small>[[Club Atlético Rosario Central|{{Esd|Rosario Central}}]]<br></small>|position=right}}
+{{Location map~|América del Sur|lat=-34.6083|long=-58.3719|label=<small>'''Buenos Aires'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-40.5|long=-61|label=<small>'''{{Esd|Equipos de<br>Buenos Aires:}}'''<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Aurora|Aurora]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-16.499507|long=-68.122798|label=<small>'''La Paz'''</small>|position=top}}
+{{Location map~|América del Sur|lat=-7.54|long=-67|label=<small>'''{{esd|Equipos de<br>La Paz:}}'''<br>[[Club Always Ready|{{Esd|Always Ready}}]]<br>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-30.0327|long=-51.2|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.9|long=-43.9|label=<small>{{Esd|[[Clube Atlético Mineiro|Atlético Mineiro]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.952|long=-46.542|label=<small>[[Red Bull Bragantino|Bragantino]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.5503944|long=-46.63394722|label=<small>'''{{Esd|San Pablo}}'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-27.4|long=-44|label=<small>'''{{Esd|Equipos de<br>San Pablo:}}'''<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]<br>[[São Paulo Futebol Clube|São Paulo]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-22.90833|long=-43.196|label=<small>'''{{Esd|Río de Janeiro}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-15|long=-43|label=<small>'''{{Esd|Equipos de<br>Río de Janeiro:}}'''<br>[[Botafogo de Futebol e Regatas|Botafogo]]<br>[[Clube de Regatas do Flamengo|Flamengo]]<br>[[Fluminense Football Club|Fluminense]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-26.2463|long=-69.6259|label=<small>[[Club de Deportes Cobresal|Cobresal]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.66|label=<small>'''Santiago'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-26.5|long=-86|label=<small>'''{{Esd|Equipos de<br>Santiago:}}'''<br>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Club Deportivo Palestino|Palestino]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-36.7166|long=-73.1166|label=<small>[[Club Deportivo Huachipato|Huachipato]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.153333|long=-75.374167|label=<small>{{Esd|[[Águilas Doradas]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>{{Esd|[[Atlético Nacional]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=11.0041|long=-74.8070|label=<small>[[Junior de Barranquilla|Junior]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.60971|long=-74.08175|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.19|long=-79.8875|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-0.107694|long=-78.489083|label=<small>'''{{Esd|Quito}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-0.01|long=-88|label=<small>'''{{esd|Equipos de<br>Quito:}}'''<br>[[Sociedad Deportiva Aucas|Aucas]]<br>[[Club Deportivo El Nacional|El Nacional]]<br>{{Esd|[[Independiente del Valle]]}}<br>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-22|long=-68|label=<small>'''{{esd|Equipos de<br> Asunción:}}'''<br>[[Club Cerro Porteño|{{esd|Cerro Porteño}}]]<br>[[Club Libertad|Libertad]]<br>[[Club Nacional (Paraguay)|Nacional]]<br>[[Club Sportivo Trinidense|{{esd|Sportivo Trinidense}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.06|long=-77.0375|label=<small>'''Lima'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.99|long=-88|label=<small>'''{{esd|Equipos de<br>Lima:}}'''<br>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br>[[Club Sporting Cristal|Sporting Cristal]]<br>[[Club Universitario de Deportes|Universitario]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-16.398764|long=-71.536883|label=<small>[[Foot Ball Club Melgar|Melgar]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866|long=-56.16|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-37.4|long=-45.7|label=<small>'''{{esd|Equipos de<br>Montevideo:}}'''<br>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]<br>[[Liverpool Fútbol Club|Liverpool]]<br>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|mark=TransparentPlaceholder.png}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.4667|long=-68.0167|label=<small>[[Academia Puerto Cabello Club de Fútbol|Pto. Cabello]]</small>|position=top}}
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Caracas Fútbol Club|Caracas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.786389|long=-72.197778|label=<small>[[Deportivo Táchira Fútbol Club|{{Esd|Deportivo Táchira}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=9.559722|long=-69.216667|label=<small>[[Portuguesa Fútbol Club|Portuguesa]]</small>|position=left}}
+}}
+
+== Sorteo ==
+=== Fase preliminar ===
+El sorteo de la Fase preliminar se realizó el 19 de diciembre de 2023, a las 12:00 ([[UTC-03:00|UTC-3]]), en la sede de la [[Conmebol]], ubicada en la ciudad de [[Luque (Paraguay)|Luque]], [[Paraguay]]. Ese mismo día, se sortearon los cruces de la primera fase de la [[Copa Sudamericana 2024]]. No se podían emparejar equipos de un mismo país, excepto si ese equipo venía de las fases anteriores.<ref>{{cita web|título=Pautas de sorteo para la CONMEBOL Libertadores y Sudamericana 2024|url=https://www.conmebol.com/noticias/pautas-de-sorteo-para-la-conmebol-libertadores-y-sudamericana-2024/|obra=Conmebol|fechaacceso=13 de diciembre de 2023}}</ref><ref name=Ranking>{{cita web|título=Ranking de Clubes CONMEBOL 2024|url=https://www.conmebol.com/noticias/ranking-de-clubes-conmebol-2024/|obra=Conmebol|fechaacceso=18 de diciembre de 2023}}</ref>
+
+==== Fase 1 ====
+{| cellpadding="2" width="55%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+!style=min-width:18em|Bombo 1
+!style=min-width:18em|Bombo 2
+|-
+|
+* {{Bandera|PER}} [[Foot Ball Club Melgar|Melgar]] (44)
+* {{Bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]] (66)
+* {{Bandera|PAR}} [[Club Nacional (Paraguay)|Nacional]] (84)
+|
+* {{Bandera|ECU}} [[Sociedad Deportiva Aucas|Aucas]] (88)
+* {{Bandera|VEN}} [[Academia Puerto Cabello Club de Fútbol|Puerto Cabello]] (162)
+* {{Bandera|BOL}} [[Club Deportivo Aurora|Aurora]] (243)
+|}
+
+==== Fase 2 ====
+{| cellpadding="2" width="55%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+!style=min-width:18em|Bombo 1
+!style=min-width:18em|Bombo 2
+|-
+|
+* {{Bandera|URU}} [[Club Nacional de Football|Nacional]] (5)
+* {{Bandera|COL}} [[Atlético Nacional]] (21)
+* {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] (26)
+* {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]] (34)
+* {{Bandera|BRA}} [[Red Bull Bragantino|Bragantino]] (41)
+* {{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] (49)
+* {{Bandera|CHI}} [[Club Deportivo Palestino|Palestino]] (62)
+* {{Bandera|ECU}} [[Club Deportivo El Nacional|El Nacional]] (68)
+|
+* {{Bandera|ARG}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]] (72)
+* {{Bandera|BOL}} [[Club Always Ready|Always Ready]] (74)
+* {{Bandera|VEN}} [[Portuguesa Fútbol Club|Portuguesa]] (119)
+* {{Bandera|COL}} [[Águilas Doradas]] (187)
+* {{Bandera|PAR}} [[Club Sportivo Trinidense|Sportivo Trinidense]] (–)
+* {{Bandera|}} ''Ganador E1''
+* {{Bandera|}} ''Ganador E2''
+* {{Bandera|}} ''Ganador E3''
+|}
+
+=== Fase de grupos ===
+El sorteo de la fase de grupos se realizó el lunes 18 de marzo de 2024, junto con el sorteo de la fase de grupos de la [[Copa Sudamericana 2024]].
+
+Los bombos fueron distribuidos según el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 18 de diciembre de 2023]].<ref name=Ranking/> Dos equipos de un mismo país no podían compartir el mismo grupo, a excepción de que uno de ellos provenía de la fase preliminar. Además, es la primera vez en la historia de la [[Copa Libertadores de América]] que [[Chile]] tiene a sus 4 equipos clasificados en la fase de grupos del certamen, luego de que [[Club Social y Deportivo Colo-Colo|Colo-Colo]] y [[Club Deportivo Palestino|Palestino]] superaran la fase previa.<ref>{{cita web|url=https://www.cnnchile.com/deportes/cuatro-equipos-chilenos-clasificados-fase-grupos-copa-libertadores_20240314/|título=Por primera vez en la historia de la Copa Libertadores cuatro equipos chilenos alcanzan la fase de grupos|obra=CNN Chile|fechaacceso=14 de marzo de 2024}}</ref><ref>{{cita web|url=https://redgol.cl/chile/chile-es-el-pais-con-mas-equipos-en-copa-libertadores-2024-tras-brasil-y-argentina|título=Chile es el país con más equipos en Copa Libertadores 2024 tras Brasil y Argentina|obra=Redgol|fechaacceso=15 de marzo de 2024}}</ref>
+{| cellpadding="2" width="85%" border="1" align="center" style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+!style=min-width:18em|Bombo 1
+!style=min-width:18em|Bombo 2
+!style=min-width:18em|Bombo 3
+!style=min-width:18em|Bombo 4
+|-
+|
+* {{Bandera|BRA}} [[Fluminense Football Club|Fluminense]] (12){{Refn|Campeón de la [[Copa Libertadores 2023]], asignado automáticamente al Bombo 1 y al Grupo A.|group=n.}}
+* {{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (1)
+* {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]] (2)
+* {{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (4)
+* {{Bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (7)
+* {{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]] (8)
+* {{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]] (9)
+* {{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]] (13)
+|
+* {{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]] (14)
+* {{Bandera|ECU}} [[Independiente del Valle]] (16)
+* {{Bandera|PAR}} [[Club Libertad|Libertad]] (17)
+* {{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]] (19)
+* {{Bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]] (23)
+* {{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]] (24)
+* {{Bandera|BOL}} [[Club Bolívar|Bolívar]] (27)
+* {{Bandera|COL}} [[Junior de Barranquilla|Junior]] (31)
+|
+* {{Bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]] (32)
+* {{Bandera|BOL}} [[Club The Strongest|The Strongest]] (38)
+* {{Bandera|PER}} [[Club Universitario de Deportes|Universitario]] (42)
+* {{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]] (47)
+* {{Bandera|ARG}} [[Club Atlético Rosario Central|Rosario Central]] (50)
+* {{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]] (52)
+* {{Bandera|COL}} [[Millonarios Fútbol Club|Millonarios]] (54)
+* {{Bandera|ARG}} [[Club Atlético Talleres (Córdoba)|Talleres (C)]] (58)
+|
+* {{Bandera|VEN}} [[Caracas Fútbol Club|Caracas]] (59)
+* {{Bandera|URU}} [[Liverpool Fútbol Club|Liverpool]] (103)
+* {{Bandera|CHI}} [[Club Deportivo Huachipato|Huachipato]] (105)
+* {{Bandera|CHI}} [[Club de Deportes Cobresal|Cobresal]] (154)
+* {{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]] {{abreviación|(49)|Ganador G1 de la Fase 3.}}
+* {{Bandera|CHI}} [[Club Deportivo Palestino|Palestino]] {{abreviación|(62)|Ganador G2 de la Fase 3.}}
+* {{Bandera|URU}} [[Club Nacional de Football|Nacional]] {{abreviación|(5)|Ganador G3 de la Fase 3.}}
+* {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] {{abreviación|(26)|Ganador G4 de la Fase 3.}}
+|}
+
+== Fase preliminar ==
+
+=== Cuadros de desarrollo ===
+{{small|'''Nota''': En cada cruce, el equipo que ocupa la primera línea es el que definió la serie como local.}}
+
+==== Llave 1 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds = 
+
+| RD1= [[Anexo:Fase 1 de la Copa Libertadores 2024|Fase 1]]
+| RD1-date= 7 y 14 de febrero
+
+| RD1-seed7= 
+| RD1-team7= {{Bandera|PER}} Melgar
+| RD1-score7-1= 0
+| RD1-score7-2= 1
+| RD1-score7-3= '''1'''
+
+| RD1-seed8= 
+| RD1-team8= {{Bandera|BOL}} '''Aurora'''
+| RD1-score8-1= 1
+| RD1-score8-2= 1
+| RD1-score8-3= '''2'''
+
+| RD2= [[Anexo:Fase 2 de la Copa Libertadores 2024|Fase 2]]
+| RD2-date= 20 al 28 de febrero
+
+| RD2-seed1= 
+| RD2-team1= {{Bandera|BRA}} '''Bragantino'''
+| RD2-score1-1= 0
+| RD2-score1-2= 0
+| RD2-score1-3= '''0&nbsp;{{small|(4)}}'''
+
+| RD2-seed2= 
+| RD2-team2= {{Bandera|COL}} Águilas Doradas
+| RD2-score2-1= 0
+| RD2-score2-2= 0
+| RD2-score2-3= '''0&nbsp;{{small|(3)}}'''
+
+| RD2-seed3= 
+| RD2-team3=  {{Bandera|BRA}} '''Botafogo'''
+| RD2-score3-1= 1
+| RD2-score3-2= 6
+| RD2-score3-3= '''7'''
+
+| RD2-seed4= 
+| RD2-team4= {{Bandera|BOL}} Aurora
+| RD2-score4-1= 1
+| RD2-score4-2= 0
+| RD2-score4-3= '''1'''
+
+| RD3= [[Anexo:Fase 3 de la Copa Libertadores 2024|Fase 3]]
+| RD3-date= 6 y 13 de marzo
+
+| RD3-seed1= 
+| RD3-team1= {{Bandera|BRA}} Bragantino
+| RD3-score1-1= 1
+| RD3-score1-2= 1
+| RD3-score1-3= '''2'''
+
+| RD3-seed2= 
+| RD3-team2= {{Bandera|BRA}} '''Botafogo'''
+| RD3-score2-1= 2
+| RD3-score2-2= 1
+| RD3-score2-3= '''3'''
+}}
+
+==== Llave 2 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds =
+
+| RD1= [[Anexo:Fase 1 de la Copa Libertadores 2024|Fase 1]]
+| RD1-date= 8 y 15 de febrero
+
+| RD1-seed7= 
+| RD1-team7= {{Bandera|PAR}} '''Nacional'''
+| RD1-score7-1= 0
+| RD1-score7-2= 3
+| RD1-score7-3= '''3'''
+
+| RD1-seed8= 
+| RD1-team8= {{Bandera|ECU}} Aucas
+| RD1-score8-1= 1
+| RD1-score8-2= 0
+| RD1-score8-3= '''1'''
+
+| RD2= [[Anexo:Fase 2 de la Copa Libertadores 2024|Fase 2]]
+| RD2-date= 20 al 28 de febrero
+
+| RD2-seed1= 
+| RD2-team1= {{Bandera|CHI}} '''Palestino'''
+| RD2-score1-1= 2
+| RD2-score1-2= 2
+| RD2-score1-3='''4'''
+
+| RD2-seed2= 
+| RD2-team2= {{Bandera|VEN}} Portuguesa
+| RD2-score2-1= 1
+| RD2-score2-2= 1
+| RD2-score2-3='''2'''
+
+| RD2-seed3= 
+| RD2-team3= {{Bandera|COL}} Atlético Nacional
+| RD2-score3-1= 0
+| RD2-score3-2= 0
+| RD2-score3-3= '''0'''
+
+| RD2-seed4= 
+| RD2-team4= {{Bandera|PAR}} '''Nacional'''
+| RD2-score4-1= 1
+| RD2-score4-2= 3
+| RD2-score4-3= '''4'''
+
+| RD3= [[Anexo:Fase 3 de la Copa Libertadores 2024|Fase 3]]
+| RD3-date= 6 y 12 de marzo
+
+| RD3-seed1= 
+| RD3-team1= {{Bandera|CHI}} '''Palestino'''
+| RD3-score1-1= 2
+| RD3-score1-2= 1
+| RD3-score1-3= '''3&nbsp;{{small|(3)}}'''
+
+| RD3-seed2= 
+| RD3-team2= {{Bandera|PAR}} Nacional
+| RD3-score2-1= 0
+| RD3-score2-2= 3
+| RD3-score2-3= '''3&nbsp;{{small|(1)}}'''
+}}
+
+==== Llave 3 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds = 
+
+| RD1= [[Anexo:Fase 1 de la Copa Libertadores 2024|Fase 1]]
+| RD1-date= 6 y 13 de febrero	
+
+| RD1-seed3=
+| RD1-team3= {{Bandera|URU}} Defensor Sporting
+| RD1-score3-1= 2
+| RD1-score3-2= 1
+| RD1-score3-3= '''3&nbsp;{{small|(2)}}'''
+
+| RD1-seed4= 
+| RD1-team4= {{Bandera|VEN}} '''Puerto Cabello'''
+| RD1-score4-1= 3
+| RD1-score4-2= 0
+| RD1-score4-3= '''3&nbsp;{{small|(4)}}'''
+
+| RD2= [[Anexo:Fase 2 de la Copa Libertadores 2024|Fase 2]]
+| RD2-date= 20 al 28 de febrero
+
+| RD2-seed1= 
+| RD2-team1= {{Bandera|URU}} '''Nacional'''
+| RD2-score1-1= 2
+| RD2-score1-2= 2
+| RD2-score1-3= '''4'''
+
+| RD2-seed2= 
+| RD2-team2= {{Bandera|VEN}} Puerto Cabello
+| RD2-score2-1= 0
+| RD2-score2-2= 0
+| RD2-score2-3= '''0'''
+
+| RD2-seed3= 
+| RD2-team3= {{Bandera|PER}} Sporting Cristal
+| RD2-score3-1= 1
+| RD2-score3-2= 3
+| RD2-score3-3= '''4'''
+
+| RD2-seed4= 
+| RD2-team4= {{Bandera|BOL}} '''Always Ready'''
+| RD2-score4-1= 6
+| RD2-score4-2= 1
+| RD2-score4-3= '''7'''
+
+| RD3= [[Anexo:Fase 3 de la Copa Libertadores 2024|Fase 3]]
+| RD3-date= 6 y 14 de marzo
+
+| RD3-seed1= 
+| RD3-team1= {{Bandera|URU}} '''Nacional'''
+| RD3-score1-1= 0
+| RD3-score1-2= 2
+| RD3-score1-3= '''2&nbsp;{{small|(5)}}'''
+
+| RD3-seed2= 
+| RD3-team2= {{Bandera|BOL}} Always Ready
+| RD3-score2-1= 1
+| RD3-score2-2= 1
+| RD3-score2-3= '''2&nbsp;{{small|(4)}}'''
+}}
+
+==== Llave 4 ====
+{{Copa
+| seed-width= 20| team-width= 160| score-width= 30
+| seeds =
+
+| RD1= [[Anexo:Fase 2 de la Copa Libertadores 2024|Fase 2]]
+| RD1-date= 22 y 29 de febrero
+
+| RD1-seed1= 
+| RD1-team1= {{Bandera|CHI}} '''Colo-Colo'''
+| RD1-score1-1= 1
+| RD1-score1-2= 0
+| RD1-score1-3= '''1'''
+
+| RD1-seed2= 
+| RD1-team2= {{Bandera|ARG}} Godoy Cruz
+| RD1-score2-1= 0
+| RD1-score2-2= 0
+| RD1-score2-3= '''0'''
+
+| RD1-seed3= 
+| RD1-team3= {{Bandera|ECU}} El Nacional
+| RD1-score3-1= 1
+| RD1-score3-2= 0
+| RD1-score3-3= '''1'''
+
+| RD1-seed4= 
+| RD1-team4= {{Bandera|PAR}} '''Sportivo Trinidense'''
+| RD1-score4-1= 1
+| RD1-score4-2= 1
+| RD1-score4-3= '''2'''
+
+| RD2= [[Anexo:Fase 3 de la Copa Libertadores 2024|Fase 3]]
+| RD2-date= 6 y 13 de marzo
+
+| RD2-seed1= 
+| RD2-team1= {{Bandera|CHI}} '''Colo-Colo'''
+| RD2-score1-1= 1
+| RD2-score1-2= 2
+| RD2-score1-3= '''3'''
+
+| RD2-seed2= 
+| RD2-team2= {{Bandera|PAR}} Sportivo Trinidense
+| RD2-score2-1= 1
+| RD2-score2-2= 1
+| RD2-score2-3= '''2'''
+}}
+
+=== Fase 1 ===
+{{AP|Anexo:Fase 1 de la Copa Libertadores 2024|l1=Fase 1 de la Copa Libertadores 2024}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+!style=min-width:08em|Fechas
+!style=min-width:14em|Local en la ida
+!style=min-width:08em|Global
+!style=min-width:14em|Local en la vuelta
+!style=min-width:04em|Ida
+!style=min-width:04em|Vuelta
+!style=min-width:04em|Llave
+
+|- align="center" 
+| 6 y 13 de febrero
+| align="right"|'''[[Academia Puerto Cabello Club de Fútbol|Puerto Cabello]]''' {{Bandera|Venezuela}}
+| '''3:3 {{small|(4:2)}}'''
+| align="left"|{{Bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417944&titleText=Detalles%20Del%20Partido 3:2]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417947 0:1]
+! E1
+
+|- align="center" 
+| 7 y 14 de febrero
+| align="right"|'''[[Club Deportivo Aurora|Aurora]]''' {{Bandera|Bolivia}}
+| '''2:1'''
+| align="left"|{{Bandera|Perú}} [[Foot Ball Club Melgar|Melgar]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417945&titleText=Detalles%20Del%20Partido 1:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417949&titleText=Detalles%20Del%20Partido 1:1]
+! E2
+
+|- align="center" 
+| 8 y 15 de febrero
+| align="right"|[[Sociedad Deportiva Aucas|Aucas]] {{Bandera|Ecuador}}
+| '''1:3'''
+| align="left"|{{Bandera|Paraguay}} '''[[Club Nacional (Paraguay)|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417946&titleText=Detalles%20Del%20Partido 1:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417948&titleText=Detalles%20Del%20Partido 0:3]
+! E3
+|}
+
+=== Fase 2 ===
+{{AP|Anexo:Fase 2 de la Copa Libertadores 2024|l1=Fase 2 de la Copa Libertadores 2024}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+!style=min-width:08em|Fechas
+!style=min-width:14em|Local en la ida
+!style=min-width:08em|Global
+!style=min-width:14em|Local en la vuelta
+!style=min-width:04em|Ida
+!style=min-width:04em|Vuelta
+!style=min-width:04em|Llave
+
+|- align="center"
+| 20 y 27 de febrero
+| align="right"|[[Águilas Doradas]] {{Bandera|Colombia}}
+| '''0:0 {{small|(3:4)}}'''
+| align="left"|{{Bandera|Brasil}} '''[[Red Bull Bragantino|Bragantino]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417950 0:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417965 0:0]
+! C1
+
+|- align="center"
+| 21 y 28 de febrero
+| align="right"|'''[[Club Nacional (Paraguay)|Nacional]]''' {{Bandera|Paraguay}}
+| '''4:0'''
+| align="left"|{{Bandera|Colombia}} [[Atlético Nacional]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417951 1:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417962 3:0]
+! C2
+
+|- align="center"
+| 20 y 27 de febrero
+| align="right"|'''[[Club Always Ready|Always Ready]]''' {{Bandera|Bolivia}}
+| '''7:4'''
+| align="left"|{{Bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417952 6:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417960 1:3]
+! C3
+
+|- align="center"
+| 22 y 29 de febrero
+| align="right"|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]] {{Bandera|Argentina}}
+| '''0:1'''
+| align="left"|{{Bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417953 0:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417958 0:0]
+! C4
+
+|- align="center"
+| 22 y 29 de febrero
+| align="right"|'''[[Club Sportivo Trinidense|Sportivo Trinidense]]''' {{Bandera|Paraguay}}
+| '''2:1'''
+| align="left"|{{Bandera|Ecuador}} [[Club Deportivo El Nacional|El Nacional]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417954 1:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417963 1:0]
+! C5
+
+|- align="center"
+| 21 y 28 de febrero
+| align="right"|[[Academia Puerto Cabello Club de Fútbol|Puerto Cabello]] {{Bandera|Venezuela}}
+| '''0:4'''
+| align="left"|{{Bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417955 0:2]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417961 0:2]
+! C6
+
+|- align="center"
+| 20 y 27 de febrero
+| align="right"|[[Portuguesa Fútbol Club|Portuguesa]] {{Bandera|Venezuela}}
+| '''2:4'''
+| align="left"|{{Bandera|Chile}} '''[[Club Deportivo Palestino|Palestino]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417956 1:2]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417959 1:2]
+! C7
+
+|- align="center"
+| 21 y 28 de febrero
+| align="right"|[[Club Deportivo Aurora|Aurora]] {{Bandera|Bolivia}}
+| '''1:7'''
+| align="left"|{{Bandera|Brasil}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417957 1:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2417964 0:6]
+! C8
+|}
+
+=== Fase 3 ===
+{{AP|Anexo:Fase 3 de la Copa Libertadores 2024|l1=Fase 3 de la Copa Libertadores 2024}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+!style=min-width:08em|Fechas
+!style=min-width:14em|Local en la ida
+!style=min-width:08em|Global
+!style=min-width:14em|Local en la vuelta
+!style=min-width:04em|Ida
+!style=min-width:04em|Vuelta
+!style=min-width:04em|Llave
+
+|- align="center"
+| 6 y 13 de marzo
+| align="right"|'''[[Botafogo de Futebol e Regatas|Botafogo]]''' {{Bandera|Brasil}} 
+| '''3:2'''
+| align="left"|{{Bandera|Brasil}} [[Red Bull Bragantino|Bragantino]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431130 2:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431131 1:1]
+! G1
+
+|- align="center"
+| 5 y 12 de marzo
+| align="right"|[[Club Nacional (Paraguay)|Nacional]] {{Bandera|Paraguay}}
+| '''3:3 {{small|(1:3)}}'''
+| align="left"|{{Bandera|Chile}} '''[[Club Deportivo Palestino|Palestino]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431162 0:2]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431163 3:1]
+! G2
+
+|- align="center"
+| 7 y 14 de marzo
+| align="right"|[[Club Always Ready|Always Ready]] {{Bandera|Bolivia}}
+| '''2:2 {{small|(4:5)}}'''
+| align="left"|{{Bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431156 1:0]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431157 1:2]
+! G3
+
+|- align="center"
+| 6 y 13 de marzo
+| align="right"|[[Club Sportivo Trinidense|Sportivo Trinidense]] {{Bandera|Paraguay}}
+| '''2:3'''
+| align="left"|{{Bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431416 1:1]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2431417 1:2]
+! G4
+|}
+*{{small|La localía se determinó mediante el [[Anexo:Ranking de Clubes de la Conmebol|''ranking'' Conmebol al 18 de diciembre de 2023]], siendo local en la vuelta el mejor ubicado.}}
+*{{small|'''Nota''': Los cuatro perdedores de esta fase fueron transferidos a la fase de grupos de la [[Copa Sudamericana 2024]].}}
+
+== Fase de grupos ==
+Los participantes se distribuyeron en ocho grupos de cuatro equipos cada uno. Los dos primeros de cada uno de ellos pasaron a los octavos de final, y los terceros fueron transferidos a igual instancia de la [[Copa Sudamericana 2024]].
+
+;{{nowrap|Criterios de desempate:<ref>{{Cita web|url=https://www.conmebol.com/es/conmebol-libertadores-2021/reglamento|título=Manual de Clubes|fechaacceso=2023-03-08|fecha=2021-02-15|página=50}}</ref>}}
+# Puntos obtenidos.
+# Diferencia de goles.
+# Mayor cantidad de goles marcados.
+# Mayor cantidad de goles marcados como visitante.
+# Ubicación en el ''ranking'' Conmebol.
+<br>
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|-
+| style="background: #D0E7FF;" width="20" | 
+|'''Equipos clasificados para los [[#Octavos de final|octavos de final]]'''.
+|-
+| style="background: #B9FFB9;" width="20" |
+|'''Equipos transferidos a los octavos de final de la [[Copa Sudamericana 2024]]'''.
+|}
+
+=== Grupo A ===
+{{AP|Anexo:Grupo A de la Copa Libertadores 2024|l1=Grupo A de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+! width="6%" |{{Abreviatura|GV|Goles de visitante}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Fluminense Football Club|Fluminense]]'''
+|'''14'''||6||4||2||0||9||5||4||
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|'''6'''||6||1||3||2||4||5||−1||3
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''6'''||6||1||3||2||4||5||−1||2
+|- align="center"
+| style="text-align:left;" |{{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''4'''||6||0||4||2||5||7||−2||
+|}
+<br />
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de abril
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437712 1:1]'''
+|align="left"|[[Fluminense Football Club|Fluminense]]
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de abril
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437712 1:0]
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center 
+|9 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437728 2:1]
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|10 de abril
+|[[Asunción]]
+|align="right"|'''[[Club Cerro Porteño|Cerro Porteño]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437735 1:0]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center 
+|23 de abril
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437759 0:0]'''
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|25 de abril
+|[[Asunción]]
+|align="right"|[[Club Cerro Porteño|Cerro Porteño]]
+|'''[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437776 0:0]'''
+|align="left"|[[Fluminense Football Club|Fluminense]]
+
+|- align=center 
+|8 de mayo
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437794 1:1]'''
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center style="background:#FFFFFF;"
+|9 de mayo
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437803 0:1]
+|align="left"|'''[[Fluminense Football Club|Fluminense]]'''
+
+|- align=center 
+|15 de mayo
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437819 1:1]'''
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+ 
+|- align=center style="background:#FFFFFF;"
+|16 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437825 2:1]
+|align="left"|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center 
+|29 de mayo
+|[[Asunción]]
+|align="right"|[[Club Cerro Porteño|Cerro Porteño]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437842 1:1]'''
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Fluminense Football Club|Fluminense]]'''
+| [https://conmebollibertadores.com/cards/MatchCenter?gameId=2437844 3:2]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+|}
+|}
+
+=== Grupo B ===
+{{AP|Anexo:Grupo B de la Copa Libertadores 2024|l1=Grupo B de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|'''13'''||6||4||1||1||10||3||7
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+|'''13'''||6||4||1||1||10||6||4
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''6'''||6||1||3||2||6||9||−3
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club de Deportes Cobresal|Cobresal]]
+|'''1'''||6||0||1||5||3||11||−8
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|2 de abril
+|[[Calama]]
+|align="right"|[[Club de Deportes Cobresal|Cobresal]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437701 1:1]'''
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de abril
+|[[Córdoba (Argentina)|Córdoba]]
+|align="right"|'''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437720 2:1]
+|align="left"|[[São Paulo Futebol Clube|São Paulo]]
+ 
+|- align=center 
+|10 de abril
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437730 2:2]'''
+|align="left"|[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+
+|- align=center style="background:#FFFFFF;"
+|10 de abril
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437742 2:0]
+|align="left"|[[Club de Deportes Cobresal|Cobresal]]
+
+|- align=center 
+|25 de abril
+|[[Calama]]
+|align="right"|[[Club de Deportes Cobresal|Cobresal]]
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437773 0:2]
+|align="left"|'''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|25 de abril
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437778 0:2]
+|align="left"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+
+|- align=center 
+|8 de mayo
+|[[Córdoba (Argentina)|Córdoba]]
+|align="right"|'''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437793 3:1]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center style="background:#FFFFFF;"
+|8 de mayo
+|[[Calama]]
+|align="right"|[[Club de Deportes Cobresal|Cobresal]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437796 1:3]
+|align="left"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+
+|- align=center 
+|14 de mayo
+|[[Córdoba (Argentina)|Córdoba]]
+|align="right"|'''[[Club Atlético Talleres (Córdoba)|Talleres (C)]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437806 1:0]
+|align="left"|[[Club de Deportes Cobresal|Cobresal]]
+ 
+|- align=center style="background:#FFFFFF;"
+|16 de mayo
+|[[São Paulo]]
+|align="right"|[[São Paulo Futebol Clube|São Paulo]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437827 0:0]'''
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center 
+|29 de mayo
+|[[Guayaquil]]
+|align="right"|'''[[Barcelona Sporting Club|Barcelona]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437847 2:1]
+|align="left"|[[Club de Deportes Cobresal|Cobresal]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de mayo
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437845 2:0]
+|align="left"|[[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|}
+|}
+
+=== Grupo C ===
+{{AP|Anexo:Grupo C de la Copa Libertadores 2024|l1=Grupo C de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BOL}} '''[[Club The Strongest|The Strongest]]'''
+|'''10'''||6||3||1||2||8||6||2
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|'''10'''||6||3||1||2||7||5||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|CHI}} '''[[Club Deportivo Huachipato|Huachipato]]'''
+|'''8'''||6||2||2||2||7||9||−2
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|'''5'''||6||1||2||3||7||9||−2
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|2 de abril
+|[[La Paz]]
+|align="right"|'''[[Club The Strongest|The Strongest]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437707 2:0]
+|align="left"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de abril
+|[[Talcahuano]]
+|align="right"|[[Club Deportivo Huachipato|Huachipato]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437711 1:1]'''
+|align="left"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+ 
+|- align=center 
+|9 de abril
+|[[Porto Alegre]]
+|align="right"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437725 0:2]
+|align="left"|'''[[Club Deportivo Huachipato|Huachipato]]'''
+
+|- align=center style="background:#FFFFFF;"
+|9 de abril
+|[[La Plata]]
+|align="right"|'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437723 2:1]
+|align="left"|[[Club The Strongest|The Strongest]]
+
+|- align=center 
+|23 de abril
+|[[La Plata]]
+|align="right"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437752 0:1]
+|align="left"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|24 de abril
+|[[Talcahuano]]
+|align="right"|[[Club Deportivo Huachipato|Huachipato]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437766 0:0]'''
+|align="left"|[[Club The Strongest|The Strongest]]
+
+|- align=center
+|9 de mayo
+|[[La Paz]]
+|align="right"|'''[[Club The Strongest|The Strongest]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437805 1:0]
+|align="left"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+
+|- align=center style="background:#FFFFFF;"
+|15 de mayo
+|[[La Paz]]
+|align="right"|'''[[Club The Strongest|The Strongest]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437815 4:0]
+|align="left"|[[Club Deportivo Huachipato|Huachipato]]
+
+|- align=center 
+|29 de mayo
+|[[La Plata]]
+|align="right"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437839 3:4]
+|align="left"|'''[[Club Deportivo Huachipato|Huachipato]]'''
+
+|- align=center style="background:#FFFFFF;"
+|29 de mayo
+|[[Curitiba]]
+|align="right"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437840 4:0]
+|align="left"|[[Club The Strongest|The Strongest]]
+
+|- align=center 
+|4 de junio{{refn|group=n.|name=GREPOS|El partido Huachipato v Grêmio estaba originalmente programado para jugarse el 8 de mayo, y el de Grêmio v Estudiantes para el 15 de mayo, pero fueron postergados para el 4 y 8 de junio, respectivamente debido a las fuertes lluvias e [[Inundaciones del Río Grande del Sur de 2024|inundaciones en el estado de Río Grande del Sur]].<ref>{{cita web|título=Reprogramación de partidos por la CONMEBOL Libertadores y CONMEBOL Sudamericana|url=https://www.conmebol.com/noticias/reprogramacion-de-partidos-por-la-conmebol-libertadores-y-conmebol-sudamericana/|obra=Conmebol|fechaacceso=4 de mayo de 2024}}</ref><ref>{{cita web|título=(FOTOS) Conmebol suspendió partidos en Porto Alegre por inundaciones|url=https://studiofutbol.com.ec/2024/05/04/fotos-conmebol-suspendio-partidos-en-porto-alegre-por-inundaciones/|obra=Studio Fútbol|fechaacceso=4 de mayo de 2024}}</ref><ref>{{cita web|título=Postergación de partidos en la CONMEBOL Libertadores y CONMEBOL Sudamericana|url=https://www.conmebol.com/noticias/postergacion-de-partidos-en-la-conmebol-libertadores-y-conmebol-sudamericana/|obra=Conmebol|fechaacceso=7 de mayo de 2024}}</ref>}}
+|[[Talcahuano]]
+|align="right"|[[Club Deportivo Huachipato|Huachipato]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437791 0:1]
+|align="left"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+
+|- align=center style="background:#FFFFFF;"
+|8 de junio{{refn|group=n.|name=GREPOS|}} 
+|[[Curitiba]]
+|align="right"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437817 1:1]'''
+|align="left"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|}
+|}
+
+=== Grupo D ===
+{{AP|Anexo:Grupo D de la Copa Libertadores 2024|l1=Grupo D de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+|'''10'''||6||2||4||0||7||4||3
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|'''10'''||6||3||1||2||7||6||1
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|'''7'''||6||2||1||3||6||6||0
+|- align="center"
+| style="text-align:left;" |{{Bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+|'''5'''||6||1||2||3||5||9||−4
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|2 de abril
+|[[Lima]]
+|align="right"|'''[[Club Universitario de Deportes|Universitario]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437708&titleText=Detalles%20Del%20Partido 2:1]
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de abril
+|[[Río de Janeiro]]
+|align="right"|[[Botafogo de Futebol e Regatas|Botafogo]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437710 1:3]
+|align="left"|'''[[Junior de Barranquilla|Junior]]'''
+ 
+|- align=center 
+|9 de abril
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437732 1:1]'''
+|align="left"|[[Club Universitario de Deportes|Universitario]]
+
+|- align=center style="background:#FFFFFF;"
+|11 de abril
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437745 1:0]
+|align="left"|[[Botafogo de Futebol e Regatas|Botafogo]]
+
+|- align=center 
+|23 de abril
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437761 1:1]'''
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|24 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437761 3:1]
+|align="left"|[[Club Universitario de Deportes|Universitario]]
+
+|- align=center 
+|7 de mayo
+|[[Lima]]
+|align="right"|[[Club Universitario de Deportes|Universitario]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437790 1:1]'''
+|align="left"|[[Junior de Barranquilla|Junior]]
+
+|- align=center style="background:#FFFFFF;"
+|8 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437795 2:1]
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center 
+|14 de mayo
+|[[Quito]]
+|align="right"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437809 0:1]
+|align="left"|'''[[Junior de Barranquilla|Junior]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|16 de mayo
+|[[Lima]]
+|align="right"|[[Club Universitario de Deportes|Universitario]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437828 0:1]
+|align="left"|'''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+
+|- align=center 
+|28 de mayo
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437830 0:0]'''
+|align="left"|[[Botafogo de Futebol e Regatas|Botafogo]]
+
+|- align=center style="background:#FFFFFF;"
+|28 de mayo
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437831 2:0]
+|align="left"|[[Club Universitario de Deportes|Universitario]]
+|}
+|}
+
+=== Grupo E ===
+{{AP|Anexo:Grupo E de la Copa Libertadores 2024|l1=Grupo E de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''13'''||6||4||1||1||13||9||4
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|'''10'''||6||3||1||2||11||4||7
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+|'''7'''||6||2||1||3||6||11||−5
+|- align="center"
+| style="text-align:left;" |{{Bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+|'''3'''||6||0||3||3||6||12||−6
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|2 de abril
+|[[Bogotá]]
+|align="right"|[[Millonarios Fútbol Club|Millonarios]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437704 1:1]'''
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de abril
+|[[Rancagua]]
+|align="right"|[[Club Deportivo Palestino|Palestino]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437721 0:4]
+|align="left"|'''[[Club Bolívar|Bolívar]]'''
+ 
+|- align=center 
+|10 de abril
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437741 2:0]
+|align="left"|[[Club Deportivo Palestino|Palestino]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de abril
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437744 3:2]
+|align="left"|[[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center 
+|24 de abril
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437769 2:1]
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|25 de abril
+|[[Coquimbo]]
+|align="right"|'''[[Club Deportivo Palestino|Palestino]]'''
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437779 3:1]
+|align="left"|[[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center 
+|7 de mayo
+|[[Coquimbo]]
+|align="right"|'''[[Club Deportivo Palestino|Palestino]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437786 1:0]
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center style="background:#FFFFFF;"
+|8 de mayo
+|[[Bogotá]]
+|align="right"|[[Millonarios Fútbol Club|Millonarios]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437797 1:1]'''
+|align="left"|[[Club Bolívar|Bolívar]]
+
+|- align=center 
+|14 de mayo
+|[[Bogotá]]
+|align="right"|[[Millonarios Fútbol Club|Millonarios]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437814 1:1]'''
+|align="left"|[[Club Deportivo Palestino|Palestino]]
+ 
+|- align=center style="background:#FFFFFF;"
+|15 de mayo
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437814 4:0]
+|align="left"|[[Club Bolívar|Bolívar]]
+
+|- align=center 
+|28 de mayo
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437836 3:1]
+|align="left"|[[Club Deportivo Palestino|Palestino]]
+ 
+|- align=center style="background:#FFFFFF;"
+|28 de mayo 
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437837 3:0]
+|align="left"|[[Millonarios Fútbol Club|Millonarios]]
+|}
+|}
+
+=== Grupo F ===
+{{AP|Anexo:Grupo F de la Copa Libertadores 2024|l1=Grupo F de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''14'''||6||4||2||0||14||5||9
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|'''8'''||6||2||2||2||6||6||0
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Independiente del Valle]]'''
+|'''7'''||6||2||1||3||8||9||−1
+|- align="center"
+| style="text-align:left;" |{{Bandera|URU}} [[Liverpool Fútbol Club|Liverpool]]
+|'''4'''||6||1||1||4||6||14||−8
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de abril
+|[[Buenos Aires]]
+|align="right"|[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437714 1:1]'''
+|align="left"|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de abril
+|[[Montevideo]]
+|align="right"|[[Liverpool Fútbol Club|Liverpool]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437702 1:1]'''
+|align="left"|[[Independiente del Valle]]
+ 
+|- align=center 
+|10 de abril
+|[[Quito]]
+|align="right"|{{nowrap|'''[[Independiente del Valle]]'''}}
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437733 2:0]
+|align="left"|[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center style="background:#FFFFFF;"
+|11 de abril
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437747 3:1]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+
+|- align=center 
+|23 de abril
+|[[Montevideo]]
+|align="right"|'''[[Liverpool Fútbol Club|Liverpool]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437758 1:0]
+|align="left"|[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|24 de abril
+|[[Quito]]
+|align="right"|[[Independiente del Valle]]
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437771 2:3]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+
+|- align=center 
+|9 de mayo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437799 2:0]
+|align="left"|[[Independiente del Valle]]
+
+|- align=center style="background:#FFFFFF;"
+|9 de mayo 
+|[[Montevideo]]
+|align="right"|[[Liverpool Fútbol Club|Liverpool]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437801 0:5]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+
+|- align=center 
+|15 de mayo
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437822 2:1]
+|align="left"|[[Independiente del Valle]]
+ 
+|- align=center style="background:#FFFFFF;"
+|16 de mayo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437826 3:2]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+
+|- align=center 
+|30 de mayo
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437848 2:1]
+|align="left"|[[Liverpool Fútbol Club|Liverpool]]
+
+|- align=center style="background:#FFFFFF;"
+|30 de mayo
+|[[São Paulo]]
+|align="right"|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437849 0:0]'''
+|align="left"|[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|}
+|}
+
+=== Grupo G ===
+{{AP|Anexo:Grupo G de la Copa Libertadores 2024|l1=Grupo G de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|'''15'''||6||5||0||1||14||6||8
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''12'''||6||4||0||2||12||5||7
+|- align="center" bgcolor="#B9FFB9"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Rosario Central|Rosario Central]]'''
+|'''7'''||6||2||1||3||8||7||1
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Caracas Fútbol Club|Caracas]]
+|'''1'''||6||0||1||5||3||19||−16
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de abril
+|[[Rosario (Argentina)|Rosario]]
+|align="right"|'''[[Club Atlético Rosario Central|Rosario Central]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437718 1:0]
+|align="left"|[[Club Atlético Peñarol|Peñarol]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de abril
+|[[Caracas]]
+|align="right"|[[Caracas Fútbol Club|Caracas]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437717 1:4]
+|align="left"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+ 
+|- align=center 
+|10 de abril
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437739 5:0]
+|align="left"|[[Caracas Fútbol Club|Caracas]]
+ 
+|- align=center style="background:#FFFFFF;"
+|10 de abril
+|[[Belo Horizonte]]
+|align="right"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437737 2:1]
+|align="left"|[[Club Atlético Rosario Central|Rosario Central]]
+
+|- align=center 
+|23 de abril
+|[[Caracas]]
+|align="right"|[[Caracas Fútbol Club|Caracas]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437753 1:1]'''
+|align="left"|[[Club Atlético Rosario Central|Rosario Central]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|23 de abril
+|[[Belo Horizonte]]
+|align="right"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437755 3:2]
+|align="left"|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center 
+|7 de mayo
+|[[Caracas]]
+|align="right"|[[Caracas Fútbol Club|Caracas]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437781 0:1]
+|align="left"|'''[[Club Atlético Peñarol|Peñarol]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de mayo
+|[[Rosario (Argentina)|Rosario]]
+|align="right"|[[Club Atlético Rosario Central|Rosario Central]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437782 0:1]
+|align="left"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+
+|- align=center 
+|14 de mayo
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437810 2:0]
+|align="left"|[[Clube Atlético Mineiro|Atlético Mineiro]]
+ 
+|- align=center style="background:#FFFFFF;"
+|16 de mayo
+|[[Rosario (Argentina)|Rosario]]
+|align="right"|'''[[Club Atlético Rosario Central|Rosario Central]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437824 4:1]
+|align="left"|[[Caracas Fútbol Club|Caracas]]
+
+|- align=center 
+|28 de mayo
+|[[Belo Horizonte]]
+|align="right"|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437833 4:0]
+|align="left"|[[Caracas Fútbol Club|Caracas]]
+ 
+|- align=center style="background:#FFFFFF;"
+|28 de mayo
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437834 2:1]
+|align="left"|[[Club Atlético Rosario Central|Rosario Central]]
+|}
+|}
+
+=== Grupo H ===
+{{AP|Anexo:Grupo H de la Copa Libertadores 2024|l1=Grupo H de la Copa Libertadores 2024}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''16'''||6||5||1||0||12||3||9
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''10'''||6||3||1||2||8||7||1
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Libertad|Libertad]]'''
+|'''7'''||6||2||1||3||7||8||−1
+|- align="center"
+| style="text-align:left;" |{{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''1'''||6||0||1||5||2||11||−9
+|}
+<br /> 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|2 de abril
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+|align="right"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437706 0:2]
+|align="left"|'''[[Club Atlético River Plate|River Plate]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de abril
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437709 2:0]
+|align="left"|[[Club Libertad|Libertad]]
+ 
+|- align=center 
+|9 de abril
+|[[Asunción]]
+|align="right"|'''[[Club Libertad|Libertad]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437727 3:0]
+|align="left"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de abril
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437749 2:0]
+|align="left"|[[Club Nacional de Football|Nacional]]
+
+|- align=center 
+|24 de abril
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437764 2:1]
+|align="left"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|24 de abril
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|[https://conmebollibertadores.com/cards/MatchPreview?gameId=2437768 1:2]
+|align="left"|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center 
+|7 de mayo
+|[[Montevideo]]
+|align="right"|[[Club Nacional de Football|Nacional]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437785 2:2]'''
+|align="left"|[[Club Atlético River Plate|River Plate]]
+ 
+|- align=center style="background:#FFFFFF;"
+|7 de mayo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+|align="right"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|'''[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437788 1:1]'''
+|align="left"|[[Club Libertad|Libertad]]
+
+|- align=center 
+|14 de mayo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437812 2:0]
+|align="left"|[[Club Libertad|Libertad]]
+ 
+|- align=center style="background:#FFFFFF;"
+|15 de mayo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+|align="right"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437816 0:1]
+|align="left"|'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center 
+|30 de mayo
+|[[Asunción]]
+|align="right"|'''[[Club Libertad|Libertad]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437852 2:1]
+|align="left"|[[Club Nacional de Football|Nacional]]
+ 
+|- align=center style="background:#FFFFFF;"
+|30 de mayo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[https://conmebollibertadores.com/cards/MatchCenter?gameId=2437851 2:0]
+|align="left"|[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]
+|}
+|}
+
+== Equipos transferidos a la Copa Sudamericana 2024 ==
+Los cuatro perdedores de la fase 3 son transferidos a la fase de grupos de la [[Copa Sudamericana 2024]] y los ocho terceros de la fase de grupos serán transferidos a los ''play-off'' de octavos de final del mismo torneo.
+
+{| class="unsortable" cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%; width:35%"
+|- bgcolor="#006699" style="color:white;" align="center"
+!Equipo
+!Procedencia
+|- align="center"
+| style="text-align:left;" |{{Bandera|BRA}} [[Red Bull Bragantino|Bragantino]]
+|Fase 3
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Nacional (Paraguay)|Nacional]]
+|Fase 3
+|- align="center"
+| style="text-align:left;" |{{Bandera|BOL}} [[Club Always Ready|Always Ready]]
+|Fase 3
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Sportivo Trinidense|Sportivo Trinidense]]
+|Fase 3
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Cerro Porteño |Cerro Porteño ]]
+|Grupo A
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|Grupo B
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Huachipato|Huachipato]] 
+|Grupo C
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]] 
+|Grupo D
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Palestino|Palestino]]
+|Grupo E
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} [[Independiente del Valle]]
+|Grupo F
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Rosario Central|Rosario Central]] 
+|Grupo G
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Libertad|Libertad]] 
+|Grupo H
+|}
+
+== Fases finales ==
+Las fases finales estarán compuestas por cuatro etapas: octavos, cuartos, semifinales y final. Se disputarán por [[eliminación directa]], en partidos de ida y vuelta con excepción de la final que se jugará a partido único. A partir de esta edición no se tendrá en cuenta el gol de visitante como método de desempate.
+
+A los fines de establecer las llaves de la primera etapa, los dieciséis equipos serán ordenados en dos tablas, una con los clasificados como primeros (numerados del 1 al 8 de acuerdo con su desempeño en la fase de grupos, determinada según los criterios de clasificación), y otra con aquellos clasificados como segundos (numerados del 9 al 16, con el mismo criterio), enfrentándose en octavos de final un equipo de los que terminó en la primera posición contra uno de los que ocupó la segunda posición.
+
+=== Tabla de primeros ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%"|Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''1'''
+| style="text-align:left;" | {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''16'''
+|6
+|5
+|1
+|0
+|12
+|3
+|9
+|- align="center" bgcolor="#d0e7ff"
+|'''2'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|'''15'''
+|6
+|5
+|0
+|1
+|14
+|6
+|8
+|- align="center" bgcolor="#f5faff"
+|'''3'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|'''14'''
+|6
+|4
+|2
+|0
+|14
+|5
+|9
+|- align="center" bgcolor="#d0e7ff"
+|'''4'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+|'''14'''
+|6
+|4
+|2
+|0
+|9
+|5
+|4
+|- align="center" bgcolor="#f5faff"
+|'''5'''
+| style="text-align:left;" | {{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+|'''13'''
+|6
+|4
+|1
+|1
+|10
+|3
+|7
+|- align="center" bgcolor="#d0e7ff"
+|'''6'''
+| style="text-align:left;" |{{Bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''13'''
+|6
+|4
+|1
+|1
+|13
+|9
+|4
+|- align="center" bgcolor="#f5faff"
+|'''7'''
+| style="text-align:left;" |{{Bandera|COL}} [[Junior de Barranquilla|Junior]]
+|'''10'''
+|6
+|2
+|4
+|0
+|7
+|4
+|3
+|- align="center" bgcolor="#d0e7ff"
+|'''8'''
+| style="text-align:left;" | {{Bandera|BOL}} [[Club The Strongest|The Strongest]] 
+|'''10'''
+|6
+|3
+|1
+|2
+|8
+|6
+|2
+|}
+
+=== Tabla de segundos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''9'''
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|'''13'''
+|6
+|4
+|1
+|1
+|10
+|6
+|4
+|- align="center" bgcolor="#d0e7ff"
+|'''10'''
+| style="text-align:left;" |{{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|'''12'''
+|6
+|4
+|0
+|2
+|12
+|5
+|7
+|- align="center" bgcolor="#f5faff"
+|'''11'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|'''10'''
+|6
+|3
+|1
+|2
+|11
+|4
+|7
+|- align="center" bgcolor="#d0e7ff"
+|'''12'''
+| style="text-align:left;" | {{Bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''10'''
+|6
+|3
+|1
+|2
+|7
+|5
+|2
+|- align="center" bgcolor="#f5faff"
+|'''13'''
+| style="text-align:left;" | {{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''10'''
+|6
+|3
+|1
+|2
+|8
+|7
+|1
+|- align="center" bgcolor="#d0e7ff"
+|'''14'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|'''10'''
+|6
+|3
+|1
+|2
+|7
+|6
+|1
+|- align="center" bgcolor="#f5faff"
+|'''15'''
+| style="text-align:left;" | {{Bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''8'''
+|6
+|2
+|2
+|2
+|6
+|6
+|0
+|- align="center" bgcolor="#d0e7ff"
+|'''16'''
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''6'''
+|6
+|1
+|3
+|2
+|4
+|5
+|−1
+|}
+
+=== Cuadro de desarrollo ===
+{{Copa 
+| seed-width= 20| team-width= 180| score-width= 20
+| seeds = si
+
+| RD1=[[Anexo:Octavos de final de la Copa Libertadores 2024|Octavos de final]]
+| RD1-date=13 al 22 de agosto
+
+| RD1-seed1=1
+| RD1-team1={{Bandera|ARG}} '''River Plate'''
+| RD1-score1-1=1
+| RD1-score1-2=2
+| RD1-score1-3='''3'''
+
+| RD1-seed2=9
+| RD1-team2={{Bandera|ARG}} Talleres (C)
+| RD1-score2-1=0
+| RD1-score2-2=1
+| RD1-score2-3='''1'''
+
+| RD1-seed3=7
+| RD1-team3={{Bandera|COL}} Junior
+| RD1-score3-1=0
+| RD1-score3-2=1
+| RD1-score3-3='''1'''
+
+| RD1-seed4=16
+| RD1-team4={{Bandera|CHI}} '''Colo-Colo'''
+| RD1-score4-1=1
+| RD1-score4-2=2
+| RD1-score4-3='''3'''
+
+| RD1-seed5=2
+| RD1-team5={{Bandera|BRA}} '''Atlético Mineiro'''
+| RD1-score5-1=1
+| RD1-score5-2=1
+| RD1-score5-3='''2'''
+
+| RD1-seed6=15
+| RD1-team6={{Bandera|ARG}} San Lorenzo
+| RD1-score6-1=1
+| RD1-score6-2=0
+| RD1-score6-3='''1'''
+
+| RD1-seed7=4
+| RD1-team7={{Bandera|BRA}} '''Fluminense'''
+| RD1-score7-1=1
+| RD1-score7-2=2
+| RD1-score7-3='''3&nbsp;{{small|(4)}}'''
+
+| RD1-seed8=12
+| RD1-team8={{Bandera|BRA}} Grêmio
+| RD1-score8-1=2
+| RD1-score8-2=1
+| RD1-score8-3='''3&nbsp;{{small|(2)}}'''
+
+| RD1-seed9=8
+| RD1-team9={{Bandera|BOL}} The Strongest
+| RD1-score9-1=0
+| RD1-score9-2=1
+| RD1-score9-3='''1'''
+
+| RD1-seed10=10
+| RD1-team10={{Bandera|URU}} '''Peñarol'''
+| RD1-score10-1=4
+| RD1-score10-2=0
+| RD1-score10-3='''4'''
+
+| RD1-seed11=6
+| RD1-team11={{Bandera|BOL}} Bolívar
+| RD1-score11-1=0
+| RD1-score11-2=1
+| RD1-score11-3='''1'''
+
+| RD1-seed12=11
+| RD1-team12={{Bandera|BRA}} '''Flamengo'''
+| RD1-score12-1=2
+| RD1-score12-2=0
+| RD1-score12-3='''2'''
+
+| RD1-seed13=5
+| RD1-team13={{Bandera|BRA}} '''São Paulo'''
+| RD1-score13-1=0
+| RD1-score13-2=2
+| RD1-score13-3='''2'''
+
+| RD1-seed14=13
+| RD1-team14={{Bandera|URU}} Nacional
+| RD1-score14-1=0
+| RD1-score14-2=0
+| RD1-score14-3='''0'''
+
+| RD1-seed15=3
+| RD1-team15={{Bandera|BRA}} Palmeiras
+| RD1-score15-1=1
+| RD1-score15-2=2
+| RD1-score15-3='''3'''
+
+| RD1-seed16=14
+| RD1-team16={{Bandera|BRA}} '''Botafogo'''
+| RD1-score16-1=2
+| RD1-score16-2=2
+| RD1-score16-3='''4'''
+
+| RD2=[[Anexo:Cuartos de final de la Copa Libertadores 2024|Cuartos de final]]
+| RD2-date=17 al 26 de septiembre
+
+| RD2-seed1=1
+| RD2-team1={{Bandera|ARG}} '''River Plate'''
+| RD2-score1-1=1
+| RD2-score1-2=1
+| RD2-score1-3='''2'''
+
+| RD2-seed2=16
+| RD2-team2={{Bandera|CHI}} Colo-Colo
+| RD2-score2-1=1
+| RD2-score2-2=0
+| RD2-score2-3='''1'''
+
+| RD2-seed3=2
+| RD2-team3={{Bandera|BRA}} '''Atlético Mineiro'''
+| RD2-score3-1=0
+| RD2-score3-2=2
+| RD2-score3-3='''2'''
+
+| RD2-seed4=4
+| RD2-team4={{Bandera|BRA}} Fluminense
+| RD2-score4-1=1
+| RD2-score4-2=0
+| RD2-score4-3='''1'''
+
+| RD2-seed5=10
+| RD2-team5={{Bandera|URU}} '''Peñarol''' 
+| RD2-score5-1=1
+| RD2-score5-2=0
+| RD2-score5-3='''1'''
+
+| RD2-seed6=11
+| RD2-team6={{Bandera|BRA}} Flamengo
+| RD2-score6-1=0
+| RD2-score6-2=0
+| RD2-score6-3='''0'''
+
+| RD2-seed7=5
+| RD2-team7={{Bandera|BRA}} São Paulo
+| RD2-score7-1=0
+| RD2-score7-2=1 
+| RD2-score7-3='''1&nbsp;{{small|(4)}}'''
+
+| RD2-seed8=14
+| RD2-team8={{Bandera|BRA}} '''Botafogo'''
+| RD2-score8-1=0
+| RD2-score8-2=1 
+| RD2-score8-3='''1&nbsp;{{small|(5)}}'''
+
+| RD3=[[Anexo:Semifinales de la Copa Libertadores 2024|Semifinales]]
+| RD3-date=22 al 30 de octubre 
+
+| RD3-seed1=1
+| RD3-team1={{Bandera|ARG}} River Plate
+| RD3-score1-1=0
+| RD3-score1-2=0
+| RD3-score1-3='''0'''
+
+| RD3-seed2=2
+| RD3-team2={{Bandera|BRA}} '''Atlético Mineiro'''
+| RD3-score2-1=3
+| RD3-score2-2=0
+| RD3-score2-3='''3'''
+
+| RD3-seed3=10
+| RD3-team3={{Bandera|URU}} Peñarol
+| RD3-score3-1=0
+| RD3-score3-2=3
+| RD3-score3-3='''3'''
+
+| RD3-seed4=14
+| RD3-team4={{bandera|BRA}} '''Botafogo'''
+| RD3-score4-1=5
+| RD3-score4-2=1
+| RD3-score4-3='''6'''
+
+| RD4=[[Anexo:Final de la Copa Libertadores 2024|Final]]
+| RD4-date=30 de noviembre 
+| RD4-team1={{bandera|BRA}} Atlético Mineiro
+| RD4-score1=1
+| RD4-team2={{bandera|BRA}} '''Botafogo'''
+| RD4-score2='''3'''
+}}
+{{small|'''Nota''': En las series a dos partidos, el equipo con el menor número de orden es el que define como local.}}
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Libertadores 2024|l1=Octavos de final de la Copa Libertadores 2024}}
+
+{{Partido
+|paíslocal   = BRA
+|local       = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|resultado   = 2:1''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Fluminense Football Club|Fluminense]]
+|árbitro     = {{árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var         = {{árbitro|ARG|Silvio Trucco}}
+|fecha       = {{fecha|13|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Major Antônio Couto Pereira|Estadio Couto Pereira]]
+|ciudad      = [[Curitiba]]
+|asistencia  = 18{{esd}}645
+|goleslocal  = [[Reinaldo Manoel da Silva|Reinaldo]] {{gol|74|pen.|77}}
+|golesvisita = [[Vinícius Moreira de Lima|Lima]] {{gol|58}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441680&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Fluminense Football Club|Fluminense]]
+|resultado   = 2:1 {{sin negrita|(2:0)}}
+|resultado penalti = 4:2
+|paísvisita  = BRA
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|árbitro     = {{árbitro|URU|Andrés Matonte}}
+|var         = {{árbitro|URU|Christian Ferreyra}}
+|fecha       = {{fecha|20|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 46{{esd}}757
+|goleslocal  = [[Thiago Silva]] {{gol|14}}<br>[[Jhon Arias|Arias]] {{gol|28|pen.}}
+|golesvisita = [[Gustavo Nunes Fernandes Gomes|Gustavo Nunes]] {{gol|76}}
+|penaltis1   = [[Paulo Henrique Ganso|Ganso]] {{penfallo|poste}}<br>Thiago Silva {{pengol}}<br>[[John Kennedy (futbolista brasileño)|John Kennedy]] {{pengol}}<br>[[Vinícius Moreira de Lima|Lima]] {{pengol}}<br>Arias {{pengol}}
+|penaltis2   = {{pengol}} [[Reinaldo Manoel da Silva|Reinaldo]]<br>{{penfallo|atajado}} [[Nathan Allan de Souza|Nathan]]<br>{{pengol}} [[Miguel Ángel Monsalve|Monsalve]]<br>{{penfallo|atajado}} [[Franco Cristaldo|Cristaldo]]
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441681&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = CHI
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = COL
+|visita      = [[Junior de Barranquilla|Junior]]
+|árbitro     = {{árbitro|BRA|Wilton Sampaio}}
+|var         = {{árbitro|BRA|Rodolpho Toski}}
+|fecha       = {{fecha|13|8|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|asistencia  = 39{{esd}}048
+|goleslocal  = [[Vicente Pizarro|Pizarro]] {{gol|76}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441672&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = COL
+|local       = [[Junior de Barranquilla|Junior]]
+|resultado   = 1:2''' (1:1)
+|paísvisita  = CHI
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|árbitro     = {{árbitro|BRA|Anderson Daronco}}
+|var         = {{árbitro|BRA|Igor Benevenuto}}
+|fecha       = {{fecha|20|8|}}, 19:30 ([[UTC-05:00|UTC-5]])
+|estadio     = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad      = [[Barranquilla]]
+|asistencia  =
+|goleslocal  = [[Carlos Bacca|Bacca]] {{gol|45+1}}
+|golesvisita = [[Lucas Cepeda|Cepeda]] {{gol|43}}<br>[[Maximiliano Falcón|Falcón]] {{gol|74}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441673&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|resultado   = 1:1''' (1:0)
+|paísvisita  = BRA
+|visita      = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|árbitro     = {{árbitro|URU|Gustavo Tejera}}
+|var         = {{árbitro|URU|Andrés Cunha}}
+|fecha       = {{fecha|13|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Pedro Bidegain]]
+|ciudad      = [[Buenos Aires]]
+|asistencia  = 18{{esd}}108
+|goleslocal  = [[Alexis Cuello|Cuello]] {{gol|17}}
+|golesvisita = [[Paulinho (futbolista nacido en 2000)|Paulinho]] {{gol|58}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441665&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|árbitro     = {{árbitro|CHI|Felipe González (árbitro)|Felipe González}}
+|var         = {{árbitro|CHI|José Cabero (árbitro)|José Cabero}}
+|fecha       = {{fecha|20|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Arena MRV]]
+|ciudad      = [[Belo Horizonte]]
+|asistencia  =
+|goleslocal  = [[Rodrigo Battaglia|Battaglia]] {{gol|65}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441668&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = URU
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|resultado   = 4:0''' (3:0)
+|paísvisita  = BOL
+|visita      = [[Club The Strongest|The Strongest]]
+|árbitro     = {{árbitro|BRA|Raphael Claus}}
+|var         = {{árbitro|BRA|Daniel Nobre}}
+|fecha       = {{fecha|14|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Campeón del Siglo]]
+|ciudad      = [[Montevideo]]
+|asistencia  = 32{{esd}}235
+|goleslocal  = [[Leonardo Fernández López|Fernández]] {{gol|9}}<br>[[Maximiliano Silvera|Silvera]] {{gol|16}}<br>[[Jaime Báez|Báez]] {{gol|36}}<br>[[Facundo Batista|Batista]] {{gol|72}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441676&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BOL
+|local       = [[Club The Strongest|The Strongest]]
+|resultado   = 1:0''' (1:0)
+|paísvisita  = URU
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|árbitro     = {{Árbitro|CHI|Cristián Garay}}
+|var         = {{Árbitro|CHI|Francisco Gilabert}}
+|fecha       = {{fecha|21|8|}}, 18:00 ([[UTC-04:00|UTC-4]])
+|estadio     = [[Estadio Hernando Siles]]
+|ciudad      = [[La Paz]]
+|asistencia  =
+|goleslocal  = [[Enrique Triverio|Triveiro]] {{gol|44|pen.}}
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441677&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|resultado   = 0:1''' (0:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético River Plate|River Plate]]
+|árbitro     = {{árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|var         = {{árbitro|COL|Jhon Perdomo}}
+|fecha       = {{fecha|14|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Mario Alberto Kempes]]
+|ciudad      = [[Córdoba (Argentina)|Córdoba]]
+|asistencia  = 38{{esd}}734
+|golesvisita = [[Paulo Díaz|P. Díaz]] {{gol|86}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441674&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético River Plate|River Plate]]
+|resultado   = 2:1''' (1:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético Talleres (Córdoba)|Talleres (C)]]
+|árbitro     = {{Árbitro|URU|Gustavo Tejera}}
+|var         = {{Árbitro|URU|Leodán González}}
+|fecha       = {{fecha|21|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|asistencia  =
+|goleslocal  = [[Miguel Borja|Borja]] {{gol|34}}<br>[[Santiago Simón|Simón]] {{gol|50}}
+|golesvisita = [[Federico Girotti|Girotti]] {{gol|69}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441675&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local       = [[Botafogo de Futebol e Regatas|Botafogo]]
+|resultado   = 2:1''' (2:1)
+|paísvisita  = BRA
+|visita      = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|árbitro     = {{árbitro|URU|Esteban Ostojich}}
+|var         = {{árbitro|URU|Christian Ferreyra}}
+|fecha       = {{fecha|14|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Olímpico Nilton Santos|Estadio Nilton Santos]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 38{{esd}}848
+|goleslocal  = [[Luiz Henrique André Rosa da Silva|Luiz Henrique]] {{gol|22}}<br>[[Igor Jesus Maciel da Cruz|Igor Jesus]] {{gol|39}}
+|golesvisita = [[Maurício Magalhães Prado|Maurício]] {{gol|33}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441678&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado   = 2:2''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Botafogo de Futebol e Regatas|Botafogo]]
+|árbitro     = {{Árbitro|ARG|Facundo Tello}}
+|var         = {{Árbitro|ARG|Silvio Trucco}}
+|fecha       = {{fecha|21|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Allianz Parque]]
+|ciudad      = [[São Paulo]]
+|asistencia  = 40{{esd}}269
+|goleslocal  = [[José Manuel López (futbolista)|López]] {{gol|86}}<br>[[Ronielson da Silva Barbosa|Rony]] {{gol|90}}
+|golesvisita = [[Igor Jesus Maciel da Cruz|Igor Jesus]] {{gol|56}}<br>[[Jefferson Savarino|Savarino]] {{gol|64}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441679&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = URU
+|local       = [[Club Nacional de Football|Nacional]]
+|resultado   = 0:0
+|paísvisita  = BRA
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|árbitro     = {{árbitro|ARG|Facundo Tello}}
+|var         = {{árbitro|ARG|Jorge Baliño}}
+|fecha       = {{fecha|15|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Gran Parque Central]]
+|ciudad      = [[Montevideo]]
+|asistencia  = 31{{esd}}102
+|goleslocal  =
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441667&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|resultado   = 2:0''' (1:0)
+|paísvisita  = URU
+|visita      = [[Club Nacional de Football|Nacional]]
+|árbitro     = {{Árbitro|COL|Jhon Ospina}}
+|var         = {{Árbitro|COL|Jhon Perdomo}}
+|fecha       = {{fecha|22|8|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Morumbi]]
+|ciudad      = [[São Paulo]]
+|asistencia  = 60{{esd}}032
+|goleslocal  = [[Damián Bobadilla|Bobadilla]] {{gol|31}}<br>[[Jonathan Calleri|Calleri]] {{gol|47}}
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441669&titleText=Detalles%20Del%20Partido
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado   = 2:0''' (1:0)
+|paísvisita  = BOL
+|visita      = [[Club Bolívar|Bolívar]]
+|árbitro     = {{árbitro|COL|Wilmar Roldán}}
+|var         = {{árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha       = {{fecha|15|8|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 65{{esd}}381
+|goleslocal  = [[Luiz Araújo]] {{gol|29}}<br>[[Léo Pereira]] {{gol|89}}
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441670&titleText=Detalles%20Del%20Partido
+}}
+{{Partido
+|paíslocal   = BOL
+|local       = [[Club Bolívar|Bolívar]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|árbitro     = {{Árbitro|ARG|Yael Falcón Pérez}}
+|var         = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha       = {{fecha|22|8|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio     = [[Estadio Hernando Siles]]
+|ciudad      = [[La Paz]]
+|asistencia  = 29{{esd}}168
+|goleslocal  = [[Bruno Sávio]] {{gol|57}}
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2441671&titleText=Detalles%20Del%20Partido
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Libertadores 2024|l1=Cuartos de final de la Copa Libertadores 2024}}
+
+{{Partido
+|paíslocal   = BRA
+|local       = [[Fluminense Football Club|Fluminense]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|árbitro     = {{Árbitro|ARG|Facundo Tello}}
+|var         = {{Árbitro|ARG|Silvio Trucco}}
+|fecha       = {{fecha|18|9|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 54{{esd}}140 
+|goleslocal  = [[Vinícius Moreira de Lima|Lima]] {{gol|87}} 
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483162
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado   = 2:0''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Fluminense Football Club|Fluminense]]
+|árbitro     = {{Árbitro|COL|Wilmar Roldán}}
+|var         = {{Árbitro|COL|Jhon Perdomo}}
+|fecha       = {{fecha|25|9|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Arena MRV]]
+|ciudad      = [[Belo Horizonte]]
+|asistencia  = 43{{esd}}659 
+|goleslocal  = [[Deyverson Silva|Deyverson]] {{gol|50||88}}
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483163
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local       = [[Botafogo de Futebol e Regatas|Botafogo]]
+|resultado   = 0:0
+|paísvisita  = BRA
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|árbitro     = {{Árbitro|URU|Esteban Ostojich}}
+|var         = {{Árbitro|URU|Leodán González}}
+|fecha       = {{fecha|18|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Olímpico Nilton Santos|Estadio Nilton Santos]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 40{{esd}}089 
+|goleslocal  = 
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchPreview?gameId=2483290
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|resultado   = 1:1 {{sin negrita|(0:1)}}
+|paísvisita  = BRA
+|visita      = [[Botafogo de Futebol e Regatas|Botafogo]]
+|árbitro     = {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var         = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha       = {{fecha|25|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Morumbi]]
+|ciudad      = [[São Paulo]]
+|asistencia  = 61{{esd}}329 
+|goleslocal  = [[Jonathan Calleri|Calleri]] {{gol|87}}
+|golesvisita = [[Thiago Almada|Almada]] {{gol|15}}
+|resultado penalti = 4:5
+|penaltis1   = Calleri {{penfallo|travesaño}}<br>[[Luiz Gustavo]] {{pengol}}<br>[[Lucas Moura]] {{pengol}}<br>[[Igor Vinícius]] {{pengol}}<br>[[Luciano da Rocha Neves|Luciano]] {{pengol}}<br>[[Rodrigo Nestor]] {{penfallo|atajado}}
+|penaltis2   = {{pengol}} [[Tchê Tchê]]<br>{{pengol}} [[Danilo Barbosa da Silva|Danilo]]<br>{{pengol}} [[Fernando Marçal|Marçal]]<br>{{penfallo|desviado}} [[Vitinho (futbolista nacido en 1999)|Vitinho]]<br>{{pengol}} Almada<br>{{pengol}} [[Matheus Martins]]
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483291
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado   = 0:1''' (0:1)
+|paísvisita  = URU
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|árbitro     = {{Árbitro|VEN|Jesús Valenzuela}}
+|var         = {{Árbitro|VEN|Juan Soto Arévalo|Juan Soto}}
+|fecha       = {{fecha|19|9|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio de Maracaná|Estadio Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 64{{esd}}396 
+|goleslocal  = 
+|golesvisita = [[Javier Cabrera|Cabrera]] {{gol|13}}
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483292 
+}}
+{{Partido
+|paíslocal   = URU
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|resultado   = 0:0
+|paísvisita  = BRA
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|árbitro     = {{Árbitro|ARG|Facundo Tello}}
+|var         = {{Árbitro|ARG|Silvio Trucco}}
+|fecha       = {{fecha|26|9|}}, 19:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Campeón del Siglo]]
+|ciudad      = [[Montevideo]]
+|asistencia  = 38{{esd}}114
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483293 
+}}
+<br />
+{{Partido
+|paíslocal   = CHI
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|resultado   = 1:1''' (0:1)
+|paísvisita  = ARG
+|visita      = [[Club Atlético River Plate|River Plate]]
+|árbitro     = {{Árbitro|BRA|Raphael Claus}}
+|var         = {{Árbitro|BRA|Rodolpho Toski}}
+|fecha       = {{fecha|17|9|}}, 20:30 ([[UTC-04:00|UTC-4]])
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|asistencia  = 40{{esd}}885 
+|goleslocal  = [[Carlos Palacios Núñez|Palacios]] {{gol|61}}
+|golesvisita = [[Germán Pezzella|Pezzella]] {{gol|43}}
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483160
+}}
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético River Plate|River Plate]]
+|resultado   = 1:0''' (1:0)
+|paísvisita  = CHI
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|árbitro     = {{Árbitro|URU|Andrés Matonte}}
+|var         = {{Árbitro|URU|Leodán González}}
+|fecha       = {{fecha|24|9|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|asistencia  = 67{{esd}}195 
+|goleslocal  = [[Facundo Colidio|Colidio]] {{gol|16}}
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2483161
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Libertadores 2024|l1=Semifinales de la Copa Libertadores 2024}}
+
+{{Partido
+|paíslocal   = BRA
+|local       = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado   = 3:0 '''(1:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético River Plate|River Plate]]
+|árbitro     = {{Árbitro|VEN|Jesús Valenzuela}}
+|var         = {{árbitro|CHI|Juan Lara (árbitro)|Juan Lara}}
+|fecha       = {{fecha|22|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Arena MRV]]
+|ciudad      = [[Belo Horizonte]]
+|asistencia  = 44{{esd}}870
+|goleslocal  = [[Deyverson Silva|Deyverson]] {{gol|22||70}}<br>[[Paulinho (futbolista nacido en 2000)|Paulinho]] {{gol|74}}
+|golesvisita = 
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487358
+}}
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético River Plate|River Plate]]
+|resultado   = 0:0
+|paísvisita  = BRA
+|visita      = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|árbitro     = {{árbitro|COL|Wilmar Roldán}}
+|var         = {{árbitro|ECU|Carlos Orbe}}
+|fecha       = {{fecha|29|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|asistencia  = 64{{esd}}454 
+|goleslocal  = 
+|golesvisita = 
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487359
+}}
+<br />
+{{Partido
+|paíslocal   = BRA
+|local       = [[Botafogo de Futebol e Regatas|Botafogo]]
+|resultado   = 5:0 '''(0:0)
+|paísvisita  = URU
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|árbitro     = {{árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|var         = {{árbitro|COL|Yadir Acuña}}
+|fecha       = {{fecha|23|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Olímpico Nilton Santos|Estadio Nilton Santos]]
+|ciudad      = [[Río de Janeiro]]
+|asistencia  = 42{{esd}}982 
+|goleslocal  = [[Jefferson Savarino|Savarino]] {{gol|51||59}}<br>[[Alexander Barboza|Barboza]] {{gol|55}}<br>[[Luiz Henrique André Rosa da Silva|Luiz Henrique]] {{gol|73}}<br>[[Igor Jesus Maciel da Cruz|Igor Jesus]] {{gol|79}}
+|golesvisita =
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487515
+}}
+{{Partido
+|paíslocal   = URU
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|resultado   = 3:1 '''(1:0)
+|paísvisita  = BRA
+|visita      = [[Botafogo de Futebol e Regatas|Botafogo]]
+|árbitro     = {{árbitro|CHI|Piero Maza}}
+|var         = {{árbitro|CHI|José Cabero (árbitro)|José Cabero}}
+|fecha       = {{fecha|30|10|}}, 21:30 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Centenario]]{{Refn|El partido originalmente estaba programado para jugarse en el [[estadio Campeón del Siglo]], fue cambiado al estadio Centenario por motivos de seguridad.<ref>{{cita web|título=Cambio de estadio – Semifinal|url=https://www.conmebol.com/noticias/cambio-de-estadio-semifinal/|obra=conmebol.com|fechaacceso=29 de octubre de 2024}}</ref>|group=n.}}
+|ciudad      = [[Montevideo]]
+|asistencia  = 33{{esd}}034 
+|goleslocal  = [[Jaime Báez|Báez]] {{gol|31||66}}<br>[[Facundo Batista|Batista]] {{gol|89}}
+|golesvisita = [[Thiago Almada|Almada]] {{gol|88}}
+|reporte     = https://conmebollibertadores.com/cards/MatchCenter?gameId=2487516
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 2024|l1=Final de la Copa Libertadores 2024}}
+
+{{Partido
+|id          = MIN_BOT
+|paíslocal   = BRA
+|local       = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|resultado   = 1:3''' (0:2)
+|paísvisita  = BRA
+|visita      = [[Botafogo de Futebol e Regatas|Botafogo]]
+|árbitro     = {{árbitro|ARG|Facundo Tello}}
+|var         = {{árbitro|ARG|Mauro Vigliano}}
+|fecha       = {{fecha|30|11|}}, 17:00 ([[UTC-03:00|UTC-3]])
+|estadio     = [[Estadio Monumental (River Plate)|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|asistencia  = 69{{esd}}803
+|goleslocal  = [[Eduardo Vargas|Vargas]] {{gol|47}}
+|golesvisita = [[Luiz Henrique André Rosa da Silva|Luiz Henrique]] {{gol|35}}<br>[[Alex Telles]] {{gol|44|pen.}}<br>[[Júnior Santos]] {{gol|90+7}} 
+|reporte     = https://www.conmebollibertadores.com/cards/MatchCenter?gameId=2489501
+}}
+<br />
+{{Campeón
+|equipo = [[Botafogo de Futebol e Regatas|Botafogo]]
+|bandera = BRA
+|orden = 1
+|logo=}}
+{{clear}}
+
+== Estadísticas y premios ==
+
+=== Mejor jugador ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+|- bgcolor="D0E7FF"
+|{{Bandera|BRA}} '''[[Luiz Henrique André Rosa da Silva|Luiz Henrique]]'''<ref>{{Cita web|url=https://x.com/libertadoresbr/status/1862997600003101034?s=46|título=#HeroOfTheTournament|fechaacceso=2024-11-30|autor=Conmebol Libertadores}}</ref>'''
+|'''{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|Part.|Partidos jugados}}
+|- bgcolor="d0e7ff"
+|{{Bandera|BRA}} '''[[Júnior Santos]]'''
+| align="left"|{{Bandera|BRA}} '''[[Botafogo de Futebol e Regatas|Botafogo]]'''
+| align="center" |'''10'''
+| align="center" |'''11'''
+|- 
+|{{Bandera|BRA}} [[Paulinho (futbolista nacido en 2000)|Paulinho]]
+| align="left"|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |7
+| align="center" |12
+|-
+|{{Bandera|COL}} [[Miguel Borja]]
+| align="left"|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align="center" |6
+| align="center" |11
+|-
+|{{Bandera|URU}} [[Maximiliano Silvera]]
+| align="left"|{{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| align="center" |6
+| align="center" |12
+|-
+|{{Bandera|BRA}} [[Francisco da Costa Aragão|Francisco da Costa]]
+| align="left"|{{Bandera|BOL}} [[Club Bolívar|Bolívar]]
+| align="center" |5
+| align="center" |6
+|-
+|{{Bandera|BRA}} [[Pedro Guilherme Abreu dos Santos|Pedro]]
+| align="left"|{{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| align="center" |5
+| align="center" |6
+|-
+|{{Bandera|ARG}} [[Jonathan Calleri]]
+| align="left"|{{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+| align="center" |5
+| align="center" |8
+|}
+<center><small>Fuente: [https://www.livefutbol.com/goleadores/copa-libertadores-2024/ Livefutbol.com]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor="d0e7ff"
+|{{Bandera|URU}} '''[[Leonardo Fernández López|Leonardo Fernández]]'''
+| align="left"|{{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+| align="center" |'''6'''
+|- 
+|{{Bandera|BRA}} [[Hulk (futbolista)|Hulk]]
+| align="left"|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |5
+|- 
+|{{Bandera|BRA}} [[Ronielson da Silva Barbosa|Rony]]
+| align="left"|{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| align="center" |4
+|-
+|{{Bandera|BRA}} [[Gustavo Scarpa]]
+| align="left"|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+| align="center" |4 
+|-
+|{{Bandera|BRA}} [[Tiquinho Soares]]
+| align="left"|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| align="center" |4
+|}
+<center><small>Fuente: [https://www.livefutbol.com/asistencias/copa-libertadores-2024/ Livefutbol.com]</small></center>
+
+=== Equipo ideal ===
+{| align="center" bgcolor="#006699" cellpadding="3" cellspacing="0" border="0" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align="center" bgcolor="#006699" style="color:white;"
+! colspan="3" align="center" |Equipo Ideal 2024<ref>{{Cita web|url=https://www.espn.com.ar/futbol/copa-libertadores/nota/_/id/14536150/leo-fernandez-elegido-en-el-equipo-once-ideal-de-la-conmebol-2024-penarol|título=Leo Fernández, elegido en el equipo ideal de la CONMEBOL Libertadores 2024|fechaacceso=2024-12-09|fecha=2024-12-07|sitioweb=ESPN.com.ar|idioma=es}}</ref> 
+|- align="left" bgcolor="#006699" style="color:white;"
+! width="50" |Pos.
+! width="200" |Futbolista
+! width="200" |Equipo
+|- bgcolor="#F5FAFF" style="border-bottom:1px solid #000000;"
+|{{por}}
+|{{Bandera|BRA}} [[John (futbolista)|John]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#D0E7FF"
+|{{def}}
+|{{Bandera|ARG}} [[Fabricio Bustos]]
+|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|- bgcolor="#F5FAFF"
+|{{def}}
+|{{Bandera|ARG}} [[Rodrigo Battaglia]]
+|{{Bandera|BRA}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|- bgcolor="#D0E7FF"
+|{{def}}
+|{{Bandera|ARG}} [[Alexander Barboza]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#F5FAFF" style="border-bottom:1px solid #000000;"
+|{{def}}
+|{{Bandera|BRA}} [[Alex Telles]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#D0E7FF"
+|{{mdc}}
+|'''{{Bandera|BRA}}''' [[Marlon Freitas]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#F5FAFF"
+|{{mdc}}
+|{{Bandera|VEN}} [[Jefferson Savarino]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#D0E7FF" style="border-bottom:1px solid #000000;"
+|{{mdc}}
+|'''{{Bandera|URU}}''' [[Leonardo Fernández López|Leonardo Fernández]]
+|{{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|- bgcolor="#F5FAFF"
+|{{del}}
+|{{Bandera|BRA}} [[Luiz Henrique André Rosa da Silva|Luiz Henrique]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#D0E7FF"
+|{{del}}
+|{{Bandera|BRA}} [[Igor Jesus Maciel da Cruz|Igor Jesus]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|- bgcolor="#F5FAFF" style="border-bottom:1px solid #000000;"
+|{{del}}
+|{{Bandera|ARG}} [[Thiago Almada]]
+|{{Bandera|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+|}
+
+== Véase también ==
+* [[Copa Sudamericana 2024]]
+* [[Recopa Sudamericana 2024]]
+* [[Copa Libertadores Femenina 2024]]
+* [[Copa Libertadores Sub-20 de 2024]]
+* [[Anexo:Ranking de clubes de la Conmebol|''Ranking'' de clubes de la Conmebol]]
+* [[Anexo:Estadísticas de la Copa Libertadores|Estadísticas de la Copa Libertadores]]
+* [[Copa Mundial de Clubes de la FIFA 2025]]
+
+== Notas ==
+{{listaref|group=lower-alpha}}
+{{listaref|group=n.}}
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [https://www.conmebol.com Página web oficial] de [[Conmebol]]
+{{Facebook|CopaLibertadores|Copa Libertadores}}
+{{Twitter|Libertadores|Copa Libertadores}}
+{{Instagram|Libertadores|Copa Libertadores}}
+{{Facebook|CONMEBOL|Conmebol}}
+{{Twitter|CONMEBOL|Conmebol}}
+{{Instagram|CONMEBOL|Conmebol}}
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 2023|2023]]
+| título = Copa Libertadores 2024
+| período = LXV edición
+| sucesor = [[Copa Libertadores 2025|2025]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 2024]]
+[[Categoría:Temporadas de la Copa Libertadores|2024]]

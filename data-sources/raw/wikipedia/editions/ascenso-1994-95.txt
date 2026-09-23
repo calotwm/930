@@ -1,0 +1,1178 @@
+{{Ficha de competición deportiva
+|nombre          = Campeonato Nacional B 1994-95
+|nombre_original = [[Primera B Nacional]]
+|deporte         = fútbol
+|imagen          = Estudiantes-Clausura-1994.jpg
+|país            = [[Argentina]]
+|fecha de inicio = 27 de agosto de 1994
+|fecha de cierre = 29 de julio de 1995
+|edición         = IX temporada
+|televisión      = [[Canal 9 (Buenos Aires)|Canal 9 Libertad]]<!-- <br />[[365 Sports|CMM Sports]] -->
+|campeón         = [[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|goleador        = {{bandera|ARG}} [[Juan Alejandro Abaurre]]<br />(29 goles)<br />([[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]])
+|participantes   = 22 (+1)
+|partidos        = 476
+|goles           = 1213 (2,55 por partido)
+|ascendidos      = Estudiantes de La Plata <br /> [[Club Atlético Colón|Colón]]
+|descendidos     = [[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]] <br />  [[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]] <br /> [[Club Sportivo Italiano|Deportivo Italiano]]
+|anterior        = [[Campeonato Nacional B 1993-94|B Nacional 1993-94]]
+|siguiente       = [[Campeonato Nacional B 1995-96|B Nacional 1995-96]]
+}}
+
+El '''Torneo Nacional B 1994-1995''' fue la novena temporada de la [[Primera B Nacional]], la [[segunda categoría del fútbol argentino]]. Fue disputado entre el 27 de agosto de 1994 y el 29 de julio de 1995.
+
+Se incorporaron a la categoría [[Club Estudiantes de La Plata|Estudiantes de La Plata]] y [[Club de Gimnasia y Tiro|Gimnasia y Tiro (S)]], descendidos de la [[Campeonato de Primera División 1993-94 (Argentina)|Primera División]]; [[Club Atlético Chacarita Juniors|Chacarita Juniors]], campeón de la [[Campeonato de Primera B 1993-94 (Argentina)|Primera B]], [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz Antonio Tomba]], campeón del [[Torneo del Interior 1993-94|Torneo del Interior]] y [[Club Atlético Los Andes|Los Andes]], ganador del ''Torneo reducido'' de la Primera.
+
+El campeón fue [[Club Estudiantes de La Plata|Estudiantes de La Plata]], que se coronó cinco fechas antes de finalizar el torneo con puntaje récord. [[Club Atlético Colón|Colón]] obtuvo el segundo ascenso por medio del ''Torneo reducido''.
+
+Asimismo, descendieron [[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]], [[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]] y [[Club Sportivo Italiano (Argentina)|Deportivo Italiano]], todos ellos a la [[Campeonato de Primera B 1995-96 (Argentina)|Primera B Metropolitana]], por medio de la tabla de promedios.
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos del [[Campeonato Nacional B 1993-94|Nacional B 1993-94]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1992-93#Tabla_de_descenso|20.º]]
+|[[Club Atlético Chaco For Ever|Chaco For Ever]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1992-93#Tabla_de_descenso|21.º]]
+|[[Club Atlético Sarmiento (Junín)|Sarmiento (Junín)]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1992-93#Tabla_de_descenso|22.º]]
+|[[Club Atlético Ituzaingó|Ituzaingó]]
+
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos al Nacional B 1994-95
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1993-94 (Argentina)|1.º]]
+|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1993-94 (Argentina)|Gan. Red.]]
+|[[Club Atlético Los Andes|Los Andes]]
+|- style="background: #cfc;"
+|align=center|[[Torneo del Interior 1993-94|Torneo del Interior]]
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos a la [[Campeonato de Primera División 1994-95 (Argentina)|Primera División 1994-95]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1993-94|1.º]]
+|[[Gimnasia y Esgrima de Jujuy]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1993-94|Gan. Red.]]
+|[[Club Atlético Talleres (Córdoba)|Talleres (Córdoba)]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos de la [[Campeonato de Primera División 1993-94 (Argentina)|Primera División 1993-94]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1993-94_(Argentina)#Tabla_de_descenso|19.º]]
+|[[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1993-94_(Argentina)#Tabla_de_descenso|20.º]]
+|[[Club Gimnasia y Tiro|Gimnasia y Tiro (Salta)]]
+|}
+{{Final columnas}}
+
+== Equipos participantes ==
+<center>
+{| class="wikitable sortable"
+!Equipo
+!Ciudad
+!Estadio
+!Capacidad
+|-
+|[[Club Atlético All Boys|All Boys]]
+|[[Buenos Aires]]
+|[[Estadio Islas Malvinas|Islas Malvinas]]
+|12{{esd}}000
+|-
+|[[Club Almirante Brown|Almirante Brown]]
+|[[Isidro Casanova]]
+|[[Estadio Fragata Presidente Sarmiento|Fragata Presidente Sarmiento]]
+|25{{esd}}000
+|-
+|[[Arsenal Fútbol Club|Arsenal]]
+|[[Sarandí]]
+|[[Estadio Julio Humberto Grondona|Arsenal]]
+|5.900
+|-
+|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+|[[Rafaela]]
+|[[Estadio Nuevo Monumental|Nuevo Monumental]]
+|14{{esd}}660
+|-
+|[[Club Atlético Tucumán|Atlético Tucumán]]
+|[[San Miguel de Tucumán|Tucumán]]
+|[[Estadio Monumental José Fierro|Monumental José Fierro]]
+|29{{esd}}200
+|-
+|[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+|[[Rosario (Argentina)|Rosario]]
+|[[Estadio Gabino Sosa|Gabino Sosa]]
+|10{{esd}}000
+|-
+|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|[[Villa Maipú]]
+|[[Estadio de Chacarita Juniors|Chacarita Juniors]]
+|18{{esd}}000
+|-
+|[[Club Atlético Colón|Colón]]
+|[[Santa Fe (Argentina)|Santa Fe]]
+|[[Estadio Brigadier General Estanislao López|Brigadier Estanislao López]]
+|30{{esd}}700
+|-
+|-
+|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+|[[Gregorio de Laferrere (Buenos Aires)|Laferrere]]
+|[[Club_Social_y_Cultural_Deportivo_Laferrere#Estadio|Ciudad de Laferrere]]
+|10{{esd}}000
+|-
+|[[Club Deportivo Morón|Deportivo Morón]]
+|[[Morón (Buenos Aires)|Morón]]
+|[[Estadio Francisco Urbano|Francisco Urbano]]
+|19{{esd}}000
+|-
+|[[Club Atlético Douglas Haig|Douglas Haig]]
+|[[Pergamino (Buenos Aires)|Pergamino]]
+|[[Estadio Miguel Morales|Miguel Morales]]
+|16{{esd}}000
+|-
+|[[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|[[La Plata]]
+|[[Estadio Jorge Luis Hirschi|Jorge Luis Hirschi]]
+|28{{esd}}000
+|-
+|[[Club de Gimnasia y Tiro|Gimnasia y Tiro]]
+|[[Salta]]
+|[[Estadio El Gigante del Norte|Gigante del Norte]]
+|25{{esd}}000
+|-
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|[[Godoy Cruz]]
+|[[Estadio Feliciano Gambarte|Feliciano Gambarte]]
+|15{{esd}}000
+|-
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|[[Córdoba (Argentina)|Córdoba]]
+|[[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+|26{{esd}}000
+|-
+|[[Club Atlético Los Andes|Los Andes]]
+|[[Lomas de Zamora]]
+|[[Estadio Eduardo Gallardón|Eduardo Gallardón]]
+|33{{esd}}542
+|-
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|[[Buenos Aires]]
+|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|25{{esd}}000
+|-
+|[[Quilmes Atlético Club|Quilmes]]
+|[[Quilmes]]
+|[[Estadio Centenario Ciudad de Quilmes|Guido y Sarmiento]]
+|30{{esd}}000
+|-
+|[[Club Atlético San Martín (Tucumán)|San Martín]]
+|[[San Miguel de Tucumán|Tucumán]]
+|[[Estadio La Ciudadela|La Ciudadela]]
+|23{{esd}}500
+|-
+|[[Club Sportivo Italiano|Sportivo Italiano]]
+|[[Ciudad Evita]]
+|No posee<ref>Hizo de local, principalmente, en el estadio de [[Club Atlético All Boys|All Boys]].</ref>
+|-
+|[[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]]
+|[[Remedios de Escalada (Lanús)|Remedios de Escalada]]
+|[[Estadio de Talleres de Remedios de Escalada|Talleres de Remedios de Escalada]]
+|16{{esd}}000
+|-
+|[[Club Atlético Unión (Santa Fe)|Unión]]
+|[[Santa Fe (Argentina)|Santa Fe]]
+|[[Estadio 15 de Abril|15 de Abril]]
+|28{{esd}}000
+|}
+</center>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=220|Región
+! width=25|Cant.
+! width=480|Equipos
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires#Conurbano bonaerense|Conurbano bonaerense]]||align=center|9|| align="center" |Almirante Brown, Arsenal, Chacarita Juniors, Deportivo Italiano, Deportivo Laferrere, Deportivo Morón, Los Andes, Quilmes y Talleres (RdE)
+|-
+|{{bandera|Santa Fe}} [[Provincia de Santa Fe]]||align=center|4|| align="center" |Atlético de Rafaela, Central Córdoba (R), Colón y Unión
+|-
+|{{bandera|Buenos Aires}} Ciudad de [[Buenos Aires]]||align=center|2|| align="center" |All Boys y Nueva Chicago
+|-
+|{{bandera|Tucumán}} [[Provincia de Tucumán]]||align=center|2|| align="center" |Atlético Tucumán y San Martín
+|-
+|{{bandera|La Plata}} Ciudad de [[La Plata]]||align=center|1|| align="center" |Estudiantes
+|-
+|{{bandera|Provincia de Buenos Aires}} Interior de la [[provincia de Buenos Aires]]||align=center|1|| align="center" |Douglas Haig
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|1|| align="center" |Instituto
+|-
+|{{bandera|Mendoza}} [[Provincia de Mendoza]]|| align="center" |1|| align="center" |Godoy Cruz
+|-
+|{{bandera|Salta}} [[Provincia de Salta]]|| align="center" |1|| align="center" |Gimnasia y Tiro
+
+|}
+</center>
+
+== Formato ==
+=== Competición ===
+Se disputó un torneo de 42 fechas por el [[sistema de todos contra todos]] a dos ruedas, ida y vuelta.
+
+=== Ascensos ===
+El campeón ascendió a la [[Campeonato de Primera División 1995-96 (Argentina)|Primera División]]. Por su parte, los equipos ubicados entre el segundo y el octavo puesto, así como el campeón de la [[Campeonato de Primera B 1994-95 (Argentina)|Primera B]] disputaron un ''Torneo reducido'' por [[eliminación directa]]. El ganador ascendió junto con el campeón.
+
+=== Descensos ===
+Fueron definidos mediante una tabla de promedios determinados por el cociente entre los puntos obtenidos y los partidos jugados en las tres últimas temporadas. Los que ocuparon los tres últimos puestos descendieron a la [[tercera categoría del fútbol argentino|tercera categoría]], según correspondiera.
+
+== Tabla de posiciones final ==
+<center>
+{| class="wikitable sortable" style="text-align: center;"
+|- style="background:#dddddd;"
+!Pos
+!Equipos
+!Pts
+!PJ
+!PGT
+!PET
+!PPT
+!PGL
+!PEL
+!PPL
+!PGV
+!PEV
+!PPV
+!GF
+!GC
+!Dif
+|-style="background:#90EE90;"
+| 1||'''[[Club Estudiantes de La Plata|Estudiantes de La Plata]]
+|'''65'''||42 ||27 ||11 ||4 ||17 ||4 ||0 ||10 ||7 ||4 ||86 ||34 ||52
+|-style="background:#D0F0C0;"
+| 2||[[A. M. S. y D. Atlético de Rafaela|Atlético de Rafaela]]
+|'''54'''||42 ||21 ||12 ||9 ||15 ||5 ||1 ||6 ||7 ||8 ||68 ||38 ||30
+|-style="background:#D0F0C0;"
+| 3||[[Club Atlético Colón|Colón]]
+|'''52'''||42 ||20 ||12 ||10 ||16 ||3 ||2 ||4 ||9 ||8 ||73 ||44 ||29
+|-style="background:#D0F0C0;"
+| 4||[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|'''50'''||42 ||20 ||10 ||12 ||14 ||4 ||3 ||6 ||6 ||9 ||68 ||49 ||19
+|-style="background:#D0F0C0;"
+| 5||[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|'''48'''||42 ||20 ||8 ||14 ||14 ||5 ||2 ||6 ||3 ||12 ||68 ||50 ||18
+|-style="background:#D0F0C0;"
+| 6||[[Club de Gimnasia y Tiro|Gimnasia y Tiro (S)]]
+|'''48'''||42 ||17 ||14 ||11 ||12 ||7 ||2 ||5 ||7 ||9 ||51 ||49 ||2
+|-style="background:#D0F0C0;"
+| 7||[[Quilmes Atlético Club|Quilmes]]
+|'''45'''||42 ||13 ||19 ||10 ||8 ||9 ||4 ||5 ||10 ||6 ||48 ||40 ||8
+|-style="background:#D0F0C0;"
+| 8||[[Club Atlético All Boys|All Boys]]
+|'''45'''||42 ||16 ||13 ||13 ||12 ||5 ||4 ||4 ||8 ||9 ||66 ||63 ||3
+|-
+| 9||[[Club Atlético Douglas Haig|Douglas Haig]]
+|'''45'''||42 ||15 ||15 ||12 ||11 ||6 ||4 ||4 ||9 ||8 ||45 ||42 ||3
+|-
+|10||[[Club Atlético Unión (Santa Fe)|Unión]] <sup>1</sup>
+|'''44'''||42 ||17 ||12 ||13 ||11 ||5 ||5 ||6 ||7 ||8 ||70 ||54 ||16
+|-
+|11||[[Instituto Atlético Central Córdoba|Instituto]]
+|'''43'''||42 ||14 ||15 ||13 ||9 ||8 ||4 ||5 ||7 ||9 ||68 ||70 ||-2
+|-
+|12||[[Club Atlético Nueva Chicago|Nueva Chicago]]
+|'''41'''||42 ||14 ||13 ||15 ||10 ||7 ||4 ||4 ||6 ||11 ||55 ||61 ||-6
+|-
+|13||[[Club Deportivo Morón|Deportivo Morón]]
+|'''41'''||42 ||12 ||17 ||13 ||8 ||9 ||4 ||4 ||8 ||9 ||43 ||49 ||-6
+|-
+|14||[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+|'''40'''||42 ||10 ||20 ||12 ||8 ||8 ||5 ||2 ||12 ||7 ||51 ||55 ||-4
+|-
+|15||[[Club Atlético Los Andes|Los Andes]]
+|'''39'''||42 ||14 ||11 ||17 ||11 ||3 ||7 ||3 ||8 ||10 ||47 ||48 ||-1
+|-
+|16||[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+|'''39'''||42 ||12 ||15 ||15 ||6 ||11 ||4 ||6 ||4 ||11 ||50 ||56 ||-6
+|-
+|17||[[Club Almirante Brown|Almirante Brown]]
+|'''39'''||42 ||13 ||13 ||16 ||10 ||6 ||5 ||3 ||7 ||11 ||48 ||57 ||-9
+|-
+|18||[[Arsenal de Sarandí|Arsenal]]
+|'''36'''||42 ||9 ||18 ||15 ||6 ||12 ||3 ||3 ||6 ||12 ||47 ||61 ||-14
+|-
+|19||[[Club Sportivo Italiano|Deportivo Italiano]]
+|'''32'''||42 ||10 ||12 ||20 ||8 ||8 ||5 ||2 ||4 ||15 ||39 ||53 ||-14
+|-
+|20||[[Club Atlético Tucumán|Atlético Tucumán]]
+|'''32'''||42 ||9 ||14 ||19 ||8 ||9 ||4 ||1 ||5 ||15 ||45 ||67 ||-22
+|-
+|21||[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+|'''23'''||42 ||5 ||13 ||24 ||4 ||8 ||9 ||1 ||5 ||15 ||29 ||82 ||-53
+|-
+|22||[[Club Atlético Talleres (Remedios de Escalada)|Talleres (RdE)]]
+|'''21'''||42 ||6 ||9 ||27 ||3 ||6 ||12 ||3 ||3 ||15 ||26 ||69 ||-43
+|}
+
+{| 
+|-
+| style="width: 20px;"|
+|bgcolor=#ffffff|
+|-
+|bgcolor=#90EE90|
+|bgcolor=#ffffff align=left|<small>Campeón. Ascendió a Primera División.
+|-
+|bgcolor=#D0F0C0|
+|bgcolor=#ffffff align=left|<small>Clasificados al Torneo reducido.
+|}
+
+<sup>1</sup> Se le descontaron dos puntos tras los incidentes en el partido contra Instituto.
+
+</center>
+
+== Resultados ==
+
+{| table width=100%
+| width=33% valign="top" |
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''1ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''22ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-0 || Godoy Cruz-Atl.Tucumán ||1-1
+|- align=center bgcolor=#F5F5F5
+|0-0 || Laferrere-Colón ||1-5
+|- align=center bgcolor=#FFFFFF
+|1-0 || Italiano-Central Cba.(Ros) ||0-0
+|- align=center bgcolor=#F5F5F5
+|2-0 || Atl.Rafaela-Douglas Haig ||3-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Arsenal-All Boys ||4-0
+|- align=center bgcolor=#F5F5F5
+|0-2 || Los Andes-Morón ||1-3
+|- align=center bgcolor=#FFFFFF
+|1-2 || Chacarita-Talleres (RE) ||0-2
+|- align=center bgcolor=#F5F5F5
+|1-4 || Unión-Alm.Brown ||0-2
+|- align=center bgcolor=#FFFFFF
+|1-0 || San Martín (T)-Gimn. y Tiro ||1-3
+|- align=center bgcolor=#F5F5F5
+|2-2 || Instituto-Estudiantes (LP) ||0-1
+|- align=center bgcolor=#FFFFFF
+|0-0 || Chicago-Quilmes ||1-1
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''4ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''25ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-1 || Alm.Brown-Atl.Rafaela ||1-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Morón-Instituto ||0-0
+|- align=center bgcolor=#FFFFFF
+|0-0 || All Boys-Italiano ||2-2
+|- align=center bgcolor=#F5F5F5
+|2-0 || Douglas Haig-Chicago ||2-1
+|- align=center bgcolor=#FFFFFF
+|0-0 || Central Cba.(Ros)-Laferrere ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Quilmes-Atl.Tucumán ||2-0
+|- align=center bgcolor=#FFFFFF
+|0-2 || Talleres (RE)-Colón ||1-2
+|- align=center bgcolor=#F5F5F5
+|0-1 || Unión-Godoy Cruz ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-1 || San Martín (T)-Los Andes ||1-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Gimn. y Tiro-Arsenal ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Estudiantes (LP)-Chacarita ||2-2
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''7ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''28ª'''
+|- bgcolor="D3D3D3"
+|- align=center b1gcolor=#FFFFFF
+|1-0 || Atl.Tucumán-Douglas Haig ||0-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Godoy Cruz-Quilmes ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Talleres (RE)-Central Cba.(Ros) ||0-3
+|- align=center bgcolor=#F5F5F5
+|0-1 || Colón-Estudiantes (LP) ||1-5
+|- align=center bgcolor=#FFFFFF
+|0-2 || Laferrere-All Boys ||0-3
+|- align=center bgcolor=#F5F5F5
+|3-1 || Chicago-Alm.Brown ||3-3
+|- align=center bgcolor=#FFFFFF
+|1-1 || Italiano-Gimn. y Tiro ||0-0
+|- align=center bgcolor=#F5F5F5
+|2-2 || Instituto-San Martín (T) ||0-3
+|- align=center bgcolor=#FFFFFF
+|2-2 || Atl.Rafaela-Unión ||1-0
+|- align=center bgcolor=#F5F5F5
+|2-2 || Arsenal-Los Andes ||0-2
+|- align=center bgcolor=#FFFFFF
+|0-1 || Chacarita-Morón ||2-2
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''10ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''31ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-1 || Atl.Rafaela-Godoy Cruz ||0-3
+|- align=center bgcolor=#F5F5F5
+|0-0 || Arsenal-Instituto ||0-2
+|- align=center bgcolor=#FFFFFF
+|2-1 || Los Andes-Italiano ||1-0
+|- align=center bgcolor=#F5F5F5
+|3-1 || Unión-Chicago ||1-0
+|- align=center bgcolor=#FFFFFF
+|2-2 || Gimn. y Tiro-Laferrere ||1-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Alm.Brown-Atl.Tucumán ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-0 || All Boys-Talleres (RE) ||2-0<ref>Suspendido a los 45 minutos, cuando ganaba All Boys 1-0. El partido continuó el 11 de abril</ref>
+|- align=center bgcolor=#F5F5F5
+|3-1 || Douglas Haig-Quilmes ||1-1
+|- align=center bgcolor=#FFFFFF
+|4-0 || Estudiantes (LP)-Central Cba.(Ros) ||0-3
+|- align=center bgcolor=#F5F5F5
+|2-2 || San Martín (T)-Chacarita ||1-2
+|- align=center bgcolor=#FFFFFF
+|0-0 || Morón-Colón ||0-4
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''13ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''34ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-0 || Central Cba.(Ros)-Morón ||0-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Quilmes-Alm.Brown ||4-0
+|- align=center bgcolor=#FFFFFF
+|0-0 || Talleres (RE)-Gimn. y Tiro ||0-2
+|- align=center bgcolor=#F5F5F5
+|0-0 || Laferrere-Los Andes ||0-4
+|- align=center bgcolor=#FFFFFF
+|1-1 || Chacarita-Arsenal ||0-0
+|- align=center bgcolor=#F5F5F5
+|0-0 || Chicago-Atl.Rafaela ||0-7
+|- align=center bgcolor=#FFFFFF
+|3-0 || Italiano-Instituto ||2-1
+|- align=center bgcolor=#F5F5F5
+|1-0 || Godoy Cruz-Douglas Haig ||2-4
+|- align=center bgcolor=#FFFFFF
+|4-1 || Estudiantes (LP)-All Boys ||1-3
+|- align=center bgcolor=#F5F5F5
+|3-0 || Colón-San Martín (T) ||1-2
+|- align=center bgcolor=#FFFFFF
+|2-0 || Atl.Tucumán-Unión ||1-0
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''16ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''37ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-1 || Atl.Rafaela-Atl.Tucumán ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-1 || Unión-Quilmes ||1-2
+|- align=center bgcolor=#FFFFFF
+|1-1 || Gimn. y Tiro-Estudiantes (LP) ||0-1
+|- align=center bgcolor=#F5F5F5
+|4-0 || Chicago-Godoy Cruz ||0-1
+|- align=center bgcolor=#FFFFFF
+|0-0 || Italiano-Chacarita ||0-2
+|- align=center bgcolor=#F5F5F5
+|5-0 || Instituto-Laferrere ||3-1
+|- align=center bgcolor=#FFFFFF
+|1-0 || Arsenal-Colón ||2-4
+|- align=center bgcolor=#F5F5F5
+|1-0 || Los Andes-Talleres (RE) ||1-0
+|- align=center bgcolor=#FFFFFF
+|1-2 || San Martín (T)-Central Cba.(Ros) ||4-1
+|- align=center bgcolor=#F5F5F5
+|2-0 || Alm.Brown-Douglas Haig ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Morón-All Boys ||2-3
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''19ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''40ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-1 || Godoy Cruz-Alm.Brown ||2-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Estudiantes (LP)-Los Andes ||1-1
+|- align=center bgcolor=#FFFFFF
+|1-0 || Atl.Tucumán-Chicago ||0-1
+|- align=center bgcolor=#F5F5F5
+|0-0 || Morón-Gimn. y Tiro ||0-0
+|- align=center bgcolor=#FFFFFF
+|1-1 || All Boys-San Martín (T) ||1-3
+|- align=center bgcolor=#F5F5F5
+|3-0 || Douglas Haig-Unión ||1-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Central Cba.(Ros)-Arsenal ||2-0
+|- align=center bgcolor=#F5F5F5
+|0-0 || Talleres (RE)-Instituto ||1-5
+|- align=center bgcolor=#FFFFFF
+|3-0 || Colón-Italiano ||2-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Laferrere-Chacarita ||2-2
+|- align=center bgcolor=#FFFFFF
+|1-1 || Quilmes-Atl.Rafaela ||0-2
+|}
+
+| width=33% valign="top" |
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''2ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''23ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-0 || Alm.Brown-Los Andes ||0-1
+|- align=center bgcolor=#F5F5F5
+|1-0 || Morón-Arsenal ||1-1
+|- align=center bgcolor=#FFFFFF
+|2-0 || All Boys-Atl.Rafaela ||0-2
+|- align=center bgcolor=#F5F5F5
+|0-3 || Central Cba.(Ros)-Chicago ||0-1
+|- align=center bgcolor=#FFFFFF
+|2-0 || Talleres (RE)-Laferrere ||1-1
+|- align=center bgcolor=#F5F5F5
+|2-2 || San Martín (T)-Godoy Cruz ||1-2
+|- align=center bgcolor=#FFFFFF
+|0-0 || Quilmes-Chacarita ||2-2
+|- align=center bgcolor=#F5F5F5
+|2-0 || Colón-Atl.Tucumán ||2-3
+|- align=center bgcolor=#FFFFFF
+|1-3 || Gimn. y Tiro-Unión ||1-5
+|- align=center bgcolor=#F5F5F5
+|1-1 || Douglas Haig-Instituto ||0-2
+|- align=center bgcolor=#FFFFFF
+|4-0 || Estudiantes (LP)-Italiano ||1-1
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''5ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''26ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-2 || Godoy Cruz-Talleres (RE) ||2-1
+|- align=center bgcolor=#F5F5F5
+|1-2 || Laferrere-Estudiantes (LP) ||0-5
+|- align=center bgcolor=#FFFFFF
+|3-0 || Chacarita-Douglas Haig ||0-0<ref>Suspendido a los 45 minutos. El partido continuó el 26 de abril</ref>
+|- align=center bgcolor=#F5F5F5
+|2-0 || Italiano-Morón ||0-1
+|- align=center bgcolor=#FFFFFF
+|0-0 || Instituto-Alm.Brown ||1-0
+|- align=center bgcolor=#F5F5F5
+|1-0 || Atl.Rafaela-Gimn. y Tiro ||0-2
+|- align=center bgcolor=#FFFFFF
+|1-2 || Arsenal-San Martín (T) ||0-7
+|- align=center bgcolor=#F5F5F5
+|1-3 || Los Andes-Unión ||1-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Colón-Quilmes ||0-1
+|- align=center bgcolor=#F5F5F5
+|4-1 || Atl.Tucumán-Central Cba.(Ros) ||0-4
+|- align=center bgcolor=#FFFFFF
+|0-0 || Chicago-All Boys ||0-2
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''8ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''29ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|3-2 || All Boys-Atl.Tucumán ||3-3
+|- align=center bgcolor=#F5F5F5
+|2-1 || Arsenal-Godoy Cruz ||4-0
+|- align=center bgcolor=#FFFFFF
+|1-0 || Los Andes-Atl.Rafaela ||1-1
+|- align=center bgcolor=#F5F5F5
+|2-2<ref>Suspendido a los 9 minutos, cuando empataban en cero. El partido continuó el 12 de diciembre</ref> || Unión-Instituto ||1-4
+|- align=center bgcolor=#FFFFFF
+|2-1 || San Martín (T)-Italiano ||0-3
+|- align=center bgcolor=#F5F5F5
+|2-3 || Gimn. y Tiro-Chicago ||1-4
+|- align=center bgcolor=#FFFFFF
+|1-1 || Alm.Brown-Chacarita ||4-2
+|- align=center bgcolor=#F5F5F5
+|3-0 || Morón-Laferrere ||1-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Douglas Haig-Colón ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Central Cba.(Ros)-Quilmes ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-0 || Estudiantes (LP)-Talleres (RE) ||3-1
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''11ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''32ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|0-1 || Godoy Cruz-Estudiantes (LP) ||1-3
+|- align=center bgcolor=#F5F5F5
+|3-0 || Colón-Alm.Brown ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-0 || Quilmes-All Boys ||0-1
+|- align=center bgcolor=#F5F5F5
+|0-1 || Central Cba.(Ros)-Douglas Haig ||3-2
+|- align=center bgcolor=#FFFFFF
+|2-3 || Talleres (RE)-Morón ||1-0
+|- align=center bgcolor=#F5F5F5
+|3-1 || Atl.Tucumán-Gimn. y Tiro ||1-4
+|- align=center bgcolor=#FFFFFF
+|0-2 || Laferrere-San Martín (T) ||0-1
+|- align=center bgcolor=#F5F5F5
+|2-2 || Chacarita-Unión ||1-5
+|- align=center bgcolor=#FFFFFF
+|2-1 || Chicago-Los Andes ||1-0
+|- align=center bgcolor=#F5F5F5
+|0-0 || Italiano-Arsenal ||1-2
+|- align=center bgcolor=#FFFFFF
+|1-3 ||  Instituto-Atl.Rafaela ||4-2
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''14ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''35ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|0-4 || Italiano-Godoy Cruz ||2-4
+|- align=center bgcolor=#F5F5F5
+|1-1 ||  Instituto-Chicago ||2-1
+|- align=center bgcolor=#FFFFFF
+|2-0 || Atl.Rafaela-Chacarita ||4-0
+|- align=center bgcolor=#F5F5F5
+|1-1 || Arsenal-Laferrere ||3-4
+|- align=center bgcolor=#FFFFFF
+|2-2 || Los Andes-Atl.Tucumán ||3-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Unión-Colón ||1-3
+|- align=center bgcolor=#FFFFFF
+|2-1 || Gimn. y Tiro-Quilmes ||2-2
+|- align=center bgcolor=#F5F5F5
+|4-1 || Alm.Brown-Central Cba.(Ros) ||0-0
+|- align=center bgcolor=#FFFFFF
+|0-0 || All Boys-Douglas Haig ||2-1
+|- align=center bgcolor=#F5F5F5
+|4-0 || San Martín (T)-Talleres (RE) ||2-0
+|- align=center bgcolor=#FFFFFF
+|1-0 || Morón-Estudiantes (LP) ||0-3
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''17ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''38ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-0 || Godoy Cruz-Morón ||1-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Atl.Tucumán-Instituto ||1-4
+|- align=center bgcolor=#FFFFFF
+|1-0 || Estudiantes (LP)-San Martín (T) ||3-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Colón-Atl.Rafaela ||0-0
+|- align=center bgcolor=#FFFFFF
+|1-0 || All Boys-Alm.Brown ||3-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Douglas Haig-Gimn. y Tiro ||2-2
+|- align=center bgcolor=#FFFFFF
+|3-3 || Central Cba.(Ros)-Unión ||0-0
+|- align=center bgcolor=#F5F5F5
+|0-0 || Quilmes-Los Andes ||1-0
+|- align=center bgcolor=#FFFFFF
+|0-2 || Talleres (RE)-Arsenal ||0-4
+|- align=center bgcolor=#F5F5F5
+|0-0 || Laferrere-Italiano ||1-0
+|- align=center bgcolor=#FFFFFF
+|3-1 || Chacarita-Chicago ||0-1
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''20ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''41ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-1 || Instituto-Quilmes ||0-0
+|- align=center bgcolor=#F5F5F5
+|3-2 || Atl.Rafaela-Central Cba.(Ros) ||0-1
+|- align=center bgcolor=#FFFFFF
+|4-3 || Unión-All Boys ||4-1
+|- align=center bgcolor=#F5F5F5
+|1-0 || San Martín (T)-Morón ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-0 || Gimn. y Tiro-Alm.Brown ||0-2
+|- align=center bgcolor=#F5F5F5
+|2-2 || Laferrere-Godoy Cruz ||0-0
+|- align=center bgcolor=#FFFFFF
+|1-1 || Chacarita-Atl.Tucumán ||2-2
+|- align=center bgcolor=#F5F5F5
+|1-0 || Italiano-Talleres (RE) ||1-0
+|- align=center bgcolor=#FFFFFF
+|1-5 || Arsenal-Estudiantes (LP) ||2-3
+|- align=center bgcolor=#F5F5F5
+|0-0 || Los Andes-Douglas Haig ||1-1
+|- align=center bgcolor=#FFFFFF
+|5-3 || Chicago-Colón ||1-1
+|}
+
+| width=33% valign="top" |
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''3ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''24ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-3 || Godoy Cruz-Colón ||1-2
+|- align=center bgcolor=#F5F5F5
+|2-1 || Laferrere-Quilmes ||0-2
+|- align=center bgcolor=#FFFFFF
+|2-0 || Chacarita-Central Cba.(Ros) ||1-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Italiano-Douglas Haig ||1-3
+|- align=center bgcolor=#FFFFFF
+|0-0 || Instituto-All Boys ||2-6
+|- align=center bgcolor=#F5F5F5
+|2-1 || Atl.Rafaela-Morón ||3-2
+|- align=center bgcolor=#FFFFFF
+|0-0 || Arsenal-Alm.Brown ||3-3
+|- align=center bgcolor=#F5F5F5
+|3-2 || Unión-San Martín (T) ||0-1
+|- align=center bgcolor=#FFFFFF
+|0-1 || Los Andes-Gimn. y Tiro ||0-1
+|- align=center bgcolor=#F5F5F5
+|0-0 || Atl.Tucumán-Talleres (RE) ||1-1
+|- align=center bgcolor=#FFFFFF
+|0-0 || Chicago-Estudiantes (LP) ||1-4
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''6ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''27ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|0-1 || Los Andes-Godoy Cruz ||1-3
+|- align=center bgcolor=#F5F5F5
+|1-0 || Alm.Brown-Italiano ||1-5
+|- align=center bgcolor=#FFFFFF
+|2-2 || Morón-Chicago ||2-2
+|- align=center bgcolor=#F5F5F5
+|0-1 || All Boys-Chacarita ||0-2
+|- align=center bgcolor=#FFFFFF
+|2-0 || Douglas Haig-Laferrere ||1-0
+|- align=center bgcolor=#F5F5F5
+|1-1 || Estudiantes (LP)-Atl.Tucumán ||3-0
+|- align=center bgcolor=#FFFFFF
+|1-1 || Central Cba.(Ros)-Colón ||2-0
+|- align=center bgcolor=#F5F5F5
+|2-1 || Quilmes-Talleres (RE) ||1-0
+|- align=center bgcolor=#FFFFFF
+|1-0 || Unión-Arsenal ||0-0
+|- align=center bgcolor=#F5F5F5
+|1- || San Martín (T)-Atl.Rafaela ||1-5
+|- align=center bgcolor=#FFFFFF
+|4-3 || Gimn. y Tiro-Instituto ||2-1
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''9ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''30ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-2 || Godoy Cruz-Central Cba.(Ros) ||1-2
+|- align=center bgcolor=#F5F5F5
+|0-1 || Quilmes-Estudiantes (LP) ||2-2
+|- align=center bgcolor=#FFFFFF
+|0-1 || Talleres (RE)-Douglas Haig ||0-1
+|- align=center bgcolor=#F5F5F5
+|0-3 || Laferrere-Alm.Brown ||0-3
+|- align=center bgcolor=#FFFFFF
+|1-2 || Chacarita-Gimn. y Tiro ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-2 || Chicago-San Martín (T) ||1-2
+|- align=center bgcolor=#FFFFFF
+|2-0 || Instituto-Los Andes ||2-3
+|- align=center bgcolor=#F5F5F5
+|2-1 || Atl.Rafaela-Arsenal ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-0 || Colón-All Boys ||3-3
+|- align=center bgcolor=#F5F5F5
+|1-1 || Atl.Tucumán-Morón ||2-3
+|- align=center bgcolor=#FFFFFF
+|1-0 || Italiano-Unión ||0-2
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''12ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''33ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|2-1 || Instituto-Godoy Cruz ||1-7
+|- align=center bgcolor=#F5F5F5
+|2-0 || Atl.Rafaela-Italiano ||1-1
+|- align=center bgcolor=#FFFFFF
+|5-1 || Unión-Laferrere ||3-1
+|- align=center bgcolor=#F5F5F5
+|0-0 || Gimn. y Tiro-Colón ||0-4
+|- align=center bgcolor=#FFFFFF
+|1-2 || Los Andes-Chacarita ||1-1
+|- align=center bgcolor=#F5F5F5
+|0-0 || San Martín (T)-Atl.Tucumán ||1-1
+|- align=center bgcolor=#FFFFFF
+|2-1 || Alm.Brown-Talleres (RE) ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-1 || Morón-Quilmes ||3-2
+|- align=center bgcolor=#FFFFFF
+|4-2 || All Boys-Central Cba.(Ros) ||1-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Douglas Haig-Estudiantes (LP) ||0-2
+|- align=center bgcolor=#FFFFFF
+|3-3 || Arsenal-Chicago ||0-0
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''15ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''36ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-0 || Estudiantes (LP)-Alm.Brown ||4-1
+|- align=center bgcolor=#F5F5F5
+|1-0 || Godoy Cruz-All Boys ||2-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Douglas Haig-Morón ||1-1
+|- align=center bgcolor=#F5F5F5
+|1-1 || Central Cba.(Ros)-Gimn. y Tiro ||0-1
+|- align=center bgcolor=#FFFFFF
+|2-1 || Quilmes-San Martín (T) ||0-0
+|- align=center bgcolor=#F5F5F5
+|0-2 || Talleres (RE)-Unión ||3-2
+|- align=center bgcolor=#FFFFFF
+|1-0 || Colón-Los Andes ||1-2
+|- align=center bgcolor=#F5F5F5
+|1-1 || Chicago-Italiano ||2-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Atl.Tucumán-Arsenal ||1-3
+|- align=center bgcolor=#F5F5F5
+|0-1 || Laferrere-Atl.Rafaela ||0-4
+|- align=center bgcolor=#FFFFFF
+|5-0 || Chacarita-Instituto ||0-3
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''18ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''39ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|1-1 || Chacarita-Godoy Cruz ||1-3
+|- align=center bgcolor=#F5F5F5
+|3-3 ||  Instituto-Colón ||0-4
+|- align=center bgcolor=#FFFFFF
+|2-2 || Gimn. y Tiro-All Boys ||0-0
+|- align=center bgcolor=#F5F5F5
+|1-0 || Chicago-Laferrere ||1-3
+|- align=center bgcolor=#FFFFFF
+|2-0 || Italiano-Atl.Tucumán ||1-2
+|- align=center bgcolor=#F5F5F5
+|1-1 || Arsenal-Quilmes ||1-0
+|- align=center bgcolor=#FFFFFF
+|2-0 || Los Andes-Central Cba.(Ros) ||1-1
+|- align=center bgcolor=#F5F5F5
+|0-1 || Unión-Estudiantes (LP) ||1-1
+|- align=center bgcolor=#FFFFFF
+|3-0 || Atl.Rafaela-Talleres (RE) ||0-0
+|- align=center bgcolor=#F5F5F5
+|2-0 || San Martín (T)-Douglas Haig ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-1 || Alm.Brown-Morón ||2-0
+|}
+
+
+{| border=0 cellspacing=0 cellpadding=0 style="font-size: 85%; border-collapse: collapse;" width=90%
+|- style="color:#FFFFFF;" align=center
+| bgcolor=#98A1B2  | '''21ª'''
+| bgcolor=#98A1B2  | '''fechas'''
+| bgcolor=#98A1B2  | '''42ª'''
+|- bgcolor="D3D3D3"
+|- align=center bgcolor=#FFFFFF
+|0-0 || Godoy Cruz-Gimn. y Tiro ||0-2
+|- align=center bgcolor=#F5F5F5
+|0-0 || Morón-Unión ||0-1
+|- align=center bgcolor=#FFFFFF
+|1-0 || Douglas Haig-Arsenal ||1-1
+|- align=center bgcolor=#F5F5F5
+|2-1 || Quilmes-Italiano ||1-1
+|- align=center bgcolor=#FFFFFF
+|2-1 || Atl.Tucumán-Laferrere ||1-2
+|- align=center bgcolor=#F5F5F5
+|0-2 || Alm.Brown-San Martín (T) ||0-2
+|- align=center bgcolor=#FFFFFF
+|1-7 || All Boys-Los Andes ||1-1
+|- align=center bgcolor=#F5F5F5
+|2-2 || Central Cba.(Ros)-Instituto ||3-1
+|- align=center bgcolor=#FFFFFF
+|1-0 || Colón-Chacarita ||0-1
+|- align=center bgcolor=#F5F5F5
+|3-1 || Estudiantes (LP)-Atl.Rafaela ||0-1
+|- align=center bgcolor=#FFFFFF
+|2-0 || Talleres (RE)-Chicago ||1-2
+|}
+|}
+
+== Torneo reducido por el segundo ascenso ==
+
+Lo disputaron por [[eliminación directa]] a partidos de ida y vuelta, los equipos ubicados del segundo al octavo puesto de la tabla final de posiciones, a los que se agregó [[Club Atlético Atlanta|Atlanta]], campeón de la [[Campeonato de Primera B 1994-95 (Argentina)|Primera B]]
+
+El ganador fue [[Club Atlético Colón|Colón]].
+
+{{Copa de 8 clubes
+
+<!--Fechas-->
+| cuartos = 24 junio al 2 julio
+| semifinal = 8 al 16 julio
+| final = 23 y 29 julio
+
+<!-- Cuartos de Final -->
+| RD1-equipo01 = {{bandera|Santa Fe}} '''[[Club Atlético Colón|Colón]] <small>([[Regla del gol de visitante|v]])</small>
+| RD1-equipo02 = {{bandera|Buenos Aires}} [[Club Atlético All Boys|All Boys]]
+| RD1-goles01ida = 1
+| RD1-goles02ida = 1
+| RD1-goles01vuelta = 0
+| RD1-goles02vuelta = 0
+
+| RD1-equipo03 = {{bandera|Mendoza}} '''[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]] <small>([[Regla del gol de visitante|v]])</small>
+| RD1-equipo04 = {{bandera|Provincia de Buenos Aires}} [[Quilmes Atlético Club|Quilmes]]
+| RD1-goles03ida = 1
+| RD1-goles04ida = 1
+| RD1-goles03vuelta = 0
+| RD1-goles04vuelta = 0
+
+| RD1-equipo05 = {{bandera|Santa Fe}} '''[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético Rafaela]]
+| RD1-equipo06 = {{bandera|Buenos Aires}} [[Club Atlético Atlanta|Atlanta]]
+| RD1-goles05ida = 1
+| RD1-goles06ida = 2
+| RD1-goles05vuelta = 2
+| RD1-goles06vuelta = 1
+
+| RD1-equipo07 = {{bandera|Tucumán}} '''[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+| RD1-equipo08 = {{bandera|Salta}} [[Club de Gimnasia y Tiro de Salta|Gimnasia y Tiro (S)]]
+| RD1-goles07ida = 0
+| RD1-goles08ida = 0
+| RD1-goles07vuelta = 1
+| RD1-goles08vuelta = 0
+
+<!-- Semifinales -->
+| RD2-equipo01 = {{bandera|Santa Fe}} '''[[Club Atlético Colón|Colón]]
+| RD2-equipo02 = {{bandera|Mendoza}} [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+| RD2-goles01ida = 0
+| RD2-goles02ida = 0
+| RD2-goles01vuelta = 5
+| RD2-goles02vuelta = 0
+
+| RD2-equipo03 = {{bandera|Santa Fe}} [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético Rafaela]]
+| RD2-equipo04 = {{bandera|Tucumán}} '''[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+| RD2-goles03ida = 0
+| RD2-goles04ida = 1
+| RD2-goles03vuelta = 0
+| RD2-goles04vuelta = 0
+
+<!-- Final -->
+| RD3-equipo01 = {{bandera|Santa Fe}} '''[[Club Atlético Colón|Colón]]
+| RD3-equipo02 = {{bandera|Tucumán}} [[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+| RD3-goles01ida = 1
+| RD3-goles02ida = 0
+| Dos finales = si
+| RD3-goles01vuelta = 3
+| RD3-goles02vuelta = 1
+}}
+
+== Tabla de descenso ==
+
+<center>
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+![[Campeonato Nacional B 1992-93|1992-93]]
+![[Campeonato Nacional B 1993-94|1993-94]]
+! 1994-95
+! Total
+! PJ
+! Promedio
+|-
+||'''1.º'''||align="left"|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|| —||—||65||65||42||'''1,548'''
+|-
+||'''2.º'''||align="left"|[[Club Atlético Colón|Colón]]
+||56||47||52||155||126||'''1,230'''
+|-
+||'''3.º'''||align="left"|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz]]
+|| —||—||50||50||42||'''1,190'''
+|-
+||'''4.º'''||align="left"|[[Club de Gimnasia y Tiro|Gimnasia y Tiro (S)]]
+||51||—||48||99||84||'''1,179'''
+|-
+||'''5.º'''||align="left"|[[Quilmes Atlético Club|Quilmes]]
+||45||55||45||145||126||'''1,151'''
+|-
+||'''6.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (T)]]
+|| —||47||48||95||84||'''1,131'''
+|-
+||'''7.º'''||align="left"|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+|| 43||42||54||139||126||'''1,103'''
+|-
+||'''8.º'''||align="left"|[[Club Atlético All Boys|All Boys]]
+||—||45||45||90||84||'''1,071'''
+|-
+||'''9.º'''||align="left"|[[Club Atlético Nueva Chicago|Nueva Chicago]]
+||44||46||41||131||126||'''1,040'''
+|-
+||'''10.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+|| 41||46||43||130||126||'''1,032'''
+|-
+||'''11.º'''||align="left"|[[Club Atlético Unión (Santa Fe)|Unión]]
+|| 43||43||44||130||126||'''1,032'''
+|-
+||'''12.º'''||align="left"|[[Arsenal Fútbol Club|Arsenal]]
+|| 45||43||36||124||126||'''0,984'''
+|- 
+||'''13.º'''||align="left"|[[Club Almirante Brown|Almirante Brown]]
+||45||38||39||122||126||'''0,968'''
+|-
+||'''14.º'''||align="left"|[[Club Deportivo Morón|Deportivo Morón]]
+||35||45||41||121||126||'''0,960'''
+|-
+||'''15.º'''||align="left"|[[Club Atlético Chacarita Juniors|Chacarita Juniors]]
+||—||—||40||40||42||'''0,952'''
+|-
+||'''16.º'''||align="left"|[[Club Atlético Douglas Haig|Douglas Haig]]
+||34||41||45||120||126||'''0,952'''
+|-
+||'''17.º'''||align="left"|[[Club Atlético Tucumán|Atlético Tucumán]]
+||42||45||32||119||126||'''0,944'''
+|-
+||'''18.º'''||align="left"|[[Club Atlético Central Córdoba (Rosario)|Central Córdoba (R)]]
+||46||34||39||119||126||'''0,944'''
+|-
+||'''19.º'''||align="left"|[[Club Atlético Los Andes|Los Andes]]
+|| —||—||39||42||42||'''0,929'''
+|- style="background: #FFCCCC;"
+||'''20.º'''||align="left"|[[Club Sportivo Italiano|Deportivo Italiano]]
+||48||36||32||116||126||'''0,921'''
+|- style="background: #FFCCCC;"
+||'''21.º'''||align="left"|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+|| 40||39||23||102||126||'''0,810'''
+|- style="background: #FFCCCC;"
+||'''22.º'''||align="left"|[[Club Atlético Talleres (Remedios de Escalada)|Talleres (RE)]]
+||41||32||21||94||126||'''0,746'''
+{{Tabla de posiciones fin
+ |color1=#FFCCCC| texto1=Descendieron a la [[Tercera categoría del fútbol argentino|tercera categoría]].
+}}
+</center>
+
+[[Club Atlético Talleres (Remedios de Escalada)|Talleres (Remedios de Escalada)]], [[Club Social y Cultural Deportivo Laferrere|Dep. Laferrere]] y [[Club Sportivo Italiano|Deportivo Italiano]] descendieron a la [[Primera B Metropolitana]] por peor promedio en las últimas tres temporadas.
+
+== Referencias ==
+{{listaref}}
+== Enlaces externos ==
+*[http://www.rsssf.com/tablesa/arg2-95.html RSSSF]
+
+{{Sucesión
+|título= IX Torneo de [[Primera B Nacional]]
+|período=<small>'''Campeón: [[Club Estudiantes de La Plata|Estudiantes de La Plata]]''' ({{Ord|1.|er}} título)</small>  
+|predecesor= [[Campeonato Nacional B 1993-94|Nacional B 1993-94]]
+|sucesor= [[Torneo Nacional B 1995-96|Nacional B 1995-96]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Fútbol en Argentina en 1994]]
+[[Categoría:Fútbol en Argentina en 1995]]
+[[Categoría:Primera B Nacional|1994-95]]

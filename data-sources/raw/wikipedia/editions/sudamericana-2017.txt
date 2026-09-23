@@ -1,0 +1,1547 @@
+{{Ficha de competición deportiva
+| nombre          = Copa Sudamericana 2017
+| nombre_original = [[Copa Sudamericana]]
+| deporte         = fútbol
+| tipo            = 
+| pais            = 
+| año             = 2017
+| imagen          = Estádio Maracanã 1.jpg
+| imagen_tamaño   = 300px
+| imagen_pie      = El [[estadio de Maracaná]] ([[Río de Janeiro]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2017|final]]
+| participantes   = 54 de 10 países
+| calificados     = 
+| ubicación       = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|28|2|2017}}
+| fecha de cierre = {{fecha2|13|12|2017}}
+| edición         = XVI
+| campeón         = {{bandera|ARG}} '''[[Club Atlético Independiente|Independiente]]''' <small>(2.º título)</small>
+| subcampeón      = {{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] 
+| semifinalistas  = {{bandera|COL}} [[Junior de Barranquilla|Junior]]<br>{{bandera|PAR}} [[Club Libertad|Libertad]]
+| inicio          = 
+| organizador     = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| patrocinador    = 
+| televisión      =
+| premio          = 
+| recaudación     = 
+| partidos        = 106
+| goles           = 262 (2,47 por partido)
+| país            = 
+|anterior         = [[Copa Sudamericana 2016]]
+|actual           = Copa Sudamericana 2017
+|siguiente        = [[Copa Sudamericana 2018]]
+|página web       = 
+|goleadores={{bandera|Argentina}} [[Luis Miguel Rodríguez|Luis Rodríguez]] (5 goles)<br><small>([[Club Atlético Tucumán|Atlético Tucumán]])</small><br>{{bandera|ECU}} [[Jhon Cifuente]] (5 goles)<br><small>([[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]])</small><br>{{bandera|BRA}} [[Felipe Vizeu]] (5 goles)<br><small>([[Clube de Regatas do Flamengo|Flamengo]])</small>}}
+La '''[[Copa Sudamericana]] 2017''', denominada oficialmente '''Copa Conmebol Sudamericana 2017''', fue la decimosexta edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El 2 de octubre de 2016, se dio a conocer el nuevo formato, con la disputa de febrero a diciembre y con la norma de que un mismo equipo no podrá clasificar a la [[Copa Libertadores de América|Copa Libertadores]] y la [[Copa Sudamericana]] del mismo año. Además, habrá transferencia de clubes eliminados de la Copa Libertadores a la Copa Sudamericana, se mantendrá la final a ida y vuelta y se suprimirán los cruces regionales.<ref>{{Cita web|url=https://www.teradeportes.com/asi-se-jugaran-la-copa-libertadores-y-copa-sudamericana-cupos-equipos-final|título=Nuevo Formato Competiciones 2017|fechaacceso=|autor=|enlaceautor=|fecha=|idioma=|sitioweb=|editorial=}}</ref><ref>{{Cita web|url=https://www.conmebol.com/es/la-copa-sudamericana-2017-reunira-44-clubes|título=La Copa Sudamericana 2017 reunirá a 44 clubes|fechaacceso=6 de diciembre de 2016|autor=Conmebol|enlaceautor=|fecha=6 de diciembre de 2016|idioma=|sitioweb=|editorial=}}</ref>
+
+El sorteo de la primera fase se realizó el martes 31 de enero de 2017 en la sede de la [[Confederación Sudamericana de Fútbol|Conmebol]] situada en [[Luque (Paraguay)|Luque]], [[Paraguay]].<ref>{{cita web|url=https://www.conmebol.com/es/conmebol-sortea-el-calendario-de-partidos-de-la-copa-sudamericana|título=CONMEBOL sortea el calendario de partidos de la Copa Sudamericana|editor=Conmebol|fecha=23 de enero de 2017}}</ref>
+
+El campeón fue [[Club Atlético Independiente|Independiente]] de Argentina que venció en la final a [[Clube de Regatas do Flamengo|Flamengo]] de Brasil con un resultado global de 3-2, obteniendo así su segundo título en la competición. Por ello, ganó el derecho a disputar la [[Recopa Sudamericana 2018]] contra [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], campeón de la [[Copa Libertadores 2017]], y la [[Copa Suruga Bank 2018]] contra [[Cerezo Osaka]] de [[Japón]], ganador de la [[Copa J. League 2017]]. Además, clasificó de manera directa a la fase de grupos de la [[Copa Libertadores 2018]].
+
+== Nuevo formato del torneo ==
+La [[Confederación Sudamericana de Fútbol|Conmebol]] ratificó en diciembre de 2016 el nuevo formato de la Copa:<ref name="comebol1">{{Cita web|url=https://www.conmebol.com/es/la-copa-sudamericana-2017-reunira-44-clubes|título=Conmebol confirma formato de la Copa Sudamericana para el año 2017|fechaacceso=|autor=|enlaceautor=|fecha=|idioma=|sitioweb=|editorial=}}</ref>
+
+{| class="wikitable"
+|-
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase<br> (44 equipos)
+|
+* 22 equipos clasificados de la '''Zona Norte''':
+** 6 equipos de Brasil y 4 equipos de Colombia, Ecuador, Perú y Venezuela
+* 22 equipos clasificados de la '''Zona Sur''':
+** 6 equipos de Argentina y 4 equipos de Chile, Bolivia, Paraguay y Uruguay
+|
+|-
+! colspan="2" |Segunda fase<br> (32 equipos)
+|
+* 8 terceros puestos de la fase de grupos de la '''Copa Libertadores'''
+* 2 mejores perdedores de la fase 3 de la '''Copa Libertadores''' 
+|
+* 22 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Fases finales<br> (16 equipos)
+|
+* 
+|
+* 16 equipos clasificados de la Segunda fase
+|}
+
+;Primera fase
+La disputaron 44 equipos en partidos de ida y vuelta, sin la división de ediciones anteriores. Para evitar que se enfrentaran equipos del mismo país se agruparon en zona geográficas, Norte y Sur, de 22 participantes cada una, y se enfrentó a uno de un grupo con uno del otro. Los equipos se distribuyeron de la siguiente forma:
+
+*Zona Norte:
+**6 equipos de Brasil.
+** 4 equipos de Colombia, Ecuador, Perú y Venezuela.
+
+*Zona Sur:
+**6 equipos de Argentina.
+** 4 equipos de Bolivia, Chile, Paraguay y Uruguay.
+
+Se formaron 22 llaves que se jugaron en partidos de ida y vuelta y clasificaron a los ganadores a la siguiente fase.
+
+;Segunda fase
+En esta etapa participarán los 22 equipos clasificados en la Primera fase y los 10 transferidos de la [[Copa Libertadores 2017]], que son:
+*Los 2 mejores perdedores de la fase 3.
+*Los 8 equipos que ocuparon el tercer puesto en la tabla final de posiciones de cada grupo.
+
+Se formaron 16 llaves, cuyos ganadores pasarán a la primera etapa de las fases finales.
+
+;Fases finales
+Los 16 participantes se eliminarán sucesivamente en los Octavos y Cuartos de final, Semifinales y Final. El ganador se coronará campeón.
+
+=== Resumen de plazas por país ===
+
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! Segunda fase
+! Primera fase
+|-
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| -
+|6
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''6'''
+| –
+|6
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+| -
+|4
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+| -
+|4
+|- 
+| align="left" |{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+| –
+|4
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+| -
+|4
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+| –
+|4
+|-
+| align="left" |Fase anterior
+| –
+|22
+| –
+|-
+| align="left" |Transferidos de la Copa Libertadores 
+|'''10'''
+|10
+| –
+|-
+!Total
+!54
+!32
+!44
+|}
+
+== Equipos participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Sudamericana 2017}} 
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width=80%
+|- bgcolor=#006699 style="color:white;"
+!width=15%|País
+!width=20%|Equipo
+!width=65%|Vía de clasificación
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>6 cupos</small>
+|[[Club Atlético Independiente|Independiente]]<br />[[Arsenal Fútbol Club|Arsenal]]<br />[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br />[[Club Atlético Huracán|Huracán]]<br />[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]<br />[[Racing Club]]
+|6.º puesto de la [[Campeonato de Primera División 2016 (Argentina)|Tabla general del Campeonato de Primera División 2016]]<br />7.º puesto de la Tabla general del Campeonato de Primera División 2016<br />8.º puesto de la Tabla general del Campeonato de Primera División 2016<br />9.º puesto de la Tabla general del Campeonato de Primera División 2016<br />10.º puesto de la Tabla general del Campeonato de Primera División 2016<br />11.º puesto de la Tabla general del Campeonato de Primera División 2016
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br /><small>4 cupos</small>
+|[[Club Bolívar|Bolívar]]<br />[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]<br />[[Club Atlético Nacional Potosí|Nacional Potosí]]<br />[[Club Petrolero|Petrolero]]
+|5.º puesto de la [[Campeonato de Primera División 2015-16 (Bolivia)#tabla acumulada|Tabla acumulada del Campeonato de Primera División 2015-16]]<ref name="bolivia">{{cite web|url=http://la-razon.com/marcas/futbol/Apertura-jugara_0_2059594138.html|title=Con 12 o más, el Apertura se jugará ‘todos contra todos’|publisher=la-razon.com|date=28 de mayo de 2014|fechaacceso=3 de junio de 2016|fechaarchivo=3 de marzo de 2016|urlarchivo=https://web.archive.org/web/20160303221813/http://la-razon.com/marcas/futbol/Apertura-jugara_0_2059594138.html|deadurl=yes}}</ref> <br />6.º puesto de la Tabla acumulada del Campeonato de Primera División 2015-16<br />7.º puesto de la Tabla acumulada del Campeonato de Primera División 2015-16<br />8.º puesto de la Tabla acumulada del Campeonato de Primera División 2015-16         
+
+|- bgcolor="#F5FAFF"      
+|'''{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>6 cupos </small>
+|[[Sport Club Corinthians Paulista|Corinthians]]<br />[[Associação Atlética Ponte Preta|Ponte Preta]]<br />[[São Paulo Futebol Clube|São Paulo]]<br />[[Cruzeiro Esporte Clube|Cruzeiro]]<br />[[Fluminense Football Club|Fluminense]]<br />[[Sport Club do Recife|Sport Recife]]      
+|7.º puesto del [[Campeonato Brasileño de Fútbol 2016|Campeonato Brasileño Serie A 2016]]<br />8.º puesto del Campeonato Brasileño Serie A 2016<br />10.º puesto del Campeonato Brasileño Serie A 2016<br />12.º puesto del Campeonato Brasileño Serie A 2016<br />13.° puesto del Campeonato Brasileño Serie A 2016<br />14.° puesto del Campeonato Brasileño Serie A 2016
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]'''<br /><small>4 cupos</small>
+|[[Club Deportivo O'Higgins|O'Higgins]]<br />[[Club Deportivo Palestino|Palestino]]<br />[[Club Universidad de Chile|Universidad de Chile]]<br />[[Everton de Viña del Mar|Everton]]
+|Perdedor de la [[Definición Pre-Libertadores 2016 (Chile)|Definición Pre-Libertadores 2016]]<br />6.º puesto del [[Torneo Apertura 2016 (Chile)|Torneo Apertura 2016-17]]<br />7.º puesto del Torneo Apertura 2016-17<br />Subcampeón de la [[Copa Chile 2016]]<ref name="chile">{{cite web|url=http://anfp.cl/documentos/1371251641-BASES%20PD%20Temporada%202015-2016.pdf|title=Bases Campeonato Nacional Primera División 2015-2016|publisher=ANFP|language=Español}}</ref> 
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''<br /><small>4 cupos</small>      
+|[[Deportes Tolima]]<br />[[Deportivo Cali]]<br />[[Patriotas Boyacá|Patriotas]]<br />[[Rionegro Águilas]]
+|Mejor ubicado de la [[Copa Colombia 2016]] no clasificado<ref name="vías de clasificación">{{cita web|url=https://www.conmebol.com/es/conmebol-anuncia-criterios-de-clasificacion-para-ediciones-2017-de-copa-libertadores-y-copa|título=Criterios de clasificación para ediciones 2017 de Copa Libertadores y Copa Sudamericana|editor=[[Conmebol]]|fecha=15 de octubre de 2016|fechaacceso=12 de enero de 2017}}</ref><br />6.º puesto de la [[Temporada 2016 del fútbol colombiano#Reclasificación|Tabla de reclasificación]] de la Categoría Primera A 2016<br />7.º puesto de la Tabla de reclasificación de la Categoría Primera A 2016<br />9.º puesto de la Tabla de reclasificación de la Categoría Primera A 2016
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|ECU}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br /><small>4 cupos</small>
+|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br />[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]<br />[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]<br />[[Fuerza Amarilla Sporting Club|Fuerza Amarilla]]
+|5.° puesto de la [[Campeonato Ecuatoriano de Fútbol 2016|Tabla acumulada del Campeonato Ecuatoriano Serie A 2016]]<ref name="ecuador">{{cite web|url=http://www.ecuafutbol.org/pdfs/reglamento_comite_ejecutivo_2014.pdf|title=Reglamento del Comité Ejecutivo de fútbol Profesional|publisher=FEF|language=Español|fechaacceso=3 de junio de 2016|fechaarchivo=3 de marzo de 2016|urlarchivo=https://web.archive.org/web/20160303191757/http://www.ecuafutbol.org/pdfs/reglamento_comite_ejecutivo_2014.pdf|deadurl=yes}}</ref> <br />6.° puesto de la Tabla acumulada del Campeonato Ecuatoriano Serie A 2016<br />7.° puesto de la Tabla acumulada del Campeonato Ecuatoriano Serie A 2016<br />8.° puesto de la Tabla acumulada del Campeonato Ecuatoriano Serie A 2016  
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|PAR}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>4 cupos</small>
+|[[Club Cerro Porteño|Cerro Porteño]]<br />[[Club Sol de América (Asunción)|Sol de América]]<br />[[Club Nacional (Paraguay)|Nacional]]<br />[[Club Sportivo Luqueño|Sportivo Luqueño]]
+|5.° puesto de la [[Torneo Clausura 2016 (Paraguay)#Puntaje acumulado|Tabla acumulada del Campeonato de Primera División 2016]]<ref name="paraguay">{{cite web|url=http://www.apf.org.py/media/REGLAMENTO-DIV-HONOR-2015.pdf|title=Reglamento del Campeonato Oficial Año 2015|publisher=APF|language=Español|archiveurl=https://web.archive.org/web/20150208203600/http://www.apf.org.py/media/REGLAMENTO-DIV-HONOR-2015.pdf|archivedate=8 de febrero de 2015}}</ref> <br />6.° puesto de la Tabla acumulada del Campeonato de Primera División 2016<br />7.° puesto de la Tabla acumulada del Campeonato de Primera División 2016<br />8.° puesto de la Tabla acumulada del Campeonato de Primera División 2016  
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]'''<br /><small>4 cupos</small>
+|[[Club Alianza Lima|Alianza Lima]]<br />[[Club Deportivo Comerciantes Unidos|Comerciantes Unidos]]<br />[[Club Sport Huancayo|Sport Huancayo]]<br />[[Club Juan Aurich|Juan Aurich]]
+|5.° puesto de la [[Campeonato Descentralizado 2016#Tabla acumulada|Tabla acumulada del Campeonato Descentralizado 2016]]<br />6.º puesto de la Tabla acumulada del Campeonato Descentralizado 2016<br />7.º puesto de la Tabla acumulada del Campeonato Descentralizado 2016<br />8.º puesto de la Tabla acumulada del Campeonato Descentralizado 2016
+
+|- bgcolor="#F5FAFF"
+|'''{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>4 cupos</small>
+|[[Danubio Fútbol Club|Danubio]]<br />[[Defensor Sporting Club|Defensor Sporting]]<br />[[Liverpool Fútbol Club|Liverpool]]<br />[[Club Atlético Boston River|Boston River]]
+|3.º puesto del [[Campeonato Uruguayo de Primera División 2016|Campeonato Uruguayo de transición 2016]]<br />4.º puesto del Campeonato Uruguayo de transición 2016<br />5.º puesto del Campeonato Uruguayo de transición 2016<br />6.º puesto del Campeonato Uruguayo de transición 2016
+
+|- bgcolor="#ddeeFF"
+|'''{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br /><small>4 cupos</small>
+|[[Estudiantes de Caracas Sport Club|Estudiantes de Caracas]]<br />[[Atlético Venezuela Club de Fútbol|Atlético Venezuela]]<br />[[Caracas Fútbol Club|Caracas]]<br />[[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]
+|Subcampeón de la [[Copa Venezuela 2016]]<br />Mejor ubicado del [[Torneo Clausura 2016 (Venezuela)|Torneo Clausura 2016]] no clasificado<br />4.° puesto de la [[Primera División de Venezuela 2016|Tabla acumulada de la Primera División 2016]] <br />5.° puesto de la Tabla acumulada de la Primera División 2016
+|}
+
+=== Equipos transferidos de la Copa Libertadores ===
+{{AP|Copa Libertadores 2017}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:96%;" width="80%"
+|- bgcolor="#006699" style="color:white;"
+! width="15%" |Fase
+! width="30%" |Equipo              
+! width="55%" |Vía de clasificación
+|- bgcolor="#F5FAFF"
+|'''Fase de grupos'''<br /><small>8 cupos</small>
+|{{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes]]<br />{{bandera|Colombia}} [[Independiente Santa Fe|Santa Fe]]<br />{{bandera|Colombia}} [[Independiente Medellín]]<br />{{bandera|BRA}} [[Club Flamengo|Flamengo]]<br/>{{bandera|Argentina}} [[Club Atlético Tucumán|Atlético Tucumán]]<br />{{bandera|PAR}} [[Club Libertad|Libertad]]<br />{{bandera|Brasil}} [[Associação Chapecoense de Futebol|Chapecoense]] <br />{{bandera|Chile}} [[Club de Deportes Iquique|Deportes Iquique]]
+|3.° puesto del [[Anexo:Grupo 1 de la Copa Libertadores 2017|Grupo 1 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 2 de la Copa Libertadores 2017|Grupo 2 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 3 de la Copa Libertadores 2017|Grupo 3 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 4 de la Copa Libertadores 2017|Grupo 4 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 5 de la Copa Libertadores 2017|Grupo 5 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 6 de la Copa Libertadores 2017|Grupo 6 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 7 de la Copa Libertadores 2017|Grupo 7 de la Copa Libertadores 2017]]<br />3.° puesto del [[Anexo:Grupo 8 de la Copa Libertadores 2017|Grupo 8 de la Copa Libertadores 2017]]
+|- bgcolor="#ddeeFF"
+|'''Fase clasificatoria'''<br /><small>2 cupos</small>
+|{{bandera|PAR}} [[Club Olimpia|Olimpia]]<br />{{Bandera|Colombia}} [[Atlético Junior|Junior]]
+|1.° puesto entre los eliminados de la [[Anexo:Fase 3 de la Copa Libertadores 2017|Fase 3 de la Copa Libertadores 2017]]<br />2.° puesto entre los eliminados de la [[Anexo:Fase 3 de la Copa Libertadores 2017|Fase 3 de la Copa Libertadores 2017]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Sudamericana 2017'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-26.816667|long=-65.216667|label=<small>[[Club Atlético Tucumán|{{Esd|Atlético Tucumán}}]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref></small>|position=right}}
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95|label=<small>'''{{Esd|La Plata}}'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-40|long=-55|label=<small>'''{{Esd|Equipos del <br>Gran Buenos Aires:}}'''<br>[[Arsenal Fútbol Club|Arsenal]]<br>{{Esd|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br>[[Club Atlético Huracán|Huracán]]<br>[[Club Atlético Independiente|Independiente]]<br>
+[[Racing Club]]}}<br><br>'''{{Esd|Equipos de La Plata:}}'''<br>[[Club Estudiantes de La Plata|Estudiantes]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref><br>[[Club de Gimnasia y Esgrima La Plata|{{Esd|Gimnasia y Esgrima}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-17.789167|long=-63.1975|label=<small>[[Club Deportivo Oriente Petrolero|{{Esd|Oriente Petrolero}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.583333|long=-65.75|label=<small>[[Club Atlético Nacional Potosí|{{Esd|Nacional Potosí}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.013889|long=-63.677778|label=<small>[[Club Petrolero|Petrolero]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.900914|long=-47.057294|label=<small>[[Associação Atlética Ponte Preta|{{Esd|Ponte Preta}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>'''{{Esd|Río de Janeiro}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-16|long=-43|label=<small>'''{{Esd|Equipos de<br>Río de Janeiro:}}'''<br>[[Clube de Regatas do Flamengo|Flamengo]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref><br>[[Fluminense Football Club|Fluminense]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>'''São Paulo'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-25.5|long=-41.5|label=<small>'''{{Esd|Equipos de <br>São Paulo:}}'''<br>{{Esd|[[Sport Club Corinthians Paulista|Corinthians]]<br>[[São Paulo Futebol Clube|São Paulo]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-27.095833|long=-52.617778|label=<small>{{esd|[[Associação Chapecoense de Futebol|Chapecoense]]}}<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref></small>|position=right}}
+{{Location map~|América del Sur|lat=-8.053889|long=-34.880833|label=<small>[[Sport Club do Recife|{{Esd|Sport Recife}}]]</small>|position=left}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-32.845944|long=-71.616361|label=<small>[[Everton de Viña del Mar|Everton]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.15|long=-70.666667|label=<small>'''Santiago'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-30|long=-88|label=<small>'''{{Esd|Equipos de <br>Santiago:}}'''<br>[[Club Deportivo Palestino|Palestino]]<br>[[Club Universidad de Chile|{{Esd|Universidad de Chile}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-34.165389|long=-70.739806|label=<small>[[Club Deportivo O'Higgins|O'Higgins]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-20.216667|long=-70.166667|label=<small>[[Club de Deportes Iquique|{{Esd|Deportes Iquique}}]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref></small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[Deportivo Cali]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.437778|long=-75.200556|label=<small>[[Deportes Tolima|{{Esd|Deportes Tolima}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Independiente Santa Fe|Santa Fe]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref></small>|position=right}}
+{{Location map~|América del Sur|lat=5.533333|long=-73.366667|label=<small>[[Patriotas Boyacá|Patriotas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>'''Medellín'''</small>|position=left}}
+{{Location map~|América del Sur|lat=12.4|long=-88|label=<small>'''{{esd|Equipos de <br>Medellín:}}'''<br>[[Deportivo Independiente Medellín|{{esd|Independiente Medellín}}]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref><br>[[Rionegro Águilas|{{Esd|Rionegro Águilas}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=10.963889|long=-74.796389|label=<small>[[Junior de Barranquilla|Junior]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref></small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>'''Quito'''</small>|position=left}}
+{{Location map~|América del Sur|lat=2.4|long=-75|label=<small>'''{{esd|Equipos de <br>Quito:}}'''<br>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]<br>[[Club Deportivo de la Universidad Católica (Ecuador)|{{Esd|Universidad Católica}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-2.902222|long=-79.005261|label=<small>[[Club Deportivo Cuenca (Ecuador)|{{Esd|Deportivo Cuenca}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-3.266667|long=-79.966667|label=<small>[[Fuerza Amarilla Sporting Club|{{Esd|Fuerza Amarilla}}]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-22|long=-74|label=<small>'''{{Esd|Equipos del <br>Gran Asunción:}}'''<br>{{Esd|[[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Libertad|Libertad]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref><br>[[Club Nacional (Paraguay)|Nacional]]<br>
+[[Club Olimpia|Olimpia]]<ref group='n' name=CL>Equipos transferidos de la [[Copa Libertadores 2017]].</ref><br>[[Club Sol de América (Asunción)|Sol de América]]<br>[[Club Sportivo Luqueño|Sportivo Luqueño]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-6.38071|long=-78.818|label=<small>[[Club Deportivo Comerciantes Unidos|{{Esd|Comerciantes Unidos}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-6.762961|long=-79.836614|label=<small>[[Club Juan Aurich|Juan Aurich]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-12.066667|long=-75.216667|label=<small>[[Club Sport Huancayo|{{Esd|Sport Huancayo}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|Alianza Lima]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''Montevideo'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-32|long=-46|label=<small>'''{{Esd|Equipos de <br>Montevideo:}}'''<br>[[Club Atlético Boston River|{{Esd|Boston River}}]]<br>[[Liverpool Fútbol Club|Liverpool]]<br>[[Danubio Fútbol Club|Danubio]]<br>[[Defensor Sporting|{{Esd|Defensor Sporting}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<div style="font-size:100%;position:relative;bottom:7px;"><small>'''Caracas'''</small></div>|position=top}}
+{{Location map~|América del Sur|lat=11|long=-53|label=<small>'''{{Esd|Equipos de <br>Caracas:}}'''<br>{{Esd|[[Atlético Venezuela Club de Fútbol|Atlético Venezuela]]<br>[[Caracas Fútbol Club|Caracas]]<br>[[Estudiantes de Caracas Sport Club|Estudiantes de Caracas]]}}</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=10.216667|long=-64.616667|label=<div style="font-size:100%;position:relative;bottom:10px;"><small>[[Deportivo Anzoátegui Sport Club|{{Esd|Deportivo Anzoátegui}}]]</small></div>|position=right}}
+}}
+{{listaref|grupo=n}}
+
+== Sorteo == 
+
+===  Primera fase === 
+El sorteo de la Primera fase se llevó a cabo el 31 de enero de 2017 en [[Luque (Paraguay)|Luque]], [[Gran Asunción]], [[Paraguay]].<ref>{{cita web|url=http://bolavip.com/193964/sorteo-cruces-copa-sudamericana-2017|título=Se sortea la Copa Sudamericana 2017|editor=Bola VIP|fecha=31 de enero de 2017|fechaacceso=31 de enero de 2017}}</ref> Se dividió a todos los clubes clasificados en dos bombos, según su ubicación geográfica, en norte y sur, emparejando en cada enfrentamiento a uno de cada región frente a uno de la otra.
+
+{| cellpadding="2" width=50% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=50% | Bombo 1 (Zona Sur)
+! width=50% | Bombo 2 (Zona Norte)
+|-
+|
+* {{Bandera|Argentina}} [[Arsenal Fútbol Club|Arsenal]]
+* {{Bandera|Argentina}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+* {{Bandera|Argentina}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]
+* {{Bandera|Argentina}} [[Club Atlético Huracán|Huracán]]
+* {{Bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+* {{Bandera|Argentina}} [[Racing Club]]
+* {{Bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+* {{Bandera|Bolivia}} [[Club Atlético Nacional Potosí|Nacional Potosí]]
+* {{Bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+* {{Bandera|Bolivia}} [[Club Petrolero|Petrolero]]
+* {{Bandera|Chile}} [[Everton de Viña del Mar|Everton]]
+* {{Bandera|Chile}} [[Club Deportivo O'Higgins|O'Higgins]]
+* {{Bandera|Chile}} [[Club Deportivo Palestino|Palestino]]
+* {{Bandera|Chile}} [[Club Universidad de Chile|Universidad de Chile]]
+* {{Bandera|Paraguay}} [[Club Cerro Porteño|Cerro Porteño]]
+* {{Bandera|Paraguay}} [[Club Nacional (Paraguay)|Nacional]]
+* {{Bandera|Paraguay}} [[Club Sol de América (Asunción)|Sol de América]]
+* {{Bandera|Paraguay}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+* {{Bandera|Uruguay}} [[Club Atlético Boston River|Boston River]]
+* {{Bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+* {{Bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+* {{Bandera|Uruguay}} [[Liverpool Fútbol Club|Liverpool]]
+|
+* {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+* {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+* {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]]
+* {{bandera|Brasil}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+* {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+* {{bandera|Brasil}} [[Sport Club do Recife|Sport Recife]]
+* {{bandera|Colombia}} [[Deportes Tolima]]
+* {{bandera|Colombia}} [[Deportivo Cali]]
+* {{bandera|Colombia}} [[Patriotas Boyacá|Patriotas]]
+* {{bandera|Colombia}} [[Rionegro Águilas]]
+* {{bandera|Ecuador}} [[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+* {{bandera|Ecuador}} [[Fuerza Amarilla Sporting Club|Fuerza Amarilla]]
+* {{bandera|Ecuador}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+* {{bandera|Ecuador}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+* {{bandera|Perú}} [[Club Alianza Lima|Alianza Lima]]
+* {{bandera|Perú}} [[Club Deportivo Comerciantes Unidos|Comerciantes Unidos]]
+* {{bandera|Perú}} [[Club Juan Aurich|Juan Aurich]]
+* {{bandera|Perú}} [[Club Sport Huancayo|Sport Huancayo]]
+* {{bandera|Venezuela}} [[Atlético Venezuela Club de Fútbol|Atlético Venezuela]]
+* {{bandera|Venezuela}} [[Caracas Fútbol Club|Caracas]]
+* {{bandera|Venezuela}} [[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]]
+* {{bandera|Venezuela}} [[Estudiantes de Caracas Sport Club|Estudiantes de Caracas]]
+|}
+
+=== Segunda fase === 
+El sorteo de la segunda fase se realizó el 14 de junio. Se colocó a los equipos en dos bombos, en el 1 fueron ubicados los diez que provienen de la [[Copa Libertadores 2017]], más los seis equipos con mejor desempeño de la primera fase; mientras que en el bombo 2 se ubicaron los dieciséis equipos restantes clasificados en la primera fase. Se extrajeron primero los del bolillero 2 y se fueron ubicando en el primer lugar de cada llave, denominadas O1 al O16. Luego se completaron los emparejamientos con los equipos del primer bolillero, los que serán locales en el partido de vuelta.
+
+Luego, los equipos ganadores serán numerados del 1 al 16, según el orden de las llaves de octavos, enfrentándose en forma predeterminada los mejor con los peor ubicados (O1 vs. O16, O2 vs. O15 y así sucesivamente). En los cruces posteriores ejercerá la localía en el desquite aquel que tenga menor número de orden.
+
+{| cellpadding="2" width=50% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=50% | Bombo 1 
+! width=50% | Bombo 2 
+|-
+|
+* {{Bandera|Argentina}} [[Arsenal Fútbol Club|Arsenal]]
+* {{bandera|Argentina}} [[Club Atlético Tucumán|Atlético Tucumán]]
+* {{bandera|ARG}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+* {{bandera|Brasil}} [[Associação Chapecoense de Futebol|Chapecoense]]
+* {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]]
+* {{bandera|Brasil}} [[Club Flamengo|Flamengo]]
+* {{bandera|Chile}} [[Club de Deportes Iquique|Deportes Iquique]]
+* {{bandera|Colombia}} [[Independiente Medellín]]
+* {{Bandera|Colombia}} [[Atlético Junior|Junior]]
+* {{bandera|Colombia}} [[Independiente Santa Fe|Santa Fe]]
+* {{bandera|Ecuador}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+* {{bandera|Ecuador}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+* {{bandera|Paraguay}} [[Club Libertad|Libertad]]
+* {{bandera|Paraguay}} [[Club Olimpia|Olimpia]]
+* {{Bandera|Paraguay}} [[Club Sol de América (Asunción)|Sol de América]]
+* {{bandera|Uruguay}} [[Club Atlético Boston River|Boston River]]
+|
+* {{Bandera|Argentina}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+* {{Bandera|Argentina}} [[Club Atlético Huracán|Huracán]]
+* {{Bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+* {{Bandera|Argentina}} [[Racing Club]]
+* {{Bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+* {{Bandera|Bolivia}} [[Club Atlético Nacional Potosí|Nacional Potosí]]
+* {{bandera|Bolivia}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+* {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]]
+* {{bandera|Brasil}} [[Associação Atlética Ponte Preta|Ponte Preta]]
+* {{bandera|Brasil}} [[Sport Club do Recife|Sport Recife]]
+* {{Bandera|Chile}} [[Club Deportivo Palestino|Palestino]]
+* {{bandera|Colombia}} [[Deportivo Cali]]
+* {{bandera|Colombia}} [[Patriotas Boyacá|Patriotas]]
+* {{bandera|Ecuador}} [[Fuerza Amarilla Sporting Club|Fuerza Amarilla]]
+* {{Bandera|Paraguay}} [[Club Cerro Porteño|Cerro Porteño]]
+* {{Bandera|Paraguay}} [[Club Nacional (Paraguay)|Nacional]]
+|}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2017|l1=Primera fase de la Copa Sudamericana 2017}}
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor=#006699 style="color:white;"
+! width="16%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="10%"  |Ida
+! width="10%"  |Vuelta
+
+|- align=center
+|1 de marzo y 9 de mayo
+|align=right|'''[[Club Atlético Nacional Potosí|Nacional Potosí]]''' {{bandera|Bolivia}}
+|'''4:3''' 
+|align=left|{{bandera|Perú}} [[Club Sport Huancayo|Sport Huancayo]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386846&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386868&lang=es_LA 1:2]
+
+|- align=center style="background:#F5FAFF;"
+|28 de febrero y 9 de mayo
+|align=right|<small>([[Regla del gol de visitante|v.]])</small> '''[[Deportivo Cali]]''' {{bandera|Colombia}}
+|'''2:2'''
+|align=left|{{bandera|Paraguay}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386847&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386869&lang=es_LA 1:2]
+
+|- align=center
+|4 de abril y 30 de mayo
+|align=right|[[Club Petrolero|Petrolero]] {{bandera|Bolivia}}
+|'''1:6'''
+|align=left|{{bandera|Ecuador}} '''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386848&lang=es_LA 1:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386870&lang=es_LA 0:3]
+
+|- align=center style="background:#F5FAFF;"
+|28 de febrero y 30 de mayo
+|align=right|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]''' {{bandera|Ecuador}}
+|'''4:3'''
+|align=left|{{bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386849&lang=es_LA 2:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386871&lang=es_LA 2:1]
+
+|- align=center
+|5 de abril y 30 de mayo
+|align=right|[[Everton de Viña del Mar|Everton]] {{bandera|Chile}}
+|'''1:1''' <small>('''3:4''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|Colombia}} '''[[Patriotas Boyacá|Patriotas]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386850&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386872&lang=es_LA 0:1]
+
+|- align=center style="background:#F5FAFF;"
+|6 de abril y 31 de mayo
+|align=right|{{nowrap|[[Estudiantes de Caracas Sport Club|Estudiantes de Caracas]] {{bandera|Venezuela}}}}
+|'''3:10'''
+|align=left|{{bandera|Paraguay}} '''[[Club Sol de América (Asunción)|Sol de América]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386851&lang=es_LA 2:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386873&lang=es_LA 1:7]
+
+|- align=center
+|2 de marzo y 11 de mayo
+|align=right|'''[[Club Cerro Porteño|Cerro Porteño]]''' {{bandera|Paraguay}}
+|'''3:2'''
+|align=left|{{bandera|Venezuela}} [[Caracas Fútbol Club|Caracas]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386852&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386874&lang=es_LA 2:1]
+
+|- align=center style="background:#F5FAFF;"
+|1 de marzo y 31 de mayo
+|align=right|[[Deportivo Anzoátegui Sport Club|Deportivo Anzoátegui]] {{bandera|Venezuela}}
+|'''3:4'''
+|align=left|{{bandera|Argentina}} '''[[Club Atlético Huracán|Huracán]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386853&lang=es_LA 3:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386875&lang=es_LA 0:4]
+
+|- align=center
+|6 de abril y 1 de junio
+|align=right|'''[[Club Deportivo Oriente Petrolero|Oriente Petrolero]]''' {{bandera|Bolivia}}
+|'''2:2''' <small>('''8:7''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|Ecuador}} [[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386854&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386876&lang=es_LA 1:1]
+
+|- align=center style="background:#F5FAFF;"
+|5 de abril y 10 de mayo
+|align=right|'''[[Sport Club Corinthians Paulista|Corinthians]]''' {{bandera|Brasil}}
+|'''4:1'''
+|align=left|{{bandera|Chile}} [[Club Universidad de Chile|Universidad de Chile]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386855&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386877&lang=es_LA 2:1]
+
+|- align=center
+|4 de abril y 31 de mayo
+|align=right|'''[[Club Atlético Independiente|Independiente]]''' {{bandera|Argentina}}
+|'''1:0'''
+|align=left|{{bandera|Perú}} [[Club Alianza Lima|Alianza Lima]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386856&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386878&lang=es_LA 1:0]
+
+|- align=center style="background:#F5FAFF;"
+|5 de abril y 9 de mayo
+|align=right|<small>([[Regla del gol de visitante|v.]])</small> '''[[Associação Atlética Ponte Preta|Ponte Preta]] {{bandera|Brasil}}'''
+|'''1:1'''
+|align=left|{{bandera|Argentina}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386857&lang=es_LA 0:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386879&lang=es_LA 1:1]
+
+|- align=center
+|28 de febrero y 1 de junio
+|align=right|'''[[Club Atlético Boston River|Boston River]]''' {{bandera|Uruguay}}
+|'''4:2'''
+|align=left|{{bandera|Perú}} [[Club Deportivo Comerciantes Unidos|Comerciantes Unidos]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386858&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386880&lang=es_LA 1:1]
+
+|- align=center style="background:#F5FAFF;"
+|2 de marzo y 11 de mayo
+|align=right|[[Club Juan Aurich|Juan Aurich]] {{bandera|Perú}}
+|'''1:8'''
+|align=left|{{bandera|Argentina}} '''[[Arsenal Fútbol Club|Arsenal]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386859&lang=es_LA 0:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386881&lang=es_LA 1:6]
+
+|- align=center
+|28 de febrero y 31 de mayo
+|align=right|[[Club Deportivo O'Higgins|O'Higgins]] {{bandera|Chile}}
+|'''1:2'''
+|align=left|{{bandera|Ecuador}} '''[[Fuerza Amarilla Sporting Club|Fuerza Amarilla]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386860&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386882&lang=es_LA 0:2]
+
+|- align=center style="background:#F5FAFF;"
+|2 de marzo y 1 de junio
+|align=right|[[Deportes Tolima]] {{bandera|Colombia}}
+|'''2:2'''
+|align=left|{{bandera|Bolivia}} '''[[Club Bolívar|Bolívar]]''' <small>([[Regla del gol de visitante|v.]])</small>
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386861&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386883&lang=es_LA 0:1]
+
+|- align=center
+|1 de marzo y 10 de mayo
+|align=right|'''[[Club Deportivo Palestino|Palestino]]''' {{bandera|Chile}}
+| '''1:1''' <small>('''7:6''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|Venezuela}} [[Atlético Venezuela Club de Fútbol|Atlético Venezuela]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386862&lang=es_LA 0:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386884&lang=es_LA 1:0]
+
+|- align=center style="background:#F5FAFF;"
+|6 de abril y 11 de mayo
+|align=right|'''[[Sport Club do Recife|Sport Recife]]''' {{bandera|Brasil}}
+|'''3:3''' <small>('''4:2''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|Uruguay}} [[Danubio Fútbol Club|Danubio]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386863&lang=es_LA 3:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386885&lang=es_LA 0:3]
+
+|- align=center
+|1 de marzo y 1 de junio
+|align=right|'''[[Racing Club]]''' {{bandera|Argentina}}
+|'''2:1'''
+|align=left|{{bandera|Colombia}} [[Rionegro Águilas]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386864&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386886&lang=es_LA 1:1]
+
+|- align=center style="background:#F5FAFF;"
+|4 de abril y 10 de mayo
+|align=right|[[Cruzeiro Esporte Clube|Cruzeiro]] {{bandera|Brasil}}
+| '''3:3''' <small>('''2:3''' [[Tiros desde el punto penal|p.]])</small>
+|align=left|{{bandera|Paraguay}} '''[[Club Nacional (Paraguay)|Nacional]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386865&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386887&lang=es_LA 1:2]
+
+|- align=center
+|5 de abril y 11 de mayo
+|align=right|<small>([[Regla del gol de visitante|v.]])</small> '''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]''' {{bandera|Argentina}}
+| '''1:1'''
+|align=left|{{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386866&lang=es_LA 0:0]
+| [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386888&lang=es_LA 1:1]
+
+|- align=center style="background:#F5FAFF;"
+|5 de abril y 10 de mayo
+|align=right|'''[[Fluminense Football Club|Fluminense]]''' {{bandera|Brasil}}
+|'''2:1''' 
+|align=left|{{bandera|Uruguay}} [[Liverpool Fútbol Club|Liverpool]]
+| [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386867&lang=es_LA 2:0]
+| [http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386889&lang=es_LA 0:1]
+
+|}
+
+== Segunda fase ==
+{{AP|Anexo:Segunda fase de la Copa Sudamericana 2017|l1=Segunda fase de la Copa Sudamericana 2017}}
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align=center
+|29 de junio y 27 de julio
+| align="right" |'''[[Racing Club]] {{bandera|Argentina}}'''
+|'''6:3'''
+| align="left" |{{bandera|Colombia}} [[Deportivo Independiente Medellín|Independiente Medellín]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386890&lang=es_LA 3:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386906&lang=es_LA 3:2]
+!Octavo 1
+
+|- align=center style="background:#F5FAFF;"
+|13 de julio y 3 de agosto
+| align="right" |[[Deportivo Cali]] {{bandera|Colombia}}
+| '''2:2''' <small>('''2:3''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Colombia}} '''[[Atlético Junior|Junior]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386891&lang=es_LA 1:1] 
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386907&lang=es_LA 1:1]
+!Octavo 2 
+
+|- align=center
+|5 de julio y 9 de agosto
+| align="right" |[[Club Deportivo Palestino|Palestino]] {{bandera|Chile}}
+|'''2:10'''
+| align="left" |{{bandera|Brasil}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386892&lang=es_LA 2:5]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386908&lang=es_LA 0:5]
+!Octavo 3 
+
+|- align=center style="background:#F5FAFF;"
+|13 de julio y 3 de agosto
+| align="right" |[[Club Atlético Nacional Potosí|Nacional Potosí]] {{bandera|Bolivia}}
+| '''0:3'''
+| align="left" |{{bandera|Argentina}} '''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386893&lang=es_LA 0:1] 
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386909&lang=es_LA 0:2]
+!Octavo 4
+
+|- align=center
+|12 de julio y 2 de agosto
+| align="right" |'''[[Club Atlético Independiente|Independiente]]''' {{bandera|Argentina}}
+|'''6:3'''
+| align="left" |{{bandera|Chile}} [[Club de Deportes Iquique|Deportes Iquique]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386894&lang=es_LA 4:2]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386910&lang=es_LA 2:1] 
+!Octavo 5
+
+|- align=center style="background:#F5FAFF;"
+|12 de julio y 2 de agosto
+| align="right" |[[Club Bolívar|Bolívar]] {{bandera|Bolivia}}
+|'''1:1''' <small>('''5:6''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Ecuador}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386895&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386911&lang=es_LA 0:1] 
+!Octavo 6
+
+|- align=center
+|29 de junio y 26 de julio
+| align="right" |'''[[Associação Atlética Ponte Preta|Ponte Preta]] {{bandera|Brasil}}'''
+| '''4:1'''
+| align="left" |{{bandera|Paraguay}} [[Club Sol de América (Asunción)|Sol de América]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386896&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386912&lang=es_LA 3:1] 
+!Octavo 7
+
+|- align=center style="background:#F5FAFF;"
+|27 de junio y 25 de julio
+| align="right" |[[Fuerza Amarilla Sporting Club|Fuerza Amarilla]] {{bandera|Ecuador}}
+| '''1:2'''
+| align="left" |{{bandera|Colombia}} '''[[Independiente Santa Fe|Santa Fe]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386897&lang=es_LA 1:1] 
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386913&lang=es_LA 0:1]
+!Octavo 8
+
+|- align=center
+|11 de julio y 1 de agosto
+| align="right" |[[Club Atlético Huracán|Huracán]] {{bandera|Argentina}}
+| '''1:7'''
+| align="left" |{{bandera|Paraguay}} '''[[Club Libertad|Libertad]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386898&lang=es_LA 1:5]  
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386914&lang=es_LA 0:2]
+!Octavo 9
+
+|- align=center style="background:#F5FAFF;"
+|6 y 27 de julio
+| align="right" |'''[[Sport Club do Recife|Sport Recife]]''' {{bandera|Brasil}}
+| '''3:2'''
+| align="left" |{{bandera|Argentina}} [[Arsenal Fútbol Club|Arsenal]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386899&lang=es_LA 2:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386915&lang=es_LA 1:2]
+!Octavo 10
+
+|- align=center
+|29 de junio y 26 de julio
+| align="right" |'''[[Fluminense Football Club|Fluminense]]''' {{bandera|Brasil}}
+| '''6:1'''
+| align="left" |{{bandera|Ecuador}} [[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386900&lang=es_LA 4:0] 
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386916&lang=es_LA 2:1]  
+!Octavo 11 
+
+|- align=center style="background:#F5FAFF;"
+|11 de julio y 1 de agosto
+| align="right" |[[Club Deportivo Oriente Petrolero|Oriente Petrolero]] {{bandera|Bolivia}}
+| '''2:6'''
+| align="left" |{{bandera|Argentina}} '''[[Club Atlético Tucumán|Atlético Tucumán]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386901&lang=es_LA 2:3]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386917&lang=es_LA 0:3] 
+!Octavo 12
+
+|- align=center
+|12 de julio y 2 de agosto
+| align="right" |<small>([[Regla del gol de visitante|v.]])</small> '''[[Club Nacional (Paraguay)|Nacional]]''' {{bandera|Paraguay}}  
+|'''3:3'''
+| align="left" |{{bandera|Paraguay}} [[Club Olimpia|Olimpia]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386902&lang=es_LA 1:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386918&lang=es_LA 2:2] 
+!Octavo 13
+
+|- align=center style="background:#F5FAFF;"
+|28 de junio y 25 de julio
+| align="right" |[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]] {{bandera|Argentina}}
+|'''1:1''' <small>('''2:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} '''[[Associação Chapecoense de Futebol|Chapecoense]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386903&lang=es_LA 1:0]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386919&lang=es_LA 0:1]
+!Octavo 14
+
+|- align=center
+|11 y 26 de julio
+| align="right" |'''[[Club Cerro Porteño|Cerro Porteño]]''' {{bandera|Paraguay}}
+|'''6:2'''
+| align="left" |{{bandera|Uruguay}} [[Club Atlético Boston River|Boston River]]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386904&lang=es_LA 2:1]
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386920&lang=es_LA 4:1]
+!Octavo 15
+
+|- align=center style="background:#F5FAFF;"
+|28 de junio y 26 de julio
+| align="right" |[[Patriotas Boyacá|Patriotas]] {{bandera|Colombia}}
+|'''1:3''' 
+| align="left" |{{bandera|Brasil}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386905&lang=es_LA 1:1] 
+|[http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386921&lang=es_LA 0:2]
+!Octavo 16
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta el cruce ganado por cada equipo en la segunda fase. De esa manera, el Octavo 1 enfrentó al Octavo 16, el 2 al 15, el 3 al 14, y así sucesivamente. Durante todo el desarrollo de las fases finales, el equipo que ostentara menor número de orden que su rival de turno ejerció la localía en el partido de vuelta. A partir de las semifinales, se utilizó el [[árbitro asistente de video]] (VAR).
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Octavos de final -->
+| RD1= [[Anexo:Octavos de final de la Copa Sudamericana 2017|Octavos de final]]
+| RD1-date= 22 de agosto al 21 de septiembre
+
+| RD1-seed1 = 1
+| RD1-seed2 = 16
+| RD1-team1 = {{bandera|Argentina}} '''Racing Club''' <small>([[Regla del gol de visitante|v]])</small>
+| RD1-team2 = {{bandera|Brasil}} Corinthians
+| RD1-score1-1 = 1
+| RD1-score2-1 = 1
+| RD1-score1-2 = 0
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''1'''
+| RD1-score2-3 = '''1'''
+
+| RD1-seed3 = 8
+| RD1-seed4 = 9
+| RD1-team3 = {{Bandera|Colombia}} Santa  Fe
+| RD1-team4 = {{bandera|Paraguay}} '''Libertad'''
+| RD1-score3-1 = 0
+| RD1-score4-1 = 1
+| RD1-score3-2 = 1
+| RD1-score4-2 = 1
+| RD1-score3-3 = '''1'''
+| RD1-score4-3 = '''2'''
+
+| RD1-seed5 = 5
+| RD1-seed6 = 12
+| RD1-team5 = {{bandera|Argentina}} '''Independiente'''
+| RD1-team6 = {{bandera|Argentina}} Atlético Tucumán
+| RD1-score5-1 = 0
+| RD1-score6-1 = 1
+| RD1-score5-2 = 2
+| RD1-score6-2 = 0
+| RD1-score5-3 = '''2'''
+| RD1-score6-3 = '''1'''
+
+| RD1-seed7 = 4 
+| RD1-seed8 = 13 
+| RD1-team7 = {{Bandera|Argentina}} Estudiantes (LP)
+| RD1-team8 = {{bandera|Paraguay}} '''Nacional'''
+| RD1-score7-1 = 0
+| RD1-score8-1 = 1
+| RD1-score7-2 = 0
+| RD1-score8-2 = 1
+| RD1-score7-3 = '''0'''
+| RD1-score8-3 = '''2'''
+
+| RD1-seed9 = 2
+| RD1-seed10 = 15
+| RD1-team9 = {{bandera|Colombia}} '''Junior'''
+| RD1-team10 = {{bandera|Paraguay}} Cerro Porteño
+| RD1-score9-1 = 0
+| RD1-score10-1 = 0
+| RD1-score9-2 = 3
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''3'''
+| RD1-score10-3 = '''1'''
+
+| RD1-seed11 = 7
+| RD1-seed12 = 10
+| RD1-team11 = {{Bandera|Brasil}} Ponte Preta
+| RD1-team12 = {{Bandera|Brasil}} '''Sport Recife'''
+| RD1-score11-1 = 1
+| RD1-score12-1 = 3
+| RD1-score11-2 = 1
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''2'''
+| RD1-score12-3 = '''3'''
+
+| RD1-seed13 = 3
+| RD1-seed14 = 14
+| RD1-team13 = {{bandera|Brasil}} '''Flamengo'''
+| RD1-team14 = {{bandera|Brasil}} Chapecoense
+| RD1-score13-1 = 0
+| RD1-score14-1 = 0
+| RD1-score13-2 = 4
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''4'''
+| RD1-score14-3 = '''0'''
+
+| RD1-seed15 = 6
+| RD1-seed16 = 11
+| RD1-team15 = {{Bandera|ECU}} Liga de Quito
+| RD1-team16 = {{Bandera|Brasil}} '''Fluminense''' <small>([[Regla del gol de visitante|v]])</small>
+| RD1-score15-1 = 0
+| RD1-score16-1 = 1
+| RD1-score15-2 = 2 
+| RD1-score16-2 = 1
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= [[Anexo:Cuartos de final de la Copa Sudamericana 2017|Cuartos de final]]
+| RD2-date= 24 de octubre al 2 de noviembre
+
+| RD2-seed1 = 1
+| RD2-seed2 = 9
+| RD2-team1 = {{bandera|Argentina}} Racing Club
+| RD2-team2 = {{bandera|Paraguay}} '''Libertad'''
+| RD2-score1-1 = 0
+| RD2-score2-1 = 1
+| RD2-score1-2 = 0
+| RD2-score2-2 = 0
+| RD2-score1-3 = '''0'''
+| RD2-score2-3 = '''1'''
+
+| RD2-seed3 = 5
+| RD2-seed4 = 13
+| RD2-team3 = {{Bandera|Argentina}} '''Independiente'''
+| RD2-team4 = {{bandera|Paraguay}} Nacional
+| RD2-score3-1 = 4
+| RD2-score4-1 = 1
+| RD2-score3-2 = 2
+| RD2-score4-2 = 0
+| RD2-score3-3 = '''6'''
+| RD2-score4-3 = '''1'''
+
+| RD2-seed5 = 2
+| RD2-seed6 = 10
+| RD2-team5 = {{bandera|Colombia}} '''Junior'''
+| RD2-team6 = {{Bandera|Brasil}} Sport Recife
+| RD2-score5-1 = 2
+| RD2-score6-1 = 0
+| RD2-score5-2 = 0
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''2'''
+| RD2-score6-3 = '''0'''
+
+| RD2-seed7 = 3
+| RD2-seed8 = 11 
+| RD2-team7 = {{Bandera|Brasil}} '''Flamengo'''
+| RD2-team8 ={{Bandera|Brasil}} Fluminense 
+| RD2-score7-1 = 1
+| RD2-score8-1 = 0
+| RD2-score7-2 = 3
+| RD2-score8-2 = 3
+| RD2-score7-3 = '''4'''
+| RD2-score8-3 = '''3'''
+
+<!-- Semifinales -->
+| RD3= [[Anexo:Semifinales de la Copa Sudamericana 2017|Semifinales]]
+| RD3-date= 21 al 30 de noviembre
+
+| RD3-seed1 = 9
+| RD3-seed2 =5 
+| RD3-team1 = {{bandera|PAR}} Libertad
+| RD3-team2 ={{bandera|Argentina}} '''Independiente'''
+| RD3-score1-1 = 1
+| RD3-score2-1 = 0
+| RD3-score1-2 = 1
+| RD3-score2-2 = 3
+| RD3-score1-3 = '''2'''
+| RD3-score2-3 = '''3'''
+
+| RD3-seed3 = 2
+| RD3-seed4 = 3
+| RD3-team3 ={{bandera|Colombia}} Junior 
+| RD3-team4 ={{Bandera|Brasil}} '''Flamengo'''
+| RD3-score3-1 = 1
+| RD3-score4-1 = 2
+| RD3-score3-2 = 0
+| RD3-score4-2 = 2
+| RD3-score3-3 = '''1'''
+| RD3-score4-3 = '''4'''
+
+<!-- Final -->
+| RD4= [[Anexo:Final de la Copa Sudamericana 2017|Final]]
+| RD4-date= 6 y 13 de diciembre
+
+| RD4-seed1 = 5
+| RD4-seed2 = 3
+| RD4-team1 = {{bandera|Argentina}} '''Independiente'''
+| RD4-team2 = {{Bandera|Brasil}} Flamengo
+| RD4-score1-1 = 2
+| RD4-score2-1 = 1
+| RD4-score1-2 = 1
+| RD4-score2-2 = 1
+| RD4-score1-3 = '''3'''
+| RD4-score2-3 = '''2'''
+}}
+
+* <small>Nota: En cada llave, el equipo con la menor numeración es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2017|l1=Octavos de final de la Copa Sudamericana 2017}}
+{{Partido
+|paíslocal = BRA
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|resultado = 1:1''' (1:0)
+|paísvisita = ARG
+|visita = [[Racing Club]]
+|refe = {{árbitro|PAR|Eber Aquino}}
+|fecha = 13 de septiembre de 2017, 21:45 ([[UTC-3]])
+|estadio = [[Arena Corinthians]]
+|ciudad = [[São Paulo]]
+|asistencia = 25 451
+|goleslocal = [[Maycon de Andrade Barberan|Maycon]] {{gol|29}}
+|golesvisita = [[Enrique Triverio|Triverio]] {{gol|73}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386922&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Racing Club]]
+|resultado = 0:0
+|paísvisita   = BRA
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|refe = {{árbitro|URU|Leodán González}}
+|fecha = 20 de septiembre de 2017, 21:45 ([[UTC-3]])
+|estadio = [[Estadio Presidente Perón]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 26 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386930&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Libertad|Libertad]]
+|resultado = 1:0''' (0:0)
+|paísvisita   = COL
+|visita = [[Independiente Santa Fe|Santa Fe]]
+|refe = {{árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|fecha = 24 de agosto de 2017, 20:45 ([[UTC-4]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = Sin datos de
+|goleslocal = [[Jesús Medina|Medina]] {{gol|59}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386923&lang=es_LA
+}}
+{{Partido
+|paíslocal   = COL
+|local = [[Independiente Santa Fe|Santa Fe]]
+|resultado = 1:1''' (0:1)
+|paísvisita   = PAR
+|visita = [[Club Libertad|Libertad]]
+|refe = {{árbitro|PER|Diego Haro}}
+|fecha = 14 de septiembre de 2017, 19:45 ([[UTC-5]])
+|estadio = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad = [[Bogotá]]
+|asistencia = 15 578
+|goleslocal = [[William Tesillo|Tesillo]] {{gol|87}}
+|golesvisita = [[Óscar Cardozo|Cardozo]] {{gol|25}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386931&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Nacional (Paraguay)|Nacional]]
+|resultado = 1:0''' (0:0)
+|paísvisita   = ARG
+|visita = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|refe = {{árbitro|COL|Wilson Lamouroux}}
+|fecha = 23 de agosto de 2017, 20:45 ([[UTC-4]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = 8 000
+|goleslocal = [[Luis Neri Caballero|Caballero]] {{gol|59}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386925&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|resultado = 0:1''' (0:0)
+|paísvisita   = PAR
+|visita = [[Club Nacional (Paraguay)|Nacional]]
+|refe = {{árbitro|BRA|Raphael Claus}}
+|fecha = 19 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Ciudad de La Plata]]
+|ciudad = [[La Plata]]
+|asistencia = 35 000
+|goleslocal = 
+|golesvisita = [[Miguel Jacquet|Jacquet]] {{gol|64}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386933&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Tucumán|Atlético Tucumán]]
+|resultado = 1:0''' (1:0)
+|paísvisita   = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|BRA|Anderson Daronco}}
+|fecha = 22 de agosto de 2017, 21:45 ([[UTC-3]])
+|estadio = [[Estadio Monumental José Fierro|Estadio José Fierro]]
+|ciudad = [[San Miguel de Tucumán|Tucumán]]
+|asistencia = 30 000
+|goleslocal = [[Luis Miguel Rodríguez|L. Rodríguez]] {{gol|42}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386924&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 2:0''' (1:0)
+|paísvisita   = ARG
+|visita = [[Club Atlético Tucumán|Atlético Tucumán]]
+|refe = {{árbitro|URU|Andrés Cunha}}
+|fecha = 12 de septiembre de 2017, 21:45 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 30 000
+|goleslocal = [[Leandro Miguel Fernández|Fernández]] {{gol|16}}<br >[[Martín Benítez|Benítez]] {{gol|83}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386932&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Cerro Porteño|Cerro Porteño]]
+|resultado = 0:0
+|paísvisita   = COL
+|visita = [[Atlético Junior|Junior]]
+|refe = {{árbitro|BRA|Ricardo Marques}}
+|fecha = 12 de septiembre de 2017, 20:45 ([[UTC-4]])
+|estadio = [[Estadio General Pablo Rojas]]
+|ciudad = [[Asunción]]
+|asistencia = 40 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386927&lang=es_LA
+}}
+{{Partido
+|paíslocal   = COL
+|local = [[Atlético Junior|Junior]]
+|resultado = 3:1''' (1:0)
+|paísvisita   = PAR
+|visita = [[Club Cerro Porteño|Cerro Porteño]]
+|refe = {{árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|fecha = 19 de septiembre de 2017, 19:45 ([[UTC-5]])
+|estadio = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad = [[Barranquilla]]
+|asistencia = 33 416
+|goleslocal = [[Luis Díaz|Díaz]] {{gol|40}}<br >[[Teófilo Gutiérrez|Gutiérrez]] {{gol|51}}<br >[[Yimmi Chará|Chará]] {{gol|80}}
+|golesvisita = [[Óscar Ramón Ruiz|Ruiz]] {{gol|90+2}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386935&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local = [[Sport Club do Recife|Sport Recife]]
+|resultado = 3:1''' (2:0)
+|paísvisita   = BRA
+|visita = [[Associação Atlética Ponte Preta|Ponte Preta]]
+|refe = {{árbitro|COL|Gustavo Murillo}}
+|fecha = 13 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Ilha do Retiro]]
+|ciudad = [[Recife]]
+|asistencia = 6 255
+|goleslocal = [[Ronaldo Alves]] {{gol|7}}<br >[[Francisco Rithely|Rithely]] {{gol|44}}<br >[[André Felipe Ribeiro de Souza|André]] {{gol|75}}
+|golesvisita = [[Felipe Saraiva de Souza Silva|Felipe Saraiva]] {{gol|82}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386926&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Associação Atlética Ponte Preta|Ponte Preta]]
+|resultado = 1:0''' (1:0)
+|paísvisita   = BRA
+|visita = [[Sport Club do Recife|Sport Recife]]
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 20 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Moisés Lucarelli]]
+|ciudad = [[Campinas]]
+|asistencia = 3 890
+|goleslocal = [[Lucca Borges de Brito|Lucca]] {{gol|16}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386934&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local = [[Associação Chapecoense de Futebol|Chapecoense]]
+|resultado = 0:0
+|paísvisita   = BRA
+|visita = [[Clube de Regatas do Flamengo|Flamengo]]
+|refe = {{árbitro|BOL|Gery Vargas}}
+|fecha = 13 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Arena Condá]]
+|ciudad = [[Chapecó]]
+|asistencia = 9 702
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386929&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado = 4:0''' (2:0)
+|paísvisita   = BRA
+|visita = [[Associação Chapecoense de Futebol|Chapecoense]] 
+|refe = {{árbitro|PER|Michael Espinoza}}
+|fecha = 20 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Luso Brasileiro|Estadio Ilha do Urubu]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 15 030
+|goleslocal = [[Gustavo Cuéllar|Cuéllar]] {{gol|6}}<br >[[Willian Arão]] {{gol|21}}<br >[[Juan Silveira dos Santos|Juan]] {{gol|62}}<br >[[Lucas Tolentino Coelho de Lima|Lucas Paquetá]] {{gol|88}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386937&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local = [[Fluminense Football Club|Fluminense]]
+|resultado = 1:0''' (1:0)
+|paísvisita   = ECU
+|visita = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|refe = {{árbitro|PAR|Julio Quintana Rodríguez|Julio Quintana}}
+|fecha = 14 de septiembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 45 977
+|goleslocal = [[Gustavo Scarpa|Scarpa]] {{gol|6}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386928&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ECU
+|local = [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|resultado = 2:1''' (0:0)
+|paísvisita   = BRA
+|visita = [[Fluminense Football Club|Fluminense]]
+|refe = {{árbitro|ARG|Fernando Rapallini}}
+|fecha = 21 de septiembre de 2017, 17:15 ([[UTC-5]])
+|estadio = [[Estadio de Liga Deportiva Universitaria|Estadio Casa Blanca]]
+|ciudad = [[Quito]]
+|asistencia = 29 000
+|goleslocal = [[Hernán Barcos|Barcos]] {{gol|57}}<br >[[José Cevallos Enríquez|Cevallos]] {{gol|60}}
+|golesvisita = [[Pedro Guilherme Abreu dos Santos|Pedro]] {{gol|86}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386936&lang=es_LA
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2017|l1=Cuartos de final de la Copa Sudamericana 2017}}
+
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Libertad|Libertad]]
+|resultado = 1:0''' (1:0)
+|paísvisita   = ARG
+|visita = [[Racing Club]]
+|refe = {{árbitro|BRA|Raphael Claus}}
+|fecha = 24 de octubre de 2017, 21:45 ([[UTC-3]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = 15 000
+|goleslocal = [[Santiago Salcedo|Salcedo]] {{gol|25}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386938&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Racing Club]]
+|resultado = 0:0
+|paísvisita   = PAR
+|visita = [[Club Libertad|Libertad]]
+|refe = {{árbitro|BRA|Anderson Daronco}}
+|fecha = 1 de noviembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Presidente Perón]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]  
+|asistencia = 30 000
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386942&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Nacional (Paraguay)|Nacional]]
+|resultado = 1:4''' (1:1)
+|paísvisita   = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|URU|Leodán González}}
+|fecha = 25 de octubre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]] 
+|asistencia = 7000
+|goleslocal = [[Luis Neri Caballero|Caballero]] {{gol|33}}
+|golesvisita = [[Maximiliano Meza|Meza]] {{gol|27}}<br >[[Leandro Miguel Fernández|Fernández]] {{gol|48||70}}<br >[[Lucas Albertengo|Albertengo]] {{gol|76}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386939&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 2:0''' (0:0)
+|paísvisita   = PAR
+|visita = [[Club Nacional (Paraguay)|Nacional]] 
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 2 de noviembre de 2017, 19:15 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]] 
+|asistencia = 38 000
+|goleslocal = [[Juan Manuel Martínez (futbolista)|Martínez]] {{gol|51}}<br>[[Emmanuel Gigliotti|Gigliotti]] {{gol|66}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386943&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local = [[Sport Club do Recife|Sport Recife]] 
+|resultado = 0:2''' (0:0)
+|paísvisita   = COL
+|visita = [[Atlético Junior|Junior]]
+|refe = {{árbitro|ARG|Fernando Rapallini}}
+|fecha = 26 de octubre de 2017, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Ilha do Retiro]]
+|ciudad = [[Recife]]
+|asistencia = 27 014
+|goleslocal = 
+|golesvisita = [[Yony González|González]] {{gol|70||85}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386940&lang=es_LA
+}}
+{{Partido
+|paíslocal   = COL
+|local = [[Atlético Junior|Junior]]
+|resultado = 0:0
+|paísvisita   = BRA
+|visita = [[Sport Club do Recife|Sport Recife]]
+|refe = {{árbitro|URU|Daniel Fedorczuk}}
+|fecha = 2 de noviembre de 2017, 19:45 ([[UTC-5]])
+|estadio = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad = [[Barranquilla]] 
+|asistencia = 35 464
+|goleslocal = 
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386944&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local = [[Fluminense Football Club|Fluminense]]
+|resultado = 0:1''' (0:1)
+|paísvisita   = BRA
+|visita = [[Clube de Regatas do Flamengo|Flamengo]]
+|refe = {{árbitro|PAR|Mario Díaz de Vivar}}
+|fecha = 25 de octubre de 2017, 21:45 ([[UTC-2]])
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 50 945
+|goleslocal = 
+|golesvisita = [[Éverton Cardoso da Silva|Éverton]] {{gol|26}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386941&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado = 3:3''' (1:2)
+|paísvisita   = BRA
+|visita = [[Fluminense Football Club|Fluminense]]
+|refe = {{árbitro|ARG|Patricio Loustau}}
+|fecha = 1 de noviembre de 2017, 21:45 ([[UTC-2]])
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 51 087
+|goleslocal = [[Diego Ribas|Diego]] {{gol|9}}<br>[[Felipe Vizeu]] {{gol|67}}<br>[[Willian Arão]] {{gol|83}}
+|golesvisita = [[Lucas Marques]] {{gol|2}}<br>[[Renato Chaves]] {{gol|40||54}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386945&lang=es_LA
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2017|l1=Semifinales de la Copa Sudamericana 2017}}
+
+{{Partido
+|paíslocal   = PAR
+|local = [[Club Libertad|Libertad]]
+|resultado = 1:0''' (1:0)
+|paísvisita   = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|PER|Víctor Hugo Carrillo|Víctor Carrillo}}
+|fecha = 21 de noviembre de 2017, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Defensores del Chaco]]
+|ciudad = [[Asunción]]
+|asistencia = 30 000
+|goleslocal = [[Óscar Cardozo|Cardozo]] {{gol|1}}
+|golesvisita = 
+|reporte = http://estadisticas.conmebol.com/html/v3/?channel=deportes.futbol.sudamericana.386946&lang=es_LA
+}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 3:1''' (3:1)
+|paísvisita   = PAR
+|visita = [[Club Libertad|Libertad]]
+|refe = {{árbitro|ECU|Roddy Zambrano}}
+|fecha = 28 de noviembre de 2017, 21:15 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 47 560
+|goleslocal = [[Esequiel Barco|Barco]] {{gol|16|pen.}}<br>[[Emmanuel Gigliotti|Gigliotti]] {{gol|18||30}}
+|golesvisita = [[Ángel Cardozo Lucena|Lucena]] {{gol|24}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386948&lang=es_LA
+}}
+<br >
+{{Partido
+|paíslocal   = BRA
+|local =  [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado = 2:1''' (0:1)
+|paísvisita   = COL
+|visita = [[Atlético Junior|Junior]]
+|refe = {{árbitro|VEN|José Argote}}
+|fecha = 23 de noviembre de 2017, 21:45 ([[UTC-2]])
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 61 804
+|goleslocal = [[Juan Silveira dos Santos|Juan]] {{gol|75}}<br>[[Felipe Vizeu]] {{gol|81}}
+|golesvisita = [[Teófilo Gutiérrez|Gutiérrez]] {{gol|20}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386947&lang=es_LA
+}}
+{{Partido
+|paíslocal   = COL
+|local = [[Atlético Junior|Junior]]
+|resultado = 0:2''' (0:0)
+|paísvisita   = BRA
+|visita =  [[Clube de Regatas do Flamengo|Flamengo]]
+|refe = {{árbitro|CHI|Roberto Tobar}}
+|fecha = 30 de noviembre de 2017, 19:30 ([[UTC-5]])
+|estadio = [[Estadio Metropolitano Roberto Meléndez|Estadio Metropolitano]]
+|ciudad = [[Barranquilla]]
+|asistencia = 40 036
+|goleslocal = 
+|golesvisita = [[Felipe Vizeu]] {{gol|51||90+1}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386949&lang=es_LA
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2017|l1=Final de la Copa Sudamericana 2017}}
+{{Partido
+|paíslocal   = ARG
+|local = [[Club Atlético Independiente|Independiente]]
+|resultado = 2:1''' (1:1)
+|paísvisita   = BRA
+|visita = [[Clube de Regatas do Flamengo|Flamengo]]
+|refe = {{árbitro|PAR|Mario Díaz de Vivar}}
+|fecha = 6 de diciembre de 2017, 20:45 ([[UTC-3]])
+|estadio = [[Estadio Libertadores de América]]
+|ciudad = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia = 52 000
+|goleslocal = [[Emmanuel Gigliotti|Gigliotti]] {{gol|28}}<br>[[Maximiliano Meza|Meza]] {{gol|52}}
+|golesvisita = [[Réver]] {{gol|8}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386950&lang=es_LA
+}}
+{{Partido
+|paíslocal   = BRA
+|local = [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado = 1:1''' (1:1)
+|paísvisita   = ARG
+|visita = [[Club Atlético Independiente|Independiente]]
+|refe = {{árbitro|COL|Wilmar Roldán}}
+|fecha = 13 de diciembre de 2017, 21:45 ([[UTC-2]])
+|estadio = [[Estadio de Maracaná]]
+|ciudad = [[Río de Janeiro]]
+|asistencia = 54.963
+|goleslocal = [[Lucas Paquetá]] {{gol|29}}
+|golesvisita = [[Esequiel Barco|Barco]] {{gol|39|pen.}}
+|reporte = http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.sudamericana.386951&lang=es_LA
+}}
+<br/>
+{{Campeón
+|equipo = [[Club Atlético Independiente|Independiente]]
+|bandera = Argentina
+|orden = 2
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor=#D0E7FF
+|{{bandera|ARG}} '''[[Luis Miguel Rodríguez|Luis Rodríguez]]
+|{{bandera|ARG}} '''[[Club Atlético Tucumán|Atlético Tucumán]]
+| align="center" |'''5'''
+| align="center" |'''4'''
+|- bgcolor=#D0E7FF
+|{{bandera|ECU}} '''[[Jhon Cifuente]]'''
+|{{bandera|ECU}} '''[[Club Deportivo de la Universidad Católica (Ecuador)|Universidad Católica]]'''
+| align="center" |'''5'''
+| align="center" |'''4'''
+|- bgcolor=#D0E7FF
+|{{bandera|BRA}} '''[[Felipe Vizeu]]
+|{{bandera|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]
+| align="center" |'''5'''
+| align="center" |'''8'''
+|- 
+|{{bandera|URU}} [[Maximiliano Freitas]]
+|{{bandera|BOL}} [[Club Deportivo Oriente Petrolero|Oriente Petrolero]]
+| align="center" |4
+| align="center" |4
+|- 
+|{{bandera|PAR}} [[Óscar Cardozo]]
+|{{bandera|PAR}} [[Club Libertad|Libertad]]
+| align="center" |4
+| align="center" |6
+|- 
+|{{bandera|ARG}} [[Leandro Miguel Fernández|Leandro Fernández]]
+|{{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |4
+| align="center" |7
+|- 
+|{{bandera|BRA}} [[Henrique Dourado]]
+|{{bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+| align="center" |4
+| align="center" |7
+|- 
+|{{bandera|BRA}} [[André Felipe Ribeiro de Souza|André]]
+|{{bandera|BRA}} [[Sport Club do Recife|Sport Recife]]
+| align="center" |4
+| align="center" |7
+|- 
+|{{bandera|ARG}} [[Emanuel Gigliotti]]
+|{{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |4
+| align="center" |8
+|- 
+|{{bandera|PAR}} [[Santiago Salcedo]]
+|{{bandera|PAR}} [[Club Libertad|Libertad]]
+| align="center" |4
+| align="center" |8
+|}
+<small><center>Fuente: [https://www.livefutbol.com/goleadores/copa-sudamericana-2017/ Livefutbol]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor=#D0E7FF
+|{{bandera|PAR}} '''[[Jorge Luis Rojas|Jorge Rojas]]'''
+|{{bandera|PAR}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| align="center" |'''4'''
+|- bgcolor=#D0E7FF
+|{{bandera|BRA}} '''[[Éverton Cardoso da Silva|Éverton]]'''
+|{{bandera|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| align="center" |'''4'''
+|- 
+|{{bandera|PER}} [[Miguel Trauco]]
+|{{bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| align="center" |3
+|- 
+|{{bandera|ARG}} [[Esequiel Barco]]
+|{{bandera|ARG}} [[Club Atlético Independiente|Independiente]]
+| align="center" |3
+|- 
+|{{bandera|ARG}} [[Rodrigo Aliendro]]
+|{{bandera|ARG}} [[Club Atlético Tucumán|Atlético Tucumán]]
+| align="center" |3
+|}
+<small><center>Fuente: [https://web.archive.org/web/20180215023716/http://www.espn.com.ar/futbol/estadisticas/asistencias/_/league/conmebol.sudamericana/year/2017/copa-sudamericana ESPN]</small></center>
+
+== Véase también ==
+* [[Copa Libertadores 2017]]
+* [[Recopa Sudamericana 2018]]
+* [[Copa Suruga Bank 2018]]
+
+== Referencias ==
+{{listaref|2}}
+
+== Enlaces externos ==
+* [http://conmebol.com/es/conmebol-sudamericana-2017-0 Reglamento de la Copa Sudamericana 2017]
+* [http://www.conmebol.com Sitio web] de [[Conmebol]].
+* [https://www.conmebol.com/es/conmebol-sudamericana-2017 Copa Conmebol Sudamericana] en la página web oficial de [[Conmebol]].
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2016|2016]]
+| título     = Copa Conmebol Sudamericana 2017
+| período    = XVI edición
+| sucesor    = [[Copa Sudamericana 2018|2018]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana|2017]]
+[[Categoría:Copa Sudamericana 2017]]
+[[Categoría:Fútbol en 2017]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

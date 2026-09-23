@@ -1,0 +1,1055 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Estadio_Nacional_de_Chile_2.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio Nacional Julio Martínez Prádanos|estadio Nacional]] de [[Santiago de Chile|Santiago]] fue sede del partido de desempate de la [[Anexo:Final de la Copa Libertadores 1976|final]].
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|25|2|1976}}
+| fecha de cierre = {{fecha2|30|7|1976}}
+| edición = XVII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|ARG|alt}} [[Club Atlético River Plate|River Plate]]
+| semifinalistas = {{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]] <br> {{bandera|PER}} [[Club Alianza Lima|Alianza Lima]]<br> {{bandera|ARG|alt}} [[Club Atlético Independiente|Independiente]]<br>{{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 77
+| goles = 211 (2,74 por partido)
+| goleador = {{bandera|BRA|1968}} [[Vanderlei Eustáquio de Oliveira|Palhinha]] (13 goles)<br><small>([[Cruzeiro Esporte Clube|Cruzeiro]])</small>
+| anterior = [[Copa Libertadores 1975]]
+| actual = Copa Libertadores 1976
+| siguiente = [[Copa Libertadores 1977]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1976''' fue la decimoséptima edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Cruzeiro Esporte Clube|Cruzeiro]] de Brasil, que obtuvo su primer título en el certamen, obtenido además con el mejor rendimiento histórico de la copa tras vencer 11 partidos, empatar 1 y sólo perder 1. Gracias a ello, disputó la [[Copa Intercontinental 1976]] ante [[Bayern de Múnich|Bayern Múnich]] de [[Alemania]], y se clasificó directamente a la segunda fase de la [[Copa Libertadores 1977]].
+
+En el partido entre [[Club Alianza Lima|Alianza Lima]] y [[Independiente Santa Fe|Santa Fe]], disputado el 4 de abril en la capital peruana, y válido por el Grupo 4 de la primera fase, [[Félix Suárez]] convirtió un gol apenas seis segundos después del pitido inicial, transformándolo en el tanto más rápido en la historia del certamen.
+
+== Formato ==
+La competición se disputó bajo el mismo formato que se venía utilizando desde la edición de 1974. El campeón vigente accedió de manera directa a la segunda fase, mientras que los 20 equipos restantes disputaron la primera. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. El ganador de cada uno de los cinco grupos clasificó a la segunda fase, uniéndose al campeón vigente, estableciéndose dos zonas de 3 equipos. El primer posicionado en cada una de ellas accedió a la final, que se llevó a cabo en encuentros de ida y vuelta, disputándose un partido de desempate en caso de ser necesario.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(6 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1975
+|
+* 5 equipos clasificados de la Primera fase
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos primeros de la Segunda fase
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=80%
+|- bgcolor=#006699 style="color:white;"
+!width=16%|País
+!width=16%|Equipo
+!width=68%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina|alt}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético River Plate|River Plate]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|Campeón de la [[Copa Libertadores 1975]]<br>Campeón del [[Campeonato Metropolitano 1975 (Argentina)|Campeonato Metropolitano 1975]] y del [[Campeonato Nacional 1975 (Argentina)|Campeonato Nacional 1975]]<br>Ganador del [[Campeonato Nacional 1975 (Argentina)#Partido para clasificar a la Copa Libertadores|partido entre los subcampeones del Campeonato Metropolitano y del Campeonato Nacional]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Bolivia}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|''[[Club Deportivo Guabirá|Guabirá]]''<br>[[Club Bolívar|Bolívar]]
+|Campeón del [[Campeonato de Primera División 1975 (Bolivia)|Campeonato de Primera División 1975]]<br>Subcampeón del Campeonato de Primera División 1975
+
+|- bgcolor=#F5FAFF
+|{{bandera|Brasil|1968}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|''[[Sport Club Internacional|Internacional]]''<br>[[Cruzeiro Esporte Clube|Cruzeiro]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1975|Campeonato Brasileño de 1975]]<br>Subcampeón del Campeonato Brasileño de 1975
+
+|- bgcolor=#DDEEFF
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Unión Española]]<br>''[[Club Deportivo Palestino|Palestino]]''
+|Campeón del [[Primera División de Chile 1975|Campeonato de Primera División 1975]]<br>Ganador de la [[Liguilla Pre-Libertadores 1975 (Chile)|Liguilla Pre-Libertadores 1975]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Independiente Santa Fe|Santa Fe]]<br>[[Millonarios Fútbol Club|Millonarios]]
+|Campeón del [[Campeonato colombiano 1975|Campeonato Colombiano 1975]]<br>Subcampeón del Campeonato Colombiano 1975
+
+|- bgcolor=#DDEEFF
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br>''[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]''
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1975|Campeonato Ecuatoriano de 1975]]<br>Subcampeón del Campeonato Ecuatoriano de 1975
+
+|- bgcolor=#F5FAFF
+|{{bandera|Paraguay|1954}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>''[[Club Sportivo Luqueño|Sportivo Luqueño]]''
+|Campeón del [[Campeonato Paraguayo de Fútbol 1975|Campeonato Paraguayo de 1975]]<br>Subcampeón del Campeonato Paraguayo de 1975
+
+|- bgcolor=#DDEEFF
+|{{bandera|Perú}} '''[[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Alianza Lima|Alianza Lima]]<br>''[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]''
+|Campeón del [[Campeonato Descentralizado 1975]]<br>Subcampeón del Campeonato Descentralizado 1975
+
+|- bgcolor=#F5FAFF
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos </small>
+|[[Club Atlético Peñarol|Peñarol]]<br>[[Club Nacional de Football|Nacional]]
+|1.º puesto de la [[Liguilla Pre-Libertadores de América de 1975]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1975
+
+|- bgcolor=#DDEEFF
+|{{bandera|Venezuela|1954}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Portuguesa Fútbol Club|Portuguesa]]<br>[[Galicia de Aragua|Deportivo Galicia]]
+|Campeón de la [[Primera División Venezolana 1975]]<br>Subcampeón de la Primera División Venezolana 1975
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1976'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Club Estudiantes de La Plata|Estudiantes]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-17.333333|long=-63.383333|label=<small>[[Club Deportivo Guabirá|Guabirá]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Deportivo Palestino|Palestino]]<br>[[Unión Española|{{Esd|Unión Española}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]<br>[[Independiente Santa Fe|{{Esd|Santa Fe}}]]</small>|position=right}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.897414|long=-79.004481|label=<small>[[Club Deportivo Cuenca (Ecuador)|{{Esd|Deportivo Cuenca}}]]</small>|position=bottom}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]<br>[[Club Sportivo Luqueño|{{Esd|Sportivo Luqueño}}]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Alianza Lima|{{Esd|Alianza Lima}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-15.843333|long=-70.023611|label=<small>[[Club Deportivo Alfonso Ugarte|{{Esd|Alfonso Ugarte}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=9.559722|long=-69.201944|label=<small>[[Portuguesa Fútbol Club|Portuguesa]]</small>|position=left}}
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Galicia de Aragua|{{Esd|Deportivo Galicia}}]]</small>|position=right}}
+}}
+
+== Primera fase ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG|alt}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''10'''||6||5||0||1||10||3||7
+|- align="center"
+|style="text-align:left;"|{{bandera|ARG|alt}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|'''9'''||6||4||1||1||11||3||8
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Portuguesa Fútbol Club|Portuguesa]]
+|'''5'''||6||2||1||3||8||11||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Galicia de Aragua|Deportivo Galicia]]
+|'''0'''||6||0||0||6||3||15||–12
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Caracas]]
+|align=right|[[Galicia de Aragua|Deportivo Galicia]]
+|1:2
+|align=left|'''[[Portuguesa Fútbol Club|Portuguesa]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de febrero
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|1:0
+|align=left|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de marzo
+|[[Acarigua]]
+|align=right|[[Portuguesa Fútbol Club|Portuguesa]]
+|'''2:2'''
+|align=left|[[Club Estudiantes de La Plata|Estudiantes (LP)]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Caracas]]
+|align=right|[[Galicia de Aragua|Deportivo Galicia]]
+|0:1
+|align=left|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de marzo
+|[[Acarigua]]
+|align=right|[[Portuguesa Fútbol Club|Portuguesa]]
+|0:2
+|align=left|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Caracas]]
+|align=right|[[Galicia de Aragua|Deportivo Galicia]]
+|0:1
+|align=left|'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|2:1
+|align=left|[[Portuguesa Fútbol Club|Portuguesa]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[La Plata]]
+|align=right|'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|3:0
+|align=left|[[Portuguesa Fútbol Club|Portuguesa]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[La Plata]]
+|align=right|'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|4:0
+|align=left|[[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|4:1
+|align=left|[[Galicia de Aragua|Deportivo Galicia]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[La Plata]]
+|align=right|'''[[Club Estudiantes de La Plata|Estudiantes (LP)]]'''
+|1:0
+|align=left|[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Acarigua]]
+|align=right|'''[[Portuguesa Fútbol Club|Portuguesa]]'''
+|3:1
+|align=left|[[Galicia de Aragua|Deportivo Galicia]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|'''8'''||6||3||2||1||10||5||5
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+|'''8'''||6||3||2||1||9||6||3
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|'''6'''||6||3||0||3||16||11||5
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club Guabirá|Guabirá]]
+|'''2'''||6||1||0||5||2||15||–13
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+|align=right|'''[[Club Guabirá|Guabirá]]'''
+|1:0
+|align=left|[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Quito]]
+|align=right|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''1:1'''
+|align=left|[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Cuenca (Ecuador)|Cuenca]]
+|align=right|'''[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]'''
+|3:1
+|align=left|[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Quito]]
+|align=right|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|4:0
+|align=left|[[Club Guabirá|Guabirá]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Cuenca (Ecuador)|Cuenca]]
+|align=right|'''[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]'''
+|1:0
+|align=left|[[Club Guabirá|Guabirá]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Quito]]
+|align=right|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|2:1
+|align=left|[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Cuenca (Ecuador)|Cuenca]]
+|align=right|[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+|'''0:0'''
+|align=left|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club Bolívar|Bolívar]]'''
+|7:1
+|align=left|[[Club Guabirá|Guabirá]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+|align=right|[[Club Guabirá|Guabirá]]
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0:1<ref group="n.">El partido fue suspendido a los 15' cuando Liga de Quito ganaba 1-0 por disturbios entre los hinchas y la policía. Posteriormente, Conmebol lo dio por finalizado, manteniendo el resultado.</ref>
+|align=left|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club Bolívar|Bolívar]]'''
+|4:2
+|align=left|[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club Bolívar|Bolívar]]'''
+|3:2
+|align=left|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[Santa Cruz de la Sierra|Santa Cruz]]
+|align=right|[[Club Guabirá|Guabirá]]
+|0:2
+|align=left|'''[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]'''
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Guayaquil]]
+|align=right|[[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+|1:2
+|align=left|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil|1968}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|'''11'''||6||5||1||0||20||9||11
+|- align="center"
+|style="text-align:left;"|{{bandera|Brasil|1968}} [[Sport Club Internacional|Internacional]]
+|'''7'''||6||3||1||2||10||8||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Olimpia|Olimpia]]
+|'''4'''||6||1||2||3||7||11||–4
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Sportivo Luqueño|Sportivo Luqueño]]
+|'''2'''||6||1||0||5||5||14||–9
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|5:4
+|align=left|[[Sport Club Internacional|Internacional]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|2:3
+|align=left|'''[[Club Sportivo Luqueño|Sportivo Luqueño]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Asunción]]
+|align=right|[[Club Sportivo Luqueño|Sportivo Luqueño]]
+|1:3
+|align=left|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Porto Alegre]]
+|align=right|'''[[Sport Club Internacional|Internacional]]'''
+|1:0
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|'''2:2'''
+|align=left|[[Cruzeiro Esporte Clube|Cruzeiro]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Porto Alegre]]
+|align=right|'''[[Sport Club Internacional|Internacional]]'''
+|3:0
+|align=left|[[Club Sportivo Luqueño|Sportivo Luqueño]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|4:1
+|align=left|[[Club Sportivo Luqueño|Sportivo Luqueño]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Porto Alegre]]
+|align=right|[[Sport Club Internacional|Internacional]]
+|0:2
+|align=left|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Asunción]]
+|align=right|[[Club Sportivo Luqueño|Sportivo Luqueño]]
+|0:1
+|align=left|'''[[Club Olimpia|Olimpia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|4:1
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de abril
+|[[Asunción]]
+|align=right|[[Club Sportivo Luqueño|Sportivo Luqueño]]
+|0:1
+|align=left|'''[[Sport Club Internacional|Internacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de abril
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|'''1:1'''
+|align=left|[[Sport Club Internacional|Internacional]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Perú}} '''[[Club Alianza Lima|Alianza Lima]]'''
+|'''8'''||6||3||2||1||8||4||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Millonarios Fútbol Club|Millonarios]]
+|'''6'''||6||2||2||2||8||5||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+|'''6'''||6||1||4||1||5||8||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Independiente Santa Fe|Santa Fe]]
+|'''4'''||6||1||2||3||7||11||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Lima]]
+|align=right|[[Club Alianza Lima|Alianza Lima]]
+|'''0:0'''
+|align=left|[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Bogotá]]
+|align=right|[[Millonarios Fútbol Club|Millonarios]]
+|'''1:1'''
+|align=left|[[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Bogotá]]
+|align=right|[[Independiente Santa Fe|Santa Fe]]
+|'''2:2'''
+|align=left|[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Bogotá]]
+|align=right|'''[[Millonarios Fútbol Club|Millonarios]]'''
+|1:0
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Bogotá]]
+|align=right|'''[[Millonarios Fútbol Club|Millonarios]]'''
+|4:0
+|align=left|[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Bogotá]]
+|align=right|[[Independiente Santa Fe|Santa Fe]]
+|2:3
+|align=left|'''[[Club Alianza Lima|Alianza Lima]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Puno]]
+|align=right|[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+|'''0:0'''
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Bogotá]]
+|align=right|'''[[Independiente Santa Fe|Santa Fe]]'''
+|1:0
+|align=left|[[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Lima]]
+|align=right|'''[[Club Alianza Lima|Alianza Lima]]'''
+|3:0
+|align=left|[[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Puno]]
+|align=right|'''[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]'''
+|2:1
+|align=left|[[Independiente Santa Fe|Santa Fe]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de abril
+|[[Puno]]
+|align=right|[[Club Deportivo Alfonso Ugarte|Alfonso Ugarte]]
+|'''1:1'''
+|align=left|[[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de abril
+|[[Lima]]
+|align=right|'''[[Club Alianza Lima|Alianza Lima]]'''
+|2:1
+|align=left|[[Millonarios Fútbol Club|Millonarios]]
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''8'''||6||3||2||1||7||4||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Unión Española]]
+|'''8'''||6||3||2||1||5||3||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Club Deportivo Palestino|Palestino]]
+|'''5'''||6||2||1||3||5||6||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+|'''3'''||6||0||3||3||5||9||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Montevideo]]
+|align=right|[[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Unión Española]]'''
+|1:0
+|align=left|[[Club Deportivo Palestino|Palestino]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|[[Unión Española]]
+|'''0:0'''
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Deportivo Palestino|Palestino]]'''
+|2:1
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Deportivo Palestino|Palestino]]'''
+|1:0
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Unión Española]]'''
+|2:0
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|1:2
+|align=left|'''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|[[Club Deportivo Palestino|Palestino]]
+|0:1
+|align=left|'''[[Unión Española]]'''
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|2:1
+|align=left|[[Club Deportivo Palestino|Palestino]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|'''1:1'''
+|align=left|[[Unión Española]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|'''1:1'''
+|align=left|[[Club Deportivo Palestino|Palestino]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|2:0
+|align=left|[[Unión Española]]
+|}
+|}
+
+== Segunda fase ==
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil|1968}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|'''8'''||4||4||0||0||18||3||15
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''2'''||4||1||0||3||4||10||–6
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Alianza Lima|Alianza Lima]]
+|'''2'''||4||1||0||3||4||13||–9
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|5 de mayo
+|[[Quito]]
+|align=right|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|2:1
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de mayo
+|[[Quito]]
+|align=right|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|1:3
+|align=left|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|12 de mayo
+|[[Lima]]
+|align=right|[[Club Alianza Lima|Alianza Lima]]
+|0:4
+|align=left|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|20 de mayo
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|7:1
+|align=left|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de mayo
+|[[Lima]]
+|align=right|'''[[Club Alianza Lima|Alianza Lima]]'''
+|2:0
+|align=left|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de mayo
+|[[Belo Horizonte]]
+|align=right|'''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|4:1
+|align=left|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|}
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina|alt}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''5'''||4||2||1||1||4||1||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina|alt}} [[Club Atlético Independiente|Independiente]]
+|'''5'''||4||2||1||1||2||1||1
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+|'''2'''||4||1||0||3||1||5||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|13 de mayo
+|[[Buenos Aires]]
+|align=right|[[Club Atlético River Plate|River Plate]]
+|'''0:0'''
+|align=left|[[Club Atlético Independiente|Independiente]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de mayo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align=right|'''[[Club Atlético Independiente|Independiente]]'''
+|1:0
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|15 de junio
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|1:0
+|align=left|[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de junio
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align=right|[[Club Atlético Independiente|Independiente]]
+|0:1
+|align=left|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|30 de junio
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|3:0
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de julio
+|[[Montevideo]]
+|align=right|[[Club Atlético Peñarol|Peñarol]]
+|0:1
+|align=left|'''[[Club Atlético Independiente|Independiente]]'''
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|16 de julio
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|1:0
+|align=left|[[Club Atlético Independiente|Independiente]]
+|}
+
+== Final ==
+{{AP|Anexo:Final de la Copa Libertadores 1976|l1=Final de la Copa Libertadores 1976}}
+{{Partido
+|local           = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 4:1''' (3:0)
+|visita          = [[Club Atlético River Plate|River Plate]]
+|paísvisita      = ARG
+|etpaísvisita    = alt
+|fecha           = 21 de julio de 1976
+|hora            = 
+|estadio         = [[Estadio Mineirão]]
+|ciudad          = [[Belo Horizonte]]
+|asistencia      = 58&nbsp;720
+|árbitro         = {{árbitro|VEN|var=1954|Vicente Llobregat}} 
+|goleslocal      = [[Nelinho]] {{gol|22}}<br>[[Vanderlei Eustáquio de Oliveira|Palhinha]] {{gol|29||40}}<br>[[Euriovaldo Teixeira|Waldo]] {{gol|80}}
+|golesvisita     = [[Oscar Más|Más]] {{gol|63}}
+|competición=Ida}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 2:1''' (1:0)
+|visita          = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 28 de julio de 1976
+|hora            = 
+|estadio         = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 90&nbsp;000
+|árbitro         = {{árbitro|URU|José Luis Martínez Bazán}} 
+|goleslocal      = [[Juan José López (futbolista)|J. J. López]] {{gol|10}}<br>[[Pedro Alexis González|González]] {{gol|76}}
+|golesvisita     = [[Vanderlei Eustáquio de Oliveira|Palhinha]] {{gol|48}}
+|competición=Vuelta}}
+{{Partido
+|local           = [[Club Atlético River Plate|River Plate]]
+|paíslocal       = ARG
+|etpaíslocal     = alt
+|resultado       = 2:3''' (0:1)
+|visita          = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 30 de julio de 1976
+|hora            = 
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 35&nbsp;182
+|árbitro         = {{árbitro|CHI|Alberto Martínez (árbitro)|Alberto Martínez}} 
+|goleslocal      = [[Oscar Más|Más]] {{gol|59}}<br>[[Alberto Hugo Urquiza|Urquiza]] {{gol|64}}
+|golesvisita     = [[Nelinho]] {{gol|24}}<br>[[Ronaldo Gonçalves Drummond|Ronaldo]] {{gol|55}}<br>[[João Soares de Almeida Filho|Joãozinho]] {{gol|88}}
+|competición=Desempate}}
+<br>
+{{Campeón
+|equipo = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|orden = 1
+|logo=|bandera=BRA|variante=1968}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|BRA|1968}} '''[[Vanderlei Eustáquio de Oliveira|Palhinha]]'''
+|{{bandera|BRA|1968}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+|align=center|'''13'''
+|-
+|{{bandera|BRA|1968}} [[Jairzinho]]
+|{{bandera|BRA|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|align=center|12
+|-
+|{{bandera|BRA|1968}} [[João Soares de Almeida Filho|Joãozinho]]
+|{{bandera|BRA|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|align=center|8
+|-
+|{{bandera|ECU|1900}} [[Ángel Liciardi]]
+|{{bandera|ECU|1900}} [[Club Deportivo Cuenca (Ecuador)|Deportivo Cuenca]]
+|align=center|6
+|-
+|{{bandera|BRA|1968}} [[Nelinho]]
+|{{bandera|BRA|1968}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|align=center|6
+|-
+|{{bandera|URU}} [[Hugo Cabezas (futbolista)|Hugo Cabezas]]
+|{{bandera|ARG|alt}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+|align=center|5
+|-
+|{{bandera|ARG|alt}} [[Oscar Fabbiani]]
+|{{bandera|CHI}} [[Club Deportivo Palestino|Palestino]]
+|align=center|5
+|-
+|{{bandera|ARG|alt}} [[Juan José Pérez (futbolista)|Juan José Pérez]]
+|{{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|align=center|5
+|-
+|{{bandera|BOL}} [[Carlos Aragonés (futbolista)|Carlos Aragonés]]
+|{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|align=center|4
+|-
+|{{bandera|ECU|1900}} [[Polo Carrera]]
+|{{bandera|ECU|1900}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|align=center|4
+|-
+|{{bandera|ARG|alt}} [[Pedro Alexis González|Pedro González]]
+|{{bandera|ARG|alt}} [[Club Atlético River Plate|River Plate]]
+|align=center|4
+|-
+|{{bandera|ARG|alt}} [[Oscar Más]]
+|{{bandera|ARG|alt}} [[Club Atlético River Plate|River Plate]]
+|align=center|4
+|-
+|{{bandera|BOL}} [[Ovidio Messa]]
+|{{bandera|BOL}} [[Club Bolívar|Bolívar]]
+|align=center|4
+|-
+|{{bandera|PER}} [[Carlos Felipe Núñez|Carlos Núñez]]
+|{{bandera|VEN|1954}} [[Portuguesa Fútbol Club|Portuguesa]]
+|align=center|4
+|}
+
+== Notas ==
+{{listaref|grupo=n.}}
+
+== Véase también ==
+* [[Copa Intercontinental 1976]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa76.html Copa Libertadores de América 1976] en [[RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1975|1975]]
+| título     = Copa Libertadores 1976
+| período    = XVII edición
+| sucesor    = [[Copa Libertadores 1977|1977]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1976]]
+[[Categoría:Temporadas de la Copa Libertadores|1976]]
+[[Categoría:Fútbol en 1976]]

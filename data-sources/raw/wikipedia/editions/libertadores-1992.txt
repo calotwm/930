@@ -1,0 +1,1630 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Sao paulo e juventude - campeonato brasileiro de 2006 - 01.jpg
+| imagen_tamaño = 250px
+| imagen_pie = El [[estadio de Morumbi]] ([[São Paulo]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Libertadores 1992|final]]
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|18|2|1992}}
+| fecha de cierre = {{fecha2|17|6|1992}}
+| edición = XXXIII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|ARG}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+| semifinalistas = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]] <br> {{bandera|COL}} [[América de Cali]]
+| titulotercero = Semifinalistas
+| partidos = 99
+| goles = 242 (2,44 por partido)
+| goleadores = 
+| anterior = [[Copa Libertadores 1991]]
+| actual = Copa Libertadores 1992
+| siguiente = [[Copa Libertadores 1993]]
+|goleador={{bandera|BRA}} [[Jorge Ferreira da Silva|Palhinha]] (7 goles)<br><small>([[São Paulo Futebol Clube|São Paulo]])</small>}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1992''' fue la trigésima tercera edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+[[São Paulo Futebol Clube|São Paulo]] de Brasil se consagró campeón por primera vez en su historia, título que le permitió disputar la [[Copa Intercontinental 1992]] ante [[Fútbol Club Barcelona|Barcelona]] de [[España]] y la [[Recopa Sudamericana 1993]] frente a [[Cruzeiro Esporte Clube|Cruzeiro]]. Se clasificó, también, a los octavos de final de la [[Copa Libertadores 1993]], y a la novedosa [[Copa de Oro Nicolás Leoz 1993]].
+
+== Formato ==
+Como excepción al formato utilizado en las ediciones previas, [[Club Social y Deportivo Colo-Colo|Colo-Colo]], campeón vigente, participó voluntariamente —y con autorización de [[Confederación Sudamericana de Fútbol|Conmebol]]— de la fase de grupos, alegando razones financieras. Es por eso que uno de los grupos de la primera instancia estuvo conformado por 5 equipos. Se mantuvo el criterio de disposición de las zonas de acuerdo a los países de origen, de manera que los representantes de una misma asociación nacional debían caer en el mismo grupo. Clasificaron a los octavos de final los tres primeros de los grupos conformados por 4 equipos y los cuatro primeros de la zona conformada por 5 equipos, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos<br>(21 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1991
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fases finales<br>(16 equipos)
+|
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 5 equipos terceros de la Fase de grupos
+* 1 equipo cuarto de la Fase de grupos
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=75%
+|- bgcolor=#006699 style="color:white;"
+!width=17%|País
+!width=21%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético Newell's Old Boys|Newell's Old Boys]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|Campeón del [[Campeonato de Primera División 1990-91 (Argentina)|Campeonato de Primera División 1990-91]]<br>Ganador de la [[Campeonato de Primera División 1990-91 (Argentina)#Torneo de clasificación a la Copa Libertadores|Liguilla Pre-Libertadores 1990-91]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Bolívar|Bolívar]]<br>''[[Club San José|San José]]''
+|Campeón del [[Campeonato de Primera División 1991 (Bolivia)|Campeonato de Primera División 1991]]<br>Subcampeón del Campeonato de Primera División 1991
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|[[São Paulo Futebol Clube|São Paulo]]<br>''[[Criciúma Esporte Clube|Criciúma]]''
+|Campeón del [[Campeonato Brasileño de Fútbol 1991|Campeonato Brasileño de 1991]]<br>Campeón de la [[Copa de Brasil 1991]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>''[[Coquimbo Unido]]''<br>[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Campeón de la [[Copa Libertadores 1991]] y del [[Primera División de Chile 1991|Campeonato de Primera División 1991]]<br>Subcampeón del Campeonato de Primera División 1991<br>Ganador de la [[Liguilla Pre-Libertadores 1991 (Chile)|Liguilla Pre-Libertadores 1991]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Atlético Nacional]]<br>[[América de Cali]]
+|Campeón del [[Campeonato colombiano 1991|Campeonato Colombiano 1991]]<br>Subcampeón del Campeonato Colombiano 1991
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>''[[Valdez Sporting Club|Valdez]]''
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1991|Campeonato Ecuatoriano de 1991]]<br>Subcampeón del Campeonato Ecuatoriano de 1991
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Sol de América (Asunción)|Sol de América]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1991|Campeonato Paraguayo de 1991]]<br>Ganador de los [[Campeonato Paraguayo de Fútbol 1991|Play-offs para la Copa Libertadores 1992]]
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Sporting Cristal|Sporting Cristal]]<br>[[Sport Boys Association|Sport Boys]]
+|Campeón del [[Campeonato Descentralizado 1991]]<br>Subcampeón del Campeonato Descentralizado 1991
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos</small>
+|[[Defensor Sporting Club|Defensor Sporting]]<br>[[Club Nacional de Football|Nacional]]
+|1.º puesto de la [[Campeonato Uruguayo de Primera División 1991#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 1991]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1991
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]<br>[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|Campeón de la [[Primera División Venezolana 1990-91]]<br>Subcampeón de la Primera División Venezolana 1990-91
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1992'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-32.95|long=-60.65|label=<small>[[Club Atlético Newell's Old Boys|{{Esd|Newell's Old Boys}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Club Atlético San Lorenzo de Almagro|{{Esd|San Lorenzo}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.966667|long=-67.116667|label=<small>[[Club San José|San José]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-28.6775|long=-49.369722|label=<small>[[Criciúma Esporte Clube|Criciúma]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]<br>[[Club Deportivo Universidad Católica (fútbol)|{{Esd|Universidad Católica}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-29.95|long=-71.333333|label=<small>[[Coquimbo Unido|{{Esd|Coquimbo Unido}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[América de Cali|{{Esd|América de Cali}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]<br>[[Valdez Sporting Club|Valdez]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Sol de América (Asunción)|{{Esd|Sol de América}}]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Sport Boys Association|{{Esd|Sport Boys}}]]<br>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Defensor Sporting Club|{{Esd|Defensor Sporting}}]]<br>[[Club Nacional de Football|Nacional]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Club Sport Marítimo de Venezuela|{{Esd|Sport Marítimo}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=8.583333|long=-71.133333|label=<small>[[Union Local Andina Fútbol Club|{{Esd|Universidad de Los Andes}}]]</small>|position=right}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+|'''11'''||8||4||3||1||11||10||1
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{bandera|ARG}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|'''9'''||8||4||1||3||13||8||5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''9'''||8||2||5||1||15||8||7
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|8||8||2||4||2||6||7||–1
+|- align="center"
+| style="text-align:left;" |{{bandera|CHI}} [[Coquimbo Unido]]
+|'''3'''||8||1||1||6||6||18||–12
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|18 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left| [[Coquimbo Unido]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''1:1'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Rosario (Argentina)|Rosario]]
+| align=right| [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|0:6
+| align=left| '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Coquimbo]]
+| align=right| '''[[Coquimbo Unido]]'''
+|3:2
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|1:0
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+ |[[Rosario (Argentina)|Rosario]]
+| align=right| '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+|3:0
+| align=left| [[Coquimbo Unido]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Buenos Aires]]
+| align=right| '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+|3:0
+| align=left| [[Coquimbo Unido]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+ |[[Rosario (Argentina)|Rosario]]
+| align=right| '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+|3:1
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''1:1'''
+| align=left| [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|4:0
+| align=left| [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Coquimbo]]
+| align=right| [[Coquimbo Unido]]
+|'''1:1'''
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''0:0'''
+| align=left| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|5:1
+| align=left| [[Coquimbo Unido]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Buenos Aires]]
+| align=right| [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|0:1
+| align=left| '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Coquimbo]]
+| align=right| [[Coquimbo Unido]]
+|1:2
+| align=left| '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right| '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:0
+| align=left| [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Coquimbo]]
+| align=right| [[Coquimbo Unido]]
+|0:1
+| align=left| '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Santiago de Chile|Santiago]]
+| align=right| [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''1:1'''
+| align=left| [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Buenos Aires]]
+| align=right| [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''2:2'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Rosario (Argentina)|Rosario]]
+| align=right| [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|'''0:0'''
+| align=left| [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA|1968}} '''[[Criciúma Esporte Clube|Criciúma]]'''
+|'''9'''||6||4||1||1||13||7||6
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA|1968}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|'''8'''||6||3||2||1||11||5||6
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''6'''||6||2||2||2||9||9||0
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club San José|San José]]
+|'''1'''||6||0||1||5||5||17||–12
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|6 de marzo
+|[[Criciúma]]
+| align=right| '''[[Criciúma Esporte Clube|Criciúma]]'''
+|3:0
+| align=left| [[São Paulo Futebol Clube|São Paulo]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| '''[[Club Bolívar|Bolívar]]'''
+|2:1
+| align=left| [[Club San José|San José]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Oruro]]
+| align=right| [[Club San José|San José]]
+|0:3
+| align=left| '''[[São Paulo Futebol Clube|São Paulo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left| [[São Paulo Futebol Clube|São Paulo]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Oruro]]
+| align=right| [[Club San José|San José]]
+|1:2
+| align=left| '''[[Criciúma Esporte Clube|Criciúma]]'''
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right| [[Club Bolívar|Bolívar]]
+|'''1:1'''
+| align=left| [[Criciúma Esporte Clube|Criciúma]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[São Paulo]]
+| align=right| '''[[São Paulo Futebol Clube|São Paulo]]'''
+|4:0
+| align=left| [[Criciúma Esporte Clube|Criciúma]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de abril
+|[[Oruro]]
+| align=right| [[Club San José|San José]]
+|2:4
+| align=left| '''[[Club Bolívar|Bolívar]]'''
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[São Paulo]]
+| align=right| [[São Paulo Futebol Clube|São Paulo]]
+|'''1:1'''
+| align=left| [[Club San José|San José]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Criciúma]]
+| align=right| '''[[Criciúma Esporte Clube|Criciúma]]'''
+|5:0
+| align=left| [[Club San José|San José]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[São Paulo]]
+| align=right| '''[[São Paulo Futebol Clube|São Paulo]]'''
+|2:0
+| align=left| [[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de abril
+|[[Criciúma]]
+| align=right| '''[[Criciúma Esporte Clube|Criciúma]]'''
+|2:1
+| align=left| [[Club Bolívar|Bolívar]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+|'''10'''||6||4||2||0||11||3||8
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Valdez Sporting Club|Valdez]]'''
+|'''6'''||6||2||2||2||5||4||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|VEN|1954}} '''[[Club Sport Marítimo de Venezuela|Sport Marítimo]]'''
+|'''4'''||6||1||2||3||5||8||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|'''4'''||6||1||2||3||4||10||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Caracas]]
+| align=right| [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|1:2
+| align=left| '''[[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]'''
+
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Guayaquil]]
+| align=right| [[Barcelona Sporting Club|Barcelona]]
+|'''0:0'''
+| align=left| [[Valdez Sporting Club|Valdez]]
+
+|- align=center bgcolor=#F5FAFF
+|11 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+| align=right| [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|0:2
+| align=left| '''[[Valdez Sporting Club|Valdez]]'''
+
+|- align=center bgcolor=#F5FAFF
+|15 de marzo
+|[[Caracas]]
+| align=right| '''[[Club Sport Marítimo de Venezuela|Sport Marítimo]]'''
+|1:0
+| align=left| [[Valdez Sporting Club|Valdez]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Caracas]]
+| align=right| [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''1:1'''
+| align=left| [[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+| align=right| [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|0:1
+| align=left| '''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Guayaquil]]
+| align=right| [[Valdez Sporting Club|Valdez]]
+|0:1
+| align=left| '''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+| align=right| [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|'''0:0'''
+| align=left|  [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[Guayaquil]]
+| align=right| '''[[Valdez Sporting Club|Valdez]]'''
+|2:1
+| align=left| [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|3:1
+| align=left|  [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Guayaquil]]
+| align=right| [[Valdez Sporting Club|Valdez]]
+|'''1:1'''
+| align=left| [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Guayaquil]]
+| align=right| '''[[Barcelona Sporting Club|Barcelona]]'''
+|5:1
+| align=left| [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Valencia (Venezuela)|Valencia]]
+| align=right |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''2:2'''
+| align=left |[[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|- align=center bgcolor=#F5FAFF
+|colspan=5|<small>Sport Marítimo clasificó a octavos de final por haber tenido mejor diferencia de goles en la fase de grupos.</small>
+
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[Atlético Nacional]]'''
+|'''9'''||6||4||1||1||15||4||11
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[América de Cali]]'''
+|'''8'''||6||4||0||2||8||7||1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|'''5'''||6||2||1||3||6||7||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Sport Boys Association|Sport Boys]]
+|'''2'''||6||0||2||4||4||15||–11
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:0
+| align=left| [[Atlético Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de febrero
+|[[Lima]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|'''1:1'''
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|2:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Medellín]]
+| align=right| [[Atlético Nacional]]
+|'''2:2'''
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Cali]]
+| align=right| '''[[América de Cali]]'''
+|1:0
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Medellín]]
+| align=right| '''[[Atlético Nacional]]'''
+|1:0
+| align=left| [[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Medellín]]
+| align=right| '''[[Atlético Nacional]]'''
+|3:0
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Lima]]
+| align=right| '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|2:0
+| align=left| [[Sport Boys Association|Sport Boys]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Lima]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|1:2
+| align=left| '''[[América de Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Lima]]
+| align=right| '''[[Club Sporting Cristal|Sporting Cristal]]'''
+|3:1
+| align=left| [[América de Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Lima]]
+| align=right| [[Sport Boys Association|Sport Boys]]
+|0:6
+| align=left| '''[[Atlético Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Lima]]
+| align=right| [[Club Sporting Cristal|Sporting Cristal]]
+|0:3
+| align=left| '''[[Atlético Nacional]]'''
+|}
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|'''9'''||6||3||3||0||9||4||5
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+|'''7'''||6||2||3||1||9||7||2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Defensor Sporting Club|Defensor Sporting]]'''
+|'''4'''||6||1||2||3||7||9||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|PAR|1990}} [[Club Sol de América (Asunción)|Sol de América]]
+|'''4'''||6||1||2||3||5||10||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}} 
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Asunción]]
+| align=right| [[Club Sol de América (Asunción)|Sol de América]]
+|0:2
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Montevideo]]
+| align=right| [[Defensor Sporting Club|Defensor Sporting]]
+|0:1
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Montevideo]]
+| align=right| [[Defensor Sporting Club|Defensor Sporting]]
+|2:3
+| align=left| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de marzo
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|'''0:0'''
+| align=left| [[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|'''2:2'''
+| align=left| [[Club Sol de América (Asunción)|Sol de América]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Montevideo]]
+| align=right| [[Defensor Sporting Club|Defensor Sporting]]
+|1:2
+| align=left| '''[[Club Sol de América (Asunción)|Sol de América]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Asunción]]
+| align=right| '''[[Club Cerro Porteño|Cerro Porteño]]'''
+|2:0
+| align=left| [[Club Sol de América (Asunción)|Sol de América]]
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Montevideo]]
+| align=right| [[Club Nacional de Football|Nacional]]
+|2:3
+| align=left| '''[[Defensor Sporting Club|Defensor Sporting]]'''
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Asunción]]
+| align=right| [[Club Sol de América (Asunción)|Sol de América]]
+|1:3
+| align=left| '''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center bgcolor=#F5FAFF
+|1 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''1:1'''
+| align=left| [[Defensor Sporting Club|Defensor Sporting]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Asunción]]
+| align=right| [[Club Cerro Porteño|Cerro Porteño]]
+|'''1:1'''
+| align=left| [[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Asunción]]
+| align=right| [[Club Sol de América (Asunción)|Sol de América]]
+|'''0:0'''
+| align=left| [[Defensor Sporting Club|Defensor Sporting]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width=40 | team-width= 200| score-width= 20
+| seeds = yes
+
+<!-- Fechas -->
+|octavos = 28 de abril al 6 de mayo
+|cuartos = 13 al 20 de mayo
+|semifinal = 27 de mayo al 3 de junio
+|final = 10 y 17 de junio
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 28 de abril al 6 de mayo
+
+| RD1-seed1 = G5 1
+| RD1-seed2 = G2 3
+| RD1-team1 = {{bandera|PAR|1990}} '''[[Club Cerro Porteño|Cerro Porteño]]'''
+| RD1-team2 = {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| RD1-score1-1 = 0
+| RD1-score2-1 = 2
+| RD1-score1-2 = 3
+| RD1-score2-2 = 0
+| RD1-score1-3 = '''3'''
+| RD1-score2-3 = '''2'''
+
+| RD1-seed3 = G3 1
+| RD1-seed4 = G1 4
+| RD1-team3 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| RD1-team4 = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD1-score3-1 = 0
+| RD1-score4-1 = 1
+| RD1-score3-2 = 2
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''2'''
+| RD1-score4-3 = '''1'''
+
+| RD1-seed5 = G2 1
+| RD1-seed6 = G4 3
+| RD1-team5 = {{bandera|BRA}} '''[[Criciúma Esporte Clube|Criciúma]]'''
+| RD1-team6 = {{bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+| RD1-score5-1 = 2
+| RD1-score6-1 = 1
+| RD1-score5-2 = 3
+| RD1-score6-2 = 2
+| RD1-score5-3 = '''5'''
+| RD1-score6-3 = '''3'''
+
+| RD1-seed7 = G2 2
+| RD1-seed8 = G5 2
+| RD1-team7 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD1-team8 = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD1-score7-1 = 1
+| RD1-score8-1 = 0
+| RD1-score7-2 = 2
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''3'''
+| RD1-score8-3 = '''0'''
+
+| RD1-seed9 = G4 2
+| RD1-seed10 = G1 2
+| RD1-team9 = {{bandera|COL}} '''[[América de Cali]]'''
+| RD1-team10 = {{bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+| RD1-score9-1 = 0
+| RD1-score10-1 = 0
+| RD1-score9-2 = 1
+| RD1-score10-2 = 0
+| RD1-score9-3 = '''1'''
+| RD1-score10-3 = '''0'''
+
+| RD1-seed11 = G4 1
+| RD1-seed12 = G3 3
+| RD1-team11 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD1-team12 = {{bandera|VEN|1954}} [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+| RD1-score11-1 = 0
+| RD1-score12-1 = 0
+| RD1-score11-2 = 3
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''3'''
+| RD1-score12-3 = '''0'''
+
+| RD1-seed13 = G3 2
+| RD1-seed14 = G1 3
+| RD1-team13 = {{bandera|ECU|1900}} [[Valdez Sporting Club|Valdez]]
+| RD1-team14 = {{bandera|ARG}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD1-score13-1 = 0
+| RD1-score14-1 = 2
+| RD1-score13-2 = 2
+| RD1-score14-2 = 0
+| RD1-score13-3 = '''2&nbsp;{{small|(5)}}'''
+| RD1-score14-3 = '''2&nbsp;{{small|(6)}}'''
+
+| RD1-seed15 = G1 1
+| RD1-seed16 = G5 3
+| RD1-team15 = {{bandera|ARG}} '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+| RD1-team16 = {{bandera|URU}} [[Defensor Sporting Club|Defensor Sporting]]
+| RD1-score15-1 = 1
+| RD1-score16-1 = 1
+| RD1-score15-2 = 1
+| RD1-score16-2 = 0
+| RD1-score15-3 = '''2'''
+| RD1-score16-3 = '''1'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 13 al 20 de mayo
+
+| RD2-team1 = {{bandera|PAR|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+| RD2-team2 = {{bandera|ECU|1900}} '''[[Barcelona Sporting Club|Barcelona]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD2-score1-1 = 1
+| RD2-score2-1 = 1
+| RD2-score1-2 = 1
+| RD2-score2-2 = 1
+| RD2-score1-3 = '''2&nbsp;{{small|(3)}}'''
+| RD2-score2-3 = '''2&nbsp;{{small|(4)}}'''
+
+| RD2-team3 = {{bandera|BRA}} [[Criciúma Esporte Clube|Criciúma]]
+| RD2-team4 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD2-score3-1 = 0
+| RD2-score4-1 = 1
+| RD2-score3-2 = 1
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''1'''
+| RD2-score4-3 = '''2'''
+
+| RD2-team5 = {{bandera|COL}} '''[[América de Cali]]'''
+| RD2-team6 = {{bandera|COL}} [[Atlético Nacional]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 0
+| RD2-score5-2 = 4
+| RD2-score6-2 = 2
+| RD2-score5-3 = '''5'''
+| RD2-score6-3 = '''2'''
+
+| RD2-team7 = {{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+| RD2-team8 = {{bandera|ARG}} '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]'''
+| RD2-score7-1 = 0
+| RD2-score8-1 = 4
+| RD2-score7-2 = 1
+| RD2-score8-2 = 1
+| RD2-score7-3 = '''1'''
+| RD2-score8-3 = '''5'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 27 de mayo al 3 de junio
+
+| RD3-team1 = {{bandera|ECU|1900}} [[Barcelona Sporting Club|Barcelona]]
+| RD3-team2 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+| RD3-score1-1 = 0
+| RD3-score2-1 = 3
+| RD3-score1-2 = 2
+| RD3-score2-2 = 0
+| RD3-score1-3 = '''2'''
+| RD3-score2-3 = '''3'''
+
+| RD3-team3 = {{bandera|COL}} [[América de Cali]]
+| RD3-team4 = {{bandera|ARG}} '''[[Club Atlético Newell's Old Boys|Newell's Old Boys]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD3-score3-1 = 1
+| RD3-score4-1 = 1
+| RD3-score3-2 = 1
+| RD3-score4-2 = 1
+| RD3-score3-3 = '''2&nbsp;{{small|(10)}}'''
+| RD3-score4-3 = '''2&nbsp;{{small|(11)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 1992|Final]]
+| RD4-date= 10 y 17 de junio
+
+| RD4-team1 = {{bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]''' <small>([[Tiros desde el punto penal|p]])</small>
+| RD4-team2 = {{bandera|ARG}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+| RD4-score1-1 = 0
+| RD4-score2-1 = 1
+| RD4-score1-2 = 1
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''1&nbsp;{{small|(3)}}'''
+| RD4-score2-3 = '''1&nbsp;{{small|(2)}}'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>Nota 2: En las llaves de octavos de final, a cada equipo se le indica "''Gx p''", donde ''p'' es la posición final que ocupó en el grupo ''x'' de la fase de grupos.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 29 de abril de 1992
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|PER|Alberto Tejada Noriega}}
+|goleslocal      = [[Jorge Hirano|Hirano]] {{gol|8}}<br>[[Carlos Fernando Borja|Borja]] {{gol|75}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 3:0''' (3:0)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 6 de mayo de 1992
+|estadio         = [[Estadio General Pablo Rojas]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[Francisco Arce|Arce]] {{gol|8}}<br>[[Claudio Da Silva|Claudinho]] {{gol|42}}<br>[[Gustavo Sotelo|Sotelo]] {{gol|44}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal       = CHI
+|resultado       = 1:0''' (0:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 30 de abril de 1992
+|estadio         = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Sabino Fariña}}
+|goleslocal      = [[Claudio Borghi|Borghi]] {{gol|60}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:0''' (0:0)
+|visita          = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita      = CHI
+|fecha           = 6 de mayo de 1992
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 57.187
+|refe            = {{árbitro|ARG|Francisco Lamolina}}
+|goleslocal      = [[Rubén Darío Insúa|Insúa]] {{gol|51}}<br>[[Carlos Muñoz Martínez|Muñoz]] {{gol|74}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Sporting Cristal|Sporting Cristal]]
+|paíslocal       = PER
+|resultado       = 1:2''' (0:0)
+|visita          = [[Criciúma Esporte Clube|Criciúma]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 30 de abril de 1992
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Armando Pérez Hoyos}}
+|goleslocal      = [[Franco Navarro]] {{gol|86|pen.}}
+|golesvisita     = [[Everaldo da Silva|Everaldo]] {{gol|74}}<br>[[Jairo Jair Lenzi|Lenzi]] {{gol|89}}
+}}
+{{Partido
+|local           = [[Criciúma Esporte Clube|Criciúma]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 3:2''' (1:2)
+|visita          = [[Club Sporting Cristal|Sporting Cristal]]
+|paísvisita      = PER
+|fecha           = 4 de mayo de 1992
+|estadio         = [[Estadio Heriberto Hülse]]
+|ciudad          = [[Criciúma]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = [[Wilson Vaterkemper|Wilsão]] {{gol|39}}<br>[[Gelson Silva|Gelson]] {{gol|48|pen.}}<br>[[Everaldo da Silva|Everaldo]] {{gol|76}}
+|golesvisita     = [[Julio César Antón|Antón]] {{gol|10}}<br>[[Orlando Prado|Prado]] {{gol|45}}
+}}
+<br>
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 0:1''' (0:1)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 28 de abril de 1992
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Enrique Marín Gallo}}
+|goleslocal      = 
+|golesvisita     = [[Elivélton]] {{gol|68}}
+}}
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 6 de mayo de 1992
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|goleslocal      = [[Ronaldo Rodrigues de Jesus|Ronaldão]] {{gol|4}}<br>[[Antônio Carlos Zago|Antônio Carlos]] {{gol|53}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paíslocal       = CHI
+|resultado       = 0:0
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 28 de abril de 1992
+|estadio         = [[Estadio San Carlos de Apoquindo]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Juan Bava}}
+}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|paísvisita      = CHI
+|fecha           = 5 de mayo de 1992
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|Renato Marsiglia}}
+|goleslocal      = [[Jorge da Silva|da Silva]] {{gol|68}}
+}}
+<br>
+{{Partido
+|local           = [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 0:0
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 29 de abril de 1992
+|estadio         = [[Estadio Olímpico de la Universidad Central de Venezuela|Estadio Olímpico]]
+|ciudad          = [[Caracas]]
+|asistencia      = 
+|refe            = {{árbitro|ECU|variante=1900|Jorge Orellana Vimos}}
+|goleslocal      = 
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 3:0''' (2:0)
+|visita          = [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 6 de mayo de 1992
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|BOL|Pablo Peña (árbitro)|Pablo Peña}}
+|goleslocal      = [[Luis Alfonso Fajardo|Fajardo]] {{gol|12}}<br>[[Víctor Hugo Aristizábal|Aristizábal]] {{gol|37||82}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal       = ARG
+|resultado       = 2:0''' (0:0)
+|visita          = [[Valdez Sporting Club|Valdez]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 29 de abril de 1992
+|estadio         = [[Estadio Arquitecto Ricardo Etcheverri|Estadio Ricardo Etcheverri]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[Néstor Gorosito|Gorosito]] {{gol|50||87}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Valdez Sporting Club|Valdez]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:0''' (2:0)
+|visita          = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita      = ARG
+|fecha           = 5 de mayo de 1992
+|estadio         = [[Estadio Modelo Alberto Spencer|Estadio Modelo]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|Márcio Rezende}}
+|goleslocal      = [[Eduardo Hurtado|Hurtado]] {{gol|27||45}}
+|golesvisita     =
+|penaltis1       = [[Tomás Arizaga|Arizaga]] {{pengol}}<br>[[Tomás Arboleda|Arboleda]] {{pengol}}<br>[[Segundo Pazmiño|Pazmiño]] {{penfallo}}<br>Hurtado {{penfallo}}<br>[[José Macias (futbolista)|Macias]] {{pengol}}<br>[[Hjalmar Zambrano|Zambrano]] {{pengol}}<br>[[Fabián Sanchez (futbolista)|Sánchez]] {{pengol}}<br>[[Claudio Daniel Brizuela|Brizuela]] {{penfallo}}
+|resultado penalti = 5:6
+|penaltis2       = {{pengol}} [[Flavio Zandoná|Zandoná]]<br>{{penfallo}} [[Manuel Santos Aguilar|Santos Aguilar]]<br>{{penfallo}} [[Ariel Boldrini|Boldrini]]<br>{{pengol}} [[Néstor Gorosito|Gorosito]]<br>{{pengol}} [[Alberto Federico Acosta|Acosta]]<br>{{pengol}} [[Fabián Carrizo|Carrizo]]<br>{{pengol}} [[Mario Ballarino|Ballarino]]<br>{{pengol}} [[Daniel Riquelme (futbolista)|Riquelme]]
+}}
+<br>
+{{Partido
+|local           = [[Defensor Sporting Club|Defensor Sporting]]
+|paíslocal       = URU
+|resultado       = 1:1''' (0:0)
+|visita          = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paísvisita      = ARG
+|fecha           = 29 de abril de 1992
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|José Aparecido de Oliveira}}
+|goleslocal      = [[Josemir Lujambio|Lujambio]] {{gol|84}}
+|golesvisita     = [[Cristian Domizzi|Domizzi]] {{gol|75}}
+}}
+{{Partido
+|local           = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (0:0)
+|visita          = [[Defensor Sporting Club|Defensor Sporting]]
+|paísvisita      = URU
+|fecha           = 6 de mayo de 1992
+|estadio         = [[Estadio Marcelo Bielsa|Estadio El Coloso del Parque]]
+|ciudad          = [[Rosario (Argentina)|Rosario]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Hernán Silva Arce}}
+|goleslocal      = [[Alfredo Mendoza|Mendoza]] {{gol|63}}
+|golesvisita     =
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 1:1''' (0:1)
+|visita          = [[Club Cerro Porteño|Cerro Porteño]]
+|paísvisita      = PAR
+|etpaísvisita    = 1990
+|fecha           = 13 de mayo de 1992
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|COL|José Torres Cadena}}
+|goleslocal      = [[Rubén Darío Insúa|Insúa]] {{gol|63|pen.}}
+|golesvisita     = [[Estanislao Struway|Struway]] {{gol|30}}
+}}
+{{Partido
+|local           = [[Club Cerro Porteño|Cerro Porteño]]
+|paíslocal       = PAR
+|etpaíslocal     = 1990
+|resultado       = 1:1''' (0:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 20 de mayo de 1992
+|estadio         = [[Estadio General Pablo Rojas]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Enrique Marín Gallo}}
+|goleslocal      = [[Carlos Gamarra|Gamarra]] {{gol|52}}
+|golesvisita     = [[José Gavica|Gavica]] {{gol|69}}
+|penaltis1       = [[Francisco Arce|Arce]] {{penfallo}}<br>[[Claudio Da Silva|Claudinho]] {{pengol}}<br>[[Virgilio Ferreira Romero|Ferreira]] {{pengol}}<br>[[Pablo Caballero Cáceres|Caballero]] {{penfallo}}<br>[[Carlos Gamarra|Gamarra]] {{pengol}}<br>[[Andres Duarte|Duarte]] {{penfallo}}<br>[[Carlos Chaves (futbolista)|Chaves]] {{penfallo}}<br>[[Ricardo Sanabria|Sanabria]] {{penfallo}}
+|resultado penalti = 3:4
+|penaltis2       = {{pengol}} [[Ángel Bernuncio|Bernuncio]]<br>{{pengol}} [[Gilson Da Souza|Gilson]]<br>{{penfallo}} [[Jimmy Montanero|Montanero]]<br>{{pengol}} [[José Gavica|Gavica]]<br>{{penfallo}} [[Rubén Darío Insúa|Insúa]]<br>{{penfallo}} [[Claudio Alcívar|Alcívar]]<br>{{penfallo}} [[Julio César Rosero|Rosero]]<br>{{pengol}} [[Raúl Noriega|Noriega]]
+}}
+<br>
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (0:0)
+|visita          = [[Criciúma Esporte Clube|Criciúma]]
+|paísvisita      = BRA
+|fecha           = 13 de mayo de 1992
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Renato Marsiglia}}
+|goleslocal      = [[Natanael dos Santos Macedo|Macedo]] {{gol|82}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Criciúma Esporte Clube|Criciúma]]
+|paíslocal       = BRA
+|resultado       = 1:1''' (1:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 20 de mayo de 1992
+|estadio         = [[Estadio Heriberto Hülse]]
+|ciudad          = [[Criciúma]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = [[José Carlos Soares|Soares]] {{gol|10}}
+|golesvisita     = [[Jorge Ferreira da Silva|Palhinha]] {{gol|55}}
+}}
+<br>
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 0:1''' (0:0)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 13 de mayo de 1992
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|ECU|variante=1900|Jorge Orellana Vimos}}
+|golesvisita     = [[Freddy Rincón|Rincón]] {{gol|67}}
+}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 4:2''' (1:0)
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 20 de mayo de 1992
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Ulisses Tavares da Silva Filho|Ulisses Tavares}}
+|goleslocal      = [[Wilmer Cabrera|Cabrera]] {{gol|7}}<br>[[Alexander Escobar Gañán|Escobar]] {{gol|50}}<br>[[Freddy Rincón|Rincón]] {{gol|58}}<br>[[Antony de Ávila|de Ávila]] {{gol|84}}
+|golesvisita     = [[Víctor Hugo Aristizábal|Aristizábal]] {{gol|52}}<br>[[John Jairo Tréllez|Tréllez]] {{gol|62}}
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paíslocal       = ARG
+|resultado       = 4:0''' (1:0)
+|visita          = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita      = ARG
+|fecha           = 13 de mayo de 1992
+|estadio         = [[Estadio Marcelo Bielsa|Estadio El Coloso del Parque]]
+|ciudad          = [[Rosario (Argentina)|Rosario]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Francisco Lamolina}}
+|goleslocal      = [[Mauricio Pochettino|Pochettino]] {{gol|37||87}}<br>[[Julio Alberto Zamora|Zamora]] {{gol|70}}<br>[[Juan Manuel Llop|Llop]] {{gol|90}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (0:0)
+|visita          = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paísvisita      = ARG
+|fecha           = 20 de mayo de 1992
+|estadio         = [[Estadio Arquitecto Ricardo Etcheverri|Estadio Ricardo Etcheverri]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Juan Carlos Biscay}}
+|goleslocal      = [[Alejandro Simionato|Simionato]] {{gol|80}}
+|golesvisita     = [[Ricardo Lunari|Lunari]] {{gol|88}}
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 3:0''' (3:0)
+|visita          = [[Barcelona Sporting Club|Barcelona]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 27 de mayo de 1992
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Francisco Lamolina}}
+|goleslocal      = [[Müller (futbolista)|Müller]] {{gol|5}}<br>[[Jorge Ferreira da Silva|Palhinha]] {{gol|11}}<br>[[Antônio Rinaldo Gonçalves|Rinaldo]] {{gol|43}}
+|golesvisita     =
+}}
+{{Partido
+|local           = [[Barcelona Sporting Club|Barcelona]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 2:0''' (0:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 3 de junio de 1992
+|estadio         = [[Estadio Monumental Isidro Romero Carbo|Estadio Monumental]]
+|ciudad          = [[Guayaquil]]
+|asistencia      = 
+|refe            = {{árbitro|URU|Ernesto Filippi}}
+|goleslocal      = [[José Gavica|Gavica]] {{gol|51}}<br>[[Gilson Da Souza|Gilson]] {{gol|87}}
+|golesvisita     =
+}}
+<br>
+{{Partido
+|local           = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paíslocal       = ARG
+|resultado       = 1:1''' (0:1)
+|visita          = [[América de Cali]]
+|paísvisita      = COL
+|fecha           = 27 de mayo de 1992
+|estadio         = [[Estadio Marcelo Bielsa|Estadio El Coloso del Parque]]
+|ciudad          = [[Rosario (Argentina)|Rosario]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1990|Juan Francisco Escobar Valdez|Juan Francisco Escobar}}
+|goleslocal      = [[Alfredo Mendoza|Mendoza]] {{gol|77}}
+|golesvisita     = [[Antony de Ávila|de Ávila]] {{gol|10}}
+}}
+{{Partido
+|local           = [[América de Cali]]
+|paíslocal       = COL
+|resultado       = 1:1''' (0:1)
+|visita          = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paísvisita      = ARG
+|fecha           = 3 de junio de 1992
+|estadio         = [[Estadio Olímpico Pascual Guerrero|Estadio Pascual Guerrero]]
+|ciudad          = [[Cali]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|Márcio Rezende}}
+|goleslocal      = [[Jorge da Silva|da Silva]] {{gol|89|pen.}}
+|golesvisita     = [[Mauricio Pochettino|Pochettino]] {{gol|4}}
+|penaltis1       = [[Jorge da Silva|da Silva]] {{pengol}}<br>[[Wilson Pérez|Pérez]] {{pengol}}<br>[[Orlando Maturana|Maturana]] {{pengol}}<br>[[Freddy Rincón|Rincón]] {{pengol}}<br>[[Sergio Angulo|Angulo]] {{pengol}}<br>[[Alexander Escobar Gañán|Escobar]] {{pengol}}<br>[[Jorge Bermúdez|Bermúdez]] {{penfallo}}<br>[[Jorge Balbis|Balbis]] {{penfallo}}<br>[[Eduardo Pimentel|Pimentel]] {{pengol}}<br>[[Eduardo Niño|Niño]] {{pengol}}<br>[[Jorge da Silva|da Silva]] {{pengol}}<br>[[Wilson Pérez|Pérez]] {{pengol}}<br>[[Orlando Maturana|Maturana]] {{penfallo}}
+|resultado penalti = 10:11
+|penaltis2       = {{pengol}} [[Eduardo Berizzo|Berizzo]]<br>{{pengol}} [[Julio Alberto Zamora|Zamora]]<br>{{pengol}} [[Gustavo Raggio|Raggio]]<br>{{pengol}} [[Fernando Gamboa|Gamboa]]<br>{{pengol}} [[Fabián Garfagnoli|Garfagnoli]]<br>{{pengol}} [[Alfredo Berti|Berti]]<br>{{penfallo}} [[Mauricio Pochettino|Pochettino]]<br>{{penfallo}} [[Cristian Domizzi|Domizzi]]<br>{{pengol}} [[Julio Saldaña|Saldaña]]<br>{{pengol}} [[Norberto Scoponi|Scoponi]]<br>{{pengol}} [[Eduardo Berizzo|Berizzo]]<br>{{pengol}} [[Julio Alberto Zamora|Zamora]]<br>{{pengol}} [[Gustavo Raggio|Raggio]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1992|l1=Final de la Copa Libertadores 1992}}
+{{Partido
+|local           = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paíslocal       = ARG
+|resultado       = 1:0''' (1:0)
+|visita          = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita      = BRA
+|fecha           = 10 de junio de 1992
+|hora            = 
+|estadio         = [[Estadio Gigante de Arroyito]]
+|ciudad          = [[Rosario (Argentina)|Rosario]]
+|asistencia      = 45&nbsp;000
+|árbitro         = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|goleslocal      = [[Eduardo Berizzo|Berizzo]] {{gol|39|pen.}}
+|golesvisita     = 
+|reporte         = 
+|competición=Ida}}
+{{Partido
+|local           = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal       = BRA
+|resultado       = 1:0''' (0:0)
+|visita          = [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|paísvisita      = ARG
+|fecha           = 17 de junio de 1992
+|hora            = 
+|estadio         = [[Estadio Morumbi]]
+|ciudad          = [[São Paulo]]
+|asistencia      = 105&nbsp;185
+|árbitro         = {{árbitro|COL|José Torres Cadena}}
+|goleslocal      = [[Raí]] {{gol|65|pen.}}
+|golesvisita     = 
+|reporte         = 
+|resultado penalti = 3:2
+|penaltis1       = [[Raí]] {{pengol}}<br>[[Iván Rocha|Rocha]] {{pengol}}<br>[[Ronaldo Rodrigues de Jesus|Ronaldão]] {{penfallo|atajado}}<br>[[Cafú]] {{pengol}}
+|penaltis2       = {{penfallo|palo}} [[Eduardo Berizzo|Berizzo]]<br>{{pengol}} [[Julio Alberto Zamora|Zamora]]<br>{{pengol}} [[Juan Manuel Llop|Llop]]<br>{{penfallo|desviado}} [[Alfredo Mendoza|Mendoza]]<br>{{penfallo|atajado}} [[Fernando Gamboa|Gamboa]]
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[São Paulo Futebol Clube|São Paulo]]
+|bandera = Brasil
+|orden = 1
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Brasil}} '''[[Jorge Ferreira da Silva|Palhinha]]''' {{refn|group=n.|La [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] le adjudica a Palhinha sólo 6 goles, ya que no le contabiliza, erróneamente, un gol en el partido Criciúma 1-1 São Paulo, por los cuartos de final, cuando otras fuentes<ref>[https://www.livefutbol.com/cronica/copa-libertadores-1992-viertelfinale-criciuma-ec-sao-paulo-fc/ Ficha de Criciúma 1-1 São Paulo] en livefutbol.com</ref> y los registros audiovisuales<ref>[https://www.youtube.com/watch?v=zivy11P2q9k Compacto de Criciúma 1-1 São Paulo]</ref> confirman que sí lo convirtió.}}
+|{{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|align=center|'''7'''
+|- 
+|{{bandera|Colombia}} [[Víctor Hugo Aristizábal]]
+|{{bandera|Colombia}} [[Atlético Nacional]]
+|align=center|6
+|- 
+|{{bandera|Chile}} [[Jorge Contreras Lira|Jorge Contreras]]
+|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|align=center|6
+|- 
+|{{bandera|Argentina}} [[Alberto Federico Acosta|Alberto Acosta]]
+|{{bandera|Argentina}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|align=center|5
+|- 
+|{{bandera|Argentina}} [[Rubén Darío Insúa]]
+|{{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+|align=center|5
+|- 
+|{{bandera|Paraguay|1990}} [[Alfredo Mendoza]]
+|{{bandera|Argentina}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|align=center|5
+|- 
+|{{bandera|Brasil}} [[Jairo Lenzi]]
+|{{bandera|Brasil}} [[Criciúma Esporte Clube|Criciúma]]
+|align=center|5
+|}
+
+=== Tabla general ===
+{| align=center cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;" width=50%
+|- align=center bgcolor=#006699 style="color:white;"
+!width=50% colspan=2|Equipo
+!width=5%|Pts
+!width=5%|PJ
+!width=5%|PG
+!width=5%|PE
+!width=5%|PP
+!width=5%|GF
+!width=5%|GC
+!width=5%|Dif
+|- align=center bgcolor=#D0E7FF
+!1
+|align=left|{{bandera|Brasil}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|'''19'''||14||8||3||3||20||9||+11
+|- align=center
+!2
+|align=left|{{bandera|Argentina}} [[Club Atlético Newell's Old Boys|Newell's Old Boys]]
+|'''21'''||16||7||7||2||21||15||+6
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!3
+|align=left|{{bandera|Colombia}} [[América de Cali]]
+|'''17'''||12||7||3||2||16||11||+5
+|- align=center
+!4
+|align=left|{{bandera|Ecuador|variante=1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''16'''||12||6||4||2||17||9||+8
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!5
+|align=left|{{bandera|Brasil}} [[Criciúma Esporte Clube|Criciúma]]
+|'''14'''||10||6||2||2||19||11||+8
+|- align=center
+!6
+|align=left|{{bandera|Paraguay|variante=1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''13'''||10||4||5||1||14||8||+6
+
+|- align=center bgcolor=#D0E7FF
+!7
+|align=left|{{bandera|Colombia}} [[Atlético Nacional]]
+|'''12'''||10||5||2||3||20||9||+11
+|- align=center
+!8
+|align=left|{{bandera|Argentina}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''12'''||12||5||2||5||16||15||+1
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!9
+|align=left|{{bandera|Chile}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|'''10'''||10||2||6||2||15||9||+6
+|- align=center
+!10
+|align=left|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''10'''||10||3||4||3||7||9||–2
+|- align=center bgcolor=#D0E7FF
+!11
+|align=left|{{bandera|Ecuador|variante=1900}} [[Valdez Sporting Club|Valdez]]
+|'''8'''||8||3||2||3||7||6||+1
+|- align=center
+!12
+|align=left|{{Bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|'''8'''||8||3||2||3||11||12||–1
+|- align=center bgcolor=#D0E7FF
+!13
+|align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+|'''7'''||8||2||3||3||9||10||–1
+|- align=center
+!14
+|align=left|{{bandera|Venezuela|variante=1954}} [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''6'''||9||1||4||4||7||13||–6
+|- align=center bgcolor=#D0E7FF
+!15
+|align=left|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''5'''||8||2||1||5||9||12||–3
+|- align=center
+!16
+|align=left|{{bandera|Uruguay}} [[Defensor Sporting Club|Defensor Sporting]]
+|'''5'''||8||1||3||4||8||11||–3
+|- style="border-top:1px solid #222;" align=center bgcolor=#D0E7FF
+!17
+|align=left|{{bandera|Venezuela|variante=1954}} [[Universidad de Los Andes Fútbol Club|Universidad de Los Andes]]
+|'''5'''||7||1||3||3||6||12||–6
+|- align=center
+!18
+|align=left|{{Bandera|Paraguay|variante=1990}} [[Club Sol de América (Asunción)|Sol de América]]
+|'''4'''||6||1||2||3||5||10||–5
+|- align=center bgcolor=#D0E7FF
+!19
+|align=left|{{bandera|Chile}} [[Coquimbo Unido]]
+|'''3'''||8||1||1||6||6||18||–12
+|- align=center
+!20
+|align=left|{{bandera|Perú}} [[Sport Boys Association|Sport Boys]]
+|'''2'''||6||0||2||4||4||15||–11
+|- align=center bgcolor=#D0E7FF
+!21
+|align=left|{{bandera|Bolivia}} [[Club San José|San José]]
+|'''1'''||6||0||1||5||5||17||–12
+|}
+
+== Véase también ==
+* [[Copa Intercontinental 1992]]
+* [[Supercopa Sudamericana 1992]]
+* [[Recopa Sudamericana 1993]]
+* [[Copa de Oro Nicolás Leoz 1993]]
+
+== Notas ==
+{{listaref|group=n.}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa92.html Copa Libertadores 1992] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.conmebol.com/ Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1991|1991]]
+| título     = Copa Libertadores 1992
+| período    = XXXIII edición
+| sucesor    = [[Copa Libertadores 1993|1993]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1992]]
+[[Categoría:Temporadas de la Copa Libertadores|1992]]
+[[Categoría:Fútbol en 1992]]

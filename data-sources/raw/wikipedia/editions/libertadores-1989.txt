@@ -1,0 +1,1479 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = 1989 Copa Libertadores Local replica.jpg
+| imagen_tamaño = 
+| imagen_pie = El [[Atlético Nacional]], de Colombia, se consagró campeón de la [[Copa Libertadores de América]] por 1.ª vez
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|12|2|1989}}
+| fecha de cierre = {{fecha2|31|5|1989}}
+| edición = XXX
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|COL}} [[Atlético Nacional]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|PAR|1988}} [[Club Olimpia|Olimpia]]
+| semifinalistas = {{bandera|URU}} [[Danubio Fútbol Club|Danubio]] <br> {{bandera|BRA|1968}} [[Sport Club Internacional|Internacional]]
+| titulotercero = Semifinalistas
+| partidos = 91
+| goles = 231 (2,53 por partido)
+| goleadores = {{bandera|URU}} [[Carlos Alberto Aguilera|Carlos Aguilera]] (10 goles)<br><small>([[Club Atlético Peñarol|Peñarol]])</small><br>{{bandera|PAR|1988}} [[Raúl Vicente Amarilla|Raúl Amarilla]] (10 goles)<br><small>([[Club Olimpia|Olimpia]])</small>
+| anterior = [[Copa Libertadores 1988]]
+| actual = Copa Libertadores 1989
+| siguiente = [[Copa Libertadores 1990]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1989''' fue la trigésima edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Atlético Nacional]] de Colombia,<ref>{{Cita web|url=https://www.eltiempo.com/archivo/documento/CMS-3539728|título=El primer campeón colombiano de la copa libertadores|fechaacceso=2025-06-17|apellido=Tiempo|nombre=Redacción El|fecha=2007-05-02|sitioweb=El Tiempo|idioma=}}</ref> que lograba así su primer título y conseguía de esta manera derrumbar el histórico predominio de los equipos del ''Atlántico'', transformándose en el primer cuadro de la zona del ''Pacífico'' en consagrarse en el certamen.<ref>{{Cita web|url=https://www.eltiempo.com/archivo/documento/CMS-5312988|título=Se celebran 20 años de la gran hazaña de Atlético Nacional en la Copa Libertadores|fechaacceso=2025-06-17|apellido=Tiempo|nombre=Redacción El|fecha=2009-05-30|sitioweb=El Tiempo|idioma=}}</ref> Gracias a ello, disputó la [[Copa Intercontinental 1989]] frente a [[Associazione Calcio Milan|Milan]] de [[Italia]], la [[Copa Interamericana 1990]] ante los [[Club Universidad Nacional|Pumas de la UNAM]] de [[México]] y la [[Recopa Sudamericana 1990]] contra [[Club Atlético Boca Juniors|Boca Juniors]] de Argentina. Asimismo, clasificó a los octavos de final de la [[Copa Libertadores 1990]]. A partir de esta edición se incluyeron los octavos y cuartos de final.
+
+== Formato ==
+El campeón vigente accedió de manera directa a las fases finales, mientras que los 20 equipos restantes disputaron la Fase de grupos. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. Los tres primeros de cada uno de los cinco grupos clasificaron a los octavos de final, en donde se les unió el campeón vigente, iniciándose a partir de esta instancia el sistema de [[eliminación directa]], que pasó posteriormente por los cuartos de final, las semifinales y la final, en la que se declaró al campeón.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase de grupos
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1988
+|
+* 5 equipos primeros de la Fase de grupos
+* 5 equipos segundos de la Fase de grupos
+* 5 equipos terceros de la Fase de grupos
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<!-- <small>En ''cursiva'' los equipos debutantes en el torneo. NO SE INCORPORA ESTA LEYENDA EN ESTA EDICIÓN AL NO HABER EQUIPOS DEBUTANTES.</small> -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!width=20%|País
+!width=22%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Racing Club]]<br>[[Club Atlético Boca Juniors|Boca Juniors]]
+|1.º puesto del [[Campeonato de Primera División 1988-89 (Argentina)#Torneo Apertura 1988-89|Torneo Apertura del Campeonato de Primera División 1988-89]]<br>2.º puesto del Torneo Apertura del Campeonato de Primera División 1988-89
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|The Strongest]]
+|Campeón del [[Campeonato de Primera División 1988 (Bolivia)|Campeonato de Primera División 1988]]<br>Subcampeón del Campeonato de Primera División 1988
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil|1968}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|[[Esporte Clube Bahia|Bahia]]<br>[[Sport Club Internacional|Internacional]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1988|Campeonato Brasileño de 1988]]<br>Subcampeón del Campeonato Brasileño de 1988
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|[[Club de Deportes Cobreloa|Cobreloa]]<br>[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|Campeón del [[Primera División de Chile 1988|Campeonato de Primera División 1988]]<br>Ganador de la [[Liguilla Pre-Libertadores 1988 (Chile)|Liguilla Pre-Libertadores 1988]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Millonarios Fútbol Club|Millonarios]]<br>[[Atlético Nacional]]
+|Campeón del [[Campeonato colombiano 1988|Campeonato Colombiano 1988]]<br>Subcampeón del Campeonato Colombiano 1988
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Club Sport Emelec|Emelec]]<br>[[Sociedad Deportivo Quito|Deportivo Quito]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1988|Campeonato Ecuatoriano de 1988]]<br>Subcampeón del Campeonato Ecuatoriano de 1988
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1988}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Sol de América (Asunción)|Sol de América]]
+|Campeón del Campeonato Paraguayo de 1988<br>Subcampeón del Campeonato Paraguayo de 1988
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Sporting Cristal|Sporting Cristal]]<br>[[Club Universitario de Deportes|Universitario]]
+|Campeón del [[Campeonato Descentralizado 1988]]<br>Subcampeón del Campeonato Descentralizado 1988
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]<br>[[Danubio Fútbol Club|Danubio]]
+|Campeón de la [[Copa Libertadores 1988]]<br>1.º puesto de la Liguilla Pre-Libertadores de América de 1988<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1988
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Club Sport Marítimo de Venezuela|Sport Marítimo]]<br>[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+|Campeón de la Primera División Venezolana 1987-88<br>Subcampeón de la Primera División Venezolana 1987-88
+
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1989'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>{{Esd|[[Racing Club]]}}</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-12.970833|long=-38.510833|label=<small>[[Esporte Clube Bahia|Bahia]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Sport Club Internacional|Internacional]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-22.466667|long=-68.916667|label=<small>[[Club de Deportes Cobreloa|Cobreloa]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=4.598889|long=-74.080833|label=<small>[[Millonarios Fútbol Club|Millonarios]]</small>|position=right}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small><br>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Club Sport Emelec|Emelec]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Sociedad Deportivo Quito|{{Esd|Deportivo Quito}}]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]<br>[[Club Sol de América (Asunción)|{{Esd|Sol de América}}]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]<br>[[Club Universitario de Deportes|Universitario]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Danubio Fútbol Club|Danubio]]<br>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Club Sport Marítimo de Venezuela|{{Esd|Sport Marítimo}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.768172|long=-72.232242|label=<small>[[Deportivo Táchira Fútbol Club|{{Esd|Unión Atlético Táchira}}]]</small>|position=right}}
+}}
+
+== Fase de grupos ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|CHI}} '''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|'''8'''||6||3||2||1||7||4||+3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1988}} '''[[Club Sol de América (Asunción)|Sol de América]]'''
+|'''6'''||6||2||2||2||7||8||–1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PAR|1988}} '''[[Club Olimpia|Olimpia]]'''
+|'''5'''||6||2||1||3||8||9||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''5'''||6||2||1||3||7||8||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Asunción]]
+| align=right |[[Club Olimpia|Olimpia]]
+|'''0:0'''
+| align=left |[[Club Sol de América (Asunción)|Sol de América]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|0:2
+| align=left |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|3:1
+| align=left |[[Club Sol de América (Asunción)|Sol de América]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Calama]]
+| align=right |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|1:0
+| align=left |[[Club Sol de América (Asunción)|Sol de América]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Sol de América (Asunción)|Sol de América]]'''
+|1:0
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:0
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Santiago de Chile|Santiago]]
+| align=right |'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|2:0
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Calama]]
+| align=right |'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|2:0
+| align=left |[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de marzo
+|[[Asunción]]
+| align=right |[[Club Sol de América (Asunción)|Sol de América]]
+|'''0:0'''
+| align=left |[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de marzo
+|[[Asunción]]
+| align=right |'''[[Club Olimpia|Olimpia]]'''
+|2:0
+| align=left |[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Calama]]
+| align=right |[[Club de Deportes Cobreloa|Cobreloa]]
+|'''2:2'''
+| align=left |[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de marzo{{refn|group=n.|name=Grupo 1|El partido comenzó a jugarse el 29 de marzo, pero a los 24' se suspendió por un corte de luz en las dependencias del estadio, por lo que los 66' restantes se terminaron de jugar al día siguiente.}}
+|[[Asunción]]
+| align=right |'''[[Club Sol de América (Asunción)|Sol de América]]'''
+|5:4
+| align=left |[[Club Olimpia|Olimpia]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA|1968}} '''[[Esporte Clube Bahia|Bahia]]'''
+|'''10'''||6||4||2||0||11||5||+6
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|VEN|1954}} '''[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]'''
+|'''7'''||6||3||1||2||7||8||–1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BRA|1968}} '''[[Sport Club Internacional|Internacional]]'''
+|'''5'''||6||2||1||3||8||6||+2
+|- align="center"
+|style="text-align:left;"|{{bandera|VEN|1954}} [[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''2'''||6||0||2||4||3||10||–7
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|19 de febrero
+|[[Caracas]]
+| align=right |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|0:1
+| align=left |'''[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Porto Alegre]]
+| align=right |[[Sport Club Internacional|Internacional]]
+|1:2
+| align=left |'''[[Esporte Clube Bahia|Bahia]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |'''[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]'''
+|1:0
+| align=left |[[Sport Club Internacional|Internacional]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Caracas]]
+| align=right |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''1:1'''
+| align=left |[[Sport Club Internacional|Internacional]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de marzo
+|[[Caracas]]
+| align=right |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+|'''0:0'''
+| align=left |[[Esporte Clube Bahia|Bahia]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+|'''1:1'''
+| align=left |[[Esporte Clube Bahia|Bahia]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de marzo
+|[[San Cristóbal (Venezuela)|San Cristóbal]]
+| align=right |'''[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]'''
+|2:0
+| align=left |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Salvador (Bahía)|Salvador]]
+| align=right |'''[[Esporte Clube Bahia|Bahia]]'''
+|1:0
+| align=left |[[Sport Club Internacional|Internacional]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Salvador (Bahía)|Salvador]]
+| align=right |'''[[Esporte Clube Bahia|Bahia]]'''
+|3:2
+| align=left |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Porto Alegre]]
+| align=right |'''[[Sport Club Internacional|Internacional]]'''
+|3:0
+| align=left |[[Club Sport Marítimo de Venezuela|Sport Marítimo]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Salvador (Bahía)|Salvador]]
+| align=right |'''[[Esporte Clube Bahia|Bahia]]'''
+|4:1
+| align=left |[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Porto Alegre]]
+| align=right |'''[[Sport Club Internacional|Internacional]]'''
+|3:1
+| align=left |[[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{bandera|COL}} '''[[Millonarios Fútbol Club|Millonarios]]'''
+|'''10'''||6||4||2||0||12||3||+9
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|COL}} '''[[Atlético Nacional]]'''
+|'''7'''||6||2||3||1||8||7||+1
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ECU|1900}} '''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|'''4'''||6||1||2||3||4||7||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Club Sport Emelec|Emelec]]
+|'''3'''||6||1||1||4||4||11||–7
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|12 de febrero
+|[[Guayaquil]]
+| align=right |'''[[Club Sport Emelec|Emelec]]'''
+|1:0
+| align=left |[[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|16 de febrero
+|[[Bogotá]]
+| align=right |[[Millonarios Fútbol Club|Millonarios]]
+|'''1:1'''
+| align=left |[[Atlético Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|'''1:1'''
+| align=left |[[Atlético Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[Quito]]
+| align=right |[[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''1:1'''
+| align=left |[[Atlético Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Guayaquil]]
+| align=right |[[Club Sport Emelec|Emelec]]
+|0:2
+| align=left |'''[[Millonarios Fútbol Club|Millonarios]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[Quito]]
+| align=right |[[Sociedad Deportivo Quito|Deportivo Quito]]
+|'''0:0'''
+| align=left |[[Millonarios Fútbol Club|Millonarios]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de marzo
+|[[Medellín]]
+| align=right |[[Atlético Nacional]]
+|0:2
+| align=left |'''[[Millonarios Fútbol Club|Millonarios]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de marzo
+|[[Quito]]
+| align=right |'''[[Sociedad Deportivo Quito|Deportivo Quito]]'''
+|1:0
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Medellín]]
+| align=right |'''[[Atlético Nacional]]'''
+|2:1
+| align=left |[[Sociedad Deportivo Quito|Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Bogotá]]
+| align=right |'''[[Millonarios Fútbol Club|Millonarios]]'''
+|3:1
+| align=left |[[Deportivo Quito]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de marzo
+|[[Medellín]]
+| align=right |'''[[Atlético Nacional]]'''
+|3:1
+| align=left |[[Club Sport Emelec|Emelec]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Bogotá]]
+| align=right |'''[[Millonarios Fútbol Club|Millonarios]]'''
+|4:1
+| align=left |[[Club Sport Emelec|Emelec]]
+|}
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''7'''||6||3||1||2||9||7||+2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|ARG}} '''[[Racing Club]]'''
+|'''7'''||6||3||1||2||9||6||+3
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''
+|'''6'''||6||3||0||3||7||6||+1
+|- align="center"
+|style="text-align:left;"|{{bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''4'''||6||2||0||4||6||12||–6
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|12 de febrero
+|[[Lima]]
+| align=right |'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|1:0
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de febrero
+|[[Buenos Aires]]
+| align=right |[[Club Atlético Boca Juniors|Boca Juniors]]
+|'''0:0'''
+| align=left |[[Racing Club]]
+
+|- align=center bgcolor=#F5FAFF
+|20 de febrero
+|[[Lima]]
+| align=right |'''[[Club Universitario de Deportes|Universitario]]'''
+|1:0
+| align=left |[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de febrero
+|[[Lima]]
+| align=right |'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|1:0
+| align=left |[[Club Atlético Boca Juniors|Boca Juniors]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[Lima]]
+| align=right |'''[[Club Universitario de Deportes|Universitario]]'''
+|2:1
+| align=left |[[Racing Club]]
+
+|- align=center bgcolor=#F5FAFF
+|2 de marzo
+|[[Lima]]
+| align=right |[[Club Sporting Cristal|Sporting Cristal]]
+|1:2
+| align=left |'''[[Racing Club]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Buenos Aires]]
+| align=right |[[Racing Club]]
+|2:3
+| align=left |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Lima]]
+| align=right |'''[[Club Universitario de Deportes|Universitario]]'''
+|4:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|2:0
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right |'''[[Racing Club]]'''
+|2:0
+| align=left |[[Club Universitario de Deportes|Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Buenos Aires]]
+| align=right |'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|4:3
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+| align=right |'''[[Racing Club]]'''
+|2:0
+| align=left |[[Club Sporting Cristal|Sporting Cristal]]
+|}
+|}
+
+'''Partido desempate por el primer puesto'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|3:1
+|align=left|[[Racing Club]]
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''7'''||6||3||1||2||11||9||+2
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|URU}} '''[[Danubio Fútbol Club|Danubio]]'''
+|'''6'''||6||3||0||3||7||7||0
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''6'''||6||2||2||2||6||7||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|BOL}} [[Club The Strongest|The Strongest]]
+|'''5'''||6||1||3||2||3||4||–1
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|17 de febrero
+|[[Montevideo]]
+| align=right |'''[[Danubio Fútbol Club|Danubio]]'''
+|4:1
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |[[Club Bolívar|Bolívar]]
+|'''0:0'''
+| align=left |[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |[[Club The Strongest|The Strongest]]
+|1:2
+| align=left |'''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|3:0
+| align=left |[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de febrero
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club The Strongest|The Strongest]]'''
+|1:0
+| align=left |[[Danubio Fútbol Club|Danubio]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |'''[[Club Bolívar|Bolívar]]'''
+|3:1
+| align=left |[[Danubio Fútbol Club|Danubio]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[La Paz (Bolivia)|La Paz]]
+| align=right |[[Club The Strongest|The Strongest]]
+|'''0:0'''
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|2:0
+| align=left |[[Danubio Fútbol Club|Danubio]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de marzo
+|[[Montevideo]]
+| align=right |'''[[Danubio Fútbol Club|Danubio]]'''
+|1:0
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de marzo
+|[[Montevideo]]
+| align=right |'''[[Club Atlético Peñarol|Peñarol]]'''
+|5:0
+| align=left |[[Club Bolívar|Bolívar]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de marzo
+|[[Montevideo]]
+| align=right |'''[[Danubio Fútbol Club|Danubio]]'''
+|1:0
+| align=left |[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Montevideo]]
+| align=right |[[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+| align=left | [[Club The Strongest|The Strongest]]
+|}
+|}
+
+== Fases finales ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= | team-width= 180| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+|octavos = 5 al 13 de abril
+|cuartos = 19 al 26 de abril
+|semifinal = 10 al 17 de mayo
+|final = 24 y 31 de mayo
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 5 al 13 de abril
+
+| RD1-team2 = {{bandera|BOL}} [[Club Bolívar|Bolívar]]
+| RD1-team1 = {{bandera|COL}} '''[[Millonarios Fútbol Club|Millonarios]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score2-1 = 1
+| RD1-score1-1 = 0
+| RD1-score2-2 = 2
+| RD1-score1-2 = 3
+| RD1-score2-3 = '''3&nbsp;{{small|(3)}}'''
+| RD1-score1-3 = '''3&nbsp;{{small|(4)}}'''
+
+| RD1-team4 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD1-team3 = {{bandera|ARG}} [[Racing Club]]
+| RD1-score4-1 = 2
+| RD1-score3-1 = 0
+| RD1-score4-2 = 1
+| RD1-score3-2 = 2
+| RD1-score4-3 = '''3'''
+| RD1-score3-3 = '''2'''
+
+| RD1-team6 = {{bandera|URU}} '''[[Danubio Fútbol Club|Danubio]]'''
+| RD1-team5 = {{bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD1-score6-1 = 0
+| RD1-score5-1 = 0
+| RD1-score6-2 = 3
+| RD1-score5-2 = 1
+| RD1-score6-3 = '''3'''
+| RD1-score5-3 = '''1'''
+
+| RD1-team8 = {{bandera|ECU|1900}} [[Sociedad Deportivo Quito|Deportivo Quito]]
+| RD1-team7 = {{bandera|CHI}} '''[[Club de Deportes Cobreloa|Cobreloa]]'''
+| RD1-score8-1 = 0
+| RD1-score7-1 = 0
+| RD1-score8-2 = 0
+| RD1-score7-2 = 1
+| RD1-score8-3 = '''0'''
+| RD1-score7-3 = '''1'''
+
+| RD1-team10 = {{bandera|PER}} [[Club Universitario de Deportes|Universitario]]
+| RD1-team9 = {{bandera|BRA|1968}} '''[[Esporte Clube Bahia|Bahia]]'''
+| RD1-score10-1 = 1
+| RD1-score9-1 = 1
+| RD1-score10-2 = 1
+| RD1-score9-2 = 2
+| RD1-score10-3 = '''2'''
+| RD1-score9-3 = '''3'''
+
+| RD1-team12 = {{bandera|BRA|1968}} '''[[Sport Club Internacional|Internacional]]'''
+| RD1-team11 = {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score12-1 = 6
+| RD1-score11-1 = 2
+| RD1-score12-2 = 2
+| RD1-score11-2 = 1
+| RD1-score12-3 = '''8'''
+| RD1-score11-3 = '''3'''
+
+| RD1-team14 = {{bandera|PAR|1988}} '''[[Club Sol de América (Asunción)|Sol de América]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team13 = {{bandera|VEN|1954}} [[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+| RD1-score14-1 = 3
+| RD1-score13-1 = 0
+| RD1-score14-2 = 0
+| RD1-score13-2 = 3
+| RD1-score14-3 = '''3&nbsp;{{small|(3)}}'''
+| RD1-score13-3 = '''3&nbsp;{{small|(2)}}'''
+
+| RD1-team16 = {{bandera|PAR|1988}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-team15 = {{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD1-score16-1 = 2
+| RD1-score15-1 = 0
+| RD1-score16-2 = 3
+| RD1-score15-2 = 5
+| RD1-score16-3 = '''5&nbsp;{{small|(7)}}'''
+| RD1-score15-3 = '''5&nbsp;{{small|(6)}}'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 19 al 26 de abril
+
+| RD2-team2 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD2-team1 = {{bandera|COL}} [[Millonarios Fútbol Club|Millonarios]]
+| RD2-score2-1 = 1
+| RD2-score1-1 = 0
+| RD2-score2-2 = 1
+| RD2-score1-2 = 1
+| RD2-score2-3 = '''2'''
+| RD2-score1-3 = '''1'''
+
+| RD2-team4 = {{bandera|CHI}} [[Club de Deportes Cobreloa|Cobreloa]]
+| RD2-team3 = {{bandera|URU}} '''[[Danubio Fútbol Club|Danubio]]'''
+| RD2-score4-1 = 0
+| RD2-score3-1 = 2
+| RD2-score4-2 = 1
+| RD2-score3-2 = 2
+| RD2-score4-3 = '''1'''
+| RD2-score3-3 = '''4'''
+
+| RD2-team6 = {{bandera|BRA|1968}} '''[[Sport Club Internacional|Internacional]]'''
+| RD2-team5 = {{bandera|BRA|1968}} [[Esporte Clube Bahia|Bahia]]
+| RD2-score6-1 = 1
+| RD2-score5-1 = 0
+| RD2-score6-2 = 0
+| RD2-score5-2 = 0
+| RD2-score6-3 = '''1'''
+| RD2-score5-3 = '''0'''
+
+| RD2-team8 = {{bandera|PAR|1988}} '''[[Club Olimpia|Olimpia]]'''
+| RD2-team7 = {{bandera|PAR|1988}} [[Club Sol de América (Asunción)|Sol de América]]
+| RD2-score8-1 = 2
+| RD2-score7-1 = 0
+| RD2-score8-2 = 4
+| RD2-score7-2 = 4
+| RD2-score8-3 = '''6'''
+| RD2-score7-3 = '''4'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 10 al 17 de mayo
+
+| RD3-team2 = {{bandera|URU}} [[Danubio Fútbol Club|Danubio]]
+| RD3-team1 = {{bandera|COL}} '''[[Atlético Nacional]]'''
+| RD3-score2-1 = 0
+| RD3-score1-1 = 0
+| RD3-score2-2 = 0
+| RD3-score1-2 = 6
+| RD3-score2-3 = '''0'''
+| RD3-score1-3 = '''6'''
+
+| RD3-team4 = {{bandera|PAR|1988}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD3-team3 = {{bandera|BRA|1968}} [[Sport Club Internacional|Internacional]]
+| RD3-score4-1 = 0
+| RD3-score3-1 = 1
+| RD3-score4-2 = 3
+| RD3-score3-2 = 2
+| RD3-score4-3 = '''3&nbsp;{{small|(5)}}'''
+| RD3-score3-3 = '''3&nbsp;{{small|(3)}}'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 1989|Final]]
+| RD4-date= 24 y 31 de mayo
+
+| RD4-team1 = {{bandera|COL}} '''[[Atlético Nacional]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD4-team2 = {{bandera|PAR|1954}} [[Club Olimpia|Olimpia]]
+| RD4-score1-1 = 0
+| RD4-score2-1 = 2
+| RD4-score1-2 = 2
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''2&nbsp;{{small|(5)}}'''
+| RD4-score2-3 = '''2&nbsp;{{small|(4)}}'''
+}}
+
+*<small>'''Nota''': En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local           = [[Club Bolívar|Bolívar]]
+|paíslocal       = BOL
+|resultado       = 1:0''' (0:0)
+|visita          = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita      = COL
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Hernando Siles]]
+|ciudad          = [[La Paz (Bolivia)|La Paz]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|goleslocal      = [[Jorge Hirano|Hirano]] {{gol|58}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal       = COL
+|resultado       = 3:2''' (0:0)
+|visita          = [[Club Bolívar|Bolívar]]
+|paísvisita      = BOL
+|fecha           = 12 de abril de 1989
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 
+|refe            = {{árbitro|PER|José Ramírez (árbitro)|José Ramírez}}
+|goleslocal      = [[Rubén Darío Hernández|Hernández]] {{gol|58||83}}<br>[[Nilton Bernal|Bernal]] {{gol|61}}
+|golesvisita     = [[Jorge Hirano|Hirano]] {{gol|55}}<br>[[Carlos Ángel López|López]] {{gol|76}}
+|suceso = 
+|penaltis1       = [[Cerveleón Cuesta|Cuesta]] {{pengol}}<br>[[Mario Vanemerak|Vanemerak]] {{pengol}}<br>[[Oscar Eduardo Juárez|Juárez]] {{pengol}}<br>[[Rubén Darío Hernández|Hernández]] {{pengol}}<br>[[Carlos Enrique Estrada|Estrada]] {{penfallo}}
+|resultado penalti = 4:3
+|penaltis2       = {{pengol}} [[Carlos Fernando Borja|Borja]]<br>{{pengol}} [[Christian Angeletti|Angeletti]]<br>{{pengol}} [[Miguel Rimba|Rimba]]<br>{{penfallo}} [[Carlos Ángel López|López]]<br>{{penfallo}} [[Rafael Rigoberto Cuevas Cárdenas|Cuevas]]
+}}
+<br>
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 2:0''' (1:0)
+|visita          = [[Racing Club]]
+|paísvisita      = ARG
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 31.645 
+|refe            = {{árbitro|BRA|variante=1968|Romualdo Arppi Filho}}
+|goleslocal      = [[Carlos Eduardo Vásquez|Vásquez]] {{gol|27|a.g.}}<br>[[León Fernando Villa|Villa]] {{gol|79}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Racing Club]]
+|paíslocal       = ARG
+|resultado       = 2:1''' (1:0)
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 12 de abril de 1989
+|estadio         = [[Estadio Presidente Perón]]
+|ciudad          = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Enrique Marín Gallo}}
+|goleslocal      = [[Marcelo Asteggiano|Asteggiano]] {{gol|39}}<br>[[José Raúl Iglesias|Iglesias]] {{gol|61}}
+|golesvisita     = [[Felipe Pérez Urrea|Pérez]] {{gol|86}}
+}}
+<br>
+{{Partido
+|local           = [[Danubio Fútbol Club|Danubio]]
+|paíslocal       = URU
+|resultado       = 0:0
+|visita          = [[Club Nacional de Football|Nacional]]
+|paísvisita      = URU
+|fecha           = 6 de abril de 1989
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =35.000 
+|refe            = {{árbitro|PAR|variante=1988|Carlos Maciel}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Nacional de Football|Nacional]]
+|paíslocal       = URU
+|resultado       = 1:3''' (0:1)
+|visita          = [[Danubio Fútbol Club|Danubio]]
+|paísvisita      = URU
+|fecha           = 12 de abril de 1989
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =50.000 
+|refe            = {{árbitro|ARG|Carlos Espósito}}
+|goleslocal      = [[Sérgio Olivera|Olivera]] {{gol|68}}
+|golesvisita     = [[Daniel Florencio Sánchez|Sánchez]] {{gol|20}}<br>[[Gustavo Dalto|Dalto]] {{gol|78}}<br>[[Rubén Da Silva|Da Silva]] {{gol|84|pen.}}
+}}
+<br>
+{{Partido
+|local           = [[Sociedad Deportivo Quito|Deportivo Quito]]
+|paíslocal       = ECU
+|etpaíslocal     = 1900
+|resultado       = 0:0
+|visita          = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita      = CHI
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Olímpico Atahualpa]]
+|ciudad          = [[Quito]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Jesús Díaz Palacios}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club de Deportes Cobreloa|Cobreloa]]
+|paíslocal       = CHI
+|resultado       = 1:0''' (0:0)
+|visita          = [[Sociedad Deportivo Quito|Deportivo Quito]]
+|paísvisita      = ECU
+|etpaísvisita    = 1900
+|fecha           = 12 de abril de 1989
+|estadio         = [[Estadio Zorros del Desierto|Estadio Municipal]]
+|ciudad          = [[Calama]]
+|asistencia      = 
+|refe            = {{árbitro|BOL|Oscar Ortubé}}
+|goleslocal      = [[Bolívar Ruiz|Ruiz]] {{gol|85|a.g.}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Universitario de Deportes|Universitario]]
+|paíslocal       = PER
+|resultado       = 1:1''' (1:0)
+|visita          = [[Esporte Clube Bahia|Bahia]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 6 de abril de 1989
+|estadio         = [[Estadio Nacional del Perú|Estadio Nacional]]
+|ciudad          = [[Lima]]
+|asistencia      = 31&nbsp;518
+|refe            = {{árbitro|ECU|variante=1900|Elías Jácome}}
+|goleslocal      = [[Eduardo Rey Muñoz|Muñoz]] {{gol|23}}
+|golesvisita     = [[Osmar dos Santos Machado|Osmar]] {{gol|78}}
+}}
+{{Partido
+|local           = [[Esporte Clube Bahia|Bahia]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 2:1''' (1:0)
+|visita          = [[Club Universitario de Deportes|Universitario]]
+|paísvisita      = PER
+|fecha           = 13 de abril de 1989
+|estadio         = [[Estadio Fonte Nova]]
+|ciudad          = [[Salvador (Bahía)|Salvador]]
+|asistencia      = 
+|refe            = {{árbitro|VEN|variante=1954|José Vergara (árbitro)|José Vergara}}
+|goleslocal      = [[Marco Antônio da Silva|Marquinhos]] {{gol|2}}<br>[[Charles Fabian Figueiredo Santos|Charles Baiano]] {{gol|61}}
+|golesvisita     = [[José Guillermo del Solar|del Solar]] {{gol|50}}
+}}
+<br>
+{{Partido
+|local           = [[Sport Club Internacional|Internacional]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 6:2''' (4:0)
+|visita          = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita      = URU
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Beira-Rio]]
+|ciudad          = [[Porto Alegre]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Abel Gnecco}}
+|goleslocal      = [[Nílson Esidio|Nílson]] {{gol|8||28|pen.}}<br>[[Norton (futbolista)|Norton]] {{gol|33||41}}<br>[[Hêyder Abas Palheta|Hêyder]] {{gol|54||89}}
+|golesvisita     = [[Adolfo Barán|Barán]] {{gol|73}}<br>[[Carlos Alberto Aguilera|Aguilera]] {{gol|77}}
+}}
+{{Partido
+|local           = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal       = URU
+|resultado       = 1:2''' (0:1)
+|visita          = [[Sport Club Internacional|Internacional]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 11 de abril de 1989
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1988|Efrain Gabriel González Roa|Gabriel González}}
+|goleslocal      = [[Carlos Alberto Aguilera|Aguilera]] {{gol|83}}
+|golesvisita     = [[Eduardo Lima de Carvalho|Lima]] {{gol|17}}<br>[[Diego Aguirre|Aguirre]] {{gol|49}}
+}}
+<br>
+{{Partido
+|local           = [[Club Sol de América (Asunción)|Sol de América]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 3:0''' (0:0)
+|visita          = [[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+|paísvisita      = VEN
+|etpaísvisita    = 1954
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Manuel Ferreira]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|Luís Carlos Félix Ferreira}}
+|goleslocal      = [[Hugo Brizuela|Brizuela]] {{gol|52||72}}<br>[[Elias Leguizamón|Leguizamón]] {{gol|83}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+|paíslocal       = VEN
+|etpaíslocal     = 1954
+|resultado       = 3:0''' (1:0)
+|visita          = [[Club Sol de América (Asunción)|Sol de América]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 12 de abril de 1989
+|estadio         = [[Polideportivo de Pueblo Nuevo|Estadio de Pueblo Nuevo]]
+|ciudad          = [[San Cristóbal (Venezuela)|San Cristóbal]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Arnaldo Gómez}}
+|goleslocal      = [[Carlos Fabián Maldonado|Maldonado]] {{gol|39||74||77}}
+|golesvisita     = 
+|suceso = 
+|penaltis1       = [[Laureano Jaimes|Jaimes]] {{pengol}}<br>[[Carlos Genovese|Genovese]] {{pengol}}<br>[[Rubén Bachini|Bachini]] {{penfallo}}<br>[[Carlos Fabián Maldonado|Maldonado]] {{penfallo}}<br>[[Miguel Oswaldo González|González]] {{penfallo}}
+|resultado penalti = 2:3
+|penaltis2       = {{pengol}} [[Félix Almirón|Almirón]]<br>{{pengol}} [[Víctor Genes|Genes]]<br>{{pengol}} [[Elias Leguizamón|Leguizamón]]<br>{{penfallo}} [[Eradio Espinoza|Espinoza]]<br>{{penfallo}} [[Leoncio Britos|Britos]]
+}}
+<br>
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 2:0''' (0:0)
+|visita          = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita      = ARG
+|fecha           = 5 de abril de 1989
+|estadio         = [[Estadio Manuel Ferreira]]
+|ciudad          = [[Asunción]]
+|asistencia      =
+|refe            = {{árbitro|BRA|variante=1968|José Roberto Wright}}
+|goleslocal      = [[Raúl Vicente Amarilla|Amarilla]] {{gol|58||69}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal       = ARG
+|resultado       = 5:3''' (1:2)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 12 de abril de 1989
+|estadio         = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad          = [[Buenos Aires]]
+|asistencia      = 
+|refe            = {{árbitro|URU|José Luis Martínez Bazán}}
+|goleslocal      = [[Wálter Perazzo|Perazzo]] {{gol|22||89}}<br>[[José Luis Villarreal|Villarreal]] {{gol|48}}<br>[[Jorge Comas|Comas]] {{gol|70|pen.}}<br>[[Richard Edunio Tavares|Tavares]] {{gol|86}}
+|golesvisita     = [[Alfredo Mendoza|Mendoza]] {{gol|15}}<br>[[Raúl Vicente Amarilla|Amarilla]] {{gol|18||58}}
+|penaltis1       = [[Alfredo Graciani|Graciani]] {{pengol}}<br>[[Wálter Perazzo|Perazzo]] {{penfallo}}<br>[[Jorge Comas|Comas]] {{pengol}}<br>[[José Luis Cucciufo|Cucciufo]] {{pengol}}<br>[[Carlos Daniel Tapia|Tapia]] {{pengol}}<br>[[José Luis Villarreal|Villarreal]] {{penfallo}}<br>[[Diego Latorre|Latorre]] {{pengol}}<br>[[Juan Simón|Simón]] {{pengol}}<br>[[Richard Edunio Tavares|Tavares]] {{penfallo}}
+|resultado penalti = 6:7
+|penaltis2       = {{pengol}} [[Ever Hugo Almeida|Almeida]]<br>{{pengol}} [[Herib Chamas|Chamas]]<br>{{pengol}} [[Carlos Guirland|Guirland]]<br>{{pengol}} [[Raúl Vicente Amarilla|Amarilla]]<br>{{penfallo}} [[Fidel Miño|Miño]]<br>{{penfallo}} [[Evaristo Portela|Portela]]<br>{{pengol}} [[Fermín Balbuena|Balbuena]]<br>{{pengol}} [[Carlos Vidal Sanabria|Sanabria]]<br>{{pengol}} [[Jorge Guasch|Guasch]]
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 1:0''' (0:0)
+|visita          = [[Millonarios Fútbol Club|Millonarios]]
+|paísvisita      = COL
+|fecha           = 19 de abril de 1989
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Carlos Espósito}}
+|goleslocal      = [[Albeiro Usuriaga|Usuriaga]] {{gol|51}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Millonarios Fútbol Club|Millonarios]]
+|paíslocal       = COL
+|resultado       = 1:1''' (1:0)
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 26 de abril de 1989
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|goleslocal      = [[Carlos Enrique Estrada|Estrada]] {{gol|25}}
+|golesvisita     = [[John Jairo Tréllez|Tréllez]] {{gol|80}}
+}}
+<br>
+{{Partido
+|local           = [[Club de Deportes Cobreloa|Cobreloa]]
+|paíslocal       = CHI
+|resultado       = 0:2''' (0:1)
+|visita          = [[Danubio Fútbol Club|Danubio]]
+|paísvisita      = URU
+|fecha           = 19 de abril de 1989
+|estadio         = [[Estadio Zorros del Desierto|Estadio Municipal]]
+|ciudad          = [[Calama]]
+|asistencia      = 
+|refe            = {{árbitro|COL|Jesús Díaz Palacios}}
+|goleslocal      = 
+|golesvisita     = [[Gustavo Dalto|Dalto]] {{gol|23}}<br>[[Rubén Da Silva|Da Silva]] {{gol|73|pen.}}
+}}
+{{Partido
+|local           = [[Danubio Fútbol Club|Danubio]]
+|paíslocal       = URU
+|resultado       = 2:1''' (1:0)
+|visita          = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita      = CHI
+|fecha           = 26 de abril de 1989
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =40.000 
+|refe            = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = [[Rubén Da Silva|Da Silva]] {{gol|17}}<br>[[Gustavo Dalto|Dalto]] {{gol|78}}
+|golesvisita     = [[Marcelo Trobbiani|Trobbiani]] {{gol|50|pen.}}
+}}
+<br>
+{{Partido
+|local           = [[Sport Club Internacional|Internacional]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 1:0''' (1:0)
+|visita          = [[Esporte Clube Bahia|Bahia]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 19 de abril de 1989
+|estadio         = [[Estadio Beira-Rio]]
+|ciudad          = [[Porto Alegre]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|José de Assis Aragão}}
+|goleslocal      = [[Diego Aguirre|Aguirre]] {{gol|40}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Esporte Clube Bahia|Bahia]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 0:0
+|visita          = [[Sport Club Internacional|Internacional]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 26 de abril de 1989
+|estadio         = [[Estadio Fonte Nova]]
+|ciudad          = [[Salvador (Bahía)|Salvador]]
+|asistencia      = 
+|refe            = {{árbitro|BRA|variante=1968|Arnaldo Cézar Coelho}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 2:0''' (0:0)
+|visita          = [[Club Sol de América (Asunción)|Sol de América]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 19 de abril de 1989
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1988|Carlos Maciel}}
+|goleslocal      = [[Gustavo Neffa|Neffa]] {{gol|71}}<br>[[Carlos Luis Torres|Torres]] {{gol|80}}
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Club Sol de América (Asunción)|Sol de América]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 4:4''' (2:2)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 26 de abril de 1989
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|PAR|variante=1988|Efrain Gabriel González Roa|Gabriel González}}
+|goleslocal      = [[Vicente Fariña|Fariña]] {{gol|16}}<br>[[Alejandro Cano (futbolista)|Cano]] {{gol|26}}<br>[[Félix Torres|Torres]] {{gol|75}}<br>[[Hugo Brizuela|Brizuela]] {{gol|89}}
+|golesvisita     = [[Raúl Vicente Amarilla|Amarilla]] {{gol|7||23}}<br>[[Gabriel González Chaves|González]] {{gol|48}}<br>[[Gustavo Neffa|Neffa]] {{gol|90}}
+}}
+
+=== Semifinales ===
+{{Partido
+|local           = [[Danubio Fútbol Club|Danubio]]
+|paíslocal       = URU
+|resultado       = 0:0
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 10 de mayo de 1989
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      =40.000 
+|refe            = {{árbitro|BRA|variante=1968|Arnaldo Cézar Coelho}}
+|goleslocal      = 
+|golesvisita     = 
+}}
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 6:0''' (3:0)
+|visita          = [[Danubio Fútbol Club|Danubio]]
+|paísvisita      = URU
+|fecha           = 17 de mayo de 1989
+|estadio         = [[Estadio Atanasio Girardot]]
+|ciudad          = [[Medellín]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Carlos Espósito}}
+|goleslocal      = [[Alexis García|García]] {{gol|9}}<br>[[Albeiro Usuriaga|Usuriaga]] {{gol|34||45||62||79}}<br>[[Níver Arboleda|Arboleda]] {{gol|87}}
+|golesvisita     = 
+}}
+<br>
+{{Partido
+|local           = [[Club Olimpia|Olimpia]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 0:1''' (0:1)
+|visita          = [[Sport Club Internacional|Internacional]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 10 de mayo de 1989
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 
+|refe            = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = 
+|golesvisita     = [[Luís Fernando Rosa Flores|Luís Fernando]] {{gol|12}}
+}}
+{{Partido
+|local           = [[Sport Club Internacional|Internacional]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 2:3''' (1:1)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 17 de mayo de 1989
+|estadio         = [[Estadio Beira-Rio]]
+|ciudad          = [[Porto Alegre]]
+|asistencia      = 
+|refe            = {{árbitro|CHI|Hernán Silva Arce|Hernán Silva}}
+|goleslocal      = [[Luiz Carlos Dacroce|Dacroce]] {{gol|11}}<br>[[Luís Fernando Rosa Flores|Luís Fernando]] {{gol|51}}
+|golesvisita     = [[Alfredo Mendoza|Mendoza]] {{gol|8}}<br>[[Raúl Vicente Amarilla|Amarilla]] {{gol|37}}<br>[[Gustavo Neffa|Neffa]] {{gol|69}}
+|suceso = 
+|penaltis1       = [[Eduardo Lima de Carvalho|Lima]] {{pengol}}<br>[[Hêyder Abas Palheta|Hêyder]] {{pengol}}<br>[[Norton (futbolista)|Norton]] {{pengol}}<br>[[Leomir de Souza|Leomir]] {{penfallo}}
+|resultado penalti = 3:5
+|penaltis2       = {{pengol}} [[Ever Hugo Almeida|Almeida]]<br>{{pengol}} [[Gustavo Benítez|Benítez]]<br>{{pengol}} [[César Augusto Castro|Castro]]<br>{{pengol}} [[Rafael Bobadilla|Bobadilla]]<br>{{pengol}} [[Raúl Vicente Amarilla|Amarilla]]
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 1989|l1=Final de la Copa Libertadores 1989}}
+{{Partido
+|local           = [[Club Olimpia|Olimpia ]]
+|paíslocal       = PAR
+|etpaíslocal     = 1988
+|resultado       = 2:0''' (1:0)
+|visita          = [[Atlético Nacional]]
+|paísvisita      = COL
+|fecha           = 24 de mayo de 1989
+|hora            = 
+|estadio         = [[Estadio Defensores del Chaco]]
+|ciudad          = [[Asunción]]
+|asistencia      = 50 000
+|árbitro         = {{árbitro|BRA|var=1968|José Roberto Wright}}
+|goleslocal      = [[Rafael Bobadilla|Bobadilla]] {{gol|36}}<br>[[Carlos Vidal Sanabria|Sanabria]] {{gol|60}}
+|golesvisita     = 
+|reporte         = 
+|competición=Ida}}
+{{Partido
+|local           = [[Atlético Nacional]]
+|paíslocal       = COL
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club Olimpia|Olimpia]]
+|paísvisita      = PAR
+|etpaísvisita    = 1988
+|fecha           = 31 de mayo de 1989
+|hora            = 
+|estadio         = [[Estadio Nemesio Camacho El Campín|Estadio El Campín]]
+|ciudad          = [[Bogotá]]
+|asistencia      = 50&nbsp;000
+|árbitro         = {{árbitro|ARG|Juan Carlos Loustau}}
+|goleslocal      = [[Fidel Miño|Miño]] {{gol|46|a.g.}}<br>[[Albeiro Usuriaga|Usuriaga]] {{gol|65}}
+|golesvisita     = 
+|reporte         = 
+|resultado penalti = 5:4 
+|penaltis1       = [[Andrés Escobar|Escobar]] {{pengol}}<br>[[Albeiro Usuriaga|Usuriaga]] {{pengol}}<br>[[John Jairo Tréllez|Tréllez]] {{pengol}}<br>[[Alexis García|García]] {{penfallo|atajado}}<br>[[René Higuita|Higuita]] {{pengol}}<br>[[Felipe Pérez Urrea|Pérez]] {{penfallo|desviado}}<br>[[Gildardo Biderman Gómez|Gómez]] {{penfallo|desviado}}<br>[[Luis Carlos Perea|Perea]] {{penfallo|atajado}}<br>[[Leonel Álvarez|Álvarez]] {{pengol}}
+|penaltis2       = {{penfallo|atajado}} [[Ever Hugo Almeida|Almeida]]<br>{{pengol}} [[Gustavo Benítez|Benítez]]<br>{{pengol}} [[Herib Chamas|Chamas]]<br>{{pengol}} [[Alfredo Mendoza|Mendoza]]<br>{{pengol}} [[Raúl Vicente Amarilla|Amarilla]]<br>{{penfallo|atajado}} [[Gabriel González Chaves|González]]<br>{{penfallo|atajado}} [[Jorge Guasch|Guasch]]<br>{{penfallo|atajado}} [[Fermín Balbuena|Balbuena]]<br>{{penfallo|desviado}} [[Carlos Vidal Sanabria|Sanabria]]
+|competición=Vuelta}}
+<br>
+{{Campeón
+|equipo = [[Atlético Nacional]]
+|bandera = Colombia
+|orden = 1
+|logo=}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor="D0E7FF"
+|{{bandera|Uruguay}} '''[[Carlos Alberto Aguilera|Carlos Aguilera]]'''
+|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| align=center| '''10'''
+|- bgcolor="D0E7FF"
+|{{bandera|Paraguay|1988}} '''[[Raúl Vicente Amarilla]]'''
+|{{bandera|Paraguay|1988}} [[Club Olimpia|Olimpia]]
+| align=center| '''10'''
+|- 
+|{{bandera|Argentina}} [[Jorge Comas]]
+|{{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| align=center| 7
+|- 
+|{{bandera|Colombia}} [[Albeiro Usuriaga]]
+|{{bandera|Colombia}} [[Atlético Nacional]]
+| align=center| 7
+|- 
+|{{bandera|Brasil|1968}} [[Charles Fabián Figueiredo Santos|Charles]]{{refn|group=n.|Erróneamente, la [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] le adjudica a Charles 5 tantos en la copa, al considerarle sólo un gol en el partido Bahia 4-1 Unión Atlético Táchira, por el Grupo 2 de la fase de grupos, mientras que otras fuentes, también de manera equivocada, le adjudican 7 goles en el certamen, por haber presuntamente convertido tres tantos en dicho encuentro.<ref>[https://www.livefutbol.com/cronica/copa-libertadores-1989-gruppe-2-ec-bahia-deportivo-tachira/ Ficha de Bahia 4-1 Unión Atlético Táchira]</ref> Según los registros audiovisuales, el futbolista convirtió dos goles en aquel partido,<ref>[https://www.youtube.com/watch?v=NYmgXtJFASo Goles del partido Bahia 4-1 Deportivo Táchira]</ref> finalizando la competición con un total de seis goles.}}
+|{{bandera|Brasil|1968}} [[Esporte Clube Bahia|Bahia]]
+| align=center| 6
+|- 
+|{{bandera|Uruguay}} [[Diego Aguirre]]
+|{{bandera|Brasil|1968}} [[Sport Club Internacional|Internacional]]
+| align=center| 5
+|- 
+|{{bandera|Chile}} [[Sergio Salgado]]
+|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| align=center| 5
+|- 
+|{{bandera|Venezuela|1954}} [[Carlos Fabián Maldonado|Carlos Maldonado]]
+|{{bandera|Venezuela|1954}} [[Deportivo Táchira Fútbol Club|Unión Atlético Táchira]]
+| align=center| 5
+|}
+
+==Controversias==
+
+En años posteriores, los árbitros de la semifinal Atlético Nacional<ref>{{Cita web|url=https://nacionalespasion.com.co/preguntas-dudas-e-incertidumbres-sobre-las-declaraciones-del-exarbitro-carlos-esposito/|título=PREGUNTAS, DUDAS E INCERTIDUMBRES SOBRE LAS DECLARACIONES DEL EXÁRBITRO CARLOS ESPÓSITO|fechaacceso=2025-06-17|apellido=Rios|nombre=Sergio|fecha=2020-10-27|sitioweb=Nacional Es Pasión|idioma=es}}</ref> vs Danubio <ref>{{Cita web|url=https://www.noticiascaracol.com/golcaracol/ametralladora-intimidacion-y-mas-el-relato-del-arbitro-de-nacional-vs-danubio-de-la-copa-de-1989|título=Ametralladora, intimidación y más: el relato del árbitro de Nacional vs. Danubio, de la Copa de 1989|fechaacceso=2025-06-17|apellido=Caracol|nombre=Gol|fecha=2020-10-16|sitioweb=Gol Caracol|idioma=es}}</ref><ref>{{Cita web|url=https://www.infobae.com/america/colombia/2020/10/16/arbitro-argentino-revelo-que-popeye-lo-amenazo-para-que-el-atletico-nacional-ganara-la-semifinal-de-la-libertadores-en-1989/|título=Árbitro argentino reveló que Popeye lo amenazó para que el Atlético Nacional ganara la semifinal de la Libertadores en 1989|fechaacceso=2025-06-17|fecha=2020-10-16|sitioweb=infobae|idioma=es-ES}}</ref> declararon que habían sido amenazados por sicarios del [[Cartel de Medellín]].<ref>{{Cita web|url=https://www.rcnradio.com/deportes/revelan-secretos-ineditos-de-la-final-de-libertadores-que-gano-nacional-en-el-89|título=Revelan secretos de final de Libertadores que ganó Nacional en el 89|fechaacceso=2025-06-17|apellido=Osorio|nombre=Camilo Andrés Jaimes|fecha=2022-12-27|sitioweb=RCN Radio|idioma=español}}</ref><ref>{{Cita web|url=https://www.comutricolor.com/jugada-mundial/audio-revelaciones-sobre-amenazas-al-arbitro-de-nacional-vs-danubio-por-copa-libertadores-1989/|título=Audio: Impresionantes revelaciones de supuestas amenazas al árbitro de Nacional VS Danubio por Copa Libertadores 1989|fechaacceso=2025-06-17|fecha=2020-10-16|sitioweb=ComuTricolor|idioma=es}}</ref><ref>{{Cita web|url=https://ladiaria.com.uy/usuarios/entrar/?article=106206|título=la diaria|fechaacceso=2025-06-17|sitioweb=la diaria|idioma=es-UY}}</ref>
+
+Al respecto [[Francisco Maturana]],<ref>{{Cita web|url=https://www.semana.com/deportes/articulo/francisco-maturana-habla-de-pablo-escobar-y-responde-si-compro-la-copa-libertadores-a-nacional/202458/|título=Francisco Maturana habla de Pablo Escobar y responde si le compró la Copa Libertadores a Nacional|fechaacceso=2025-06-17|apellido=Semana|fecha=2024-06-05|sitioweb=Semana.com   Últimas Noticias de Colombia y el Mundo|idioma=}}</ref><ref>{{Cita web|url=https://www.elheraldo.co/tendencias/2024/06/04/maturana-confeso-si-pablo-escobar-compro-la-libertadores-de-nacional-de-1989/|título=Maturana confesó si Pablo Escobar compró la Libertadores de Nacional de 1989|fechaacceso=2025-06-17|apellido=Tendencias|nombre=Redacción|fecha=2024-06-04|sitioweb=ELHERALDO.CO|idioma=es}}</ref> ha negado la relación del equipo antioqueño con el narcotraficante [[Pablo Escobar]].<ref>{{Cita web|url=https://www.eltiempo.com/deportes/futbol-colombiano/franciso-maturana-se-destapa-y-habla-claro-sobre-la-relacion-que-tuvo-pablo-escobar-con-atletico-nacional-3349488|título=Franciso Maturana se destapa y habla claro sobre la relación que tuvo Pablo Escobar con Atlético Nacional|fechaacceso=2025-06-17|apellido=Romero|nombre=Pablo|fecha=2024-06-04|sitioweb=El Tiempo|idioma=}}</ref>
+== Véase también ==
+* [[Copa Intercontinental 1989]]
+* [[Supercopa Sudamericana 1989]]
+* [[Recopa Sudamericana 1990]]
+* [[Copa Interamericana 1990]]
+
+== Notas ==
+{{listaref|group=n.}}
+
+== Referencias ==
+<references />
+
+== Enlaces externos ==
+{{commonscat}}
+* [http://www.rsssf.com/sacups/copa89.html Copa Libertadores 1989] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1988|1988]]
+| título     = Copa Libertadores 1989
+| período    = XXX edición
+| sucesor    = [[Copa Libertadores 1990|1990]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1989]]
+[[Categoría:Temporadas de la Copa Libertadores|1989]]
+[[Categoría:Fútbol en 1989]]

@@ -1,0 +1,970 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Supercopa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = Velez1.JPG
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio José Amalfitani]] ([[Buenos Aires]]) fue sede del partido de vuelta de la [[Anexo:Final de la Supercopa Sudamericana 1996|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 17
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|21|8|1996}}<br />{{fecha2|4|12|1996}}
+| edición = IX
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|ARG}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' <small>(1.º título)</small>
+| subcampeón = {{bandera|BRA}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| semifinalistas = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] <br /> {{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| titulotercero = Semifinalistas
+| partidos = 34
+| goles = 82 (2,41 por partido)
+| goleadores = {{bandera|ARG}} [[Patricio Camps]] (4 goles)<br /><small>([[Club Atlético Vélez Sarsfield|Vélez Sarsfield]])</small>
+| anterior = [[Supercopa Sudamericana 1995]]
+| actual = Supercopa Sudamericana 1996
+| siguiente = [[Supercopa Sudamericana 1997]]
+}}
+La '''[[Supercopa Sudamericana]] 1996''' fue la novena edición del torneo de clubes de [[América del Sur]] organizado por la [[Confederación Sudamericana de Fútbol]] que reunía a todos los campeones de la [[Copa Libertadores de América]].
+
+[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] de [[Argentina]] se coronó campeón de manera invicta del certamen tras derrotar a su rival de la final, [[Cruzeiro Esporte Clube|Cruzeiro]] de [[Brasil]], en los dos partidos, situación que se dio por primera y única vez en la historia de la competición. Gracias a ello, disputó la [[Recopa Sudamericana 1997]] frente a [[Club Atlético River Plate|River Plate]], que había ganado la [[Copa Libertadores 1996]].
+
+== Formato ==
+El torneo se desarrolló en un formato plenamente eliminatorio, en cuatro rondas desde los octavos hasta la final. Como la cantidad de participantes excedía en uno los necesarios para elaborar las series de octavos de final, se estableció que tres equipos disputaran un triangular, que le otorgaría a su ganador un pase directo a los cuartos de final. Todos los cruces se disputaron en ida y vuelta. Ante la igualdad de puntos, obtenía la clasificación el equipo con mejor [[diferencia de goles]]; de persistir el empate, se efectuaron [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Octavos de final
+(17 equipos)
+|
+* [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]], [[Atlético Nacional]], [[Club Atlético Boca Juniors|Boca Juniors]], <br />[[Club Social y Deportivo Colo-Colo|Colo-Colo]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Club Estudiantes de La Plata|Estudiantes (LP)]], [[Clube de Regatas do Flamengo|Flamengo]], <br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Club Atlético Independiente|Independiente]], [[Club Nacional de Football|Nacional]], [[Club Olimpia|Olimpia]], [[Club Atlético Peñarol|Peñarol]], <br />[[Racing Club]], [[Club Atlético River Plate|River Plate]], [[São Paulo Futebol Clube|São Paulo]], [[Santos Futebol Clube|Santos]] y <br />[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|
+|-
+! colspan="2" |Cuartos de final
+(8 equipos)
+|
+|
+* 8 equipos clasificados de los Octavos de final
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:95%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!País
+!Equipo
+!{{tc|Copa Libertadores de América|Copas Libertadores}} ganadas
+
+|- bgcolor=#F5FAFF
+|{{bandera|Argentina}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br /><small>7 participantes</small>
+|[[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]<br />[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br />[[Club Atlético Independiente|Independiente]]<br />[[Racing Club]]<br />[[Club Atlético River Plate|River Plate]]<br />[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|[[Copa Libertadores 1985|1985]] <br />[[Copa Libertadores 1977|1977]] – [[Copa Libertadores 1978|1978]]<br />[[Copa Libertadores 1968|1968]] – [[Copa Libertadores 1969|1969]] – [[Copa Libertadores 1970|1970]] <br />[[Copa Libertadores 1964|1964]] – [[Copa Libertadores 1965|1965]] – [[Copa Libertadores 1972|1972]] – [[Copa Libertadores 1973|1973]] – [[Copa Libertadores 1974|1974]] – [[Copa Libertadores 1975|1975]] – [[Copa Libertadores 1984|1984]]<br />[[Copa Libertadores 1967|1967]]<br />[[Copa Libertadores 1986|1986]] – [[Copa Libertadores 1996|1996]]<br />[[Copa Libertadores 1994|1994]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Brasil}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br /><small>5 participantes</small>
+|[[Cruzeiro Esporte Clube|Cruzeiro]]<br />[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[Santos Futebol Clube|Santos]]<br />[[São Paulo Futebol Clube|São Paulo]]
+|[[Copa Libertadores 1976|1976]]<br />[[Copa Libertadores 1981|1981]]<br />[[Copa Libertadores 1983|1983]] – [[Copa Libertadores 1995|1995]]<br />[[Copa Libertadores 1962|1962]] – [[Copa Libertadores 1963|1963]]<br />[[Copa Libertadores 1992|1992]] – [[Copa Libertadores 1993|1993]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Chile}} '''[[Federación de Fútbol de Chile|Chile]]'''<br /><small> 1 participante</small>
+|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[[Copa Libertadores 1991|1991]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Colombia}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br /><small> 1 participante</small>
+|[[Atlético Nacional]]
+|[[Copa Libertadores 1989|1989]]
+
+|- bgcolor=#F5FAFF
+|{{bandera|Paraguay|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br /><small>1 participante</small>
+|[[Club Olimpia|Olimpia]]
+|[[Copa Libertadores 1979|1979]] – [[Copa Libertadores 1990|1990]]
+
+|- bgcolor=#DDEEFF
+|{{bandera|Uruguay}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br /><small>2 participantes</small>
+|[[Club Nacional de Football|Nacional]]<br />[[Club Atlético Peñarol|Peñarol]]
+|[[Copa Libertadores 1971|1971]] – [[Copa Libertadores 1980|1980]] – [[Copa Libertadores 1988|1988]]<br />[[Copa Libertadores 1960|1960]] – [[Copa Libertadores 1961|1961]] – [[Copa Libertadores 1966|1966]] – [[Copa Libertadores 1982|1982]] – [[Copa Libertadores 1987|1987]]
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Supercopa Sudamericana 1996'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small>[[Asociación Atlética Argentinos Juniors|{{Esd|Argentinos Juniors}}]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Estudiantes de La Plata|Estudiantes (LP)]]<br>[[Club Atlético Independiente|Independiente]]<br>[[Racing Club|{{Esd|Racing Club}}]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|position=left}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[São Paulo Futebol Clube|{{Esd|São Paulo}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|Santos]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Atlético Nacional|{{Esd|Atlético Nacional}}]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+}}
+
+== Resultados ==
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20 | team-width= 170| score-width= 20
+| seeds = no
+
+<!-- Fechas -->
+| octavos = 21 de agosto al 2 de octubre
+| cuartos = 16 al 24 de octubre
+| semifinal = 30 de octubre al 14 de noviembre
+| final = 20 de noviembre y 4 de diciembre
+
+<!-- Octavos de Final -->
+| RD1= Octavos de final
+| RD1-date= 21 de agosto al 2 de octubre
+
+| RD1-team1 = {{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+| RD1-team2 = {{bandera|Paraguay|1990}} '''[[Club Olimpia|Olimpia]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD1-score1-1 = 1
+| RD1-score2-1 = 2
+| RD1-score1-2 = 2
+| RD1-score2-2 = 1
+| RD1-score1-3 = '''3&nbsp;{{small|(3)}}'''
+| RD1-score2-3 = '''3&nbsp;{{small|(5)}}'''
+
+| RD1-team3 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD1-team4 = {{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD1-score3-1 = 3
+| RD1-score4-1 = 3
+| RD1-score3-2 = 1 
+| RD1-score4-2 = 0
+| RD1-score3-3 = '''4'''
+| RD1-score4-3 = '''3'''
+
+| RD1-team5 = {{bandera|Colombia}} '''[[Atlético Nacional]]'''
+| RD1-team6 = {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+| RD1-score5-1 = 2
+| RD1-score6-1 = 2
+| RD1-score5-2 = 2
+| RD1-score6-2 = 1
+| RD1-score5-3 = '''4'''
+| RD1-score6-3 = '''3'''
+
+| RD1-team7 = {{bandera|Brasil}} '''[[Santos Futebol Clube|Santos]]'''
+| RD1-team8 = {{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| RD1-score7-1 = 2
+| RD1-score8-1 = 1
+| RD1-score7-2 = 3
+| RD1-score8-2 = 0
+| RD1-score7-3 = '''5'''
+| RD1-score8-3 = '''1'''
+
+| RD1-team9 = {{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+| RD1-team10 = {{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes]]
+| RD1-score9-1 = 4
+| RD1-score10-1 = 2 
+| RD1-score9-2 = 2
+| RD1-score10-2 = 1
+| RD1-score9-3 = '''6'''
+| RD1-score10-3 = '''3'''
+
+| RD1-team11 = {{bandera|Brasil}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| RD1-team12 = {{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+| RD1-score11-1 = 0
+| RD1-score12-1 = 0
+| RD1-score11-2 = 1
+| RD1-score12-2 = 0
+| RD1-score11-3 = '''1'''
+| RD1-score12-3 = '''0'''
+
+| RD1-team13 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD1-team14 = {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+| RD1-score13-1 = 1
+| RD1-score14-1 = 1
+| RD1-score13-2 = 3
+| RD1-score14-2 = 1
+| RD1-score13-3 = '''4'''
+| RD1-score14-3 = '''2'''
+
+<!-- Cuartos de Final -->
+| RD2= Cuartos de final
+| RD2-date= 16 al 24 de octubre
+
+| RD2-team1 = {{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+| RD2-team2 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD2-score1-1 = 0
+| RD2-score2-1 = 3
+| RD2-score1-2 = 0
+| RD2-score2-2 = 1
+| RD2-score1-3 = '''0'''
+| RD2-score2-3 = '''4'''
+
+| RD2-team3 = {{bandera|Colombia}} [[Atlético Nacional]]
+| RD2-team4 = {{bandera|Brasil}} '''[[Santos Futebol Clube|Santos]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD2-score3-1 = 0
+| RD2-score4-1 = 2
+| RD2-score3-2 = 3
+| RD2-score4-2 = 1
+| RD2-score3-3 = '''3&nbsp;{{small|(6)}}'''
+| RD2-score4-3 = '''3&nbsp;{{small|(7)}}'''
+
+| RD2-team5 = {{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+| RD2-team6 = {{bandera|Brasil}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD2-score5-1 = 1
+| RD2-score6-1 = 1
+| RD2-score5-2 = 1
+| RD2-score6-2 = 0
+| RD2-score5-3 = '''2'''
+| RD2-score6-3 = '''1'''
+
+| RD2-team7 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]''' <small>([[Tiros desde el punto penal|p.]])</small>
+| RD2-team8 = {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD2-score7-1 = 0
+| RD2-score8-1 = 0
+| RD2-score7-2 = 1
+| RD2-score8-2 = 1
+| RD2-score7-3 = '''1&nbsp;{{small|(7)}}'''
+| RD2-score8-3 = '''1&nbsp;{{small|(6)}}'''
+
+<!--Semifinales-->
+| RD3= Semifinales
+| RD3-date= 30 de octubre al 14 de noviembre
+
+| RD3-team1 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD3-team2 = {{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+| RD3-score1-1 = 2
+| RD3-score2-1 = 1
+| RD3-score1-2 = 1
+| RD3-score2-2 = 1
+| RD3-score1-3 = '''3'''
+| RD3-score2-3 = '''2'''
+
+| RD3-team3 = {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| RD3-team4 = {{bandera|Brasil}} '''[[Cruzeiro Esporte Clube|Cruzeiro]]'''
+| RD3-score3-1 = 2
+| RD3-score4-1 = 3
+| RD3-score3-2 = 0
+| RD3-score4-2 = 4
+| RD3-score3-3 = '''2'''
+| RD3-score4-3 = '''7'''
+
+<!--Final-->
+| RD4= Final
+| RD4-date= 20 de noviembre y 4 de diciembre
+
+| RD4-team1 = {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+| RD4-team2 = {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| RD4-score1-1 = 1
+| RD4-score2-1 = 0
+| RD4-score1-2 = 2
+| RD4-score2-2 = 0
+| RD4-score1-3 = '''3'''
+| RD4-score2-3 = '''0'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+
+=== Octavos de final ===
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 2:1''' (1:0)
+|visita      = [[São Paulo Futebol Clube|São Paulo]]
+|paísvisita  = BRA
+|fecha       = 12 de septiembre de 1996
+|estadio     = [[Estadio Manuel Ferreira]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 
+|goleslocal  = [[César Fernando Silvera|Silvera]] {{gol|41}}<br />[[Félix Torres Rodríguez|Torres]] {{gol|73}}
+|golesvisita = [[Valdir Bigode|Valdir]] {{gol|76}}
+}}
+{{Partido
+|local       = [[São Paulo Futebol Clube|São Paulo]]
+|paíslocal   = BRA
+|resultado   = 2:1''' (0:0)
+|visita      = [[Club Olimpia|Olimpia]]
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|fecha       = 19 de septiembre de 1996
+|estadio     = [[Estadio de Morumbí]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|URU|José Luis Da Rosa}}
+|asistencia  = 
+|goleslocal  = [[Víctor Hugo Aristizábal|Aristizábal]] {{gol|47}}<br />[[Sérgio Cláudio dos Santos|Serginho]] {{gol|86}}
+|golesvisita = [[Adriano Samaniego|Samaniego]] {{gol|88}}
+|penaltis1   = [[André Luiz Moreira|André Luiz]] {{pengol}}<br />[[Valdir Bigode|Valdir]] {{pengol}}<br />[[Müller (futbolista)|Müller]] {{penfallo|palo}}<br />[[Víctor Hugo Aristizábal|Aristizábal]] {{pengol}}
+|resultado penalti = 3:5
+|penaltis2   = {{pengol}} [[Francisco Esteche|Esteche]]<br />{{pengol}} [[César Fernando Silvera|Silvera]]<br />{{pengol}} [[Harles Bourdier|Bourdier]]<br />{{pengol}} [[Gustavo Sotelo|Sotelo]]<br />{{pengol}} [[Miguel Ángel Sanabria|Sanabria]]
+}}
+<br />
+{{Partido
+|local       = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paíslocal   = BRA
+|resultado   = 3:3''' (2:1)
+|visita      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita  = ARG
+|fecha       = 19 de septiembre de 1996
+|estadio     = [[Estadio Olímpico Monumental]]
+|ciudad      = [[Porto Alegre]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  = 
+|goleslocal  = [[Saulo da Fé Freitas|Saulo]] {{gol|41}}<br />[[Francisco Arce|Arce]] {{gol|43}}<br />[[Aílton Ferraz|Aílton]] {{gol|48}}
+|golesvisita = [[Patricio Camps|Camps]] {{gol|21}}<br />[[Guillermo Morigi|Morigi]] {{gol|62}}<br />[[Mauro Galvão|Galvão]] {{gol|64|a.g.}}
+}}
+{{Partido
+|local       = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal   = ARG
+|resultado   = 1:0''' (0:0)
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|paísvisita  = BRA
+|fecha       = 2 de octubre de 1996
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|URU|Jorge Nieves}}
+|asistencia  = 
+|goleslocal  = [[Christian Bassedas|Bassedas]] {{gol|87}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético River Plate|River Plate]]
+|paíslocal   = ARG
+|resultado   = 2:2''' (2:1)
+|visita      = [[Atlético Nacional]]
+|paísvisita  = COL
+|fecha       = 11 de septiembre de 1996
+|estadio     = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|BRA|Márcio Rezende}}
+|asistencia  = 
+|goleslocal  = [[Julio Ricardo Cruz|Cruz]] {{gol|14}}<br />[[Roberto Monserrat|Monserrat]] {{gol|35}}
+|golesvisita = [[Francisco Manuel Mosquera Romaña|Mosquera]] {{gol|9}}<br />[[John Jairo Tréllez|Tréllez]] {{gol|55}}
+}}
+{{Partido
+|local       = [[Atlético Nacional]]
+|paíslocal   = COL
+|resultado   = 2:1''' (1:1)
+|visita      = [[Club Atlético River Plate|River Plate]]
+|paísvisita  = ARG
+|fecha       = 18 de septiembre de 1996
+|estadio     = [[Estadio Atanasio Girardot]]
+|ciudad      = [[Medellín]]
+|refe        = {{árbitro|CHI|Eduardo Gamboa Martínez}}
+|asistencia  = 
+|goleslocal  = [[Juan Pablo Ángel|Ángel]] {{gol|37}}<br />[[Luis Carlos Perea|Perea]] {{gol|90}}
+|golesvisita = [[Guillermo Rivarola|Rivarola]] {{gol|18}}
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Peñarol|Peñarol]]
+|paíslocal   = URU
+|resultado   = 1:2''' (1:0)
+|visita      = [[Santos Futebol Clube|Santos]]
+|paísvisita  = BRA
+|fecha       = 10 de septiembre de 1996
+|estadio     = [[Estadio Atilio Paiva Olivera]]
+|ciudad      = [[Rivera (Uruguay)|Rivera]]
+|refe        = {{árbitro|ARG|Daniel Giménez (árbitro)|Daniel Giménez}}
+|asistencia  = 
+|goleslocal  = [[Óscar Aguirregaray|Aguirregaray]] {{gol|45}}
+|golesvisita = [[Paulo Jamelli|Jamelli]] {{gol|57}}<br />[[Robert da Silva Almeida|Robert]] {{gol|89}}
+}}
+{{Partido
+|local       = [[Santos Futebol Clube|Santos]]
+|paíslocal   = BRA
+|resultado   = 3:0''' (0:0)
+|visita      = [[Club Atlético Peñarol|Peñarol]]
+|paísvisita  = URU
+|fecha       = 26 de septiembre de 1996
+|estadio     = [[Estadio Ícaro de Castro Melo|Estadio do Ibirapuera]]
+|ciudad      = [[São Paulo]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 
+|goleslocal  = [[Sandro Barbosa|Sandro]] {{gol|53}}<br />[[Vágner Rogério Nunes|Vágner]] {{gol|64}}<br />[[Alessandro Cambalhota|Alessandro]] {{gol|77}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Estudiantes de La Plata|Estudiantes]]
+|paíslocal   = ARG
+|resultado   = 2:4''' (2:1)
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 12 de septiembre de 1996
+|estadio     = [[Estadio Jorge Luis Hirschi]]
+|ciudad      = [[La Plata]]
+|refe        = {{árbitro|PAR|var=1990|Félix Benegas}}
+|asistencia  =8 000 
+|goleslocal  = [[Martín Fúriga|Fúriga]] {{gol|40}}<br />[[Martín Palermo|Palermo]] {{gol|43}}
+|golesvisita = [[José Luis Sierra (futbolista chileno)|Sierra]] {{gol|6}}<br />[[Ariel Zapata|Zapata]] {{gol|49|a.g.}}<br />[[Fernando Vergara|Vegara]] {{gol|63}}<br />[[Héctor Tapia|Tapia]] {{gol|64}}
+}}
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 2:1''' (0:1)
+|visita      = [[Club Estudiantes de La Plata|Estudiantes]]
+|paísvisita  = ARG
+|fecha       = 3 de octubre de 1996
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|PER|José Arana Villamonte}}
+|asistencia  =20 000 
+|goleslocal  = [[Ivo Basay|Basay]] {{gol|46||62}}
+|golesvisita = [[Martín Palermo|Palermo]] {{gol|16}}
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Independiente|Independiente]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 11 de septiembre de 1996
+|estadio     = [[Estadio de la Doble Visera|Estadio La Doble Visera]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|refe        ={{árbitro|URU|Jorge Nieves}} 
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 1:0''' (1:0)
+|visita      = [[Club Atlético Independiente|Independiente]]
+|paísvisita  = ARG
+|fecha       = 25 de septiembre de 1996
+|estadio     = [[Estadio de Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|refe        ={{árbitro|URU|Eduardo Dluzniewski}} 
+|asistencia  = 
+|goleslocal  = [[Fábio Baiano]] {{gol|38}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Nacional de Football|Nacional]]
+|paíslocal   = URU
+|resultado   = 1:1''' (1:1)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 17 de septiembre de 1996
+|estadio     = [[Estadio Centenario]]
+|ciudad      = [[Montevideo]]
+|refe        ={{árbitro|PAR|Epifanio González}} 
+|asistencia  = 
+|goleslocal  = [[Juan Antonio González Crespo|J. González]] {{gol|24}}
+|golesvisita = [[Aílton Delfino|Aílton]] {{gol|34}}
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 3:1''' (1:0)
+|visita      = [[Club Nacional de Football|Nacional]]
+|paísvisita  = URU
+|fecha       = 25 de septiembre de 1996
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|ARG|Roberto Ruscio}}
+|asistencia  = 
+|goleslocal  = [[Jorge Ferreira da Silva|Palhinha]] {{gol|20|pen.}}<br />[[Paulinho McLaren|Paulinho]] {{gol|56}}<br />[[Fábio da Silva Azevedo|Fabinho]] {{gol|88}}
+|golesvisita = [[Silvio Fernández Dos Santos|S. Fernández]] {{gol|50}}
+}}
+
+==== Triangular clasificatorio ====
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Argentina}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''8'''||4||2||2||0||6||1||5
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina}} [[Racing Club]]
+|'''6'''||4||1||3||0||2||1||1
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|'''1'''||4||0||1||3||0||6||–6
+|}
+<br />
+{{Partido
+|local       = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal   = ARG
+|resultado   = 0:2''' (0:2)
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 21 de agosto de 1996
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Hugo Cordero}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = [[Sebastián Rambert|Rambert]] {{gol|20|pen.}}<br />[[Diego Latorre|Latorre]] {{gol|28}}
+}}
+{{Partido
+|local       = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paíslocal   = ARG
+|resultado   = 0:1''' (0:0)
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 28 de agosto de 1996
+|estadio     = [[Estadio Arquitecto Ricardo Etcheverri|Estadio Ricardo Etcheverri]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = [[Rubén Capria|Capria]] {{gol|73}}
+}}
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (0:1)
+|visita      = [[Racing Club]]
+|paísvisita  = ARG
+|fecha       = 11 de septiembre de 1996
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Roberto Ruscio}}
+|asistencia  = 
+|goleslocal  = [[Silvio Carrario|Carrario]] {{gol|90}}
+|golesvisita = [[Teté Quiroz|Quiroz]] {{gol|7}}
+}}
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita  = ARG
+|fecha       = 18 de septiembre de 1996
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Buenos Aires]]
+|refe        ={{árbitro|ARG|Horacio Elizondo}} 
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 3:0''' (0:0)
+|visita      = [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+|paísvisita  = ARG
+|fecha       = 25 de septiembre de 1996
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Rubén Pascualino}}
+|asistencia  = 
+|goleslocal  = [[Silvio Carrario|Carrario]] {{gol|61}}<br />[[Gabriel Cedrés|Cedrés]] {{gol|70}}<br />[[Sergio Daniel Martínez|Martínez]] {{gol|86}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Racing Club]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 3 de octubre de 1996
+|estadio     = [[Estadio Presidente Perón|Estadio El Cilindro]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|ARG|Hugo Cordero}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = 
+}}
+
+=== Cuartos de final ===
+{{Partido
+|local       = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal   = ARG
+|resultado   = 3:0''' (2:0)
+|visita      = [[Club Olimpia|Olimpia]]
+|paísvisita  = PAR
+|etpaísvisita = 1990
+|fecha       = 16 de octubre de 1996
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|BRA|Sidrack Marinho dos Santos|Sidrack Marinho}}
+|asistencia  = 
+|goleslocal  = [[José Luis Chilavert|Chilavert]] {{gol|19}}<br />[[Patricio Camps|Camps]] {{gol|43}}<br />[[Christian Bassedas|Bassedas]] {{gol|84}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Club Olimpia|Olimpia]]
+|paíslocal   = PAR
+|etpaíslocal = 1990
+|resultado   = 0:1''' (0:1)
+|visita      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita  = ARG
+|fecha       = 23 de octubre de 1996
+|estadio     = [[Estadio Defensores del Chaco]]
+|ciudad      = [[Asunción]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = [[Patricio Camps|Camps]] {{gol|29}}
+}}
+<br />
+{{Partido
+|local       = [[Santos Futebol Clube|Santos]]
+|paíslocal   = BRA
+|resultado   = 2:0''' (2:0)
+|visita      = [[Atlético Nacional]]
+|paísvisita  = COL
+|fecha       = 16 de octubre de 1996
+|estadio     = [[Estadio Benedito Teixeira|Estadio Teixeirão]]
+|ciudad      = [[São José do Rio Preto]]
+|refe        = {{árbitro|ARG|Horacio Elizondo}}
+|asistencia  = 
+|goleslocal  = [[Jean Carlo Witte|Jean]] {{gol|26}}<br />[[Paulo Jamelli|Jamelli]] {{gol|41}}
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Atlético Nacional]]
+|paíslocal   = COL
+|resultado   = 3:1''' (1:0)
+|visita      = [[Santos Futebol Clube|Santos]]
+|paísvisita  = BRA
+|fecha       = 23 de octubre de 1996
+|estadio     = [[Estadio Atanasio Girardot]]
+|ciudad      = [[Medellín]]
+|refe        = {{árbitro|ARG|Javier Castrilli}}
+|asistencia  = 
+|goleslocal  = [[Hernán Gaviria|Gaviria]] {{gol|38}}<br />[[John Jairo Tréllez|Tréllez]] {{gol|54}}<br />[[Mauricio Serna|Serna]] {{gol|66|pen.}}
+|golesvisita = [[Marcelo Fernando Domingues Rezende|Camanducaia]] {{gol|64}}
+|penaltis1   = [[Mauricio Serna|Serna]] {{pengol}}<br />[[Alexis García|García]] {{pengol}}<br />[[Luis Carlos Perea|Perea]] {{pengol}}<br />[[Néider Morantes|Morantes]] {{pengol}}<br />[[Juan Pablo Ángel|Ángel]] {{pengol}}<br />[[Santander Ospina|Ospina]] {{pengol}}<br />[[Francisco Manuel Mosquera Romaña|Mosquera]] {{penfallo|palo}}<br />[[Hugo Alejandro Tuberquia|Tuberquia]] {{penfallo|palo}}
+|resultado penalti = 6:7
+|penaltis2   = {{pengol}} [[Paulo Jamelli|Jamelli]]<br />{{pengol}} [[Sandro Barbosa|Sandro]]<br />{{pengol}} [[Marcos Assunção|Assunção]]<br />{{pengol}} [[Ânderson Lima]]<br />{{pengol}} [[Edson Cholbi Nascimento|Edinho]]<br />{{pengol}} [[Reginaldo Rivelino Jandoso|Piá]]<br />{{penfallo|atajado}} [[Carlos Eduardo de Gouveia|Carlinhos]]<br />{{pengol}} [[Marcelo Fernando Domingues Rezende|Camanducaia]]
+}}
+<br />
+{{Partido
+|local       = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (1:0)
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 17 de octubre de 1996
+|estadio     = [[Estadio Benedito Teixeira|Estadio Teixeirão]]
+|ciudad      = [[São José do Rio Preto]]
+|refe        = {{árbitro|URU|Jorge Nieves}}
+|asistencia  =1 951 
+|goleslocal  = [[Júnior Baiano]] {{gol|14}}
+|golesvisita = [[Francis Ferrero|Ferrero]] {{gol|88}}
+}}
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 1:0''' (0:0)
+|visita      = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita  = BRA
+|fecha       = 24 de octubre de 1996
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|COL|Óscar Julián Ruiz|Óscar Ruiz}}
+|asistencia  =40 000 
+|goleslocal  = [[Marcelo Espina|Espina]] {{gol|82}}
+|golesvisita = 
+}}
+<br />
+{{Partido
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal   = ARG
+|resultado   = 0:0
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 17 de octubre de 1996
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|CHI|Mario Sánchez Yantén}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = 
+}}
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 1:1''' (0:0)
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita  = ARG
+|fecha       = 23 de octubre de 1996
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|PAR|var=1990|Óscar Velázquez (árbitro)|Óscar Velázquez}}
+|asistencia  = 
+|goleslocal  = [[Paulinho McLaren|Paulinho]] {{gol|58}}
+|golesvisita = [[Gabriel Cedrés|Cedrés]] {{gol|63}}
+|penaltis1   = [[Gélson Baresi|Gélson]] {{pengol}}<br />[[Jorge Ferreira da Silva|Palhinha]] {{pengol}}<br />[[Paulinho McLaren|Paulinho]] {{pengol}}<br />[[Raimundo Nonato da Silva|Nonato]] {{pengol}}<br />[[Gilmar Jorge dos Santos|Gilmar]] {{penfallo|palo}}<br />[[Cleisson Edson Assunção|Cleisson]] {{penfallo|atajado}}<br />[[Marcos Teixeira Pocidônio|Marcos Teixeira]] {{pengol}}<br />[[Ricardo Alexandre dos Santos|Ricardinho]] {{pengol}}<br />[[Cleonésio Carlos da Silva|Da Silva]] {{pengol}}
+|resultado penalti = 7:6
+|penaltis2   = {{pengol}} [[Sergio Daniel Martínez|Martínez]]<br />{{pengol}} [[Diego Latorre|Latorre]]<br />{{pengol}} [[Diego Cagna|Cagna]]<br />{{pengol}} [[Néstor Fabbri|Fabbri]]<br />{{penfallo|atajado}} [[Roberto Pompei|Pompei]]<br />{{penfallo|palo}} [[Fernando Cáceres|Cáceres]]<br />{{pengol}} [[Julio César Toresani|Toresani]]<br />{{pengol}} [[Néstor Lorenzo|Lorenzo]]<br />{{penfallo|palo}} [[Christian Dollberg|Dollberg]]
+}}
+
+=== Semifinal ===
+{{Partido
+|local       = [[Santos Futebol Clube|Santos]]
+|paíslocal   = BRA
+|resultado   = 1:2''' (1:1)
+|visita      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita  = ARG
+|fecha       = 30 de octubre de 1996
+|estadio     = [[Estadio Municipal Parque do Sabiá|Estadio Municipal João Havelange]]
+|ciudad      = [[Uberlândia]]
+|refe        = {{árbitro|URU|José Luis Da Rosa}}
+|asistencia  = 
+|goleslocal  = [[Alessandro Cambalhota|Alessandro]] {{gol|22}}
+|golesvisita = [[Martín Posse|Posse]] {{gol|11}}<br />[[José Luis Chilavert|Chilavert]] {{gol|90|pen.}}
+}}
+{{Partido
+|local       = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal   = ARG
+|resultado   = 1:1''' (1:0)
+|visita      = [[Santos Futebol Clube|Santos]]
+|paísvisita  = BRA
+|fecha       = 14 de noviembre de 1996
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|PAR|var=1990|Óscar Velázquez (árbitro)|Óscar Velázquez}}
+|asistencia  = 
+|goleslocal  = [[Martín Posse|Posse]] {{gol|25}}
+|golesvisita = [[Robert da Silva Almeida|Robert]] {{gol|77}}
+}}
+<br />
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 3:2''' (3:1)
+|visita      = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita  = CHI
+|fecha       = 30 de octubre de 1996
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|ARG|Horacio Elizondo}}
+|asistencia  =24 021 
+|goleslocal  = [[Paulinho McLaren|Paulinho]] {{gol|11}}<br />[[Gilmar Jorge dos Santos|Gilmar]] {{gol|25}}<br />[[Célio Lúcio da Costa Quarto|Célio Lúcio]] {{gol|37}}
+|golesvisita = [[Francis Ferrero|Ferrero]] {{gol|7}}<br />[[Pedro Reyes (futbolista)|Reyes]] {{gol|59}}
+}}
+{{Partido
+|local       = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal   = CHI
+|resultado   = 0:4''' (0:3)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 6 de noviembre de 1996
+|estadio     = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|ciudad      = [[Santiago de Chile|Santiago]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  =45 000 
+|goleslocal  = 
+|golesvisita = [[Claudio Arbiza|Arbiza]] {{gol|6|a.g.}}<br />[[Jorge Ferreira da Silva|Palhinha]] {{gol|34||43}}<br />[[Aílton Delfino|Aílton]] {{gol|76}}
+}}
+
+=== Final ===
+{{Partido
+|local       = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paíslocal   = BRA
+|resultado   = 0:1''' (0:0)
+|visita      = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paísvisita  = ARG
+|fecha       = 20 de noviembre de 1996
+|estadio     = [[Estadio Mineirão]]
+|ciudad      = [[Belo Horizonte]]
+|refe        = {{árbitro|COL|Óscar Julián Ruiz|Óscar Ruiz}}
+|asistencia  = 
+|goleslocal  = 
+|golesvisita = [[José Luis Chilavert|Chilavert]] {{gol|86|pen.}}
+}}
+{{Partido
+|local       = [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|paíslocal   = ARG
+|resultado   = 2:0''' (2:0)
+|visita      = [[Cruzeiro Esporte Clube|Cruzeiro]]
+|paísvisita  = BRA
+|fecha       = 4 de diciembre de 1996
+|estadio     = [[Estadio José Amalfitani]]
+|ciudad      = [[Buenos Aires]]
+|refe        = {{árbitro|URU|Julio Matto}}
+|asistencia  =45 000 
+|goleslocal  = [[Patricio Camps|Camps]] {{gol|3}}<br />[[Gélson Baresi|Gélson]] {{gol|7|a.g.}}
+|golesvisita = 
+}}
+{{Campeón|equipo=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|bandera=Argentina|orden=1|logo=SupercopaLibertadores1988-1997.png}}
+
+== Estadísticas ==
+=== Clasificación general ===
+{| class="sortable" cellpadding="4" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%; margin: auto; text-align: center;" width="55%"
+ |- bgcolor="#006699" style="color: white;"
+ ! width="5%"  | {{abreviación|Pos.|Posición}}
+ ! width="45%" | Equipo
+ ! width="5%"  | {{abreviación|Pts|Puntos}}
+ ! width="5%"  | {{abreviación|PJ|Partidos jugados}}
+ ! width="5%"  | {{abreviación|PG|Partidos ganados}}
+ ! width="5%"  | {{abreviación|PE|Partidos empatados}}
+ ! width="5%"  | {{abreviación|PP|Partidos perdidos}}
+ ! width="5%"  | {{abreviación|GF|Goles a favor}}
+ ! width="5%"  | {{abreviación|GC|Goles en contra}}
+ ! width="5%"  | {{abreviación|Dif.|Diferencia de goles}}
+ ! width="10%" | {{abreviación|Rend.|Rendimiento}}
+ |- bgcolor=gold
+ !1
+ |align=left|{{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]'''
+ |'''20'''||8||6||2||0||14||5||9||83,33%
+ |- bgcolor=silver
+ !2
+ |align=left|{{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+ |'''12'''||8||3||3||2||12||8||4||50%
+ |-style="border-top:1px solid #222;" bgcolor=#D2B48C
+ !3
+ |align=left|{{bandera|Brasil}} [[Santos Futebol Clube|Santos]]
+ |'''10'''||6||3||1||2||10||7||3||55,55%
+ |-
+ !4
+ |align=left|{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+ |'''10'''||6||3||1||2||10||11||−1||55,55%
+ |-style="border-top:1px solid #222;"
+ !5
+ |align=left|{{bandera|Colombia}} [[Atlético Nacional]]
+ |'''7'''||4||2||1||1||7||6||1||58,33%
+ |-
+ !6
+ |align=left|{{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]]
+ |'''10'''||6||2||4||0||7||2||5||55,55%
+ |-
+ !7
+ |align=left|{{bandera|Brasil}} [[Clube de Regatas do Flamengo|Flamengo]]
+ |'''5'''||4||1||2||1||2||2||0||41,66%
+ |-
+ !8
+ |align=left|{{bandera|Paraguay|1990}} [[Club Olimpia|Olimpia]]
+ |'''3'''||4||1||0||3||3||7||−4||25%
+ |-style="border-top:1px solid #222;"
+ !9
+ |align=left|{{bandera|Argentina}} [[Racing Club]]
+ |'''6'''||4||1||3||0||2||1||1||50%
+ |-
+ !10
+ |align=left|{{bandera|Brasil}} [[São Paulo Futebol Clube|São Paulo]]
+ |'''3'''||2||1||0||1||3||3||0||50%
+ |-
+ !11
+ |align=left|{{bandera|Brasil}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+ |'''1'''||2||0||1||1||3||4||−1||16,66%
+ |-
+ !12
+ |align=left|{{bandera|Argentina}} [[Club Atlético River Plate|River Plate]]
+ |'''1'''||2||0||1||1||3||4||−1||16,66%
+ |-
+ !13
+ |align=left|{{bandera|Argentina}} [[Club Atlético Independiente|Independiente]]
+ |'''1'''||2||0||1||1||0||1||−1||16,66%
+ |-
+ !14
+ |align=left|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+ |'''1'''||2||0||1||1||2||4||−2||16,66%
+ |-
+ !15
+ |align=left|{{bandera|Argentina}} [[Asociación Atlética Argentinos Juniors|Argentinos Juniors]]
+ |'''1'''||4||0||1||3||0||6||−6||8,33%
+ |-
+ !16
+ |align=left|{{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+ |'''0'''||2||0||0||2||3||6||−3||0%
+ |-
+ !17
+ |align=left|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+ |'''0'''||2||0||0||2||1||5||−4||0%
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=#D0E7FF
+| {{bandera|Argentina}} '''[[Patricio Camps]]''' 
+| {{bandera|Argentina}} '''[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]''' 
+| align=center|'''4'''
+|-
+| {{bandera|Paraguay|1990}} [[José Luis Chilavert]] 
+| {{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] 
+| align=center|3
+|-
+| {{bandera|Brasil}} [[Jorge Ferreira da Silva|Palhinha]]
+| {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+| align=center|3
+|-
+| {{bandera|Brasil}} [[Paulinho McLaren|Paulinho]] 
+| {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]] 
+| align=center|3
+|-
+| {{bandera|Brasil}} [[Aílton Delfino|Aílton]] 
+| {{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]] 
+| align=center|2
+|-
+| {{bandera|Brasil}} [[Alessandro Cambalhota|Alessandro]]
+| {{bandera|Brasil}} [[Santos Futebol Clube|Santos]] 
+| align=center|2
+|-
+| {{bandera|Chile}} [[Ivo Basay]] 
+| {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] 
+| align=center|2
+|-
+| {{bandera|Argentina}} [[Christian Bassedas]] 
+| {{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] 
+| align=center|2
+|-
+| {{bandera|Argentina}} [[Silvio Carrario]] 
+| {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]] 
+| align=center|2
+|-
+| {{bandera|Uruguay}} [[Gabriel Cedrés]] 
+| {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]] 
+| align=center|2
+|-
+| {{bandera|Argentina}} {{bandera|Chile}} [[Francis Ferrero]] 
+| {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] 
+| align=center|2
+|-
+| {{bandera|Brasil}} [[Paulo Jamelli]] 
+| {{bandera|Brasil}} [[Santos Futebol Clube|Santos]] 
+| align=center|2
+|-
+| {{bandera|Argentina}} [[Martín Palermo]] 
+| {{bandera|Argentina}} [[Club Estudiantes de La Plata|Estudiantes (LP)]]
+| align=center|2
+|-
+| {{bandera|Argentina}} [[Martín Posse]] 
+| {{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]] 
+| align=center|2
+|-
+| {{bandera|Brasil}} [[Robert da Silva Almeida|Robert]]
+| {{bandera|Brasil}} [[Santos Futebol Clube|Santos]] 
+| align=center|2
+|-
+| {{bandera|Colombia}} [[John Jairo Tréllez]]
+| {{bandera|Colombia}} [[Atlético Nacional]] 
+| align=center|2
+|}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/supcopa96.html Supercopa Sudamericana 1996] y [https://www.rsssf.org/sacups/supcopa96det.html Detalles] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Supercopa Sudamericana 1995|1995]]
+| título     = Supercopa Sudamericana 1996
+| período    = IX edición
+| sucesor    = [[Supercopa Sudamericana 1997|1997]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Temporadas de la Supercopa Sudamericana|1996]]
+[[Categoría:Fútbol en 1996]]

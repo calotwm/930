@@ -1,0 +1,1078 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Sudamericana]]
+| deporte = fútbol
+| tipo = 
+| imagen = ESTADIO VACIO 2.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[Estadio Nacional de Chile|estadio Nacional]] ([[Santiago de Chile|Santiago]]) fue sede del partido de vuelta de la [[Anexo:Final de la Copa Sudamericana 2006|final]]
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 34 de 12 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha = {{fecha2|22|8|2006}}<br>{{fecha2|13|12|2006}}
+| edición = V
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|MEX}} [[Club de Fútbol Pachuca|Pachuca]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| semifinalistas = {{bandera|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]] <br> {{bandera|MEX}} [[Deportivo Toluca Fútbol Club|Toluca]]
+| mejor_jugador = {{bandera|Chile}} [[Matías Fernández]]<br>{{small|([[Club Social y Deportivo Colo-Colo|Colo-Colo]])}}
+| partidos = 66
+| goles = 184 (2,78 por partido)
+| goleadores = 
+| anterior = [[Copa Sudamericana 2005]]
+| actual = Copa Sudamericana 2006
+| siguiente = [[Copa Sudamericana 2007]]
+|goleador={{bandera|CHI}} [[Humberto Suazo]] (10 goles)<br><small>([[Club Social y Deportivo Colo-Colo|Colo-Colo]])</small>}}
+
+La '''[[Copa Sudamericana]] 2006''', denominada por motivos comerciales '''Copa Nissan Sudamericana 2006''' fue la quinta edición del torneo organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de doce países: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Costa Rica]], [[Ecuador]], [[México]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+El campeón fue [[Club de Fútbol Pachuca|Pachuca]] de México, que venció en la final a [[Club Social y Deportivo Colo-Colo|Colo-Colo]] de Chile con un marcador global de 3-2, convirtiéndose así en el primer equipo de [[Concacaf]] en ganar un certamen organizado por Conmebol, y el único en el mundo hasta la actualidad en obtener un torneo oficial de la [[FIFA]] fuera de su confederación. Gracias al título, obtuvo el derecho de disputar la [[Recopa Sudamericana 2007]] ante [[Sport Club Internacional|Internacional]], ganador de la [[Copa Libertadores 2006]]. Clasificó, asimismo, a los octavos de final de la [[Copa Sudamericana 2007]].
+
+== Formato ==
+El torneo se desarrolló plenamente bajo un formato de [[eliminación directa]], donde cada equipo enfrentaba a su rival de turno en partidos de ida y vuelta. De los 34 participantes, solamente [[Club Atlético Boca Juniors|Boca Juniors]] —último campeón—, [[Club Atlético River Plate|River Plate]] —invitado por Conmebol—, [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]] —mejor clasificado de Argentina— y los tres invitados de Concacaf iniciaron el torneo desde los octavos de final. Los restantes 28 debieron disputar las dos fases clasificatorias, en donde las llaves se establecieron enfrentándose los equipos del mismo país de origen. De allí salieron los últimos 10 clasificados a las fases finales, compuestas por los octavos de final, los cuartos de final, las semifinales y la final, en la que se declaró al campeón. Como criterios de desempate en caso de igualdad de puntos y diferencia de goles al finalizar los dos encuentros de una llave, en cualquiera de las fases, se aplicaron la [[regla del gol de visitante]] y los [[tiros desde el punto penal]].
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase preliminar
+(16 equipos)
+|
+* 2 equipos de Bolivia, Chile, Colombia, Ecuador,<br>Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 8 equipos de Brasil
+* 4 equipos de Argentina
+|
+* 8 equipos clasificados de la Fase preliminar
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+* 1 equipo, campeón de la Copa Sudamericana 2005
+* 2 equipos de Argentina y México
+* 1 equipo de Costa Rica
+|
+* 10 equipos clasificados de la Primera fase
+|}
+
+== Distribución de los cupos ==
+{| class="wikitable"
+|- 
+! País
+! Cupos
+! fases finales
+! Primera fase
+! Fase preliminar
+|-
+|- 
+| align="left" |{{Bandera|BRA}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''8'''
+| –
+|8 
+|  -
+|-
+| align="left" |{{Bandera|ARG}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+| 2
+| 4 
+|  -
+|-
+| align="left" |{{Bandera|BOL}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|CHI}} [[Federación de Fútbol de Chile|Chile]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|ECU|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|MEX}} [[Federación Mexicana de Fútbol|México]]
+|'''2'''
+| 2
+| -
+| -
+|-
+| align="left" |{{Bandera|PAR|1990}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|PER}} [[Federación Peruana de Fútbol|Perú]]
+|'''2'''
+| –
+| -
+| 2
+|-
+| align="left" |{{Bandera|URU}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|VEN}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''2'''
+| –
+| -
+| 2
+|- 
+| align="left" |{{Bandera|CRC}} [[Federación Costarricense de Fútbol|Costa Rica]]
+|'''1'''
+| 1
+| -
+| -
+|-
+| align="left" |Fase anterior
+| –
+| 10
+| 8
+| –
+|-
+| align="left" |Campeón de la Copa Sudamericana 
+|'''1'''
+| 1
+| -
+| –
+|-
+!Total
+!34
+!16
+!20
+!20
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=100%
+|- bgcolor=#006699 style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="69%" |Vía de clasificación
+|-
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br>5 cupos<br>''+ 1 invitado''<br>''+ campeón vigente''
+| [[Club Atlético Boca Juniors|Boca Juniors]]<br>[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]<br>[[Club Atlético Banfield|Banfield]]<br>[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]<br>''[[Club Atlético Lanús|Lanús]]''<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>[[Club Atlético River Plate|River Plate]]
+|Campeón de la [[Copa Sudamericana 2005]] e Invitado<br>Mejor equipo ubicado en la [[Campeonato de Primera División 2005-06 (Argentina)#Clasificación a la Copa Sudamericana 2006|tabla de posiciones del Campeonato de Primera División 2005-06]]<br>2.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2005-06<br>3.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2005-06<br>4.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2005-06<br>5.º mejor equipo ubicado en la tabla de posiciones del Campeonato de Primera División 2005-06<br>''Invitado''
+
+|- bgcolor=#DDEEFF
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br>2 cupos
+|[[Club Bolívar|Bolívar]]<br>''[[Universitario de Sucre]]''
+|Subcampeón del [[Campeonato de Primera División 2005-06 (Bolivia)#Torneo Apertura|Torneo Apertura 2005]]<br>3.º puesto del Torneo Clausura 2005-06
+|-
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br>8 cupos
+| [[Sport Club Corinthians Paulista|Corinthians]]<br>[[Fluminense Football Club|Fluminense]]<br>''[[Club Athletico Paranaense|Atlético Paranaense]]''<br>[[Paraná Clube|Paraná]]<br>[[Cruzeiro Esporte Clube|Cruzeiro]]<br>''[[Botafogo de Futebol e Regatas|Botafogo]]''<br>[[Santos Futebol Clube|Santos]]<br>[[Club de Regatas Vasco da Gama|Vasco da Gama]]
+|Campeón del [[Campeonato Brasileño de Fútbol 2005|Campeonato Brasileño de 2005]]<br>5.º puesto del Campeonato Brasileño de 2005<br>6.º puesto del Campeonato Brasileño de 2005<br>7.º puesto del Campeonato Brasileño de 2005<br>8.º puesto del Campeonato Brasileño de 2005<br>9.º puesto del Campeonato Brasileño de 2005<br>10.º puesto del Campeonato Brasileño de 2005<br>12.º puesto del Campeonato Brasileño de 2005
+
+|- bgcolor=#DDEEFF
+|{{Bandera|CHI}} '''[[Federación de Fútbol de Chile|Chile]]'''<br>2 cupos
+| ''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br>[[Club Deportivo Huachipato|Huachipato]]''
+|1.º puesto de la [[Torneo Apertura 2006 (Chile)#Tabla general|fase clasificatoria del Torneo Apertura 2006]]<br>2.º puesto de la fase clasificatoria del Torneo Apertura 2006
+|-
+|{{Bandera|COL}} '''[[Federación Colombiana de Fútbol|Colombia]]'''<br>2 cupos
+| ''[[Independiente Medellín]]<br>[[Deportes Tolima]]''
+|Mejor equipo ubicado en la [[Temporada 2005 del fútbol colombiano#Reclasificación|Reclasificación 2005]] no participante de la Copa Libertadores 2006<br>2.º mejor equipo ubicado en la Reclasificación 2005 no participante de la Copa Libertadores 2006
+
+|- bgcolor=#DDEEFF
+|{{Bandera|Costa Rica}} '''[[Federación Costarricense de Fútbol|Costa Rica]]'''<br>''1 invitado''
+| ''[[Liga Deportiva Alajuelense|Alajuelense]]''
+|Campeón de la [[Copa Interclubes Uncaf 2005]]
+|-
+|{{bandera|Ecuador|1900}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br>2 cupos
+|[[Club Deportivo El Nacional|El Nacional]]<br>[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|Ganador de la [[Campeonato Ecuatoriano de Fútbol 2005#Todos contra todos 2|primera etapa del Torneo Clausura 2005]]<br>Ganador de la [[Campeonato Ecuatoriano de Fútbol 2006#Primera etapa|primera etapa del Campeonato Ecuatoriano de 2006]]
+
+|- bgcolor=#DDEEFF
+|{{Bandera|MEX}} '''[[Federación Mexicana de Fútbol|México]]'''<br>''2 invitados ([[Concacaf]])''
+|''[[Deportivo Toluca Fútbol Club|Toluca]]<br>[[Club de Fútbol Pachuca|Pachuca]]''
+|Subcampeón de la [[Copa de Campeones de la Concacaf 2006]]<br>1.º puesto de la [[Torneo Clausura 2006 (México)#Tabla General|tabla general del Torneo Clausura 2006]]
+|-
+|{{Bandera|PAR|1990}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br>2 cupos
+| [[Club Cerro Porteño|Cerro Porteño]]<br>[[Club Libertad|Libertad]]
+|Mejor equipo ubicado en la [[Campeonato Paraguayo de Fútbol 2005#Puntaje acumulado|tabla acumulada del Campeonato Paraguayo de 2005]]<br>Ganador de la eliminatoria entre el subcampeón del 2005 y el 2.º mejor equipo ubicado en la tabla acumulada del Campeonato Paraguayo de 2005
+
+|- bgcolor=#DDEEFF
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br>2 cupos
+| ''[[Club Deportivo Universidad de San Martín de Porres|Universidad San Martín]]''<br>[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]]
+|Mejor equipo ubicado en la [[Campeonato Descentralizado 2005#Tabla acumulada|tabla acumulada del Campeonato Descentralizado 2005]] no participante de la Copa Libertadores 2006<br>2.º mejor equipo ubicado en la tabla acumulada del Campeonato Descentralizado 2005 no participante de la Copa Libertadores 2006
+|-
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br>2 cupos
+| [[Club Nacional de Football|Nacional]]
+''[[Central Español Fútbol Club|Central Español]]''
+|3.º puesto de la [[Campeonato Uruguayo de Primera División 2005-06#Liguilla Prelibertadores y Presudamericana|Liguilla Pre-Libertadores y Pre-Sudamericana 2006]]<br>4.º puesto de la Liguilla Pre-Libertadores y Pre-Sudamericana 2006
+
+|- bgcolor=#DDEEFF
+|{{Bandera|VEN}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br>2 cupos
+| [[Carabobo Fútbol Club|Carabobo]]<br>[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|Mejor equipo ubicado en la [[Primera División Venezolana 2005-06#Acumulada|tabla acumulada de la Primera División Venezolana 2005-06]] no participante de la Copa Libertadores 2007<br>2.º mejor equipo ubicado en la tabla acumulada de la Primera División Venezolana 2005-06 no participante de la Copa Libertadores 2007
+|}
+
+
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos sudamericanos de la '''Copa Sudamericana 2006'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.666667|long=-58.35|label=<small>'''{{Esd|Buenos Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-57|label=<small>'''{{Esd|Equipos de Buenos Aires:}}'''<br>[[Club Atlético Banfield|Banfield]]<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Atlético Lanús|Lanús]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]<br>[[Club Atlético Vélez Sarsfield|{{Esd|Vélez Sarsfield}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-34.933333|long=-57.95}}
+{{Location map~|América del Sur|lat=-36|long=-65|label=<small>[[Club de Gimnasia y Esgrima La Plata|{{Esd|Gimnasia y Esgrima La Plata}}]]</small>|mark=TransparentPlaceholder.png |position=bottom}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club Bolívar|Bolívar]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.05|long=-65.25|label=<small>[[Universitario de Sucre|{{Esd|Universitario de Sucre}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>'''{{Esd|Río de Janeiro}}'''</small>|position=right}}
+{{Location map~|América del Sur|lat=-32|long=-42|label=<small>'''{{Esd|Equipos de Río de Janeiro:}}'''<br>[[Botafogo de Futebol e Regatas|Botafogo]]<br>[[Fluminense Football Club|Fluminense]]<br>[[Club de Regatas Vasco da Gama|{{Esd|Vasco da Gama}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small><br>[[Santos Futebol Clube|Santos]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Cruzeiro Esporte Clube|Cruzeiro]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-23.5|long=-46.61667|label=<small>[[Sport Club Corinthians Paulista|Corinthians]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-25.429722|long=-49.271944|label=<small><br>[[Clube Atlético Paranaense|{{Esd|Atlético Paranaense}}]]<br>[[Paraná Clube|Paraná]]</small>|position=bottom}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>[[Club Social y Deportivo Colo-Colo|{{Esd|Colo-Colo}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-36.716667|long=-73.116667|label=<small>[[Club Deportivo Huachipato|Huachipato]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>[[Independiente Medellín|{{Esd|Independiente Medellín}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=4.437778|long=-75.200556|label=<small>[[Deportes Tolima|{{Esd|Deportes Tolima}}]]</small>|position=bottom}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>[[Club Deportivo El Nacional|{{Esd|El Nacional}}]]<br>[[Liga Deportiva Universitaria de Quito|{{Esd|Liga de Quito}}]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Libertad|Libertad]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small><br>[[Club Deportivo Universidad de San Martín de Porres|{{Esd|Universidad San Martín}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-18.055556|long=-70.248333|label=<small><br>[[Club Deportivo Coronel Bolognesi|{{Esd|Coronel Bolognesi}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Central Español Fútbol Club|{{Esd|Central Español}}]]<br>[[Club Nacional de Football|Nacional]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=10.166667|long=-68|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=left}}
+{{Location map~|América del Sur|lat=8.359617|long=-62.651653|label=<small>[[Club Deportivo Mineros de Guayana|{{Esd|Mineros de Guayana}}]]</small>|position=right}}
+}}
+{{Location map+|México|float=center|width=575|caption=Localización de los equipos mexicanos de la '''Copa Sudamericana 2006'''|AlternativeMap =Mexico States blank map.svg|places=
+<!-- CLUBES DE MÉXICO -->
+{{Location map~|México|lat=20.1225|long=-98.736111|label=<small>[[Club de Fútbol Pachuca|Pachuca]]</small>|position=right}}
+{{Location map~|México|lat=19.292222|long=-99.653889|label=<small>[[Deportivo Toluca Fútbol Club|Toluca]]</small>|position=left}}
+}}
+{{Location map+|Costa Rica|float=center|width=575|caption=Localización de los equipos costarricenses de la '''Copa Sudamericana 2006'''|AlternativeMap =Costa Rica location map.svg|places=
+<!-- CLUBES DE COSTA RICA -->
+{{Location map~|Costa Rica|lat=10.016667|long=-84.216667|label=<small>[[Liga Deportiva Alajuelense|Alajuelense]]</small>|position=left}}
+}}
+
+== Fase preliminar ==
+{{AP|Anexo:Fase preliminar de la Copa Sudamericana 2006|l1=Fase preliminar de la Copa Sudamericana 2006}}
+Los dos clasificados de todas las confederaciones de América del Sur —exceptuando Argentina y Brasil— fueron emparejados en ocho llaves. Cada equipo enfrentó al rival de su propio país. Los 8 ganadores avanzaron a la primera fase.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|24 y 31 de agosto
+| align="right" |'''[[Universitario de Sucre]]''' {{bandera|Bolivia}}
+| align="2" | '''5:4'''
+| align="left" |{{bandera|Bolivia}} [[Club Bolívar|Bolívar]]
+|2:2
+|3:2
+!Bolivia 1
+
+|- align="center" style="background:#F5FAFF;"
+|24 y 31 de agosto
+| align="right" |[[Club Deportivo Huachipato|Huachipato]] {{bandera|Chile}}
+| align="2" | '''3:3''' <small>('''3:5''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|1:2
+|2:1
+!Chile 1
+
+|- align="center"
+|23 y 29 de agosto
+| align="right" |'''[[Deportes Tolima]]''' {{bandera|Colombia}}
+| align="2" | '''4:2'''
+| align="left" |{{bandera|Colombia}} [[Independiente Medellín]]
+|3:1
+|1:1
+!Colombia 1
+
+|- align="center" style="background:#F5FAFF;"
+|22 y 30 de agosto
+| align="right" |[[Liga Deportiva Universitaria de Quito|Liga de Quito]] {{bandera|Ecuador|1900}}
+| align="2" | '''3:4'''
+| align="left" |{{bandera|Ecuador|1900}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|2:3
+|1:1
+!Ecuador 1
+
+|- align="center"
+|23 y 29 de agosto
+| align="right" |'''[[Club Libertad|Libertad]]''' {{bandera|Paraguay|1990}}
+| align="2" | '''4:1'''
+| align="left" |{{bandera|Paraguay|1990}} [[Club Cerro Porteño|Cerro Porteño]]
+|3:1
+|1:0
+!Paraguay 1
+
+|- align="center" style="background:#F5FAFF;"
+|24 y 31 de agosto
+| align="right" |<small>([[Regla del gol de visitante|v.]])</small> '''[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]]''' {{bandera|Perú}}
+| align="2" | '''3:3'''
+| align="left" |{{bandera|Perú}} [[Club Deportivo Universidad de San Martín de Porres|Universidad de San Martín]]
+|1:0
+|2:3
+!Perú 1
+
+|- align="center"
+|23 y 29 de agosto
+| align="right" |[[Central Español Fútbol Club|Central Español]] {{bandera|Uruguay}}
+| align="2" | '''0:1'''
+| align="left" |{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|0:1
+|0:0
+!Uruguay 1
+
+|- align="center" style="background:#F5FAFF;"
+|22 y 30 de agosto
+| align="right" |'''[[Club Deportivo Mineros de Guayana|Mineros de Guayana]]''' {{bandera|Venezuela}}
+| align="2" | '''6:1'''
+| align="left" |{{bandera|Venezuela}} [[Carabobo Fútbol Club|Carabobo]]
+|3:0
+|3:1
+!Venezuela 1
+
+|}
+
+== Primera fase ==
+{{AP|Anexo:Primera fase de la Copa Sudamericana 2006|l1=Primera fase de la Copa Sudamericana 2006}}
+Los 8 ganadores de la fase preliminar fueron emparejados en cuatro nuevas llaves, determinadas por la ubicación geográfica de cada equipo. Asimismo, con los últimos cuatro clasificados de Argentina por un lado y los ocho clasificados de Brasil por otro se establecieron los seis cruces restantes. Los 10 ganadores avanzaron a los octavos de final.
+{| cellspacing="0" style="background: #DEF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+|22 de agosto y 12 de septiembre
+| align="right" |'''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' {{bandera|Argentina}}
+| align="2" | '''2:1'''
+| align="left" |{{bandera|Argentina}} [[Club Atlético Banfield|Banfield]]
+|2:1
+|0:0
+!Argentina III
+
+|- align="center" style="background:#F5FAFF;"
+|30 de agosto y 20 de septiembre
+| align="right" |'''[[Club Atlético Lanús|Lanús]]''' {{bandera|Argentina}}
+| align="2" | '''3:0'''
+| align="left" |{{bandera|Argentina}} [[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]
+|2:0
+|1:0
+!Argentina IV
+
+|- align="center"
+|6 y 13 de septiembre
+| align="right" |[[Club de Regatas Vasco da Gama|Vasco da Gama]] {{bandera|Brasil}}
+| align="2" | '''1:4'''
+| align="left" |{{bandera|Brasil}} '''[[Sport Club Corinthians Paulista|Corinthians]]'''
+|0:1
+|1:3
+!Brasil I
+
+|- align="center" style="background:#F5FAFF;"
+|6 y 13 de septiembre
+| align="right" |'''[[Santos Futebol Clube|Santos]]''' {{bandera|Brasil}}
+| align="2" | '''1:1''' <small>('''4:3''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} [[Cruzeiro Esporte Clube|Cruzeiro]]
+|1:0
+|0:1
+!Brasil II
+
+|- align="center"
+|7 y 14 de septiembre
+| align="right" |[[Botafogo de Futebol e Regatas|Botafogo]] {{bandera|Brasil}}
+| align="2" | '''2:2''' <small>('''2:4''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" |{{bandera|Brasil}} '''[[Fluminense Football Club|Fluminense]]'''
+|1:1
+|1:1
+!Brasil III
+
+|- align="center" style="background:#F5FAFF;"
+|6 y 13 de septiembre
+| align="right" |[[Paraná Clube|Paraná]] {{bandera|Brasil}}
+| align="2" | '''1:4'''
+| align="left" |{{bandera|Brasil}} '''[[Club Athletico Paranaense|Atlético Paranaense]]'''
+|1:3
+|0:1
+!Brasil IV
+
+|- align="center"
+|5 y 19 de septiembre
+| align="right" |[[Club Libertad|Libertad]] {{bandera|Paraguay|1990}}
+| align="2" | '''2:4'''
+| align="left" |{{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]'''
+|1:2
+|1:2
+!Octavofinalista 1
+
+|- align="center" style="background:#F5FAFF;"
+|5 y 21 de septiembre
+| align="right" |<small>([[Regla del gol de visitante|v.]])</small> '''[[Deportes Tolima]]''' {{bandera|Colombia}}
+| align="2" | '''2:2'''
+| align="left" |{{bandera|Venezuela}} [[Club Deportivo Mineros de Guayana|Mineros de Guayana]]
+|0:0
+|2:2
+!Octavofinalista 2
+
+|- align="center"
+|12 y 21 de septiembre
+| align="right" |[[Universitario de Sucre]] {{bandera|Bolivia}}
+| align="2" | '''2:5'''
+| align="left" |{{bandera|Ecuador|1900}} '''[[Club Deportivo El Nacional|El Nacional]]'''
+|1:3
+|1:2
+!Octavofinalista 3
+
+|- align="center" style="background:#F5FAFF;"
+|12 y 19 de septiembre
+| align="right" |[[Club Deportivo Coronel Bolognesi|Coronel Bolognesi]] {{bandera|Perú}}
+| align="2" | '''2:2'''
+| align="left" |'''{{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]''''<small>([[Regla del gol de visitante|v.]])</small> 
+|2:1
+|0:1
+!Octavofinalista 4
+
+|}
+
+== Fases finales ==
+Las fases finales estuvieron compuestas por cuatro etapas: octavos de final, cuartos de final, semifinales y final. A los 10 ganadores de la primera fase se les sumaron [[Club Atlético Boca Juniors|Boca Juniors]], [[Club Atlético River Plate|River Plate]], [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]] —todos de Argentina—, [[Deportivo Toluca Fútbol Club|Toluca]], [[Club de Fútbol Pachuca|Pachuca]] —ambos de México— y [[Liga Deportiva Alajuelense|Alajuelense]] —de Costa Rica—. A los fines de establecer las llaves de los octavos de final, se tuvo en cuenta la denominación que se le asignó a cada equipo; en el caso de los cuadros que clasificaron desde la primera fase, dicha denominación fue determinada por el nombre del cruce que ganaron en aquella instancia. De esa manera, el Octavofinalista 1 enfrentó al Octavofinalista 8, el 2 al 7, el 3 al 6, y el 4 al 5; mientras que los clasificados de Argentina y Brasil se enfrentaron, respectivamente, el I de un país ante el IV del otro, el II ante el III, el III ante el II, y el IV ante el I.
+
+{{columnas}}
+=== Clasificados automáticamente a octavos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="50%" |Equipo
+! width="50%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''Argentina I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|'''Argentina II'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|CRC}} [[Liga Deportiva Alajuelense|Alajuelense]]
+|'''Octavofinalista 5'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|MEX}} [[Deportivo Toluca Fútbol Club|Toluca]]
+|'''Octavofinalista 6'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|MEX}} [[Club de Fútbol Pachuca|Pachuca]]
+|'''Octavofinalista 7'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''Octavofinalista 8'''
+|}
+{{nueva columna}}
+=== Clasificados de la primera fase ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="80%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="50%" |Equipo
+! width="50%" |Clasificado como
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|'''Argentina III'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+|'''Argentina IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+|'''Brasil I'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[Santos Futebol Clube|Santos]]
+|'''Brasil II'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|BRA}} [[Fluminense Football Club|Fluminense]]
+|'''Brasil III'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]]
+|'''Brasil IV'''
+|- align=center bgcolor=#F5FAFF
+| style="text-align:left;"|{{bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''Octavofinalista 1'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|COL}} [[Deportes Tolima]]
+|'''Octavofinalista 2'''
+|- align=center bgcolor=#F5FAFF
+|style="text-align:left;"|{{bandera|ECU|1900}} [[Club Deportivo El Nacional|El Nacional]]
+|'''Octavofinalista 3'''
+|- align=center bgcolor=#D0E7FF
+|style="text-align:left;"|{{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''Octavofinalista 4'''
+|}
+{{fin columnas}}
+
+=== Cuadro de desarrollo ===
+{{#invoke:RoundN|N16
+|style=white-space:nowrap|manualboldmatch=yes|widescore=yes|score-boxes=3|team-width=200|score-width=25;25;37|3rdplace=no|omit_blanks=yes
+| RD1 = Octavos de final<br />26 de septiembre al 12 de octubre 
+| RD2 = Cuartos de final<br />19 de octubre al 1 de noviembre
+| RD3 = Semifinales<br />15 de noviembre al 22 de noviembre 
+| RD4 = Final<br />30 de noviembre y 13 de diciembre 
+<!--Fecha-Lugar|Equipo 1|Marcador 1|Equipo 2|Marcador 2-->
+<!--Octavos de final-->
+|| {{bandera|Ecuador}} [[Club Deportivo El Nacional|El Nacional]] | 0 | 0 | '''0''' | {{bandera|México}} '''[[Deportivo Toluca|Toluca]]''' | 1 | 2 | '''3'''
+|| {{bandera|Brasil}} [[Santos Fútbol Club|Santos]] | 0 | 1 | '''1''' | {{bandera|Argentina}} '''[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]''' | 3 | 0 | '''3'''
+||{{bandera|Argentina}} '''[[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]]'''| 1 | 2 | '''3'''| {{bandera|Brasil}} [[Fluminense Football Club|Fluminense]] | 1 | 0 | '''1'''
+|| {{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]''' | 4
+ | 7 | '''11''' | {{bandera|Costa Rica}} [[Liga Deportiva Alajuelense|Alajuelense]] | 0 | 2 | '''2'''
+|| {{bandera|México}} '''[[Club de Fútbol Pachuca|Pachuca]]''' | 1 | 5 | '''6''' | {{bandera|Colombia}} [[Club Deportes Tolima|Deportes Tolima]] | 2 | 1 | '''3'''
+|| {{bandera|Argentina}} '''[[Club Atlético Lanús|Lanús]]''' | 0 | 4 | '''4''' | {{bandera|Brasil}} [[Sport Club Corinthians Paulista|Corinthians]] | 0 | 2 | '''2'''
+|| {{bandera|Brasil}} '''[[Club Athletico Paranaense|Athletico Paranaense]]''' | 1 | 2 | '''3''' | {{bandera|Argentina}} [[Club Atlético River Plate|River Plate]] | 0 | 2 | '''2'''
+|| {{bandera|Argentina}} [[Club Atlético Boca Juniors|Boca Juniors]] | 1 | 2 | '''3 {{small|(1)}}''' | {{bandera|Uruguay}} '''[[Club Nacional de Football|Nacional]]''' {{small|([[Tiros desde el punto penal|p.]])}} | 2 | 1 | '''3 {{small|(3)}}'''
+<!--Cuartos de final-->
+|| {{bandera|México}} '''[[Deportivo Toluca|Toluca]]''' <small>([[Regla del gol de visitante|v.]])</small> | 1 | 2 | '''3''' | {{bandera|Argentina}} [[Club Atlético San Lorenzo de Almagro|San Lorenzo]] | 3 | 0 | '''3'''
+|| {{bandera|Argentina}} [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima (LP)]] | 1 | 0 | '''1''' | {{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]''' | 4 | 2 | '''6'''
+|| {{bandera|México}} '''[[Club de Fútbol Pachuca|Pachuca]]''' | 3 | 2 | '''5''' | {{bandera|Argentina}} [[Club Atlético Lanús|Lanús]] | 0 | 2 | '''2'''
+|| {{bandera|Brasil}} '''[[Club Athletico Paranaense|Athletico Paranaense]]''' | 2 | 4 | '''6''' | {{bandera|Uruguay}} [[Club Nacional de Football|Nacional]] | 1 | 1 | '''2'''
+<!--Semifinales-->
+|| {{bandera|México}} [[Deportivo Toluca|Toluca]] | 1 | 0 | '''1''' | {{bandera|Chile}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]''' | 2 | 2 | '''4'''
+|| {{bandera|México}} '''[[Club de Fútbol Pachuca|Pachuca]]''' | 1 | 4 | '''5''' | {{bandera|Brasil}} [[Club Athletico Paranaense|Athletico Paranaense]] | 0 | 1 | '''1'''
+<!--Final-->
+|| {{bandera|Chile}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] | 1 | 1 | '''2''' | {{bandera|México}} '''[[Club de Fútbol Pachuca|Pachuca]]''' | 1 | 2 | '''3'''
+}}
+
+*<small>Nota: En cada llave, el equipo que ocupa la primera línea es el que definió la serie como local.</small>
+*<small>Nota 2: El Reglamento de la competición establece: ''El Torneo deberá indefectiblemente finalizar en un país perteneciente al continente sudamericano. Para tal caso, de llegar a las finales un equipo que no pertenece al continente sudamericano, deberá indefectiblemente jugar su primer partido de local''. En consecuencia, Pachuca debió disputar su primer partido en la final en condición de local.</small>
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Sudamericana 2006|l1=Octavos de final de la Copa Sudamericana 2006}}
+{{Partido
+|local = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paíslocal = MEX
+|resultado = 1:0''' (0:0)
+|visita = [[Club Deportivo El Nacional|El Nacional]]
+|paísvisita = ECU
+|etpaísvisita = 1900
+|fecha = 26 de septiembre de 2006
+|estadio = [[Estadio Nemesio Díez]]
+|refe = {{árbitro|URU|Roberto Silvera}}
+|ciudad = [[Toluca de Lerdo|Toluca]]
+|goleslocal = [[Carlos Esquivel|Esquivel]] {{gol|71}}
+|golesvisita = 
+|reporte = 
+|asistencia=26.400}}
+{{Partido
+|local = [[Club Deportivo El Nacional|El Nacional]]
+|paíslocal = ECU
+|etpaíslocal = 1900
+|resultado = 0:2''' (0:2)
+|visita = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paísvisita = MEX
+|fecha = 10 de octubre de 2006
+|estadio = [[Estadio Olímpico Atahualpa]]
+|refe = {{árbitro|PER|Víctor Hugo Rivera|Víctor Rivera}}
+|ciudad = [[Quito]]
+|goleslocal = 
+|golesvisita = [[Sinha]] {{gol|21}} <br> [[Vicente Sánchez|Sánchez]] {{gol|34}}
+|reporte = 
+|asistencia=31.700}}
+<br>
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 3:0''' (1:0)
+|visita = [[Santos Futebol Clube|Santos]]
+|paísvisita = BRA
+|fecha = 27 de septiembre de 2006
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Hernán Adrián González|González]] {{gol|6}} <br> [[Roberto Jiménez Jiménez|Jiménez]] {{gol|59}} <br> [[Ezequiel Lavezzi|Lavezzi]] {{gol|66}}
+|golesvisita = 
+|reporte = 
+|asistencia=17.800}}
+{{Partido
+|local = [[Santos Futebol Clube|Santos]]
+|paíslocal = BRA
+|resultado = 1:0''' (1:0)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|fecha = 11 de octubre de 2006
+|estadio = [[Estadio Urbano Caldeira]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Santos]]
+|goleslocal = [[Wellington Paulista]] {{gol|37}}
+|golesvisita = 
+|reporte = 
+|asistencia=6.824}}
+<br>
+{{Partido
+|local = [[Fluminense Football Club|Fluminense]]
+|paíslocal = BRA
+|resultado = 1:1''' (0:0)
+|visita = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paísvisita = ARG
+|fecha = 28 de septiembre de 2006
+|estadio = [[Estadio de Maracaná]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[Río de Janeiro]]
+|goleslocal = [[Cláudio Pitbull|Pitbull]] {{gol|90}}
+|golesvisita = [[Diego Herner|Herner]] {{gol|82}}
+|reporte = 
+|asistencia=40.191}}
+{{Partido
+|local = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paíslocal = ARG
+|resultado = 2:0''' (1:0)
+|visita = [[Fluminense Football Club|Fluminense]]
+|paísvisita = BRA
+|fecha = 11 de octubre de 2006
+|estadio = [[Estadio Ciudad de La Plata]]
+|refe = {{árbitro|CHI|Rubén Selman}}
+|ciudad = [[La Plata]]
+|goleslocal = [[Moacir Bastos|Tuta]] {{autogol|45+1}} <br> [[Santiago Silva|Silva]] {{gol|66}}
+|golesvisita = 
+|reporte = 
+|asistencia=38.000}}
+<br>
+{{Partido
+|local = [[Liga Deportiva Alajuelense|Alajuelense]]
+|paíslocal = CRC
+|resultado = 0:4''' (0:1)
+|visita = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita = CHI
+|fecha = 4 de octubre de 2006
+|estadio = [[Estadio Alejandro Morera Soto]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Alajuela (ciudad)|Alajuela]]
+|goleslocal = 
+|golesvisita = [[Matías Fernández|Mati Fernández]] {{gol|36}} {{penal|79}} <br> [[José Luis Jerez|Jerez]] {{gol|65}} <br> [[Humberto Suazo|Suazo]] {{gol|67}}
+|reporte = 
+|asistencia=3.050}}
+{{Partido
+|local = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal = CHI
+|resultado = 7:2''' (4:2)
+|visita = [[Liga Deportiva Alajuelense|Alajuelense]]
+|paísvisita = CRC
+|fecha = 10 de octubre de 2006
+|estadio = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|refe = {{árbitro|BOL|Iván Gamboa}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Humberto Suazo|Suazo]] {{gol|3||11}} <br> [[Arturo Vidal|Vidal]] {{gol|17||45+1}} <br> [[Alexis Sánchez|Sánchez]] {{gol|63}} <br> [[Matías Fernández|Mati Fernández]] {{gol|69}} <br> [[Miguel Aceval|Aceval]] {{gol|86}}
+|golesvisita = [[Rolando Fonseca|Fonseca]] {{gol|10||33}}
+|reporte = 
+|asistencia=12.000}}
+<br>
+{{Partido
+|local = [[Deportes Tolima]]
+|paíslocal = COL
+|resultado = 2:1''' (1:1)
+|visita = [[Club de Fútbol Pachuca|Pachuca]]
+|paísvisita = MEX
+|fecha = 26 de septiembre de 2006
+|estadio = [[Estadio Manuel Murillo Toro]]
+|refe = {{árbitro|VEN|Manuel Andarcia}}
+|ciudad = [[Ibagué]]
+|goleslocal = [[John Charria|Charria]] {{gol|2}} <br> [[Dúmar Rueda|Rueda]] {{gol|61}}
+|golesvisita = [[Gabriel Caballero|Caballero]] {{gol|34}}
+|reporte = 
+|asistencia=7.000}}
+{{Partido
+|local = [[Club de Fútbol Pachuca|Pachuca]]
+|paíslocal = MEX
+|resultado = 5:1''' (1:0)
+|visita = [[Deportes Tolima]]
+|paísvisita = COL
+|fecha = 10 de octubre de 2006
+|estadio = [[Estadio Hidalgo]]
+|refe = {{árbitro|ECU|var=1900|Mauricio Reinoso}}
+|ciudad = [[Pachuca de Soto|Pachuca]]
+|goleslocal = [[Paul Aguilar|Aguilar]] {{gol|11}} <br> [[Juan Carlos Cacho|Cacho]] {{gol|46}} <br> [[Aquivaldo Mosquera|Mosquera]] {{gol|61}} <br> [[Andrés Chitiva|Chitiva]] {{gol|80}} <br> [[Marvin Cabrera|Cabrera]] {{gol|84}}
+|golesvisita = [[César Rivas|Rivas]] {{gol|63}}
+|reporte = 
+|asistencia=20.000}}
+<br>
+{{Partido
+|local = [[Sport Club Corinthians Paulista|Corinthians]]
+|paíslocal = BRA
+|resultado = 0:0
+|visita = [[Club Atlético Lanús|Lanús]]
+|paísvisita = ARG
+|fecha = 27 de septiembre de 2006
+|estadio = [[Estadio Morumbi]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[São Paulo]]
+|goleslocal = 
+|golesvisita = 
+|reporte = 
+|asistencia=7.125}}
+{{Partido
+|local = [[Club Atlético Lanús|Lanús]]
+|paíslocal = ARG
+|resultado = 4:2''' (3:1)
+|visita = [[Sport Club Corinthians Paulista|Corinthians]]
+|paísvisita = BRA
+|fecha = 11 de octubre de 2006
+|estadio = [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Lanús]]
+|goleslocal = [[Mauricio Martín Romero|Romero]] {{gol|16}} <br> [[Maximiliano Velázquez|Velázquez]] {{gol|17}} <br> [[Marcos Aguirre|Aguirre]] {{gol|36}} <br> [[Rodrigo Archubi|Archubi]] {{gol|74}}
+|golesvisita = [[Nádson Rodrigues de Souza|Nádson]] {{gol|1}} <br> [[Renato Eduardo de Oliveira Ribeiro|Renato]] {{gol|55}}
+|reporte = 
+|asistencia=22.000}}
+<br>
+{{Partido
+|local = [[Club Atlético River Plate|River Plate]]
+|paíslocal = ARG
+|resultado = 0:1''' (0:1)
+|visita = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paísvisita = BRA
+|fecha = 27 de septiembre de 2006
+|estadio = [[Estadio Antonio Vespucio Liberti|Estadio Monumental]]
+|refe = {{árbitro|URU|Martín Vázquez (árbitro)|Martín Vázquez}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = 
+|golesvisita = [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]] {{gol|25}}
+|reporte = 
+|asistencia=20.000}}
+{{Partido
+|local = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paíslocal = BRA
+|resultado = 2:2''' (1:0)
+|visita = [[Club Atlético River Plate|River Plate]]
+|paísvisita = ARG
+|fecha = 12 de octubre de 2006
+|estadio = [[Estadio Joaquim Américo Guimarães|Kyocera Arena]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Curitiba]]
+|goleslocal = [[Jancarlos de Oliveira Barros|Jancarlos]] {{gol|40||77}}
+|golesvisita = [[Marcelo Gallardo|Gallardo]] {{penal|50}} <br> [[Danilo Gerlo|Gerlo]] {{gol|79}}
+|reporte = 
+|asistencia=22.558}}
+<br>
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 2:1''' (2:1)
+|visita = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paísvisita = ARG
+|fecha = 28 de septiembre de 2006
+|estadio = [[Estadio Centenario]]
+|refe = {{árbitro|CHI|Rubén Selman}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Marcelo Tejera|Tejera]] {{gol|18}} <br> [[Diego Alonso|Alonso]] {{gol|21}}
+|golesvisita = [[Rodrigo Palacio|Palacio]] {{gol|45+1}}
+|reporte = 
+|asistencia=50.000}}
+{{Partido
+|local = [[Club Atlético Boca Juniors|Boca Juniors]]
+|paíslocal = ARG
+|resultado = 2:1''' (0:1)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 12 de octubre de 2006
+|estadio = [[Estadio Padre Ernesto Martearena]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Ciudad de Salta|Salta]]
+|goleslocal = [[Rodrigo Palacio|Palacio]] {{gol|55}} <br> [[Nicolás Bertolo|Bertolo]] {{gol|84}}
+|golesvisita = [[Diego Perrone|Perrone]] {{gol|15}}
+|reporte = 
+|penaltis1 = [[Guillermo Barros Schelotto|Barros Schelotto]] {{pengol}} <br> [[Juan Krupoviesa|Krupoviesa]] {{penfallo|atajado}} <br> [[Claudio Morel Rodríguez|Morel Rodríguez]] {{penfallo|travesaño}} <br> [[Fernando Gago|Gago]] {{penfallo|atajado}}
+|resultado penalti = 1:3
+|penaltis2 = {{pengol}} [[Javier Delgado|Delgado]] <br> {{penfallo|desviado}} [[Jorge Andrés Martínez|Martínez]] <br> {{pengol}} [[Jorge Brítez|Brítez]] <br> {{pengol}} [[Diego Arismendi|Arismendi]]
+|asistencia=22.000}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Sudamericana 2006|l1=Cuartos de final de la Copa Sudamericana 2006}}
+{{Partido
+|local = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paíslocal = ARG
+|resultado = 3:1''' (1:0)
+|visita = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paísvisita = MEX
+|fecha = 25 de octubre de 2006
+|estadio = [[Estadio Pedro Bidegain|Estadio Nuevo Gasómetro]]
+|refe = {{árbitro|PAR|var=1990|Carlos Amarilla}}
+|ciudad = [[Buenos Aires]]
+|goleslocal = [[Pablo Quatrocchi|Quatrocchi]] {{gol|17}} <br> [[Andrés Silvera|Silvera]] {{gol|51||56}}
+|golesvisita = [[Bruno Marioni|Marioni]] {{gol|74}}
+|reporte = https://web.archive.org/web/20061027042302/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2006&dv=C&flt=2&id=56&slangab=S
+|asistencia=12.000}}
+{{Partido
+|local = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paíslocal = MEX
+|resultado = 2:0''' (1:0)
+|visita = [[Club Atlético San Lorenzo de Almagro|San Lorenzo]]
+|paísvisita = ARG
+|fecha = 1 de noviembre de 2006
+|estadio = [[Estadio Nemesio Díez]]
+|refe = {{árbitro|URU|Jorge Larrionda}}
+|ciudad = [[Toluca de Lerdo|Toluca]]
+|goleslocal = [[Carlos Adrián Morales|Morales]] {{gol|4}} <br> [[Paulo César Da Silva|Da Silva]] {{gol|68}}
+|golesvisita = 
+|reporte = 
+|asistencia=20.000}}
+<br>
+{{Partido
+|local = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal = CHI
+|resultado = 4:1''' (1:1)
+|visita = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paísvisita = ARG
+|fecha = 19 de octubre de 2006
+|estadio = [[Estadio Monumental (Chile)|Estadio Monumental]]
+|refe = {{árbitro|PAR|var=1990|Carlos Manuel Torres|Carlos Torres}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Matías Fernández|Mati Fernández]] {{penal|24}} <br> [[Humberto Suazo|Suazo]] {{gol|47||66||75}}
+|golesvisita = [[Matías Escobar|Escobar]] {{gol|38}}
+|reporte = 
+|suceso = Partido suspendido a los 86' por un piedrazo arrojado contra [[Nicolás Alejandro Cabrera|Nicolás Cabrera]], futbolista de Gimnasia y Esgrima La Plata.<ref>{{cita web|url=http://www.tycsports.com/noticias/Colo-Colo-goleaba-a-Gimnasia-y-se-suspendio-20061019-0002.html|título=Colo Colo goleaba a Gimnasia y se suspendió|editor=Mediotiempo.com|fecha=19 de octubre de 2006|fechaacceso=|urlarchivo=https://web.archive.org/web/20151026030458/http://www.tycsports.com/noticias/Colo-Colo-goleaba-a-Gimnasia-y-se-suspendio-20061019-0002.html|fechaarchivo=26 de octubre de 2015}}</ref> Al día siguiente, [[Confederación Sudamericana de Fútbol|Conmebol]] confirmó la victoria de Colo-Colo por 4-1.<ref>{{cita web|url=http://edant.clarin.com/diario/2006/10/20/um/m-01293860.htm|título=La Conmebol advierte que Gimnasia (LP) "no puede apelar" el fallo|editor=[[Clarín (periódico)|Diario Clarín]]|fecha=20 de octubre de 2006|fechaacceso=}}</ref>
+|asistencia=30.000}}
+{{Partido
+|local = [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima La Plata]]
+|paíslocal = ARG
+|resultado = 0:2''' (0:0)
+|visita = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita = CHI
+|fecha = 26 de octubre de 2006
+|estadio = [[Estadio Ciudad de La Plata]]
+|refe = {{árbitro|COL|Óscar Ruiz}}
+|ciudad = [[La Plata]]
+|goleslocal =
+|golesvisita = [[Humberto Suazo|Suazo]] {{penal|48}} <br> [[Gonzalo Fierro|Fierro]] {{gol|79}}
+|reporte = 
+|asistencia=38.438}}
+<br>
+{{Partido
+|local = [[Club Atlético Lanús|Lanús]]
+|paíslocal = ARG
+|resultado = 0:3''' (0:1)
+|visita = [[Club de Fútbol Pachuca|Pachuca]]
+|paísvisita = MEX
+|fecha = 18 de octubre de 2006
+|estadio = [[Estadio Ciudad de Lanús-Néstor Díaz Pérez|Estadio Ciudad de Lanús]]
+|refe = {{árbitro|BRA|Carlos Simon}}
+|ciudad = [[Lanús]]
+|goleslocal = 
+|golesvisita = [[Juan Carlos Cacho|Cacho]] {{gol|16||86}} <br> [[Christian Giménez|Giménez]] {{gol|79}}
+|reporte = 
+|asistencia=21.000}}
+{{Partido
+|local = [[Club de Fútbol Pachuca|Pachuca]]
+|paíslocal = MEX
+|resultado = 2:2''' (0:0)
+|visita = [[Club Atlético Lanús|Lanús]]
+|paísvisita = ARG
+|fecha = 31 de octubre de 2006
+|estadio = [[Estadio Hidalgo]]
+|refe = {{árbitro|URU|Roberto Silvera}}
+|ciudad = [[Pachuca de Soto|Pachuca]]
+|goleslocal = [[Christian Giménez|Giménez]] {{gol|57}} <br> [[Damián Álvarez|Álvarez]] {{gol|90+3}}
+|golesvisita = [[Diego Valeri|Valeri]] {{gol|55}} <br> [[Santiago Biglieri|Biglieri]] {{gol|63}}
+|reporte = 
+|asistencia=8.906}}
+<br>
+{{Partido
+|local = [[Club Nacional de Football|Nacional]]
+|paíslocal = URU
+|resultado = 1:2''' (0:0)
+|visita = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paísvisita = BRA
+|fecha = 19 de octubre de 2006
+|estadio = [[Estadio Gran Parque Central]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Montevideo]]
+|goleslocal = [[Diego Alonso|Alonso]] {{gol|56}}
+|golesvisita = [[Pedro Oldoni|Oldoni]] {{gol|74}} <br> [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]] {{penal|89}}
+|reporte = 
+|asistencia=20.000}}
+{{Partido
+|local = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paíslocal = BRA
+|resultado = 4:1''' (2:0)
+|visita = [[Club Nacional de Football|Nacional]]
+|paísvisita = URU
+|fecha = 25 de octubre de 2006
+|estadio = [[Estadio Joaquim Américo Guimarães|Kyocera Arena]]
+|refe = {{árbitro|CHI|Carlos Chandía}}
+|ciudad = [[Curitiba]]
+|goleslocal = [[João Leonardo de Paula Reginato|João Leonardo]] {{gol|29}} <br> [[Dênis Marques|Marques]] {{gol|36}} <br> [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]] {{gol|56}} <br> [[Danilo Larangeira|Danilo]] {{gol|68}}
+|golesvisita = [[Jorge Brítez|Brítez]] {{gol|50}}
+|reporte = https://web.archive.org/web/20061027042213/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2006&dv=C&flt=1&id=57&slangab=S
+|asistencia=20.017}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Sudamericana 2006|l1=Semifinales de la Copa Sudamericana 2006}}
+{{Partido
+|local = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal = CHI
+|resultado = 2:1''' (2:1)
+|visita = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paísvisita = MEX
+|fecha = 16 de noviembre de 2006
+|estadio = [[Estadio Nacional de Chile|Estadio Nacional]]
+|refe = {{árbitro|PER|Víctor Hugo Rivera|Víctor Rivera}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Humberto Suazo|Suazo]] {{penal|13}} <br> [[Matías Fernández|Mati Fernández]] {{penal|32}}
+|golesvisita = [[Bruno Marioni|Marioni]] {{gol|24}}
+|reporte = 
+|asistencia=60.000}}
+{{Partido
+|local = [[Deportivo Toluca Fútbol Club|Toluca]]
+|paíslocal = MEX
+|resultado = 0:2''' (0:1)
+|visita = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita = CHI
+|fecha = 21 de noviembre de 2006
+|estadio = [[Estadio Nemesio Díez]]
+|refe = {{árbitro|VEN|Gustavo Alonso Brand|Gustavo Brand}}
+|ciudad = [[Toluca de Lerdo|Toluca]]
+|goleslocal = 
+|golesvisita = [[Matías Fernández|Mati Fernández]] {{gol|14||58}}
+|reporte = 
+|asistencia=32.000}}
+<br>
+{{Partido
+|local = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paíslocal = BRA
+|resultado = 0:1''' (0:0)
+|visita = [[Club de Fútbol Pachuca|Pachuca]]
+|paísvisita = MEX
+|fecha = 15 de noviembre de 2006
+|estadio = [[Estadio Joaquim Américo Guimarães|Kyocera Arena]]
+|refe = {{árbitro|ARG|Claudio Martín}}
+|ciudad = [[Curitiba]]
+|goleslocal = 
+|golesvisita = [[Damián Álvarez|Álvarez]] {{gol|85}}
+|reporte = 
+|asistencia=19.872}}
+{{Partido
+|local = [[Club de Fútbol Pachuca|Pachuca]]
+|paíslocal = MEX
+|resultado = 4:1''' (0:1)
+|visita = [[Club Athletico Paranaense|Atlético Paranaense]]
+|paísvisita = BRA
+|fecha = 22 de noviembre de 2006
+|estadio = [[Estadio Hidalgo]]
+|refe = {{árbitro|ECU|var=1900|Mauricio Reinoso}}
+|ciudad = [[Pachuca de Soto|Pachuca]]
+|goleslocal = [[Christian Giménez|Giménez]] {{penal|58}} {{gol|64}}<br> [[Damián Álvarez|Álvarez]] {{gol|75}} <br> [[Juan Carlos Cacho|Cacho]] {{gol|81}}
+|golesvisita = [[David Ferreira|Ferreira]] {{gol|42}}
+|reporte = 
+|asistencia=15.000}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Sudamericana 2006|l1=Final de la Copa Sudamericana 2006}}
+{{Partido
+|local = [[Club de Fútbol Pachuca|Pachuca]]
+|paíslocal = MEX
+|resultado = 1:1''' (1:0)
+|visita = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paísvisita = CHI
+|fecha = 30 de noviembre de 2006
+|estadio = [[Estadio Hidalgo]]
+|refe = {{árbitro|URU|Roberto Silvera}}
+|ciudad = [[Pachuca de Soto|Pachuca]]
+|goleslocal = [[Andrés Chitiva|Chitiva]] {{gol|27}}
+|golesvisita = [[Humberto Suazo|Suazo]] {{gol|50}}
+|reporte = 
+|asistencia=25.000}}
+{{Partido
+|local = [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|paíslocal = CHI
+|resultado = 1:2''' (1:0)
+|visita = [[Club de Fútbol Pachuca|Pachuca]]
+|paísvisita = MEX
+|fecha = 13 de diciembre de 2006
+|estadio = [[Estadio Nacional de Chile|Estadio Nacional]]
+|refe = {{árbitro|ARG|Héctor Baldassi}}
+|ciudad = [[Santiago de Chile|Santiago]]
+|goleslocal = [[Humberto Suazo|Suazo]] {{gol|35}}
+|golesvisita = [[Gabriel Caballero|Caballero]] {{gol|53}} <br> [[Christian Giménez|Giménez]] {{gol|72}}
+|reporte = https://web.archive.org/web/20080930093446/http://www.conmebol.com/competiciones_evento_reporte.jsp?evento=1154&ano=2006&dv=Z&flt=1&id=66&slangab=S
+|asistencia=65.000}}
+<br/>
+{{Campeón
+|equipo = [[Club de Fútbol Pachuca|Pachuca]]
+|bandera = México
+|orden = 1
+|logo=CopaSulamericana2002-.png}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=D0E7FF
+| {{bandera|CHI}} '''[[Humberto Suazo]]'''
+| {{bandera|CHI}} '''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+| align=center|'''10'''
+|-
+| {{bandera|CHI}} [[Matías Fernández]]
+| {{bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+| align=center|9
+|-
+| {{bandera|ARG}} [[Christian Giménez]]
+| {{bandera|MEX}} [[Club de Fútbol Pachuca|Pachuca]]
+| align=center|5
+|-
+| {{bandera|BRA}} [[Marcos Aurélio de Oliveira Lima|Marcos Aurélio]]
+| {{bandera|BRA}} [[Club Athletico Paranaense|Atlético Paranaense]]
+| align=center|4
+|-
+| {{bandera|MEX}} [[Juan Carlos Cacho]]
+| {{bandera|MEX}} [[Club de Fútbol Pachuca|Pachuca]]
+| align=center|4
+|-
+| {{bandera|ARG}} [[Rodrigo Archubi]]
+| {{bandera|ARG}} [[Club Atlético Lanús|Lanús]]
+| align=center|4
+|}
+
+== Véase también ==
+* [[Copa Libertadores 2006]]
+* [[Recopa Sudamericana 2007]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [https://web.archive.org/web/20080805015027/http://www.conmebol.com/competiciones_evento_index_previo.jsp?evento=1154&ano=2006&slangab=S Copa Sudamericana 2006] en Conmebol.com
+* [http://www.rsssf.com/sacups/sudamcup06.html Copa Sudamericana 2006] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+
+{{Sucesión
+| predecesor = [[Copa Sudamericana 2005|2005]]
+| título     = Copa Sudamericana 2006
+| período    = V edición
+| sucesor    = [[Copa Sudamericana 2007|2007]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Sudamericana 2006| ]]
+[[Categoría:Temporadas de la Copa Sudamericana]]

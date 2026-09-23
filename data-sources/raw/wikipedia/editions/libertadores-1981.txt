@@ -1,0 +1,1054 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| tipo = 
+| imagen = Libertadores1981.png
+| imagen_tamaño = 
+| imagen_pie = El [[Clube de Regatas do Flamengo]], de Brasil, se consagró campeón de la [[Copa Libertadores de América]] por 1.ª vez
+| recinto = 
+| ubicación = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| participantes = 21 de 10 países
+| calificados = 
+| plantillapais = [[Archivo:CONMEBOL orthographic projection Mapa CONMEBOL.png|20px]] [[América del Sur]]
+| fecha de inicio = {{fecha2|18|3|1981}}
+| fecha de cierre = {{fecha2|23|11|1981}}
+| edición = XXII
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| campeón = '''{{bandera|BRA|1968}} [[Clube de Regatas do Flamengo|Flamengo]]''' <small>({{ord|1.|er}} título)</small>
+| subcampeón = {{bandera|CHI}} [[Club de Deportes Cobreloa|Cobreloa]]
+| semifinalistas = {{bandera|COL}} [[Deportivo Cali]]<br> {{bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]<br> {{bandera|URU}} [[Club Nacional de Football|Nacional]]<br> {{bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+| titulotercero = Semifinalistas
+| partidos = 77
+| goles = 221 (2,87 por partido)
+| goleador = {{bandera|BRA|1968}} [[Zico]] (11 goles)<br><small>([[Clube de Regatas do Flamengo|Flamengo]])</small>
+| anterior = [[Copa Libertadores 1980]]
+| actual = Copa Libertadores 1981
+| siguiente = [[Copa Libertadores 1982]]
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 1981''' fue la vigésima segunda edición del torneo de clubes más importante de [[América del Sur]], organizado por la [[Confederación Sudamericana de Fútbol]], en la que participaron equipos de diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].
+
+[[Clube de Regatas do Flamengo|Flamengo]] de Brasil obtuvo su primer título en su primera participación en la competición, algo que no sucedía con un equipo debutante desde la consagración de [[Club Estudiantes de La Plata|Estudiantes]] en la edición de [[Copa Libertadores 1968|1968]]. Como campeón, el club brasileño jugó la [[Copa Intercontinental 1981]] ante [[Liverpool Football Club|Liverpool]] de [[Inglaterra]], y se clasificó a la segunda fase de la [[Copa Libertadores 1982]].
+
+== Formato ==
+La competición se disputó bajo el mismo formato que se utilizó ininterrumpidamente desde la edición de 1974. El campeón vigente accedió de manera directa a la segunda fase, mientras que los 20 equipos restantes disputaron la primera. En ella, los clubes fueron divididos en cinco grupos de 4 equipos cada uno de acuerdo a sus países de origen, de manera que los dos representantes de una misma asociación nacional debían caer en la misma zona. El ganador de cada uno de los cinco grupos clasificó a la segunda fase, uniéndose al campeón vigente, estableciéndose dos zonas de 3 equipos. El primer posicionado en cada una de ellas accedió a la final, que se llevó a cabo en encuentros de ida y vuelta, disputándose un partido de desempate en caso de ser necesario.
+
+{| class="wikitable" 
+! colspan="2" |
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Primera fase
+(20 equipos)
+|
+* 2 equipos de Argentina, Bolivia, Brasil, Chile, Colombia,<br>Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Segunda fase
+(6 equipos)
+|
+* 1 equipo, campeón de la Copa Libertadores 1980
+|
+* 5 equipos primeros de la Primera fase
+|-
+! colspan="2" |Final
+(2 equipos)
+|
+|
+* 2 equipos primeros de la Segunda fase
+|}
+
+== Equipos participantes ==
+<!-- Países en orden alfabético, clubes en orden de clasificación -->
+<small>En ''cursiva'' los equipos debutantes en el torneo.</small>
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width=70%
+|- bgcolor=#006699 style="color:white;"
+!width=20%|País
+!width=22%|Equipo
+!width=58%|Vía de clasificación
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Argentina|alt}} [[Asociación del Fútbol Argentino|Argentina]]'''<br><small>2 cupos</small>
+|[[Club Atlético River Plate|River Plate]]<br>[[Club Atlético Rosario Central|Rosario Central]]
+|Campeón del [[Campeonato de Primera División 1980 (Argentina)|Campeonato de Primera División 1980]]<br>Campeón del [[Campeonato Nacional 1980 (Argentina)|Campeonato Nacional 1980]]
+
+|- bgcolor=#DDEEFF
+||'''{{bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]'''<br><small>2 cupos</small>
+|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]<br>[[Club The Strongest|The Strongest]]
+|Campeón del [[Campeonato de Primera División 1980 (Bolivia)|Campeonato de Primera División 1980]]<br>Subcampeón del Campeonato de Primera División 1980
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Brasil|1968}} [[Confederación Brasileña de Fútbol|Brasil]]'''<br><small>2 cupos</small>
+|''[[Clube de Regatas do Flamengo|Flamengo]]''<br>[[Clube Atlético Mineiro|Atlético Mineiro]]
+|Campeón del [[Campeonato Brasileño de Fútbol 1980|Campeonato Brasileño de 1980]]<br>Subcampeón del Campeonato Brasileño de 1980
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]'''<br><small>2 cupos</small>
+|''[[Club de Deportes Cobreloa|Cobreloa]]''<br>[[Club Universidad de Chile|Universidad de Chile]]
+|Campeón del [[Primera División de Chile 1980|Campeonato de Primera División 1980]]<br>Ganador de la [[Liguilla Pre-Libertadores 1980 (Chile)|Liguilla Pre-Libertadores 1980]]
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]'''<br><small>2 cupos</small>
+|[[Junior de Barranquilla|Junior]]<br>[[Deportivo Cali]]
+|Campeón del [[Campeonato colombiano 1980|Campeonato Colombiano 1980]]<br>Subcampeón del Campeonato Colombiano 1980
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Ecuador|1900}} [[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br><small>2 cupos</small>
+|[[Barcelona Sporting Club|Barcelona]]<br>[[Club Técnico Universitario|Técnico Universitario]]
+|Campeón del [[Campeonato Ecuatoriano de Fútbol 1980|Campeonato Ecuatoriano de 1980]]<br>Subcampeón del Campeonato Ecuatoriano de 1980
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Paraguay|1954}} [[Asociación Paraguaya de Fútbol|Paraguay]]'''<br><small>2 cupos</small>
+|[[Club Olimpia|Olimpia]]<br>[[Club Cerro Porteño|Cerro Porteño]]
+|Campeón del [[Campeonato Paraguayo de Fútbol 1980|Campeonato Paraguayo de 1980]]<br>Subcampeón del Campeonato Paraguayo de 1980
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]'''<br><small>2 cupos</small>
+|[[Club Sporting Cristal|Sporting Cristal]]<br>''[[Club Atlético Torino|Atlético Torino]]''
+|Campeón del [[Campeonato Descentralizado 1980]]<br>Subcampeón del Campeonato Descentralizado 1980
+
+|- bgcolor=#F5FAFF
+|'''{{bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]'''<br><small>2 cupos + campeón vigente</small>
+|[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]<br>''[[Club Atlético Bella Vista|Bella Vista]]''
+|Campeón de la [[Copa Libertadores 1980]]<br>1.º puesto de la [[Campeonato Uruguayo de Primera División 1980#Liguilla Pre-Libertadores|Liguilla Pre-Libertadores de América de 1980]]<br>2.º puesto de la Liguilla Pre-Libertadores de América de 1980
+
+|- bgcolor=#DDEEFF
+|'''{{bandera|Venezuela|1954}} [[Federación Venezolana de Fútbol|Venezuela]]'''<br><small>2 cupos</small>
+|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]<br>[[Portuguesa Fútbol Club|Portuguesa]]
+|Campeón de la [[Primera División de Venezuela 1980]]<br>Subcampeón de la Primera División Venezolana 1980
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=580|caption=Localización de los equipos de la '''Copa Libertadores 1981'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-32.95|long=-60.65|label=<small>[[Club Atlético Rosario Central|{{Esd|Rosario Central}}]]</small>|position=top}}
+{{Location map~|América del Sur|lat=-34.599722|long=-58.381944|label=<small><br>[[Club Atlético River Plate|{{Esd|River Plate}}]]</small>|position=left}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.494167|long=-68.1475|label=<small>[[Club The Strongest|{{Esd|The Strongest}}]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-17.393542|long=-66.157014|label=<small>[[Club Deportivo Jorge Wilstermann|{{Esd|Jorge Wilstermann}}]]</small>|position=right}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>[[Clube de Regatas do Flamengo|Flamengo]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-19.891667|long=-43.947778|label=<small>[[Clube Atlético Mineiro|{{Esd|Atlético Mineiro}}]]</small>|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-22.466667|long=-68.916667|label=<small>[[Club de Deportes Cobreloa|Cobreloa]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small><br>[[Club Universidad de Chile|{{Esd|Universidad de Chile}}]]</small>|position=left}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=10.963889|long=-74.796389|label=<small>[[Junior de Barranquilla|Junior]]</small>|position=left}}
+{{Location map~|América del Sur|lat=3.44|long=-76.519722|label=<small>[[Deportivo Cali|{{Esd|Deportivo Cali}}]]</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-1.241667|long=-78.619722|label=<small>[[Club Técnico Universitario|{{Esd|Técnico Universitario}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>[[Barcelona Sporting Club|Barcelona]]</small>|position=left}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>[[Club Cerro Porteño|{{Esd|Cerro Porteño}}]]<br>[[Club Olimpia|Olimpia]]</small>|position=left}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-4.583333|long=-81.266667|label=<small>[[Club Atlético Torino|{{Esd|Atlético Torino}}]]</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-12.045833|long=-77.030556|label=<small>[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>[[Club Atlético Bella Vista|{{Esd|Bella Vista}}]]<br>[[Club Nacional de Football|Nacional]]<br>[[Club Atlético Peñarol|Peñarol]]</small>|position=right}}
+<!-- CLUBES DE VENEZUELA -->
+{{Location map~|América del Sur|lat=8.583333|long=-71.133333|label=<small><br>[[Estudiantes de Mérida Fútbol Club|{{Esd|Estudiantes de Mérida}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=9.559722|long=-69.201944|label=<small>[[Portuguesa Fútbol Club|Portuguesa]]</small>|position=right}}
+}}
+
+== Primera fase ==
+=== Grupo 1 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Colombia}} '''[[Deportivo Cali]]'''
+|'''8'''||6||4||0||2||10||6||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina|alt}} [[Club Atlético River Plate|River Plate]]
+|'''7'''||6||3||1||2||9||6||3
+|- align="center"
+|style="text-align:left;"|{{bandera|Argentina|alt}} [[Club Atlético Rosario Central|Rosario Central]]
+|'''6'''||6||3||0||3||11||7||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Junior de Barranquilla|Junior]]
+|'''3'''||6||1||1||4||3||14||–11
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Rosario (Argentina)|Rosario]]
+|align=right|[[Club Atlético Rosario Central|Rosario Central]]
+|0:1
+|align=left|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Barranquilla]]
+|align=right|'''[[Junior de Barranquilla|Junior]]'''
+|1:0
+|align=left|[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Barranquilla]]
+|align=right|[[Junior de Barranquilla|Junior]]
+|'''0:0'''
+|align=left|[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de marzo
+|[[Cali]]
+|align=right|'''[[Deportivo Cali]]'''
+|1:0
+|align=left|[[Club Atlético Rosario Central|Rosario Central]]
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Barranquilla]]
+|align=right|[[Junior de Barranquilla|Junior]]
+|1:2
+|align=left|'''[[Club Atlético Rosario Central|Rosario Central]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de abril
+|[[Cali]]
+|align=right|'''[[Deportivo Cali]]'''
+|2:1
+|align=left|[[Club Atlético River Plate|River Plate]]
+
+|- align=center bgcolor=#F5FAFF
+|9 de abril
+|[[Cali]]
+|align=right|'''[[Deportivo Cali]]'''
+|4:1
+|align=left|[[Junior de Barranquilla|Junior]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Buenos Aires]]
+|align=right|[[Club Atlético River Plate|River Plate]]
+|1:2
+|align=left|'''[[Deportivo Cali]]'''
+
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Rosario (Argentina)|Rosario]]
+|align=right|'''[[Club Atlético Rosario Central|Rosario Central]]'''
+|5:0
+|align=left|[[Junior de Barranquilla|Junior]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|3:0
+|align=left|[[Junior de Barranquilla|Junior]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de abril
+|[[Rosario (Argentina)|Rosario]]
+|align=right|'''[[Club Atlético Rosario Central|Rosario Central]]'''
+|2:1
+|align=left|[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de mayo
+|[[Buenos Aires]]
+|align=right|'''[[Club Atlético River Plate|River Plate]]'''
+|3:2
+|align=left|[[Club Atlético Rosario Central|Rosario Central]]
+|}
+|}
+
+=== Grupo 2 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Uruguay}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''11'''||6||5||1||0||13||3||10
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+|'''9'''||6||4||1||1||16||5||11
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|'''2'''||6||0||2||4||5||14||–9
+|- align="center"
+|style="text-align:left;"|{{bandera|Venezuela|1954}} [[Portuguesa Fútbol Club|Portuguesa]]
+|'''2'''||6||0||2||4||1||13||–12
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|25 de marzo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|3:1
+|align=left|[[Club Atlético Bella Vista|Bella Vista]]
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[Mérida (Venezuela)|Mérida]]
+|align=right|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|'''1:1'''
+|align=left|[[Portuguesa Fútbol Club|Portuguesa]]
+
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Acarigua]]
+|align=right|[[Portuguesa Fútbol Club|Portuguesa]]
+|0:1
+|align=left|'''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|22 de abril
+|[[Mérida (Venezuela)|Mérida]]
+|align=right|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|1:4
+|align=left|'''[[Club Atlético Bella Vista|Bella Vista]]'''
+
+|- align=center bgcolor=#F5FAFF
+|26 de abril
+|[[Acarigua]]
+|align=right|[[Portuguesa Fútbol Club|Portuguesa]]
+|0:4
+|align=left|'''[[Club Atlético Bella Vista|Bella Vista]]'''
+
+|- align=center bgcolor=#F5FAFF
+|26 de abril
+|[[Mérida (Venezuela)|Mérida]]
+|align=right|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|0:2
+|align=left|'''[[Club Atlético Peñarol|Peñarol]]'''
+
+|- align=center bgcolor=#F5FAFF
+|3 de mayo
+|[[Acarigua]]
+|align=right|[[Portuguesa Fútbol Club|Portuguesa]]
+|'''0:0'''
+|align=left|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|6 de mayo
+|[[Montevideo]]
+|align=right|[[Club Atlético Bella Vista|Bella Vista]]
+|'''0:0'''
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de mayo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|3:0
+|align=left|[[Portuguesa Fútbol Club|Portuguesa]]
+
+|- align=center bgcolor=#F5FAFF
+|13 de mayo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Bella Vista|Bella Vista]]'''
+|3:1
+|align=left|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de mayo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Bella Vista|Bella Vista]]'''
+|4:0
+|align=left|[[Portuguesa Fútbol Club|Portuguesa]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de mayo
+|[[Montevideo]]
+|align=right|'''[[Club Atlético Peñarol|Peñarol]]'''
+|4:2
+|align=left|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|}
+|}
+
+=== Grupo 3 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;" |{{bandera|Brasil|1968}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|'''8'''||6||2||4||0||14||9||5
+|- align="center"
+|style="text-align:left;"|{{bandera|Brasil|1968}} [[Clube Atlético Mineiro|Atlético Mineiro]]
+|'''8'''||6||2||4||0||8||6||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''4'''||6||1||2||3||9||12||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Paraguay|1954}} [[Club Olimpia|Olimpia]]
+|'''4'''||6||0||4||2||1||5||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|3 de julio
+|[[Belo Horizonte]]
+|align=right|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|'''2:2'''
+|align=left|[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de julio
+|[[Asunción]]
+|align=right|[[Club Cerro Porteño|Cerro Porteño]]
+|'''0:0'''
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de julio
+|[[Río de Janeiro]]
+|align=right|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|5:2
+|align=left|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|17 de julio
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|'''0:0'''
+|align=left|[[Clube Atlético Mineiro|Atlético Mineiro]]
+
+|- align=center bgcolor=#F5FAFF
+|21 de julio
+|[[Asunción]]
+|align=right|[[Club Cerro Porteño|Cerro Porteño]]
+|0:1
+|align=left|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+
+|- align=center bgcolor=#F5FAFF
+|24 de julio
+|[[Río de Janeiro]]
+|align=right|[[Clube de Regatas do Flamengo|Flamengo]]
+|'''1:1'''
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de julio
+|[[Belo Horizonte]]
+|align=right|'''[[Clube Atlético Mineiro|Atlético Mineiro]]'''
+|1:0
+|align=left|[[Club Olimpia|Olimpia]]
+
+|- align=center bgcolor=#F5FAFF
+|31 de julio
+|[[Belo Horizonte]]
+|align=right|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|'''2:2'''
+|align=left|[[Club Cerro Porteño|Cerro Porteño]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de agosto
+|[[Río de Janeiro]]
+|align=right|[[Clube de Regatas do Flamengo|Flamengo]]
+|'''2:2'''
+|align=left|[[Clube Atlético Mineiro|Atlético Mineiro]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de agosto
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|0:3
+|align=left|'''[[Club Cerro Porteño|Cerro Porteño]]'''
+
+|- align=center bgcolor=#F5FAFF
+|11 de agosto
+|[[Asunción]]
+|align=right|[[Club Cerro Porteño|Cerro Porteño]]
+|2:4
+|align=left|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|14 de agosto
+|[[Asunción]]
+|align=right|[[Club Olimpia|Olimpia]]
+|'''0:0'''
+|align=left|[[Clube de Regatas do Flamengo|Flamengo]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|21 de agosto
+|[[Goiânia]]
+|align=right|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|0:0{{refn|group=n.|Partido suspendido a los 35 minutos del primer tiempo, luego de que Atlético Mineiro quedara con 6 jugadores tras 5 expulsiones. Se le otorgó la victoria a Flamengo.}}
+|align=left|[[Clube Atlético Mineiro|Atlético Mineiro]]
+
+|}
+
+=== Grupo 4 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Bolivia}} '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|'''8'''||6||4||0||2||9||9||0
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club The Strongest|The Strongest]]
+|'''8'''||6||4||0||2||13||9||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[Barcelona Sporting Club|Barcelona]]
+|'''6'''||6||3||0||3||8||8||0
+|- align="center"
+|style="text-align:left;"|{{bandera|Ecuador|1900}} [[Club Técnico Universitario|Técnico Universitario]]
+|'''2'''||6||1||0||5||11||15||–4
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Cochabamba]]
+|align=right|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|3:2
+|align=left|[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|29 de marzo
+|[[Guayaquil]]
+|align=right|'''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+|align=left|[[Club Técnico Universitario|Técnico Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de abril
+|[[Ambato]]
+|align=right|[[Club Técnico Universitario|Técnico Universitario]]
+|1:2
+|align=left|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+
+|- align=center bgcolor=#F5FAFF
+|5 de abril
+|[[Guayaquil]]
+|align=right|'''[[Barcelona Sporting Club|Barcelona]]'''
+|2:1
+|align=left|[[Club The Strongest|The Strongest]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Ambato]]
+|align=right|[[Club Técnico Universitario|Técnico Universitario]]
+|2:3
+|align=left|'''[[Club The Strongest|The Strongest]]'''
+
+|- align=center bgcolor=#F5FAFF
+|8 de abril
+|[[Guayaquil]]
+|align=right|'''[[Barcelona Sporting Club|Barcelona]]'''
+|3:0
+|align=left|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de abril
+|[[Cochabamba]]
+|align=right|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|3:1
+|align=left|[[Club Técnico Universitario|Técnico Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|12 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club The Strongest|The Strongest]]'''
+|1:0
+|align=left|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de abril
+|[[Cochabamba]]
+|align=right|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|1:0
+|align=left|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center bgcolor=#F5FAFF
+|19 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club The Strongest|The Strongest]]'''
+|4:2
+|align=left|[[Club Técnico Universitario|Técnico Universitario]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de abril
+|[[La Paz (Bolivia)|La Paz]]
+|align=right|'''[[Club The Strongest|The Strongest]]'''
+|2:0
+|align=left|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|26 de abril
+|[[Ambato]]
+|align=right|'''[[Club Técnico Universitario|Técnico Universitario]]'''
+|4:1
+|align=left|[[Barcelona Sporting Club|Barcelona]]
+|}
+|}
+
+'''Partido desempate'''
+{| {{tablapartidos|a=a|w=84%|w2=25%|w3=20%|t3=|w4=0px|w6=0px|w7=20%|t7=|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|8 de mayo
+|[[Santa Cruz de la Sierra]]
+|align=right|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|4:1
+|align=left|[[Club The Strongest|The Strongest]]
+|}
+
+=== Grupo 5 ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|'''9'''||6||3||3||0||14||3||11
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+|'''8'''||6||3||2||1||9||11||–2
+|- align="center"
+|style="text-align:left;"|{{bandera|Chile}} [[Club Universidad de Chile|Universidad de Chile]]
+|'''6'''||6||2||2||2||8||6||2
+|- align="center"
+|style="text-align:left;"|{{bandera|Perú}} [[Club Atlético Torino|Atlético Torino]]
+|'''1'''||6||0||1||5||5||16||–11
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Santiago de Chile|Santiago]]
+|align=right|[[Club Universidad de Chile|Universidad de Chile]]
+|'''0:0'''
+|align=left|[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|18 de marzo
+|[[Lima]]
+|align=right|'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|2:1
+|align=left|[[Club Atlético Torino|Atlético Torino]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Lima]]
+|align=right|'''[[Club Sporting Cristal|Sporting Cristal]]'''
+|3:2
+|align=left|[[Club Universidad de Chile|Universidad de Chile]]
+
+|- align=center bgcolor=#F5FAFF
+|24 de marzo
+|[[Lima]]
+|align=right|[[Club Atlético Torino|Atlético Torino]]
+|'''1:1'''
+|align=left|[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Lima]]
+|align=right|[[Club Sporting Cristal|Sporting Cristal]]
+|'''0:0'''
+|align=left|[[Club de Deportes Cobreloa|Cobreloa]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de marzo
+|[[Lima]]
+|align=right|[[Club Atlético Torino|Atlético Torino]]
+|1:2
+|align=left|[[Club Universidad de Chile|Universidad de Chile]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Calama]]
+|align=right|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|1:0
+|align=left|[[Club Universidad de Chile|Universidad de Chile]]
+
+|- align=center bgcolor=#F5FAFF
+|7 de abril
+|[[Lima]]
+|align=right|[[Club Atlético Torino|Atlético Torino]]
+|1:2
+|align=left|'''[[Club Sporting Cristal|Sporting Cristal]]'''
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Calama]]
+|align=right|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|6:1
+|align=left|[[Club Atlético Torino|Atlético Torino]]
+
+|- align=center bgcolor=#F5FAFF
+|10 de abril
+|[[Santiago de Chile|Santiago]]
+|align=right|[[Club Universidad de Chile|Universidad de Chile]]
+|'''1:1'''
+|align=left|[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[Calama]]
+|align=right|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|6:1
+|align=left|[[Club Sporting Cristal|Sporting Cristal]]
+
+|- align=center bgcolor=#F5FAFF
+|14 de abril
+|[[Santiago de Chile|Santiago]]
+|align=right|'''[[Club Universidad de Chile|Universidad de Chile]]'''
+|3:0
+|align=left|[[Club Atlético Torino|Atlético Torino]]
+|}
+|}
+
+== Segunda fase ==
+=== Grupo A ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Brasil|1968}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|'''8'''||4||4||0||0||10||2||8
+|- align="center"
+|style="text-align:left;"|{{bandera|Colombia}} [[Deportivo Cali]]
+|'''3'''||4||1||1||2||2||5||–3
+|- align="center"
+|style="text-align:left;"|{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''1'''||4||0||1||3||3||8||–5
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|2 de octubre
+|[[Cali]]
+|align=right|[[Deportivo Cali]]
+|0:1
+|align=left|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de octubre
+|[[Cochabamba]]
+|align=right|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|1:2
+|align=left|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+
+|- align=center bgcolor=#F5FAFF
+|16 de octubre
+|[[Cali]]
+|align=right|'''[[Deportivo Cali]]'''
+|1:0
+|align=left|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+
+|- align=center bgcolor=#F5FAFF
+|23 de octubre
+|[[Río de Janeiro]]
+|align=right|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|3:0
+|align=left|[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|27 de octubre
+|[[Cochabamba]]
+|align=right|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''1:1'''
+|align=left|[[Deportivo Cali]]
+
+|- align=center bgcolor=#F5FAFF
+|30 de octubre
+|[[Río de Janeiro]]
+|align=right|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|4:1
+|align=left|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|}
+|}
+
+=== Grupo B ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+|style="text-align:left;"|{{bandera|Chile}} '''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|'''7'''||4||3||1||0||9||5||4
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Nacional de Football|Nacional]]
+|'''3'''||4||0||3||1||5||6||–1
+|- align="center"
+|style="text-align:left;"|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+|'''2'''||4||0||2||2||4||7||–3
+|}
+<br>
+
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center bgcolor=#F5FAFF
+|30 de septiembre
+|[[Montevideo]]
+|align=right|[[Club Atlético Peñarol|Peñarol]]
+|'''1:1'''
+|align=left|[[Club Nacional de Football|Nacional]]
+
+|- align=center bgcolor=#F5FAFF
+|8 de octubre
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|1:2
+|align=left|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+
+|- align=center bgcolor=#F5FAFF
+|13 de octubre
+|[[Montevideo]]
+|align=right|[[Club Atlético Peñarol|Peñarol]]
+|0:1
+|align=left|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+
+|- align=center bgcolor=#F5FAFF
+|21 de octubre
+|[[Montevideo]]
+|align=right|[[Club Nacional de Football|Nacional]]
+|'''1:1'''
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|28 de octubre
+|[[Calama]]
+|align=right|'''[[Club de Deportes Cobreloa|Cobreloa]]'''
+|4:2
+|align=left|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center bgcolor=#F5FAFF
+|4 de noviembre
+|[[Calama]]
+|align=right|[[Club de Deportes Cobreloa|Cobreloa]]
+|'''2:2'''
+|align=left|[[Club Nacional de Football|Nacional]]
+|}
+|}
+
+== Final ==
+{{AP|Anexo:Final de la Copa Libertadores 1981|l1=Final de la Copa Libertadores 1981}}
+{{Partido
+|local           = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 2:1''' (2:0)
+|visita          = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita      = CHI
+|fecha           = 13 de noviembre de 1981
+|hora            = 
+|estadio         = [[Estadio de Maracaná]]
+|ciudad          = [[Río de Janeiro]]
+|asistencia      = 93&nbsp;985
+|árbitro         = {{árbitro|ARG|var=alt|Carlos Espósito}}
+|goleslocal      = [[Zico]] {{gol|12||31|pen.}}
+|golesvisita     = [[Víctor Merello|Merello]] {{gol|65|pen.}}
+|reporte         = 
+|competición=Ida}}
+{{Partido
+|local           = [[Club de Deportes Cobreloa|Cobreloa]]
+|paíslocal       = CHI
+|resultado       = 1:0''' (0:0)
+|visita          = [[Clube de Regatas do Flamengo|Flamengo]]
+|paísvisita      = BRA
+|etpaísvisita    = 1968
+|fecha           = 20 de noviembre de 1981
+|hora            = 
+|estadio         = [[Estadio Nacional de Chile|Estadio Nacional]]
+|ciudad          = [[Santiago de Chile|Santiago]]
+|asistencia      = 59&nbsp;901
+|árbitro         = {{árbitro|URU|Ramón Barreto}}
+|goleslocal      = [[Víctor Merello|Merello]] {{gol|79}}
+|golesvisita     = 
+|reporte         = 
+|competición=Vuelta}}
+{{Partido
+|local           = [[Clube de Regatas do Flamengo|Flamengo]]
+|paíslocal       = BRA
+|etpaíslocal     = 1968
+|resultado       = 2:0''' (1:0)
+|visita          = [[Club de Deportes Cobreloa|Cobreloa]]
+|paísvisita      = CHI
+|fecha           = 23 de noviembre de 1981
+|hora            = 
+|estadio         = [[Estadio Centenario]]
+|ciudad          = [[Montevideo]]
+|asistencia      = 30&nbsp;200
+|árbitro         = {{árbitro|URU|Roque Cerullo}}
+|goleslocal      = [[Zico]] {{gol|18||79}}
+|golesvisita     = 
+|reporte         = 
+|competición=Desempate}}
+<br>
+<div style="clear: both;"></div>
+{{Campeón
+|equipo = [[Clube de Regatas do Flamengo|Flamengo]]
+|orden = 1
+|logo=|bandera=BRA|variante=1968}}
+
+== Estadísticas ==
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+|- bgcolor=#D0E7FF
+|{{bandera|Brasil|1968}} '''[[Zico]]'''
+|{{bandera|Brasil|1968}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+| align="center" |'''11'''
+|-
+|{{bandera|Chile}} [[Víctor Merello]]{{refn|group=n.|La [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] le adjudica a Víctor Merello, erróneamente, sólo un gol en el partido Cobreloa 4-2 Peñarol, por el Grupo B de la segunda fase, cuando los registros audiovisuales confirman que fueron dos.<ref>[https://www.youtube.com/watch?v=InBnSh-RQcU Compacto de Cobreloa en la segunda fase de la Copa Libertadores 1981]</ref><ref>[https://www.livefutbol.com/cronica/copa-libertadores-1981-gruppe-b-cd-cobreloa-ca-penarol/ Ficha de Cobreloa 4-2 Peñarol]</ref>}}
+|{{bandera|Chile}} [[Club de Deportes Cobreloa|Cobreloa]]
+| align="center" |6
+|-
+|{{bandera|Brasil|1968}} [[João Batista Nunes de Oliveira|Nunes]]
+|{{bandera|Brasil|1968}} [[Clube de Regatas do Flamengo|Flamengo]]
+| align="center" |6
+|-
+|{{bandera|Bolivia}} [[Gastón Taborga]]
+|{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+| align="center" |6
+|-
+|{{bandera|Uruguay}} [[Pablo Alonso]]
+|{{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+| align="center" |5
+|-
+|{{bandera|Uruguay}} [[Amaro Nadal]]
+|{{bandera|Uruguay}} [[Club Atlético Bella Vista|Bella Vista]]
+| align="center" |5
+|-
+|{{bandera|Perú}} [[Julio César Uribe]]{{refn|group=n.|La [[Rec.Sport.Soccer Statistics Foundation|RSSSF]] no le adjudica a Julio César Uribe, erróneamente, los dos goles del partido Sporting Cristal 2-1 Atlético Torino, por el Grupo 5 de la primera fase, cuando diversas fuentes confirman que convirtió ambos.<ref>{{cita web |url=https://www.elcristalconquetemiro.pe/2015/01/torneos-internacionales/la-copa-1981-cambios/ |título=La Copa: 1981, cambios. |fechaacceso = 18 de febrero de 2020 |apellido=Bedoya Arenas |nombre=Jean Franco |sitioweb =elcristalconquetemiro.pe}}</ref><ref>[https://www.livefutbol.com/cronica/copa-libertadores-1981-gruppe-5-sporting-cristal-atletico-torino/ Ficha de Sporting Cristal 2-1 Atlético Torino]</ref>}}
+|{{bandera|Perú}} [[Club Sporting Cristal|Sporting Cristal]]
+| align="center" |5
+|-
+|{{bandera|Ecuador|1900}} [[Fabián Vicente Burbano|Fabián Burbano]]
+|{{bandera|Ecuador|1900}} [[Club Técnico Universitario|Técnico Universitario]]
+| align="center" |4
+|-
+|{{bandera|Brasil|1968}} [[Jairzinho]]
+|{{bandera|Bolivia}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+| align="center" |4
+|-
+|{{bandera|Argentina|alt}} [[Víctor Marchetti]]
+|{{bandera|Argentina|alt}} [[Club Atlético Rosario Central|Rosario Central]]
+| align="center" |4
+|-
+|{{bandera|Uruguay}} [[Rubén Paz]]
+|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| align="center" |4
+|-
+|{{bandera|Uruguay}} [[Jorge Luis Siviero]]
+|{{bandera|Chile}} [[Club de Deportes Cobreloa|Cobreloa]]
+| align="center" |4
+|-
+|{{bandera|Uruguay}} [[Ernesto Vargas]]
+|{{bandera|Uruguay}} [[Club Atlético Peñarol|Peñarol]]
+| align="center" |4
+|}
+
+== Notas ==
+{{listaref|grupo=n.}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.rsssf.com/sacups/copa81.html Copa Libertadores 1981] en [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].com
+* [http://www.ceroacero.es/edition.php?id_edicao=12241 Copa Libertadores 1981] en ceroacero.es
+* [https://www.conmebol.com Sitio web oficial de la Conmebol]
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 1980|1980]]
+| título     = Copa Libertadores 1981
+| período    = XXII edición
+| sucesor    = [[Copa Libertadores 1982|1982]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Copa Libertadores 1981]]
+[[Categoría:Temporadas de la Copa Libertadores|1981]]
+[[Categoría:Fútbol en 1981]]

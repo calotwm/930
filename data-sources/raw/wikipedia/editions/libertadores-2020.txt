@@ -1,0 +1,2635 @@
+{{Ficha de competición deportiva
+| nombre_original = [[Copa Libertadores de América]]
+| deporte = fútbol
+| ubicación = [[Archivo:South America (orthographic projection).svg|20px|link=|América del Sur]] [[América del Sur]]
+| ciudad = {{Bandera|Brasil}} [[Río de Janeiro]], [[Brasil]] ([[Anexo:Final de la Copa Libertadores 2020|final]])
+| tipo = 
+| imagen = Maracana Stadium June 2013.jpg
+| imagen_tamaño = 300px
+| imagen_pie = El [[estadio de Maracaná]] ([[Río de Janeiro]]) fue sede de la [[Anexo:Final de la Copa Libertadores 2020|final]]
+| participantes = 47
+| partidos = 155
+| goles = 407 {{small|({{#expr:405/155 round 2}} por partido)}}
+| fecha de inicio = 21 de enero de 2020
+| fecha de cierre = 30 de enero de 2021
+| defensor del título = 
+| edición = LXI
+| campeón = {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]''' <small>(2.º título)</small>
+| subcampeón = {{Bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| semifinalistas = {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]<br/>{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| mejor_jugador = {{Bandera|BRA}} [[Marinho]]<br />{{small|([[Santos Fútbol Club|Santos]])}}
+| goleador = {{Bandera|ECU}} [[Fidel Martínez (futbolista)|Fidel Martínez]] (8 goles)<br />{{small|([[Barcelona Sporting Club|Barcelona SC]])}}
+| organizador = [[Confederación Sudamericana de Fútbol|Conmebol]]
+| patrocinador = 
+| televisión = {{Lista desplegable|'''Sudamérica:'''<br> [[ESPN (Latinoamérica)|ESPN]] (Excepto Chile) <br> [[Fox Sports (Latinoamérica)|Fox Sports]]<br>[[Facebook Watch]]<br>'''Brasil:'''<br> [[Fox Sports (Brasil)|Fox Sports]]<br>[[Confederación Sudamericana de Fútbol|Conmebol TV]]<br>[[SBT]]<br>[[Facebook Watch]] <br>'''EEUU y Canadá:'''<br> [[beIN Sports]]<br>'''México y Centroamérica:''' [[Claro Sports]] (semifinales y final)}}
+| anterior = [[Copa Libertadores 2019]]
+| actual = Copa Libertadores 2020
+| siguiente = [[Copa Libertadores 2021]]
+| página web = http://conmebol.com/es/
+}}
+La '''[[Copa Libertadores de América|Copa Libertadores]] 2020''', denominada oficialmente '''Copa Conmebol Libertadores 2020''', fue la sexagésima primera edición del torneo de clubes más importante de [[América del Sur]], organizada por la [[Confederación Sudamericana de Fútbol|Conmebol]]. Participaron equipos de los diez países sudamericanos: [[Argentina]], [[Bolivia]], [[Brasil]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Perú]], [[Uruguay]] y [[Venezuela]].<ref name="CopaReglamento">{{cita web|url=http://www.conmebol.com/es/copa-libertadores-2020/reglamento|título=Reglamento de la Copa Libertadores|obra=conmebol.com|autor=Conmebol|fechaacceso=19 de marzo de 2020}}</ref>
+
+El sorteo de las fases preliminares y de grupos se realizó el 17 de diciembre de 2019 en [[Luque (Paraguay)|Luque]], [[Paraguay]], junto con la primera fase de la [[Copa Sudamericana 2020]].
+
+El campeón fue [[Sociedade Esportiva Palmeiras|Palmeiras]], que logró su segundo título luego de más de 21 años. Por ello, disputó la [[Copa Mundial de Clubes de la FIFA 2020]] y también la [[Recopa Sudamericana 2021]] contra [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]], campeón de la [[Copa Sudamericana 2020]]. También se clasificó a la fase de grupos de la [[Copa Libertadores 2021]].<ref name="CopaReglamento"/>
+
+Debido a las medidas para contener la [[pandemia de COVID-19]], la Conmebol tomó la decisión de suspender temporalmente sus competiciones, inicialmente hasta el 5 de mayo.<ref>{{cita web|autor1=Conmebol|título=La Conmebol Libertadores queda suspendida temporalmente hasta el 5 de mayo|url=https://www.conmebol.com/es/la-conmebol-libertadores-queda-suspendida-temporalmente-hasta-el-05-de-mayo|obra=conmebol.com|fecha=18 de marzo de 2020|fechaacceso=19 de marzo de 2020}}</ref> Sin embargo, debido a que la mayoría de los países continuaron con las fronteras cerradas, postergó el reinicio del torneo hasta el 15 de septiembre.<ref>{{Cita web|url=https://twitter.com/conmebol/status/1281742438416240640|título=Twitter de la Conmebol|fechaacceso=11 de julio de 2020|sitioweb=Twitter}}</ref> La finalización fue el 30 de enero de 2021.<ref>{{cita web|url=https://www.copalibertadores.com/es/noticias/calendario-copa-libertadores-2020-fixture-partidos-y-fechas/1qm8v5y54c4r212cqgzd4b9wcv|título=Calendario Conmebol Libertadores 2020: fixture, partidos y fechas|obra=copalibertadores.com|autor=Conmebol|fechaacceso=14 de julio de 2020|fechaarchivo=15 de julio de 2020|urlarchivo=https://web.archive.org/web/20200715152148/https://www.copalibertadores.com/es/noticias/calendario-copa-libertadores-2020-fixture-partidos-y-fechas/1qm8v5y54c4r212cqgzd4b9wcv|deadurl=yes}}</ref>
+
+== Formato ==
+La competición contó con tres fases clasificatorias de [[eliminación directa]], en las que participaron 19 equipos, de los cuales 4 lograron la clasificación a fase de grupos y se sumaron a los 28 ya clasificados; de la fase de grupos, disputada en dos rondas por el [[sistema de todos contra todos]], accedieron los dos primeros de cada zona a las fases finales (octavos y cuartos de final, semifinales y final), también de eliminación directa, hasta determinar al campeón. Además, diez equipos fueron transferidos a la [[Copa Sudamericana 2020]] (los terceros de la fase de grupos y los 2 mejores perdedores de la Fase 3).
+
+{| class="wikitable"
+! colspan="2" |Fase
+!Equipos que entran en esta fase
+!Equipos que provienen de la fase anterior
+|-
+! colspan="2" |Fase 1
+(6 equipos)
+|
+* 1 equipo de Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+|-
+! colspan="2" |Fase 2
+(16 equipos)
+|
+* 2 equipos de Brasil, Chile y Colombia.
+* 1 equipo de Argentina, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+|
+* 3 equipos clasificados de la Fase 1
+|-
+! colspan="2" |Fase 3
+(8 equipos)
+|
+|
+* 8 equipos clasificados de la Fase 2
+|-
+! colspan="2" |Fase de grupos
+(32 equipos)
+|
+* 5 equipos de Brasil y Argentina
+* 2 equipos de Chile, Colombia, Bolivia, Ecuador, Paraguay, Perú, Uruguay y Venezuela
+* El campeón de la Copa Libertadores 2019
+* El campeón de la Copa Sudamericana 2019
+|
+* 4 equipos clasificados de la Fase 3
+|-
+! colspan="2" |Fases finales
+(16 equipos)
+|
+*
+|
+* 8 equipos primeros de la Fase de grupos
+* 8 equipos segundos de la Fase de grupos
+|}
+
+=== Distribución de cupos ===
+{| class="wikitable"
+!Asociación 
+!Cupos
+!Fase de grupos
+!Fase 3
+!Fase 2
+!Fase 1
+|- 
+| align="left" |{{Bandera|Brasil}} [[Confederación Brasileña de Fútbol|Brasil]]
+|'''7'''
+|5
+| –
+|2
+| –
+|-
+| align="left" |{{Bandera|Argentina}} [[Asociación del Fútbol Argentino|Argentina]]
+|'''6'''
+|5
+| –
+|1
+| –
+|- 
+| align="left" |{{Bandera|Bolivia}} [[Federación Boliviana de Fútbol|Bolivia]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |{{Bandera|Chile}} [[Federación de Fútbol de Chile|Chile]]
+|'''4'''
+|2
+| –
+|2
+| –
+|-
+| align="left" |{{Bandera|Colombia}} [[Federación Colombiana de Fútbol|Colombia]]
+|'''4'''
+|2
+| –
+|2
+| –
+|- 
+| align="left" |{{Bandera|Ecuador}} [[Federación Ecuatoriana de Fútbol|Ecuador]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |{{Bandera|Paraguay}} [[Asociación Paraguaya de Fútbol|Paraguay]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |{{Bandera|Perú}} [[Federación Peruana de Fútbol|Perú]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |{{Bandera|Uruguay}} [[Asociación Uruguaya de Fútbol|Uruguay]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |{{Bandera|Venezuela}} [[Federación Venezolana de Fútbol|Venezuela]]
+|'''4'''
+|2
+| –
+|1
+|1
+|- 
+| align="left" |Campeón de la [[Copa Libertadores 2019]]
+|'''1'''
+|1
+|–
+|–
+|–
+|-
+| align="left" |Campeón de la [[Copa Sudamericana 2019]]
+|'''1'''
+|1
+|–
+|–
+|–
+|- 
+| align="left" |Fase anterior
+| –
+|4
+|8
+|3
+| –
+|- 
+!Total
+!47
+!32
+!8
+!16
+!6
+|}
+
+=== Calendario ===
+{| class="wikitable" style="text-align:center"
+!Fase
+!Ronda
+!Fecha de sorteo
+!Ida
+!Vuelta
+|-
+| rowspan="3" |Clasificatoria
+|Fase 1
+| rowspan="9" |17 de diciembre de 2019
+|21 y 22 de enero
+|28 y 29 de enero
+|-
+|Fase 2
+|4 al 6 de febrero
+|11 al 13 de febrero
+|-
+|Fase 3
+|18 al 20 de febrero
+|25 al 27 de febrero
+|-
+| rowspan="6" |Grupos
+|Fecha 1
+| colspan="2" |3 al 5 de marzo
+|-
+|Fecha 2
+| colspan="2" |10 al 12 de marzo
+|-
+|Fecha 3
+| colspan="2" |15 al 17 de septiembre{{refn|group="n."|name=POSCVD|El 12 de marzo de 2020, la Conmebol anunció la suspensión de la jornada 3 de la fase de grupos debido a la [[Pandemia de enfermedad por coronavirus de 2019-2020|pandemia por coronavirus]]. Posteriormente se postergó todos los partidos hasta el 5 de mayo de 2020.<ref>{{cita web|título=Se extiende la suspensión de la Copa Libertadores inicialmente hasta el 5 de mayo debido a la pandemia de coronavirus|url=https://www.eluniverso.com/deportes/2020/03/18/nota/7787556/copa-libertadores-2020-suspension-mayo-coronavirus-pandemia|autor=El Universo|obra=eluniverso.com|fecha=19 de marzo de 2020|fechaacceso=19 de marzo de 2020}}</ref> Se reprogramó las fechas restantes de fase de grupos, octavos de final y cuartos de final para septiembre, octubre, noviembre y diciembre de 2020; las semifinales y final quedaron agendadas para enero de 2021.<ref name=PartidosReprogramados>{{cita web|autor1=El Universo|título=Conmebol confirmó fechas para la continuación de copas Libertadores y Sudamericana|url=https://www.eluniverso.com/deportes/2020/07/11/nota/7902654/conmebol-fechas-fases-copa-libertadores-sudamericana|obra=eluniverso.com|fecha=11 de julio de 2020|fechaacceso=11 de julio de 2020}}</ref><ref>{{cita web|autor1=Conmebol|título=La Libertadores y la Sudamericana ya tienen fecha|url=https://www.conmebol.com/es/la-libertadores-y-la-sudamericana-ya-tienen-fecha|obra=conmebol.com|fecha=10 de julio de 2020|fechaacceso=14 de julio de 2020}}</ref>}}
+|-
+|Fecha 4
+| colspan="2" |22 al 24 de septiembre{{refn|group="n."|name=POSCVD|}}
+|-
+|Fecha 5
+| colspan="2" |29 de septiembre al 1 de octubre{{refn|group="n."|name=POSCVD|}}
+|-
+|Fecha 6
+| colspan="2" |20 al 22 de octubre{{refn|group="n."|name=POSCVD|}}
+|-
+| rowspan="4" |Eliminatoria
+|Octavos de final
+| rowspan="4" |23 de octubre de 2020{{refn|group="n."|name=POSCVD|}}
+|24 y 25 de noviembre
+|1 y 2 de diciembre
+|-
+|Cuartos de final
+|8 y 9 de diciembre
+|15 y 23 de diciembre
+|-
+|Semifinales
+|5 y 6 de enero de 2021
+|12 y 13 de enero de 2021
+|-
+|Final
+| colspan="2" |30 de enero de 2021{{refn|group="n."|name=POSCVD|}}
+|}
+
+== Sede de la final ==
+{{AP|Anexo:Final de la Copa Libertadores 2020|l1=Final de la Copa Libertadores 2020}}{{AP|Anexo:Sedes de Finales Únicas de Competiciones de CONMEBOL|l1=Sedes de Finales Únicas de Competiciones de CONMEBOL}}
+El 17 de octubre de 2019, la [[Confederación Sudamericana de Fútbol|CONMEBOL]] confirmó que la final del torneo se jugaría en el [[Estadio de Maracaná]], en [[Río de Janeiro]], [[Brasil]], con fecha inicial prevista para el 21 de noviembre de 2020. Sin embargo, la pandemia mundial de COVID-19 obligó a la suspensión temporal de la competencia, lo que llevó a reprogramar la final, que finalmente se disputó el 30 de enero de 2021.<ref>{{cita web|url=https://www.copalibertadores.com/es/noticias/la-final-de-la-conmebol-libertadores-2020-sera-en-el/1guthleqdipl21xj27ewoqb41n|título=¡La final de la CONMEBOL Libertadores 2020 será en el Maracaná!|fechaacceso=19 de marzo de 2020|autor=Copa Libertadores|fecha=17 de octubre de 2019|obra=copalibertadores.com}}</ref><ref>{{Cita web|url=https://www.tycsports.com/copa-libertadores/final-copa-libertadores-maracana-30-enero-2021-id282001.html|título=La final de la Copa Libertadores, con sede y fecha a un paso de confirmarse - TyC Sports|fechaacceso=2025-01-28|fecha=2020-11-09|sitioweb=www.tycsports.com|idioma=es-AR}}</ref>
+
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+|colspan="2"| {{Brasil}}
+|-
+!Ciudad
+!Estadio
+|-
+|[[File:Brasão da cidade do Rio de Janeiro.svg|20x20px|link=|Escudo de la Ciudad de Río de Janeiro]] [[Río de Janeiro]]
+|[[Estadio de Maracaná|Maracanã]]
+|-
+|[[Archivo:Montagem_RJ.jpg|240x240px]]
+|[[Archivo:Rio_de_Janeiro_Maracanã_Stadium_2.jpg|435x435px]]
+|-
+|colspan="2"| 78{{Esd}}838 espectadores
+|-
+|colspan="2"| <small>'''Final Copa Libertadores 2020'''</small>
+|}
+</center>
+
+== Participantes ==
+{{AP|Anexo:Equipos participantes en la Copa Libertadores 2020|l1=Participantes de la Copa Libertadores 2020}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size:90%;" width="90%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |País
+! width="23%" |Equipo
+! width="69%" |Vía de clasificación
+|-
+|- bgcolor="#f5faff"
+|{{Bandera|ARG}} '''[[Asociación del Fútbol Argentino|Argentina]]'''<br />
+<small>6 cupos</small>
+|[[Racing Club]]<br />[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]<br />[[Club Atlético River Plate|River Plate]]<br />[[Club Atlético Tigre|Tigre]]<br />[[Club Atlético Boca Juniors|Boca Juniors]]<br />[[Club Atlético Tucumán|Atlético Tucumán]]
+|Campeón de la [[Campeonato de Primera División 2018-19 (Argentina)|Superliga Argentina 2018-19]]<br />Subcampeón de la Superliga Argentina 2018-19<br />Campeón de la [[Copa Argentina 2018-19]]<br />Campeón de la [[Copa de la Superliga 2019]]<br />3.º puesto de la Superliga Argentina 2018-19<br />5.º puesto de la Superliga Argentina 2018-19
+|- bgcolor="#ddeeff"
+|{{Bandera|BOL}} '''[[Federación Boliviana de Fútbol|Bolivia]]'''<br />
+<small>4 cupos</small>
+|[[Club Bolívar|Bolívar]]<br />[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]<br />[[Club The Strongest|The Strongest]]<br />[[Club San José|San José]]
+|Campeón del [[Torneo Apertura 2019 (Bolivia)|Torneo Apertura 2019]]<br />Campeón del [[Anexo:Torneo Clausura 2019 (Bolivia)|Torneo Clausura 2019]]<br />2.º puesto de la [[Campeonato de Primera División 2019 (Bolivia)#Tabla Acumulada|Tabla acumulada de la División Profesional 2019]]<br />4.º puesto de la Tabla acumulada de la División Profesional 2019
+|- bgcolor="#f5faff"
+|{{Bandera|BRA}} '''[[Confederación Brasileña de Fútbol|Brasil]]'''<br />
+<small>7 cupos + campeón vigente de la Copa Libertadores</small>
+|[[Clube de Regatas do Flamengo|Flamengo]]<br />[[Club Athletico Paranaense|Athletico Paranaense]]<br />[[Santos Futebol Clube|Santos]]<br />[[Sociedade Esportiva Palmeiras|Palmeiras]]<br />[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br />[[São Paulo Futebol Clube|São Paulo]]<br />[[Sport Club Internacional|Internacional]]<br />[[Sport Club Corinthians Paulista|Corinthians]]
+|Campeón de la [[Copa Libertadores 2019]] y del [[Campeonato Brasileño de Fútbol Serie A 2019|Campeonato Brasileño Serie A 2019]]<br />Campeón de la [[Copa de Brasil 2019]]<br />Subcampeón del [[Campeonato Brasileño de Fútbol Serie A 2019|Campeonato Brasileño Serie A 2019]]<br />3.º puesto del Campeonato Brasileño Serie A 2019<br />4.º puesto del Campeonato Brasileño Serie A 2019<br />6.º puesto del Campeonato Brasileño Serie A 2019<br />7.º puesto del Campeonato Brasileño Serie A 2019<br />8.º puesto del Campeonato Brasileño Serie A 2019
+|- bgcolor="#ddeeff"
+|{{Bandera|CHI}} '''[[Federación de Fútbol de Chile|Chile]]'''<br />
+<small>4 cupos</small>
+|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]<br />[[Club Social y Deportivo Colo-Colo|Colo-Colo]]<br />[[Club Deportivo Palestino|Palestino]]<br />[[Club Universidad de Chile|Universidad de Chile]]
+|Campeón de la [[Primera División de Chile 2019]]<br />Subcampeón de la Primera División de Chile 2019 y campeón de la [[Copa Chile 2019]]<br />3.º puesto de la Primera División de Chile 2019<br />Subcampeón de la [[Copa Chile 2019]]
+|- bgcolor="#f5faff"
+|'''{{Bandera|COL}} [[Federación Colombiana de Fútbol|Colombia]]'''<br />
+<small>4 cupos</small>
+|[[Junior de Barranquilla|Junior]]<br />[[América de Cali]]<br />[[Club Deportes Tolima|Deportes Tolima]]<br />[[Independiente Medellín]]
+|Campeón del [[Torneo Apertura 2019 (Colombia)|Torneo Apertura 2019]]<br />Campeón del [[Torneo Finalización 2019 (Colombia)|Torneo Finalización 2019]]<br />3.º puesto de la [[Temporada 2019 del fútbol colombiano#Tabla de reclasificación|Tabla de reclasificación de la Categoría Primera A 2019]]<br />Campeón de la [[Copa Colombia 2019]]
+|- bgcolor="#ddeeff"
+|{{Bandera|ECU}} '''[[Federación Ecuatoriana de Fútbol|Ecuador]]'''<br />
+<small>4 cupos + campeón vigente de la Copa Sudamericana</small>
+|[[Independiente del Valle]]<br />[[Delfín Sporting Club|Delfín]]<br />[[Liga Deportiva Universitaria de Quito|Liga de Quito]]<br />[[Club Deportivo Macará|Macará]]<br />[[Barcelona Sporting Club|Barcelona]]
+|Campeón de la [[Copa Sudamericana 2019]]<br />Campeón de la [[Campeonato Ecuatoriano de Fútbol Serie A 2019|Serie A de Ecuador 2019]]<br />Subcampeón de la Serie A de Ecuador 2019<br />1.º puesto de la Tabla general de la Serie A de Ecuador 2019<br />2.º puesto de la Tabla general de la Serie A de Ecuador 2019
+|- bgcolor="#f5faff"
+|{{Bandera|PAR}} '''[[Asociación Paraguaya de Fútbol|Paraguay]]'''<br />
+<small>4 cupos</small>
+|[[Club Olimpia|Olimpia]]<br />[[Club Libertad|Libertad]]<br />[[Club Cerro Porteño|Cerro Porteño]]<br />[[Club Guaraní|Guaraní]]
+|Campeón del [[Torneo Apertura 2019 (Paraguay)|Torneo Apertura 2019]] y del [[Torneo Clausura 2019 (Paraguay)|Torneo Clausura 2019]]<br />2.º puesto de la [[Torneo Clausura 2019 (Paraguay)#Puntaje acumulado|Tabla acumulada del Campeonato de Primera División 2019]]<br />3.º puesto de la Tabla acumulada del Campeonato de Primera División 2019<br />4.º puesto de la Tabla acumulada del Campeonato de Primera División 2019
+|- bgcolor="#ddeeff"
+|{{Bandera|PER}} '''[[Federación Peruana de Fútbol|Perú]]'''<br />
+<small>4 cupos</small>
+|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]<br />[[Club Alianza Lima|Alianza Lima]]<br />[[Club Sporting Cristal|Sporting Cristal]]<br />[[Club Universitario de Deportes|Universitario]]
+|Campeón de la [[Liga 1 2019 (Perú)|Liga 1 2019]]<br />Subcampeón de la Liga 1 2019<br />Semifinalista de la Liga 1 2019<br />4.º puesto de la Tabla acumulada de la Liga 1 2019
+|- bgcolor="#f5faff"
+|{{Bandera|URU}} '''[[Asociación Uruguaya de Fútbol|Uruguay]]'''<br />
+<small>4 cupos </small>
+|[[Club Nacional de Football|Nacional]]<br />[[Club Atlético Peñarol|Peñarol]]<br />[[Cerro Largo Fútbol Club|Cerro Largo]]<br />[[Club Atlético Progreso|Progreso]]
+|Campeón del [[Campeonato Uruguayo de Primera División 2019]]<br />Subcampeón del Campeonato Uruguayo de Primera División 2019<br />3.º puesto de la [[Campeonato Uruguayo de Primera División 2019#Tabla anual|Tabla anual del Campeonato Uruguayo de Primera División 2019]]<br />4.º puesto de la Tabla anual del Campeonato Uruguayo de Primera División 2019
+|- bgcolor="#ddeeff"
+|{{Bandera|VEN}} '''[[Federación Venezolana de Fútbol|Venezuela]]'''<br />
+<small>4 cupos</small>
+|[[Caracas Fútbol Club|Caracas]]<br />[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]<br />[[Deportivo Táchira Fútbol Club|Deportivo Táchira]]<br />[[Carabobo Fútbol Club|Carabobo]]
+|Campeón de la [[Primera División de Venezuela 2019|Primera División 2019]]<br />Subcampeón de la Primera División 2019<br />1.º puesto de la [[Primera División de Venezuela 2019#Tabla acumulada|Tabla acumulada de la Primera División 2019]]<br />3.º puesto de la Tabla acumulada de la Primera División 2019
+|}
+
+=== Distribución geográfica de los equipos ===
+Distribución geográfica de las sedes de los equipos participantes:
+{{Location map+|América del Sur|float=center|width=585|caption=Localización de los equipos de la '''Copa Libertadores 2020'''|AlternativeMap =CONMEBOL laea location map.svg|places=
+<!-- CLUBES DE ARGENTINA -->
+{{Location map~|América del Sur|lat=-34.6083|long=-58.3719|label=<small>'''{{Esd|Gran<br>Buenos<br>Aires}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-42|long=-62|label=<small>'''{{Esd|Equipos del <br>Gran Buenos Aires:}}'''<br>[[Club Atlético Boca Juniors|{{Esd|Boca Juniors}}]]<br>[[Club Social y Deportivo Defensa y Justicia|{{Esd|Defensa y Justicia}}]]<br>[[Racing Club]]<br>[[Club Atlético River Plate|{{Esd|River Plate}}]]<br>[[Club Atlético Tigre|{{Esd|Tigre}}]]</small>|mark=TransparentPlaceholder.png |position=right}}
+{{Location map~|América del Sur|lat=-26.816667|long=-65.216667|label=<small>{{Esd|[[Club Atlético Tucumán|Atlético Tucumán]]}}</small>|position=bottom}}
+<!-- CLUBES DE BOLIVIA -->
+{{Location map~|América del Sur|lat=-16.499507|long=-68.122798|label=<small>'''La Paz'''</small>|position=top}}
+{{Location map~|América del Sur|lat=-17.379454|long=-66.161703|label=<small>[[Club Jorge Wilstermann|Wilstermann]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-10|long=-64|label=<small>'''{{esd|Equipos de La Paz:}}'''<br>[[Club Bolívar|Bolívar]]<br>[[Club The Strongest|The Strongest]]</small>|mark=TransparentPlaceholder.png|position=right}}{{Location map~|América del Sur|lat=-17.946358|long=-67.111124|label=<small>[[Club San José|San José]]</small>|position=bottom}}
+<!-- CLUBES DE BRASIL -->
+{{Location map~|América del Sur|lat=-23.5500394|long=-46.633947|label=<small>'''{{Esd|São Paulo}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-17|long=-53.5|label=<small>'''{{Esd|Equipos de<br>São Paulo:}}'''<br>[[Sport Club Corinthians Paulista|Corinthians]]<br>[[Sociedade Esportiva Palmeiras|Palmeiras]]<br>[[São Paulo Futebol Clube|São Paulo]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-23.960833|long=-46.333889|label=<small>[[Santos Futebol Clube|{{Esd|Santos}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-22.908333|long=-43.196389|label=<small>{{Esd|[[Clube de Regatas do Flamengo|Flamengo]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=-25.448333|long=-49.276944|label=<small>[[Club Athletico Paranaense|Athletico Paranaense]]</small>}}
+{{Location map~|América del Sur|lat=-30.032778|long=-51.23|label=<small>'''{{Esd|Porto Alegre}}'''</small>|position=left}}
+{{Location map~|América del Sur|lat=-29.032778|long=-47.23|label=<small>'''{{Esd|Equipos de Porto Alegre:}}'''<br>[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>[[Sport Club Internacional| Internacional]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE CHILE -->
+{{Location map~|América del Sur|lat=-33.45|long=-70.666667|label=<small>'''Santiago'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-28.5|long=-86|label=<small>'''{{esd|Equipos de<br>Santiago:}}'''<br>{{esd|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]}}<br>{{esd|[[Club Deportivo Palestino|Palestino]]}}<br>{{esd|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]}}<br>{{esd|[[Club Universidad de Chile|Universidad de Chile]]}}</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE COLOMBIA -->
+{{Location map~|América del Sur|lat=11.0041|long=-74.8070|label=<small>{{Esd|[[Junior de Barranquilla|Junior]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=3.42158|long=-76.5205|label=<small>{{Esd|[[América de Cali]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=4.437778|long=-75.200556|label=<small>{{Esd|[[Club Deportes Tolima|Deportes Tolima]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=6.244747|long=-75.574828|label=<small>{{Esd|[[Independiente Medellín|Ind. Medellín]]}}</small>|position=left}}
+<!-- CLUBES DE ECUADOR -->
+{{Location map~|América del Sur|lat=-0.218611|long=-78.509722|label=<small>{{esd|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]}}</small>|position=left}}
+{{Location map~|América del Sur|lat=-0.334444|long=-78.4475|label=<small>[[Independiente del Valle|Ind. del Valle]]</small>|position=right}}
+{{Location map~|América del Sur|lat=-0.950022|long=-80.7162|label=<small>[[Delfín Sporting Club|Delfín]]</small>|position=left}}
+{{Location map~|América del Sur|lat=-2.183333|long=-79.883333|label=<small>{{esd|[[Barcelona Sporting Club|Barcelona]]}}</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-1.241667|long=-78.619722|label=<small>[[Club Social y Deportivo Macará|Macará]]</small>|position=right}}
+<!-- CLUBES DE PARAGUAY -->
+{{Location map~|América del Sur|lat=-25.3|long=-57.633333|label=<small>'''Asunción'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-19|long=-63|label=<small>'''{{esd|Equipos de<br> Asunción:}}'''<br />[[Club Cerro Porteño|Cerro Porteño]]<br />[[Club Guaraní|Guaraní]]<br />[[Club Libertad|Libertad]]<br>[[Club Olimpia|Olimpia]]</small>|mark=TransparentPlaceholder.png|position=right}}
+<!-- CLUBES DE PERÚ -->
+{{Location map~|América del Sur|lat=-11.3000|long=-76.8000|label=<small>'''Lima'''</small>|position=bottom}}
+{{Location map~|América del Sur|lat=-14|long=-89|label=<small>'''{{esd|Equipos de Lima:}}'''<br />[[Club Alianza Lima|{{Esd|Alianza Lima}}]]<br />[[Club Sporting Cristal|{{Esd|Sporting Cristal}}]]<br />[[Club Universitario de Deportes|{{Esd|Universitario}}]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-15.490833|long=-70.126944|label=<small>[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]</small>|position=left}}
+<!-- CLUBES DE URUGUAY -->
+{{Location map~|América del Sur|lat=-34.866944|long=-56.166667|label=<small>'''Montevideo'''</small>}}
+{{Location map~|América del Sur|lat=-35|long=-48|label=<small>'''{{esd|Equipos de Montevideo:}}'''<br />{{esd|[[Club Nacional de Football|Nacional]]}}<br />{{esd|[[Club Atlético Peñarol|Peñarol]]}}<br>[[Club Atlético Progreso|Progreso]]</small>|mark=TransparentPlaceholder.png|position=right}}
+{{Location map~|América del Sur|lat=-32.366667|long=-54.183333|label=<small>[[Cerro Largo Fútbol Club|Cerro Largo]]
+</small>|position=right}}
+<!-- CLUBES DE VENEZUELA-->
+{{Location map~|América del Sur|lat=8.583333|long=-71.133333|label=<small>{{esd|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]}}</small>|position=right}}
+{{Location map~|América del Sur|lat=10.5|long=-66.933333|label=<small>[[Caracas Fútbol Club|Caracas]]</small>|position=right}}
+{{Location map~|América del Sur|lat=7.768172|long=-72.10|label=<small>[[Deportivo Táchira Fútbol Club|{{Esd|Deportivo Táchira}}]]</small>|position=right}}
+{{Location map~|América del Sur|lat=10.16202|long=-68.00765|label=<small>[[Carabobo Fútbol Club|Carabobo]]</small>|position=left}}
+}}
+
+== Sorteo ==
+El sorteo se realizó el 17 de diciembre de 2019 en la sede de la [[Conmebol]], ubicada en la ciudad de [[Luque (Paraguay)|Luque]], [[Paraguay]]. Ese mismo día, se sorteó la primera fase de la [[Copa Sudamericana 2020]].
+
+Los bombos fueron distribuidos de acuerdo con el ''Ranking'' Conmebol Libertadores 2020. No se podían enfrentar equipos de un mismo país, excepto si ese equipo venía de las fases anteriores.<ref>{{cita web|url=http://www.conmebol.com/sites/default/files/dcc_282_2019_-_pauta_del_sorteo_cla_cs_2020_con_bolilleros.pdf|título=Conmebol Libertadores 2020, SISTEMA DE SORTEO – Fase Preliminar y Fase de Grupos|obra=conmebol.com|autor=Conmebol|formato=pdf|fechaacceso=19 de marzo de 2020}}</ref> Al momento del sorteo no se conocían las identidades de los equipos ''Bolivia 2'', ''Bolivia 3'', ''Bolivia 4'' y ''Chile 4''; por tanto fueron directamente asignados a los últimos bombos de cada fase.
+
+=== Fase 1 ===
+{| cellpadding="2" width=55% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=50% | Bombo 1
+! width=50% | Bombo 2
+|-
+|
+* {{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]] (23)
+* {{Bandera|PAR}} [[Club Guaraní|Guaraní]] (34)
+* {{Bandera|PER}} [[Club Universitario de Deportes|Universitario]] (43)
+|
+* {{Bandera|URU}} [[Club Atlético Progreso|Progreso]] (132)
+* {{Bandera|VEN}} [[Carabobo Fútbol Club|Carabobo]] (147) 
+* {{Bandera|BOL}} ''Bolivia 4'' <!-- No cambiar por San José ya que, al momento del sorteo, no se había definido este cupo -->
+|}
+
+=== Fase 2 ===
+{| cellpadding="2" width=55% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=50% | Bombo 1
+! width=50% | Bombo 2
+|-
+|
+* {{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]] (11)
+* {{Bandera|BRA}} [[Sport Club Internacional|Internacional]] (16)
+* {{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]] (18)
+* {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]] (31)
+* {{Bandera|ARG}} [[Club Atlético Tucumán|Atlético Tucumán]] (50)
+* {{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]] (51)
+* {{Bandera|COL}} [[Club Deportes Tolima|Deportes Tolima]] (58)
+* {{Bandera|CHI}} [[Club Deportivo Palestino|Palestino]] (66)
+|
+* {{Bandera|COL}} [[Independiente Medellín]] (68)
+* {{Bandera|ECU}} [[Club Deportivo Macará|Macará]] (170)
+* {{Bandera|URU}} [[Cerro Largo Fútbol Club|Cerro Largo]] (207)
+* {{Bandera|BOL}} ''Bolivia 3'' <!-- No cambiar por The Strongest ya que, al momento del sorteo, no se había definido este cupo -->
+* {{Bandera|CHI}} ''Chile 4'' <!-- No cambiar por Universidad de Chile ya que, al momento del sorteo, no se había definido este cupo -->
+* {{Bandera|}} Fase 1 Ganador E1
+* {{Bandera|}} Fase 1 Ganador E2
+* {{Bandera|}} Fase 1 Ganador E3
+|}
+
+=== Fase de grupos ===
+{| cellpadding="2" width=100% border=1 align=center style="background:#EBF5FF; border:1px #AAA solid; border-collapse:collapse; font-size:95%;"
+|- bgcolor=#006699 style="color:white;"
+! width=25% | Bombo 1
+! width=25% | Bombo 2
+! width=25% | Bombo 3
+! width=25% | Bombo 4
+|-
+|
+* {{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]] (8){{refn|group=n.|Campeón de la [[Copa Libertadores 2019]], asignado automáticamente al bombo 1 y al Grupo A.}}
+* {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]] (1)
+* {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]] (2)
+* {{Bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] (3)
+* {{Bandera|URU}} [[Club Nacional de Football|Nacional]] (4)
+* {{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]] (5)
+* {{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]] (6)
+* {{Bandera|PAR}} [[Club Olimpia|Olimpia]] (10)
+|
+* {{Bandera|ECU}} [[Independiente del Valle]] (35){{refn|group=n.|Campeón de la [[Copa Sudamericana 2019]], asignado automáticamente al bombo 2.}}
+* {{Bandera|BRA}} [[Santos Futebol Clube|Santos]] (14)
+* {{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]] (17)
+* {{Bandera|PAR}} [[Club Libertad|Libertad]] (19)
+* {{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]] (21)
+* {{Bandera|BOL}} [[Club Bolívar|Bolívar]] (24)
+* {{Bandera|ARG}} [[Racing Club]] (27)
+* {{Bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]] (29)
+|
+* {{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]] (30)
+* {{Bandera|COL}} [[América de Cali]] (36)
+* {{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]] (41)
+* {{Bandera|COL}} [[Junior de Barranquilla|Junior]] (48)
+* {{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]] (54)
+* {{Bandera|VEN}} [[Caracas Fútbol Club|Caracas]] (72)
+* {{Bandera|ECU}} [[Delfín Sporting Club|Delfín]] (82)
+* {{Bandera|ARG}} [[Club Atlético Tigre|Tigre]] (93)
+|
+* {{Bandera|VEN}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]] (113)
+* {{Bandera|PER}} [[Escuela Municipal Deportivo Binacional|Deportivo Binacional]] (140)
+* {{Bandera|ARG}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]] (208)
+* {{Bandera|BOL}} ''Bolivia 2'' <!-- No cambiar por Jorge Wilstermann ya que, al momento del sorteo, no se había definido este cupo -->
+* {{Bandera|}} Fase 3 Ganador G1
+* {{Bandera|}} Fase 3 Ganador G2
+* {{Bandera|}} Fase 3 Ganador G3
+* {{Bandera|}} Fase 3 Ganador G4
+|}
+
+== Fase clasificatoria ==
+=== Fase 1 ===
+{{AP|Anexo:Fase 1 de la Copa Libertadores 2020|l1=Fase 1 de la Copa Libertadores 2020}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center" 
+| 22 y 29 de enero
+| align="right" |{{nowrap|[[Club San José|San José]] {{Bandera|BOL}}}}
+| '''0:5''' 
+| align="left" | {{nowrap|{{Bandera|PAR}} '''[[Club Guaraní|Guaraní]]'''}}
+| [http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043896 0:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=540bczg1cjy5hbfn9841smkq2 0:4]
+! E1
+
+|- align="center"
+| 21 y 28 de enero
+| align="right" |{{nowrap|[[Carabobo Fútbol Club|Carabobo]] {{Bandera|VEN}}}}
+| '''1:2''' 
+| align="left" | {{nowrap|{{Bandera|PER}} '''[[Club Universitario de Deportes|Universitario]]'''}}
+| [http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043897 1:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=53lpjsgvc9141e879or0xh1ey 0:1]
+! E2
+
+|- align="center" 
+| 22 y 29 de enero
+| align="right" |{{nowrap|[[Club Atlético Progreso|Progreso]] {{Bandera|URU}}}}
+| '''1:5''' 
+| align="left" | {{nowrap|{{Bandera|ECU}} '''[[Barcelona Sporting Club|Barcelona]]'''}}
+| [http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043898 0:2]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=53rd18ontvjlkuc0qtosri4iy 1:3]
+! E3
+|}
+
+=== Fase 2 ===
+{{AP|Anexo:Fase 2 de la Copa Libertadores 2020|l1=Fase 2 de la Copa Libertadores 2020}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+| 5 y 12 de febrero
+| align="right" | [[Club Universitario de Deportes|Universitario]] {{Bandera|PER}}
+| '''1:2''' 
+| align="left" | {{Bandera|PAR}} '''[[Club Cerro Porteño|Cerro Porteño]]''' 
+| [https://libero.pe/futbol-internacional/copa-libertadores/1536420-universitario-vs-cerro-vivo-ver-tv-fox-sports-internet-mirar-futbol-gratis-seguir-transmision-copa-libertadores-canal-cmd-hora-juegan-u-vs-cerro 1:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=wy0vl8y1xygzd7ef6eea9qwa 0:1]
+! C1
+
+|- align="center" 
+| 5 y 12 de febrero
+| align="right" | [[Cerro Largo Fútbol Club|Cerro Largo]] {{Bandera|URU}}
+| '''2:6''' 
+| align="left" | {{Bandera|CHI}} '''[[Club Deportivo Palestino|Palestino]]'''
+| [https://chile.as.com/chile/2020/02/05/futbol/1580936383_247601.html 1:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=vvrm3wyd2negwpfzhqje2ezu 1:5]
+! C2
+
+|- align="center"
+| 4 y 11 de febrero
+| align="right" | '''[[Independiente Medellín]]''' {{Bandera|COL}}
+| '''4:2''' 
+| align="left" | {{Bandera|VEN}} [[Deportivo Táchira Fútbol Club|Deportivo Táchira]] 
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=vyqahg7n9luskwd1me4pky22 4:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=w1l848uxng2q32x7onckmaga 0:2]
+! C3
+
+|- align="center" 
+| 4 y 11 de febrero
+| align="right" | [[Club Deportivo Macará|Macará]] {{Bandera|ECU}}
+| '''0:2'''
+| align="left" | {{Bandera|COL}} '''[[Club Deportes Tolima|Deportes Tolima]]'''
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=w4cco8gpikseqe8mmvsxoi22 0:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=w76shut9ic0kr4pq3q1ir0q2 0:1]
+! C4
+
+|- align="center"
+| 4 y 11 de febrero
+| align="right" | [[Club Universidad de Chile|Universidad de Chile]] {{Bandera|CHI}}
+| '''0:2'''
+| align="left" | {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| [http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2043906 0:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=wfpckql1t197iuk0bqkntduy 0:2]
+! C5
+
+|- align="center" 
+| 5 y 12 de febrero
+| align="right" | [[Club The Strongest|The Strongest]] {{Bandera|BOL}}
+| '''2:2''' <small>('''5:6''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" | {{Bandera|ARG}} '''[[Club Atlético Tucumán|Atlético Tucumán]]'''
+| [https://libero.pe/futbol-internacional/copa-libertadores/1536236-fox-sports-vivo-the-strongest-vs-atletico-tucuman-ver-online-gratis-hoy-fase-2-copa-libertadores-hora-canal-link-stream-fox-sports-internet-fox-play 2:0] 
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=wpcryfkt6339tuytmvnm273e 0:2] 
+! C6
+
+|- align="center"
+| 5 y 12 de febrero
+| align="right" | <small>([[Regla del gol de visitante|v.]])</small> '''[[Club Guaraní|Guaraní]]''' {{Bandera|PAR}}
+| '''2:2''' 
+| align="left" | {{Bandera|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| [https://us.as.com/resultados/futbol/copa_libertadores/2020/directo/segunda_ronda_a_1_311028/ 1:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=x66mr8yhxzw3fyftx9lw1nqi 1:2]
+! C7
+
+|- align="center" 
+| 6 y 13 de febrero
+| align="right" | '''[[Barcelona Sporting Club|Barcelona]]''' {{Bandera|ECU}}
+| '''5:2''' 
+| align="left" | {{Bandera|PER}} [[Club Sporting Cristal|Sporting Cristal]]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=xcki1eebt46coo4x1rogh4ru 4:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=xh3a6qfv3je287pw9e34jofe 1:2]
+! C8
+|}
+
+=== Fase 3 ===
+{{AP|Anexo:Fase 3 de la Copa Libertadores 2020|l1=Fase 3 de la Copa Libertadores 2020}}
+{| cellspacing="0" style="background: #EBF5FF; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="100%"
+|- bgcolor="#006699" style="color:white;"
+! width="18%" |Fechas
+! width="20%" |Local en la ida
+! width="8%"  |Global
+! width="20%" |Local en la vuelta
+! width="8%"  |Ida
+! width="8%"  |Vuelta
+! width="18%" |{{nowrap|Llave}}
+
+|- align="center"
+| 19 y 26 de febrero
+| align="right" | '''[[Barcelona Sporting Club|Barcelona]]''' {{Bandera|ECU}}
+| '''5:0''' 
+| align="left" | {{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=e45h1013t823ri4dnnjcklm2 1:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=e45h1013t823ri4dnnjcklm2 4:0]
+! G1
+
+|- align="center"
+| 20 y 27 de febrero
+| align="right" | [[Club Deportivo Palestino|Palestino]] {{Bandera|CHI}}
+| '''1:3''' 
+| align="left" | {{Bandera|PAR}} '''[[Club Guaraní|Guaraní]]'''
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=eb3jr95ywxn085rehpta2noq 0:1]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=eszwyd6nmw8m8hn1ho6hlh0q 1:2] 
+! G2
+
+|- align="center"
+| 18 y 25 de febrero
+| align="right" | '''[[Independiente Medellín]]''' {{Bandera|COL}}
+| '''1:1''' <small>('''4:2''' [[Tiros desde el punto penal|p.]])</small>
+| align="left" | {{Bandera|ARG}} [[Club Atlético Tucumán|Atlético Tucumán]] 
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=dyzexpv9q230a5vo83yg6dm2 1:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=ehk24x0p5jvtj5t6fmp3zvqi 0:1]
+! G3
+
+|- align="center"
+| 19 y 26 de febrero
+| align="right" | [[Club Deportes Tolima|Deportes Tolima]] {{Bandera|COL}}
+| '''0:1''' 
+| align="left" | {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=e7cfcm3la4pqdzlk9dsr28h6 0:0]
+| [http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=eok5jajfgx9gtszjx13ginai 0:1]
+! G4
+
+|}
+
+'''Nota''': Los equipos con mejor ubicación en el ''Ranking'' Conmebol jugaron como locales en el partido de vuelta.
+
+==== Tabla de equipos perdedores ====
+Los dos mejores perdedores de la Fase 3 fueron transferidos a la segunda fase de la [[Copa Sudamericana 2020]].
+<br />
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|-
+| style="background: #B9FFB9;" width="30" |
+|'''Equipos transferidos a la segunda fase de la [[Copa Sudamericana 2020#Segunda fase|Copa Sudamericana 2020]]'''
+|-
+| style="background: ;" width="20" |
+|Equipos eliminados
+|}
+<br />
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align=center style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Tucumán|Atlético Tucumán]]'''
+|'''3'''||2||1||0||1||1||1||0
+|- align=center style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|COL}} '''[[Club Deportes Tolima|Deportes Tolima]]''' 
+|'''1'''||2||0||1||1||0||1||–1
+|- align=center
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Palestino|Palestino]]
+|'''0'''||2||0||0||2||1||3||–2
+|- align="center"
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Cerro Porteño|Cerro Porteño]]
+|'''0'''||2||0||0||2||0||5||–5
+|}
+
+== Fase de grupos ==
+Los participantes se distribuyeron en 8 grupos de 4 equipos cada uno. Los dos primeros de cada uno de ellos pasaron a los octavos de final y los terceros fueron transferidos a la segunda fase de la [[Copa Sudamericana 2020]]. Los criterios de clasificación fueron los siguientes:
+# Puntos obtenidos.
+# Diferencia de goles.
+# Mayor cantidad de goles marcados.
+# Mayor cantidad de goles marcados como visitante.
+# Ubicación en el ''Ranking'' Conmebol.
+<br />
+
+{| bgcolor="#f7f8ff" cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|-
+| style="background: #D0E7FF;" width="20" | 
+|'''Equipos clasificados a los [[#Octavos de final|Octavos de final]]'''.
+|-
+| style="background: #B9FFB9;" width="20" |
+|'''Equipos transferidos a la segunda fase de la [[Copa Sudamericana 2020]]'''.
+|-
+| style="background: ;" width="20" |
+|Equipos eliminados.
+|}
+
+=== Grupo A ===
+{{AP|Anexo:Grupo A de la Copa Libertadores 2020|l1=Grupo A de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|'''15'''||6||5||0||1||14||8||6
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Independiente del Valle]]''' 
+|'''12'''||6||4||0||2||14||8||6
+|- align="center" style="background:#B9FFB9" 
+| style="text-align:left;" |{{Bandera|COL}} '''[[Junior de Barranquilla|Junior]]'''
+|'''6'''||6||2||0||4||8||12||–4
+|- align="center" 
+| style="text-align:left;" |{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+|'''3'''||6||1||0||5||4||12||–8
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de marzo
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=b377m6uwvgc47920kacvhvzhm 0:3]
+|align="left"|'''[[Independiente del Valle]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de marzo
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=c43cgdvsdw8dx8z5himrafluy 1:2]
+|align="left"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+ 
+|- align=center 
+|11 de marzo
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=c8xzd7yyb5yn790dmalo0wui2 3:0]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de marzo
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=c47uezs8ul6uy7x6me55yjwq2 3:0]
+|align="left"|[[Junior de Barranquilla|Junior]]
+ 
+|- align=center 
+|17 de septiembre
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=dvmrzby3uyale52xw6i4e27vu 1:2]
+|align="left"|'''[[Junior de Barranquilla|Junior]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c4axquplm8d1qqgfxwfbjylwq 5:0]
+|align="left"|[[Clube de Regatas do Flamengo|Flamengo]]
+
+|- align=center 
+|22 de septiembre
+|[[Guayaquil]]
+|align="right"|[[Barcelona Sporting Club|Barcelona]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=pv9sknhp66ni5s8l2hewnre2 1:2]
+|align="left"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+
+|- align=center style="background:#FFFFFF;"
+|22 de septiembre
+|[[Barranquilla]]
+|align="right"|'''[[Junior de Barranquilla|Junior]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c4gz2pl1co9btp53nlw5qgj1m 4:1]
+|align="left"|[[Independiente del Valle]]
+
+|- align=center 
+|30 de septiembre
+|[[Barranquilla]]
+|align="right"|[[Junior de Barranquilla|Junior]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=22f6093xy3o4xqrcduydbkne2 0:2]
+|align="left"|'''[[Barcelona Sporting Club|Barcelona]]'''
+
+|- align=center style="background:#FFFFFF;"
+|30 de septiembre
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c4jwbm7wrukf45td5dtpo4rxm 4:0]
+|align="left"|[[Independiente del Valle]]
+ 
+|- align=center 
+|21 de octubre
+|[[Quito]]
+|align="right"|'''[[Independiente del Valle]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=ex079tjxoeabbh65wbwbardd6 2:0]
+|align="left"|[[Barcelona Sporting Club|Barcelona]]
+
+|- align=center style="background:#FFFFFF;"
+|21 de octubre
+|[[Río de Janeiro]]
+|align="right"|'''[[Clube de Regatas do Flamengo|Flamengo]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c4e08j5sfgxxz21nwvkmziwyy 3:1]
+|align="left"|[[Junior de Barranquilla|Junior]]
+|}
+|}
+
+=== Grupo B ===
+{{AP|Anexo:Grupo B de la Copa Libertadores 2020|l1=Grupo B de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|'''16'''||6||5||1||0||17||2||15
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Guaraní|Guaraní]]'''
+|'''13'''||6||4||1||1||13||7||6
+|- align="center" style="background:#B9FFB9" 
+| style="text-align:left;" |{{Bandera|BOL}} '''[[Club Bolívar|Bolívar]]'''
+|'''4'''||6||1||1||4||6||13||–7
+|- align="center" 
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Tigre|Tigre]] 
+|'''1'''||6||0||1||5||3||17||–14
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de marzo
+|[[Victoria (Buenos Aires)|Victoria]]
+|align="right"|[[Club Atlético Tigre|Tigre]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=ecua2nsf2kzrjeply95n577fu 0:2]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de marzo
+|[[Asunción]]
+|align="right"|'''[[Club Guaraní|Guaraní]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=3k2yk05esetsc18nzr22pxa3u 2:0]
+|align="left"|[[Club Bolívar|Bolívar]]
+ 
+|- align=center 
+|10 de marzo
+|[[La Paz]]
+|align="right"|'''[[Club Bolívar|Bolívar]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=ed0uayj6l0wptumm36fhm0kmi 2:0]
+|align="left"|[[Club Atlético Tigre|Tigre]]
+ 
+|- align=center style="background:#FFFFFF;"
+|10 de marzo
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=4hfgbo8bmjzye0eq6u8kyisfe 3:1]
+|align="left"|[[Club Guaraní|Guaraní]]
+ 
+|- align=center 
+|16 de septiembre
+|[[La Paz]]
+|align="right"|[[Club Bolívar|Bolívar]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=ed4bqacvx5hh97s5h6o8lbkoa 1:2]
+|align="left"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[Asunción]]
+|align="right"|'''[[Club Guaraní|Guaraní]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=5jvzyo5s6ce4je2vcea2hhisq 4:1]
+|align="left"|[[Club Atlético Tigre|Tigre]]
+
+|- align=center 
+|22 de septiembre
+|[[Victoria (Buenos Aires)|Victoria]]
+|align="right"|[[Club Atlético Tigre|Tigre]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=edf4tr75u3rmq42o2usjvrluy '''1:1''']
+|align="left"|[[Club Bolívar|Bolívar]]
+
+|- align=center style="background:#FFFFFF;"
+|23 de septiembre
+|[[Asunción]]
+|align="right"|[[Club Guaraní|Guaraní]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=7y4axz4lrza4ba2emo6tpxkdm '''0:0''']
+|align="left"|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+
+|- align=center 
+|30 de septiembre
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=edjc8a5e3a34fdymvw1g0r1wq 5:0]
+|align="left"|[[Club Bolívar|Bolívar]]
+
+|- align=center style="background:#FFFFFF;"
+|1 de octubre
+|[[Victoria (Buenos Aires)|Victoria]]
+|align="right"|[[Club Atlético Tigre|Tigre]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=8yc325y0z4wp1a3wk6r09t3ze 1:3]
+|align="left"|'''[[Club Guaraní|Guaraní]]'''
+ 
+|- align=center 
+|21 de octubre
+|[[La Paz]]
+|align="right"|[[Club Bolívar|Bolívar]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=6yxguwquxble0m8uf3xseb9ey 2:3]
+|align="left"|'''[[Club Guaraní|Guaraní]]'''
+
+|- align=center style="background:#FFFFFF;"
+|21 de octubre
+|[[São Paulo]]
+|align="right"|'''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=ed9krzczzqj0lvc0vkuc2caju 5:0]
+|align="left"|[[Club Atlético Tigre|Tigre]]
+|}
+|}
+
+=== Grupo C ===
+{{AP|Anexo:Grupo C de la Copa Libertadores 2020|l1=Grupo C de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BOL}} '''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|'''10'''||6||3||1||2||8||5||3
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|'''10'''||6||3||1||2||8||6||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|URU}} '''[[Club Atlético Peñarol|Peñarol]]'''
+|'''9'''||6||3||0||3||9||8||1
+|- align="center" 
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|'''6'''||6||2||0||4||3||9||–6
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de marzo
+|[[Curitiba]]
+|align="right"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=c6vsxoklyz50s9rj3x8dkb56 1:0]
+|align="left"|[[Club Atlético Peñarol|Peñarol]]
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de marzo
+|[[Cochabamba]]
+|align="right"|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=54vxwu4r4lxaybhgvqhr11isq 2:0]
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+ 
+|- align=center 
+|11 de marzo
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=caisrsk7bt5tq16bw53usr56 1:0]
+|align="left"|[[Club Athletico Paranaense|Athletico Paranaense]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de marzo
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=5fot7i8udw934huhod5nauvsa 1:0]
+|align="left"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+ 
+|- align=center 
+|15 de septiembre
+|[[Cochabamba]]
+|align="right"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=5j4hrdki9wnoaz03cbnf647sa 2:3]
+|align="left"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|15 de septiembre
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Social y Deportivo Colo-Colo|Colo-Colo]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=cdamzgi27fcau2zf5w5a2kiy 2:1]
+|align="left"|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center 
+|23 de septiembre
+|[[Curitiba]]
+|align="right"|'''[[Club Athletico Paranaense|Athletico Paranaense]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=cixm8mpkynrg3mjaf6rol5d6 2:0]
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de septiembre
+|[[Cochabamba]]
+|align="right"|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=5pi9ekee6gjx8zd8zkt8bxbai 3:1]
+|align="left"|[[Club Atlético Peñarol|Peñarol]]
+
+|- align=center 
+|29 de septiembre
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=clsh6rq9xbvzz2q15zh0wne2 3:0]
+|align="left"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de septiembre
+|[[Curitiba]]
+|align="right"|[[Club Athletico Paranaense|Athletico Paranaense]]
+|'''[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=5sye3lvc5ey7u34s9zx2llg8a 0:0]'''
+|align="left"|[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+ 
+|- align=center 
+|20 de octubre
+|[[Montevideo]]
+|align="right"|'''[[Club Atlético Peñarol|Peñarol]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=cg1m2al5xd3wy7h2g1fkpqi2 3:2]
+|align="left"|[[Club Athletico Paranaense|Athletico Paranaense]]
+
+|- align=center style="background:#FFFFFF;"
+|20 de octubre
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Social y Deportivo Colo-Colo|Colo-Colo]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=5mbueownwebf7zi55k76zfucq 0:1]
+|align="left"|'''[[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]'''
+|}
+|}
+
+=== Grupo D ===
+{{AP|Anexo:Grupo D de la Copa Libertadores 2020|l1=Grupo D de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+|'''13'''||6||4||1||1||21||6||15
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|'''12'''||6||4||0||2||12||8||4
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[São Paulo Futebol Clube|São Paulo]]'''
+|'''7'''||6||2||1||3||14||11||3
+|- align="center"
+| style="text-align:left;" |{{Bandera|PER}} [[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+|'''3'''||6||1||0||5||3||25||–22
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|4 de marzo
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=68oekgew3y0ec7r8zler1om0a 3:0]
+|align="left"|[[Club Atlético River Plate|River Plate]]
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de marzo
+|[[Juliaca]]
+|align="right"|'''[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=68kezh5bof2tbfalt7aq6oyga 2:1]
+|align="left"|[[São Paulo Futebol Clube|São Paulo]]
+ 
+|- align=center 
+|11 de marzo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=68ub71o5tm6l7vhfnjocvv3hm 8:0]
+|align="left"|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de marzo
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=68rfbek8bw76hpctfg9yfqeei 3:0]
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+ 
+|- align=center 
+|15 de septiembre
+|[[Lima]]{{refn|group="n."|name=BINLDU|Binacional tuvo que disputar su partido de local ante Liga de Quito en [[Lima]], debido a que la ciudad de [[Juliaca]] se encontraba bajo cuarentena decretada por el gobierno peruano a consecuencia del aumento de casos de COVID-19 en dicha ciudad.<ref name="#1">{{cita web|autor1=RPP|título=Conmebol lo confirmó: Binacional será local en Lima y no en Juliaca en la Copa Libertadores|url=https://rpp.pe/futbol/copa-libertadores/copa-libertadores-binacional-sera-local-en-lima-y-no-en-juliaca-por-disposicion-de-la-conmebol-noticia-1288502|fecha=24 de agosto de 2020|fechaacceso=12 de marzo de 2021}}</ref>}}
+|align="right"|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=6909q7m1gbbsbpvxo2ce5cxnu 0:1]
+|align="left"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[São Paulo]]
+|align="right"|[[São Paulo Futebol Clube|São Paulo]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=68x7ep2eepw26k5m9mtt6jjai '''2:2''']
+|align="left"|[[Club Atlético River Plate|River Plate]]
+
+|- align=center 
+|22 de septiembre
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=698zxm54108odjrpe17nb4jfu 4:2]
+|align="left"|[[São Paulo Futebol Clube|São Paulo]]
+
+|- align=center style="background:#FFFFFF;"
+|22 de septiembre
+|[[Lima]]{{refn|group="n."|name=BINRIV|Binacional tuvo que disputar su partido de local ante River Plate en [[Lima]], debido a que la ciudad de [[Juliaca]] se encontraba bajo cuarentena decretada por el gobierno peruano a consecuencia del aumento de casos de COVID-19 en dicha ciudad.<ref name="#1"/>}}
+|align="right"|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=69bqz4o7ls0rmzxpnk34e71pm 0:6]
+|align="left"|'''[[Club Atlético River Plate|River Plate]]'''
+
+|- align=center 
+|29 de septiembre
+|[[Quito]]
+|align="right"|'''[[Liga Deportiva Universitaria de Quito|Liga de Quito]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=69h6d1go96ga6bra808y28h2i 4:0]
+|align="left"|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+
+|- align=center style="background:#FFFFFF;"
+|30 de septiembre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=69efnkpngim7rrwzhbkws3giy 2:1]
+|align="left"|[[São Paulo Futebol Clube|São Paulo]]
+ 
+|- align=center 
+|20 de octubre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Club Atlético River Plate|River Plate]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=6964ocxfvpvgu85rd9fjr34ve 3:0]
+|align="left"|[[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+
+|- align=center style="background:#FFFFFF;"
+|20 de octubre
+|[[São Paulo]]
+|align="right"|'''[[São Paulo Futebol Clube|São Paulo]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=6937zckol9wvfn3m01t1el5re 5:1]
+|align="left"|[[Escuela Municipal Deportivo Binacional|Deportivo Binacional]]
+|}
+|}
+
+=== Grupo E ===
+{{AP|Anexo:Grupo E de la Copa Libertadores 2020|l1=Grupo E de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background: #D0E7FF"
+| style="text-align:left;" | {{Bandera|BRA}} '''[[Grêmio]]'''
+|'''11'''||6||3||2||1||6||3||3
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" | {{Bandera|BRA}} '''[[Sport Club Internacional|Internacional]]'''
+|'''8'''||6||2||2||2||8||6||2
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" | {{Bandera|CHI}} '''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|'''7'''||6||2||1||3||6||9||–3
+|- align="center" 
+| style="text-align:left;" | {{Bandera|COL}} [[América de Cali]]
+|'''6'''||6||1||3||2||7||9||–2
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de marzo
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=2mq84lhb3u2ertrib8eeox756 3:0]
+|align="left"|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de marzo
+|[[Cali]]
+|align="right"|[[América de Cali]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=4n15qjnrj7ry8brjjeocxjuju 0:2]
+|align="left"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+ 
+|- align=center 
+|10 de marzo
+|[[Santiago de Chile|Santiago]]
+|align="right"|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=714s2mzvag02fzf1rb63ktf8q 1:2]
+|align="left"|'''[[América de Cali]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|12 de marzo
+|[[Porto Alegre]]
+|align="right"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|'''[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=82kdt0v4b7cswhzwjge0f1rvu 0:0]'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+ 
+|- align=center 
+|16 de septiembre
+|[[Porto Alegre]]
+|align="right"|'''[[Sport Club Internacional|Internacional]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c0zyx2alo58r6kl2b5tfvpune 4:3]
+|align="left"|[[América de Cali]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|16 de septiembre
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=b22294addqx928c4he2acwaqy 2:0]
+|align="left"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+
+|- align=center 
+|23 de septiembre
+|[[Cali]]
+|align="right"|[[América de Cali]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=6hfcigg6d6ezco282e5fvotm '''1:1''']
+|align="left"|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center style="background:#FFFFFF;"
+|23 de septiembre
+|[[Porto Alegre]]
+|align="right"|[[Sport Club Internacional|Internacional]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2vs2wvyvbgcijjehuximpznfu 0:1]
+|align="left"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+
+|- align=center 
+|29 de septiembre
+|[[Porto Alegre]]
+|align="right"|'''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=540idbuy55l1cr5el3yzb7iwa 2:0]
+|align="left"|[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+
+|- align=center style="background:#FFFFFF;"
+|29 de septiembre
+|[[Cali]]
+|align="right"|[[América de Cali]]
+|'''[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=67tw4g7mn5l6yvfbae0fq5rvu 0:0]'''
+|align="left"|[[Sport Club Internacional|Internacional]]
+ 
+|- align=center 
+|22 de octubre
+|[[Santiago de Chile|Santiago]]
+|align="right"|'''[[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=d1aba9ikhw5m6rx5x6k1tp7ca 2:1]
+|align="left"|[[Sport Club Internacional|Internacional]]
+
+|- align=center style="background:#FFFFFF;"
+|22 de octubre
+|[[Porto Alegre]]
+|align="right"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=e3q98mcovptv3ix2ene1bvg4q '''1:1''']
+|align="left"|[[América de Cali]]
+|}
+|}
+
+=== Grupo F ===
+{{AP|Anexo:Grupo F de la Copa Libertadores 2020|l1=Grupo F de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|URU}} '''[[Club Nacional de Football|Nacional]]''' 
+|'''15'''||6||5||0||1||9||3||6
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Racing Club]]'''
+|'''15'''||6||5||0||1||9||4||5
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|VEN}} '''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|'''4'''||6||1||1||4||8||12||–4
+|- align="center" 
+| style="text-align:left;" | {{Bandera|PER}} [[Club Alianza Lima|Alianza Lima]]
+|'''1'''||6||0||1||5||4||11||–7
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|5 de marzo
+|[[Mérida (Venezuela)|Mérida]]
+|align="right"|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=2fkznvq00lw3fz9hycrshv9ey 1:2]
+|align="left"|'''[[Racing Club]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|5 de marzo
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=2fotq7p7kpwzjsr8m7bsk29uy 0:1]
+|align="left"|'''[[Club Nacional de Football|Nacional]]'''
+ 
+|- align=center 
+|12 de marzo
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=2fuv720m9iydrbsgn9hhmg76y 1:0]
+|align="left"|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+ 
+|- align=center style="background:#FFFFFF;"
+|12 de marzo
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=2fryzas474e5hde7455wasei2 1:0]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+ 
+|- align=center 
+|16 de septiembre
+|[[Mérida (Venezuela)|Mérida]]
+|align="right"|'''[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2g1cjmsoj1z1opcw98q8gdpii 3:2]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|[[Racing Club]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2fy5h3h7k6bf6wr7turgh3fje 0:1]
+|align="left"|'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center 
+|22 de septiembre
+|[[Mérida (Venezuela)|Mérida]]
+|align="right"|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2gcx7pvw142xxcb8krv6p4nsa 1:3]
+|align="left"|'''[[Club Nacional de Football|Nacional]]'''
+
+|- align=center style="background:#FFFFFF;"
+|23 de septiembre
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2g9uvwvv6f3hfi3x8f5w1n0bu 0:2]
+|align="left"|'''[[Racing Club]]'''
+
+|- align=center 
+|30 de septiembre
+|[[Montevideo]]
+|align="right"|[[Club Nacional de Football|Nacional]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2ggd6e4y5zeku9wbzedofoiga 1:2]
+|align="left"|'''[[Racing Club]]'''
+
+|- align=center style="background:#FFFFFF;"
+|30 de septiembre
+|[[Lima]]
+|align="right"|[[Club Alianza Lima|Alianza Lima]]
+|'''[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2gjz95narvdelh2mc3q9gfywa 2:2]'''
+|align="left"|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+ 
+|- align=center 
+|21 de octubre
+|[[Montevideo]]
+|align="right"|'''[[Club Nacional de Football|Nacional]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2g74m7hevkp5rssdhdetel5re 2:0]
+|align="left"|[[Club Alianza Lima|Alianza Lima]]
+
+|- align=center style="background:#FFFFFF;"
+|21 de octubre
+|[[Avellaneda (Buenos Aires)|Avellaneda]]
+|align="right"|'''[[Racing Club]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=2g4a7osy71lvfiwo1mvm9ismi 2:1]
+|align="left"|[[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]]
+|}
+|}
+
+=== Grupo G ===
+{{AP|Anexo:Grupo G de la Copa Libertadores 2020|l1=Grupo G de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} '''[[Santos Futebol Clube|Santos]]'''
+|'''16'''||6||5||1||0||10||5||5
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ECU}} '''[[Delfín Sporting Club|Delfín]]'''
+|'''7'''||6||2||1||3||6||7||–1
+|- align="center" style="background:#B9FFB9" 
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]'''
+|'''6'''||6||2||0||4||8||10||–2
+|- align="center" 
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Olimpia|Olimpia]] 
+|'''5'''||6||1||2||3||6||8||–2
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de marzo
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=37fjqlz0a6e5sgyd3jxomone2 1:2]
+|align="left"|'''[[Santos Futebol Clube|Santos]]'''
+ 
+|- align=center style="background:#FFFFFF;"
+|4 de marzo
+|[[Manta (Ecuador)|Manta]]
+|align="right"|[[Delfín Sporting Club|Delfín]]
+|'''[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=37li2kgfg29fqyey0jiy9tuui 1:1]'''
+|align="left"|[[Club Olimpia|Olimpia]]
+ 
+|- align=center 
+|10 de marzo
+|[[Santos]]
+|align="right"|'''[[Santos Futebol Clube|Santos]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=37p4eog6nr72fjk7z9ffqn2i2 1:0]
+|align="left"|[[Delfín Sporting Club|Delfín]]
+ 
+|- align=center style="background:#FFFFFF;"
+|11 de marzo
+|[[Asunción]]
+|align="right"|'''[[Club Olimpia|Olimpia]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=37td2xyzgh1hukjpm2ij6paay 2:1]
+|align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+ 
+|- align=center 
+|15 de septiembre
+|[[Santos]]
+|align="right"|[[Santos Futebol Clube|Santos]]
+|'''[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=37xb6ptjpcn18p75qeuktv3vu 0:0]'''
+|align="left"|[[Club Olimpia|Olimpia]]
+
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|'''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=380mgqfm2gcl8th0sauyzpune 3:0]
+|align="left"|[[Delfín Sporting Club|Delfín]]
+ 
+|- align=center 
+|23 de septiembre
+|[[Florencio Varela (Buenos Aires)|Florencio Varela]]
+|align="right"|'''[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=38ec5hf3z9ahoh0asvp8ycaju 2:1]
+|align="left"|[[Club Olimpia|Olimpia]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de septiembre
+|[[Manta (Ecuador)|Manta]]
+|align="right"|[[Delfín Sporting Club|Delfín]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=38b3owu4lyx1czmm18qz6f3oq 1:2]
+|align="left"|'''[[Santos Futebol Clube|Santos]]'''
+
+|- align=center 
+|1 de octubre
+|[[Asunción]]
+|align="right"|[[Club Olimpia|Olimpia]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=38i3i5a81u3sohqufgmejd17u 2:3]
+|align="left"|'''[[Santos Futebol Clube|Santos]]'''
+
+|- align=center style="background:#FFFFFF;"
+|1 de octubre
+|[[Manta (Ecuador)|Manta]]
+|align="right"|'''[[Delfín Sporting Club|Delfín]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=38lm6jzvgt9te412njhhtorje 3:0]
+|align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+ 
+|- align=center 
+|20 de octubre
+|[[Asunción]]
+|align="right"|[[Club Olimpia|Olimpia]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=387irxd8pjnnpany8fsqwa8oa 0:1]
+|align="left"|'''[[Delfín Sporting Club|Delfín]]'''
+
+|- align=center style="background:#FFFFFF;"
+|20 de octubre
+|[[Santos]]
+|align="right"|'''[[Santos Futebol Clube|Santos]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=383zkjg2stm0aui708phb8pka 2:1]
+|align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|}
+|}
+
+=== Grupo H ===
+{{AP|Anexo:Grupo H de la Copa Libertadores 2020|l1=Grupo H de la Copa Libertadores 2020}}
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}} 
+|- align="center" style="background:#D0E7FF"
+| style="text-align:left;" |{{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|'''14'''||6||4||2||0||10||1||9
+|- align="center" style="background:#D0E7FF" 
+| style="text-align:left;" |{{Bandera|PAR}} '''[[Club Libertad|Libertad]]''' 
+|'''7'''||6||2||1||3||8||11||–3
+|- align="center" style="background:#B9FFB9"
+| style="text-align:left;" |{{Bandera|VEN}} '''[[Caracas Fútbol Club|Caracas]]'''
+|'''7'''||6||2||1||3||8||12||–4
+|- align="center"
+| style="text-align:left;" |{{Bandera|COL}} [[Independiente Medellín]]
+|'''6'''||6||2||0||4||9||11||–2
+|}
+<br />
+ 
+{| class="wikitable collapsible collapsed" align="center" width="84%"
+! Partidos
+|-
+|
+{| {{tablapartidos|a=a|w=100%|w2=25%|w3=20%|t3=Local|w4=0px|w6=0px|w7=20%|t7=Visitante|nob=no}}
+|- align=center 
+|3 de marzo
+|[[Caracas]]
+|align="right"|[[Caracas Fútbol Club|Caracas]] 
+|'''[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=4d3eqoyi7ac69wt1ugbcquooa 1:1]'''
+|align="left"|[[Club Atlético Boca Juniors|Boca Juniors]]
+ 
+|- align=center style="background:#FFFFFF;"
+|3 de marzo
+|[[Medellín]]
+|align="right"|[[Independiente Medellín]]
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=9apep60rwr1oumy9zzdf6sz1m 1:2]
+|align="left"|'''[[Club Libertad|Libertad]]'''
+
+|- align=center 
+|10 de marzo
+|[[Asunción]]
+|align="right"|'''[[Club Libertad|Libertad]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=4d762lq3dskgkexkvyz6uxyei 3:2]
+|align="left"|[[Caracas Fútbol Club|Caracas]]
+ 
+|- align=center style="background:#FFFFFF;"
+|10 de marzo
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[http://www.conmebol.com/analisis-del-partido?season=8lcf71zuek3qy6klnlsgwo5m2&competition=59tpnfrwnvhnhzmnvfyug68hj&match=a127xrocwqn3fp3y3tka4tpii 3:0]
+|align="left"|[[Independiente Medellín]]
+ 
+|- align=center
+|16 de septiembre
+|[[Medellín]]
+|align="right"|[[Independiente Medellín]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=ayq98vrto0zsz0qx6vyvi0q5m 2:3]
+|align="left"|'''[[Caracas Fútbol Club|Caracas]]'''
+ 
+|- align=center style="background:#FFFFFF; border-bottom:1px solid #aaa;"
+|17 de septiembre
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=4da60xxt81ys9mr2xlxy3lwfe 0:2]
+|align="left"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center 
+|23 de septiembre
+|[[Caracas]]
+|align="right"|'''[[Caracas Fútbol Club|Caracas]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=4dg6nznc6xlyjnyg5f6z5p46i 2:1]
+|align="left"|[[Club Libertad|Libertad]]
+
+|- align=center style="background:#FFFFFF;"
+|24 de septiembre
+|[[Medellín]]
+|align="right"|[[Independiente Medellín]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=d51dk8foqtui491pgcd55r9m2 0:1]
+|align="left"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+
+|- align=center 
+|29 de septiembre
+|[[Buenos Aires]]
+|align="right"|[[Club Atlético Boca Juniors|Boca Juniors]]
+|'''[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=4djenqh49e02zlkkr3iw0pk6i 0:0]'''
+|align="left"|[[Club Libertad|Libertad]]
+
+|- align=center style="background:#FFFFFF;"
+|30 de septiembre
+|[[Caracas]]
+|align="right"|[[Caracas Fútbol Club|Caracas]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=dy793ueguqjw9ntyv7y7h3jhm 0:2]
+|align="left"|'''[[Independiente Medellín]]'''
+ 
+|- align=center 
+|22 de octubre
+|[[Asunción]]
+|align="right"|[[Club Libertad|Libertad]]
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=c46fqnu8j1v6ncvtl8krkrbe2 2:4]
+|align="left"|'''[[Independiente Medellín]]'''
+
+|- align=center style="background:#FFFFFF;"
+|22 de octubre
+|[[Buenos Aires]]
+|align="right"|'''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+|[http://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=4dd81rzr5kr82iye949vs3kh6 3:0]
+|align="left"|[[Caracas Fútbol Club|Caracas]]
+|}
+|}
+
+== Equipos transferidos a la Copa Sudamericana 2020 ==
+Los ocho terceros de la fase de grupos y los dos mejores perdedores de la fase 3 fueron transferidos a la segunda fase de la [[Copa Sudamericana 2020]].
+{| class="sortable" cellpadding="3" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%; width:35%"
+|- bgcolor="#006699" style="color:white;" align="center"
+!Equipo
+!Procedencia
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Atlético Tucumán|Atlético Tucumán]]
+|Fase 3
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|COL}} [[Club Deportes Tolima|Deportes Tolima]]
+|Fase 3
+|- align="center"
+| style="text-align:left;" |{{Bandera|COL}} [[Junior de Barranquilla|Junior]]
+|Grupo A
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|BOL}} [[Club Bolívar|Bolívar]]
+|Grupo B
+|- align="center"
+| style="text-align:left;" |{{Bandera|URU}} [[Club Atlético Peñarol|Peñarol]]
+|Grupo C
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|BRA}} [[São Paulo Futebol Clube|São Paulo]]
+|Grupo D
+|- align="center"
+| style="text-align:left;" |{{Bandera|CHI}} [[Club Deportivo Universidad Católica (fútbol)|Universidad Católica]]
+|Grupo E
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|VEN}} [[Estudiantes de Mérida Fútbol Club|Estudiantes de Mérida]] 
+|Grupo F
+|- align="center"
+| style="text-align:left;" |{{Bandera|ARG}} [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+|Grupo G
+|- align="center" bgcolor="#D0E7FF"
+| style="text-align:left;" |{{Bandera|VEN}} [[Caracas Fútbol Club|Caracas]] 
+|Grupo H
+|}
+
+== Fases finales ==
+Las fases finales están compuestas por cuatro etapas: octavos, cuartos, semifinales y final. Se disputarán por [[eliminación directa]], en partidos de ida y vuelta. A los fines de establecer las llaves de la primera etapa, los dieciséis equipos son ordenados en dos tablas, una con los clasificados como primeros (numerados del 1 al 8 de acuerdo con su desempeño en la fase de grupos, determinada según los criterios de clasificación), y otra con aquellos clasificados como segundos (numerados del 9 al 16, con el mismo criterio), enfrentándose en octavos de final un equipo de los que terminó en la primera posición contra uno de los que ocupó la segunda. Los cruces fueron determinados mediante un sorteo que se llevó a cabo el 23 de octubre de 2020 en el Centro de Convenciones de la Confederación Sudamericana de Fútbol, ubicado en [[Luque (Paraguay)|Luque]], [[Paraguay]]. Durante todo el desarrollo de las fases finales, el equipo que ostente menor número de orden que su rival de turno ejercerá la localía en el partido de vuelta. A partir de los octavos de final, se utilizará el [[árbitro asistente de video]] (VAR).
+
+=== Tabla de primeros ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align="center" bgcolor="#f5faff"
+|'''1'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|'''16'''||6||5||1||0||17||2||15
+|- align="center" bgcolor="#d0e7ff" 
+|'''2'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Santos Futebol Clube|Santos]] 
+|'''16'''||6||5||1||0||10||5||5
+|- align="center" bgcolor="#f5faff"
+|'''3'''
+| style="text-align:left;"|{{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+|'''15'''||6||5||0||1||14||8||6
+|- align="center" bgcolor="#d0e7ff"
+|'''4'''
+|style="text-align:left;"|{{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+|'''15'''||6||5||0||1||9||3||6
+|- align="center" bgcolor="#f5faff"
+|'''5'''
+|style="text-align:left;"|{{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+|'''14'''||6||4||2||0||10||1||9
+|- align="center" bgcolor="#d0e7ff"
+|'''6'''
+|style="text-align:left;"|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+|'''13'''||6||4||1||1||21||6||15
+|- align="center" bgcolor="#f5faff"
+|'''7'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Grêmio]]
+|'''11'''||6||3||2||1||6||3||3
+|- align="center" bgcolor="#d0e7ff"
+|'''8'''
+|style="text-align:left;"|{{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|'''10'''||6||3||1||2||8||5||3
+|}
+
+=== Tabla de segundos ===
+{| cellpadding="3" cellspacing="0" style="background: #f5faff; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;" width="50%"
+|- bgcolor="#006699" style="color:white;" align="center"
+! width="6%" |N.º
+! width="33%" |Equipo
+! width="6%" |{{Abreviatura|Pts.|Puntos}} 
+! width="6%" |{{Abreviatura|PJ|Partidos jugados}} 
+! width="5%" |{{Abreviatura|PG|Partidos ganados}} 
+! width="5%" |{{Abreviatura|PE|Partidos empatados}} 
+! width="5%" |{{Abreviatura|PP|Partidos perdidos}} 
+! width="6%" |{{Abreviatura|GF|Goles a favor}} 
+! width="6%" |{{Abreviatura|GC|Goles en contra}} 
+! width="6%" |{{Abreviatura|DG|Diferencia de goles}}
+|- align=center bgcolor=#F5FAFF
+|'''9'''
+|style="text-align:left;"|{{Bandera|ARG}} [[Racing Club]]
+|'''15'''||6||5||0||1||9||4||5
+|- align=center bgcolor=#D0E7FF
+|'''10'''
+|style="text-align:left;"|{{Bandera|PAR}} [[Club Guaraní|Guaraní]]
+|'''13'''||6||4||1||1||13||7||6
+|- align=center bgcolor=#F5FAFF
+|'''11'''
+| style="text-align:left;" |{{Bandera|ECU}} [[Independiente del Valle]]
+|'''12'''||6||4||0||2||14||8||6
+|- align=center bgcolor=#D0E7FF
+|'''12'''
+| style="text-align:left;" |{{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|'''12'''||6||4||0||2||12||8||4
+|- align=center bgcolor=#F5FAFF
+|'''13'''
+|style="text-align:left;"|{{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+|'''10'''||6||3||1||2||8||6||2
+|- align=center bgcolor=#D0E7FF
+|'''14'''
+| style="text-align:left;" |{{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+|'''8'''||6||2||2||2||8||6||2
+|- align=center bgcolor=#F5FAFF 
+|'''15'''
+|style="text-align:left;"|{{Bandera|ECU}} [[Delfín Sporting Club|Delfín]]
+|'''7'''||6||2||1||3||6||7||–1
+|- align=center bgcolor=#D0E7FF
+|'''16'''
+| style="text-align:left;" |{{Bandera|PAR}} [[Club Libertad|Libertad]]
+|'''7'''||6||2||1||3||8||11||–3
+|}
+
+=== Cuadro de desarrollo ===
+{{Copa
+| seed-width= 20| team-width= 180| score-width= 20
+| seeds = si
+
+<!--Octavos-->
+| RD1= [[Anexo:Octavos de final de la Copa Libertadores 2020|Octavos de final]]
+| RD1-date= 24 de noviembre al 3 de diciembre
+
+| RD1-seed1= 1
+| RD1-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD1-score1-1= 3
+| RD1-score1-2= 5
+| RD1-score1-3= '''8'''
+
+| RD1-seed2= 15
+| RD1-team2= {{Bandera|ECU}} [[Delfín Sporting Club|Delfín]]
+| RD1-score2-1= 1
+| RD1-score2-2= 0
+| RD1-score2-3= '''1'''
+
+| RD1-seed3= 8
+| RD1-team3= {{Bandera|BOL}} [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+| RD1-score3-1= 1
+| RD1-score3-2= 0
+| RD1-score3-3= '''1'''
+
+| RD1-seed4= 16
+| RD1-team4= {{Bandera|PAR}} '''[[Club Libertad|Libertad]]'''
+| RD1-score4-1= 3
+| RD1-score4-2= 2
+| RD1-score4-3= '''5'''
+
+| RD1-seed5= 4
+| RD1-team5= {{Bandera|URU}} '''[[Club Nacional de Football|Nacional]]'''
+| RD1-score5-1= 0
+| RD1-score5-2= 0
+| RD1-score5-3= '''0&nbsp;{{small|(4)}}'''
+
+| RD1-seed6= 11
+| RD1-team6= {{Nowrap|{{Bandera|ECU}} [[Independiente del Valle]]}}
+| RD1-score6-1= 0
+| RD1-score6-2= 0
+| RD1-score6-3= '''0&nbsp;{{small|(2)}}'''
+
+| RD1-seed7= 6
+| RD1-team7= {{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD1-score7-1= 1
+| RD1-score7-2= 1
+| RD1-score7-3= '''2'''
+
+| RD1-seed8= 13
+| RD1-team8= {{Bandera|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+| RD1-score8-1= 1
+| RD1-score8-2= 0
+| RD1-score8-3= '''1'''
+
+| RD1-seed9= 2
+| RD1-team9= {{Bandera|BRA}} '''[[Santos Futebol Clube|Santos]] <small>([[Regla del gol de visitante|v.]])</small>'''
+| RD1-score9-1= 2
+| RD1-score9-2= 0
+| RD1-score9-3= '''2'''
+
+| RD1-seed10= 12
+| RD1-team10= {{Bandera|ECU}} [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+| RD1-score10-1= 1
+| RD1-score10-2= 1
+| RD1-score10-3= '''2'''
+
+| RD1-seed11= 7
+| RD1-team11= {{Bandera|BRA}} '''[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]'''
+| RD1-score11-1= 2
+| RD1-score11-2= 2
+| RD1-score11-3= '''4'''
+
+| RD1-seed12= 10
+| RD1-team12= {{Bandera|PAR}} [[Club Guaraní|Guaraní]]
+| RD1-score12-1= 0
+| RD1-score12-2= 0
+| RD1-score12-3= '''0'''
+
+| RD1-seed13= 5
+| RD1-team13= {{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD1-score13-1= 1
+| RD1-score13-2= 0
+| RD1-score13-3= '''1&nbsp;{{small|(5)}}'''
+
+| RD1-seed14= 14
+| RD1-team14= {{Bandera|BRA}} [[Sport Club Internacional|Internacional]]
+| RD1-score14-1= 0
+| RD1-score14-2= 1
+| RD1-score14-3= '''1&nbsp;{{small|(4)}}'''
+
+| RD1-seed15= 3
+| RD1-team15= {{Bandera|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| RD1-score15-1= 1
+| RD1-score15-2= 1
+| RD1-score15-3= '''2&nbsp;{{small|(3)}}'''
+
+| RD1-seed16= 9
+| RD1-team16= {{Bandera|ARG}} '''[[Racing Club]]'''
+| RD1-score16-1= 1
+| RD1-score16-2= 1
+| RD1-score16-3= '''2&nbsp;{{small|(5)}}'''
+
+<!--Cuartos-->
+| RD2= [[Anexo:Cuartos de final de la Copa Libertadores 2020|Cuartos de final]]
+| RD2-date= 8 al 23 de diciembre
+
+| RD2-seed1= 1
+| RD2-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD2-score1-1= 1
+| RD2-score1-2= 3
+| RD2-score1-3= '''4'''
+
+| RD2-seed2= 16
+| RD2-team2= {{Bandera|PAR}} [[Club Libertad|Libertad]]
+| RD2-score2-1= 1
+| RD2-score2-2= 0
+| RD2-score2-3= '''1'''
+
+| RD2-seed3= 4
+| RD2-team3= {{Bandera|URU}} [[Club Nacional de Football|Nacional]]
+| RD2-score3-1= 0
+| RD2-score3-2= 2
+| RD2-score3-3= '''2'''
+
+| RD2-seed4= 6
+| RD2-team4= {{Bandera|ARG}} '''[[Club Atlético River Plate|River Plate]]'''
+| RD2-score4-1= 2
+| RD2-score4-2= 6
+| RD2-score4-3= '''8'''
+
+| RD2-seed5= 2
+| RD2-team5= {{Bandera|BRA}} '''[[Santos Futebol Clube|Santos]]'''
+| RD2-score5-1= 1
+| RD2-score5-2= 4
+| RD2-score5-3= '''5'''
+
+| RD2-seed6= 7
+| RD2-team6= {{Bandera|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| RD2-score6-1= 1
+| RD2-score6-2= 1
+| RD2-score6-3= '''2'''
+
+| RD2-seed7= 5
+| RD2-team7= {{Bandera|ARG}} '''[[Club Atlético Boca Juniors|Boca Juniors]]'''
+| RD2-score7-1= 0
+| RD2-score7-2= 2
+| RD2-score7-3= '''2'''
+
+| RD2-seed8= 9
+| RD2-team8= {{Bandera|ARG}} [[Racing Club]]
+| RD2-score8-1= 1
+| RD2-score8-2= 0
+| RD2-score8-3= '''1'''
+
+<!--Semifinales-->
+| RD3= [[Anexo:Semifinales de la Copa Libertadores 2020|Semifinales]]
+| RD3-date= 5 al 13 de enero de 2021
+
+| RD3-seed1= 1
+| RD3-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD3-score1-1= 3
+| RD3-score1-2= 0
+| RD3-score1-3= '''3'''
+
+| RD3-seed2= 6
+| RD3-team2= {{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| RD3-score2-1= 0
+| RD3-score2-2= 2
+| RD3-score2-3= '''2'''
+
+| RD3-seed3= 2
+| RD3-team3= {{Bandera|BRA}} '''[[Santos Futebol Clube|Santos]]'''
+| RD3-score3-1= 0
+| RD3-score3-2= 3
+| RD3-score3-3= '''3'''
+
+| RD3-seed4= 5
+| RD3-team4= {{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| RD3-score4-1= 0
+| RD3-score4-2= 0
+| RD3-score4-3= '''0'''
+
+<!--Final-->
+| RD4= [[Anexo:Final de la Copa Libertadores 2020|Final]]
+| RD4-date= 30 de enero de 2021
+
+| RD4-team1= {{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| RD4-score1= '''1'''
+| RD4-team2= {{Bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| RD4-score2= 0
+}}
+
+{{Tamaño|90%|'''Nota''': En las series a dos partidos, el equipo con el menor número de orden y que ocupa la primera línea es el que define como local.}}
+
+=== Octavos de final ===
+{{AP|Anexo:Octavos de final de la Copa Libertadores 2020|l1=Octavos de final de la Copa Libertadores 2020}}
+{{Partido
+|paíslocal= ECU
+|local= [[Delfín Sporting Club|Delfín]]
+|resultado= 1:3''' (0:2)
+|paísvisita= BRA
+|visita= [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|refe= {{Árbitro|URU|Leodán González}}
+|var = {{Árbitro|URU|Esteban Ostojich}}
+|fecha= {{fecha|25|11|2020}}, 17:15 ([[UTC-5]])
+|estadio= [[Estadio Jocay]]
+|ciudad= [[Manta (Ecuador)|Manta]]
+|goleslocal= [[Ramires (futbolista nacido en 1987)|Ramires]] {{gol|69|a.g.}}
+|golesvisita= [[Gabriel Menino|Menino]] {{gol|18}}<br />[[Ronielson da Silva Barbosa|Rony]] {{gol|36|pen.}}<br />[[Zé Rafael]] {{gol|60}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173506
+}}
+{{Partido
+|paíslocal= BRA
+|local= [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado= 5:0''' (1:0)
+|paísvisita= ECU
+|visita= [[Delfín Sporting Club|Delfín]]
+|refe= {{Árbitro|ARG|Darío Herrera (árbitro)|Darío Herrera}}
+|var= {{Árbitro|URU|Leodán González}}
+|fecha= {{fecha|2|12|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Allianz Parque]]
+|ciudad= [[São Paulo]]
+|goleslocal= [[Patrick de Paula]] {{gol|29}}<br />[[Gabriel Veron]] {{gol|49||60}}<br />[[Willian Gomes de Siqueira|Willian]] {{gol|52}}<br />[[Danilo dos Santos de Oliveira|Danilo]] {{gol|90+4}}
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=16w4pgibtygqi99hagk6n7bpw
+}}
+<br />
+{{Partido
+|paíslocal= PAR
+|local= [[Club Libertad|Libertad]]
+|resultado= 3:1''' (0:0)
+|paísvisita= BOL
+|visita= [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|refe= {{Árbitro|BRA|Anderson Daronco}}
+|var = {{Árbitro|BRA|Rodolpho Toski}}
+|fecha= {{fecha|25|11|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio General Pablo Rojas]]
+|ciudad= [[Asunción]]
+|goleslocal= [[Julio Enciso|Enciso]] {{gol|46}}<br />[[Óscar Cardozo|Cardozo]] {{gol|69}}<br />[[Adrián Emmanuel Martínez|A. Martínez]] {{gol|90+6}}
+|golesvisita= [[Humberto Osorio|Osorio]] {{gol|74}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173513
+}}
+{{Partido
+|paíslocal= BOL
+|local= [[Club Deportivo Jorge Wilstermann|Jorge Wilstermann]]
+|resultado= 0:2''' (0:0)
+|paísvisita= PAR
+|visita= [[Club Libertad|Libertad]]
+|refe= {{Árbitro|ARG|Patricio Loustau}}
+|var= {{Árbitro|ARG|Fernando Rapallini}}
+|fecha= {{fecha|2|12|2020}}, 20:30 ([[UTC-4]])
+|estadio= [[Estadio Félix Capriles]]
+|ciudad= [[Cochabamba]]
+|golesvisita=[[Óscar Cardozo|Cardozo]] {{gol|67||79}}
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=1ccw2h8gdtoiari2qp343w5ck
+}}
+<br />
+{{Partido
+|paíslocal= BRA
+|local= [[Club Athletico Paranaense|Athletico Paranaense]]
+|resultado= 1:1''' (0:0)
+|paísvisita= ARG
+|visita= [[Club Atlético River Plate|River Plate]]
+|refe= {{Árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|var = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha= {{fecha|24|11|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Arena da Baixada]]
+|ciudad= [[Curitiba]]
+|goleslocal= [[Guilherme Bissoli Campos|Bissoli]] {{gol|57}}
+|golesvisita= [[Paulo Díaz|P. Díaz]] {{gol|90}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173522
+}}
+{{Partido
+|paíslocal= ARG
+|local= [[Club Atlético River Plate|River Plate]]
+|resultado= 1:0''' (0:0)
+|paísvisita= BRA
+|visita= [[Club Athletico Paranaense|Athletico Paranaense]]
+|refe= {{Árbitro|VEN|Jesús Valenzuela}}
+|var= {{Árbitro|CHI|Cristián Garay}}
+|fecha= {{fecha|1|12|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Estadio Libertadores de América]]
+|ciudad= [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal = [[Nicolás de la Cruz Arcosa|De la Cruz]] {{gol|84}}
+|asistencia=
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=1f23uz2i1kij9zravye4y21hw
+}}
+<br />
+{{Partido
+|paíslocal= ECU
+|local= [[Independiente del Valle]]
+|resultado= 0:0
+|paísvisita= URU
+|visita= [[Club Nacional de Football|Nacional]]
+|refe= {{Árbitro|BRA|Raphael Claus}}
+|var = {{Árbitro|BRA|Rafael Traci}}
+|fecha= {{fecha|25|11|2020}}, 17:15 ([[UTC-5]])
+|estadio= [[Estadio Rodrigo Paz Delgado]]
+|ciudad= [[Quito]]
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173507
+}}
+{{Partido
+|paíslocal= URU
+|local= [[Club Nacional de Football|Nacional]]
+|resultado= 0:0
+|paísvisita= ECU
+|visita= [[Independiente del Valle]]
+|refe= {{Árbitro|PAR|Juan Gabriel Benítez|Juan Benítez}}
+|var= {{Árbitro|PAR|Derlis López}}
+|fecha= {{fecha|2|12|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Estadio Gran Parque Central]]
+|ciudad= [[Montevideo]]
+|resultado penalti = 4:2
+|penaltis1= [[Gonzalo Bergessio|Bergessio]] {{pengol}}<br>[[Gonzalo Castro Irizábal|Castro]] {{pengol}}<br>[[Claudio Yacob|Yacob]] {{pengol}}<br>[[Felipe Carballo (futbolista)|Carballo]] {{penfallo|desviado}}<br>[[Emiliano Martínez Toranza|E. Martínez]] {{pengol}}
+|penaltis2= {{penfallo|atajado}} [[Cristian Pellerano|Pellerano]]<br>{{pengol}} [[Efrén Mera|Mera]]<br>{{pengol}} [[Gabriel Torres|Torres]]<br>{{penfallo|desviado}} [[Richard Schunke|Schunke]]
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=13uz7tbj47pdcs8t2vjvzz2fo
+}}
+<br />
+{{Partido
+|paíslocal= BRA
+|local= [[Sport Club Internacional|Internacional]]
+|resultado= 0:1''' (0:0)
+|paísvisita= ARG
+|visita= [[Club Atlético Boca Juniors|Boca Juniors]]
+|refe= {{Árbitro|URU|Esteban Ostojich}}
+|var = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha= {{fecha|2|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Beira-Rio]]
+|ciudad= [[Porto Alegre]]
+|suceso=Postergado para el 2 de diciembre, a la misma hora, a raíz de la muerte de [[Diego Maradona]].<ref name=postergado>{{cita web|título=Se posterga una semana la serie entre Boca e Inter por la muerte de Maradona|url=https://www.noticiasargentinas.com.ar/boca/se-posterga-una-semana-la-serie-e-inter-la-muerte-maradona-n97573|editorial=NA|fecha=25 de noviembre de 2020|fechaacceso=26 de noviembre de 2020}}</ref>
+|golesvisita=[[Carlos Tévez|Tévez]] {{gol|63}}
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=muw9zol8ws7a8bstqcjp3oyc
+}}
+{{Partido
+|paíslocal= ARG
+|local= [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado= 0:1 {{sin negrita|(0:0)}}
+|paísvisita= BRA
+|visita= [[Sport Club Internacional|Internacional]]
+|fecha= {{fecha|9|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad= [[Buenos Aires]]
+|suceso=Postergado para el 9 de diciembre, a la misma hora, por la posposición del partido de ida.<ref name=postergado />
+|refe= {{Árbitro|CHI|Roberto Tobar}}
+|var = {{Árbitro|CHI|Julio Bascuñán}}
+|resultado penalti = 5:4
+|golesvisita = [[Frank Fabra|Fabra]] {{gol|48|a.g.}}
+|penaltis1     = [[Carlos Tévez|Tévez]] {{pengol}}<br>[[Edwin Cardona|Cardona]] {{penfallo|atajado}}<br>[[Eduardo Salvio|Salvio]] {{pengol}}<br>Fabra {{pengol}}<br>[[Carlos Izquierdoz|Izquierdoz]] {{pengol}}<br>[[Leonardo Jara|Jara]] {{pengol}}
+|penaltis2     = {{pengol}} [[Rodinei]]<br>{{pengol}} [[Edenilson Andrade dos Santos|Edenilson]]<br>{{penfallo|desviado}} [[Rodrigo Lindoso|Lindoso]]<br>{{pengol}} [[Yuri Alberto]]<br>{{pengol}} [[Leandro Miguel Fernández|L. Fernández]]<br>{{penfallo|desviado}} [[João Peglow|Peglow]]
+|reporte= https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173523
+}}
+<br />
+{{Partido
+|paíslocal= ARG
+|local= [[Racing Club]]
+|resultado= 1:1''' (1:1)
+|paísvisita= BRA
+|visita= [[Clube de Regatas do Flamengo|Flamengo]]
+|refe= {{Árbitro|VEN|Alexis Herrera}}
+|var = {{Árbitro|VEN|Jesús Valenzuela}}
+|fecha= {{fecha|24|11|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Presidente Perón]]
+|ciudad= [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal= [[Héctor Fértoli|Fértoli]] {{gol|13}}
+|golesvisita= [[Gabriel Barbosa]] {{gol|15}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173515
+}}
+{{Partido
+|paíslocal= BRA
+|local= [[Clube de Regatas do Flamengo|Flamengo]]
+|resultado= 1:1 {{sin negrita|(0:0)}}
+|paísvisita= ARG
+|visita= [[Racing Club]]
+|refe= {{Árbitro|CHI|Roberto Tobar}}
+|var= {{Árbitro|CHI|Julio Bascuñán}}
+|fecha= {{fecha|1|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Maracaná]]
+|ciudad= [[Río de Janeiro]]
+|goleslocal= [[Willian Arão]] {{gol|90+3}}
+|golesvisita= [[Leonardo Sigali|Sigali]] {{gol|65}}
+|resultado penalti = 3:5
+|penaltis1= [[Filipe Luís]] {{pengol}}<br>[[Gerson Santos da Silva|Gerson]] {{pengol}}<br>[[Pedro Guilherme Abreu dos Santos|Pedro]] {{pengol}}<br>Willian Arão {{penfallo|atajado}}
+|penaltis2= {{pengol}} [[Lisandro López|L. López]]<br>{{pengol}} [[Matías Nicolás Rojas|M. Rojas]]<br>{{pengol}} Sigali<br>{{pengol}} [[Carlos Jonás Alcaraz|Alcaraz]]<br>{{pengol}} [[Fabricio Domínguez Huertas|F. Domínguez]]
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=19hh0vx9dreei3hzb2ngo3i1g
+}}
+<br />
+{{Partido
+|paíslocal= ECU
+|local= [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|resultado= 1:2''' (1:1)
+|paísvisita= BRA
+|visita= [[Santos Futebol Clube|Santos]]
+|refe= {{Árbitro|ARG|Fernando Rapallini}}
+|var = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha= {{fecha|24|11|2020}}, 17:15 ([[UTC-5]])
+|estadio= [[Estadio Rodrigo Paz Delgado]]
+|ciudad= [[Quito]]
+|goleslocal= [[Jhojan Julio|Julio]] {{gol|45+2}}
+|golesvisita= [[Yeferson Soteldo|Soteldo]] {{gol|7}}<br />[[Marinho]] {{gol|59|pen.}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173508
+}}
+{{Partido
+|paíslocal= BRA
+|local= [[Santos Futebol Clube|Santos]]
+|resultado= 0:1''' (0:0)
+|paísvisita= ECU
+|visita= [[Liga Deportiva Universitaria de Quito|Liga de Quito]]
+|refe= {{Árbitro|ARG|Néstor Pitana}}
+|var= {{Árbitro|ARG|Mauro Vigliano}}
+|fecha= {{fecha|1|12|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Estadio Urbano Caldeira|Estadio Vila Belmiro]]
+|ciudad= [[Santos]]
+|golesvisita= [[Matías Zunino|Zunino]] {{gol|66}}
+|reporte= https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=1i0zjld7e1xsyb87qsjtqlzpw
+}}
+<br />
+{{Partido
+|paíslocal= PAR
+|local= [[Club Guaraní|Guaraní]]
+|resultado= 0:2''' (0:0)
+|paísvisita= BRA
+|visita = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|refe = {{Árbitro|ECU|Guillermo Enrique Guerrero|Guillermo Guerrero}}
+|var = {{Árbitro|URU|Daniel Fedorczuk}}
+|fecha= {{fecha|26|11|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Defensores del Chaco]]
+|ciudad= [[Asunción]]
+|golesvisita= [[Jean Pyerre Casagrande Silveira Correa|Jean Pyerre]] {{gol|57}}<br />[[Pepê (futbolista nacido en 1997)|Pepê]] {{gol|86}}
+|reporte= http://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173510
+}}
+{{Partido
+|paíslocal= BRA
+|local= [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|resultado= 2:0''' (1:0)
+|paísvisita= PAR
+|visita= [[Club Guaraní|Guaraní]]
+|refe= {{Árbitro|COL|Wilmar Roldán}}
+|var= {{Árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|fecha= {{fecha|3|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Arena do Grêmio]]
+|ciudad= [[Porto Alegre]]
+|goleslocal=[[Aldemir dos Santos Ferreira|Ferreira]] {{gol|3}}<br />[[Antonio Josenildo Rodrigues de Oliveira|Rodrigues]] {{gol|90+7}}
+|reporte= https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2173517
+}}
+
+=== Cuartos de final ===
+{{AP|Anexo:Cuartos de final de la Copa Libertadores 2020|l1=Cuartos de final de la Copa Libertadores 2020}}
+{{Partido
+|paíslocal= PAR
+|local= [[Club Libertad|Libertad]]
+|resultado= 1:1''' (0:1)
+|paísvisita= BRA
+|visita= [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|refe= {{Árbitro|ARG|Fernando Rapallini}}
+|var = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha= {{fecha|8|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Defensores del Chaco]]
+|ciudad= [[Asunción (Paraguay)|Asunción]]
+|goleslocal= [[Mathías Espinoza|Espinoza]] {{gol|62}}
+|golesvisita= [[Gustavo Gómez Portillo|Gómez]] {{gol|39}}
+|reporte= https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177723
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado   = 3:0''' (1:0)
+|paísvisita  = PAR
+|visita      = [[Club Libertad|Libertad]]
+|refe        = {{Árbitro|VEN|Jesús Valenzuela}}
+|var         = {{Árbitro|COL|Jhon Ospina}}
+|fecha       = {{fecha|15|12|2020}}, 21:30 ([[UTC-3]])
+|estadio     = [[Allianz Parque]]
+|ciudad      = [[São Paulo]]
+|goleslocal  = [[Gustavo Scarpa]] {{gol|21}}<br />[[Ronielson da Silva Barbosa|Rony]] {{gol|68}}<br />[[Gabriel Menino|Menino]] {{gol|82}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177725
+}}
+<br />
+{{Partido
+|paíslocal= BRA
+|local= [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|resultado= 1:1''' (0:1)
+|paísvisita= BRA
+|visita= [[Santos Futebol Clube|Santos]]
+|refe= {{Árbitro|PAR|Juan Benítez}}
+|var = {{Árbitro|PAR|Eber Aquino}}
+|fecha= {{fecha|9|12|2020}}, 19:15 ([[UTC-3]])
+|estadio= [[Arena do Grêmio]]
+|ciudad= [[Porto Alegre]]
+|goleslocal= [[Diego Souza]] {{gol|90+12|pen.}}
+|golesvisita= [[Kaio Jorge]] {{gol|36}}
+|reporte= https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177726
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Santos Futebol Clube|Santos]]
+|resultado   = 4:1''' (2:0)
+|paísvisita  = BRA
+|visita      = [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|refe        = {{Árbitro|COL|Wilmar Roldán}}
+|var         = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha       = {{fecha|16|12|2020}}, 19:15 ([[UTC-3]])
+|estadio     = [[Estadio Urbano Caldeira|Estadio Vila Belmiro]]
+|ciudad      = [[Santos]]
+|goleslocal  = [[Kaio Jorge]] {{gol|1||54}}<br />[[Marinho]] {{gol|16}}<br />[[Laércio Soldá]] {{gol|84}}
+|golesvisita = [[Thaciano Mickael da Silva|Thaciano]] {{gol|82}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177727
+}}
+<br />
+{{Partido
+|paíslocal= ARG
+|local= [[Club Atlético River Plate|River Plate]]
+|resultado= 2:0''' (0:0)
+|paísvisita= URU
+|visita= [[Club Nacional de Fútbol|Nacional]]
+|refe= {{Árbitro|COL|Andrés Rojas (árbitro)|Andrés Rojas}}
+|var = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha= {{fecha|10|12|2020}}, 21:30 ([[UTC-3]])
+|estadio= [[Estadio Libertadores de América]]
+|ciudad= [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal= [[Gonzalo Montiel|Montiel]] {{gol|67|pen.}}<br />[[Bruno Zuculini|Zuculini]] {{gol|90+6}}
+|reporte= https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177722
+}}
+{{Partido
+|paíslocal   = URU
+|local       = [[Club Nacional de Football|Nacional]]
+|resultado   = 2:6''' (1:2)
+|paísvisita  = ARG
+|visita      = [[Club Atlético River Plate|River Plate]]
+|refe        = {{Árbitro|CHI|Roberto Tobar}}
+|var         = {{Árbitro|CHI|Ángelo Hermosilla}}
+|fecha       = {{fecha|17|12|2020}}, 21:30 ([[UTC-3]])
+|estadio     = [[Estadio Gran Parque Central]]
+|ciudad      = [[Montevideo]]
+|goleslocal  = [[Ayrton Cougo|Cougo]] {{gol|45+1}}<br />[[Santiago Rodríguez Molina|Rodríguez]] {{gol|54}}
+|golesvisita = [[Jorge Carrascal|Carrascal]] {{gol|28}}<br />[[Nicolás de la Cruz Arcosa|De la Cruz]] {{gol|45}}<br />[[Bruno Zuculini|Zuculini]] {{gol|50}}<br />[[Rafael Santos Borré|Borré]] {{gol|67||73||80}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177724
+}}
+<br />
+{{Partido
+|paíslocal   = ARG
+|local       = [[Racing Club]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]] 
+|refe        = {{Árbitro|URU|Esteban Ostojich}}
+|var         = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha       = {{fecha|16|12|2020}}, 21:30 ([[UTC-3]])
+|estadio     = [[Estadio Presidente Perón]]
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]]
+|goleslocal  = [[Lorenzo Melgarejo|Melgarejo]] {{gol|60}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177736
+}}
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]] 
+|resultado   = 2:0''' (1:0)
+|paísvisita  = ARG
+|visita      = [[Racing Club]]
+|refe        = {{Árbitro|COL|Wilmar Roldán}}
+|var         = {{Árbitro|ARG|Patricio Loustau}}
+|fecha       = {{fecha|23|12|2020}}, 21:30 ([[UTC-3]])
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|goleslocal  = [[Eduardo Salvio|Salvio]] {{gol|23}}<br />[[Sebastián Villa (futbolista)|Villa]] {{gol|61|pen.}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2177737
+}}
+
+=== Semifinales ===
+{{AP|Anexo:Semifinales de la Copa Libertadores 2020|l1=Semifinales de la Copa Libertadores 2020}}
+
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético Boca Juniors|Boca Juniors]]
+|resultado   = 0:0
+|paísvisita  = BRA
+|visita      = [[Santos Futebol Clube|Santos]]
+|refe        = {{Árbitro|CHI|Roberto Tobar}}
+|var         = {{Árbitro|PAR|Juan Gabriel Benítez|Juan Benítez}}
+|fecha       = {{fecha|6|1|2021}}, 19:15 ([[UTC-3]])
+|estadio     = [[Estadio Alberto J. Armando|Estadio La Bombonera]]
+|ciudad      = [[Buenos Aires]]
+|goleslocal  = 
+|golesvisita =
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181309
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Santos Futebol Clube|Santos]]
+|resultado   = 3:0''' (1:0)
+|paísvisita  = ARG
+|visita      = [[Club Atlético Boca Juniors|Boca Juniors]] 
+|refe        = {{Árbitro|COL|Wilmar Roldán}}
+|var         = {{Árbitro|CHI|Julio Bascuñán}}
+|fecha       = {{fecha|13|1|2021}}, 19:15 ([[UTC-3]])
+|estadio     = [[Estadio Vila Belmiro]]
+|ciudad      = [[Santos]]
+|goleslocal  = [[Diego Pituca|Pituca]] {{gol|16}}<br />[[Yeferson Soteldo|Soteldo]] {{gol|49}}<br />[[Lucas Braga Ribeiro|Lucas Braga]] {{gol|51}}
+|golesvisita = 
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181310
+}}
+<br>
+{{Partido
+|paíslocal   = ARG
+|local       = [[Club Atlético River Plate|River Plate]]
+|resultado   = 0:3''' (0:1)
+|paísvisita  = BRA
+|visita      = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|refe        = {{Árbitro|URU|Leodán González}}
+|var         = {{Árbitro|CHI|Julio Bascuñán}}
+|fecha       = {{fecha|5|1|2021}}, 21:30 ([[UTC-3]])
+|estadio     = [[Estadio Libertadores de América]] 
+|ciudad      = [[Avellaneda (Buenos Aires)|Avellaneda]] 
+|goleslocal  = 
+|golesvisita = [[Ronielson da Silva Barbosa|Rony]] {{gol|27}}<br />[[Luiz Adriano]] {{gol|47}}<br />[[Matías Viña|Viña]] {{gol|62}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181307
+}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado   = 0:2''' (0:2)
+|paísvisita  = ARG
+|visita      = [[Club Atlético River Plate|River Plate]]
+|refe        = {{Árbitro|URU|Esteban Ostojich}}
+|var         = {{Árbitro|COL|Nicolás Gallo (árbitro)|Nicolás Gallo}}
+|fecha       = {{fecha|12|1|2021}}, 21:30 ([[UTC-3]])
+|estadio     = [[Allianz Parque]]
+|ciudad      = [[São Paulo]]
+|goleslocal  = 
+|golesvisita = [[Robert Rojas Chávez|R. Rojas]] {{gol|29}}<br />[[Rafael Santos Borré|Borré]] {{gol|44}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?season=2020&competition=420&match=2181308
+}}
+
+=== Final ===
+{{AP|Anexo:Final de la Copa Libertadores 2020|l1=Final de la Copa Libertadores 2020}}
+{{Partido
+|paíslocal   = BRA
+|local       = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|resultado   = 1:0''' (0:0)
+|paísvisita  = BRA
+|visita      = [[Santos Futebol Clube|Santos]]
+|refe        = {{Árbitro|ARG|Patricio Loustau}}
+|var         = {{Árbitro|ARG|Mauro Vigliano}}
+|fecha       = {{fecha|30|1|2021}}, 17:00 ([[UTC-3]])
+|estadio     = [[Estadio Maracaná]]
+|ciudad      = [[Río de Janeiro]]
+|goleslocal  = [[Breno Henrique Vasconcelos Lopes|Breno Lopes]] {{gol|90+9}}
+|reporte     = https://www.conmebol.com/analisis-del-partido?competition=59tpnfrwnvhnhzmnvfyug68hj&season=8lcf71zuek3qy6klnlsgwo5m2&match=dc89i7flwwd62hrpef2pjt4dm
+}}
+<br>
+{{Campeón
+|equipo = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|bandera = BRA
+|orden = 2
+|logo=}}
+
+== Estadísticas y premios ==
+
+=== Mejor Jugador ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+|- bgcolor="D0E7FF"
+|'''{{bandera|Brasil}} [[Marinho]]'''
+|'''{{bandera|Brasil}} [[Santos Futebol Clube|Santos]]'''
+|}
+
+=== Goleadores ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Goles
+! width="5%" |{{Abreviatura|PJ|Partidos jugados}}
+|- bgcolor="#d0e7ff"
+|{{Bandera|ECU}} '''[[Fidel Martínez]]'''
+|{{Bandera|ECU}} '''[[Barcelona Sporting Club|Barcelona]]'''
+| align="center" |'''8'''
+| align="center" |'''8'''
+|-
+|{{Bandera|COL}} [[Rafael Santos Borré]]
+|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align="center" |7
+| align="center" |11
+|-
+|{{Bandera|ARG}} [[Eduardo Salvio]]
+|{{Bandera|ARG}} [[Club Atlético Boca Juniors|Boca Juniors]]
+| align="center" |6
+| align="center" |11
+|-
+|{{Bandera|BRA}} [[Luiz Adriano]]
+|{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| align="center" |5
+| align="center" |7
+|-
+|{{Bandera|BRA}} [[Ronielson da Silva Barbosa|Rony]]
+|{{Bandera|BRA}} [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| align="center" |5
+| align="center" |11
+|-
+|{{Bandera|ARG}} [[Julián Álvarez (futbolista)|Julián Álvarez]]
+|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align="center" |5
+| align="center" |11
+|-
+|{{Bandera|BRA}} [[Kaio Jorge]]
+|{{Bandera|BRA}} [[Santos Futebol Clube|Santos]]
+| align="center" |5
+| align="center" |12
+|}
+<small><center>Fuente: [https://www.livefutbol.com/goleadores/copa-libertadores-2020/ Livefutbol]</small></center>
+
+=== Asistentes ===
+{| align="center" cellpadding="2" cellspacing="0" style="background:#F5FAFF; border:1px #AAA solid; border-collapse:collapse; font-size:90%" width="50%"
+|- align="center" style="color:white" bgcolor="#006699"
+! width="20%" |Jugador
+! width="20%" |Club
+! width="5%" |Asistencias
+|- bgcolor="#d0e7ff"
+|{{Bandera|BRA}} '''[[Ronielson da Silva Barbosa|Rony]]'''
+|{{Bandera|BRA}} '''[[Sociedade Esportiva Palmeiras|Palmeiras]]'''
+| align="center" |'''9'''
+|-
+|{{Bandera|ARG}} [[Matías Suárez]]
+|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align="center" |8
+|- 
+|{{Bandera|ARG}} [[Gonzalo Montiel]]
+|{{Bandera|ARG}} [[Club Atlético River Plate|River Plate]]
+| align="center" |6
+|- 
+|{{Bandera|ECU}} [[Damián Díaz]]
+|{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+| align="center" |5
+|- 
+|{{Bandera|ARG}} [[Leandro Emmanuel Martínez|Leandro Martínez]]
+|{{Bandera|ECU}} [[Barcelona Sporting Club|Barcelona]]
+| align="center" |5
+|}
+<small><center>Fuente: [https://www.livefutbol.com/asistencias/copa-libertadores-2020/ Livefutbol]</small></center>
+
+=== Equipo Ideal ===
+{|align=center bgcolor="#006699" cellpadding="3" cellspacing="0" border="0" style="font-size: 95%; border: gray solid 1px; border-collapse: collapse;"
+|- align=center bgcolor=#006699 style="color:white;"
+!colspan=3 align=center|Equipo Ideal 2020<ref> [https://www.conmebol.com/es/el-get-elige-al-once-ideal-de-la-conmebol-libertadores-2020 11 ideal de la Copa Libertadores 2020]</ref>
+|- align=left bgcolor=#006699 style="color:white;"
+!width="50"|Pos.
+!width="200"|Futbolista
+!width="200"|Equipo
+|---- bgcolor=#F5FAFF style="border-bottom:1px solid #000000;"
+|{{por}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Weverton]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|---- bgcolor=#D0E7FF
+|{{def}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Gonzalo Montiel]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[River Plate]]
+|---- bgcolor=#F5FAFF
+|{{def}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Lucas Veríssimo]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Santos Fútbol Club|Santos]]
+|---- bgcolor=#D0E7FF 
+|{{def}}
+|[[Archivo:Flag of Paraguay.svg|border|20px|Paraguay]] [[Gustavo Gómez Portillo|Gustavo Gómez]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|---- bgcolor=#F5FAFF style="border-bottom:1px solid #000000;"
+|{{def}}
+|[[Archivo:Flag of Uruguay.svg|border|20px|Uruguay]] [[Matías Viña]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|---- bgcolor=#D0E7FF
+|{{mdc}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Enzo Pérez]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[River Plate]]
+|---- bgcolor=#F5FAFF
+|{{mdc}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Gabriel Menino]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Sociedade Esportiva Palmeiras|Palmeiras]]
+|---- bgcolor=#D0E7FF style="border-bottom:1px solid #000000;"
+|{{mdc}}
+|[[Archivo:Flag of Venezuela.svg|border|20px|Venezuela]] [[Yeferson Soteldo]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Santos Fútbol Club|Santos]]
+|---- bgcolor=#F5FAFF 
+|{{del}}
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Marinho]]
+|[[Archivo:Flag of Brazil.svg|border|20px|Brasil]] [[Santos Fútbol Club|Santos]]
+|---- bgcolor=#D0E7FF
+|{{del}}
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Carlos Tévez]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[Boca Juniors]]
+|---- bgcolor=#F5FAFF
+|{{del}}
+|[[Archivo:Flag of Colombia.svg|border|20px|Colombia]] [[Rafael Santos Borré]]
+|[[Archivo:Flag of Argentina.svg|border|20px|Argentina]] [[River Plate]]
+|---- bgcolor=#D0E7FF
+|}
+
+== Véase también ==
+* [[Copa Mundial de Clubes de la FIFA 2020]]
+* [[Copa Sudamericana 2020]]
+* [[Copa Libertadores Femenina 2020]]
+* [[Copa Libertadores Sub-20 de 2020]]
+* [[Recopa Sudamericana 2021]]
+* [[Anexo:Ranking histórico de la CONMEBOL Libertadores|Ranking Histórico de la Libertadores]]
+
+== Notas ==
+{{Listaref|group="n."}}
+
+== Referencias ==
+{{Listaref}}
+
+== Enlaces externos ==
+* [http://www.conmebol.com Página web oficial] de [[Conmebol]].
+* {{Facebook|CopaLibertadores|Copa Libertadores}}
+* {{Twitter|Libertadores|Copa Libertadores}}
+* {{Facebook|CONMEBOL|Conmebol}}
+* {{Twitter|CONMEBOL|Conmebol}}
+
+{{Sucesión
+| predecesor = [[Copa Libertadores 2019|2019]]
+| título     = Copa Libertadores 2020
+| período    = LXI edición
+| sucesor    = [[Copa Libertadores 2021|2021]]
+}}
+
+{{Control de autoridades}}
+
+[[Categoría:Copa Libertadores 2020]]
+[[Categoría:Temporadas de la Copa Libertadores|2020]]
+[[Categoría:Fútbol en 2020]]
+[[Categoría:Competiciones deportivas suspendidas o aplazadas por la pandemia de COVID-19]]

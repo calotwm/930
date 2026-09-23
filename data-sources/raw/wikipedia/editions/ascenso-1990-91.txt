@@ -1,0 +1,2834 @@
+{{Ficha de competición deportiva
+|nombre          = Campeonato Nacional B 1990-91
+|nombre_original = [[Primera B Nacional|Torneo Nacional B]]
+|deporte         = Fútbol
+|imagen          =
+|país            = [[Argentina]]
+|fecha de inicio = 4 de agosto de 1990
+|fecha de cierre = 2 de junio de 1991
+|edición         = V temporada
+|campeón         = [[Quilmes Atlético Club|Quilmes]]
+|subcampeón      = [[Club Atlético Tucumán|Atlético Tucumán]]
+|goleador        = {{bandera|ARG}} [[Roberto Oste]]<br />([[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]])<br />24 goles
+|participantes   = 22 (+3)
+|partidos        = 462
+|goles           = 978 (2,11 por partido)
+|ascendidos      = Quilmes (campeón)<br /> [[Club Atlético Belgrano|Belgrano]] (ganador del reducido)
+|descendidos     = [[Club Atlético Atlanta|Atlanta]]<br />[[Club Atlético Cipolletti|Cipolletti]]<br />[[Club Atlético Tigre|Tigre]]
+|anterior        = [[Campeonato Nacional B 1989-90|Nacional B 1989-90]]
+|siguiente       = [[Campeonato Nacional B 1991-92|Nacional B 1991-92]]
+}}
+
+El '''Torneo Nacional B 1990-1991''' fue la quinta edición de la [[Primera B Nacional]], que llevaba por ese entonces el nombre de '''Nacional B'''. Fue disputado entre el 4 de agosto de 1990 y el 2 de junio de 1991 por 22 equipos.
+
+Se incorporaron [[Club Atlético Racing|Racing de Córdoba]] e [[Instituto Atlético Central Córdoba|Instituto]], descendidos de la [[Campeonato de Primera División 1989-90 (Argentina)|Primera División]]; [[Club Deportivo Morón|Deportivo Morón]], campeón de la [[Campeonato de Primera B  1989-90 (Argentina)|Primera B 1989-90]] y [[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]] y [[Club Atlético Atlanta|Atlanta]], ganadores de los zonales Noroeste y Sureste, respectivamente, disputados por equipos de la [[Primera B (Argentina)|Primera B]] y del [[Torneo del Interior (1986-1995)|Torneo del Interior]].
+
+El campeón fue [[Quilmes Atlético Club|Quilmes]], que ascendió directamente a [[Primera División de Argentina|Primera División]]. El segundo ascenso fue para [[Club Atlético Belgrano|Belgrano]] por medio del [[Anexo:Torneo Reducido de Ascenso a Primera División de Argentina 1991|Torneo reducido]].
+
+Asimismo, el torneo determinó el descenso de [[Club Atlético Atlanta|Atlanta]], recientemente ascendido, y [[Club Atlético Tigre|Tigre]] a la [[Campeonato de Primera B 1991-92 (Argentina)|Primera B Metropolitana]] y de [[Club Cipolletti|Cipolletti]] a su respectiva [[Anexo:Ligas regionales de fútbol en Argentina|liga regional]], por medio de la tabla de promedios.
+
+== Ascensos y descensos ==
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos del [[Campeonato Nacional B 1989-90|Nacional B 1989-90]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1989-90#Tabla_de_descenso|20.º]]
+|[[Club Atlético Los Andes|Los Andes]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1989-90#Tabla_de_descenso|21.º]]
+|[[Club Olimpo|Olimpo]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_Nacional_B_1989-90#Tabla_de_descenso|22.º]]
+|[[Club Deportivo Armenio|Deportivo Armenio]]
+
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos al Nacional B 1990-91
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1989-90 (Argentina)|1.º]]
+|[[Club Deportivo Morón|Deportivo Morón]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1989-90 (Argentina)|Zonal Noroeste]]
+|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato de Primera B 1989-90 (Argentina)|Zonal Sureste]]
+|[[Club Atlético Atlanta|Atlanta]]
+|}
+{{Final columnas}}
+
+{{Columnas}}
+{| class="wikitable sortable"
+! width=100|Posición
+! width=300|Ascendidos a la [[Campeonato de Primera División 1990-91 (Argentina)|Primera División 1990-91]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1989-90|1.º]]
+|[[Club Atlético Huracán|Huracán]]
+|- style="background: #cfc;"
+|align=center|[[Campeonato Nacional B 1989-90|Gan. Red.]]
+|[[Club Atlético Lanús|Lanús]]
+|}
+
+{{Nueva columna}}
+{| class="wikitable sortable"
+! width=100|Promedio
+! width=300|Descendidos de la [[Campeonato de Primera División 1989-90 (Argentina)|Primera División 1989-90]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1989-90_(Argentina)#Tabla_de_descenso|19.º]]
+|[[Club Atlético Racing|Racing de Córdoba]]
+|- style="background: #FFCCCC;"
+|align=center|[[Campeonato_de_Primera_División_1989-90_(Argentina)#Tabla_de_descenso|20.º]]
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|}
+{{Final columnas}}
+
+== Equipos ==
+<center>
+{| class="wikitable sortable"
+!Equipo
+!Ciudad
+!Estadio
+|-
+| [[Club Almirante Brown|Almirante Brown]]
+| [[Isidro Casanova]]
+| [[Estadio Fragata Presidente Sarmiento|Fragata Presidente Sarmiento]]
+|-
+| [[Club Atlético Atlanta|Atlanta]]
+| [[Buenos Aires]]
+| [[Estadio Don León Kolbovsky|Don León Kolbovsky]]
+|-
+| [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+| [[Rafaela]]
+| [[Estadio Nuevo Monumental|Nuevo Monumental]]
+|-
+| [[Club Atlético Tucumán|Atlético Tucumán]]
+| [[San Miguel de Tucumán|Tucumán]]
+| [[Estadio Monumental José Fierro|Monumental José Fierro]]
+|-
+| [[Club Atlético Banfield|Banfield]]
+| [[Banfield]]
+| [[Estadio Florencio Sola|Florencio Sola]]
+|-
+| [[Club Atlético Belgrano|Belgrano]]
+| [[Córdoba (Argentina)|Córdoba]]
+| [[Estadio Gigante de Alberdi|Julio César Villagra]]
+|-
+| [[Club Central Córdoba (Santiago del Estero)|Central Córdoba]]
+| [[Ciudad de Santiago del Estero|Santiago del Estero]]
+| [[Estadio Alfredo Terrera|Alfredo Terrera]]
+|-
+| [[Club Atlético Cipolletti|Cipolletti]]
+| [[Cipolletti]]
+| [[Estadio La Visera de Cemento|La Visera de Cemento]]
+|-
+| [[Club Atlético Colón|Colón]]
+| [[Santa Fe (capital)|Santa Fe]]
+| [[Estadio Brigadier General Estanislao López|Brigadier Estanislao López]]
+|-
+| [[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+| [[Partido de Florencio Varela|Florencio Varela]]
+| [[Estadio Norberto Tomaghello|Norberto Tomaghello]]
+|-
+|[[Club Sportivo Italiano|Deportivo Italiano]]
+|[[Ciudad Evita]]
+| No posee<ref>Hizo de local en el estadio de [[Club Atlético Estudiantes|Estudiantes (BA)]].</ref>
+|-
+|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+|[[Gregorio de Laferrere (Buenos Aires)|Laferrere]]
+|[[Club_Social_y_Cultural_Deportivo_Laferrere#Estadio|Ciudad de Laferrere]]
+|-
+|[[Club Deportivo Maipú|Deportivo Maipú]]
+|[[Departamento Maipú (Mendoza)|Maipú]]
+|[[Estadio Omar Higinio Sperdutti|Omar Higinio Sperdutti]]
+|-
+|[[Club Deportivo Morón|Deportivo Morón]]
+|[[Morón (Buenos Aires)|Morón]]
+|[[Estadio Francisco Urbano|Francisco Urbano]]
+|-
+|[[Club Atlético Douglas Haig|Douglas Haig]]
+|[[Pergamino (Buenos Aires)|Pergamino]]
+|[[Estadio Miguel Morales|Miguel Morales]]
+|-
+|[[Instituto Atlético Central Córdoba|Instituto]]
+|[[Córdoba (Argentina)|Córdoba]]
+|[[Estadio Juan Domingo Perón (Córdoba)|Juan Domingo Perón]]
+|-
+|[[Quilmes Atlético Club|Quilmes]]
+|[[Quilmes (Buenos Aires)|Quilmes]]
+|[[Estadio Centenario Dr. José Luis Meiszner|Centenario]]
+|-
+|[[Club Atlético Racing|Racing]]
+|[[Córdoba (Argentina)|Córdoba]]
+|[[Estadio Miguel Sancho|Miguel Sancho]]
+|-
+| [[Club Atlético Talleres (Remedios de Escalada)|Talleres]]
+| [[Remedios de Escalada (Lanús)|Remedios de Escalada]]
+| [[Estadio de Talleres de Remedios de Escalada|Talleres de Remedios de Escalada]]
+|-
+| [[Club Atlético Tigre|Tigre]]
+| [[Victoria (Buenos Aires)|Victoria]]
+| [[Estadio José Dellagiovanna|José Dellagiovanna]]
+|-
+| [[Club Atlético San Martín (Tucumán)|San Martín]]
+| [[San Miguel de Tucumán|Tucumán]]
+| [[Estadio La Ciudadela|La Ciudadela]]
+|-
+| [[Club Villa Dálmine|Villa Dálmine]]
+| [[Campana (Buenos Aires)|Campana]]
+| [[Estadio Villa Dálmine|Villa Dálmine]]
+|}
+</center>
+
+=== Distribución geográfica de los equipos ===
+<center>
+{| class="wikitable"
+|-
+! width=220|Región
+! width=25|Cant.
+! width=480|Equipos
+|-
+|{{bandera|Buenos Aires}} [[Buenos Aires|Ciudad de Buenos Aires]]||align=center|1||align=center|Atlanta
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Gran Buenos Aires|conurbano bonaerense]]||align=center|10||align=center|Almirante Brown, Banfield, Defensa y Justicia, Deportivo Italiano, Deportivo Laferrere, Deportivo Morón, Quilmes, Talleres, Tigre y Villa Dálmine
+|-
+|{{bandera|Provincia de Buenos Aires}} [[Provincia de Buenos Aires|Interior de la Provincia]]||align=center|1||align=center|Douglas Haig
+|-
+|{{bandera|Provincia de Córdoba (Argentina)}} [[Provincia de Córdoba (Argentina)|Provincia de Córdoba]]||align=center|3||align=center|Belgrano, Instituto y Racing
+|-
+|{{bandera|Santa Fe}} [[Provincia de Santa Fe]]||align=center|2||align=center|Atlético de Rafaela y Colón
+|-
+|{{bandera|Tucumán}} [[Provincia de Tucumán]]||align=center|2||align=center|Atlético Tucumán y San Martín
+|-
+|{{bandera|Mendoza}} [[Provincia de Mendoza]]||align=center|1||align=center|Deportivo Maipú
+|-
+|{{bandera|Río Negro}} [[Provincia de Río Negro]]||align=center|1||align=center|Cipolletti
+|-
+|{{bandera|Provincia de Santiago del Estero}} [[Provincia de Santiago del Estero]]||align=center|1||align=center|Central Córdoba
+|}
+</center>
+
+== Formato ==
+=== Competición ===
+Se disputó un torneo de 42 fechas por el [[sistema de todos contra todos]] a dos ruedas, ida y vuelta.
+
+=== Ascensos ===
+El campeón ascendió a la [[Primera División de Argentina|Primera División]]. Los equipos ubicados entre el segundo y el décimo puesto, el campeón de la [[Primera B (Argentina)|Primera B]] y los ganadores de los Zonales de dicha categoría deben disputar un Torneo Reducido, de manera eliminatoria a dos ruedas, ida y vuelta. Los equipos que finalizaron entre el cuarto y el décimo puesto y los ganadores de los Zonales de la Primera B disputaron la Primera Ronda. En la Segunda Ronda se sumó el tercer ubicado en el campeonato y en las Semifinales, el subcampeón. El ganador ascendió a la [[Primera División de Argentina|Primera División]] junto con el campeón.
+
+=== Descensos ===
+Se decidieron mediante una tabla de promedios determinados por el cociente entre los puntos obtenidos y los partidos jugados en las tres últimas temporadas. Si un club ascendía y luego de una temporada descendía, se le contabilizan los puntos obtenidos en su campaña previa.
+
+Los tres últimos de dicha tabla descendieron a la [[Primera B (Argentina)|Primera B]] o a su respectiva [[Anexo:Ligas regionales de fútbol en Argentina|liga regional]], según correspondiera. Otro equipo indirectamente afiliado, que no fuera alguno de los últimos tres de la tabla de promedios, debió disputar una promoción contra un equipo del [[Torneo del Interior (1986-1995)|Torneo del Interior]].
+
+== Tabla de posiciones ==
+
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+<center>
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! Pts
+! PJ
+! G
+! E
+! P
+! GL
+! EL
+! PL
+! GV
+! EV
+! PV
+! GF
+! GC
+! DIF
+|- style="background: #B0EE90; text-align:center"
+||'''1.º'''||align="left"|'''[[Quilmes Atlético Club|Quilmes]]
+||'''54'''||42||19||16||7||12||8||1||7||8||6||53||28||25
+|- style="background: #CFC; text-align:center"
+||'''2.º'''||align="left"|[[Club Atlético Tucumán|Atlético Tucumán]]
+||'''52'''||42||17||18||7||14||5||2||3||13||5||62||40||22
+|- style="background: #C2EEFF; text-align:center"
+||'''3.º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]
+||'''52'''||42||20||12||10||12||7||2||8||5||8||53||34||19
+|-
+||'''4.º'''||align="left"|[[Club Atlético Cipolletti|Cipolletti]]<small><sup>1</sup></small>
+||'''48'''||42||18||12||12||13||4||4||5||8||8||54||38||16
+|- style="background: #C0DEFF; text-align:center"
+||'''5.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (Tucumán)]]
+||'''48'''||42||16||16||10||11||9||1||5||7||9||39||33||6
+|- style="background: #C0DEFF; text-align:center"
+||'''6.º'''||align="left"|[[Club Atlético Banfield|Banfield]]
+||'''47'''||42||13||21||8||11||8||2||2||13||6||45||38||7
+|- style="background: #C0DEFF; text-align:center"
+||'''7.º'''||align="left"|[[Club Almirante Brown|Almirante Brown]]
+||'''46'''||42||14||18||10||10||9||2||4||9||8||42||29||13
+|- style="background: #C0DEFF; text-align:center"
+||'''8.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||'''44'''||42||12||20||10||8||10||3||4||10||7||49||45||4
+|- style="background: #C0DEFF; text-align:center"
+||'''9.º'''||align="left"|[[Club Atlético Douglas Haig|Douglas Haig]]
+||'''44'''||42||14||16||12||10||7||4||4||9||8||37||37||0
+|- style="background: #C0DEFF; text-align:center"
+||'''10.º'''||align="left"|[[Club Deportivo Morón|Deportivo Morón]]
+||'''43'''||42||13||17||12||11||9||1||2||8||11||42||43||-1
+|- style="background: #C0DEFF; text-align:center"
+||'''11.º'''||align="left"|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+||'''42'''||42||17||8||17||13||4||4||4||4||13||51||48||3
+|-
+||'''12.º'''||align="left"|[[Club Atlético Tigre|Tigre]]
+||'''42'''||42||15||12||15||11||6||4||4||6||11||34||36||-2
+|-
+||'''13.º'''||align="left"|[[Club Atlético Talleres (Remedios de Escalada)|Talleres (Remedios de Escalada)]]
+||'''41'''||42||11||19||12||7||12||2||4||7||10||47||54||-7
+|-
+||'''14.º'''||align="left"|[[Club Atlético Racing|Racing (Córdoba)]]
+||'''40'''||42||11||18||13||10||8||3||1||10||10||51||54||-3
+|-
+||'''15.º'''||align="left"|[[Club Villa Dálmine|Villa Dálmine]]
+||'''39'''||42||13||13||16||10||9||2||3||4||14||30||37||-7
+|-
+||'''16.º'''||align="left"|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+||'''39'''||42||12||15||15||10||6||5||2||9||10||36||49||-13
+|-
+||'''17.º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||'''38'''||42||11||16||15||8||10||3||3||6||12||44||51||-7
+|-
+||'''18.º'''||align="left"|[[Club Deportivo Maipú|Deportivo Maipú]]
+||'''38'''||42||13||12||17||11||7||3||2||5||14||41||48||-7
+|-
+||'''19.º'''||align="left"|[[Club Atlético Colón|Colón]]
+||'''36'''||42||10||16||16||7||8||6||3||8||10||37||47||-10
+|-
+||'''20.º'''||align="left"|[[Club Sportivo Italiano|Deportivo Italiano]]
+||'''34'''||42||11||12||19||9||7||5||2||5||14||47||53||-6
+|-
+||'''21.º'''||align="left"|[[Club Central Córdoba (Santiago del Estero)|Central Córdoba (Sgo. del Estero)]]
+||'''33'''||42||11||11||20||7||7||7||4||4||13||52||74||-22
+|-
+||'''22.º'''||align="left"|[[Club Atlético Atlanta|Atlanta]]<small><sup>2</sup></small>
+||'''16'''||42||7||10||25||3||4||14||4||6||11||32||62||-30
+{{Tabla de posiciones fin
+ |color1=#90EE90| texto1=Campeón. Asciende directamente a [[Primera División de Argentina|Primera División]].
+ |color2=#CFC| texto2=Disputó el Torneo Reducido por el Segundo Ascenso a partir de las semifinales.
+ |color3=#C2EEFF| texto3=Disputó el Torneo Reducido por el Segundo Ascenso a partir de la segunda ronda.
+ |color4=#C0DEFF| texto4=Disputaron el Torneo Reducido por el Segundo Ascenso a partir de la primera ronda.
+}}
+
+<small><sup>1</sup>: No participó del Torneo Reducido por finalizar el campeonato en zona de descenso.
+
+<sup>2</sup>: Se le descontaron ocho puntos tras los incidentes en el partido contra [[Club Atlético Cipolletti|Cipolletti]].</small>
+<gallery mode=packed align=center>
+Archivo:Escudo de Quilmes Atlético Club.svg|'''[[Quilmes Atlético Club]]'''<br>Campeón de la Primera B Nacional 1990-91 (1.º título)<br>Ascendido a Primera División.
+</gallery>
+
+== Resultados ==
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 1
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|2 - 0
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|1 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|Deportivo Laferrere
+|0 - 1
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlanta
+|3 - 0
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Villa Dálmine
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|Quilmes
+|0 - 1
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Almirante Brown
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 2
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 0
+|Atlanta
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Laferrere
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|1 - 0
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|5 - 1
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Cipolletti (Rio Negro)
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|Racing (Córdoba)
+|0 - 1<ref group="nota">Suspendido a los 23' cuando el partido iba 0-0. Continuó el 7 de noviembre.</ref>
+|bgcolor=#D0E7FF|'''Quilmes
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 3
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|Central Córdoba (SdE)
+|1 - 2
+|bgcolor=#D0E7FF|'''Almirante Brown
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Cipolletti (Rio Negro)
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensa y Justicia
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Talleres (RdE)
+|-align=center
+|Deportivo Laferrere
+|0 - 1
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|-align=center
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''0 - 0
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 4
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Tigre
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Laferrere
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Maipú
+|-align=center
+|Douglas Haig
+|0 - 1
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Colón (Santa Fe)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|1 - 0
+|Central Córdoba (SdE)
+|-align=center
+|Atlético Tucumán
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 5
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|1 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|4 - 1
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|Colón (Santa Fe)
+|0 - 1
+|bgcolor=#D0E7FF|'''Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|2 - 0
+|Villa Dálmine
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''2 - 2
+|Deportivo Morón
+|-align=center
+|Deportivo Laferrere
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|3 - 1
+|Talleres (RdE)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 6
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|1 - 0
+|Instituto (Córdoba)
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''1 - 1
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|1 - 0
+|San Martín (Tucumán)
+|-align=center
+|Talleres (RdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 1
+|Belgrano (Córdoba)
+|-align=center
+|Atlético de Rafaela
+|0 - 1
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|2 - 1
+|Banfield
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''0 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 0
+|Almirante Brown
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 7
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Racing (Córdoba)
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|3 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|6 - 0
+|Talleres (RdE)
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Douglas Haig
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|2 - 1
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Deportivo Laferrere
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Villa Dálmine
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 8
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''0 - 0
+|Tigre
+|-align=center
+|Deportivo Laferrere
+|1 - 4
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|-align=center
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Colón (Santa Fe)
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Quilmes
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|3 - 1
+|Sportivo Italiano
+|-align=center
+|Defensa y Justicia
+|2 - 3
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Almirante Brown
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Cipolletti (Rio Negro)
+|-align=center
+|Atlético Tucumán
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 9
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Defensa y Justicia
+|-align=center
+|Central Córdoba (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Deportivo Morón
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|2 - 0
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Atlanta
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 10
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|1 - 0
+|San Martín (Tucumán)
+|-align=center
+|Atlanta
+|0 - 4
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Belgrano (Córdoba)
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 1
+|Central Córdoba (SdE)
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|1 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|2 - 1
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|2 - 1
+|Cipolletti (Rio Negro)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 11
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|3 - 0
+|Atlético Tucumán
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''1 - 1
+|Talleres (RdE)
+|-align=center
+|Banfield
+|0 - 2
+|bgcolor=#D0E7FF|'''Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|3 - 2
+|Villa Dálmine
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|3 - 0
+|Atlanta
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|1 - 0
+|Instituto (Córdoba)
+|-align=center
+|Cipolletti (Rio Negro)
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Deportivo Maipú
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 12
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|2 - 0
+|Tigre
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|2 - 0
+|Belgrano (Córdoba)
+|-align=center
+|Atlanta
+|bgcolor=#D0E7FF|'''2 - 2
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|1 - 0
+|Central Córdoba (SdE)
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|1 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|4 - 1
+|Atlético de Rafaela
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 13
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|2 - 1
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|1 - 0
+|Villa Dálmine
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Morón
+|-align=center
+|Sportivo Italiano
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Deportivo Maipú
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Instituto (Córdoba)
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''0 - 0
+|Colón (Santa Fe)
+|-align=center
+|Cipolletti (Rio Negro)
+|bgcolor=#D0E7FF|'''0 - 0
+|Douglas Haig
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 14
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|-align=center
+|Instituto (Córdoba)
+|0 - 2
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|1 - 0
+|Central Córdoba (SdE)
+|-align=center
+|Atlanta
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|2 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Sportivo Italiano
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 15
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Douglas Haig
+|-align=center
+|Belgrano Córdoba)
+|0 - 1
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|-align=center
+|Tigre
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 0
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|4 - 2
+|Deportivo Laferrere
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Deportivo Maipú
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|4 - 1
+|Talleres (RdE)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 16
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|2 - 0
+|Tigre
+|-align=center
+|Colón (Santa Fe)
+|1 - 4
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|4 - 3
+|Central Córdoba (SdE)
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|-align=center
+|Atlanta
+|0 - 2<ref group="nota">Suspendido a los 75'. No continuó y se dio por terminado con ese resultado.</ref>
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Defensa y Justicia
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''1 - 1
+|Belgrano (Córdoba)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 17
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''1 - 1
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 0
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 2
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|3 - 2
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 0
+|Deportivo Maipú
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|2 - 1
+|Colón (Santa Fe)
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|2 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|4 - 1
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|4 - 0
+|Deportivo Laferrere
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 18
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|1 - 0
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Tigre
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''2 - 2
+|Central Córdoba (SdE)
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|1 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlanta
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Sportivo Italiano
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 19
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 1
+|Douglas Haig
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|1 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|1 - 0
+|Atlanta
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''3 - 3
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|3 - 1
+|Deportivo Maipú
+|-align=center
+|Cipolletti (Rio Negro)
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''2 - 2
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|2 - 1
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|3 - 2
+|Belgrano (Córdoba)
+|-align=center
+|Banfield
+|0 - 1<ref group="nota">Suspendido a los 50' cuando el partido iba 0-1. Continuó el 27 de febrero de 1991.</ref>
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 20
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Sportivo Italiano
+|0 - 3
+|bgcolor=#D0E7FF|'''Tigre
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|2 - 1
+|Cipolletti (Rio Negro)
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Racing (Córdoba)
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán
+|-align=center
+|Atlanta
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Talleres (RdE)
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Douglas Haig
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|Central Córdoba (SdE)
+|-align=center
+|San Martín (Tucumán)
+|0 - 2
+|bgcolor=#D0E7FF|'''Almirante Brown
+|-align=center
+|Deportivo Maipú
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 21
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|1 - 0
+|Deportivo Morón
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 1
+|San Martín (Tucumán)
+|-align=center
+|Central Córdoba (SdE)
+|0 - 2
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 1
+|Villa Dálmine
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|3 - 0
+|Deportivo Laferrere
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Colón (Santa Fe)
+|-align=center
+|Almirante Brown
+|2 - 3
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 1
+|Deportivo Maipú
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 22
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Cipolletti (Rio Negro)
+|1 - 2
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Tigre
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 1
+|Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|2 - 1
+|San Martín (Tucumán)
+|-align=center
+|Atlético de Rafaela
+|0 - 1
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Maipú
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Laferrere
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|-align=center
+|Atlético Tucumán
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 23
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Deportivo Morón
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Cipolletti (Rio Negro)
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Banfield
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''0 - 0
+|Douglas Haig
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''1 - 1
+|Talleres (RdE)
+|-align=center
+|Sportivo Italiano
+|1 - 3
+|bgcolor=#D0E7FF|'''Almirante Brown
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 24
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 0
+|Deportivo Maipú
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Central Córdoba (SdE)
+|-align=center
+|Defensa y Justicia
+|0 - 2
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|1 - 0
+|Deportivo Laferrere
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Racing (Córdoba)
+|1 - 2
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|Quilmes
+|-align=center
+|Atlético Tucumán
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (Tucumán)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 25
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|2 - 1
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|2 - 0
+|Defensa y Justicia
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|1 - 0
+|Villa Dálmine
+|-align=center
+|Central Córdoba (SdE)
+|0 - 1
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|-align=center
+|Tigre
+|0 - 3
+|bgcolor=#D0E7FF|'''Atlanta
+|-align=center
+|Deportivo Laferrere
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Douglas Haig
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|2 - 0
+|Racing (Córdoba)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 26
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Instituto (Córdoba)
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|Tigre
+|-align=center
+|Cipolletti (Rio Negro)
+|2 - 3
+|bgcolor=#D0E7FF|'''Banfield
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Central Córdoba (SdE)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|-align=center
+|Talleres (RdE)
+|1 - 2
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 0
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 1
+|Belgrano (Córdoba)
+|-align=center
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 27
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Deportivo Morón
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''1 - 1
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|2 - 1
+|Defensa y Justicia
+|-align=center
+|Central Córdoba (SdE)
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|3 - 0
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 0
+|Atlanta
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''1 - 1
+|Talleres (RdE)
+|-align=center
+|Sportivo Italiano
+|1 - 3
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Douglas Haig
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 28
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 1
+|San Martín (Tucumán)
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Sportivo Italiano
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|1 - 0
+|Belgrano (Córdoba)
+|-align=center
+|Douglas Haig
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Colón (Santa Fe)
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|2 - 0
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|3 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|5 - 3
+|Central Córdoba (SdE)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 29
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|3 - 2
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|2 - 1
+|Deportivo Maipú
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|3 - 0
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 1
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|2 - 0
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano'''
+|1 - 0
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 0
+|Atlético Tucumán
+|-align=center
+|Almirante Brown
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Deportivo Morón
+|-align=center
+|Central Córdoba (SdE)
+|1 - 4
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 30
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|Tigre
+|-align=center
+|Atlético de Rafaela
+|bgcolor=#D0E7FF|'''0 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|Defensa y Justicia
+|2 - 3
+|bgcolor=#D0E7FF|'''Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|5 - 1
+|Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Atlanta
+|2 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|2 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 1
+|Instituto (Córdoba)
+|-align=center
+|Atlético Tucumán
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 31
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Instituto (Córdoba)
+|-align=center
+|Colón (Santa Fe)
+|0 - 1
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|4 - 0
+|Atlanta
+|-align=center
+|Belgrano
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|2 - 1
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|2 - 1
+|Douglas Haig
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''2 - 2
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|4 - 0
+|Defensa y Justicia
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|2 - 1
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 0
+|Atlético Tucumán
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 32
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|2 - 1
+|Tigre
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''0 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 1
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 0
+|Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Atlanta
+|0 - 2
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''1 - 1
+|Quilmes
+|-align=center
+|Deportivo Maipú
+|1 - 2
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''2 - 2
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 1
+|Racing (Córdoba)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 33
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''0 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|3 - 0
+|Deportivo Maipú
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Laferrere
+|-align=center
+|Sportivo Italiano
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|1 - 0
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|2 - 1
+|Douglas Haig
+|-align=center
+|bgcolor=#D0E7FF|''' Racing (Córdoba)
+|3 - 0
+|Defensa y Justicia
+|-align=center
+|Cipolletti (Rio Negro)
+|1 - 2
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|-align=center
+|Atlético de Rafaela
+|1 - 2
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''1 - 1
+|Instituto (Córdoba)
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 34
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 0
+|Atlético de Rafaela
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''2 - 2
+|Racing (Córdoba)
+|-align=center
+|Douglas Haig
+|bgcolor=#D0E7FF|'''2 - 2
+|Cipolletti (Rio Negro)
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''1 - 1
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|3 - 2
+|Banfield
+|-align=center
+|Atlanta
+|1 - 2
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Deportivo Maipú
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|-align=center
+|Atlético Tucumán
+|0 - 1
+|bgcolor=#D0E7FF|'''Tigre
+|-align=center
+|Colón (Santa Fe)
+|0 - 1
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 35
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Racing (Córdoba)
+|1 - 2
+|bgcolor=#D0E7FF|'''Douglas Haig
+|-align=center
+|Tigre
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|4 - 2
+|Instituto (Córdoba)
+|-align=center
+|Sportivo Italiano
+|bgcolor=#D0E7FF|'''1 - 1
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|4 - 2
+|Deportivo Laferrere
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|3 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|3 - 0
+|Talleres (RdE)
+|-align=center
+|Cipolletti (Rio Negro)
+|bgcolor=#D0E7FF|'''0 - 0
+|Villa Dálmine
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|4 - 1
+|Defensa y Justicia
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 36
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Tigre
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 0
+|Racing (Córdoba)
+|-align=center
+|Deportivo Morón
+|1 - 3
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|1 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|5 - 0
+|Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|2 - 1
+|Sportivo Italiano
+|-align=center
+|Colón (Santa Fe)
+|1 - 3
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''0 - 0
+|Quilmes
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 37
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|0 - 1
+|bgcolor=#D0E7FF|'''Quilmes
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|1 - 0
+|Colón (Santa Fe)
+|-align=center
+|Central Córdoba (SdE)
+|2 - 3
+|bgcolor=#D0E7FF|'''Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|3 - 1
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Almirante Brown
+|3 - 0
+|Deportivo Laferrere
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|3 - 1
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|4 - 0
+|Villa Dálmine
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''2 - 2
+|Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|4 - 1
+|Atlanta
+|-align=center
+|Atlético Tucumán
+|1 - 2
+|bgcolor=#D0E7FF|'''Douglas Haig
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 38
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|2 - 1
+|Tigre
+|-align=center
+|Douglas Haig
+|1 - 2
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|-align=center
+|Villa Dálmine
+|bgcolor=#D0E7FF|'''0 - 0
+|Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Morón
+|2 - 1
+|Atlético de Rafaela
+|-align=center
+|Atlanta
+|0 - 2
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|-align=center
+|Deportivo Laferrere
+|bgcolor=#D0E7FF|'''0 - 0
+|Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Maipú
+|2 - 0
+|Almirante Brown
+|-align=center
+|Instituto (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Banfield
+|-align=center
+|Colón (Santa Fe)
+|1 - 3
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|3 - 0
+|Sportivo Italiano
+|-align=center
+|Quilmes
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano (Córdoba)
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 39
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Tigre
+|0 - 1
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|4 - 2
+|Quilmes
+|-align=center
+|bgcolor=#D0E7FF|'''Central Córdoba (SdE)
+|1 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Banfield
+|2 - 1
+|Colón (Santa Fe)
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|INstituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 1
+|Deportivo Maipú
+|-align=center
+|Racing (Córdoba)
+|bgcolor=#D0E7FF|'''0 - 0
+|Deportivo Laferrere
+|-align=center
+|Atlético de Rafaela
+|0 - 2
+|bgcolor=#D0E7FF|'''Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|1 - 0
+|Deportivo Morón
+|-align=center
+|bgcolor=#D0E7FF|'''Defensa y Justicia
+|2 - 0
+|Villa Dálmine
+|-align=center
+|Talleres (RdE)
+|bgcolor=#D0E7FF|'''1 - 1
+|Douglas Haig
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 40
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Douglas Haig
+|1 - 0
+|Tigre
+|-align=center
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|2 - 1
+|Talleres (RdE)
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Defensa y Justicia
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|1 - 0
+|Atlético de Rafaela
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|Instituto (Córdoba)
+|0 - 1
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|-align=center
+|bgcolor=#D0E7FF|'''Colón (Santa Fe)
+|2 - 1
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''San Martín (Tucumán)
+|1 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|4 - 0
+|Central Córdoba (SdE)
+|-align=center
+|Belgrano (Córdoba)
+|bgcolor=#D0E7FF|'''1 - 1
+|Sportivo Italiano
+|}
+|}
+
+{| width=100%
+| valign=top width=50% align=left |
+{| class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="4" style="with: 100%;" align=center | Fecha 41
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|bgcolor=#D0E7FF|'''Tigre
+|1 - 0
+|Sportivo Italiano
+|-align=center
+|Central Córdoba (SdE)
+|bgcolor=#D0E7FF|'''0 - 0
+|Belgrano (Córdoba)
+|-align=center
+|Banfield
+|bgcolor=#D0E7FF|'''2 - 2
+|Quilmes
+|-align=center
+|Almirante Brown
+|bgcolor=#D0E7FF|'''0 - 0
+|San Martín (Tucumán)
+|-align=center
+|bgcolor=#D0E7FF|'''Cipolletti (Rio Negro)
+|2 - 0
+|Colón (Santa Fe)
+|-align=center
+|bgcolor=#D0E7FF|'''Racing (Córdoba)
+|3 - 2
+|Instituto (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|1 - 0
+|Deportivo Maipú
+|-align=center
+|bgcolor=#D0E7FF|'''Atlético Tucumán
+|3 - 1
+|Deportivo Laferrere
+|-align=center
+|Defensa y Justicia
+|bgcolor=#D0E7FF|'''1 - 1
+|Atlanta
+|-align=center
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|2 - 1
+|Deportivo Morón
+|-align=center
+|Douglas Haig
+|0 - 2
+|bgcolor=#D0E7FF|'''Villa Dálmine
+|}
+| valign=top width=50% align=left|
+{|class="wikitable collapsible collapsed" style="font-size:95%; text-align: center; width: 95%;"
+!colspan="12" style="with: 100%;" align=center | Fecha 42
+|-
+!width="150"|Local
+!width="75"|Resultado
+!width="150"|Visitante
+|-align=center
+|Villa Dálmine
+|0 - 1
+|bgcolor=#D0E7FF|'''Tigre
+|-align=center
+|Deportivo Morón
+|bgcolor=#D0E7FF|'''1 - 1
+|Douglas Haig
+|-align=center
+|Atlanta
+|0 - 1
+|bgcolor=#D0E7FF|'''Talleres (RdE)
+|-align=center
+|bgcolor=#D0E7FF|'''Deportivo Laferrere
+|1 - 0
+|Defensa y Justicia
+|-align=center
+|Deportivo Maipú
+|bgcolor=#D0E7FF|'''3 - 3
+|Atlético Tucumán
+|-align=center
+|Instituto (Córdoba)
+|0 - 1
+|bgcolor=#D0E7FF|'''Atlético de Rafaela
+|-align=center
+|Colón (Santa Fe)
+|bgcolor=#D0E7FF|'''1 - 1
+|Racing (Córdoba)
+|-align=center
+|bgcolor=#D0E7FF|'''Quilmes
+|1 - 0
+|Almirante Brown
+|-align=center
+|bgcolor=#D0E7FF|'''Belgrano (Córdoba)
+|1 - 0
+|Banfield
+|-align=center
+|bgcolor=#D0E7FF|'''Sportivo Italiano
+|2 - 1
+|Central Córdoba (SdE)
+|-align=center
+|San Martín (Tucumán)
+|bgcolor=#D0E7FF|'''2 - 2
+|Cipolletti (Rio Negro)
+|}
+|}
+
+== Torneo Reducido ==
+{{AP|Anexo:Torneo Reducido de Ascenso a Primera División de Argentina 1991|l1=Torneo Reducido 1991}}
+
+Los equipos ranqueados del 2.º al 10.º puesto del Campeonato Nacional B 1990-91, disputaron un Reducido de Ascenso por un segundo cupo para la Primera División. A estos 9 equipos se les sumaron los tres equipos recientemente ascendidos a la B Nacional: el [[Club Atlético Central Córdoba (Rosario)|Club Atlético Central Córdoba]] (campeón de la [[Campeonato de Primera B 1990-91 (Argentina)|Primera B 1989-90]]), el [[Club Atlético Nueva Chicago]] y el [[Club Atlético San Martín (San Juan)|Club Atlético San Martín]] (ascendidos del Campeonato de Primera B y el [[Torneo del Interior 1990-91]] respectivamente, que lograron sus ascensos a través de los [[Anexo:Torneo Zonal de Ascenso 1990-91|Torneos Zonales]]). Para todos los cruces, se establecieron ventajas deportivas a favor de los equipos que disputaron el Campeonato Nacional B, dependiendo de las posiciones en que finalizaron y también con relación a los 3 equipos recientemente ascendidos. 
+
+En esta oportunidad, como el [[Club Cipolletti]] finalizó el año en zona de descenso directo, a pesar de haber clasificado en cuarta colocación, fue impedido de participar de este certamen. Por tal motivo, los cupos se corrieron del 5.º al 11.º puesto, viéndose beneficiada para participar, la [[Asociación Mutual Social y Deportiva Atlético de Rafaela]]. 
+
+El ganador de este torneo fue el [[Club Atlético Belgrano]], que obtuvo la segunda plaza para ascender a la Primera División.
+
+=== Cuadro de desarrollo ===
+{{Copa
+|RD1-seed3= {{bandera|Provincia de Buenos Aires}}
+|RD1-seed4= {{bandera|Provincia de Santa Fe}}
+|RD1-team3= [[Club Almirante Brown|Almirante Brown]]
+|RD1-team4= '''[[Club Atlético Central Córdoba (Rosario)|Central Córdoba]] [[Rosario (Argentina)|(R)]]'''
+ |RD1-score3= 3
+ |RD1-score4= '''3'''
+ |RD1-score3-2= 4 
+ |RD1-score4-2= '''6'''
+|RD1-seed5= {{bandera|Provincia de Tucumán}}
+|RD1-seed6= {{bandera|Provincia de San Juan}}
+|RD1-team5= '''[[Club Atlético San Martín (Tucumán)|San Martín]] [[San Miguel de Tucumán|(T)]]'''
+|RD1-team6= [[Club Atlético San Martín (San Juan)|San Martín]] [[San Juan de la Frontera|(SJ)]]
+ |RD1-score5= '''0'''
+ |RD1-score6= 0
+ |RD1-score5-2= '''0''' 
+ |RD1-score6-2= 0
+|RD1-seed7= {{bandera|Provincia de Buenos Aires}}
+|RD1-seed8= {{bandera|Provincia de Buenos Aires}}
+|RD1-team7= '''[[Club Atlético Douglas Haig|Douglas Haig]]'''
+|RD1-team8= [[Club Deportivo Morón|Deportivo Morón]]
+ |RD1-score7= '''4'''
+ |RD1-score8= 2
+ |RD1-score7-2= '''2''' 
+ |RD1-score8-2= 2
+|RD1-seed13= {{bandera|Provincia de Buenos Aires}}
+|RD1-seed14= {{bandera|Ciudad de Buenos Aires}}
+|RD1-team13= '''[[Club Atlético Banfield|Banfield]]'''
+|RD1-team14= [[Club Atlético Nueva Chicago|Nueva Chicago]]
+ |RD1-score13= '''1'''
+ |RD1-score14= 1
+ |RD1-score13-2= '''3''' 
+ |RD1-score14-2= 0
+|RD1-seed15= {{bandera|Provincia de Córdoba (Argentina)}}
+|RD1-seed16= {{bandera|Provincia de Santa Fe}}
+|RD1-team15= '''[[Instituto Atlético Central Córdoba|Instituto]]'''
+|RD1-team16= [[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético Rafaela]]
+ |RD1-score15= '''1'''
+ |RD1-score16= 1
+ |RD1-score15-2= '''2''' 
+ |RD1-score16-2= 1
+|RD2-seed1= {{bandera|Provincia de Córdoba (Argentina)}}
+|RD2-seed2= {{bandera|Provincia de Santa Fe}}
+|RD2-team1= '''[[Club Atlético Belgrano|Belgrano]]''' (3.º BN)
+|RD2-team2= [[Club Atlético Central Córdoba (Rosario)|Central Córdoba]] [[Rosario (Argentina)|(R)]]
+ |RD2-score1= '''3'''
+ |RD2-score2= 3
+ |RD2-score1-2= '''3''' 
+ |RD2-score2-2= 1
+|RD2-seed3= {{bandera|Provincia de Tucumán}}
+|RD2-seed4= {{bandera|Provincia de Buenos Aires}}
+|RD2-team3= '''[[Club Atlético San Martín (Tucumán)|San Martín]] [[San Miguel de Tucumán|(T)]]'''
+|RD2-team4= [[Club Atlético Douglas Haig|Douglas Haig]]
+ |RD2-score3= '''3'''
+ |RD2-score4= 2
+ |RD2-score3-2= '''2''' 
+ |RD2-score4-2= 0
+|RD2-seed7= {{bandera|Provincia de Buenos Aires}}
+|RD2-seed8= {{bandera|Provincia de Córdoba (Argentina)}}
+|RD2-team7= '''[[Club Atlético Banfield|Banfield]]'''
+|RD2-team8= [[Instituto Atlético Central Córdoba|Instituto]]
+ |RD2-score7= '''0'''
+ |RD2-score8= 0
+ |RD2-score7-2= '''1''' 
+ |RD2-score8-2= 0
+|RD3-seed1= {{bandera|Provincia de Córdoba (Argentina)}}
+|RD3-seed2= {{bandera|Provincia de Tucumán}}
+|RD3-team1= '''[[Club Atlético Belgrano|Belgrano]]'''
+|RD3-team2= [[Club Atlético San Martín (Tucumán)|San Martín]] [[San Miguel de Tucumán|(T)]]
+ |RD3-score1= '''0'''
+ |RD3-score2= 1
+ |RD3-score1-2= '''2''' 
+ |RD3-score2-2= 1
+|RD3-seed3= {{bandera|Provincia de Tucumán}}
+|RD3-seed4= {{bandera|Provincia de Buenos Aires}}
+|RD3-team3= [[Club Atlético Tucumán|At. Tucumán]] (2.º BN)
+|RD3-team4= '''[[Club Atlético Banfield|Banfield]]'''
+ |RD3-score3= 0
+ |RD3-score4= '''2'''
+ |RD3-score3-2= 0 
+ |RD3-score4-2= '''2'''
+|RD4-seed1= {{bandera|Provincia de Córdoba (Argentina)}}
+|RD4-seed2= {{bandera|Provincia de Buenos Aires}}
+|RD4-team1= '''[[Club Atlético Belgrano|Belgrano]]'''
+|RD4-team2= [[Club Atlético Banfield|Banfield]]
+ |RD4-score1= '''1'''
+ |RD4-score2= 1
+ |RD4-score1-2= '''4''' 
+ |RD4-score2-2= 0
+}}
+'''Nota:''' En la línea superior de cada llave, figuran los equipos que definieron las llaves de vuelta de local, por tener ventaja deportiva. En caso de empate global, prevalecía dicha ventaja.
+
+<gallery mode=packed align=center>
+Archivo:Escudo Oficial del Club Atlético Belgrano.png|'''[[Club Atlético Belgrano]]'''<br>Ascendido a Primera División.
+</gallery>
+
+== Tabla de descenso ==
+{| class="wikitable sortable" style="text-align:center; margin-right: auto; margin-left: auto;"
+|- style="background:#dddddd;"
+! Pos
+! Equipo
+! [[Campeonato Nacional B 1988/89|88/89]]
+! [[Campeonato Nacional B 1989-90|89-90]]
+! 90-91
+! Total
+! PJ
+! Promedio
+|-
+||'''1.º'''||align="left"|[[Club Atlético Belgrano|Belgrano]]
+||50||47||52||149||126||'''1,182'''
+|-
+||'''2.º'''||align="left"|[[Club Atlético San Martín (Tucumán)|San Martín (Tucumán)]]
+||-||48||48||96||84||'''1,142'''
+|-
+||'''3.º'''||align="left"|[[Quilmes Atlético Club|Quilmes]]
+||37||53||54||144||126||'''1,142'''
+|-
+||'''4.º'''||align="left"|[[Club Atlético Tucumán|Atlético Tucumán]]
+||45||43||52||140||126||'''1,111'''
+|-
+||'''5.º'''||align="left"|[[Club Atlético Banfield|Banfield]]
+||44||46||47||137||126||'''1,087'''
+|-
+||'''6.º'''||align="left"|[[Club Almirante Brown|Almirante Brown]]
+||51||39||46||136||126||'''1,079'''
+|-
+||'''7.º'''||align="left"|[[Asociación Mutual Social y Deportiva Atlético de Rafaela|Atlético de Rafaela]]
+||-||47||42||89||84||'''1,059'''
+|-
+||'''8.º'''||align="left"|[[Instituto Atlético Central Córdoba|Instituto]]
+||-||-||44||44||42||'''1,047'''
+|-
+||'''9.º'''||align="left"|[[Club Atlético Colón|Colón]]
+||50||45||36||131||126||'''1,039'''
+|-
+||'''10.º'''||align="left"|[[Club Deportivo Morón|Deportivo Morón]]
+||-||-||43||43||42||'''1,023'''
+|-
+||'''11.º'''||align="left"|[[Club Atlético Douglas Haig|Douglas Haig]]
+||32||51||44||127||126||'''1,007'''
+|-
+||'''12.º'''||align="left"|[[Club Sportivo Italiano|Deportivo Italiano]]
+||46||46||34||126||126||'''1,000'''
+|- 
+||'''13.º'''||align="left"|[[Club Villa Dálmine|Villa Dálmine]]
+||-||44||39||83||84||'''0,988'''
+|-
+||'''14.º'''||align="left"|[[Club Atlético Talleres (Remedios de Escalada)|Talleres (Remedios de Escalada)]]
+||48||35||41||124||126||'''0,984'''
+|-
+||'''15.º'''||align="left"|[[Club Social y Deportivo Defensa y Justicia|Defensa y Justicia]]
+||49||35||38||122||126||'''0,968'''
+|-
+||'''16.º'''||align="left"|[[Club Atlético Racing|Racing (Córdoba)]]
+||-||-||40||40||42||'''0,952'''
+|-
+||'''17.º'''||align="left"|[[Club Social y Cultural Deportivo Laferrere|Deportivo Laferrere]]
+||-||-||39||39||42||'''0,928'''
+|-
+||'''18.º'''||align="left"|[[Club Deportivo Maipú|Deportivo Maipú]]
+||43||35||38||116||126||'''0,920'''
+|- style="background: #FCD0B4;"
+||'''19.º'''||align="left"|[[Club Central Córdoba (Santiago del Estero)|Central Córdoba (Sgo. del Estero)]]
+||43||37||33||113||126||'''0,896'''
+|- style="background: #FCD0B4;"
+||'''20.º'''||align="left"|[[Club Atlético Tigre|Tigre]]
+||30||41||42||113||126||'''0,896'''
+|- style="background: #FFCCCC;"
+||'''21.º'''||align="left"|[[Club Atlético Cipolletti|Cipolletti]]
+||28||33||48||109||126||'''0,865'''
+|- style="background: #FFCCCC;"
+||'''22.º'''||align="left"|[[Club Atlético Atlanta|Atlanta]]
+||-||-||16||16||42||'''0,380'''
+{{Tabla de posiciones fin
+ |color1=#FCD0B4| texto1=Debieron disputaron un desempate para definir el tercer descenso.
+ |color2=#FFCCCC| texto2=Descendieron a la [[Tercera categoría del fútbol argentino|tercera categoría]].
+}}
+
+== Descensos ==
+[[Club Atlético Atlanta|Atlanta]] y [[Club Atlético Cipolletti|Cipolletti (Río Negro)]] descendieron por peor promedio en las últimas tres temporadas.
+
+[[Club Central Córdoba (Santiago del Estero)|Central Córdoba (Santiago del Estero)]] y [[Club Atlético Tigre|Tigre]] debieron disputar un partido desempate para mantener la categoría ya que ambos equipos habían obtenido el mismo promedio en la tabla de descenso.
+
+[[Club Deportivo Maipú|Deportivo Maipú (Mendoza)]], a su vez, debió jugar un partido de promoción ante [[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz (Mendoza)]] para conservar el cupo en esta categoría.
+
+{| class="wikitable sortable collapsible" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan=100% style="with: 100%;" align=center | Desempate por el descenso
+|-
+!width=25%|Local
+!width=10%|Resultado
+!width=25%|Visitante
+!width=20%|Estadio 
+!width=20%|Fecha  
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Central Córdoba (Santiago del Estero)|Central Córdoba (Santiago del Estero)]]'''
+|3 - 0
+|[[Club Atlético Tigre|Tigre]]
+|[[Estadio 15 de Abril|15 de Abril]]
+|8 de junio de 1991
+|-
+|colspan=100% style="with: 75%;" align=center | [[Club Central Córdoba (Santiago del Estero)|Central Córdoba]] mantuvo la categoría. [[Club Atlético Tigre|Tigre]] descendió a la [[Primera B (Argentina)|Primera B Metropolitana]]
+|}
+
+{| class="wikitable sortable collapsible" style="font-size:95%; text-align: center; width: 95%;"
+|-
+!colspan=100% style="with: 100%;" align=center | Promoción B Nacional - Torneo del Interior
+|-
+!width=25%|Local
+!width=10%|Resultado
+!width=25%|Visitante
+!width=20%|Estadio 
+!width=20%|Fecha 
+|-align=center
+|bgcolor=#D0E7FF|'''[[Club Deportivo Maipú|Deportivo Maipú (Mendoza)]]'''
+|2 - 1
+|[[Club Deportivo Godoy Cruz Antonio Tomba|Godoy Cruz (Mendoza)]]
+|[[Estadio Malvinas Argentinas|Malvinas Argentinas]]
+|8 de junio de 1991
+|-
+|colspan=100% style="with: 75%;" align=center | [[Club Deportivo Maipú|Deportivo Maipú]] mantuvo la categoría.
+|}
+
+== Véase también ==
+* [[Campeonato de Primera División 1990-91 (Argentina)|Campeonato de Primera División 1990/91]]
+* [[Torneo del Interior 1990-91]]
+* [[Campeonato de Primera B 1990-91 (Argentina)|Campeonato de Primera B 1990/91]]
+* [[Campeonato de Primera C 1990-91 (Argentina)|Campeonato de Primera C 1990/91]]
+* [[Campeonato de Primera D 1990-91|Campeonato de Primera D 1990/91]]
+
+== Notas ==
+{{listaref|group="nota"}}
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+*[http://www.rsssf.com/tablesa/arg2-91.html RSSSF]
+
+{{Sucesión
+|título= V.º Torneo de [[Primera B Nacional]]
+|período=<small>'''Campeón: [[Quilmes Atlético Club|Quilmes]]''' (1.º título)</small>  
+|predecesor= [[Campeonato Nacional B 1989-90|Nacional B 1989-90]]
+|sucesor= [[Campeonato Nacional B 1991-92|Nacional B 1991-92]]
+}}
+
+{{Control de autoridades}}
+[[Categoría:Fútbol en Argentina en 1990]]
+[[Categoría:Fútbol en Argentina en 1991]]
+[[Categoría:Primera B Nacional|1990-91]]

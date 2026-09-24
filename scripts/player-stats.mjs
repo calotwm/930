@@ -58,7 +58,8 @@ export function parseStatsTable(tbl, isArgClub) {
   for (const r of g.slice(h2i + 1)) {
     if (r.some((c) => /Total/i.test(clean(c)))) {
       const page = links(r[0] ?? '')[0]?.page
-      if (page && !/Total/i.test(clean(r[0]))) {
+      // career totals ("Total en su carrera") can land under a club cell spanning into them
+      if (page && !/Total/i.test(clean(r[0])) && !r.some((c) => /carrera|general|club/i.test(clean(c)))) {
         const t = {}
         for (const k of Object.keys(cols)) t[k] = cols[k] >= 0 ? num(r[cols[k]]) : 0
         totals.set(page, t)

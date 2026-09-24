@@ -19,5 +19,6 @@
   },
   { "name": "Mario Cuenca", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
   { "name": "Sebastián Cejas", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
-  { "name": "Christian Gómez", "position": "AM", "goals": 126, "note": "Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez" }
+  { "name": "Christian Gómez", "position": "AM", "goals": 126, "note": "Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez" },
+  { "name": "Adrián Czornomaz", "position": "ST", "goals": 160, "note": "máximo goleador histórico de la Primera B Nacional (160) — es.wikipedia.org/wiki/Primera_B_Nacional; piso: no suma Primera" }
 ]

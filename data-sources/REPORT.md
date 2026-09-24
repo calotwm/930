@@ -17,8 +17,8 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 3.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
 - Solo Ascenso (B Metro, C, D y Federal A, copias de Internet Archive): 26 torneos, 891 jugadores; 138 totales sumados, 509 jugadores de ascenso agregados, 244 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
-- Fichas de jugadores (Wikipedia): 1719 con tabla de estadísticas; 1040 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Ignacio González: agregado (8); Mario Cuenca: 5 → 7; Christian Gómez: 25 → 126.
+- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1043 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Ignacio González: agregado (8); Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160.
 - Primera: 3292 · Primera Nacional: 1631
 - Por posición: GK 89 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 1899
 - Marcados para revisión: 2470
@@ -90,9 +90,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
 - seasons-before-*-not-counted: 213 jugadores
 - José Sand: active-in-source-update-2023
-- Santiago Silva: active-in-source-update-2023
-- Humberto Bravo: club-total-only
 - Javier Rossi: soloascenso-partial
+- Santiago Silva: active-in-source-update-2023
+- Adrián Czornomaz: editions-partial, manual-correction
+- Humberto Bravo: club-total-only
 - Christian Gómez: manual-correction
 - Luis Silba: season-list-truncated, soloascenso-partial
 - Hugo Pavone: active-in-source-update-2023
@@ -165,6 +166,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
 - Juan Pablo Zárate: season-list-truncated, soloascenso-partial
+- Lucas Licht: soloascenso-partial
 - Rodrigo Sánchez: soloascenso-partial, position-unverified
 - Raúl Armando Savoy: club-total-only
 - Silvio Carrario: cups-partial
@@ -201,7 +203,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Miguel Oviedo: club-total-only
 - Severino Varela: club-total-only
 - Fermín Flamini: club-total-only, position-unverified
-- Lucas Licht: soloascenso-partial
 - Miguel Ángel Ludueña: club-total-only
 - Gustavo Bou: cups-partial
 - Osvaldo Héctor Cruz: club-total-only, position-unverified
@@ -359,7 +360,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Eduardo Zárate: club-total-only, position-unverified
 - Marcos Fernández: season-list-truncated, soloascenso-partial
 - Roberto Oste: club-total-only, position-unverified
-- Adrián Czornomaz: editions-partial
 - Braian Guille: soloascenso-partial, position-unverified
 - Damián Bogado: soloascenso-partial, position-unverified
 - Elías Torancio: soloascenso-partial, position-unverified

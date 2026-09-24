@@ -894,6 +894,54 @@
   ]
  },
  {
+  "id": "javier-rossi",
+  "name": "Javier Rossi",
+  "shortName": "Rossi",
+  "position": "ST",
+  "goals": 176,
+  "leagueGoals": 174,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Tiro Federal Argentino (Rosario)",
+  "clubs": [
+   "Tiro Federal Argentino (Rosario)",
+   "Morón",
+   "Central Córdoba (SdE)",
+   "Platense",
+   "Def. Cambaceres",
+   "Almagro",
+   "Tiro Federal R",
+   "Defensa",
+   "Nueva Chicago",
+   "Ind. Rivadavia",
+   "Villa Dálmine",
+   "Dep. Morón",
+   "Central Córdoba",
+   "Dep. Riestra",
+   "Acassuso",
+   "Gimnasia y Tiro",
+   "Laferrere",
+   "Sp. Italiano",
+   "Lugano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Javier_Rossi"
+  },
+  "review": [
+   "soloascenso-partial"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 9",
+   "Primera C (copia del 05/12/2022): 9",
+   "Primera C (copia del 03/12/2023): 4",
+   "Primera C (copia del 03/12/2023): 4"
+  ]
+ },
+ {
   "id": "luis-artime",
   "name": "Luis Artime",
   "fullName": "Luis Artime",
@@ -942,6 +990,45 @@
   },
   "review": [
    "position-unverified"
+  ]
+ },
+ {
+  "id": "ramon-abila",
+  "name": "Ramón Ábila",
+  "shortName": "Ábila",
+  "position": "ST",
+  "goals": 171,
+  "leagueGoals": 110,
+  "cupGoals": 37,
+  "intlGoals": 24,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán",
+   "Boca Juniors",
+   "Colón",
+   "Instituto ACC",
+   "Sarmiento Junin",
+   "Dep. Morón",
+   "Colon",
+   "Barracas C.",
+   "Estudiantes RC"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Wanchope_%C3%81bila"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "cupSources": [
+   "Copa Libertadores 2016: 5",
+   "Copa Libertadores 2018: 5",
+   "Copa Sudamericana 2015: 5",
+   "Copa Argentina 2012: 3",
+   "Copa de la Liga Profesional 2020: 6"
   ]
  },
  {
@@ -1201,6 +1288,38 @@
   "review": [
    "position-unverified"
   ]
+ },
+ {
+  "id": "adrian-czornomaz",
+  "name": "Adrián Czornomaz",
+  "shortName": "Czornomaz",
+  "position": "ST",
+  "goals": 160,
+  "leagueGoals": 22,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Los Andes",
+  "clubs": [
+   "Los Andes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — tablas de goleadores por temporada (Primera B Nacional / Primera Nacional y copas)",
+   "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Czornomaz"
+  },
+  "editions": [
+   "Primera B Nacional / Primera Nacional 1996: 22"
+  ],
+  "review": [
+   "editions-partial",
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: máximo goleador histórico de la Primera B Nacional (160) — es.wikipedia.org/wiki/Primera_B_Nacional; piso: no suma Primera",
+   "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Czornomaz"
+  }
  },
  {
   "id": "ernesto-farias",
@@ -1467,45 +1586,6 @@
   },
   "review": [
    "position-unverified"
-  ]
- },
- {
-  "id": "ramon-abila",
-  "name": "Ramón Ábila",
-  "shortName": "Ábila",
-  "position": "ST",
-  "goals": 148,
-  "leagueGoals": 96,
-  "cupGoals": 29,
-  "intlGoals": 23,
-  "club": "Huracán",
-  "clubs": [
-   "Huracán",
-   "Boca Juniors",
-   "Colón",
-   "Instituto ACC",
-   "Sarmiento Junin",
-   "Dep. Morón",
-   "Colon",
-   "Barracas C.",
-   "Estudiantes RC"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Wanchope_%C3%81bila"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "cupSources": [
-   "Copa Libertadores 2016: 5",
-   "Copa Libertadores 2018: 5",
-   "Copa Sudamericana 2015: 5",
-   "Copa Argentina 2012: 3",
-   "Copa de la Liga Profesional 2020: 6"
   ]
  },
  {
@@ -2216,54 +2296,6 @@
   }
  },
  {
-  "id": "javier-rossi",
-  "name": "Javier Rossi",
-  "shortName": "Rossi",
-  "position": "ST",
-  "goals": 131,
-  "leagueGoals": 129,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Tiro Federal Argentino (Rosario)",
-  "clubs": [
-   "Tiro Federal Argentino (Rosario)",
-   "Morón",
-   "Central Córdoba (SdE)",
-   "Platense",
-   "Def. Cambaceres",
-   "Almagro",
-   "Tiro Federal R",
-   "Defensa",
-   "Nueva Chicago",
-   "Ind. Rivadavia",
-   "Villa Dálmine",
-   "Dep. Morón",
-   "Central Córdoba",
-   "Dep. Riestra",
-   "Acassuso",
-   "Gimnasia y Tiro",
-   "Laferrere",
-   "Sp. Italiano",
-   "Lugano"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Javier_Rossi"
-  },
-  "review": [
-   "soloascenso-partial"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 9",
-   "Primera C (copia del 05/12/2022): 9",
-   "Primera C (copia del 03/12/2023): 4",
-   "Primera C (copia del 03/12/2023): 4"
-  ]
- },
- {
   "id": "carlos-babington",
   "name": "Carlos Babington",
   "fullName": "Carlos Babington",
@@ -2489,9 +2521,9 @@
   "shortName": "Gómez",
   "position": "AM",
   "goals": 126,
-  "leagueGoals": 25,
+  "leagueGoals": 123,
   "cupGoals": 0,
-  "intlGoals": 0,
+  "intlGoals": 3,
   "club": "Independiente",
   "clubs": [
    "Independiente",
@@ -2502,15 +2534,15 @@
   "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2000s",
   "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/christian-gomez/leistungsdaten/spieler/39413"
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Christian_G%C3%B3mez"
   },
   "review": [
    "manual-correction"
   ],
   "secondarySource": {
    "name": "Corrección manual: Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez",
-   "url": "https://www.transfermarkt.com/christian-gomez/leistungsdaten/spieler/39413"
+   "url": "https://es.wikipedia.org/wiki/Christian_G%C3%B3mez"
   }
  },
  {
@@ -8087,7 +8119,7 @@
   "shortName": "Saviola",
   "position": "ST",
   "goals": 58,
-  "leagueGoals": 45,
+  "leagueGoals": 46,
   "cupGoals": 0,
   "intlGoals": 12,
   "club": "River Plate",
@@ -8208,6 +8240,38 @@
   ]
  },
  {
+  "id": "lucas-licht",
+  "name": "Lucas Licht",
+  "shortName": "Licht",
+  "position": "LB",
+  "goals": 56,
+  "leagueGoals": 49,
+  "cupGoals": 7,
+  "intlGoals": 0,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP",
+   "Racing Club",
+   "Gimnasia",
+   "Vil. San Carlos",
+   "Argentino Chac."
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Licht"
+  },
+  "review": [
+   "soloascenso-partial"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 20/11/2022): 10",
+   "Primera B Metropolitana (copia del 03/12/2023): 5"
+  ]
+ },
+ {
   "id": "martin-prost",
   "name": "Martín Prost",
   "shortName": "Prost",
@@ -8228,6 +8292,34 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Prost"
+  }
+ },
+ {
+  "id": "martin-rolle",
+  "name": "Martín Rolle",
+  "shortName": "Rolle",
+  "position": "AM",
+  "goals": 56,
+  "leagueGoals": 53,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Olimpo",
+  "clubs": [
+   "Unión (Santa Fe)",
+   "Olimpo",
+   "Arsenal FC",
+   "Guillermo Brown",
+   "CAI",
+   "San Lorenzo",
+   "Arsenal Sarandí",
+   "Unión Santa Fe"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Rolle"
   }
  },
  {
@@ -8419,34 +8511,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Leonardo_Pisculichi"
-  }
- },
- {
-  "id": "martin-rolle",
-  "name": "Martín Rolle",
-  "shortName": "Rolle",
-  "position": "AM",
-  "goals": 55,
-  "leagueGoals": 52,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Olimpo",
-  "clubs": [
-   "Unión (Santa Fe)",
-   "Olimpo",
-   "Arsenal FC",
-   "Guillermo Brown",
-   "CAI",
-   "San Lorenzo",
-   "Arsenal Sarandí",
-   "Unión Santa Fe"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Rolle"
   }
  },
  {
@@ -10792,38 +10856,6 @@
   }
  },
  {
-  "id": "lucas-licht",
-  "name": "Lucas Licht",
-  "shortName": "Licht",
-  "position": "LB",
-  "goals": 45,
-  "leagueGoals": 38,
-  "cupGoals": 7,
-  "intlGoals": 0,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP",
-   "Racing Club",
-   "Gimnasia",
-   "Vil. San Carlos",
-   "Argentino Chac."
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Lucas_Licht"
-  },
-  "review": [
-   "soloascenso-partial"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 20/11/2022): 10",
-   "Primera B Metropolitana (copia del 03/12/2023): 5"
-  ]
- },
- {
   "id": "marcelo-gallardo",
   "name": "Marcelo Gallardo",
   "shortName": "Gallardo",
@@ -11692,6 +11724,28 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "leonardo-rodriguez",
+  "name": "Leonardo Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "AM",
+  "goals": 42,
+  "leagueGoals": 41,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Lanús"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Leonardo_Rodr%C3%ADguez"
+  }
  },
  {
   "id": "maxi-moralez",
@@ -16722,6 +16776,32 @@
   ]
  },
  {
+  "id": "yamil-garnier",
+  "name": "Yamil Garnier",
+  "shortName": "Garnier",
+  "position": "RB",
+  "goals": 33,
+  "leagueGoals": 33,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Colón",
+  "clubs": [
+   "Colón",
+   "Atlético Uruguay",
+   "Tiro Federal R",
+   "Racing (Cba)",
+   "Sarmiento Junin",
+   "Colon"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Yamil_Garnier"
+  }
+ },
+ {
   "id": "alan-lescano",
   "name": "Alan Lescano",
   "shortName": "Lescano",
@@ -19562,6 +19642,37 @@
   }
  },
  {
+  "id": "renzo-tesuri",
+  "name": "Renzo Tesuri",
+  "shortName": "Tesuri",
+  "position": "RW",
+  "goals": 29,
+  "leagueGoals": 23,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Atlético Tucumán",
+  "clubs": [
+   "Atlético Tucumán",
+   "Gimnasia (J)",
+   "Ferro",
+   "Godoy Cruz",
+   "Atl. Tucumán"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Renzo_Tesuri"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "cupSources": [
+   "Copa Argentina 2026: 1"
+  ]
+ },
+ {
   "id": "rodrigo-diaz",
   "name": "Rodrigo Díaz",
   "shortName": "Díaz",
@@ -19589,32 +19700,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/rodrigo-diaz/leistungsdaten/spieler/55915"
-  }
- },
- {
-  "id": "yamil-garnier",
-  "name": "Yamil Garnier",
-  "shortName": "Garnier",
-  "position": "RB",
-  "goals": 29,
-  "leagueGoals": 29,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Colón",
-  "clubs": [
-   "Colón",
-   "Atlético Uruguay",
-   "Tiro Federal R",
-   "Racing (Cba)",
-   "Sarmiento Junin",
-   "Colon"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Yamil_Garnier"
   }
  },
  {
@@ -20339,37 +20424,6 @@
   ],
   "saSources": [
    "Torneo Federal A (copia del 13/12/2023): 6"
-  ]
- },
- {
-  "id": "renzo-tesuri",
-  "name": "Renzo Tesuri",
-  "shortName": "Tesuri",
-  "position": "RW",
-  "goals": 28,
-  "leagueGoals": 23,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Atlético Tucumán",
-  "clubs": [
-   "Atlético Tucumán",
-   "Gimnasia (J)",
-   "Ferro",
-   "Godoy Cruz",
-   "Atl. Tucumán"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Renzo_Tesuri"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "cupSources": [
-   "Copa Argentina 2026: 1"
   ]
  },
  {
@@ -21434,6 +21488,31 @@
   }
  },
  {
+  "id": "martin-aguirre",
+  "name": "Martín Aguirre",
+  "shortName": "Aguirre",
+  "position": "CM",
+  "goals": 26,
+  "leagueGoals": 25,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Godoy Cruz",
+   "Olimpo",
+   "River Plate",
+   "Santamarina",
+   "Villa Mitre"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Sebasti%C3%A1n_Aguirre"
+  }
+ },
+ {
   "id": "martin-morel",
   "name": "Martín Morel",
   "shortName": "Morel",
@@ -22199,28 +22278,6 @@
   "review": [
    "club-total-only"
   ]
- },
- {
-  "id": "leonardo-rodriguez",
-  "name": "Leonardo Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "AM",
-  "goals": 25,
-  "leagueGoals": 24,
-  "cupGoals": 0,
-  "intlGoals": 1,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo",
-   "Lanús"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Leonardo_Rodr%C3%ADguez"
-  }
  },
  {
   "id": "leonardo-sequeira",
@@ -23222,31 +23279,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Manuel_Lanzini"
-  }
- },
- {
-  "id": "martin-aguirre",
-  "name": "Martín Aguirre",
-  "shortName": "Aguirre",
-  "position": "CM",
-  "goals": 24,
-  "leagueGoals": 23,
-  "cupGoals": 1,
-  "intlGoals": 0,
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Godoy Cruz",
-   "Olimpo",
-   "River Plate",
-   "Santamarina",
-   "Villa Mitre"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2010s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Sebasti%C3%A1n_Aguirre"
   }
  },
  {
@@ -24665,33 +24697,6 @@
   },
   "review": [
    "season-list-truncated"
-  ]
- },
- {
-  "id": "adrian-czornomaz",
-  "name": "Adrián Czornomaz",
-  "shortName": "Czornomaz",
-  "position": "ST",
-  "goals": 22,
-  "leagueGoals": 22,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Los Andes",
-  "clubs": [
-   "Los Andes"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso y copas (goleadores por temporada, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — tablas de goleadores por temporada (Primera B Nacional / Primera Nacional y copas)",
-   "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Czornomaz"
-  },
-  "editions": [
-   "Primera B Nacional / Primera Nacional 1996: 22"
-  ],
-  "review": [
-   "editions-partial"
   ]
  },
  {
@@ -26806,6 +26811,38 @@
   ]
  },
  {
+  "id": "nahuel-lujan",
+  "name": "Nahuel Luján",
+  "shortName": "Luján",
+  "position": "AM",
+  "goals": 21,
+  "leagueGoals": 21,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "CB Ramón Santamarina",
+  "clubs": [
+   "CB Ramón Santamarina",
+   "Ferro Carril Oeste",
+   "Central Córdoba (SdE)",
+   "Belgrano",
+   "Agropecuario",
+   "San Miguel",
+   "Santamarina",
+   "Ferro",
+   "Central Córdoba"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Nahuel_Luj%C3%A1n"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "neri-cardozo",
   "name": "Neri Cardozo",
   "shortName": "Cardozo",
@@ -27486,7 +27523,7 @@
   "shortName": "Mosca",
   "position": "CM",
   "goals": 20,
-  "leagueGoals": 17,
+  "leagueGoals": 18,
   "cupGoals": 0,
   "intlGoals": 0,
   "club": "San Martín (San Juan)",
@@ -28648,6 +28685,32 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/eduardo-tuzzio/leistungsdaten/spieler/5318"
   }
+ },
+ {
+  "id": "elias-borrego",
+  "name": "Elías Borrego",
+  "shortName": "Borrego",
+  "position": "LW",
+  "goals": 19,
+  "leagueGoals": 19,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Platense",
+  "clubs": [
+   "Douglas Haig",
+   "Platense",
+   "Defensores de Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/El%C3%ADas_Borrego"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "enzo-noir",
@@ -32451,38 +32514,6 @@
   }
  },
  {
-  "id": "nahuel-lujan",
-  "name": "Nahuel Luján",
-  "shortName": "Luján",
-  "position": "AM",
-  "goals": 17,
-  "leagueGoals": 16,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "CB Ramón Santamarina",
-  "clubs": [
-   "CB Ramón Santamarina",
-   "Ferro Carril Oeste",
-   "Central Córdoba (SdE)",
-   "Belgrano",
-   "Agropecuario",
-   "San Miguel",
-   "Santamarina",
-   "Ferro",
-   "Central Córdoba"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Nahuel_Luj%C3%A1n"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "nicolas-franco",
   "name": "Nicolas Franco",
   "shortName": "Franco",
@@ -33240,32 +33271,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/elias-alderete/leistungsdaten/spieler/440170"
   }
- },
- {
-  "id": "elias-borrego",
-  "name": "Elías Borrego",
-  "shortName": "Borrego",
-  "position": "LW",
-  "goals": 16,
-  "leagueGoals": 16,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Platense",
-  "clubs": [
-   "Douglas Haig",
-   "Platense",
-   "Defensores de Belgrano"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/El%C3%ADas_Borrego"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "exequiel-zeballos",
@@ -39156,6 +39161,32 @@
   }
  },
  {
+  "id": "clemente-rodriguez",
+  "name": "Clemente Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "LB",
+  "goals": 13,
+  "leagueGoals": 11,
+  "cupGoals": 0,
+  "intlGoals": 2,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Colón",
+   "Boca Juniors",
+   "Estudiantes LP",
+   "Colon",
+   "Barracas C.",
+   "Dep. Merlo"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Clemente_Rodr%C3%ADguez"
+  }
+ },
+ {
   "id": "cristian-pellerano",
   "name": "Cristian Pellerano",
   "shortName": "Pellerano",
@@ -40539,6 +40570,37 @@
   }
  },
  {
+  "id": "matias-ballini",
+  "name": "Matías Ballini",
+  "shortName": "Ballini",
+  "position": "CM",
+  "goals": 13,
+  "leagueGoals": 10,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Villa Dálmine",
+  "clubs": [
+   "Rosario Central",
+   "Atlético Tucumán",
+   "Villa Dálmine",
+   "San Martín (Tucumán)",
+   "Atl. Tucumán",
+   "Colon",
+   "San Martín (T)",
+   "Dep. Morón"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Ballini"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
+ },
+ {
   "id": "matias-oyola",
   "name": "Matías Oyola",
   "shortName": "Oyola",
@@ -41443,32 +41505,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/claudio-gonzalez/leistungsdaten/spieler/810604"
-  }
- },
- {
-  "id": "clemente-rodriguez",
-  "name": "Clemente Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "LB",
-  "goals": 12,
-  "leagueGoals": 10,
-  "cupGoals": 0,
-  "intlGoals": 2,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Colón",
-   "Boca Juniors",
-   "Estudiantes LP",
-   "Colon",
-   "Barracas C.",
-   "Dep. Merlo"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Clemente_Rodr%C3%ADguez"
   }
  },
  {
@@ -48422,37 +48458,6 @@
   "review": [
    "soloascenso-partial",
    "position-unverified"
-  ]
- },
- {
-  "id": "matias-ballini",
-  "name": "Matías Ballini",
-  "shortName": "Ballini",
-  "position": "CM",
-  "goals": 10,
-  "leagueGoals": 10,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Villa Dálmine",
-  "clubs": [
-   "Rosario Central",
-   "Atlético Tucumán",
-   "Villa Dálmine",
-   "San Martín (Tucumán)",
-   "Atl. Tucumán",
-   "Colon",
-   "San Martín (T)",
-   "Dep. Morón"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Ballini"
-  },
-  "review": [
-   "season-list-truncated"
   ]
  },
  {
@@ -57836,6 +57841,29 @@
   }
  },
  {
+  "id": "ariel-garce",
+  "name": "Ariel Garcé",
+  "shortName": "Garcé",
+  "position": "CB",
+  "goals": 7,
+  "leagueGoals": 6,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Colón",
+  "clubs": [
+   "River Plate",
+   "Colón",
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ariel_Garc%C3%A9"
+  }
+ },
+ {
   "id": "benjamin-garre",
   "name": "Benjamín Garré",
   "shortName": "Garré",
@@ -63218,29 +63246,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "ariel-garce",
-  "name": "Ariel Garcé",
-  "shortName": "Garcé",
-  "position": "CB",
-  "goals": 6,
-  "leagueGoals": 6,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Colón",
-  "clubs": [
-   "River Plate",
-   "Colón",
-   "Rosario Central"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ariel-garce/leistungsdaten/spieler/56011"
-  }
  },
  {
   "id": "ariel-zapata",
@@ -82635,6 +82640,27 @@
   ]
  },
  {
+  "id": "lucas-souto",
+  "name": "Lucas Souto",
+  "shortName": "Souto",
+  "position": "RB",
+  "goals": 4,
+  "leagueGoals": 3,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Souto"
+  }
+ },
+ {
   "id": "lucas-suarez",
   "name": "Lucas Suárez",
   "shortName": "Suárez",
@@ -93754,27 +93780,6 @@
   ]
  },
  {
-  "id": "lucas-souto",
-  "name": "Lucas Souto",
-  "shortName": "Souto",
-  "position": "RB",
-  "goals": 3,
-  "leagueGoals": 2,
-  "cupGoals": 1,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Lucas_Souto"
-  }
- },
- {
   "id": "lucas-varaldo",
   "name": "Lucas Varaldo",
   "shortName": "Varaldo",
@@ -97485,6 +97490,31 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/agustin-alaniz/leistungsdaten/spieler/989203"
   }
+ },
+ {
+  "id": "agustin-aleo",
+  "name": "Agustín Aleo",
+  "shortName": "Aleo",
+  "position": "LB",
+  "goals": 2,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Ferro Carril Oeste",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "Alvarado"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Aleo"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "agustin-alvarez",
@@ -111538,31 +111568,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/adrian-romero/leistungsdaten/spieler/27463"
   }
- },
- {
-  "id": "agustin-aleo",
-  "name": "Agustín Aleo",
-  "shortName": "Aleo",
-  "position": "LB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Ferro Carril Oeste",
-  "clubs": [
-   "Ferro Carril Oeste",
-   "Alvarado"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/agustin-aleo/leistungsdaten/spieler/572088"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
  },
  {
   "id": "agustin-baldi",

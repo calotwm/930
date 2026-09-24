@@ -66,12 +66,12 @@ async function lookup(title) {
 
 const players = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'players.full.json'), 'utf8'))
 const extra = fs.existsSync(EXTRA) ? JSON.parse(fs.readFileSync(EXTRA, 'utf8')).map((e) => e.page) : []
-const out = fs.existsSync(OUT) && !process.argv.includes('--refresh') ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : {}
+const only = process.argv.find((a) => a.startsWith('--only='))?.slice(7).split(',')
+const out = fs.existsSync(OUT) && (only || !process.argv.includes('--refresh')) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : {}
 const retryNull = process.argv.includes('--retry-null')
 // extra pages and players whose total may still miss cups go first
 const maybeShort = (p) => /desde|Liga \(Primera\)|parcial/.test(p.scope)
 // --only "Name A,Name B" refetches just those names
-const only = process.argv.find((a) => a.startsWith('--only='))?.slice(7).split(',')
 const todo = only ?? [...new Set([...extra, ...players.filter(maybeShort).map((p) => p.name), ...players.map((p) => p.name)])].filter(
   (n) => !(n in out) || (retryNull && out[n] === null),
 )

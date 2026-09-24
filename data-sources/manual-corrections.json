@@ -18,5 +18,6 @@
     }
   },
   { "name": "Mario Cuenca", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
-  { "name": "Sebastián Cejas", "position": "GK", "goals": 7, "note": "aporte del autor del juego" }
+  { "name": "Sebastián Cejas", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
+  { "name": "Christian Gómez", "position": "AM", "goals": 126, "note": "Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez" }
 ]

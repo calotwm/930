@@ -2484,6 +2484,36 @@
   ]
  },
  {
+  "id": "christian-gomez",
+  "name": "Christian Gómez",
+  "shortName": "Gómez",
+  "position": "AM",
+  "goals": 126,
+  "leagueGoals": 25,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "Nueva Chicago",
+   "Arsenal FC"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/christian-gomez/leistungsdaten/spieler/39413"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez",
+   "url": "https://www.transfermarkt.com/christian-gomez/leistungsdaten/spieler/39413"
+  }
+ },
+ {
   "id": "daniel-onega",
   "name": "Daniel Onega",
   "shortName": "Onega",
@@ -21760,29 +21790,6 @@
    "club-total-only",
    "position-unverified"
   ]
- },
- {
-  "id": "christian-gomez",
-  "name": "Christian Gómez",
-  "shortName": "Gómez",
-  "position": "AM",
-  "goals": 25,
-  "leagueGoals": 25,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "Nueva Chicago",
-   "Arsenal FC"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/christian-gomez/leistungsdaten/spieler/39413"
-  }
  },
  {
   "id": "claudio-aquino",

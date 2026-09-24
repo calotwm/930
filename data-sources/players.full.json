@@ -1507,6 +1507,32 @@
   }
  },
  {
+  "id": "luciano-agnolin",
+  "name": "Luciano Agnolín",
+  "position": "ST",
+  "shortName": "Agnolín",
+  "club": "Temperley",
+  "clubs": [
+   "Temperley",
+   "Atlanta",
+   "All Boys",
+   "Tigre",
+   "Dock Sud",
+   "Ferro Carril Oeste"
+  ],
+  "division": "Ascenso",
+  "era": "1930s–1940s",
+  "source": {
+   "name": "Wikipedia — Luciano Agnolín",
+   "url": "https://en.wikipedia.org/wiki/Luciano_Agnol%C3%ADn"
+  },
+  "goals": 151,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "adolfo-pedernera",
   "name": "Adolfo Pedernera",
   "fullName": "Adolfo Alfredo Pedernera",
@@ -2350,6 +2376,34 @@
   }
  },
  {
+  "id": "jose-alfredo-zelaya",
+  "name": "José Alfredo Zelaya",
+  "shortName": "Alfredo Zelaya",
+  "position": "ST",
+  "goals": 130,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/jose-alfredo-zelaya/leistungsdaten/spieler/54485"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: 2.º goleador histórico de la B Nacional (130) — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677; piso",
+   "url": "https://www.transfermarkt.com/jose-alfredo-zelaya/leistungsdaten/spieler/54485"
+  }
+ },
+ {
   "id": "bernardo-gandulla",
   "name": "Bernardo Gandulla",
   "fullName": "Bernardo José Gandulla",
@@ -2951,6 +3005,34 @@
   "review": [
    "position-unverified"
   ]
+ },
+ {
+  "id": "juan-abaurre",
+  "name": "Juan Abaurre",
+  "shortName": "Abaurre",
+  "position": "ST",
+  "goals": 123,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Olimpo",
+  "clubs": [
+   "Olimpo"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/juan-abaurre/leistungsdaten/spieler/1067595"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: «Cachorro», 3.º goleador histórico de la B Nacional (123) — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677; piso",
+   "url": "https://www.transfermarkt.com/juan-abaurre/leistungsdaten/spieler/1067595"
+  }
  },
  {
   "id": "marcelo-delgado",
@@ -3570,6 +3652,42 @@
   "review": [
    "position-unverified"
   ]
+ },
+ {
+  "id": "luis-tonelotto",
+  "name": "Luis Tonelotto",
+  "shortName": "Tonelotto",
+  "position": "ST",
+  "goals": 115,
+  "leagueGoals": 17,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Martín (San Juan)",
+  "clubs": [
+   "San Martín (San Juan)",
+   "Sp. Italiano",
+   "Nueva Chicago",
+   "Almagro",
+   "Chacarita Jrs.",
+   "San Martín (SJ)",
+   "Ind. Rivadavia",
+   "Boca Unidos",
+   "Gimnasia (CdU)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/luis-tonelotto/leistungsdaten/spieler/30867"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: 4.º goleador histórico de la B Nacional (115) — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677; piso",
+   "url": "https://www.transfermarkt.com/luis-tonelotto/leistungsdaten/spieler/30867"
+  }
  },
  {
   "id": "ruben-galletti",
@@ -5236,6 +5354,72 @@
   "review": [
    "club-total-only"
   ]
+ },
+ {
+  "id": "daniel-gimenez",
+  "name": "Daniel Giménez",
+  "position": "ST",
+  "shortName": "Giménez",
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Godoy Cruz",
+   "Defensores de Belgrano",
+   "San Miguel",
+   "Independiente Rivadavia",
+   "Instituto",
+   "Chacarita Juniors",
+   "Los Andes"
+  ],
+  "division": "Ascenso",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Solo Ascenso — goleadores históricos de la B Nacional",
+   "url": "https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677"
+  },
+  "goals": 89,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
+  "id": "luis-salmeron",
+  "name": "Luis Salmerón",
+  "shortName": "Salmerón",
+  "position": "ST",
+  "goals": 89,
+  "leagueGoals": 20,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Ferro Carril Oeste",
+  "clubs": [
+   "Talleres",
+   "Independiente Rivadavia",
+   "Ferro Carril Oeste",
+   "Ferro",
+   "Dep. Armenio",
+   "Atlanta",
+   "Tigre",
+   "Banfield",
+   "Ind. Rivadavia",
+   "Tristán Suárez",
+   "Los Andes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/luis-salmeron/leistungsdaten/spieler/54652"
+  },
+  "review": [
+   "seasons-before-2008-not-counted",
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: «Pupi», 89 goles en la B Nacional — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677; piso",
+   "url": "https://www.transfermarkt.com/luis-salmeron/leistungsdaten/spieler/54652"
+  }
  },
  {
   "id": "bernardo-acosta",
@@ -28142,40 +28326,6 @@
   }
  },
  {
-  "id": "luis-salmeron",
-  "name": "Luis Salmerón",
-  "shortName": "Salmerón",
-  "position": "ST",
-  "goals": 20,
-  "leagueGoals": 20,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Ferro Carril Oeste",
-  "clubs": [
-   "Talleres",
-   "Independiente Rivadavia",
-   "Ferro Carril Oeste",
-   "Ferro",
-   "Dep. Armenio",
-   "Atlanta",
-   "Tigre",
-   "Banfield",
-   "Ind. Rivadavia",
-   "Tristán Suárez",
-   "Los Andes"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "1990s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/luis-salmeron/leistungsdaten/spieler/54652"
-  },
-  "review": [
-   "seasons-before-2008-not-counted"
-  ]
- },
- {
   "id": "marcelo-benitez",
   "name": "Marcelo Benítez",
   "shortName": "Benítez",
@@ -32341,35 +32491,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/luis-leal/leistungsdaten/spieler/158419"
-  }
- },
- {
-  "id": "luis-tonelotto",
-  "name": "Luis Tonelotto",
-  "shortName": "Tonelotto",
-  "position": "ST",
-  "goals": 17,
-  "leagueGoals": 17,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (San Juan)",
-  "clubs": [
-   "San Martín (San Juan)",
-   "Sp. Italiano",
-   "Nueva Chicago",
-   "Almagro",
-   "Chacarita Jrs.",
-   "San Martín (SJ)",
-   "Ind. Rivadavia",
-   "Boca Unidos",
-   "Gimnasia (CdU)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/luis-tonelotto/leistungsdaten/spieler/30867"
   }
  },
  {
@@ -92123,27 +92244,6 @@
   ]
  },
  {
-  "id": "jose-alfredo-zelaya",
-  "name": "José Alfredo Zelaya",
-  "shortName": "Alfredo Zelaya",
-  "position": "ST",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres",
-  "clubs": [
-   "Talleres"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jose-alfredo-zelaya/leistungsdaten/spieler/54485"
-  }
- },
- {
   "id": "jose-basualdo",
   "name": "José Basualdo",
   "shortName": "Basualdo",
@@ -121930,27 +122030,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "juan-abaurre",
-  "name": "Juan Abaurre",
-  "shortName": "Abaurre",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Olimpo",
-  "clubs": [
-   "Olimpo"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-abaurre/leistungsdaten/spieler/1067595"
-  }
  },
  {
   "id": "juan-bravo",

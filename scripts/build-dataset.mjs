@@ -661,8 +661,10 @@ function main() {
       const pretty = (x) => (x === x.toUpperCase() ? titleCase(x) : x)
       const name = pretty(rawName)
       const team = pretty(rawTeam)
-      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, teams: [], seasons: [] }
+      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, extra: 0, teams: [], seasons: [] }
       e.goals += goals
+      // goals Transfermarkt totals cannot already include
+      if (!SA_DIVISIONS[s.div].coveredByTm) e.extra += goals
       e.teams.push(team)
       e.seasons.push(`${s.label} (copia del ${s.timestamp.slice(6, 8)}/${s.timestamp.slice(4, 6)}/${s.timestamp.slice(0, 4)}): ${goals}`)
       saPlayers.set(norm(name), e)
@@ -674,12 +676,12 @@ function main() {
     const p = byName.get(norm(e.name))
     if (p) {
       // only totals that cannot already include these divisions
-      if (!SA_ADDABLE.has(p.scope.split(' + ')[0]) || !sameClub(e.teams, p.clubs ?? [])) {
+      if (!e.extra || !SA_ADDABLE.has(p.scope.split(' + ')[0]) || !sameClub(e.teams, p.clubs ?? [])) {
         saLog.unmatched++
         continue
       }
-      p.goals += e.goals
-      p.leagueGoals = (p.leagueGoals ?? 0) + e.goals
+      p.goals += e.extra
+      p.leagueGoals = (p.leagueGoals ?? 0) + e.extra
       p.scope = `${p.scope} + ascenso metropolitano/federal`
       p.saSources = e.seasons
       ;(p.review ??= []).push('soloascenso-partial')
@@ -867,7 +869,7 @@ function main() {
     '- `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).',
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
     '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
-    '- `soloascenso-partial`: goles de B Metro, C, D o Federal A tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
+    '- `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
     '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players

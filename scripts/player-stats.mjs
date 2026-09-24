@@ -23,12 +23,17 @@ const ARG = /\{\{\s*(ARG|bandera\|ARG|bandera\|Argentina|band\|ARG)\s*[|}]/i
 export function extractStatsTable(text) {
   const sec = text.search(/\n==\s*Estadísticas\s*==\s*\n/i)
   if (sec < 0) return null
-  const s = text.slice(sec)
-  const start = s.indexOf('{|')
-  if (start < 0) return null
-  const end = s.indexOf('\n|}', start)
-  const tbl = s.slice(start, end < 0 ? undefined : end)
-  return /Liga/i.test(tbl) && /Goles/i.test(tbl) ? tbl : null
+  // the section can open with a per-club summary table; take the first one with a Liga column
+  let s = text.slice(sec + 1)
+  const next = s.search(/\n==[^=]/)
+  if (next > 0) s = s.slice(0, next)
+  for (let start = s.indexOf('{|'); start >= 0; start = s.indexOf('{|', start + 2)) {
+    const end = s.indexOf('\n|}', start)
+    const tbl = s.slice(start, end < 0 ? undefined : end)
+    if (/Liga/i.test(tbl) && /Goles/i.test(tbl)) return tbl
+    if (end < 0) break
+  }
+  return null
 }
 
 // -> [{ club, page, arg, league, cups, intl, total }] summed over season rows (rows with "Total" skipped)
@@ -48,8 +53,18 @@ export function parseStatsTable(tbl, isArgClub) {
   }
   if (cols.league < 0 || cols.total < 0) return null
   const byClub = new Map()
+  // per-club "Total" rows: used when the season rows are incomplete ("?")
+  const totals = new Map()
   for (const r of g.slice(h2i + 1)) {
-    if (r.some((c) => /Total/i.test(clean(c)))) continue
+    if (r.some((c) => /Total/i.test(clean(c)))) {
+      const page = links(r[0] ?? '')[0]?.page
+      if (page && !/Total/i.test(clean(r[0]))) {
+        const t = {}
+        for (const k of Object.keys(cols)) t[k] = cols[k] >= 0 ? num(r[cols[k]]) : 0
+        totals.set(page, t)
+      }
+      continue
+    }
     const clubCell = r[0] ?? ''
     // later stints often repeat the club as plain text; join them with the linked entry of that name
     const text = clean(clubCell)
@@ -60,6 +75,10 @@ export function parseStatsTable(tbl, isArgClub) {
     const e = byClub.get(club.page) ?? { club: club.name, page: club.page, arg: ARG.test(clubCell) || isArgClub(club.page), league: 0, cups: 0, intl: 0, total: 0 }
     for (const k of Object.keys(cols)) if (cols[k] >= 0) e[k] += num(r[cols[k]])
     byClub.set(club.page, e)
+  }
+  for (const [page, t] of totals) {
+    const e = byClub.get(page)
+    if (e && t.total >= e.total) for (const k of Object.keys(cols)) e[k] = Math.max(e[k], t[k])
   }
   return [...byClub.values()]
 }

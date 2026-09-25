@@ -9,11 +9,12 @@ export function orderedPlayers(formation: Formation, lineup: Lineup): Player[] {
     .filter((p): p is Player => Boolean(p))
 }
 
-export function shareText(players: Player[], total: number, url: string): string {
+export function shareText(players: Player[], total: number, url: string, clubName?: string): string {
   const lines = players.map((p) => `${p.shortName} — ${p.goals}`)
-  const head =
-    total === TARGET ? `Igualé los ${TARGET} goles de Messi con un XI histórico argentino` : `${total} / ${TARGET}`
-  return [`930 ⚽ DESAFÍO HISTÓRICO`, head, '', ...lines, '', `Probalo: ${url}`].join('\n')
+  const xi = clubName ? `un XI de ${clubName}` : 'un XI histórico argentino'
+  const head = total === TARGET ? `Igualé los ${TARGET} goles de Messi con ${xi}` : `${total} / ${TARGET}`
+  const title = clubName ? `930 ⚽ MODO ${clubName.toUpperCase()}` : '930 ⚽ DESAFÍO HISTÓRICO'
+  return [title, head, '', ...lines, '', `Probalo: ${url}`].join('\n')
 }
 
 export async function renderShareImage(players: Player[], total: number): Promise<Blob | null> {
@@ -82,10 +83,10 @@ export async function renderShareImage(players: Player[], total: number): Promis
 
 export type ShareOutcome = 'shared' | 'copied' | 'cancelled' | 'failed'
 
-export async function shareResult(formation: Formation, lineup: Lineup, total: number): Promise<ShareOutcome> {
+export async function shareResult(formation: Formation, lineup: Lineup, total: number, clubName?: string): Promise<ShareOutcome> {
   const players = orderedPlayers(formation, lineup)
   const url = window.location.origin + window.location.pathname
-  const text = shareText(players, total, url)
+  const text = shareText(players, total, url, clubName)
   try {
     if (navigator.share) {
       const blob = await renderShareImage(players, total)

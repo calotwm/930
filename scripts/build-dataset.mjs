@@ -809,6 +809,14 @@ function main() {
   }
   report.push(`Correcciones manuales (data-sources/manual-corrections.json): ${corrected.join('; ') || 'ninguna'}.`)
 
+  // one spelling per club (sources name the same club differently): data-sources/club-aliases.json
+  const clubAlias = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-aliases.json'), 'utf8'))
+  const canonClub = (c) => clubAlias[c] ?? c
+  for (const p of players) {
+    if (p.club) p.club = canonClub(p.club)
+    if (p.clubs) p.clubs = [...new Set(p.clubs.map(canonClub))]
+  }
+
   // unique ids
   const seen = new Map()
   for (const p of players) {

@@ -16,6 +16,12 @@ export interface IndexedPlayer {
   haystack: string
 }
 
+// "Di María" is also found as "dimaria": consecutive name words joined
+const joinedPairs = (name: string) => {
+  const w = normalize(name).split(' ')
+  return w.slice(1).map((x, i) => w[i] + x).join(' ')
+}
+
 export function buildIndex(players: Player[]): IndexedPlayer[] {
   return players.map((player) => ({
     player,
@@ -28,6 +34,7 @@ export function buildIndex(players: Player[]): IndexedPlayer[] {
         POSITION_LABEL[player.position],
         player.division,
         player.era,
+        joinedPairs(player.name),
       ].join(' '),
     ),
   }))

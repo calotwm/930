@@ -1,0 +1,938 @@
+[
+ {
+  "name": "Bernabé Ferreyra",
+  "clubs": [
+   "River Plate",
+   "Tigre"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Carlos Bianchi",
+  "clubs": [
+   "Boca Juniors",
+   "Vélez Sarsfield"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Gabriel Batistuta",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP",
+   "Newell's Old Boys"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "José Omar Reinaldi",
+  "clubs": [
+   "Independiente",
+   "Talleres"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Esteban Fuertes",
+  "clubs": [
+   "Colón",
+   "Independiente"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Mariano Pavone",
+  "clubs": [
+   "Estudiantes LP"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Fernando Cavenaghi",
+  "clubs": [
+   "Quilmes",
+   "River Plate"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Juan Gilberto Funes",
+  "clubs": [
+   "River Plate",
+   "Vélez Sarsfield"
+  ],
+  "from": "River Plate"
+ },
+ {
+  "name": "Martín Palermo",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Diego Maradona",
+  "clubs": [
+   "Argentinos Juniors",
+   "Newell's Old Boys"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Juan Ramón Verón",
+  "clubs": [
+   "Estudiantes LP"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Carlos Bianchi",
+  "clubs": [
+   "River Plate",
+   "Vélez Sarsfield"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "José Sanfilippo",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Rodolfo Fischer",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Héctor Scotta",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Alberto Acosta",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Mauro Boselli",
+  "clubs": [
+   "Estudiantes LP"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Gabriel Batistuta",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP",
+   "Newell's Old Boys",
+   "River Plate"
+  ],
+  "from": "Boca Juniors"
+ },
+ {
+  "name": "Arsenio Erico",
+  "clubs": [
+   "Huracán",
+   "Independiente"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "Luis Artime",
+  "clubs": [
+   "Independiente",
+   "River Plate"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "Ernesto Grillo",
+  "clubs": [
+   "Boca Juniors",
+   "Independiente",
+   "Racing Club"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "José Luis Calderón",
+  "clubs": [
+   "Estudiantes LP"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "Esteban Fuertes",
+  "clubs": [
+   "Colón",
+   "River Plate"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "Germán Denis",
+  "clubs": [
+   "Colón",
+   "Independiente"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "José Omar Reinaldi",
+  "clubs": [
+   "River Plate",
+   "Talleres"
+  ],
+  "from": "Independiente"
+ },
+ {
+  "name": "Norberto Méndez",
+  "clubs": [
+   "Huracán"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Juan José Pizzuti",
+  "clubs": [
+   "Boca Juniors",
+   "Racing Club"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Llamil Simes",
+  "clubs": [
+   "Boca Juniors",
+   "Racing Club"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Ernesto Grillo",
+  "clubs": [
+   "Boca Juniors",
+   "Independiente"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Gabriel Hauche",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Rubén Capria",
+  "clubs": [
+   "Quilmes",
+   "Racing Club"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "Gonzalo Bergessio",
+  "clubs": [
+   "Racing Club",
+   "San Lorenzo"
+  ],
+  "from": "Racing Club"
+ },
+ {
+  "name": "José Sanfilippo",
+  "clubs": [
+   "Boca Juniors",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Rodolfo Fischer",
+  "clubs": [
+   "Boca Juniors",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Héctor Scotta",
+  "clubs": [
+   "Boca Juniors",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Alberto Acosta",
+  "clubs": [
+   "Boca Juniors",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Bernardo Romeo",
+  "clubs": [
+   "Boca Juniors",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "René Pontoni",
+  "clubs": [
+   "Newell's Old Boys",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Gonzalo Bergessio",
+  "clubs": [
+   "Racing Club"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Néstor Gorosito",
+  "clubs": [
+   "River Plate",
+   "San Lorenzo"
+  ],
+  "from": "San Lorenzo"
+ },
+ {
+  "name": "Herminio Masantonio",
+  "clubs": [
+   "Banfield",
+   "Huracán"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Miguel Brindisi",
+  "clubs": [
+   "Boca Juniors",
+   "Huracán"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Norberto Méndez",
+  "clubs": [
+   "Huracán",
+   "Racing Club"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "René Houseman",
+  "clubs": [
+   "Huracán",
+   "River Plate"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Carlos Babington",
+  "clubs": [
+   "Huracán",
+   "River Plate"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Antonio Mohamed",
+  "clubs": [
+   "Boca Juniors",
+   "Huracán"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Daniel Montenegro",
+  "clubs": [
+   "Independiente"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Ramón Ábila",
+  "clubs": [
+   "Colón",
+   "Huracán"
+  ],
+  "from": "Huracán"
+ },
+ {
+  "name": "Ricardo Infante",
+  "clubs": [
+   "Estudiantes LP",
+   "Gimnasia LP"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Juan Ramón Verón",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Martín Palermo",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Mauro Boselli",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "José Luis Calderón",
+  "clubs": [
+   "Estudiantes LP",
+   "Independiente"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Ernesto Farías",
+  "clubs": [
+   "Estudiantes LP",
+   "River Plate"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Alberto Zozaya",
+  "clubs": [
+   "Estudiantes LP",
+   "Racing Club"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Mariano Pavone",
+  "clubs": [
+   "Estudiantes LP",
+   "River Plate"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Gabriel Batistuta",
+  "clubs": [
+   "Boca Juniors",
+   "Newell's Old Boys",
+   "River Plate"
+  ],
+  "from": "Estudiantes LP"
+ },
+ {
+  "name": "Ricardo Infante",
+  "clubs": [
+   "Estudiantes LP"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Guillermo Barros Schelotto",
+  "clubs": [
+   "Boca Juniors",
+   "Gimnasia LP"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Gustavo Barros Schelotto",
+  "clubs": [
+   "Boca Juniors",
+   "Gimnasia LP"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Facundo Sava",
+  "clubs": [
+   "Gimnasia LP",
+   "Racing Club"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Delio Onnis",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Lucas Lobos",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "from": "Gimnasia LP"
+ },
+ {
+  "name": "Carlos Bianchi",
+  "clubs": [
+   "Boca Juniors",
+   "River Plate",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Mauro Zárate",
+  "clubs": [
+   "Boca Juniors",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Santiago Silva",
+  "clubs": [
+   "Boca Juniors",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Lucas Pratto",
+  "clubs": [
+   "River Plate",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Juan Manuel Martínez",
+  "clubs": [
+   "Boca Juniors",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Daniel Willington",
+  "clubs": [
+   "Talleres",
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "Rolando Zárate",
+  "clubs": [
+   "Vélez Sarsfield"
+  ],
+  "from": "Vélez Sarsfield"
+ },
+ {
+  "name": "René Pontoni",
+  "clubs": [
+   "San Lorenzo"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Gabriel Batistuta",
+  "clubs": [
+   "Boca Juniors",
+   "Estudiantes LP",
+   "River Plate"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Diego Maradona",
+  "clubs": [
+   "Argentinos Juniors",
+   "Boca Juniors"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Ignacio Scocco",
+  "clubs": [
+   "Newell's Old Boys",
+   "River Plate"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Maximiliano Rodríguez",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Sergio Almirón",
+  "clubs": [
+   "Newell's Old Boys",
+   "Quilmes"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Roque Alfaro",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "from": "Newell's Old Boys"
+ },
+ {
+  "name": "Diego Maradona",
+  "clubs": [
+   "Argentinos Juniors",
+   "Boca Juniors",
+   "Newell's Old Boys"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Claudio Borghi",
+  "clubs": [
+   "Argentinos Juniors",
+   "Boca Juniors"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Pedro Pasculli",
+  "clubs": [
+   "Argentinos Juniors",
+   "Colón"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Gabriel Hauche",
+  "clubs": [
+   "Argentinos Juniors",
+   "Racing Club"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Leonardo Pisculichi",
+  "clubs": [
+   "Argentinos Juniors",
+   "River Plate"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Lucas Barrios",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "from": "Argentinos Juniors"
+ },
+ {
+  "name": "Bernardo Gandulla",
+  "clubs": [
+   "Boca Juniors",
+   "Ferro Carril Oeste"
+  ],
+  "from": "Ferro Carril Oeste"
+ },
+ {
+  "name": "Héctor Berón",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "River Plate"
+  ],
+  "from": "Ferro Carril Oeste"
+ },
+ {
+  "name": "Oscar Dertycia",
+  "clubs": [
+   "Talleres"
+  ],
+  "from": "Ferro Carril Oeste"
+ },
+ {
+  "name": "Luis Salmerón",
+  "clubs": [
+   "Ferro Carril Oeste"
+  ],
+  "from": "Ferro Carril Oeste"
+ },
+ {
+  "name": "Esteban Fuertes",
+  "clubs": [
+   "Colón",
+   "Independiente",
+   "River Plate"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Pedro Pasculli",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "José Sand",
+  "clubs": [
+   "Banfield"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Germán Denis",
+  "clubs": [
+   "Independiente"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Emmanuel Gigliotti",
+  "clubs": [
+   "Boca Juniors",
+   "Colón"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Lucas Alario",
+  "clubs": [
+   "River Plate"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Ramón Ábila",
+  "clubs": [
+   "Huracán"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "José Luis Iglesias",
+  "clubs": [
+   "Colón",
+   "Quilmes"
+  ],
+  "from": "Colón"
+ },
+ {
+  "name": "Bernabé Ferreyra",
+  "clubs": [
+   "River Plate"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Carlos Luna",
+  "clubs": [
+   "Racing Club",
+   "San Lorenzo",
+   "Tigre"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Edgardo Paruzzo",
+  "clubs": [
+   "River Plate",
+   "Tigre"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Leandro Lázzaro",
+  "clubs": [
+   "Estudiantes LP",
+   "Tigre"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Denis Stracqualursi",
+  "clubs": [
+   "San Lorenzo",
+   "Tigre"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Mateo Retegui",
+  "clubs": [
+   "Boca Juniors",
+   "Tigre"
+  ],
+  "from": "Tigre"
+ },
+ {
+  "name": "Herminio Masantonio",
+  "clubs": [
+   "Huracán"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "José Sand",
+  "clubs": [
+   "Banfield",
+   "Colón"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "Darío Cvitanich",
+  "clubs": [
+   "Banfield",
+   "Boca Juniors"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "Julio Cruz",
+  "clubs": [
+   "Banfield",
+   "River Plate"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "Rodrigo López",
+  "clubs": [
+   "Banfield",
+   "Vélez Sarsfield"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "Jesús Dátolo",
+  "clubs": [
+   "Banfield",
+   "Boca Juniors"
+  ],
+  "from": "Banfield"
+ },
+ {
+  "name": "José Omar Reinaldi",
+  "clubs": [
+   "Independiente",
+   "River Plate",
+   "Talleres"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "Daniel Willington",
+  "clubs": [
+   "Talleres",
+   "Vélez Sarsfield"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "José Daniel Valencia",
+  "clubs": [
+   "Boca Juniors",
+   "Talleres"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "Mario Kempes",
+  "clubs": [
+   "Talleres"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "Oscar Dertycia",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "Talleres"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "Gonzalo Klusener",
+  "clubs": [
+   "Quilmes",
+   "Talleres"
+  ],
+  "from": "Talleres"
+ },
+ {
+  "name": "Sergio Almirón",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "Rubén Capria",
+  "clubs": [
+   "Racing Club"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "José Luis Iglesias",
+  "clubs": [
+   "Colón",
+   "Quilmes"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "Fernando Cavenaghi",
+  "clubs": [
+   "River Plate"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "Gonzalo Klusener",
+  "clubs": [
+   "Talleres"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "Emmanuel Gigliotti",
+  "clubs": [
+   "Boca Juniors",
+   "Colón"
+  ],
+  "from": "Quilmes"
+ },
+ {
+  "name": "Facundo Sava",
+  "clubs": [
+   "Gimnasia LP",
+   "Racing Club"
+  ],
+  "from": "Quilmes"
+ }
+]

@@ -856,6 +856,15 @@ function main() {
 
   // top scorers of each club (data-sources/club-top-scorers.json, goals scored for that club): the club
   // goes into the player's list, the total is raised to at least those goals, missing players are added
+  const CLUB_WIKI = Object.fromEntries(
+    Object.entries({
+      'River Plate': 'Club_Atlético_River_Plate', 'Boca Juniors': 'Club_Atlético_Boca_Juniors', Independiente: 'Club_Atlético_Independiente',
+      'Racing Club': 'Racing_Club', 'San Lorenzo': 'Club_Atlético_San_Lorenzo_de_Almagro', 'Huracán': 'Club_Atlético_Huracán',
+      'Estudiantes LP': 'Club_Estudiantes_de_La_Plata', 'Gimnasia LP': 'Club_de_Gimnasia_y_Esgrima_La_Plata', 'Vélez Sarsfield': 'Club_Atlético_Vélez_Sarsfield',
+      "Newell's Old Boys": "Club_Atlético_Newell's_Old_Boys", 'Argentinos Juniors': 'Asociación_Atlética_Argentinos_Juniors', 'Ferro Carril Oeste': 'Club_Ferro_Carril_Oeste',
+      'Colón': 'Club_Atlético_Colón', Tigre: 'Club_Atlético_Tigre', Banfield: 'Club_Atlético_Banfield', Talleres: 'Club_Atlético_Talleres_(Córdoba)', Quilmes: 'Quilmes_Atlético_Club',
+    }).map(([k, v]) => [k, `https://es.wikipedia.org/wiki/${encodeURIComponent(v)}`]),
+  )
   const tops = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-top-scorers.json'), 'utf8'))
   const topLog = { added: [], raised: 0 }
   for (const t of tops) {
@@ -868,6 +877,14 @@ function main() {
     const atClub = players.filter((x) => (x.clubs ?? [x.club]).includes(t.club))
     let p = atClub.filter((x) => norm(x.name) === norm(t.name))
     if (!p.length) p = atClub.filter((x) => within(x.name, t.name))
+    // the author's lists confirm the player was at the club: an exact, unique name is enough
+    if (!p.length && t.source.startsWith('Lista')) {
+      p = players.filter((x) => norm(x.name) === norm(t.name))
+      if (p.length === 1) {
+        if (!p[0].clubs) p[0].clubs = [p[0].club]
+        p[0].clubs.push(t.club)
+      }
+    }
     if (p.length === 1) {
       const x = p[0]
       if (x.goals < t.goals) {
@@ -877,6 +894,13 @@ function main() {
       continue
     }
     if (p.length > 1) continue
+    // already added from another club's list: same player, one more club
+    const prev = players.find((x) => x.review?.includes('club-top-scorers') && norm(x.name) === norm(t.name))
+    if (prev) {
+      if (!prev.clubs.includes(t.club)) prev.clubs.push(t.club)
+      if (prev.goals < t.goals) Object.assign(prev, { goals: t.goals, club: t.club, position: t.position })
+      continue
+    }
     const parts = t.name.split(' ')
     players.push({
       id: slug(t.name),
@@ -889,12 +913,32 @@ function main() {
       division: 'Primera',
       scope: `Goles en ${t.club} (máximos goleadores del club)`,
       era: '—',
-      source: { name: 'Máximos goleadores del club', url: t.source },
+      source: t.source.startsWith('http') ? { name: 'Máximos goleadores del club', url: t.source } : { name: `Máximos goleadores de ${t.club} (lista del autor del juego)`, url: CLUB_WIKI[t.club] ?? 'https://es.wikipedia.org' },
       review: ['club-top-scorers', 'position-unverified'],
     })
     topLog.added.push(t.name)
   }
   report.push(`Máximos goleadores por club (data-sources/club-top-scorers.json): ${topLog.raised} totales subidos, ${topLog.added.length} jugadores agregados (${topLog.added.join(', ')}).`)
+
+  // clubs a player also played for (data-sources/club-links.json, from the lists given by the game's author)
+  const nameWithin = (a, b) => {
+    const [s, l] = [norm(a).split(' '), norm(b).split(' ')].sort((x, y) => x.length - y.length)
+    return s.at(-1) === l.at(-1) && s.every((w) => l.includes(w))
+  }
+  const linkLog = { clubs: 0, missing: [] }
+  for (const l of JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-links.json'), 'utf8'))) {
+    let p = players.filter((x) => norm(x.name) === norm(l.name))
+    if (p.length !== 1) p = players.filter((x) => nameWithin(x.name, l.name) && (x.clubs ?? [x.club]).some((c) => l.clubs.includes(c)))
+    if (p.length !== 1) {
+      linkLog.missing.push(l.name)
+      continue
+    }
+    const x = p[0]
+    if (!x.clubs) x.clubs = [x.club]
+    for (const c of l.clubs) if (!x.clubs.includes(c)) (x.clubs.push(c), linkLog.clubs++)
+  }
+  report.push(`Clubes por jugador (data-sources/club-links.json): ${linkLog.clubs} clubes sumados; sin jugador que coincida: ${[...new Set(linkLog.missing)].join(', ') || 'ninguno'}.`)
+
 
   // unique ids
   const seen = new Map()

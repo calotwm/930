@@ -739,7 +739,9 @@ function main() {
     const { c: chosen, rows } = matches[0]
     usedTitles.add(chosen.title)
     const s2 = chosen
-    const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
+    // a row whose competition goals far exceed its own total read a matches column as goals: trust the total
+    const clean = rows.map((r) => (r.total > 0 && r.league + r.cups + r.intl > r.total + 5 ? { ...r, league: r.total, cups: 0, intl: 0 } : r))
+    const sum = (k) => clean.reduce((a, r) => a + r[k], 0)
     const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
     // goalkeeper tables often list goals conceded under "Goles": never raised from them
     const keeper = p.position === 'GK' || /arquero|portero|guardameta/i.test(chosen.position ?? '')
@@ -764,7 +766,9 @@ function main() {
     const rows = c ? argRowsOf(c) : []
     const name = (c?.title ?? page).replace(/\s*\([^)]*\)$/, '')
     if (!rows.length || players.some((p) => norm(p.name) === norm(name))) continue
-    const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
+    // a row whose competition goals far exceed its own total read a matches column as goals: trust the total
+    const clean = rows.map((r) => (r.total > 0 && r.league + r.cups + r.intl > r.total + 5 ? { ...r, league: r.total, cups: 0, intl: 0 } : r))
+    const sum = (k) => clean.reduce((a, r) => a + r[k], 0)
     const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
     const position = positionFromWiki(c.position)
     const clubs = rows.map((r) => cleanClub(r.club.replace(/^(C\.\s*A\.|C\.)\s*/, '').replace(/’/g, "'")))
@@ -798,8 +802,18 @@ function main() {
   const corrected = []
   for (const c of corrections) {
     const p = players.find((x) => norm(x.name) === norm(c.name) && x.position === c.position)
+    // `drop` removes a duplicate entry (same player loaded twice under another spelling)
+    if (c.drop) {
+      if (p) {
+        players.splice(players.indexOf(p), 1)
+        corrected.push(`${c.name}: duplicado quitado`)
+      }
+      continue
+    }
     const fields = { goals: c.goals, scope: 'Liga y copas con clubes argentinos' }
     if (p) {
+      // `set` overrides card fields too (position, clubs) when a source got them wrong
+      if (c.set) Object.assign(p, c.set)
       if (p.goals !== c.goals) corrected.push(`${p.name}: ${p.goals} → ${c.goals}`)
       Object.assign(p, fields, { review: [...(p.review ?? []), 'manual-correction'], secondarySource: { name: `Corrección manual: ${c.note}`, url: p.source.url } })
     } else if (c.add) {
@@ -808,6 +822,14 @@ function main() {
     } else skipped.push(`${c.name}: corrección manual sin jugador que coincida`)
   }
   report.push(`Correcciones manuales (data-sources/manual-corrections.json): ${corrected.join('; ') || 'ninguna'}.`)
+
+  // one spelling per club (sources name the same club differently): data-sources/club-aliases.json
+  const clubAlias = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-aliases.json'), 'utf8'))
+  const canonClub = (c) => clubAlias[c] ?? c
+  for (const p of players) {
+    if (p.club) p.club = canonClub(p.club)
+    if (p.clubs) p.clubs = [...new Set(p.clubs.map(canonClub))]
+  }
 
   // unique ids
   const seen = new Map()

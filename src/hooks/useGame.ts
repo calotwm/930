@@ -21,6 +21,9 @@ import type { Formation, Lineup, Player } from '../lib/types'
 
 const STORAGE_KEY = '930:game:v4'
 
+/** each mode (classic, one per club) keeps its own saved game */
+export const storageKeyFor = (clubId: string | null) => (clubId ? `${STORAGE_KEY}:club:${clubId}` : STORAGE_KEY)
+
 type Action =
   | { type: 'assign'; slotId: string; player: Player }
   | { type: 'remove'; slotId: string }
@@ -39,10 +42,10 @@ interface Saved {
   changes: Changes
 }
 
-function load(formation: Formation, pool: Player[]): Pick<State, 'lineup' | 'changes'> {
+function load(formation: Formation, pool: Player[], key: string): Pick<State, 'lineup' | 'changes'> {
   const base = { lineup: emptyLineup(formation), changes: NO_CHANGES }
   try {
-    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) ?? 'null') as Saved | null
+    const saved = JSON.parse(localStorage.getItem(key) ?? 'null') as Saved | null
     if (!saved) return base
     const byId = new Map(pool.map((p) => [p.id, p]))
     let lineup = base.lineup
@@ -60,7 +63,7 @@ function load(formation: Formation, pool: Player[]): Pick<State, 'lineup' | 'cha
   }
 }
 
-export function useGame(formation: Formation, pool: Player[]) {
+export function useGame(formation: Formation, pool: Player[], key = STORAGE_KEY) {
   const reducer = useCallback(
     (state: State, action: Action): State => {
       switch (action.type) {
@@ -94,7 +97,7 @@ export function useGame(formation: Formation, pool: Player[]) {
   )
 
   const [state, dispatch] = useReducer(reducer, undefined, () => ({
-    ...load(formation, pool),
+    ...load(formation, pool, key),
     delta: null,
     error: null,
   }))
@@ -105,11 +108,11 @@ export function useGame(formation: Formation, pool: Player[]) {
         lineup: Object.fromEntries(Object.entries(state.lineup).map(([k, p]) => [k, p?.id ?? null])),
         changes: state.changes,
       }
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(saved))
+      localStorage.setItem(key, JSON.stringify(saved))
     } catch {
       // storage unavailable (private mode); progress just isn't kept
     }
-  }, [state.lineup, state.changes])
+  }, [state.lineup, state.changes, key])
 
   const total = totalGoals(state.lineup)
   const status = scoreStatus(total)

@@ -2,7 +2,15 @@ import { TARGET } from '../lib/scoring'
 import { CafecitoButton } from './Cafecito'
 import { Logo } from './Logo'
 
-export function StartScreen({ playerCount, onStart }: { playerCount: number; onStart: () => void }) {
+export function StartScreen({
+  playerCount,
+  onStart,
+  onClubMode,
+}: {
+  playerCount: number
+  onStart: () => void
+  onClubMode?: () => void
+}) {
   return (
     <div className="relative min-h-dvh overflow-hidden" role="main" aria-label="Inicio">
       <div className="flag-stripe h-1.5 w-full" aria-hidden="true" />
@@ -44,6 +52,15 @@ export function StartScreen({ playerCount, onStart }: { playerCount: number; onS
           >
             Iniciar juego
           </button>
+          {onClubMode && (
+            <button
+              type="button"
+              onClick={onClubMode}
+              className="rounded-2xl border border-celeste/40 bg-celeste/10 py-3.5 font-extrabold tracking-wide text-celeste-soft uppercase transition active:scale-[0.98]"
+            >
+              Modo por club
+            </button>
+          )}
           <p className="text-[12px] text-chalk-dim">
             {playerCount.toLocaleString('es-AR')} jugadores de Primera y ascenso · liga, copas nacionales e internacionales
           </p>

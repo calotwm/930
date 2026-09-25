@@ -1,0 +1,758 @@
+[
+ {
+  "club": "River Plate",
+  "name": "Ángel Labruna",
+  "goals": 317,
+  "position": "ST",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Oscar Más",
+  "goals": 219,
+  "position": "ST",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Bernabé Ferreyra",
+  "goals": 201,
+  "position": "ST",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "José Manuel Moreno",
+  "goals": 180,
+  "position": "AM",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Adolfo Pedernera",
+  "goals": 131,
+  "position": "ST",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Enzo Francescoli",
+  "goals": 115,
+  "position": "AM",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Carlos Morete",
+  "goals": 103,
+  "position": "ST",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "River Plate",
+  "name": "Félix Loustau",
+  "goals": 101,
+  "position": "LW",
+  "source": "https://futdados.com/arg/goleadores-historicos-de-river-plate-ranking-completo/"
+ },
+ {
+  "club": "San Lorenzo",
+  "name": "José Sanfilippo",
+  "goals": 207,
+  "position": "ST",
+  "source": "https://sanlorenzo.com.ar/club/enciclonpedia/goleadores"
+ },
+ {
+  "club": "San Lorenzo",
+  "name": "Rinaldo Martino",
+  "goals": 162,
+  "position": "ST",
+  "source": "https://sanlorenzo.com.ar/club/enciclonpedia/goleadores"
+ },
+ {
+  "club": "San Lorenzo",
+  "name": "Rodolfo Fischer",
+  "goals": 145,
+  "position": "ST",
+  "source": "https://sanlorenzo.com.ar/club/enciclonpedia/goleadores"
+ },
+ {
+  "club": "San Lorenzo",
+  "name": "Isidro Lángara",
+  "goals": 110,
+  "position": "ST",
+  "source": "https://sanlorenzo.com.ar/club/enciclonpedia/goleadores"
+ },
+ {
+  "club": "Vélez Sarsfield",
+  "name": "Carlos Bianchi",
+  "goals": 206,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_(f%C3%BAtbol)"
+ },
+ {
+  "club": "Vélez Sarsfield",
+  "name": "Juan José Ferraro",
+  "goals": 157,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_(f%C3%BAtbol)"
+ },
+ {
+  "club": "Vélez Sarsfield",
+  "name": "Juan Carlos Carone",
+  "goals": 76,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_(f%C3%BAtbol)"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Manuel Pelegrina",
+  "goals": 235,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Alberto Zozaya",
+  "goals": 196,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Ricardo Infante",
+  "goals": 181,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Alejandro Scopelli",
+  "goals": 139,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Hugo Gottardi",
+  "goals": 129,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Manuel Ferreira",
+  "goals": 100,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Juan Ramón Verón",
+  "goals": 96,
+  "position": "LW",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Ernesto Farías",
+  "goals": 95,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "Mauro Boselli",
+  "goals": 93,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Estudiantes LP",
+  "name": "José Luis Calderón",
+  "goals": 92,
+  "position": "ST",
+  "source": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+ },
+ {
+  "club": "Gimnasia LP",
+  "name": "Arturo Naón",
+  "goals": 95,
+  "position": "ST",
+  "source": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+ },
+ {
+  "club": "Gimnasia LP",
+  "name": "Ismael Morgada",
+  "goals": 91,
+  "position": "ST",
+  "source": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+ },
+ {
+  "club": "Gimnasia LP",
+  "name": "Manuel Fidel",
+  "goals": 80,
+  "position": "ST",
+  "source": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+ },
+ {
+  "club": "Gimnasia LP",
+  "name": "Delio Onnis",
+  "goals": 54,
+  "position": "ST",
+  "source": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+ },
+ {
+  "club": "Newell's Old Boys",
+  "name": "Manuel González",
+  "goals": 163,
+  "position": "ST",
+  "source": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+ },
+ {
+  "club": "Newell's Old Boys",
+  "name": "Víctor Ramos",
+  "goals": 102,
+  "position": "ST",
+  "source": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+ },
+ {
+  "club": "Newell's Old Boys",
+  "name": "Santiago Santamaría",
+  "goals": 90,
+  "position": "LW",
+  "source": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+ },
+ {
+  "club": "Newell's Old Boys",
+  "name": "Alfredo Obberti",
+  "goals": 89,
+  "position": "ST",
+  "source": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+ },
+ {
+  "club": "Newell's Old Boys",
+  "name": "Ignacio Scocco",
+  "goals": 85,
+  "position": "ST",
+  "source": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+ },
+ {
+  "club": "Banfield",
+  "name": "Gustavo Albella",
+  "goals": 136,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Rafael Sanz",
+  "goals": 81,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Norberto Raffo",
+  "goals": 68,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Luis Eduardo Suárez",
+  "goals": 68,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Darío Cvitanich",
+  "goals": 66,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Miguel Oswaldo González",
+  "goals": 65,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Roberto Zárate",
+  "goals": 64,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Miguel Robinson Hernández",
+  "goals": 62,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Ernesto Álvarez",
+  "goals": 60,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Banfield",
+  "name": "Daniel Delfino",
+  "goals": 57,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Carlos Alberto Vidal",
+  "goals": 108,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Héctor Arregui",
+  "goals": 101,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Bernardo Gandulla",
+  "goals": 91,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Juan Domingo Rocchia",
+  "goals": 89,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Luis Salmerón",
+  "goals": 87,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Alberto Piovano",
+  "goals": 79,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Antonio Garabal",
+  "goals": 68,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Rodolfo Danza",
+  "goals": 63,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Alfredo Borgnia",
+  "goals": 62,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Ferro Carril Oeste",
+  "name": "Héctor Berón",
+  "goals": 60,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
+ },
+ {
+  "club": "Huracán",
+  "name": "Herminio Masantonio",
+  "goals": 270,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Huracán",
+  "name": "Miguel Brindisi",
+  "goals": 172,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Huracán",
+  "name": "Emilio Baldonedo",
+  "goals": 167,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Huracán",
+  "name": "Carlos Babington",
+  "goals": 130,
+  "position": "AM",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Huracán",
+  "name": "Ángel Chiesa",
+  "goals": 110,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Huracán",
+  "name": "René Houseman",
+  "goals": 109,
+  "position": "RW",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Huracán"
+ },
+ {
+  "club": "Independiente",
+  "name": "Arsenio Erico",
+  "goals": 295,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Manuel Seoane",
+  "goals": 233,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Vicente de la Mata",
+  "goals": 152,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Luis Ravaschino",
+  "goals": 136,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Antonio Sastre",
+  "goals": 112,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Ricardo Bochini",
+  "goals": 108,
+  "position": "AM",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Norberto Outes",
+  "goals": 90,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Ernesto Grillo",
+  "goals": 90,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Raimundo Orsi",
+  "goals": 90,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Independiente",
+  "name": "Camilo Cervino",
+  "goals": 89,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Independiente"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Alberto Ohaco",
+  "goals": 244,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Alberto Marcovecchio",
+  "goals": 207,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Alberico Zabaleta",
+  "goals": 141,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Evaristo Barrera",
+  "goals": 138,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Juan José Pizzuti",
+  "goals": 125,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Pablo Frers",
+  "goals": 121,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Natalio Perinetti",
+  "goals": 112,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Pedro Ochoa",
+  "goals": 109,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Racing Club",
+  "name": "Llamil Simes",
+  "goals": 106,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Racing_Club"
+ },
+ {
+  "club": "Lanús",
+  "name": "José Sand",
+  "goals": 173,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Luis Arrieta",
+  "goals": 120,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Gilmar Villagrán",
+  "goals": 112,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Ángel Silva",
+  "goals": 92,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Bernardo Acosta",
+  "goals": 88,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Claudio Nigretti",
+  "goals": 84,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "Carlos Spadaro",
+  "goals": 79,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Lanús",
+  "name": "José Luis Lodico",
+  "goals": 70,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Lanús"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Diego Maradona",
+  "goals": 116,
+  "position": "AM",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Pedro Pasculli",
+  "goals": 87,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Rafael Moreno",
+  "goals": 82,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Miguel Turello",
+  "goals": 67,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Mario Sciarra",
+  "goals": 65,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Julio Pisapia",
+  "goals": 65,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Amadeo Colángelo",
+  "goals": 64,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Jorge Quinteros",
+  "goals": 63,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Argentinos Juniors",
+  "name": "Carlos Ereros",
+  "goals": 58,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+ },
+ {
+  "club": "Boca Juniors",
+  "name": "Martín Palermo",
+  "goals": 236,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+ },
+ {
+  "club": "Boca Juniors",
+  "name": "Roberto Cherro",
+  "goals": 223,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+ },
+ {
+  "club": "Boca Juniors",
+  "name": "Francisco Varallo",
+  "goals": 194,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+ },
+ {
+  "club": "Boca Juniors",
+  "name": "Domingo Tarasconi",
+  "goals": 193,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+ },
+ {
+  "club": "Boca Juniors",
+  "name": "Jaime Sarlanga",
+  "goals": 129,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Boca_Juniors"
+ },
+ {
+  "club": "Quilmes",
+  "name": "Juan Ramón Santos",
+  "goals": 123,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Quilmes_Atl%C3%A9tico_Club_(f%C3%BAtbol)"
+ },
+ {
+  "club": "Talleres",
+  "name": "Miguel Antonio Romero",
+  "goals": 163,
+  "position": "ST",
+  "source": "https://castillosdecordoba.es/quien-es-el-maximo-goleador-de-la-historia-de-talleres-de-cordoba/"
+ },
+ {
+  "club": "Tigre",
+  "name": "Juan Marvezzi",
+  "goals": 115,
+  "position": "ST",
+  "source": "https://es.wikipedia.org/wiki/Club_Atlético_Tigre"
+ },
+ {
+  "club": "Rosario Central",
+  "name": "Harry Hayes",
+  "goals": 198,
+  "position": "ST",
+  "source": "https://www.lacapital.com.ar/novedades/rosario-central-goleadores-y-presencias-n10004537.html"
+ },
+ {
+  "club": "Rosario Central",
+  "name": "Ennis Hayes",
+  "goals": 158,
+  "position": "ST",
+  "source": "https://www.lacapital.com.ar/novedades/rosario-central-goleadores-y-presencias-n10004537.html"
+ },
+ {
+  "club": "Rosario Central",
+  "name": "Mario Kempes",
+  "goals": 94,
+  "position": "ST",
+  "source": "https://www.lacapital.com.ar/novedades/rosario-central-goleadores-y-presencias-n10004537.html"
+ },
+ {
+  "club": "Rosario Central",
+  "name": "Waldino Aguirre",
+  "goals": 98,
+  "position": "ST",
+  "source": "https://www.lacapital.com.ar/novedades/rosario-central-goleadores-y-presencias-n10004537.html"
+ }
+]

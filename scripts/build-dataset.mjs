@@ -831,6 +831,29 @@ function main() {
     if (p.clubs) p.clubs = [...new Set(p.clubs.map(canonClub))]
   }
 
+  // Wikipedia "Futbolistas del <club>" categories (scripts/fetch-club-categories.mjs): everyone who
+  // played for the club, even briefly. Added to the player's clubs when the name is unambiguous.
+  const catFile = path.join(RAW, 'wikipedia', 'club-categories.json')
+  if (fs.existsSync(catFile)) {
+    const cats = JSON.parse(fs.readFileSync(catFile, 'utf8'))
+    const byNorm = new Map()
+    for (const p of players) byNorm.set(norm(p.name), [...(byNorm.get(norm(p.name)) ?? []), p])
+    let added = 0
+    for (const [club, titles] of Object.entries(cats)) {
+      for (const t of titles) {
+        const list = byNorm.get(norm(t.replace(/\s*\(.*\)$/, '')))
+        if (list?.length !== 1) continue
+        const p = list[0]
+        if (!p.clubs) p.clubs = [p.club]
+        if (!p.clubs.includes(club)) {
+          p.clubs.push(club)
+          added++
+        }
+      }
+    }
+    report.push(`Categorías de Wikipedia por club: ${added} clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).`)
+  }
+
   // unique ids
   const seen = new Map()
   for (const p of players) {

@@ -6816,6 +6816,38 @@
   }
  },
  {
+  "id": "leandro-lazzaro",
+  "name": "Leandro Lazzaro",
+  "shortName": "Lazzaro",
+  "position": "ST",
+  "goals": 72,
+  "leagueGoals": 30,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "Estudiantes LP",
+   "Nueva Chicago",
+   "Instituto ACC",
+   "Dep. Merlo"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/leandro-lazzaro/leistungsdaten/spieler/53131"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego",
+   "url": "https://www.transfermarkt.com/leandro-lazzaro/leistungsdaten/spieler/53131"
+  }
+ },
+ {
   "id": "nacho-fernandez",
   "name": "Nacho Fernández",
   "shortName": "Fernández",
@@ -7015,6 +7047,38 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "daniel-tilger",
+  "name": "Daniel Tilger",
+  "shortName": "Tilger",
+  "position": "ST",
+  "goals": 69,
+  "leagueGoals": 50,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Unión (Santa Fe)",
+  "clubs": [
+   "Unión (Santa Fe)",
+   "Nueva Chicago",
+   "Lanús",
+   "Tiro Federal Argentino (Rosario)",
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/daniel-tilger/leistungsdaten/spieler/147488"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego",
+   "url": "https://www.transfermarkt.com/daniel-tilger/leistungsdaten/spieler/147488"
+  }
  },
  {
   "id": "lucas-albertengo",
@@ -9682,31 +9746,6 @@
    "Primera C (copia del 03/12/2023): 17",
    "Primera C (copia del 07/12/2024): 11"
   ]
- },
- {
-  "id": "daniel-tilger",
-  "name": "Daniel Tilger",
-  "shortName": "Tilger",
-  "position": "ST",
-  "goals": 50,
-  "leagueGoals": 50,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Unión (Santa Fe)",
-  "clubs": [
-   "Unión (Santa Fe)",
-   "Nueva Chicago",
-   "Lanús",
-   "Tiro Federal Argentino (Rosario)",
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/daniel-tilger/leistungsdaten/spieler/147488"
-  }
  },
  {
   "id": "franco-niell",
@@ -19530,31 +19569,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Leandro_Des%C3%A1bato"
-  }
- },
- {
-  "id": "leandro-lazzaro",
-  "name": "Leandro Lazzaro",
-  "shortName": "Lazzaro",
-  "position": "ST",
-  "goals": 30,
-  "leagueGoals": 30,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Tigre",
-  "clubs": [
-   "Tigre",
-   "Estudiantes LP",
-   "Nueva Chicago",
-   "Instituto ACC",
-   "Dep. Merlo"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/leandro-lazzaro/leistungsdaten/spieler/53131"
   }
  },
  {

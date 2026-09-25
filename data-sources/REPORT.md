@@ -18,10 +18,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
 - Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 196 totales sumados, 780 jugadores de ascenso agregados, 517 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
 - Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1034 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 29 → 155; Daniel Bazán Vera: 16 → 273.
 - Primera: 3292 · Primera Nacional: 1631
 - Por posición: GK 88 · CB 801 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 2172
-- Marcados para revisión: 2771
+- Marcados para revisión: 2772
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -89,11 +89,14 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
 - `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
 - seasons-before-*-not-counted: 213 jugadores
+- Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial, manual-correction
 - José Sand: active-in-source-update-2023
 - Jonathan Herrera: season-list-truncated, soloascenso-partial
 - Javier Rossi: soloascenso-partial
 - Santiago Silva: active-in-source-update-2023
 - Adrián Czornomaz: editions-partial, manual-correction
+- Damián Akerman: cups-partial, soloascenso-partial, manual-correction
+- Daniel Vega: manual-correction
 - Luciano Agnolín: manual-correction
 - Gonzalo Klusener: soloascenso-partial
 - Humberto Bravo: club-total-only
@@ -460,7 +463,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - César Montiglio: soloascenso-partial
 - Cristian Chimino: season-list-truncated, soloascenso-partial
 - Cristian Yassogna: soloascenso-partial, position-unverified
-- Damián Akerman: cups-partial, soloascenso-partial
 - Enzo Noir: soloascenso-partial
 - Federico Boasso: season-list-truncated, soloascenso-partial
 - Franco Tisera: season-list-truncated, soloascenso-partial
@@ -519,7 +521,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Víctor Heredia: club-total-only, position-unverified
 - Adolfino Cañete: club-total-only
 - Alexis Alegre: soloascenso-partial, position-unverified
-- Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial
 - Daniel Oddine: editions-partial, position-unverified
 - Darío Villan: soloascenso-partial, position-unverified
 - Germán Mandarino: soloascenso-partial

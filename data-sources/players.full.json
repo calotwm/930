@@ -108,6 +108,49 @@
   }
  },
  {
+  "id": "daniel-bazan-vera",
+  "name": "Daniel Bazán Vera",
+  "shortName": "Bazán Vera",
+  "position": "ST",
+  "goals": 273,
+  "leagueGoals": 11,
+  "cupGoals": 5,
+  "intlGoals": 0,
+  "club": "Almirante Brown",
+  "clubs": [
+   "Almirante Brown",
+   "Germinal",
+   "Olimpo",
+   "Defensa",
+   "Temperley",
+   "Atlanta",
+   "Unión Santa Fe",
+   "Tristan Suárez",
+   "Almagro",
+   "Atl. Rafaela",
+   "Tristán Suárez"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/daniel-bazan-vera/leistungsdaten/spieler/16028"
+  },
+  "review": [
+   "seasons-before-2008-not-counted",
+   "cups-partial",
+   "manual-correction"
+  ],
+  "cupSources": [
+   "Copa Argentina 2013: 5"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (ascenso)",
+   "url": "https://www.transfermarkt.com/daniel-bazan-vera/leistungsdaten/spieler/16028"
+  }
+ },
+ {
   "id": "martin-palermo",
   "name": "Martín Palermo",
   "fullName": "Martín Palermo",
@@ -1314,6 +1357,43 @@
   }
  },
  {
+  "id": "damian-akerman",
+  "name": "Damián Akerman",
+  "shortName": "Akerman",
+  "position": "ST",
+  "goals": 160,
+  "leagueGoals": 15,
+  "cupGoals": 4,
+  "intlGoals": 0,
+  "club": "Morón",
+  "clubs": [
+   "Morón"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/damian-akerman/leistungsdaten/spieler/30793"
+  },
+  "review": [
+   "cups-partial",
+   "soloascenso-partial",
+   "manual-correction"
+  ],
+  "cupSources": [
+   "Copa Argentina 2013: 4"
+  ],
+  "saSources": [
+   "Primera Nacional / B Nacional (copia del 16/07/2019): 4",
+   "Primera B Metropolitana (copia del 17/08/2017): 10"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Morón)",
+   "url": "https://www.transfermarkt.com/damian-akerman/leistungsdaten/spieler/30793"
+  }
+ },
+ {
   "id": "ernesto-farias",
   "name": "Ernesto Farías",
   "fullName": "Ernesto Antonio Farías",
@@ -1408,6 +1488,43 @@
   },
   "cupGoals": 0,
   "intlGoals": 24
+ },
+ {
+  "id": "daniel-vega",
+  "name": "Daniel Vega",
+  "shortName": "Vega",
+  "position": "ST",
+  "goals": 155,
+  "leagueGoals": 29,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Martín (Tucumán)",
+  "clubs": [
+   "San Martín (Tucumán)",
+   "Godoy Cruz",
+   "Platense",
+   "Estudiantes",
+   "Los Andes",
+   "San Martín (T)",
+   "Almirante Brown",
+   "Huracán",
+   "Talleres RE",
+   "UAI Urquiza"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/daniel-vega/leistungsdaten/spieler/67495"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Platense y otros)",
+   "url": "https://www.transfermarkt.com/daniel-vega/leistungsdaten/spieler/67495"
+  }
  },
  {
   "id": "carlos-luna",
@@ -20146,36 +20263,6 @@
   ]
  },
  {
-  "id": "daniel-vega",
-  "name": "Daniel Vega",
-  "shortName": "Vega",
-  "position": "ST",
-  "goals": 29,
-  "leagueGoals": 29,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (Tucumán)",
-  "clubs": [
-   "San Martín (Tucumán)",
-   "Godoy Cruz",
-   "Platense",
-   "Estudiantes",
-   "Los Andes",
-   "San Martín (T)",
-   "Almirante Brown",
-   "Huracán",
-   "Talleres RE",
-   "UAI Urquiza"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/daniel-vega/leistungsdaten/spieler/67495"
-  }
- },
- {
   "id": "enzo-gonzalez",
   "name": "Enzo González",
   "shortName": "González",
@@ -29770,38 +29857,6 @@
   ]
  },
  {
-  "id": "damian-akerman",
-  "name": "Damián Akerman",
-  "shortName": "Akerman",
-  "position": "ST",
-  "goals": 19,
-  "leagueGoals": 15,
-  "cupGoals": 4,
-  "intlGoals": 0,
-  "club": "Morón",
-  "clubs": [
-   "Morón"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + copas nacionales + ascenso metropolitano/federal",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/damian-akerman/leistungsdaten/spieler/30793"
-  },
-  "review": [
-   "cups-partial",
-   "soloascenso-partial"
-  ],
-  "cupSources": [
-   "Copa Argentina 2013: 4"
-  ],
-  "saSources": [
-   "Primera Nacional / B Nacional (copia del 16/07/2019): 4",
-   "Primera B Metropolitana (copia del 17/08/2017): 10"
-  ]
- },
- {
   "id": "david-barbona",
   "name": "David Barbona",
   "shortName": "Barbona",
@@ -34539,44 +34594,6 @@
   },
   "cupSources": [
    "Copa Sudamericana 2015: 4"
-  ]
- },
- {
-  "id": "daniel-bazan-vera",
-  "name": "Daniel Bazán Vera",
-  "shortName": "Bazán Vera",
-  "position": "ST",
-  "goals": 16,
-  "leagueGoals": 11,
-  "cupGoals": 5,
-  "intlGoals": 0,
-  "club": "Almirante Brown",
-  "clubs": [
-   "Almirante Brown",
-   "Germinal",
-   "Olimpo",
-   "Defensa",
-   "Temperley",
-   "Atlanta",
-   "Unión Santa Fe",
-   "Tristan Suárez",
-   "Almagro",
-   "Atl. Rafaela",
-   "Tristán Suárez"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + copas nacionales",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/daniel-bazan-vera/leistungsdaten/spieler/16028"
-  },
-  "review": [
-   "seasons-before-2008-not-counted",
-   "cups-partial"
-  ],
-  "cupSources": [
-   "Copa Argentina 2013: 5"
   ]
  },
  {

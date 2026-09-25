@@ -138118,6 +138118,28 @@
   ]
  },
  {
+  "id": "roberto-bonano",
+  "name": "Roberto Bonano",
+  "position": "GK",
+  "shortName": "Bonano",
+  "club": "River Plate",
+  "clubs": [
+   "River Plate",
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Wikipedia — Roberto Bonano",
+   "url": "https://es.wikipedia.org/wiki/Roberto_Bonano"
+  },
+  "goals": 1,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "roberto-carboni",
   "name": "Roberto Carboni",
   "shortName": "Carboni",

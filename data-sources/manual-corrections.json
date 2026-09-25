@@ -18,5 +18,6 @@
   {"name": "Damián Akerman", "position": "ST", "goals": 160, "note": "aporte del autor del juego (Morón)"},
   {"name": "Daniel Vega", "position": "ST", "goals": 155, "note": "aporte del autor del juego (Platense y otros)"},
   {"name": "Daniel Bazán Vera", "position": "ST", "goals": 273, "note": "aporte del autor del juego (ascenso)"},
-  {"name": "José Rafael Albrecht", "position": "CB", "goals": 95, "note": "aporte del autor del juego", "add": {"shortName": "Albrecht", "club": "San Lorenzo", "clubs": ["San Lorenzo", "Estudiantes LP", "Atlético Tucumán"], "division": "Primera", "era": "1950s–1970s", "source": {"name": "Wikipedia — José Rafael Albrecht", "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Rafael_Albrecht"}}}
+  {"name": "José Rafael Albrecht", "position": "CB", "goals": 95, "note": "aporte del autor del juego", "add": {"shortName": "Albrecht", "club": "San Lorenzo", "clubs": ["San Lorenzo", "Estudiantes LP", "Atlético Tucumán"], "division": "Primera", "era": "1950s–1970s", "source": {"name": "Wikipedia — José Rafael Albrecht", "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Rafael_Albrecht"}}},
+  {"name": "Roberto Bonano", "position": "GK", "goals": 1, "note": "aporte del autor del juego (gol con River Plate)", "add": {"shortName": "Bonano", "club": "River Plate", "clubs": ["River Plate", "Rosario Central"], "division": "Primera", "era": "1990s–2000s", "source": {"name": "Wikipedia — Roberto Bonano", "url": "https://es.wikipedia.org/wiki/Roberto_Bonano"}}}
 ]

@@ -574,29 +574,6 @@
   "intlGoals": 6
  },
  {
-  "id": "alberto-marcovecchio",
-  "name": "Alberto Marcovecchio",
-  "fullName": "Alberto Andrés Marcovecchio",
-  "shortName": "Marcovecchio",
-  "position": "ST",
-  "goals": 207,
-  "club": "Racing Club",
-  "clubs": [
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Al menos sus goles en Racing Club",
-  "era": "1910s–1920s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 118. Años: 1912-1922."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
   "id": "carlos-bianchi",
   "name": "Carlos Bianchi",
   "fullName": "Carlos Bianchi",
@@ -606,7 +583,9 @@
   "leagueGoals": 206,
   "club": "Vélez Sarsfield",
   "clubs": [
-   "Vélez Sarsfield"
+   "Vélez Sarsfield",
+   "Boca Juniors",
+   "River Plate"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -674,15 +653,14 @@
   "fullName": "Alberto Máximo Zozaya",
   "shortName": "Zozaya",
   "position": "ST",
-  "goals": 196,
-  "leagueGoals": 183,
+  "goals": 197,
   "club": "Estudiantes LP",
   "clubs": [
    "Estudiantes LP",
    "Racing Club"
   ],
   "division": "Primera",
-  "scope": "Liga y copas, carrera",
+  "scope": "Al menos sus goles en Estudiantes LP",
   "era": "1920s–1940s",
   "source": {
    "name": "RSSSF — Argentina All-Time Topscorers in League",
@@ -881,6 +859,30 @@
    "name": "RSSSF — Argentina All-Time Topscorers in League",
    "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 184. Años: 1965-1980."
+  },
+  "review": [
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "alberto-marcovecchio",
+  "name": "Alberto Marcovecchio",
+  "fullName": "Alberto Andrés Marcovecchio",
+  "shortName": "Marcovecchio",
+  "position": "ST",
+  "goals": 182,
+  "leagueGoals": 118,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas, carrera",
+  "era": "1910s–1920s",
+  "source": {
+   "name": "RSSSF — Argentina All-Time Topscorers in League",
+   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
+   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 118. Años: 1912-1922."
   },
   "review": [
    "position-unverified"
@@ -1194,28 +1196,6 @@
   }
  },
  {
-  "id": "manuel-gonzalez",
-  "name": "Manuel González",
-  "shortName": "González",
-  "position": "ST",
-  "goals": 163,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
   "id": "miguel-antonio-romero",
   "name": "Miguel Antonio Romero",
   "shortName": "Antonio Romero",
@@ -1229,8 +1209,8 @@
   "scope": "Goles en Talleres (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://castillosdecordoba.es/quien-es-el-maximo-goleador-de-la-historia-de-talleres-de-cordoba/"
+   "name": "Máximos goleadores de Talleres (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Talleres_(C%C3%B3rdoba)"
   },
   "review": [
    "club-top-scorers",
@@ -1277,7 +1257,8 @@
   "clubs": [
    "Huracán",
    "Racing Club",
-   "Tigre"
+   "Tigre",
+   "Boca Juniors"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -1637,7 +1618,8 @@
    "Rosario Central",
    "Racing Club",
    "Dep. Español",
-   "All Boys"
+   "All Boys",
+   "San Lorenzo"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -1882,7 +1864,8 @@
   "goals": 145,
   "club": "San Lorenzo",
   "clubs": [
-   "San Lorenzo"
+   "San Lorenzo",
+   "Boca Juniors"
   ],
   "division": "Primera",
   "scope": "Al menos sus goles en San Lorenzo",
@@ -1948,32 +1931,6 @@
   ],
   "cupGoals": 0,
   "intlGoals": 0
- },
- {
-  "id": "alberico-zabaleta",
-  "name": "Albérico Zabaleta",
-  "fullName": "Albérico Zabaleta",
-  "shortName": "Zabaleta",
-  "position": "ST",
-  "goals": 141,
-  "club": "Racing Club",
-  "clubs": [
-   "Independiente",
-   "Argentino de Quilmes",
-   "Racing Club",
-   "Sportivo Almagro"
-  ],
-  "division": "Primera",
-  "scope": "Al menos sus goles en Racing Club",
-  "era": "1910s–1920s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 117. Años: 1914-1923."
-  },
-  "review": [
-   "position-unverified"
-  ]
  },
  {
   "id": "gonzalo-klusener",
@@ -2400,7 +2357,8 @@
    "River Plate",
    "Talleres",
    "Loma Negra (Olavarría)",
-   "Rosario Central"
+   "Rosario Central",
+   "Independiente"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -2583,7 +2541,8 @@
   "leagueGoals": 126,
   "club": "Huracán",
   "clubs": [
-   "Huracán"
+   "Huracán",
+   "River Plate"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -2795,6 +2754,33 @@
   ]
  },
  {
+  "id": "alberico-zabaleta",
+  "name": "Albérico Zabaleta",
+  "fullName": "Albérico Zabaleta",
+  "shortName": "Zabaleta",
+  "position": "ST",
+  "goals": 126,
+  "leagueGoals": 117,
+  "club": "Racing Club",
+  "clubs": [
+   "Independiente",
+   "Argentino de Quilmes",
+   "Racing Club",
+   "Sportivo Almagro"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas, carrera",
+  "era": "1910s–1920s",
+  "source": {
+   "name": "RSSSF — Argentina All-Time Topscorers in League",
+   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
+   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 117. Años: 1914-1923."
+  },
+  "review": [
+   "position-unverified"
+  ]
+ },
+ {
   "id": "christian-gomez",
   "name": "Christian Gómez",
   "shortName": "Gómez",
@@ -2928,7 +2914,8 @@
   "clubs": [
    "Instituto ACC",
    "Rosario Central",
-   "River Plate"
+   "River Plate",
+   "Talleres"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -3016,6 +3003,31 @@
    "Torneo Federal A (copia del 08/08/2018): 16",
    "Torneo Federal A (copia del 20/07/2019): 12",
    "Torneo Federal A (copia del 22/12/2021): 12"
+  ]
+ },
+ {
+  "id": "paulo-valentim",
+  "name": "Paulo Valentim",
+  "shortName": "Valentim",
+  "position": "ST",
+  "goals": 124,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Boca Juniors",
+  "era": "—",
+  "source": {
+   "name": "Historia de Boca Juniors — goleadores en torneos oficiales",
+   "url": "https://historiadeboca.com.ar/records-jugadores/50/1/0/1905/2026/6/0/0.html"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Paulo_Valentim"
+  },
+  "review": [
+   "club-total-only"
   ]
  },
  {
@@ -3159,7 +3171,8 @@
   "intlGoals": 22,
   "club": "River Plate",
   "clubs": [
-   "River Plate"
+   "River Plate",
+   "Quilmes"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -3270,8 +3283,8 @@
   "scope": "Goles en Quilmes (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Quilmes_Atl%C3%A9tico_Club_(f%C3%BAtbol)"
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
   },
   "review": [
    "club-top-scorers",
@@ -3806,7 +3819,8 @@
   "club": "Estudiantes LP",
   "clubs": [
    "Estudiantes LP",
-   "River Plate"
+   "River Plate",
+   "Gimnasia LP"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -4408,7 +4422,8 @@
   "clubs": [
    "San Lorenzo",
    "Quilmes",
-   "Estudiantes LP"
+   "Estudiantes LP",
+   "Boca Juniors"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -4432,7 +4447,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -4516,31 +4531,6 @@
   ]
  },
  {
-  "id": "ricardo-bochini",
-  "name": "Ricardo Bochini",
-  "shortName": "Bochini",
-  "position": "AM",
-  "goals": 108,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Al menos sus goles en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Ricardo_Bochini"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "ermindo-onega",
   "name": "Ermindo Onega",
   "fullName": "Ermindo Ángel Onega",
@@ -4565,6 +4555,53 @@
   ],
   "cupGoals": 1,
   "intlGoals": 2
+ },
+ {
+  "id": "oscar-commisso",
+  "name": "Oscar Commisso",
+  "shortName": "Commisso",
+  "position": "ST",
+  "goals": 107,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "ricardo-bochini",
+  "name": "Ricardo Bochini",
+  "shortName": "Bochini",
+  "position": "AM",
+  "goals": 107,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Independiente",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
+   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Ricardo_Bochini"
+  },
+  "review": [
+   "club-total-only"
+  ]
  },
  {
   "id": "waldino-aguirre",
@@ -4687,7 +4724,8 @@
   "goals": 105,
   "club": "Tigre",
   "clubs": [
-   "Tigre"
+   "Tigre",
+   "River Plate"
   ],
   "division": "Primera",
   "scope": "Goles oficiales en Tigre (Primera y ascenso)",
@@ -4702,6 +4740,31 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "ernesto-grillo",
+  "name": "Ernesto Grillo",
+  "fullName": "Ernesto Grillo",
+  "shortName": "Grillo",
+  "position": "ST",
+  "goals": 105,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "Boca Juniors",
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Independiente",
+  "era": "1940s–1960s",
+  "source": {
+   "name": "RSSSF — Argentina All-Time Topscorers in League",
+   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
+   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 102. Años: 1949-1957/1960-1962."
+  },
+  "review": [
+   "position-unverified"
   ]
  },
  {
@@ -4785,7 +4848,9 @@
   "club": "Instituto ACC",
   "clubs": [
    "Instituto ACC",
-   "Argentinos Juniors"
+   "Argentinos Juniors",
+   "Talleres",
+   "Ferro Carril Oeste"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -4851,6 +4916,29 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "jose-canteli",
+  "name": "José Canteli",
+  "shortName": "Canteli",
+  "position": "ST",
+  "goals": 104,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys",
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Colón",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -4960,31 +5048,6 @@
   ]
  },
  {
-  "id": "ernesto-grillo",
-  "name": "Ernesto Grillo",
-  "fullName": "Ernesto Grillo",
-  "shortName": "Grillo",
-  "position": "ST",
-  "goals": 102,
-  "leagueGoals": 102,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1940s–1960s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 102. Años: 1949-1957/1960-1962."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
   "id": "angel-laferrara",
   "name": "Ángel Laferrara",
   "fullName": "Ángel Ricardo Laferrara",
@@ -5012,9 +5075,31 @@
   ]
  },
  {
-  "id": "hector-arregui",
-  "name": "Héctor Arregui",
-  "shortName": "Arregui",
+  "id": "guillermo-stabile",
+  "name": "Guillermo Stábile",
+  "shortName": "Stábile",
+  "position": "ST",
+  "goals": 101,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Huracán (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Huracán (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "hector-angel-arregui",
+  "name": "Héctor Ángel Arregui",
+  "shortName": "Ángel Arregui",
   "position": "ST",
   "goals": 101,
   "club": "Ferro Carril Oeste",
@@ -5025,7 +5110,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -5057,6 +5142,28 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Ariel_Ortega"
   }
+ },
+ {
+  "id": "enrique-garcia",
+  "name": "Enrique García",
+  "shortName": "García",
+  "position": "LW",
+  "goals": 100,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Racing Club (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Racing Club (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
  },
  {
   "id": "rafael-moreno",
@@ -5141,6 +5248,28 @@
   ]
  },
  {
+  "id": "alberto-vazquez",
+  "name": "Alberto Vázquez",
+  "shortName": "Vázquez",
+  "position": "ST",
+  "goals": 97,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Quilmes (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "alcides-miranda-moreira",
   "name": "Alcides Miranda Moreira",
   "shortName": "Miranda Moreira",
@@ -5186,14 +5315,15 @@
   "goals": 96,
   "club": "Estudiantes LP",
   "clubs": [
-   "Estudiantes LP"
+   "Estudiantes LP",
+   "Boca Juniors"
   ],
   "division": "Primera",
   "scope": "Goles en Estudiantes LP (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://www.bdfa.com.ar/lista_jugadores.asp?codigo=9&orden=GolesHistorial&modo=DESC&cat=1"
+   "name": "Máximos goleadores de Estudiantes LP (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Estudiantes_de_La_Plata"
   },
   "review": [
    "club-top-scorers",
@@ -5473,6 +5603,30 @@
   ]
  },
  {
+  "id": "ruben-capria",
+  "name": "Rubén Capria",
+  "shortName": "Capria",
+  "position": "AM",
+  "goals": 94,
+  "club": "Unión (Santa Fe)",
+  "clubs": [
+   "Racing Club",
+   "Chacarita Juniors",
+   "Lanús",
+   "Unión (Santa Fe)",
+   "Newell's Old Boys",
+   "Estudiantes LP",
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Racing Club",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/ruben-capria/leistungsdaten/spieler/127636"
+  }
+ },
+ {
   "id": "angel-bocanelli",
   "name": "Ángel Bocanelli",
   "shortName": "Bocanelli",
@@ -5496,6 +5650,28 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "carlos-ereros",
+  "name": "Carlos Ereros",
+  "shortName": "Ereros",
+  "position": "ST",
+  "goals": 93,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -5610,28 +5786,6 @@
   }
  },
  {
-  "id": "ismael-morgada",
-  "name": "Ismael Morgada",
-  "shortName": "Morgada",
-  "position": "ST",
-  "goals": 91,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
   "id": "lisandro-lopez",
   "name": "Lisandro López",
   "shortName": "López",
@@ -5696,8 +5850,8 @@
   "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://www.xenen.com.ar/2015/09/19/los-10-maximos-goleadores-de-newells-old-boys/"
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
   },
   "review": [
    "club-top-scorers",
@@ -5771,7 +5925,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -5860,6 +6014,28 @@
   ]
  },
  {
+  "id": "victor-bianchini",
+  "name": "Víctor Bianchini",
+  "shortName": "Bianchini",
+  "position": "ST",
+  "goals": 89,
+  "club": "Colón",
+  "clubs": [
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Colón (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Colón (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "bernardo-acosta",
   "name": "Bernardo Acosta",
   "shortName": "Acosta",
@@ -5882,6 +6058,28 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "pedro-lamberti",
+  "name": "Pedro Lamberti",
+  "shortName": "Lamberti",
+  "position": "ST",
+  "goals": 88,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Talleres (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Talleres (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Talleres_(C%C3%B3rdoba)"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -6000,6 +6198,28 @@
   ]
  },
  {
+  "id": "mario-noremberg",
+  "name": "Mario Noremberg",
+  "shortName": "Noremberg",
+  "position": "ST",
+  "goals": 87,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "nicolas-fernandez",
   "name": "Nicolás Fernández",
   "shortName": "Fernández",
@@ -6023,28 +6243,6 @@
   },
   "review": [
    "season-list-truncated"
-  ]
- },
- {
-  "id": "pedro-pasculli",
-  "name": "Pedro Pasculli",
-  "shortName": "Pasculli",
-  "position": "ST",
-  "goals": 87,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
   ]
  },
  {
@@ -6119,6 +6317,55 @@
   "intlGoals": 12
  },
  {
+  "id": "eduardo-maglioni",
+  "name": "Eduardo Maglioni",
+  "shortName": "Maglioni",
+  "position": "CM",
+  "goals": 86,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "Huracán"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Independiente",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
+   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Eduardo_Maglioni"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
+  "id": "jose-daniel-valencia",
+  "name": "José Daniel Valencia",
+  "shortName": "Daniel Valencia",
+  "position": "AM",
+  "goals": 86,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres",
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Talleres (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Talleres (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Talleres_(C%C3%B3rdoba)"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "milton-gimenez",
   "name": "Milton Giménez",
   "shortName": "Giménez",
@@ -6155,6 +6402,28 @@
    "Primera B Metropolitana (copia del 08/08/2018): 5",
    "Primera B Metropolitana (copia del 28/02/2020): 13",
    "Primera C (copia del 13/08/2017): 5"
+  ]
+ },
+ {
+  "id": "omar-corbatta",
+  "name": "Omar Corbatta",
+  "shortName": "Corbatta",
+  "position": "RW",
+  "goals": 86,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Racing Club (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Racing Club (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Racing_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -6204,6 +6473,28 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Dar%C3%ADo_Cvitanich"
   }
+ },
+ {
+  "id": "juan-haedo",
+  "name": "Juan Haedo",
+  "shortName": "Haedo",
+  "position": "ST",
+  "goals": 84,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Tigre (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Tigre (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
  },
  {
   "id": "pedro-farias",
@@ -6313,6 +6604,54 @@
   }
  },
  {
+  "id": "delio-onnis",
+  "name": "Delio Onnis",
+  "shortName": "Onnis",
+  "position": "ST",
+  "goals": 83,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Gimnasia LP (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "jose-percudani",
+  "name": "José Percudani",
+  "shortName": "Percudani",
+  "position": "ST",
+  "goals": 83,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente",
+   "Estudiantes LP"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Independiente",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
+   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
+  },
+  "secondarySource": {
+   "name": "Wikipedia — posición",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Percudani"
+  },
+  "review": [
+   "club-total-only"
+  ]
+ },
+ {
   "id": "juan-antonio-pizzi",
   "name": "Juan Antonio Pizzi",
   "shortName": "Antonio Pizzi",
@@ -6391,6 +6730,28 @@
   }
  },
  {
+  "id": "cesar-romani",
+  "name": "César Romani",
+  "shortName": "Romani",
+  "position": "ST",
+  "goals": 82,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Quilmes (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "facundo-parra",
   "name": "Facundo Parra",
   "shortName": "Parra",
@@ -6417,6 +6778,28 @@
   },
   "cupSources": [
    "Copa Sudamericana 2010: 3"
+  ]
+ },
+ {
+  "id": "pedro-larraquy",
+  "name": "Pedro Larraquy",
+  "shortName": "Larraquy",
+  "position": "ST",
+  "goals": 82,
+  "club": "Vélez Sarsfield",
+  "clubs": [
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Vélez Sarsfield (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Vélez Sarsfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -6504,8 +6887,30 @@
   "scope": "Goles en Banfield (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+   "name": "Máximos goleadores de Banfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Banfield"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "diego-bayo",
+  "name": "Diego Bayo",
+  "shortName": "Bayo",
+  "position": "ST",
+  "goals": 80,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Gimnasia LP (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata"
   },
   "review": [
    "club-top-scorers",
@@ -6646,21 +7051,21 @@
   ]
  },
  {
-  "id": "manuel-fidel",
-  "name": "Manuel Fidel",
-  "shortName": "Fidel",
-  "position": "ST",
+  "id": "omar-larrosa",
+  "name": "Omar Larrosa",
+  "shortName": "Larrosa",
+  "position": "AM",
   "goals": 80,
-  "club": "Gimnasia LP",
+  "club": "Huracán",
   "clubs": [
-   "Gimnasia LP"
+   "Huracán"
   ],
   "division": "Primera",
-  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
+  "scope": "Goles en Huracán (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+   "name": "Máximos goleadores de Huracán (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n"
   },
   "review": [
    "club-top-scorers",
@@ -6706,7 +7111,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -6769,6 +7174,31 @@
   ]
  },
  {
+  "id": "claudio-biaggio",
+  "name": "Claudio Biaggio",
+  "shortName": "Biaggio",
+  "position": "ST",
+  "goals": 79,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en San Lorenzo",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/claudio-biaggio/leistungsdaten/spieler/173669"
+  },
+  "review": [
+   "cups-partial"
+  ],
+  "cupSources": [
+   "Copa Libertadores 1996: 7"
+  ]
+ },
+ {
   "id": "mauro-zarate",
   "name": "Mauro Zárate",
   "shortName": "Zárate",
@@ -6805,7 +7235,8 @@
   "intlGoals": 7,
   "club": "San Lorenzo",
   "clubs": [
-   "San Lorenzo"
+   "San Lorenzo",
+   "River Plate"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -6842,6 +7273,28 @@
   "leagueGoals": 39,
   "cupGoals": 7,
   "intlGoals": 11
+ },
+ {
+  "id": "alberto-montalvo",
+  "name": "Alberto Montalvo",
+  "shortName": "Montalvo",
+  "position": "ST",
+  "goals": 77,
+  "club": "Colón",
+  "clubs": [
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Colón (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Colón (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
  },
  {
   "id": "amable-lopez",
@@ -6997,6 +7450,28 @@
   ]
  },
  {
+  "id": "claudio-garcia",
+  "name": "Claudio García",
+  "shortName": "García",
+  "position": "ST",
+  "goals": 76,
+  "club": "Huracán",
+  "clubs": [
+   "Huracán"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Huracán (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Huracán (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Hurac%C3%A1n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "cristian-chavez-70132",
   "name": "Cristian Chávez",
   "shortName": "Chávez",
@@ -7046,8 +7521,8 @@
   "scope": "Goles en Vélez Sarsfield (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_del_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_(f%C3%BAtbol)"
+   "name": "Máximos goleadores de Vélez Sarsfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield"
   },
   "review": [
    "club-top-scorers",
@@ -7090,6 +7565,29 @@
    "Primera Nacional / B Nacional (copia del 18/12/2024): 18",
    "Torneo Federal A (copia del 22/12/2021): 9",
    "Torneo Federal A (copia del 05/12/2022): 10"
+  ]
+ },
+ {
+  "id": "claudio-borghi",
+  "name": "Claudio Borghi",
+  "shortName": "Borghi",
+  "position": "AM",
+  "goals": 75,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors",
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -7165,6 +7663,28 @@
   ]
  },
  {
+  "id": "fernando-perez",
+  "name": "Fernando Pérez",
+  "shortName": "Pérez",
+  "position": "ST",
+  "goals": 74,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Tigre (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Tigre (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Tigre"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "gonzalo-vivanco",
   "name": "Gonzalo Vivanco",
   "shortName": "Vivanco",
@@ -7197,6 +7717,29 @@
   ],
   "review": [
    "soloascenso-partial",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "pedro-pasculli",
+  "name": "Pedro Pasculli",
+  "shortName": "Pasculli",
+  "position": "ST",
+  "goals": 74,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors",
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
    "position-unverified"
   ]
  },
@@ -7271,6 +7814,72 @@
    "Primera Nacional / B Nacional (copia del 16/07/2019): 6",
    "Torneo Federal A (copia del 08/08/2018): 13",
    "Torneo Federal A (copia del 22/12/2021): 10"
+  ]
+ },
+ {
+  "id": "jose-perdomo",
+  "name": "José Perdomo",
+  "shortName": "Perdomo",
+  "position": "ST",
+  "goals": 73,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Gimnasia LP (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_de_Gimnasia_y_Esgrima_La_Plata"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "raul-savoy",
+  "name": "Raúl Savoy",
+  "shortName": "Savoy",
+  "position": "ST",
+  "goals": 73,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "roque-alfaro",
+  "name": "Roque Alfaro",
+  "shortName": "Alfaro",
+  "position": "ST",
+  "goals": 73,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -7475,31 +8084,6 @@
   }
  },
  {
-  "id": "paulo-valentim",
-  "name": "Paulo Valentim",
-  "shortName": "Valentim",
-  "position": "ST",
-  "goals": 71,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Boca Juniors",
-  "era": "—",
-  "source": {
-   "name": "Historia de Boca Juniors — goleadores en torneos oficiales",
-   "url": "https://historiadeboca.com.ar/records-jugadores/50/1/0/1905/2026/6/0/0.html"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Paulo_Valentim"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "ignacio-malcorra",
   "name": "Ignacio Malcorra",
   "shortName": "Malcorra",
@@ -7667,7 +8251,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -7725,50 +8309,6 @@
   },
   "review": [
    "club-total-only"
-  ]
- },
- {
-  "id": "luis-eduardo-suarez",
-  "name": "Luis Eduardo Suárez",
-  "shortName": "Eduardo Suárez",
-  "position": "ST",
-  "goals": 68,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
-  "id": "norberto-raffo",
-  "name": "Norberto Raffo",
-  "shortName": "Raffo",
-  "position": "ST",
-  "goals": 68,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
   ]
  },
  {
@@ -7866,6 +8406,30 @@
   }
  },
  {
+  "id": "jose-luis-iglesias",
+  "name": "José Luis Iglesias",
+  "shortName": "Luis Iglesias",
+  "position": "ST",
+  "goals": 67,
+  "club": "Colón",
+  "clubs": [
+   "Colón",
+   "Banfield",
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Colón (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Colón (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "josemir-lujambio",
   "name": "Josemir Lujambio",
   "shortName": "Lujambio",
@@ -7893,28 +8457,6 @@
   }
  },
  {
-  "id": "miguel-turello",
-  "name": "Miguel Turello",
-  "shortName": "Turello",
-  "position": "ST",
-  "goals": 67,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
   "id": "orfilio-pinaroli",
   "name": "Orfilio Pinaroli",
   "shortName": "Pinaroli",
@@ -7935,6 +8477,46 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "sergio-robles",
+  "name": "Sergio Robles",
+  "shortName": "Robles",
+  "position": "ST",
+  "goals": 67,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "sergio-zarate",
+  "name": "Sergio Zárate",
+  "shortName": "Zárate",
+  "position": "ST",
+  "goals": 67,
+  "club": "Vélez Sarsfield",
+  "clubs": [
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Vélez Sarsfield",
+  "era": "2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/sergio-zarate/leistungsdaten/spieler/17984"
+  }
  },
  {
   "id": "gaston-fernandez",
@@ -8158,10 +8740,10 @@
   ]
  },
  {
-  "id": "julio-pisapia",
-  "name": "Julio Pisapia",
-  "shortName": "Pisapia",
-  "position": "ST",
+  "id": "jose-pekerman",
+  "name": "José Pekerman",
+  "shortName": "Pekerman",
+  "position": "CM",
   "goals": 65,
   "club": "Argentinos Juniors",
   "clubs": [
@@ -8171,30 +8753,8 @@
   "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
-  "id": "mario-sciarra",
-  "name": "Mario Sciarra",
-  "shortName": "Sciarra",
-  "position": "ST",
-  "goals": 65,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
   },
   "review": [
    "club-top-scorers",
@@ -8228,28 +8788,6 @@
   "cupSources": [
    "Copa Libertadores 2024: 6",
    "Copa de la Liga Profesional 2024: 13"
-  ]
- },
- {
-  "id": "miguel-oswaldo-gonzalez",
-  "name": "Miguel Oswaldo González",
-  "shortName": "Oswaldo González",
-  "position": "ST",
-  "goals": 65,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
   ]
  },
  {
@@ -8301,28 +8839,6 @@
   },
   "cupSources": [
    "Copa Libertadores 2008: 7"
-  ]
- },
- {
-  "id": "amadeo-colangelo",
-  "name": "Amadeo Colángelo",
-  "shortName": "Colángelo",
-  "position": "ST",
-  "goals": 64,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
   ]
  },
  {
@@ -8532,28 +9048,6 @@
   ]
  },
  {
-  "id": "roberto-zarate",
-  "name": "Roberto Zárate",
-  "shortName": "Zárate",
-  "position": "ST",
-  "goals": 64,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
-  "era": "—",
-  "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
- },
- {
   "id": "angel-alfonso",
   "name": "Ángel Alfonso",
   "shortName": "Alfonso",
@@ -8607,32 +9101,6 @@
   ]
  },
  {
-  "id": "eduardo-maglioni",
-  "name": "Eduardo Maglioni",
-  "shortName": "Maglioni",
-  "position": "CM",
-  "goals": 63,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "Huracán"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Eduardo_Maglioni"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "enzo-trossero",
   "name": "Enzo Trossero",
   "shortName": "Trossero",
@@ -8658,27 +9126,6 @@
   "leagueGoals": 62,
   "cupGoals": 0,
   "intlGoals": 1
- },
- {
-  "id": "jorge-quinteros",
-  "name": "Jorge Quinteros",
-  "shortName": "Quinteros",
-  "position": "ST",
-  "goals": 63,
-  "club": "Argentinos Juniors",
-  "clubs": [
-   "Argentinos Juniors",
-   "San Lorenzo",
-   "Chacarita Juniors",
-   "Talleres"
-  ],
-  "division": "Primera",
-  "scope": "Al menos sus goles en Argentinos Juniors",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/jorge-quinteros/leistungsdaten/spieler/83225"
-  }
  },
  {
   "id": "juan-jose-morales",
@@ -8718,13 +9165,32 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
    "club-top-scorers",
    "position-unverified"
   ]
+ },
+ {
+  "id": "sergio-almiron",
+  "name": "Sergio Almirón",
+  "shortName": "Almirón",
+  "position": "ST",
+  "goals": 63,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys",
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Newell's Old Boys",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/sergio-almiron/leistungsdaten/spieler/144111"
+  }
  },
  {
   "id": "alfredo-borgnia",
@@ -8740,7 +9206,7 @@
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -8829,21 +9295,21 @@
   ]
  },
  {
-  "id": "miguel-robinson-hernandez",
-  "name": "Miguel Robinson Hernández",
-  "shortName": "Robinson Hernández",
+  "id": "omar-asad",
+  "name": "Omar Asad",
+  "shortName": "Asad",
   "position": "ST",
   "goals": 62,
-  "club": "Banfield",
+  "club": "Vélez Sarsfield",
   "clubs": [
-   "Banfield"
+   "Vélez Sarsfield"
   ],
   "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
+  "scope": "Goles en Vélez Sarsfield (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
+   "name": "Máximos goleadores de Vélez Sarsfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield"
   },
   "review": [
    "club-top-scorers",
@@ -8987,6 +9453,28 @@
   ]
  },
  {
+  "id": "eugenio-bassino",
+  "name": "Eugenio Bassino",
+  "shortName": "Bassino",
+  "position": "ST",
+  "goals": 61,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Quilmes (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "juan-pablo-angel",
   "name": "Juan Pablo Ángel",
   "shortName": "Pablo Ángel",
@@ -9076,34 +9564,6 @@
   ]
  },
  {
-  "id": "ernesto-alvarez",
-  "name": "Ernesto Álvarez",
-  "shortName": "Álvarez",
-  "position": "ST",
-  "goals": 60,
-  "club": "CM Crucero del Norte",
-  "clubs": [
-   "CM Crucero del Norte",
-   "Crucero",
-   "Mitre (SdE)",
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Al menos sus goles en Banfield",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ernesto-alvarez/leistungsdaten/spieler/267950"
-  },
-  "review": [
-   "soloascenso-partial"
-  ],
-  "saSources": [
-   "Torneo Federal A (copia del 05/12/2022): 8",
-   "Torneo Federal A (copia del 13/12/2023): 6"
-  ]
- },
- {
   "id": "hector-beron",
   "name": "Héctor Berón",
   "shortName": "Berón",
@@ -9111,13 +9571,14 @@
   "goals": 60,
   "club": "Ferro Carril Oeste",
   "clubs": [
-   "Ferro Carril Oeste"
+   "Ferro Carril Oeste",
+   "River Plate"
   ],
   "division": "Primera",
   "scope": "Goles en Ferro Carril Oeste (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
+   "name": "Máximos goleadores de Ferro Carril Oeste (lista del autor del juego)",
    "url": "https://es.wikipedia.org/wiki/Club_Ferro_Carril_Oeste"
   },
   "review": [
@@ -9271,6 +9732,28 @@
   "intlGoals": 0
  },
  {
+  "id": "jose-oscar-flores",
+  "name": "José Oscar Flores",
+  "shortName": "Oscar Flores",
+  "position": "ST",
+  "goals": 59,
+  "club": "Vélez Sarsfield",
+  "clubs": [
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Vélez Sarsfield (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Vélez Sarsfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "patricio-cucchi",
   "name": "Patricio Cucchi",
   "shortName": "Cucchi",
@@ -9336,6 +9819,28 @@
   }
  },
  {
+  "id": "rubi-cerioni",
+  "name": "Rubí Cerioni",
+  "shortName": "Cerioni",
+  "position": "ST",
+  "goals": 59,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Quilmes (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "andres-vombergar",
   "name": "Andrés Vombergar",
   "shortName": "Vombergar",
@@ -9364,21 +9869,21 @@
   ]
  },
  {
-  "id": "carlos-ereros",
-  "name": "Carlos Ereros",
-  "shortName": "Ereros",
+  "id": "ariel-cozzoni",
+  "name": "Ariel Cozzoni",
+  "shortName": "Cozzoni",
   "position": "ST",
   "goals": 58,
-  "club": "Argentinos Juniors",
+  "club": "Newell's Old Boys",
   "clubs": [
-   "Argentinos Juniors"
+   "Newell's Old Boys"
   ],
   "division": "Primera",
-  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
+  "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Asociación_Atlética_Argentinos_Juniors"
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
   },
   "review": [
    "club-top-scorers",
@@ -9474,26 +9979,26 @@
   ]
  },
  {
-  "id": "daniel-delfino",
-  "name": "Daniel Delfino",
-  "shortName": "Delfino",
-  "position": "ST",
+  "id": "gustavo-barros-schelotto",
+  "name": "Gustavo Barros Schelotto",
+  "shortName": "Barros Schelotto",
+  "position": "CM",
   "goals": 57,
-  "club": "Banfield",
+  "club": "Rosario Central",
   "clubs": [
-   "Banfield"
+   "Boca Juniors",
+   "Racing Club",
+   "Rosario Central",
+   "Gimnasia LP",
+   "Unión (Santa Fe)"
   ],
   "division": "Primera",
-  "scope": "Goles en Banfield (máximos goleadores del club)",
-  "era": "—",
+  "scope": "Al menos sus goles en Gimnasia LP",
+  "era": "1990s–2000s",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://es.wikipedia.org/wiki/Club_Atlético_Banfield"
-  },
-  "review": [
-   "club-top-scorers",
-   "position-unverified"
-  ]
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/gustavo-barros-schelotto/leistungsdaten/spieler/187794"
+  }
  },
  {
   "id": "juan-pablo-zarate",
@@ -9553,6 +10058,28 @@
   },
   "cupSources": [
    "Copa Argentina 2016: 7"
+  ]
+ },
+ {
+  "id": "mario-zanabria",
+  "name": "Mario Zanabria",
+  "shortName": "Zanabria",
+  "position": "AM",
+  "goals": 57,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Newell's Old Boys (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Newell's Old Boys (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Newell's_Old_Boys"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -9712,6 +10239,28 @@
   }
  },
  {
+  "id": "horacio-milozzi",
+  "name": "Horacio Milozzi",
+  "shortName": "Milozzi",
+  "position": "ST",
+  "goals": 55,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Quilmes (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Quilmes (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Quilmes_Atl%C3%A9tico_Club"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "ignacio-colombini",
   "name": "Ignacio Colombini",
   "shortName": "Colombini",
@@ -9830,21 +10379,21 @@
   ]
  },
  {
-  "id": "delio-onnis",
-  "name": "Delio Onnis",
-  "shortName": "Onnis",
-  "position": "ST",
-  "goals": 54,
-  "club": "Gimnasia LP",
+  "id": "sergio-batista",
+  "name": "Sergio Batista",
+  "shortName": "Batista",
+  "position": "CM",
+  "goals": 55,
+  "club": "Argentinos Juniors",
   "clubs": [
-   "Gimnasia LP"
+   "Argentinos Juniors"
   ],
   "division": "Primera",
-  "scope": "Goles en Gimnasia LP (máximos goleadores del club)",
+  "scope": "Goles en Argentinos Juniors (máximos goleadores del club)",
   "era": "—",
   "source": {
-   "name": "Máximos goleadores del club",
-   "url": "https://abrilacancha.com.ar/2022/08/29/los-10-maximos-goleadores-historicos-de-gimnasia-y-esgrima-la-plata/"
+   "name": "Máximos goleadores de Argentinos Juniors (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Atl%C3%A9tica_Argentinos_Juniors"
   },
   "review": [
    "club-top-scorers",
@@ -10016,6 +10565,24 @@
   "review": [
    "club-total-only"
   ]
+ },
+ {
+  "id": "lucas-lobos",
+  "name": "Lucas Lobos",
+  "shortName": "Lobos",
+  "position": "ST",
+  "goals": 53,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Gimnasia LP",
+  "era": "2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/lucas-lobos/leistungsdaten/spieler/30787"
+  }
  },
  {
   "id": "miguel-caneo",
@@ -10198,6 +10765,28 @@
   "cupSources": [
    "Primera B Nacional / Primera Nacional 2001: 23"
   ]
+ },
+ {
+  "id": "federico-higuain",
+  "name": "Federico Higuaín",
+  "shortName": "Higuaín",
+  "position": "AM",
+  "goals": 52,
+  "club": "Colón",
+  "clubs": [
+   "Nueva Chicago",
+   "Independiente",
+   "Godoy Cruz",
+   "Colón",
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Colón",
+  "era": "2000s–2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/federico-higuain/leistungsdaten/spieler/45612"
+  }
  },
  {
   "id": "fernando-belluschi",
@@ -10904,32 +11493,6 @@
   ]
  },
  {
-  "id": "jose-percudani",
-  "name": "José Percudani",
-  "shortName": "Percudani",
-  "position": "ST",
-  "goals": 49,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente",
-   "Estudiantes LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas en Independiente",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Independiente (tabla histórica)",
-   "url": "https://es.wikipedia.org/wiki/Anexo:Goleadores_del_Club_Atl%C3%A9tico_Independiente"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Percudani"
-  },
-  "review": [
-   "club-total-only"
-  ]
- },
- {
   "id": "juan-jose-de-mario",
   "name": "Juan José De Mario",
   "shortName": "José De Mario",
@@ -11329,6 +11892,36 @@
   },
   "review": [
    "club-total-only"
+  ]
+ },
+ {
+  "id": "federico-andrada",
+  "name": "Federico Andrada",
+  "shortName": "Andrada",
+  "position": "ST",
+  "goals": 47,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes",
+   "Vélez Sarsfield",
+   "Unión (Santa Fe)",
+   "Aldosivi",
+   "River Plate",
+   "Atl. Rafaela",
+   "Atlético Tucumán"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Quilmes",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/federico-andrada/leistungsdaten/spieler/234249"
+  },
+  "review": [
+   "cups-partial"
+  ],
+  "cupSources": [
+   "Copa de la Liga Profesional 2021: 6"
   ]
  },
  {
@@ -12475,6 +13068,31 @@
   }
  },
  {
+  "id": "ruben-botta",
+  "name": "Rubén Botta",
+  "shortName": "Botta",
+  "position": "AM",
+  "goals": 45,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Defensa y Justicia",
+   "Talleres",
+   "Tigre",
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Tigre",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Botta"
+  },
+  "cupSources": [
+   "Copa Libertadores 2013: 4"
+  ]
+ },
+ {
   "id": "santiago-gomez",
   "name": "Santiago Gómez",
   "shortName": "Gómez",
@@ -12663,6 +13281,26 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Hugo_Alberto_Morales"
+  }
+ },
+ {
+  "id": "martin-morel",
+  "name": "Martín Morel",
+  "shortName": "Morel",
+  "position": "AM",
+  "goals": 44,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "All Boys",
+   "Atlético Tucumán"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Tigre",
+  "era": "2000s–2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/martin-morel/leistungsdaten/spieler/53138"
   }
  },
  {
@@ -13020,6 +13658,33 @@
    "Torneo Federal A (copia del 20/07/2019): 10",
    "Torneo Federal B / Regional Amateur (copia del 04/07/2017): 6",
    "Torneo Federal B / Regional Amateur (copia del 29/07/2019): 9"
+  ]
+ },
+ {
+  "id": "jesus-datolo",
+  "name": "Jesús Dátolo",
+  "shortName": "Dátolo",
+  "position": "LW",
+  "goals": 43,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield",
+   "Boca Juniors",
+   "Cañuelas",
+   "Tristán Suárez"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Banfield",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_D%C3%A1tolo"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "cupSources": [
+   "Copa Argentina 2022: 4"
   ]
  },
  {
@@ -14415,6 +15080,28 @@
   }
  },
  {
+  "id": "ruben-galvan",
+  "name": "Rubén Galván",
+  "shortName": "Galván",
+  "position": "ST",
+  "goals": 40,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Banfield (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Banfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Banfield"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "santiago-rodriguez",
   "name": "Santiago Rodríguez",
   "shortName": "Rodríguez",
@@ -14569,6 +15256,32 @@
   }
  },
  {
+  "id": "facundo-farias",
+  "name": "Facundo Farías",
+  "shortName": "Farías",
+  "position": "AM",
+  "goals": 39,
+  "club": "Colón",
+  "clubs": [
+   "Colón",
+   "Estudiantes LP",
+   "San Lorenzo"
+  ],
+  "division": "Primera",
+  "scope": "Al menos sus goles en Colón",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Facundo_Far%C3%ADas"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "cupSources": [
+   "Copa Argentina 2026: 1"
+  ]
+ },
+ {
   "id": "francisco-pizzini",
   "name": "Francisco Pizzini",
   "shortName": "Pizzini",
@@ -14628,36 +15341,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/gustavo-balvorin/leistungsdaten/spieler/53466"
   }
- },
- {
-  "id": "jesus-datolo",
-  "name": "Jesús Dátolo",
-  "shortName": "Dátolo",
-  "position": "LW",
-  "goals": 39,
-  "leagueGoals": 26,
-  "cupGoals": 6,
-  "intlGoals": 7,
-  "club": "Banfield",
-  "clubs": [
-   "Banfield",
-   "Boca Juniors",
-   "Cañuelas",
-   "Tristán Suárez"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_D%C3%A1tolo"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "cupSources": [
-   "Copa Argentina 2022: 4"
-  ]
  },
  {
   "id": "leonardo-marinucci",
@@ -15124,6 +15807,51 @@
   "saSources": [
    "Primera Nacional / B Nacional (copia del 29/12/2025): 9",
    "Primera B Metropolitana (copia del 03/12/2023): 11"
+  ]
+ },
+ {
+  "id": "javier-lopez",
+  "name": "Javier López",
+  "shortName": "López",
+  "position": "ST",
+  "goals": 38,
+  "club": "Colón",
+  "clubs": [
+   "Colón"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Colón (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Colón (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Col%C3%B3n"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
+  ]
+ },
+ {
+  "id": "julio-cruz",
+  "name": "Julio Cruz",
+  "shortName": "Cruz",
+  "position": "ST",
+  "goals": 38,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield",
+   "River Plate"
+  ],
+  "division": "Primera",
+  "scope": "Goles en Banfield (máximos goleadores del club)",
+  "era": "—",
+  "source": {
+   "name": "Máximos goleadores de Banfield (lista del autor del juego)",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Banfield"
+  },
+  "review": [
+   "club-top-scorers",
+   "position-unverified"
   ]
  },
  {
@@ -17068,31 +17796,6 @@
   ]
  },
  {
-  "id": "federico-higuain",
-  "name": "Federico Higuaín",
-  "shortName": "Higuaín",
-  "position": "AM",
-  "goals": 35,
-  "leagueGoals": 35,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Colón",
-  "clubs": [
-   "Nueva Chicago",
-   "Independiente",
-   "Godoy Cruz",
-   "Colón",
-   "River Plate"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/federico-higuain/leistungsdaten/spieler/45612"
-  }
- },
- {
   "id": "fernando-marquez",
   "name": "Fernando Márquez",
   "shortName": "Márquez",
@@ -17368,32 +18071,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "ruben-capria",
-  "name": "Rubén Capria",
-  "shortName": "Capria",
-  "position": "AM",
-  "goals": 35,
-  "leagueGoals": 35,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Unión (Santa Fe)",
-  "clubs": [
-   "Racing Club",
-   "Chacarita Juniors",
-   "Lanús",
-   "Unión (Santa Fe)",
-   "Newell's Old Boys",
-   "Estudiantes LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ruben-capria/leistungsdaten/spieler/127636"
-  }
  },
  {
   "id": "alberto-sanchez",
@@ -19439,7 +20116,8 @@
   "clubs": [
    "Newell's Old Boys",
    "River Plate",
-   "Boca Juniors"
+   "Boca Juniors",
+   "Estudiantes LP"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -20842,34 +21520,6 @@
   },
   "cupSources": [
    "Copa Sudamericana 2024: 5"
-  ]
- },
- {
-  "id": "ruben-botta",
-  "name": "Rubén Botta",
-  "shortName": "Botta",
-  "position": "AM",
-  "goals": 30,
-  "leagueGoals": 14,
-  "cupGoals": 6,
-  "intlGoals": 10,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo",
-   "Defensa y Justicia",
-   "Talleres",
-   "Tigre",
-   "Colón"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Botta"
-  },
-  "cupSources": [
-   "Copa Libertadores 2013: 4"
   ]
  },
  {
@@ -23244,29 +23894,6 @@
   }
  },
  {
-  "id": "martin-morel",
-  "name": "Martín Morel",
-  "shortName": "Morel",
-  "position": "AM",
-  "goals": 26,
-  "leagueGoals": 26,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Tigre",
-  "clubs": [
-   "Tigre",
-   "All Boys",
-   "Atlético Tucumán"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/martin-morel/leistungsdaten/spieler/53138"
-  }
- },
- {
   "id": "mateo-coronel",
   "name": "Mateo Coronel",
   "shortName": "Coronel",
@@ -25460,34 +26087,6 @@
   ]
  },
  {
-  "id": "claudio-biaggio",
-  "name": "Claudio Biaggio",
-  "shortName": "Biaggio",
-  "position": "ST",
-  "goals": 23,
-  "leagueGoals": 16,
-  "cupGoals": 0,
-  "intlGoals": 7,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo",
-   "Colón"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91 + internacionales",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/claudio-biaggio/leistungsdaten/spieler/173669"
-  },
-  "review": [
-   "cups-partial"
-  ],
-  "cupSources": [
-   "Copa Libertadores 1996: 7"
-  ]
- },
- {
   "id": "claudio-vega",
   "name": "Claudio Vega",
   "shortName": "Vega",
@@ -26722,6 +27321,37 @@
   "review": [
    "soloascenso-partial",
    "position-unverified"
+  ]
+ },
+ {
+  "id": "ernesto-alvarez",
+  "name": "Ernesto Álvarez",
+  "shortName": "Álvarez",
+  "position": "ST",
+  "goals": 22,
+  "leagueGoals": 22,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "CM Crucero del Norte",
+  "clubs": [
+   "CM Crucero del Norte",
+   "Crucero",
+   "Mitre (SdE)",
+   "Banfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91 + ascenso metropolitano/federal",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/ernesto-alvarez/leistungsdaten/spieler/267950"
+  },
+  "review": [
+   "soloascenso-partial"
+  ],
+  "saSources": [
+   "Torneo Federal A (copia del 05/12/2022): 8",
+   "Torneo Federal A (copia del 13/12/2023): 6"
   ]
  },
  {
@@ -28249,39 +28879,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/fabricio-lenci/leistungsdaten/spieler/234496"
   }
- },
- {
-  "id": "federico-andrada",
-  "name": "Federico Andrada",
-  "shortName": "Andrada",
-  "position": "ST",
-  "goals": 21,
-  "leagueGoals": 15,
-  "cupGoals": 6,
-  "intlGoals": 0,
-  "club": "Quilmes",
-  "clubs": [
-   "Quilmes",
-   "Vélez Sarsfield",
-   "Unión (Santa Fe)",
-   "Aldosivi",
-   "River Plate",
-   "Atl. Rafaela",
-   "Atlético Tucumán"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91 + copas nacionales",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/federico-andrada/leistungsdaten/spieler/234249"
-  },
-  "review": [
-   "cups-partial"
-  ],
-  "cupSources": [
-   "Copa de la Liga Profesional 2021: 6"
-  ]
  },
  {
   "id": "gonzalo-belloso",
@@ -31007,6 +31604,30 @@
   ]
  },
  {
+  "id": "jorge-quinteros",
+  "name": "Jorge Quinteros",
+  "shortName": "Quinteros",
+  "position": "ST",
+  "goals": 19,
+  "leagueGoals": 19,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Argentinos Juniors",
+  "clubs": [
+   "Argentinos Juniors",
+   "San Lorenzo",
+   "Chacarita Juniors",
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/jorge-quinteros/leistungsdaten/spieler/83225"
+  }
+ },
+ {
   "id": "juan-bueno",
   "name": "Juan Bueno",
   "shortName": "Bueno",
@@ -32132,35 +32753,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/fabricio-fuentes/leistungsdaten/spieler/12505"
   }
- },
- {
-  "id": "facundo-farias",
-  "name": "Facundo Farías",
-  "shortName": "Farías",
-  "position": "AM",
-  "goals": 18,
-  "leagueGoals": 6,
-  "cupGoals": 8,
-  "intlGoals": 4,
-  "club": "Colón",
-  "clubs": [
-   "Colón",
-   "Estudiantes LP",
-   "San Lorenzo"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Facundo_Far%C3%ADas"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "cupSources": [
-   "Copa Argentina 2026: 1"
-  ]
  },
  {
   "id": "federico-vasilchik",
@@ -47754,27 +48346,6 @@
   }
  },
  {
-  "id": "lucas-lobos",
-  "name": "Lucas Lobos",
-  "shortName": "Lobos",
-  "position": "ST",
-  "goals": 11,
-  "leagueGoals": 11,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/lucas-lobos/leistungsdaten/spieler/30787"
-  }
- },
- {
   "id": "lucas-martinez-quarta",
   "name": "Lucas Martínez Quarta",
   "shortName": "Martínez Quarta",
@@ -53743,31 +54314,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gregorio_Rodr%C3%ADguez"
-  }
- },
- {
-  "id": "gustavo-barros-schelotto",
-  "name": "Gustavo Barros Schelotto",
-  "shortName": "Barros Schelotto",
-  "position": "CM",
-  "goals": 9,
-  "leagueGoals": 9,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Rosario Central",
-  "clubs": [
-   "Boca Juniors",
-   "Racing Club",
-   "Rosario Central",
-   "Gimnasia LP",
-   "Unión (Santa Fe)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/gustavo-barros-schelotto/leistungsdaten/spieler/187794"
   }
  },
  {
@@ -141811,48 +142357,6 @@
   }
  },
  {
-  "id": "sergio-almiron",
-  "name": "Sergio Almirón",
-  "shortName": "Almirón",
-  "position": "CM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/sergio-almiron/leistungsdaten/spieler/5890"
-  }
- },
- {
-  "id": "sergio-almiron-144111",
-  "name": "Sergio Almirón",
-  "shortName": "Almirón",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Newell's Old Boys",
-  "clubs": [
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/sergio-almiron/leistungsdaten/spieler/144111"
-  }
- },
- {
   "id": "sergio-castillo",
   "name": "Sergio Castillo",
   "shortName": "Castillo",
@@ -142038,27 +142542,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/sergio-salto/leistungsdaten/spieler/384759"
-  }
- },
- {
-  "id": "sergio-zarate",
-  "name": "Sergio Zárate",
-  "shortName": "Zárate",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Vélez Sarsfield",
-  "clubs": [
-   "Vélez Sarsfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/sergio-zarate/leistungsdaten/spieler/17984"
   }
  },
  {

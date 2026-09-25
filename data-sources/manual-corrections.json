@@ -26,5 +26,6 @@
   {"name": "Juan Marvezy", "position": "ST", "goals": 0, "drop": true, "note": "duplicado de Juan Marvezzi"},
   {"name": "Juan Marvezzi", "position": "ST", "goals": 116, "note": "aporte del autor del juego (Juan Andrés Marvezzi)"},
   {"name": "Waldino Aguirre", "position": "ST", "goals": 107, "note": "aporte del autor del juego (Rosario Central)", "add": {"shortName": "Aguirre", "club": "Rosario Central", "clubs": ["Rosario Central"], "division": "Primera", "era": "1960s–1970s", "source": {"name": "Wikipedia — Waldino Aguirre", "url": "https://es.wikipedia.org/wiki/Waldino_Aguirre"}}},
-  {"name": "Paulo Silas", "position": "AM", "goals": 24, "note": "San Lorenzo 1995–1997: 95 partidos, 24 goles (en.wikipedia.org/wiki/Paulo_Silas)", "add": {"shortName": "Silas", "club": "San Lorenzo", "clubs": ["San Lorenzo"], "division": "Primera", "era": "1990s", "source": {"name": "Wikipedia — Paulo Silas", "url": "https://en.wikipedia.org/wiki/Paulo_Silas"}}}
+  {"name": "Paulo Silas", "position": "AM", "goals": 24, "note": "San Lorenzo 1995–1997: 95 partidos, 24 goles (en.wikipedia.org/wiki/Paulo_Silas)", "add": {"shortName": "Silas", "club": "San Lorenzo", "clubs": ["San Lorenzo"], "division": "Primera", "era": "1990s", "source": {"name": "Wikipedia — Paulo Silas", "url": "https://en.wikipedia.org/wiki/Paulo_Silas"}}},
+  {"name": "Sergio Almirón", "position": "CM", "goals": 0, "drop": true, "note": "duplicado del Sergio Almirón delantero de Newell's"}
 ]

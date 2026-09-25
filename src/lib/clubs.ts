@@ -27,6 +27,8 @@ export const CLUBS: Club[] = [
   { id: 'tigre', name: 'Tigre', short: 'Tigre', colors: ['#0b3d91', '#d7182a'] },
   { id: 'banfield', name: 'Banfield', short: 'Banfield', colors: ['#ffffff', '#00843d'] },
   { id: 'talleres', name: 'Talleres', short: 'Talleres', colors: ['#12245b', '#ffffff'] },
+  { id: 'lanus', name: 'Lanús', short: 'Lanús', colors: ['#7a1e2c', '#ffffff'] },
+  { id: 'union', name: 'Unión (Santa Fe)', short: 'Unión', colors: ['#d7182a', '#ffffff'] },
   { id: 'platense', name: 'Platense', short: 'Platense', colors: ['#ffffff', '#5b3a1e'] },
   { id: 'quilmes', name: 'Quilmes', short: 'Quilmes', colors: ['#ffffff', '#12245b'] },
 ]

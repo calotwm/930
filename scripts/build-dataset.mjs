@@ -714,7 +714,7 @@ function main() {
     saLog.added++
   }
   report.push(
-    `Solo Ascenso (B Metro, C, D y Federal A, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.raised} totales sumados, ${saLog.added} jugadores de ascenso agregados, ${saLog.unmatched} sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).`,
+    `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.raised} totales sumados, ${saLog.added} jugadores de ascenso agregados, ${saLog.unmatched} sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).`,
   )
 
   // Player pages: career table per club and competition. Goals with Argentine clubs replace the

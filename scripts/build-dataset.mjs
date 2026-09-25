@@ -802,6 +802,14 @@ function main() {
   const corrected = []
   for (const c of corrections) {
     const p = players.find((x) => norm(x.name) === norm(c.name) && x.position === c.position)
+    // `drop` removes a duplicate entry (same player loaded twice under another spelling)
+    if (c.drop) {
+      if (p) {
+        players.splice(players.indexOf(p), 1)
+        corrected.push(`${c.name}: duplicado quitado`)
+      }
+      continue
+    }
     const fields = { goals: c.goals, scope: 'Liga y copas con clubes argentinos' }
     if (p) {
       // `set` overrides card fields too (position, clubs) when a source got them wrong

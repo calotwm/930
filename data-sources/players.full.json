@@ -3706,6 +3706,36 @@
   ]
  },
  {
+  "id": "juan-marvezzi",
+  "name": "Juan Marvezzi",
+  "fullName": "Juan Andrés Marvezzi",
+  "shortName": "Marvezzi",
+  "position": "ST",
+  "goals": 116,
+  "leagueGoals": 103,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1930s–1940s",
+  "source": {
+   "name": "RSSSF — Argentina All-Time Topscorers in League",
+   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
+   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 103. Años: 1937-1942."
+  },
+  "review": [
+   "position-unverified",
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Juan Andrés Marvezzi)",
+   "url": "https://www.rsssf.org/tablesa/argtops-allt.html"
+  }
+ },
+ {
   "id": "juan-irurieta",
   "name": "Juan Irurieta",
   "fullName": "Juan Carlos Irurieta",
@@ -4698,58 +4728,6 @@
    "name": "RSSSF — Argentina All-Time Topscorers in League",
    "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 100. Años: 1932-1940."
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
-  "id": "juan-marvezy",
-  "name": "Juan Marvezy",
-  "shortName": "Marvezy",
-  "position": "ST",
-  "goals": 103,
-  "leagueGoals": 103,
-  "club": "Tigre",
-  "clubs": [
-   "Tigre",
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga (Primera), carrera",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores de la Primera División de Argentina (tabla histórica, 100+ goles, hasta 2026)",
-   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_de_la_Primera_Divisi%C3%B3n_de_Argentina"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Juan_Andr%C3%A9s_Marvezy"
-  },
-  "review": [
-   "position-unverified"
-  ]
- },
- {
-  "id": "juan-marvezzi",
-  "name": "Juan Marvezzi",
-  "fullName": "Juan Andrés Marvezzi",
-  "shortName": "Marvezzi",
-  "position": "ST",
-  "goals": 103,
-  "leagueGoals": 103,
-  "club": "Tigre",
-  "clubs": [
-   "Tigre",
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas, carrera",
-  "era": "1930s–1940s",
-  "source": {
-   "name": "RSSSF — Argentina All-Time Topscorers in League",
-   "url": "https://www.rsssf.org/tablesa/argtops-allt.html",
-   "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 103. Años: 1937-1942."
   },
   "review": [
    "position-unverified"

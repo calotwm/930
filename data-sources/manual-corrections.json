@@ -22,5 +22,7 @@
   {"name": "Roberto Bonano", "position": "GK", "goals": 1, "note": "aporte del autor del juego (gol con River Plate)", "add": {"shortName": "Bonano", "club": "River Plate", "clubs": ["River Plate", "Rosario Central"], "division": "Primera", "era": "1990s–2000s", "source": {"name": "Wikipedia — Roberto Bonano", "url": "https://es.wikipedia.org/wiki/Roberto_Bonano"}}},
   {"name": "Daniel Willington", "position": "ST", "goals": 131, "note": "Talleres 66 + Vélez 65 (es.wikipedia.org/wiki/Daniel_Willington: 212 partidos y 65 goles en Vélez); enganche", "set": {"position": "AM", "clubs": ["Talleres", "Vélez Sarsfield"]}},
   {"name": "Leandro Lazzaro", "position": "ST", "goals": 72, "note": "aporte del autor del juego"},
-  {"name": "Daniel Tilger", "position": "ST", "goals": 69, "note": "aporte del autor del juego"}
+  {"name": "Daniel Tilger", "position": "ST", "goals": 69, "note": "aporte del autor del juego"},
+  {"name": "Juan Marvezy", "position": "ST", "goals": 0, "drop": true, "note": "duplicado de Juan Marvezzi"},
+  {"name": "Juan Marvezzi", "position": "ST", "goals": 116, "note": "aporte del autor del juego (Juan Andrés Marvezzi)"}
 ]

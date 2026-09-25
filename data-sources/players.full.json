@@ -5051,6 +5051,29 @@
   ]
  },
  {
+  "id": "jose-rafael-albrecht",
+  "name": "José Rafael Albrecht",
+  "position": "CB",
+  "shortName": "Albrecht",
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Estudiantes LP",
+   "Atlético Tucumán"
+  ],
+  "division": "Primera",
+  "era": "1950s–1970s",
+  "source": {
+   "name": "Wikipedia — José Rafael Albrecht",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Rafael_Albrecht"
+  },
+  "goals": 95,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "norberto-outes",
   "name": "Norberto Outes",
   "shortName": "Outes",

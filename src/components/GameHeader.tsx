@@ -32,7 +32,7 @@ export function GameHeader({
         <div className="flex flex-col gap-1.5">
           <Logo />
           {club ? (
-            <span className="flex items-center gap-1.5 text-[10px] font-extrabold tracking-[0.2em] text-celeste-soft uppercase">
+            <span className="flex items-center gap-1.5 text-[10px] font-extrabold tracking-[0.14em] whitespace-nowrap text-celeste-soft uppercase">
               <ClubCrest club={club} size="xs" />
               Modo {club.short}
             </span>

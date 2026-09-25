@@ -27,10 +27,10 @@ export function ClubPicker({ onPick, onBack }: { onPick: (club: Club) => void; o
               <button
                 type="button"
                 onClick={() => onPick(club)}
-                className="flex w-full items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-3 py-3 text-left transition active:scale-[0.97] hover:border-celeste/50"
+                className="flex w-full items-center gap-2.5 rounded-2xl border border-white/10 bg-white/5 px-2.5 py-3 text-left transition active:scale-[0.97] hover:border-celeste/50"
               >
-                <ClubCrest club={club} />
-                <span className="text-[14px] leading-tight font-extrabold text-chalk">{club.name}</span>
+                <ClubCrest club={club} size="sm" />
+                <span className="min-w-0 text-[12.5px] leading-tight font-extrabold tracking-tight text-chalk sm:text-[14px] sm:tracking-normal" lang="es">{club.name}</span>
               </button>
             </li>
           ))}

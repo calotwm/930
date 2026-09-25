@@ -1,6 +1,6 @@
 import type { Club } from '../lib/clubs'
 
-const SIZE = { xs: 'h-4 w-3.5', md: 'h-12 w-10' } as const
+const SIZE = { xs: 'h-4 w-3.5', sm: 'h-10 w-8', md: 'h-12 w-10' } as const
 
 /** Generic shield in the club's colors (no official crests). */
 export function ClubCrest({ club, size = 'md' }: { club: Club; size?: keyof typeof SIZE }) {

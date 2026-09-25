@@ -17,11 +17,11 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 3.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
 - Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 196 totales sumados, 780 jugadores de ascenso agregados, 517 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
-- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1034 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 29 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131.
+- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1030 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 25 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 20; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 29 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131.
 - Primera: 3294 · Primera Nacional: 1631
 - Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 465 · AM 516 · LW 360 · RW 431 · ST 2171
-- Marcados para revisión: 2774
+- Marcados para revisión: 2775
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -52,11 +52,13 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 
 ## Fichas de Wikipedia por debajo del dataset (6+ goles; se mantiene el dataset)
 - Roberto Cherro: dataset 247 vs ficha 241
+- Norberto Alonso: dataset 172 vs ficha 97
 - Enzo Francescoli: dataset 137 vs ficha 91
 - Carlos Bulla: dataset 106 vs ficha 100
 - José Luis Fernández: dataset 26 vs ficha 19
 - Mauricio Asenjo: dataset 34 vs ficha 25
 - Gonzalo Ríos: dataset 18 vs ficha 3
+- Ignacio Colombini: dataset 55 vs ficha 45
 - Ramiro Costa: dataset 9 vs ficha 0
 - Leandro Maciel: dataset 8 vs ficha 1
 - Augusto Schott: dataset 10 vs ficha 3
@@ -73,6 +75,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Santiago Vera: dataset 19 vs ficha 13
 - Pedro Souto: dataset 10 vs ficha 3
 - Nazareno Fúnez: dataset 26 vs ficha 19
+- Jorge Burruchaga: dataset 80 vs ficha 51
 
 ## Suma por temporada vs histórico de Transfermarkt
 - Santiago Silva (AR1N): suma por temporada 32 vs histórico 33
@@ -144,6 +147,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Aníbal Tarabini: club-total-only
 - Edgardo Bauza: manual-correction
 - Osvaldo Rubén Potente: club-total-only, position-unverified
+- Jorge Burruchaga: club-total-only
 - Amable López: club-total-only, position-unverified
 - Juan Martín: seasons-before-2008-not-counted, soloascenso-partial
 - Antonio Gambino: club-total-only, position-unverified
@@ -183,7 +187,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
 - Juan Pablo Zárate: season-list-truncated, soloascenso-partial
-- Lucas Licht: soloascenso-partial
 - Ignacio Colombini: season-list-truncated, soloascenso-partial
 - Rodrigo Sánchez: soloascenso-partial, position-unverified
 - Raúl Armando Savoy: club-total-only
@@ -202,6 +205,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Roberto Cortez: club-total-only, position-unverified
 - Antony Alonso: soloascenso-partial
 - Juan Crespín: club-total-only, position-unverified
+- Lucas Licht: soloascenso-partial
 - Benito Cejas: club-total-only
 - Ezequiel Aguirre: season-list-truncated, soloascenso-partial
 - José Percudani: club-total-only
@@ -387,7 +391,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - José Luis Pochettino: club-total-only
 - Nahuel Pombo: soloascenso-partial, position-unverified
 - Christian Soria: soloascenso-partial, position-unverified
-- Cristian Lucchetti: manual-correction
 - Daniel Leani: editions-partial, position-unverified
 - Daniel Toribio Aquino: editions-partial
 - Ezequiel Gaviglio: soloascenso-partial, position-unverified
@@ -454,6 +457,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - César Delgado: soloascenso-partial
 - Ciro Leineker: soloascenso-partial, position-unverified
 - Cristian Barinaga: seasons-before-2008-not-counted, soloascenso-partial
+- Cristian Lucchetti: manual-correction
 - Diego Caballero: seasons-before-2008-not-counted, soloascenso-partial
 - Franco Cristofanelli: soloascenso-partial, position-unverified
 - Gastón Cueto: soloascenso-partial, position-unverified

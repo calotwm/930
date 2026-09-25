@@ -21,16 +21,13 @@ export const CLUBS: Club[] = [
   { id: 'gimnasia', name: 'Gimnasia LP', short: 'Gimnasia', colors: ['#ffffff', '#12245b'] },
   { id: 'velez', name: 'Vélez Sarsfield', short: 'Vélez', colors: ['#ffffff', '#1c3f94'] },
   { id: 'newells', name: "Newell's Old Boys", short: "Newell's", colors: ['#d7182a', '#111111'] },
-  { id: 'rosario-central', name: 'Rosario Central', short: 'Central', colors: ['#0b3d91', '#f6c200'] },
   { id: 'argentinos', name: 'Argentinos Juniors', short: 'Argentinos', colors: ['#d7182a', '#ffffff'] },
   { id: 'ferro', name: 'Ferro Carril Oeste', short: 'Ferro', colors: ['#00843d', '#ffffff'] },
   { id: 'colon', name: 'Colón', short: 'Colón', colors: ['#111111', '#d7182a'] },
-  { id: 'olimpo', name: 'Olimpo', short: 'Olimpo', colors: ['#111111', '#f6c200'] },
   { id: 'tigre', name: 'Tigre', short: 'Tigre', colors: ['#0b3d91', '#d7182a'] },
   { id: 'banfield', name: 'Banfield', short: 'Banfield', colors: ['#ffffff', '#00843d'] },
   { id: 'talleres', name: 'Talleres', short: 'Talleres', colors: ['#12245b', '#ffffff'] },
   { id: 'quilmes', name: 'Quilmes', short: 'Quilmes', colors: ['#ffffff', '#12245b'] },
-  { id: 'independiente-rivadavia', name: 'Independiente Rivadavia', short: 'Ind. Rivadavia', colors: ['#12245b', '#ffffff'] },
 ]
 
 export const clubById = (id: string | null | undefined) => CLUBS.find((c) => c.id === id) ?? null

@@ -739,7 +739,9 @@ function main() {
     const { c: chosen, rows } = matches[0]
     usedTitles.add(chosen.title)
     const s2 = chosen
-    const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
+    // a row whose competition goals far exceed its own total read a matches column as goals: trust the total
+    const clean = rows.map((r) => (r.total > 0 && r.league + r.cups + r.intl > r.total + 5 ? { ...r, league: r.total, cups: 0, intl: 0 } : r))
+    const sum = (k) => clean.reduce((a, r) => a + r[k], 0)
     const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
     // goalkeeper tables often list goals conceded under "Goles": never raised from them
     const keeper = p.position === 'GK' || /arquero|portero|guardameta/i.test(chosen.position ?? '')
@@ -764,7 +766,9 @@ function main() {
     const rows = c ? argRowsOf(c) : []
     const name = (c?.title ?? page).replace(/\s*\([^)]*\)$/, '')
     if (!rows.length || players.some((p) => norm(p.name) === norm(name))) continue
-    const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
+    // a row whose competition goals far exceed its own total read a matches column as goals: trust the total
+    const clean = rows.map((r) => (r.total > 0 && r.league + r.cups + r.intl > r.total + 5 ? { ...r, league: r.total, cups: 0, intl: 0 } : r))
+    const sum = (k) => clean.reduce((a, r) => a + r[k], 0)
     const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
     const position = positionFromWiki(c.position)
     const clubs = rows.map((r) => cleanClub(r.club.replace(/^(C\.\s*A\.|C\.)\s*/, '').replace(/’/g, "'")))

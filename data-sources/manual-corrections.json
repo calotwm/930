@@ -3,20 +3,7 @@
   { "name": "Cristian Lucchetti", "position": "GK", "goals": 24, "note": "aporte del autor del juego" },
   { "name": "Sebastián Saja", "position": "GK", "goals": 19, "note": "aporte del autor del juego" },
   { "name": "Luis Ardente", "position": "GK", "goals": 9, "note": "aporte del autor del juego" },
-  {
-    "name": "Ignacio González",
-    "position": "GK",
-    "goals": 8,
-    "note": "aporte del autor del juego",
-    "add": {
-      "shortName": "González",
-      "club": "Racing Club",
-      "clubs": ["Racing Club"],
-      "division": "Primera",
-      "era": "1990s–2000s",
-      "source": { "name": "Wikipedia — Ignacio Carlos «Nacho» González (arquero, debutó en Racing Club)", "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez" }
-    }
-  },
+  { "name": "Nacho González", "position": "GK", "goals": 8, "note": "aporte del autor del juego (Ignacio Carlos González)" },
   { "name": "Mario Cuenca", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
   { "name": "Sebastián Cejas", "position": "GK", "goals": 7, "note": "aporte del autor del juego" },
   { "name": "Christian Gómez", "position": "AM", "goals": 126, "note": "Gomito: Nueva Chicago 108, Independiente 12 (3 en Copa Libertadores), Arsenal 6 — es.wikipedia.org/wiki/Christian_Gómez" },

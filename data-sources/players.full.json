@@ -78,27 +78,6 @@
   "intlGoals": 21
  },
  {
-  "id": "fernando-monetti",
-  "name": "Fernando Monetti",
-  "shortName": "Monetti",
-  "position": "GK",
-  "goals": 279,
-  "leagueGoals": 223,
-  "cupGoals": 45,
-  "intlGoals": 11,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Fernando_Monetti"
-  }
- },
- {
   "id": "hernan-encina",
   "name": "Hernán Encina",
   "shortName": "Encina",
@@ -5260,33 +5239,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Fernando_Telechea"
-  }
- },
- {
-  "id": "cristian-alvarez",
-  "name": "Cristian Álvarez",
-  "shortName": "Álvarez",
-  "position": "RB",
-  "goals": 91,
-  "leagueGoals": 85,
-  "cupGoals": 0,
-  "intlGoals": 6,
-  "club": "Lanús",
-  "clubs": [
-   "Argentinos Juniors",
-   "Lanús",
-   "Arsenal FC",
-   "San Martín (San Juan)",
-   "Arsenal Sarandí",
-   "San Martín (SJ)",
-   "Argentinos Jrs."
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Cristian_Dar%C3%ADo_%C3%81lvarez"
   }
  },
  {
@@ -10950,27 +10902,6 @@
    "Primera Nacional / B Nacional (copia del 05/12/2022): 13",
    "Primera B Metropolitana (copia del 22/12/2021): 11"
   ]
- },
- {
-  "id": "juan-musso",
-  "name": "Juan Musso",
-  "shortName": "Musso",
-  "position": "GK",
-  "goals": 46,
-  "leagueGoals": 30,
-  "cupGoals": 5,
-  "intlGoals": 11,
-  "club": "Racing Club",
-  "clubs": [
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Juan_Musso"
-  }
  },
  {
   "id": "juan-romay",
@@ -24801,6 +24732,33 @@
   ]
  },
  {
+  "id": "cristian-alvarez",
+  "name": "Cristian Álvarez",
+  "shortName": "Álvarez",
+  "position": "RB",
+  "goals": 23,
+  "leagueGoals": 23,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Lanús",
+  "clubs": [
+   "Argentinos Juniors",
+   "Lanús",
+   "Arsenal FC",
+   "San Martín (San Juan)",
+   "Arsenal Sarandí",
+   "San Martín (SJ)",
+   "Argentinos Jrs."
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "1990s–2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/cristian-alvarez/leistungsdaten/spieler/16126"
+  }
+ },
+ {
   "id": "cristian-llama",
   "name": "Cristian Llama",
   "shortName": "Llama",
@@ -30964,7 +30922,7 @@
   "goals": 19,
   "leagueGoals": 18,
   "cupGoals": 0,
-  "intlGoals": 1,
+  "intlGoals": 0,
   "club": "Racing Club",
   "clubs": [
    "Racing Club",
@@ -30974,15 +30932,15 @@
   "scope": "Liga y copas con clubes argentinos",
   "era": "1990s–2010s",
   "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Saja"
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/sebastian-saja/leistungsdaten/spieler/3777"
   },
   "review": [
    "manual-correction"
   ],
   "secondarySource": {
    "name": "Corrección manual: aporte del autor del juego",
-   "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Saja"
+   "url": "https://www.transfermarkt.com/sebastian-saja/leistungsdaten/spieler/3777"
   }
  },
  {
@@ -56861,27 +56819,6 @@
   }
  },
  {
-  "id": "ignacio-gonzalez-2",
-  "name": "Ignacio González",
-  "position": "GK",
-  "shortName": "González",
-  "club": "Racing Club",
-  "clubs": [
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Wikipedia — Ignacio Carlos «Nacho» González (arquero, debutó en Racing Club)",
-   "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez"
-  },
-  "goals": 8,
-  "scope": "Liga y copas con clubes argentinos",
-  "review": [
-   "manual-correction"
-  ]
- },
- {
   "id": "ignacio-ortega",
   "name": "Ignacio Ortega",
   "shortName": "Ortega",
@@ -58600,7 +58537,7 @@
   "shortName": "González",
   "position": "GK",
   "goals": 8,
-  "leagueGoals": 8,
+  "leagueGoals": 1,
   "cupGoals": 0,
   "intlGoals": 0,
   "club": "Racing Club",
@@ -58611,8 +58548,15 @@
   "scope": "Liga y copas con clubes argentinos",
   "era": "1990s",
   "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Ignacio_Carlos_Gonz%C3%A1lez"
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/nacho-gonzalez/leistungsdaten/spieler/45316"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Ignacio Carlos González)",
+   "url": "https://www.transfermarkt.com/nacho-gonzalez/leistungsdaten/spieler/45316"
   }
  },
  {
@@ -142071,6 +142015,27 @@
   ]
  },
  {
+  "id": "fernando-monetti",
+  "name": "Fernando Monetti",
+  "shortName": "Monetti",
+  "position": "GK",
+  "goals": 0,
+  "leagueGoals": 0,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/fernando-monetti/leistungsdaten/spieler/69815"
+  }
+ },
+ {
   "id": "fernando-otarola",
   "name": "Fernando Otárola",
   "shortName": "Otárola",
@@ -142380,6 +142345,27 @@
    "seasons-before-2008-not-counted",
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "juan-musso",
+  "name": "Juan Musso",
+  "shortName": "Musso",
+  "position": "GK",
+  "goals": 0,
+  "leagueGoals": 0,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Racing Club",
+  "clubs": [
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/juan-musso/leistungsdaten/spieler/242359"
+  }
  },
  {
   "id": "juan-ojeda",

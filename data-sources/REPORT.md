@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **5705** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5704** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -17,10 +17,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 3.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
 - Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 196 totales sumados, 780 jugadores de ascenso agregados, 517 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
-- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1039 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Ignacio González: agregado (8); Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151).
-- Primera: 3292 · Primera Nacional: 1631
-- Por posición: GK 89 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 2172
+- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1034 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151).
+- Primera: 3291 · Primera Nacional: 1631
+- Por posición: GK 88 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 2172
 - Marcados para revisión: 2770
 
 ## Discrepancias entre fuentes (se usa RSSSF)
@@ -743,7 +743,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Gonzalo Garavano: soloascenso-partial, position-unverified
 - Héctor Canteros: soloascenso-partial
 - Héctor Echagüe: soloascenso-partial, position-unverified
-- Ignacio González: manual-correction
 - Ignacio Ortega: soloascenso-partial, position-unverified
 - Javier Greco: soloascenso-partial, position-unverified
 - Jonatan Maciel: soloascenso-partial, position-unverified
@@ -762,6 +761,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Matías Chavarría: soloascenso-partial, position-unverified
 - Mauro Bustos: soloascenso-partial, position-unverified
 - Miller Moreno: soloascenso-partial, position-unverified
+- Nacho González: manual-correction
 - Nicolas Del Sole: soloascenso-partial, position-unverified
 - Nicolás Foglia: soloascenso-partial
 - Nicolás Parodi: soloascenso-partial, position-unverified

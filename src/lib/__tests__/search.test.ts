@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { buildIndex, normalize, searchPlayers } from '../searchPlayers'
+import { PLAYERS } from '../../data/players'
 import type { Player } from '../types'
 
 const P = (id: string, name: string, position: Player['position'], goals: number, clubs: string[]): Player => ({
@@ -55,5 +56,12 @@ describe('searchPlayers', () => {
 
   it('devuelve todos los resultados, sin tope', () => {
     expect(searchPlayers(index, '')).toHaveLength(4)
+  })
+})
+
+describe('joined surnames', () => {
+  it('finds "Di María" typed as "dimaria"', () => {
+    const names = searchPlayers(buildIndex(PLAYERS), 'dimaria').map((p) => p.name)
+    expect(names).toContain('Ángel Di María')
   })
 })

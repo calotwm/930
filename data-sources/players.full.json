@@ -4346,6 +4346,27 @@
   "intlGoals": 2
  },
  {
+  "id": "waldino-aguirre",
+  "name": "Waldino Aguirre",
+  "position": "ST",
+  "shortName": "Aguirre",
+  "club": "Rosario Central",
+  "clubs": [
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "era": "1960s–1970s",
+  "source": {
+   "name": "Wikipedia — Waldino Aguirre",
+   "url": "https://es.wikipedia.org/wiki/Waldino_Aguirre"
+  },
+  "goals": 107,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "carlos-bulla",
   "name": "Carlos Bulla",
   "fullName": "Carlos Alberto Bulla",

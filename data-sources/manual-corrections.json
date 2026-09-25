@@ -24,5 +24,6 @@
   {"name": "Leandro Lazzaro", "position": "ST", "goals": 72, "note": "aporte del autor del juego"},
   {"name": "Daniel Tilger", "position": "ST", "goals": 69, "note": "aporte del autor del juego"},
   {"name": "Juan Marvezy", "position": "ST", "goals": 0, "drop": true, "note": "duplicado de Juan Marvezzi"},
-  {"name": "Juan Marvezzi", "position": "ST", "goals": 116, "note": "aporte del autor del juego (Juan Andrés Marvezzi)"}
+  {"name": "Juan Marvezzi", "position": "ST", "goals": 116, "note": "aporte del autor del juego (Juan Andrés Marvezzi)"},
+  {"name": "Waldino Aguirre", "position": "ST", "goals": 107, "note": "aporte del autor del juego (Rosario Central)", "add": {"shortName": "Aguirre", "club": "Rosario Central", "clubs": ["Rosario Central"], "division": "Primera", "era": "1960s–1970s", "source": {"name": "Wikipedia — Waldino Aguirre", "url": "https://es.wikipedia.org/wiki/Waldino_Aguirre"}}}
 ]

@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **5707** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5742** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -18,10 +18,12 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
 - Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 196 totales sumados, 780 jugadores de ascenso agregados, 517 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
 - Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1030 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 25 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 20; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 29 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131; Leandro Lazzaro: 30 → 72; Daniel Tilger: 50 → 69; Juan Marvezy: duplicado quitado; Juan Marvezzi: 103 → 116; Waldino Aguirre: agregado (107).
-- Primera: 3294 · Primera Nacional: 1631
-- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 465 · AM 516 · LW 360 · RW 431 · ST 2171
-- Marcados para revisión: 2777
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 20; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151); Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 29 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131; Leandro Lazzaro: 30 → 72; Daniel Tilger: 50 → 69; Juan Marvezy: duplicado quitado; Juan Marvezzi: 103 → 116; Waldino Aguirre: agregado (107); Paulo Silas: agregado (24).
+- Categorías de Wikipedia por club: 2255 clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).
+- Máximos goleadores por club (data-sources/club-top-scorers.json): 12 totales subidos, 34 jugadores agregados (Juan Carlos Carone, Juan Ramón Verón, Ismael Morgada, Manuel Fidel, Delio Onnis, Manuel González, Santiago Santamaría, Rafael Sanz, Norberto Raffo, Luis Eduardo Suárez, Miguel Oswaldo González, Roberto Zárate, Miguel Robinson Hernández, Daniel Delfino, Carlos Alberto Vidal, Héctor Arregui, Juan Domingo Rocchia, Alberto Piovano, Antonio Garabal, Rodolfo Danza, Alfredo Borgnia, Héctor Berón, Carlos Spadaro, José Luis Lodico, Pedro Pasculli, Miguel Turello, Mario Sciarra, Julio Pisapia, Amadeo Colángelo, Carlos Ereros, Juan Ramón Santos, Miguel Antonio Romero, Harry Hayes, Ennis Hayes).
+- Primera: 3329 · Primera Nacional: 1631
+- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 465 · AM 517 · LW 362 · RW 431 · ST 2203
+- Marcados para revisión: 2812
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -87,7 +89,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 959 jugadores
+- position-unverified: 993 jugadores
 - `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.
 - `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
 - `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
@@ -95,19 +97,25 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial, manual-correction
 - José Sand: active-in-source-update-2023
 - Jonathan Herrera: season-list-truncated, soloascenso-partial
+- Harry Hayes: club-top-scorers, position-unverified
 - Javier Rossi: soloascenso-partial
+- Manuel González: club-top-scorers, position-unverified
+- Miguel Antonio Romero: club-top-scorers, position-unverified
 - Santiago Silva: active-in-source-update-2023
 - Adrián Czornomaz: editions-partial, manual-correction
 - Damián Akerman: cups-partial, soloascenso-partial, manual-correction
+- Ennis Hayes: club-top-scorers, position-unverified
 - Daniel Vega: manual-correction
 - Luciano Agnolín: manual-correction
 - Gonzalo Klusener: soloascenso-partial
 - Humberto Bravo: club-total-only
+- Gustavo Albella: club-total-only
 - Daniel Willington: club-total-only, manual-correction
 - José Alfredo Zelaya: manual-correction
 - Christian Gómez: manual-correction
 - Luis Silba: season-list-truncated, soloascenso-partial
 - Juan Abaurre: manual-correction
+- Juan Ramón Santos: club-top-scorers, position-unverified
 - Hugo Pavone: active-in-source-update-2023
 - Rogelio Cuello: club-total-only
 - Bruno Nasta: season-list-truncated, soloascenso-partial
@@ -120,27 +128,34 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Daniel Passarella: secondary-source-club-statistics
 - Natalio Perinetti: club-total-only
 - Pedro Ochoa: club-total-only
+- Carlos Alberto Vidal: club-top-scorers, position-unverified
 - Javier Velázquez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
+- Ricardo Bochini: club-total-only
 - Waldino Aguirre: manual-correction
 - Edgardo Paruzzo: club-total-only
 - Luciano Leguizamón: soloascenso-partial
-- Ricardo Bochini: club-total-only
+- Héctor Arregui: club-top-scorers, position-unverified
 - Juan Perinetti: club-total-only
 - Alcides Miranda Moreira: soloascenso-partial, position-unverified
+- Juan Ramón Verón: club-top-scorers, position-unverified
 - Horacio Bustos: club-total-only, position-unverified
 - José Rafael Albrecht: manual-correction
 - Norberto Outes: club-total-only
 - Ángel Bocanelli: club-total-only
-- Ángel Silva: club-total-only
-- Camilo Cervino: club-total-only
 - Mauro Boselli: season-list-truncated, cups-partial
+- Ángel Silva: club-total-only
+- Ismael Morgada: club-top-scorers, position-unverified
+- Camilo Cervino: club-total-only
+- Santiago Santamaría: club-top-scorers, position-unverified
 - Daniel Bertoni: club-total-only
 - Daniel Giménez: manual-correction
+- Juan Domingo Rocchia: club-top-scorers, position-unverified
 - Luis Salmerón: seasons-before-2008-not-counted, soloascenso-partial, manual-correction
 - Rubén Ramírez: soloascenso-partial
 - Bernardo Acosta: club-total-only
 - Leandro González: soloascenso-partial
 - Lucas Scarnato: soloascenso-partial, position-unverified
+- Pedro Pasculli: club-top-scorers, position-unverified
 - Ramón Lentini: soloascenso-partial
 - Milton Giménez: soloascenso-partial
 - Claudio Nigretti: club-total-only
@@ -149,10 +164,15 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Aníbal Tarabini: club-total-only
 - Edgardo Bauza: manual-correction
 - Osvaldo Rubén Potente: club-total-only, position-unverified
+- Rafael Sanz: club-top-scorers, position-unverified
 - Jorge Burruchaga: club-total-only
+- Manuel Fidel: club-top-scorers, position-unverified
+- Alberto Piovano: club-top-scorers, position-unverified
+- Carlos Spadaro: club-top-scorers, position-unverified
 - Amable López: club-total-only, position-unverified
 - Juan Martín: seasons-before-2008-not-counted, soloascenso-partial
 - Antonio Gambino: club-total-only, position-unverified
+- Juan Carlos Carone: club-top-scorers, position-unverified
 - Agustín Lavezzi: season-list-truncated, soloascenso-partial
 - Mario Bevilacqua: club-total-only
 - Pedro Gordillo: club-total-only, position-unverified
@@ -162,37 +182,55 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Leandro Lazzaro: manual-correction
 - Leonel Llodrá: soloascenso-partial, position-unverified
 - Paulo Valentim: club-total-only
+- José Luis Lodico: club-top-scorers, position-unverified
 - Daniel Tilger: manual-correction
 - Lucas Albertengo: season-list-truncated, soloascenso-partial
 - Pablo Magnin: cups-partial
+- Antonio Garabal: club-top-scorers, position-unverified
 - Hugo Curioni: club-total-only
 - José Zorrilla: club-total-only
+- Luis Eduardo Suárez: club-top-scorers, position-unverified
+- Norberto Raffo: club-top-scorers, position-unverified
 - Diego Ceballos: cups-partial
+- Miguel Turello: club-top-scorers, position-unverified
 - Orfilio Pinaroli: club-total-only, position-unverified
 - Pablo Palacios Alvarenga: soloascenso-partial
 - Cristian Fabbiani: soloascenso-partial
 - Cristian Tarragona: season-list-truncated, cups-partial
+- Julio Pisapia: club-top-scorers, position-unverified
+- Mario Sciarra: club-top-scorers, position-unverified
+- Miguel Oswaldo González: club-top-scorers, position-unverified
 - Ricardo Pavoni: club-total-only
+- Amadeo Colángelo: club-top-scorers, position-unverified
 - Juan Amieva: soloascenso-partial, position-unverified
 - Luis López: season-list-truncated, soloascenso-partial
 - Martín Cardetti: cups-partial
 - Osvaldo Rubén Gil: club-total-only
+- Roberto Zárate: club-top-scorers, position-unverified
 - Ángel Alfonso: club-total-only, position-unverified
 - Carlos Lacasia: club-total-only
 - Eduardo Maglioni: club-total-only
+- Rodolfo Danza: club-top-scorers, position-unverified
+- Alfredo Borgnia: club-top-scorers, position-unverified
 - Horacio Salvatelli: club-total-only, position-unverified
+- Miguel Robinson Hernández: club-top-scorers, position-unverified
 - Walter Bou: season-list-truncated, cups-partial
 - Daniel Picaro: club-total-only, position-unverified
 - Ernesto Pieri: club-total-only
 - Lautaro Parisi: soloascenso-partial
+- Ernesto Álvarez: soloascenso-partial
+- Héctor Berón: club-top-scorers, position-unverified
 - Bruno Sepúlveda: season-list-truncated, cups-partial, soloascenso-partial
 - Federico Sellecchia: soloascenso-partial, position-unverified
 - Patricio Cucchi: soloascenso-partial
+- Carlos Ereros: club-top-scorers, position-unverified
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
+- Daniel Delfino: club-top-scorers, position-unverified
 - Juan Pablo Zárate: season-list-truncated, soloascenso-partial
 - Ignacio Colombini: season-list-truncated, soloascenso-partial
 - Rodrigo Sánchez: soloascenso-partial, position-unverified
+- Delio Onnis: club-top-scorers, position-unverified
 - Raúl Armando Savoy: club-total-only
 - Silvio Carrario: cups-partial
 - Humberto Taborda: club-total-only
@@ -363,7 +401,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Ezequiel Cérica: soloascenso-partial
 - Francisco Gallardo: club-total-only, position-unverified
 - Gervasio Núñez: soloascenso-partial
-- Gustavo Albella: club-total-only
 - Joaquín Molina: cups-partial, soloascenso-partial
 - Lucas Buono: soloascenso-partial, position-unverified
 - Matías Linas: soloascenso-partial
@@ -404,6 +441,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - José Michelena: season-list-truncated, cups-partial, soloascenso-partial
 - Pablo Mazza: soloascenso-partial
 - Patricio Camps: cups-partial
+- Paulo Silas: manual-correction
 - Ricardo Tapia: soloascenso-partial, position-unverified
 - Sergio Recchiutti: editions-partial, position-unverified
 - Andrés Guzmán: soloascenso-partial
@@ -419,7 +457,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Braian Guille: soloascenso-partial, position-unverified
 - Elías Torancio: soloascenso-partial, position-unverified
 - Eloy Rodríguez: soloascenso-partial, position-unverified
-- Ernesto Álvarez: soloascenso-partial
 - Facundo Diz: soloascenso-partial
 - Facundo Pumpido: soloascenso-partial
 - Guido Di Vanni: soloascenso-partial

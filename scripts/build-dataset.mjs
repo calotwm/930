@@ -831,6 +831,71 @@ function main() {
     if (p.clubs) p.clubs = [...new Set(p.clubs.map(canonClub))]
   }
 
+  // Wikipedia "Futbolistas del <club>" categories (scripts/fetch-club-categories.mjs): everyone who
+  // played for the club, even briefly. Added to the player's clubs when the name is unambiguous.
+  const catFile = path.join(RAW, 'wikipedia', 'club-categories.json')
+  if (fs.existsSync(catFile)) {
+    const cats = JSON.parse(fs.readFileSync(catFile, 'utf8'))
+    const byNorm = new Map()
+    for (const p of players) byNorm.set(norm(p.name), [...(byNorm.get(norm(p.name)) ?? []), p])
+    let added = 0
+    for (const [club, titles] of Object.entries(cats)) {
+      for (const t of titles) {
+        const list = byNorm.get(norm(t.replace(/\s*\(.*\)$/, '')))
+        if (list?.length !== 1) continue
+        const p = list[0]
+        if (!p.clubs) p.clubs = [p.club]
+        if (!p.clubs.includes(club)) {
+          p.clubs.push(club)
+          added++
+        }
+      }
+    }
+    report.push(`Categorías de Wikipedia por club: ${added} clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).`)
+  }
+
+  // top scorers of each club (data-sources/club-top-scorers.json, goals scored for that club): the club
+  // goes into the player's list, the total is raised to at least those goals, missing players are added
+  const tops = JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-top-scorers.json'), 'utf8'))
+  const topLog = { added: [], raised: 0 }
+  for (const t of tops) {
+    // same name and already at that club; a same-name player elsewhere is a namesake (another era)
+    // "Juan Pizzuti" is "Juan José Pizzuti": every word of the shorter name appears in the longer one
+    const within = (a, b) => {
+      const [s, l] = [norm(a).split(' '), norm(b).split(' ')].sort((x, y) => x.length - y.length)
+      return s.at(-1) === l.at(-1) && s.every((w) => l.includes(w))
+    }
+    const atClub = players.filter((x) => (x.clubs ?? [x.club]).includes(t.club))
+    let p = atClub.filter((x) => norm(x.name) === norm(t.name))
+    if (!p.length) p = atClub.filter((x) => within(x.name, t.name))
+    if (p.length === 1) {
+      const x = p[0]
+      if (x.goals < t.goals) {
+        Object.assign(x, { goals: t.goals, leagueGoals: undefined, cupGoals: undefined, intlGoals: undefined, scope: `Al menos sus goles en ${t.club}` })
+        topLog.raised++
+      }
+      continue
+    }
+    if (p.length > 1) continue
+    const parts = t.name.split(' ')
+    players.push({
+      id: slug(t.name),
+      name: t.name,
+      shortName: parts.slice(1).join(' ') || t.name,
+      position: t.position,
+      goals: t.goals,
+      club: t.club,
+      clubs: [t.club],
+      division: 'Primera',
+      scope: `Goles en ${t.club} (máximos goleadores del club)`,
+      era: '—',
+      source: { name: 'Máximos goleadores del club', url: t.source },
+      review: ['club-top-scorers', 'position-unverified'],
+    })
+    topLog.added.push(t.name)
+  }
+  report.push(`Máximos goleadores por club (data-sources/club-top-scorers.json): ${topLog.raised} totales subidos, ${topLog.added.length} jugadores agregados (${topLog.added.join(', ')}).`)
+
   // unique ids
   const seen = new Map()
   for (const p of players) {

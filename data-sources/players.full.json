@@ -5992,6 +5992,28 @@
   ]
  },
  {
+  "id": "edgardo-bauza",
+  "name": "Edgardo Bauza",
+  "position": "CB",
+  "shortName": "Bauza",
+  "club": "Rosario Central",
+  "clubs": [
+   "Rosario Central",
+   "Independiente"
+  ],
+  "division": "Primera",
+  "era": "1970s–1980s",
+  "source": {
+   "name": "Wikipedia — Edgardo Bauza",
+   "url": "https://es.wikipedia.org/wiki/Edgardo_Bauza"
+  },
+  "goals": 81,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "ezequiel-maggiolo",
   "name": "Ezequiel Maggiolo",
   "shortName": "Maggiolo",

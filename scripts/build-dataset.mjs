@@ -741,7 +741,9 @@ function main() {
     const s2 = chosen
     const sum = (k) => rows.reduce((a, r) => a + r[k], 0)
     const goals = Math.max(sum('total'), sum('league') + sum('cups') + sum('intl'))
-    if (goals > p.goals) {
+    // goalkeeper tables often list goals conceded under "Goles": never raised from them
+    const keeper = p.position === 'GK' || /arquero|portero|guardameta/i.test(chosen.position ?? '')
+    if (goals > p.goals && !keeper) {
       statsLog.raised.push(`${p.name}: ${p.goals} → ${goals}`)
       Object.assign(p, {
         goals,

@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **5434** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5705** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -16,12 +16,12 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Tablas de Wikipedia (8: Primera, Primera, River Plate, San Lorenzo, Huracán, Tigre, Racing Club, Talleres): 349 filas válidas, 80 jugadores agregados, 4 filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: 1 (Andrés Silvera: 44 (un club) → 107 (Primera, carrera)). Diferencias de 5+ goles con la tabla de Primera: 10 (ver abajo).
 - Altas manuales con fuente citada (data-sources/manual-additions.json): 3.
 - Copas y ascenso (Wikipedia): 161 ediciones (11 solo con el goleador de la ficha, 11 sin tabla legible), tablas históricas de Libertadores y Sudamericana. 217 jugadores con goles de copas o ascenso previo sumados (6 con totales exactos; el resto marcado `cups-partial`), 16 jugadores de ascenso agregados (`editions-partial`), 57 sin sumar porque el club no coincide o el nombre es ambiguo. Por competición: Copa Libertadores 41, Supercopa Sudamericana 7, Copa Argentina 141, Copa Sudamericana 34, Copa de la Liga Profesional 22.
-- Solo Ascenso (B Metro, C, D y Federal A, copias de Internet Archive): 26 torneos, 891 jugadores; 138 totales sumados, 509 jugadores de ascenso agregados, 244 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
-- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1043 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Ignacio González: agregado (8); Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 20 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151).
+- Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 196 totales sumados, 780 jugadores de ascenso agregados, 517 sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).
+- Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1039 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 22 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 24; Ignacio González: agregado (8); Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: agregado (89); Luciano Agnolín: agregado (151).
 - Primera: 3292 · Primera Nacional: 1631
-- Por posición: GK 89 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 1901
-- Marcados para revisión: 2475
+- Por posición: GK 89 · CB 800 · LB 271 · RB 267 · DM 335 · CM 465 · AM 515 · LW 360 · RW 431 · ST 2172
+- Marcados para revisión: 2770
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -84,16 +84,18 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 689 jugadores
+- position-unverified: 960 jugadores
 - `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.
-- `soloascenso-partial`: goles de B Metro, C, D o Federal A tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
+- `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
 - `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.
 - seasons-before-*-not-counted: 213 jugadores
 - José Sand: active-in-source-update-2023
+- Jonathan Herrera: season-list-truncated, soloascenso-partial
 - Javier Rossi: soloascenso-partial
 - Santiago Silva: active-in-source-update-2023
 - Adrián Czornomaz: editions-partial, manual-correction
 - Luciano Agnolín: manual-correction
+- Gonzalo Klusener: soloascenso-partial
 - Humberto Bravo: club-total-only
 - José Alfredo Zelaya: manual-correction
 - Christian Gómez: manual-correction
@@ -104,18 +106,19 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Bruno Nasta: season-list-truncated, soloascenso-partial
 - Pablo Frers: club-total-only, position-unverified
 - Luis Tonelotto: manual-correction
+- Luciano Pons: soloascenso-partial
 - Gilmar Villagrán: club-total-only
 - Luis Antonio Ludueña: club-total-only
 - Daniel Passarella: secondary-source-club-statistics
 - Natalio Perinetti: club-total-only
 - Pedro Ochoa: club-total-only
+- Javier Velázquez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Edgardo Paruzzo: club-total-only
 - Luciano Leguizamón: soloascenso-partial
 - Ricardo Bochini: club-total-only
 - Juan Perinetti: club-total-only
 - Alcides Miranda Moreira: soloascenso-partial, position-unverified
 - Horacio Bustos: club-total-only, position-unverified
-- Javier Velázquez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Norberto Outes: club-total-only
 - Ángel Bocanelli: club-total-only
 - Ángel Silva: club-total-only
@@ -123,22 +126,25 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Mauro Boselli: season-list-truncated, cups-partial
 - Daniel Bertoni: club-total-only
 - Daniel Giménez: manual-correction
-- Luis Salmerón: seasons-before-2008-not-counted, manual-correction
+- Luis Salmerón: seasons-before-2008-not-counted, soloascenso-partial, manual-correction
+- Rubén Ramírez: soloascenso-partial
 - Bernardo Acosta: club-total-only
 - Leandro González: soloascenso-partial
+- Lucas Scarnato: soloascenso-partial, position-unverified
 - Ramón Lentini: soloascenso-partial
 - Milton Giménez: soloascenso-partial
 - Claudio Nigretti: club-total-only
 - Pedro Farías: club-total-only, position-unverified
 - Alfredo Graciani: club-total-only
 - Aníbal Tarabini: club-total-only
-- Lucas Scarnato: soloascenso-partial, position-unverified
 - Osvaldo Rubén Potente: club-total-only, position-unverified
 - Amable López: club-total-only, position-unverified
+- Juan Martín: seasons-before-2008-not-counted, soloascenso-partial
 - Antonio Gambino: club-total-only, position-unverified
 - Agustín Lavezzi: season-list-truncated, soloascenso-partial
 - Mario Bevilacqua: club-total-only
 - Pedro Gordillo: club-total-only, position-unverified
+- Gonzalo Vivanco: soloascenso-partial, position-unverified
 - Braian Romero: season-list-truncated, cups-partial
 - Diego Jara: soloascenso-partial
 - Leonel Llodrá: soloascenso-partial, position-unverified
@@ -148,7 +154,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Hugo Curioni: club-total-only
 - José Zorrilla: club-total-only
 - Diego Ceballos: cups-partial
-- Gonzalo Vivanco: soloascenso-partial, position-unverified
 - Orfilio Pinaroli: club-total-only, position-unverified
 - Daniel Willington: club-total-only
 - Pablo Palacios Alvarenga: soloascenso-partial
@@ -156,6 +161,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Cristian Tarragona: season-list-truncated, cups-partial
 - Ricardo Pavoni: club-total-only
 - Juan Amieva: soloascenso-partial, position-unverified
+- Luis López: season-list-truncated, soloascenso-partial
 - Martín Cardetti: cups-partial
 - Osvaldo Rubén Gil: club-total-only
 - Ángel Alfonso: club-total-only, position-unverified
@@ -173,6 +179,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Ricardo Ceballos: club-total-only, position-unverified
 - Juan Pablo Zárate: season-list-truncated, soloascenso-partial
 - Lucas Licht: soloascenso-partial
+- Ignacio Colombini: season-list-truncated, soloascenso-partial
 - Rodrigo Sánchez: soloascenso-partial, position-unverified
 - Raúl Armando Savoy: club-total-only
 - Silvio Carrario: cups-partial
@@ -181,18 +188,23 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Rodolfo Micheli: club-total-only
 - Carlos Cecconato: club-total-only
 - Daniel Jiménez: cups-partial
+- Maximiliano Tunessi: soloascenso-partial, position-unverified
 - Sergio Sosa: soloascenso-partial, position-unverified
 - Braian Chávez: soloascenso-partial, position-unverified
+- Franco Toloza: soloascenso-partial
 - José Borello: club-total-only
 - Pablo Farías: club-total-only, position-unverified
 - Roberto Cortez: club-total-only, position-unverified
+- Antony Alonso: soloascenso-partial
 - Juan Crespín: club-total-only, position-unverified
 - Benito Cejas: club-total-only
+- Ezequiel Aguirre: season-list-truncated, soloascenso-partial
 - José Percudani: club-total-only
 - Juan José De Mario: club-total-only
 - Matías Coselli: soloascenso-partial, position-unverified
 - Miguel Ángel Patire: club-total-only, position-unverified
 - Renato Manzzolli: club-total-only, position-unverified
+- Damián Salvatierra: soloascenso-partial, position-unverified
 - José Luis Chilavert: cups-partial, manual-correction
 - Raúl Bernao: club-total-only
 - Alejandro Barberón: club-total-only
@@ -200,28 +212,35 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Lautaro Gordillo: season-list-truncated, soloascenso-partial
 - Lázaro Romero: season-list-truncated, soloascenso-partial
 - Lucas Gamba: cups-partial
+- Víctor Gómez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Alfredo Garasini: club-total-only, position-unverified
-- Antony Alonso: soloascenso-partial
 - Ariel Cólzera: soloascenso-partial
 - Juan Miritello: soloascenso-partial
 - Juan Romay: club-total-only
 - Mario Fernández: club-total-only
 - Miguel Oviedo: club-total-only
 - Severino Varela: club-total-only
+- Andrés Franzoia: soloascenso-partial
 - Fermín Flamini: club-total-only, position-unverified
+- Franco Coronel: season-list-truncated, soloascenso-partial
 - Miguel Ángel Ludueña: club-total-only
+- Santiago Gómez: soloascenso-partial, position-unverified
 - Gustavo Bou: cups-partial
 - Osvaldo Héctor Cruz: club-total-only, position-unverified
 - Osvaldo Nardiello: club-total-only, position-unverified
 - Ramón Enrique: club-total-only, position-unverified
 - Urbano Reynoso: club-total-only
+- Damián De Hoyos: season-list-truncated, soloascenso-partial
+- Facundo Suárez: soloascenso-partial
 - José Pastoriza: club-total-only
+- Octavio Bianchi: season-list-truncated, soloascenso-partial
 - Oscar Altamirano: seasons-before-2008-not-counted, soloascenso-partial
 - Carlos Fuentes: club-total-only, position-unverified
+- Facundo Castro: season-list-truncated, soloascenso-partial
 - Juan Nani: club-total-only, position-unverified
+- Marcos Salvaggio: soloascenso-partial, position-unverified
 - Pedro Heredia: club-total-only, position-unverified
 - Ramón Héctor Ponce: club-total-only
-- Santiago Gómez: soloascenso-partial, position-unverified
 - Axel Rodríguez: season-list-truncated, soloascenso-partial
 - Ezequiel Reynoso: club-total-only, position-unverified
 - Fernando Walter: club-total-only
@@ -235,23 +254,24 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Donato Penella: club-total-only, position-unverified
 - Jorge Piñero da Silva: seasons-before-2008-not-counted, cups-partial, soloascenso-partial
 - José Florio: club-total-only
-- Maximiliano Tunessi: soloascenso-partial, position-unverified
 - Oscar Contreras: club-total-only, position-unverified
 - Enzo Ferrero: club-total-only
-- Franco Toloza: soloascenso-partial
 - Nicolás Pavlovich: cups-partial
 - Norberto Madurga: club-total-only
 - Sebastián Palacios: cups-partial
 - Antonio Medina: soloascenso-partial
+- Fernando Giménez: soloascenso-partial, position-unverified
 - Franco Jara: cups-partial
 - Horacio Attadía: club-total-only
+- Ivo Costantino: season-list-truncated, soloascenso-partial
+- Leonardo Heredia: season-list-truncated, soloascenso-partial
 - Pedro Acevedo: club-total-only, position-unverified
 - Ramiro López: soloascenso-partial
 - Ronaldo Martínez: soloascenso-partial
-- Andrés Franzoia: soloascenso-partial
 - Cristian Ibarra: soloascenso-partial, position-unverified
 - Héctor Silva: cups-partial
 - Juan Carlos Almada: editions-partial
+- Martín Batallini: season-list-truncated, soloascenso-partial
 - Maximiliano Casa: season-list-truncated, cups-partial, soloascenso-partial
 - Oscar Tedini: club-total-only, position-unverified
 - Raúl Martínez: club-total-only
@@ -259,8 +279,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Carlos Guerini: club-total-only
 - Darío Felman: club-total-only
 - Fernando Enrique: season-list-truncated, soloascenso-partial
-- Juan Martín: seasons-before-2008-not-counted, soloascenso-partial
 - Matías Nouet: season-list-truncated, soloascenso-partial
+- Mauro Ortiz: soloascenso-partial
+- Maximiliano Quinteros: soloascenso-partial, position-unverified
 - Miguel Ángel Gambier: club-total-only
 - Nicolás Daponte: club-total-only
 - Norberto Pairoux: club-total-only, position-unverified
@@ -270,70 +291,85 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Tomás Molina: cups-partial
 - Alberto De Sá: club-total-only, position-unverified
 - Antonio Cerrotti: club-total-only, position-unverified
+- Diego Crego: season-list-truncated, soloascenso-partial
+- Ezequiel Melillo: season-list-truncated, soloascenso-partial
 - Federico Anselmo: cups-partial
 - Gonzalo Urquijo: season-list-truncated, soloascenso-partial
+- Milton Céliz: soloascenso-partial
 - Alberto Sánchez: club-total-only
 - Alfredo Bazán: club-total-only, position-unverified
+- Eduardo dos Santos: seasons-before-2008-not-counted, soloascenso-partial
 - Emilio Castro: club-total-only, position-unverified
 - Facundo Bruera: cups-partial
 - Hugo Noremberg: editions-partial, position-unverified
+- Javier Ferreira: season-list-truncated, soloascenso-partial
 - Jorge Ferrero: season-list-truncated, soloascenso-partial
 - Alan Salvador: soloascenso-partial, position-unverified
+- Alfredo Troncoso: soloascenso-partial, position-unverified
+- Braian Miranda: season-list-truncated, soloascenso-partial
 - Eugenio Maldonado: club-total-only, position-unverified
+- Fabricio Reyes: soloascenso-partial, position-unverified
 - Germán Águila: soloascenso-partial, position-unverified
+- Gonzalo Bravo: soloascenso-partial
 - Humberto Epifanio: club-total-only, position-unverified
 - Luis Oviedo: club-total-only, position-unverified
 - Martín Giménez: soloascenso-partial
 - Martín Michel: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Oscar Fachetti: club-total-only, position-unverified
 - Clotardo Dendi: club-total-only
+- Facundo Curuchet: soloascenso-partial
+- Lionel Altamirano: soloascenso-partial, position-unverified
+- Martín Garnerone: soloascenso-partial
 - Mateo Levato: season-list-truncated, soloascenso-partial
 - Alejo Distaulo: cups-partial, soloascenso-partial
 - Alfredo Veira: club-total-only, position-unverified
 - Benito Albarracín: club-total-only, position-unverified
 - Damián Anriquez: soloascenso-partial, position-unverified
+- Diego Cardozo: soloascenso-partial
 - Eduardo Sánchez: club-total-only, position-unverified
+- Federico Castro: season-list-truncated, soloascenso-partial
 - Gabriel Morales: soloascenso-partial
-- Marcos Salvaggio: soloascenso-partial, position-unverified
+- Joaquín Susvielles: season-list-truncated, soloascenso-partial
 - Martín Fabro: cups-partial, soloascenso-partial
 - Nicolás Toloza: season-list-truncated, soloascenso-partial
 - Rodrigo Astudillo: cups-partial
 - Sergio Salomone: soloascenso-partial, position-unverified
 - Ángel Hoyos: club-total-only
 - Damián Toledo: season-list-truncated, soloascenso-partial
+- Diego Ledesma: soloascenso-partial, position-unverified
 - Eduardo Bennett: cups-partial
 - Fernando Di Carlo: club-total-only, position-unverified
-- Fernando Giménez: soloascenso-partial, position-unverified
 - Franco Soldano: season-list-truncated, cups-partial
 - Gonzalo Sosa: soloascenso-partial, position-unverified
 - Juan Prax: club-total-only, position-unverified
 - Ramiro Luna: season-list-truncated, soloascenso-partial
 - Alfredo Calderón: club-total-only, position-unverified
+- Cristian Milla: soloascenso-partial
+- Damián Bogado: soloascenso-partial, position-unverified
+- Enzo González: season-list-truncated, soloascenso-partial
 - Ezequiel Cérica: soloascenso-partial
 - Francisco Gallardo: club-total-only, position-unverified
 - Gervasio Núñez: soloascenso-partial
 - Gustavo Albella: club-total-only
 - Joaquín Molina: cups-partial, soloascenso-partial
 - Lucas Buono: soloascenso-partial, position-unverified
+- Matías Linas: soloascenso-partial
 - Miguel Rivarola: club-total-only, position-unverified
-- Facundo Suárez: soloascenso-partial
 - Hugo Salvatelli: club-total-only, position-unverified
 - Jonatan Morán: soloascenso-partial, position-unverified
+- Jonathan Cañete: season-list-truncated, soloascenso-partial
 - Lucas Delgado: soloascenso-partial
 - Luciano Vietto: cups-partial
-- Martín Batallini: season-list-truncated, soloascenso-partial
+- Marcos Figueroa: soloascenso-partial
 - Matías Sproat: season-list-truncated, soloascenso-partial
 - Nicolás Miracco: soloascenso-partial
-- Víctor Gómez: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Alejo Veliz: season-list-truncated, cups-partial
-- Alfredo Troncoso: soloascenso-partial, position-unverified
 - Favio Cabral: soloascenso-partial
 - Lautaro Martínez: cups-partial
-- Marcos Figueroa: soloascenso-partial
 - Matías Samaniego: soloascenso-partial, position-unverified
 - Maximiliano Comba: soloascenso-partial
+- Tomás Bolzicco: season-list-truncated, soloascenso-partial
 - Daniel Bilos: cups-partial
-- Eduardo dos Santos: seasons-before-2008-not-counted, soloascenso-partial
 - Federico Martínez: soloascenso-partial, position-unverified
 - Jonathan López: soloascenso-partial
 - Nicolás Orsini: cups-partial
@@ -342,17 +378,15 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Antonio Alderete: club-total-only
 - Celedonio Fernández: club-total-only, position-unverified
 - Emanuel Zagert: soloascenso-partial, position-unverified
-- Ezequiel Melillo: season-list-truncated, soloascenso-partial
-- Javier Ferreira: season-list-truncated, soloascenso-partial
 - Jorge Weschta: club-total-only, position-unverified
 - José Luis Pochettino: club-total-only
 - Nahuel Pombo: soloascenso-partial, position-unverified
 - Christian Soria: soloascenso-partial, position-unverified
 - Cristian Lucchetti: manual-correction
-- Damián Salvatierra: soloascenso-partial, position-unverified
 - Daniel Leani: editions-partial, position-unverified
 - Daniel Toribio Aquino: editions-partial
 - Ezequiel Gaviglio: soloascenso-partial, position-unverified
+- Fernando Valenzuela: soloascenso-partial, position-unverified
 - Gabriel Pérez Tarifa: soloascenso-partial
 - Ivo Kestler: soloascenso-partial, position-unverified
 - José Michelena: season-list-truncated, cups-partial, soloascenso-partial
@@ -362,37 +396,51 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Sergio Recchiutti: editions-partial, position-unverified
 - Andrés Guzmán: soloascenso-partial
 - Andrés Sosa: club-total-only, position-unverified
+- Blas Sosa: soloascenso-partial, position-unverified
+- Brian Ferreyra: soloascenso-partial, position-unverified
 - Claudio Biaggio: cups-partial
+- Claudio Vega: season-list-truncated, soloascenso-partial
 - Eduardo Zárate: club-total-only, position-unverified
+- Juan Manuel Perillo: soloascenso-partial, position-unverified
 - Marcos Fernández: season-list-truncated, soloascenso-partial
 - Roberto Oste: club-total-only, position-unverified
 - Braian Guille: soloascenso-partial, position-unverified
-- Damián Bogado: soloascenso-partial, position-unverified
 - Elías Torancio: soloascenso-partial, position-unverified
 - Eloy Rodríguez: soloascenso-partial, position-unverified
 - Ernesto Álvarez: soloascenso-partial
+- Facundo Diz: soloascenso-partial
 - Facundo Pumpido: soloascenso-partial
 - Guido Di Vanni: soloascenso-partial
 - Guillermo Pereira: soloascenso-partial
 - Hernán González: seasons-before-2008-not-counted, soloascenso-partial
 - Leandro Vella: cups-partial, soloascenso-partial
+- Luciano Romero: season-list-truncated, soloascenso-partial
+- Matias Persia: soloascenso-partial, position-unverified
 - Narciso Contreras: club-total-only, position-unverified
 - Nicolás Johansen: soloascenso-partial, position-unverified
 - Oswaldo Blanco: soloascenso-partial
+- Ramiro Rocca: soloascenso-partial, position-unverified
 - Alejandro Kenig: club-total-only
 - Alex Luna: cups-partial
 - Antonio Reynoso: club-total-only, position-unverified
-- Braian Miranda: season-list-truncated, soloascenso-partial
+- Cristian Campozano: soloascenso-partial, position-unverified
+- Cristian Lucero: soloascenso-partial
+- Damián Villalba: soloascenso-partial, position-unverified
 - Federico Andrada: cups-partial
 - Horacio Tijanovich: season-list-truncated, soloascenso-partial
 - Julio Rivero: club-total-only, position-unverified
 - Khalil Caraballo: season-list-truncated, soloascenso-partial
+- Leonardo Acosta: soloascenso-partial
 - Mario Salvatelli: club-total-only, position-unverified
+- Martín Comachi: season-list-truncated, soloascenso-partial
 - Matías Vicedo: soloascenso-partial, position-unverified
+- Maximiliano Herrera: soloascenso-partial, position-unverified
 - Miguel Amaya: editions-partial
 - Raúl Allende: club-total-only, position-unverified
 - Rodrigo Cao: soloascenso-partial, position-unverified
+- Sebastián Matos: soloascenso-partial
 - Sebastián Vivas: soloascenso-partial, position-unverified
+- Wilson Chimeli: season-list-truncated, soloascenso-partial
 - Abel Blasón: editions-partial
 - Agustín Príncipe: soloascenso-partial, position-unverified
 - Antonio Adasse: club-total-only, position-unverified
@@ -401,53 +449,67 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - César Delgado: soloascenso-partial
 - Ciro Leineker: soloascenso-partial, position-unverified
 - Cristian Barinaga: seasons-before-2008-not-counted, soloascenso-partial
-- Damián Villalba: soloascenso-partial, position-unverified
 - Diego Caballero: seasons-before-2008-not-counted, soloascenso-partial
 - Franco Cristofanelli: soloascenso-partial, position-unverified
 - Gastón Cueto: soloascenso-partial, position-unverified
 - Ignacio Pereyra: club-total-only, position-unverified
-- Maximiliano Quinteros: soloascenso-partial, position-unverified
 - Alan Seguel: soloascenso-partial, position-unverified
 - Ángel Pereyra: club-total-only, position-unverified
+- Carlos García: soloascenso-partial, position-unverified
 - César Montiglio: soloascenso-partial
 - Cristian Chimino: season-list-truncated, soloascenso-partial
 - Cristian Yassogna: soloascenso-partial, position-unverified
+- Damián Akerman: cups-partial, soloascenso-partial
 - Enzo Noir: soloascenso-partial
 - Federico Boasso: season-list-truncated, soloascenso-partial
 - Franco Tisera: season-list-truncated, soloascenso-partial
+- Germán Sosa: soloascenso-partial, position-unverified
+- Jonathan Font: soloascenso-partial, position-unverified
 - Jonathan Santana: cups-partial
+- Jorge González: soloascenso-partial, position-unverified
+- Juan Bueno: soloascenso-partial, position-unverified
+- Juan Reynoso: soloascenso-partial, position-unverified
 - Luciano Herrera: soloascenso-partial
 - Marcelo Torres: cups-partial
 - Marcos Landaburu: soloascenso-partial, position-unverified
 - Nicolás Gatto: soloascenso-partial, position-unverified
+- Pablo Bueno: seasons-before-2008-not-counted, soloascenso-partial
 - Ramón Salas: club-total-only, position-unverified
 - Roque Riquelme: club-total-only, position-unverified
 - Sebastián Saja: manual-correction
-- Blas Sosa: soloascenso-partial, position-unverified
+- Claudio Galeano: soloascenso-partial, position-unverified
 - David Müller: season-list-truncated, soloascenso-partial
-- Diego Ledesma: soloascenso-partial, position-unverified
+- Diego Tonetto: season-list-truncated, soloascenso-partial
+- Diego Velázquez: soloascenso-partial, position-unverified
 - Federico Vasilchik: soloascenso-partial, position-unverified
-- Germán Sosa: soloascenso-partial, position-unverified
 - Gustavo Azcona: soloascenso-partial, position-unverified
 - Javier Arias: soloascenso-partial, position-unverified
+- Jeremías Asencio: soloascenso-partial, position-unverified
 - José Florentín: season-list-truncated, cups-partial
 - Juan Manuel Aróstegui: seasons-before-2008-not-counted, soloascenso-partial
+- Lucas Vico: soloascenso-partial, position-unverified
 - Luis Vila: soloascenso-partial
 - Marcelo Reggiardo: editions-partial, position-unverified
 - Marcelo Rufini: editions-partial, position-unverified
+- Misael Sosa: season-list-truncated, soloascenso-partial
 - Rodrigo Caballuci: soloascenso-partial
 - Wálter Busse: soloascenso-partial
 - Agustín García: soloascenso-partial, position-unverified
+- Ángel Vildozo: soloascenso-partial
 - Braian Benítez: soloascenso-partial, position-unverified
+- Braian Uribe: soloascenso-partial, position-unverified
 - Bruno Rodríguez: soloascenso-partial, position-unverified
 - Camilo Machado: season-list-truncated, soloascenso-partial
 - Carlos Casteglione: cups-partial
-- Cristian Campozano: soloascenso-partial, position-unverified
-- Facundo Diz: soloascenso-partial
+- Enzo Acosta: season-list-truncated, soloascenso-partial
+- Fabricio Pedrozo: season-list-truncated, soloascenso-partial
 - Francisco Rivadero: club-total-only
+- Gabriel Serrano: soloascenso-partial, position-unverified
 - Joan Juncos: season-list-truncated, soloascenso-partial
-- Juan Manuel Perillo: soloascenso-partial, position-unverified
 - Leandro Espejo: season-list-truncated, soloascenso-partial
+- Luis Seco: soloascenso-partial, position-unverified
+- Mariano Mc Coubrey: soloascenso-partial, position-unverified
+- Matías Machado: season-list-truncated, soloascenso-partial
 - Matías Navarro: soloascenso-partial, position-unverified
 - Raúl Aredes: editions-partial
 - Renzo Reynaga: season-list-truncated, cups-partial
@@ -456,10 +518,12 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Víctor Heredia: club-total-only, position-unverified
 - Adolfino Cañete: club-total-only
 - Alexis Alegre: soloascenso-partial, position-unverified
-- Claudio Vega: season-list-truncated, soloascenso-partial
 - Daniel Bazán Vera: seasons-before-2008-not-counted, cups-partial
 - Daniel Oddine: editions-partial, position-unverified
+- Darío Villan: soloascenso-partial, position-unverified
+- Germán Mandarino: soloascenso-partial
 - Héctor Baillié: editions-partial
+- Juan Ignacio Turri: soloascenso-partial, position-unverified
 - Leonardo Ruiz: soloascenso-partial, position-unverified
 - Manuel Peralta: club-total-only, position-unverified
 - Martín Ávalos: soloascenso-partial, position-unverified
@@ -467,6 +531,8 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Miguel Ángel Frullingui: club-total-only, position-unverified
 - Miguel López: soloascenso-partial, position-unverified
 - Pablo Ortega: soloascenso-partial
+- Pio Bonacci: season-list-truncated, soloascenso-partial
+- Ricardo Acosta: soloascenso-partial
 - Sergio Saturno: editions-partial
 - Sergio Verdirame: editions-partial
 - Yair Arismendi: soloascenso-partial
@@ -477,6 +543,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Félix Villacorta: soloascenso-partial, position-unverified
 - Fernando Valdebenito: soloascenso-partial, position-unverified
 - Gastón Grecco: soloascenso-partial, position-unverified
+- Guido Barreyro: soloascenso-partial, position-unverified
 - Jean Rousseau: soloascenso-partial, position-unverified
 - Juan Carlos Lescano: soloascenso-partial, position-unverified
 - Leandro Somoza: cups-partial
@@ -487,35 +554,44 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Nicolás Capellino: seasons-before-2008-not-counted, soloascenso-partial
 - Óscar Romero: season-list-truncated, cups-partial
 - Pablo Gaitán: soloascenso-partial, position-unverified
+- Sebastián Girsa: soloascenso-partial, position-unverified
+- Sebastian Jeldres: soloascenso-partial, position-unverified
+- Abel Soriano: seasons-before-2008-not-counted, soloascenso-partial
+- Adrián Acevedo: soloascenso-partial, position-unverified
 - Cristian Taborda: soloascenso-partial, position-unverified
 - David Bulacio: soloascenso-partial, position-unverified
+- David Orellana: soloascenso-partial, position-unverified
 - Diego Romero: seasons-before-2008-not-counted, soloascenso-partial
-- Gabriel Serrano: soloascenso-partial, position-unverified
+- Fernando Joao: season-list-truncated, soloascenso-partial
+- Franco Stella: soloascenso-partial, position-unverified
 - Jonathan Fernández: soloascenso-partial, position-unverified
 - Juan Cruz Vera Borda: soloascenso-partial, position-unverified
 - Julián Cardellino: soloascenso-partial, position-unverified
 - Mariano Martínez: soloascenso-partial
 - Martín Gianfelice: soloascenso-partial, position-unverified
 - Matías Mena: soloascenso-partial, position-unverified
-- Matias Persia: soloascenso-partial, position-unverified
 - Matías Zbrun: seasons-before-2008-not-counted, soloascenso-partial
+- Nahuel Peralta: soloascenso-partial, position-unverified
 - Nicolás Cordero: season-list-truncated, cups-partial
 - Nicolás Laméndola: cups-partial
 - Nicolás Ledesma: soloascenso-partial
 - Sebastián Ereros: seasons-before-1990-not-counted, cups-partial
-- Sebastian Jeldres: soloascenso-partial, position-unverified
 - Sergio Acosta: soloascenso-partial, position-unverified
 - Sergio Marclay: seasons-before-2008-not-counted, soloascenso-partial
 - Tomás Pavone: soloascenso-partial, position-unverified
 - Tomás Rozic: soloascenso-partial, position-unverified
 - Víctor Meza: soloascenso-partial, position-unverified
 - Walter Zunino: soloascenso-partial
-- Adrián Acevedo: soloascenso-partial, position-unverified
 - Agustín Occhiato: soloascenso-partial, position-unverified
 - Brian Flores: soloascenso-partial, position-unverified
+- Carlos Méndez: soloascenso-partial, position-unverified
+- César Mansanelli: soloascenso-partial
 - Emiliano Mozzone: soloascenso-partial, position-unverified
+- Esteban Selpa: soloascenso-partial, position-unverified
 - Fabricio González: soloascenso-partial, position-unverified
-- Fabricio Reyes: soloascenso-partial, position-unverified
+- Federico Acevedo: soloascenso-partial, position-unverified
+- Federico Barrionuevo: soloascenso-partial
+- Franco Caseres: soloascenso-partial, position-unverified
 - Gonzalo Pérez: soloascenso-partial, position-unverified
 - Hugo Troche: soloascenso-partial, position-unverified
 - Israel Roldán: soloascenso-partial
@@ -525,27 +601,35 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Lucas Lazo: soloascenso-partial
 - Marcelo Scatolaro: seasons-before-2008-not-counted, soloascenso-partial
 - Matko Miljevic: cups-partial
-- Maximiliano Herrera: soloascenso-partial, position-unverified
+- Miguel Puntano: soloascenso-partial, position-unverified
+- Nahuel Estévez: soloascenso-partial
+- Victorio Martini: soloascenso-partial, position-unverified
 - Alan Sombra: season-list-truncated, soloascenso-partial
 - Alan Visco: soloascenso-partial, position-unverified
 - Armando Lezcano: soloascenso-partial, position-unverified
 - Axel Paiva: soloascenso-partial, position-unverified
+- Carlos Lopez: soloascenso-partial, position-unverified
 - César Lamanna: soloascenso-partial, position-unverified
 - Damián Martínez: season-list-truncated, cups-partial
 - Diego Jaime: soloascenso-partial, position-unverified
 - Facundo Lando: soloascenso-partial, position-unverified
+- Federico Amaya: soloascenso-partial, position-unverified
 - Federico Ferrari: soloascenso-partial, position-unverified
-- Franco Caseres: soloascenso-partial, position-unverified
+- Federico Miño: soloascenso-partial, position-unverified
+- Franco Montero: soloascenso-partial, position-unverified
+- Gabriel Giacopetti: soloascenso-partial, position-unverified
 - Gustavo Pastor: soloascenso-partial, position-unverified
 - Ivo Chaves: seasons-before-2008-not-counted, season-list-truncated, soloascenso-partial
 - Ivo Constantino: soloascenso-partial, position-unverified
 - Javier Molina: seasons-before-2008-not-counted, cups-partial, soloascenso-partial
 - Joaquín Tonet: soloascenso-partial, position-unverified
+- Jorge Echenausi: soloascenso-partial, position-unverified
 - Juan Manuel Lazaneo: soloascenso-partial, position-unverified
 - Lautaro Palacios: soloascenso-partial, position-unverified
+- Leonardo Cruz: soloascenso-partial, position-unverified
 - Manuel Brondo: soloascenso-partial, position-unverified
 - Mateo Muñoz: soloascenso-partial, position-unverified
-- Ramiro Rocca: soloascenso-partial, position-unverified
+- Matías Atlante: soloascenso-partial, position-unverified
 - Raúl Pérez: soloascenso-partial, position-unverified
 - Santiago Auteri: soloascenso-partial, position-unverified
 - Santiago Prim: soloascenso-partial, position-unverified
@@ -553,20 +637,28 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Walter García: cups-partial
 - William Giménez: soloascenso-partial, position-unverified
 - Agustín Mansilla: soloascenso-partial, position-unverified
+- Alberto Martínez: soloascenso-partial, position-unverified
 - Alejandro Lugones: soloascenso-partial, position-unverified
 - Antú Hernández: soloascenso-partial, position-unverified
 - Cristian Cuenca: soloascenso-partial, position-unverified
 - Cristian Vázquez: soloascenso-partial, position-unverified
+- Damián Solferino: soloascenso-partial, position-unverified
+- Emerson Abbate: soloascenso-partial, position-unverified
+- Eugenio Sabedra: soloascenso-partial, position-unverified
 - Ezequiel Cardozo: soloascenso-partial, position-unverified
 - Fernando Pasquale: soloascenso-partial, position-unverified
 - Franco Méndez: soloascenso-partial, position-unverified
 - Gastón Arrieta: soloascenso-partial, position-unverified
 - Gonzalo Calabria: soloascenso-partial, position-unverified
+- Gonzalo Parisi: season-list-truncated, soloascenso-partial
+- Joel Valdemarin: soloascenso-partial, position-unverified
 - José Loncón: seasons-before-2008-not-counted, cups-partial
+- Leonardo Iorlano: soloascenso-partial, position-unverified
 - Marco Iacobellis: cups-partial
 - Marcos Riquelme: soloascenso-partial, position-unverified
 - Mariano Gorosito: soloascenso-partial, position-unverified
 - Martín Abraham: soloascenso-partial, position-unverified
+- Renzo Riquelme: soloascenso-partial, position-unverified
 - Ricardo Dichiara: soloascenso-partial, position-unverified
 - Rodrigo Archubi: cups-partial
 - Rodrigo Hernández: soloascenso-partial, position-unverified
@@ -574,30 +666,37 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Sebastian Parera: soloascenso-partial, position-unverified
 - Alan Cantero: soloascenso-partial
 - Alan Ortiz: soloascenso-partial, position-unverified
-- Claudio Galeano: soloascenso-partial, position-unverified
+- Antonio Izaguirre: soloascenso-partial, position-unverified
 - Emanuel Cuevas: season-list-truncated, soloascenso-partial
+- Emanuel Pennisi: soloascenso-partial, position-unverified
 - Emiliano Tabone: soloascenso-partial, position-unverified
+- Facundo Nasif: seasons-before-2008-not-counted, soloascenso-partial
 - Federico Murillo: season-list-truncated, cups-partial
 - Federico Ortiz López: soloascenso-partial, position-unverified
 - Gianfranco Ottaviani: soloascenso-partial, position-unverified
-- Gonzalo Parisi: season-list-truncated, soloascenso-partial
 - Gonzalo Villafañe: soloascenso-partial, position-unverified
+- Hugo Soria: season-list-truncated, soloascenso-partial
 - Isaac Acosta: soloascenso-partial, position-unverified
 - James Rodríguez: cups-partial
 - Jeremías Heidenreich: soloascenso-partial, position-unverified
+- Jonathan Benedetti: soloascenso-partial, position-unverified
 - Jonathan Maciel: soloascenso-partial, position-unverified
-- Jorge González: soloascenso-partial, position-unverified
 - Jorge Zambrana: soloascenso-partial, position-unverified
 - Lautaro Cerato: soloascenso-partial, position-unverified
 - Luciano Cariaga: soloascenso-partial, position-unverified
 - Mateo Escobar: soloascenso-partial, position-unverified
+- Mauro Morales: soloascenso-partial, position-unverified
+- Maximiliano López: soloascenso-partial, position-unverified
 - Salomón Rondón: cups-partial
 - Agustín Faillace: soloascenso-partial, position-unverified
 - Alan Murialdo: soloascenso-partial, position-unverified
+- Alvaro Klusener: soloascenso-partial, position-unverified
 - Ángel Leiva: soloascenso-partial, position-unverified
+- Ariel Giles: soloascenso-partial, position-unverified
 - Bruno Mariani: soloascenso-partial, position-unverified
 - Claudio Leguizamón: soloascenso-partial, position-unverified
-- Damián Akerman: cups-partial
+- Cristian Hernández: soloascenso-partial, position-unverified
+- Dardo Sosa: soloascenso-partial, position-unverified
 - Diego Coria: seasons-before-2008-not-counted, soloascenso-partial
 - Elian Luca: soloascenso-partial, position-unverified
 - Elías Contreras: season-list-truncated, cups-partial
@@ -606,25 +705,37 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Facundo Laumann: season-list-truncated, soloascenso-partial
 - Facundo Macarof: soloascenso-partial, position-unverified
 - Facundo Quintana: soloascenso-partial
+- Gonzalo Narváez: soloascenso-partial
+- Ignacio Russo Cordero: soloascenso-partial, position-unverified
 - Iván Leguizamón: season-list-truncated, cups-partial
 - Jerónimo Gutiérrez: soloascenso-partial, position-unverified
+- Jonathan Ordoño: soloascenso-partial, position-unverified
 - Jorge Rossi: soloascenso-partial, position-unverified
+- Juan José Longhini: soloascenso-partial, position-unverified
 - Kevin Dubini: soloascenso-partial, position-unverified
-- Lucas Vico: soloascenso-partial, position-unverified
+- Kevin García: soloascenso-partial, position-unverified
 - Luciano Vázquez: soloascenso-partial, position-unverified
 - Luis Ardente: manual-correction
+- Martin Muñoz: soloascenso-partial, position-unverified
 - Martín Schlotthauer: soloascenso-partial, position-unverified
 - Mauricio Bermejo: soloascenso-partial, position-unverified
 - Maximiliano Mallemaci: soloascenso-partial, position-unverified
 - Nicolás Meaurio: soloascenso-partial, position-unverified
 - Quimey Marín: soloascenso-partial, position-unverified
 - Renzo Reynaga Llarena: soloascenso-partial, position-unverified
+- Roberto Martínez Gamarra: soloascenso-partial, position-unverified
 - Tomás Jerez Sayago: soloascenso-partial, position-unverified
 - Tomás Verón Lupi: soloascenso-partial, position-unverified
 - Alex Penoni: soloascenso-partial, position-unverified
 - Alexander Meza: soloascenso-partial, position-unverified
 - Arturo Mendoza: soloascenso-partial, position-unverified
+- Brian Miranda: soloascenso-partial, position-unverified
 - Cipriano Treppo: soloascenso-partial, position-unverified
+- Claudio Bazan: soloascenso-partial, position-unverified
+- Cristian Pérez: soloascenso-partial, position-unverified
+- Emanuel Mercado: season-list-truncated, soloascenso-partial
+- Emilio Romero: soloascenso-partial, position-unverified
+- Federico Verón: soloascenso-partial, position-unverified
 - Gaspar Gentile: soloascenso-partial, position-unverified
 - Gastón Sánchez: soloascenso-partial, position-unverified
 - German Mayenfish: soloascenso-partial, position-unverified
@@ -636,27 +747,29 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Ignacio Ortega: soloascenso-partial, position-unverified
 - Javier Greco: soloascenso-partial, position-unverified
 - Jonatan Maciel: soloascenso-partial, position-unverified
-- Jonathan Font: soloascenso-partial, position-unverified
 - Jorge Trinidad: soloascenso-partial, position-unverified
 - José Ingratti: soloascenso-partial, position-unverified
 - José Manuel Caspary: soloascenso-partial, position-unverified
+- Juan Bonet: soloascenso-partial, position-unverified
 - Juan Goicoechea: soloascenso-partial, position-unverified
 - Juan Pablo Francia: soloascenso-partial
-- Juan Reynoso: soloascenso-partial, position-unverified
 - Julián Bartolo: soloascenso-partial, position-unverified
 - Lautaro Montani: soloascenso-partial, position-unverified
 - Leonardo Landriel: soloascenso-partial, position-unverified
 - Lucas Mellado: soloascenso-partial, position-unverified
 - Lucas Sergi: soloascenso-partial, position-unverified
-- Luis Seco: soloascenso-partial, position-unverified
+- Marcelo Ocanto: soloascenso-partial, position-unverified
 - Matías Chavarría: soloascenso-partial, position-unverified
 - Mauro Bustos: soloascenso-partial, position-unverified
 - Miller Moreno: soloascenso-partial, position-unverified
+- Nicolas Del Sole: soloascenso-partial, position-unverified
 - Nicolás Foglia: soloascenso-partial
+- Nicolás Parodi: soloascenso-partial, position-unverified
 - Nicolás Pérez: soloascenso-partial, position-unverified
 - Octavio Padovani: soloascenso-partial, position-unverified
 - Pablo Villalba Fretes: soloascenso-partial, position-unverified
 - Paulo Oballes: soloascenso-partial, position-unverified
+- Roberto Moreira Aldana: soloascenso-partial, position-unverified
 - Rodrigo Atencio: cups-partial
 - Santiago Castro: season-list-truncated, cups-partial
 - Santiago Gutiérrez: soloascenso-partial, position-unverified
@@ -671,11 +784,14 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Christian Alba Nievas: soloascenso-partial, position-unverified
 - Ciro Campuzano: soloascenso-partial, position-unverified
 - Cristian Duma: soloascenso-partial, position-unverified
+- Danilo Sosa: soloascenso-partial, position-unverified
 - Diego Barrionuevo: soloascenso-partial, position-unverified
+- Diego Leguiza: soloascenso-partial, position-unverified
 - Diego Molina Fariña: season-list-truncated, soloascenso-partial
+- Elías Barzola: soloascenso-partial, position-unverified
+- Emmanuel Giménez: season-list-truncated, soloascenso-partial
 - Enzo Abondetto: soloascenso-partial, position-unverified
 - Esteban Giambuzzi: soloascenso-partial, position-unverified
-- Esteban Selpa: soloascenso-partial, position-unverified
 - Exequiel Filipigh: soloascenso-partial, position-unverified
 - Ezequiel Bulacio: club-unverified, season-list-truncated
 - Fabio Giménez: soloascenso-partial
@@ -683,17 +799,22 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Facundo Durso: soloascenso-partial, position-unverified
 - Facundo Miguel: soloascenso-partial, position-unverified
 - Facundo Perassi: soloascenso-partial, position-unverified
+- Federico Presedo: soloascenso-partial, position-unverified
 - Felipe Senn: soloascenso-partial, position-unverified
+- Francisco Ramírez: soloascenso-partial, position-unverified
 - Franco Nicola: cups-partial
 - Gabriel Jara: soloascenso-partial, position-unverified
+- Gastón Pizzicanella: soloascenso-partial, position-unverified
+- Hernán Salazar: soloascenso-partial, position-unverified
 - Ignacio Serpa: soloascenso-partial, position-unverified
 - Joaquín Vivani: soloascenso-partial
-- Juan Bueno: soloascenso-partial, position-unverified
 - Juan Francisco Bonet: soloascenso-partial, position-unverified
 - Juan Mugabure: soloascenso-partial, position-unverified
 - Juan Pablo Antúnes: soloascenso-partial, position-unverified
 - Juan Pablo Schefer: soloascenso-partial, position-unverified
 - Julio Barrionuevo: soloascenso-partial, position-unverified
+- Julio Ibañez: soloascenso-partial, position-unverified
+- Kevin Giménez: soloascenso-partial, position-unverified
 - Luca Ferro: soloascenso-partial, position-unverified
 - Lucas Besozzi: cups-partial
 - Lucas Chiapparo: soloascenso-partial, position-unverified
@@ -707,19 +828,23 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Marcelo Pappano: soloascenso-partial, position-unverified
 - Marcos Hermann: soloascenso-partial, position-unverified
 - Mario Cuenca: manual-correction
+- Martín Bataller: soloascenso-partial, position-unverified
 - Mateo Mamani: soloascenso-partial, position-unverified
 - Matías Maidana: soloascenso-partial, position-unverified
+- Matías Pardo: soloascenso-partial
 - Mauricio Aguirre: soloascenso-partial, position-unverified
-- Mauro Morales: soloascenso-partial, position-unverified
+- Mauricio Dominguez: soloascenso-partial, position-unverified
+- Maximiliano Antonelli: soloascenso-partial, position-unverified
 - Maximiliano Bowen: soloascenso-partial, position-unverified
 - Maximiliano Ibañez: soloascenso-partial, position-unverified
+- Maximiliano Jorquera: soloascenso-partial, position-unverified
+- Maximiliano Zárate: soloascenso-partial, position-unverified
+- Miguel Pabón: soloascenso-partial, position-unverified
 - Nahuel Paz: soloascenso-partial, position-unverified
-- Nahuel Peralta: soloascenso-partial, position-unverified
 - Nazareno Diosquez: soloascenso-partial, position-unverified
-- Nicolas Del Sole: soloascenso-partial, position-unverified
 - Nicolás Horacio: soloascenso-partial, position-unverified
-- Nicolás Parodi: soloascenso-partial, position-unverified
 - Nisim Vergara: soloascenso-partial, position-unverified
+- Pablo González De Pauli: soloascenso-partial, position-unverified
 - Pedro Durante: soloascenso-partial, position-unverified
 - Ramón Cardozo: soloascenso-partial, position-unverified
 - Riku Iwamoto: soloascenso-partial, position-unverified
@@ -727,7 +852,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Sebastián Cejas: manual-correction
 - Tomás Habib: soloascenso-partial, position-unverified
 - Walter Bardín: soloascenso-partial, position-unverified
+- Wilson Gómez: soloascenso-partial, position-unverified
 - Agustín Bianciotto: soloascenso-partial, position-unverified
+- Agustín Gil Clarotti: soloascenso-partial, position-unverified
 - Alan Silva: soloascenso-partial, position-unverified
 - Alfredo Pussetto: soloascenso-partial
 - Alfredo Resler: soloascenso-partial, position-unverified
@@ -740,41 +867,51 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Bryan Schmidt: soloascenso-partial, position-unverified
 - Carlos Gugenheim: soloascenso-partial, position-unverified
 - Claudio Charles: soloascenso-partial, position-unverified
+- Cristian Segobia: soloascenso-partial, position-unverified
 - Edgar Villán: soloascenso-partial, position-unverified
 - Edilson Giménez: soloascenso-partial, position-unverified
 - Elian Muñoz: soloascenso-partial, position-unverified
 - Emmanuel González: soloascenso-partial, position-unverified
 - Enzo Coacci: cups-partial, soloascenso-partial
+- Eric Villalba: soloascenso-partial, position-unverified
 - Exequiel Fiorotto: soloascenso-partial, position-unverified
 - Facundo Aguerre: soloascenso-partial, position-unverified
 - Félix Orode: soloascenso-partial, position-unverified
+- Gerardo Martínez: soloascenso-partial
+- Gerónimo Iriarte: soloascenso-partial, position-unverified
 - Gonzalo Atardo: soloascenso-partial, position-unverified
 - Gonzalo Baglivo: soloascenso-partial, position-unverified
+- Guillermo Mendoza: soloascenso-partial, position-unverified
 - Héctor Morales: soloascenso-partial, position-unverified
 - Hugo Christopher Bargas: soloascenso-partial, position-unverified
+- Hugo Palmerola: soloascenso-partial, position-unverified
+- Ignacio Terán: soloascenso-partial, position-unverified
 - Imanol Segovia: soloascenso-partial, position-unverified
 - Imanol Varela: soloascenso-partial, position-unverified
 - Iván Agudiak: soloascenso-partial, position-unverified
 - Javier Peñaloza: soloascenso-partial, position-unverified
+- Javier Villaseca: soloascenso-partial, position-unverified
 - Joel Cerrudo: soloascenso-partial, position-unverified
-- Juan Bonet: soloascenso-partial, position-unverified
 - Juan Cruz Bruzzoni: soloascenso-partial, position-unverified
 - Juan Cruz Vega: club-unverified, season-list-truncated
 - Juan José Weissen: soloascenso-partial, position-unverified
 - Juan Sánchez: soloascenso-partial, position-unverified
-- Kevin Giménez: soloascenso-partial, position-unverified
 - Laureano Doello: soloascenso-partial, position-unverified
 - Lautaro Leguizamón: soloascenso-partial, position-unverified
 - Lautaro Soto: soloascenso-partial, position-unverified
 - Leandro Amado: soloascenso-partial, position-unverified
 - Luca Ramírez: soloascenso-partial, position-unverified
+- Lucas Nuñez: soloascenso-partial, position-unverified
 - Luciano Machín: soloascenso-partial, position-unverified
 - Luis Campero: soloascenso-partial, position-unverified
+- Luis Quiroga: soloascenso-partial, position-unverified
 - Manuel Cordeviola: soloascenso-partial, position-unverified
 - Marco Prieto: soloascenso-partial, position-unverified
 - Marcos Godoy: soloascenso-partial, position-unverified
 - Marcos Zampini: soloascenso-partial, position-unverified
+- Martin Kuchack: soloascenso-partial, position-unverified
 - Matías Brianese: soloascenso-partial, position-unverified
+- Matías Ceballos: soloascenso-partial, position-unverified
 - Matías Jaime: soloascenso-partial, position-unverified
 - Mauricio Fernández: soloascenso-partial, position-unverified
 - Maximiliano Acosta: soloascenso-partial, position-unverified
@@ -792,6 +929,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Simón Martínez: soloascenso-partial, position-unverified
 - Tomás Bravo: soloascenso-partial, position-unverified
 - Ulises Ojeda: soloascenso-partial, position-unverified
+- Ulises Silveira: soloascenso-partial, position-unverified
 - Uriel Iehara: soloascenso-partial, position-unverified
 - Valentín Quevedo: soloascenso-partial, position-unverified
 - Walter Herrera: soloascenso-partial, position-unverified
@@ -804,9 +942,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Alejo Lloyaiy: soloascenso-partial, position-unverified
 - Alexis Arias: soloascenso-partial, position-unverified
 - Alexis Bulgarelli: soloascenso-partial, position-unverified
-- Alvaro Klusener: soloascenso-partial, position-unverified
 - Aníbal Leguizamón Espínola: soloascenso-partial, position-unverified
 - Arturo Ordano: soloascenso-partial, position-unverified
+- Axel Abad: soloascenso-partial, position-unverified
 - Benjamín Gutierrez: soloascenso-partial, position-unverified
 - Brian Martín: soloascenso-partial, position-unverified
 - Brian Meza: soloascenso-partial, position-unverified
@@ -821,6 +959,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Daniel Opazo: soloascenso-partial, position-unverified
 - Diego Pertossi: soloascenso-partial, position-unverified
 - Diego Valdés: cups-partial
+- Diego Yanzi: soloascenso-partial, position-unverified
 - Emanuel Quinteros: soloascenso-partial, position-unverified
 - Emanuel Trejo: soloascenso-partial, position-unverified
 - Enzo Vargas: soloascenso-partial, position-unverified
@@ -828,15 +967,15 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Fernando Duré: season-list-truncated, cups-partial
 - Fernando Riquelme: soloascenso-partial, position-unverified
 - Francisco Leonardo: soloascenso-partial, position-unverified
+- Franco Amarfil: soloascenso-partial, position-unverified
 - Franco Mesa: soloascenso-partial, position-unverified
-- Franco Stella: soloascenso-partial, position-unverified
 - Gastón Dellepiane: soloascenso-partial, position-unverified
 - Gastón Tedesco: soloascenso-partial, position-unverified
 - Gerardo Sotelo: soloascenso-partial, position-unverified
 - Gonzalo Zabala: soloascenso-partial, position-unverified
 - Héctor Cardozo: soloascenso-partial, position-unverified
 - Ignacio Castro: soloascenso-partial, position-unverified
-- Ignacio Terán: soloascenso-partial, position-unverified
+- Iván Becker: soloascenso-partial, position-unverified
 - Iván Esculino: soloascenso-partial, position-unverified
 - Ivo Hongn: soloascenso-partial, position-unverified
 - Joan Gaona: soloascenso-partial, position-unverified
@@ -854,7 +993,7 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Leandro Ledesma: cups-partial
 - Leonel Duarte: soloascenso-partial, position-unverified
 - Luis Olmedo: soloascenso-partial, position-unverified
-- Mariano Mc Coubrey: soloascenso-partial, position-unverified
+- Martín Rose: soloascenso-partial, position-unverified
 - Martino Dorato: soloascenso-partial, position-unverified
 - Matias Abruzzese: soloascenso-partial, position-unverified
 - Matías Italiani: soloascenso-partial, position-unverified
@@ -873,9 +1012,12 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Nicolás Vidal: soloascenso-partial, position-unverified
 - Ramiro Montenegro: soloascenso-partial, position-unverified
 - Ricardo Bernay: soloascenso-partial, position-unverified
+- Ricardo Segundo: soloascenso-partial, position-unverified
+- Ricardo Vera: soloascenso-partial, position-unverified
 - Rodrigo Martínez: soloascenso-partial, position-unverified
 - Thiago Rodríguez: soloascenso-partial, position-unverified
 - Tomás Álvarez: soloascenso-partial, position-unverified
+- Valentín Haberkon: soloascenso-partial, position-unverified
 - Walter Hermoso: soloascenso-partial, position-unverified
 - Walter Ibarra: soloascenso-partial, position-unverified
 - Wilson Palacios Hurtado: soloascenso-partial, position-unverified
@@ -883,6 +1025,8 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Agustín Alfano: soloascenso-partial, position-unverified
 - Agustín Almirón: soloascenso-partial, position-unverified
 - Agustín Arias: soloascenso-partial, position-unverified
+- Agustín Cattáneo: soloascenso-partial, position-unverified
+- Agustín Goñi: soloascenso-partial, position-unverified
 - Alejandro Ayala: soloascenso-partial, position-unverified
 - Alexis Dalul: soloascenso-partial, position-unverified
 - Ángel Ríos: soloascenso-partial, position-unverified
@@ -892,18 +1036,20 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Axel Martínez: soloascenso-partial, position-unverified
 - Axel Pereyra: soloascenso-partial, position-unverified
 - Brandon Arriola: soloascenso-partial, position-unverified
-- Brian Ferreyra: soloascenso-partial, position-unverified
 - Bruno Machuca: soloascenso-partial, position-unverified
 - Celso Báez: soloascenso-partial, position-unverified
 - Cristian Vella: seasons-before-2008-not-counted, soloascenso-partial
 - Daniel de Santis: soloascenso-partial
 - Diego Bernardi: soloascenso-partial, position-unverified
+- Diego Rivarola: soloascenso-partial
 - Dilan Godoy: cups-partial
 - Eber Garro: soloascenso-partial, position-unverified
+- Emmanuel Cáceres: soloascenso-partial, position-unverified
 - Enzo Ritacco: soloascenso-partial, position-unverified
 - Ezequiel Chazarreta: soloascenso-partial, position-unverified
 - Facundo Gómez: soloascenso-partial, position-unverified
 - Federico Carneiro: soloascenso-partial, position-unverified
+- Franco Aragón: soloascenso-partial, position-unverified
 - Franco Gatti: soloascenso-partial, position-unverified
 - Gabriel Frías: soloascenso-partial, position-unverified
 - Gabriel Soler: soloascenso-partial, position-unverified
@@ -926,7 +1072,6 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Julio Martínez: soloascenso-partial, position-unverified
 - Lautaro Gutiérrez: cups-partial
 - Lautaro Suárez Costa: soloascenso-partial, position-unverified
-- Lucas Nuñez: soloascenso-partial, position-unverified
 - Lucas Saavedra: soloascenso-partial, position-unverified
 - Luciano Venturini: soloascenso-partial, position-unverified
 - Luis Pérez: soloascenso-partial, position-unverified
@@ -952,14 +1097,13 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Alejo Macelli: soloascenso-partial, position-unverified
 - Alejo Torres: soloascenso-partial, position-unverified
 - Alexis Galves: soloascenso-partial, position-unverified
+- Ariel Aragón: soloascenso-partial, position-unverified
 - Brandon Maciel: soloascenso-partial, position-unverified
 - Claudio Acosta: soloascenso-partial, position-unverified
 - Cristian Romero: soloascenso-partial, position-unverified
 - Cristian Varela: soloascenso-partial, position-unverified
 - Damián Pérez Roa: soloascenso-partial, position-unverified
-- Damián Solferino: soloascenso-partial, position-unverified
 - Daniel Sosa: soloascenso-partial, position-unverified
-- Diego Leguiza: soloascenso-partial, position-unverified
 - Diego Ursino: soloascenso-partial, position-unverified
 - Emanuel Grespán: soloascenso-partial, position-unverified
 - Emiliano Bonfigli: soloascenso-partial, position-unverified
@@ -970,7 +1114,9 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Fabián Castillo: soloascenso-partial, position-unverified
 - Federico Maraschi: soloascenso-partial, position-unverified
 - Federico Rodríguez: soloascenso-partial, position-unverified
+- Fernando Calculef: soloascenso-partial, position-unverified
 - Fernando Gutiérrez: soloascenso-partial, position-unverified
+- Francisco Agost: soloascenso-partial, position-unverified
 - Franco Carella: soloascenso-partial, position-unverified
 - Gabriel Cedrés: cups-partial
 - Ian Galván: soloascenso-partial, position-unverified
@@ -980,26 +1126,207 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Juan Vinaccia: soloascenso-partial, position-unverified
 - Kevin Joel Aquino: soloascenso-partial, position-unverified
 - Kevin Luque: soloascenso-partial, position-unverified
+- Leandro Jeva: soloascenso-partial, position-unverified
 - Lucas Gallo: soloascenso-partial, position-unverified
 - Luciano Andrada: soloascenso-partial, position-unverified
 - Manuel Oliver: soloascenso-partial, position-unverified
 - Marcelo Zaen: soloascenso-partial, position-unverified
+- Mariano Avanzini: soloascenso-partial, position-unverified
 - Mariano Chávez: soloascenso-partial, position-unverified
 - Martín Posse: cups-partial
 - Nicolás Nobile: soloascenso-partial, position-unverified
+- Ramiro Fredes: soloascenso-partial, position-unverified
 - Tomás Adoryán: cups-partial
 - Tomás Castro Ponce: cups-partial
+- Agustín Burdese: soloascenso-partial, position-unverified
 - Agustín Hausch: cups-partial
+- Albaro Nicolás Orueta: soloascenso-partial, position-unverified
 - Alexander Machado: cups-partial
+- Angel Rueda: soloascenso-partial, position-unverified
+- Cristian Acosta: soloascenso-partial, position-unverified
+- Cristian Torrado: soloascenso-partial, position-unverified
+- Fabián Rivero: soloascenso-partial, position-unverified
+- Fabricio Pietkiewicz: soloascenso-partial, position-unverified
+- Facundo Cruz: soloascenso-partial, position-unverified
+- Facundo Moyano: soloascenso-partial, position-unverified
+- Fernando Abba: soloascenso-partial, position-unverified
+- Fernando Inda: soloascenso-partial, position-unverified
 - Franco Olego: club-unverified
+- Gonzalo Nieres: soloascenso-partial, position-unverified
+- Iván Leszczuk: soloascenso-partial, position-unverified
+- Juan Cruz Tapia: soloascenso-partial, position-unverified
 - Lautaro Godoy: cups-partial
+- Leonardo Campos: soloascenso-partial, position-unverified
+- Lucas Catalano: soloascenso-partial, position-unverified
 - Martín Lazarte: season-list-truncated, cups-partial
+- Matías De Jesús: soloascenso-partial, position-unverified
 - Mauro Burruchaga: season-list-truncated, cups-partial
+- Nicolás Char: soloascenso-partial, position-unverified
+- Nicolás Inostroza: soloascenso-partial, position-unverified
+- Pablo Macsad: soloascenso-partial, position-unverified
+- Sebastián Benites: soloascenso-partial, position-unverified
+- Sebastián Jiménez: soloascenso-partial, position-unverified
 - Sebastián Riquelme: club-unverified, season-list-truncated
 - Valentín Aguiñagalde: season-list-truncated, cups-partial
-- Diego Velázquez: soloascenso-partial, position-unverified
-- Francisco Agost: soloascenso-partial, position-unverified
+- Yoel Juárez: soloascenso-partial, position-unverified
+- Agustín Ballines: soloascenso-partial, position-unverified
+- Agustín Cantero: soloascenso-partial, position-unverified
+- Agustín Marín: soloascenso-partial, position-unverified
+- Agustín Moreira: soloascenso-partial, position-unverified
+- Agustín Vera: soloascenso-partial, position-unverified
+- Alberto Reyes: soloascenso-partial, position-unverified
+- Alejandro Aubain: soloascenso-partial, position-unverified
+- Alexis Brizuela: soloascenso-partial, position-unverified
+- Alexis Reyes: soloascenso-partial, position-unverified
+- Alexis Rojas: soloascenso-partial, position-unverified
+- Amin Aparicio: soloascenso-partial, position-unverified
+- Ángel Gómez: soloascenso-partial, position-unverified
+- Angel Ibarra: soloascenso-partial, position-unverified
+- Ariel Olsen: soloascenso-partial, position-unverified
+- Axel Medina Aguayo: soloascenso-partial, position-unverified
+- Ayrton Barreiro: soloascenso-partial, position-unverified
+- Brandon Vargas: soloascenso-partial, position-unverified
+- Brian Otero: soloascenso-partial, position-unverified
+- Brian Zabaleta: soloascenso-partial, position-unverified
+- Carlos Berta: soloascenso-partial, position-unverified
+- Carlos Cabaña: soloascenso-partial, position-unverified
+- Carlos Churquina: soloascenso-partial, position-unverified
+- Carlos Enrique: soloascenso-partial, position-unverified
+- Carlos Gallardo: soloascenso-partial, position-unverified
+- Carlos Garrido: soloascenso-partial, position-unverified
+- Carlos Juárez: soloascenso-partial, position-unverified
+- Carlos Navarro: soloascenso-partial, position-unverified
+- Claudio Apud: soloascenso-partial, position-unverified
+- Claudio Burgos: soloascenso-partial, position-unverified
+- Claudio Lizarraga: soloascenso-partial, position-unverified
+- Claudio Molina: soloascenso-partial, position-unverified
+- Claudio Ojeda: soloascenso-partial, position-unverified
+- Claus Gold Betig: soloascenso-partial, position-unverified
+- Cristian Curuchet: soloascenso-partial, position-unverified
+- Cristian Estigarribia: soloascenso-partial, position-unverified
+- Cristian Farias: soloascenso-partial, position-unverified
+- Cristian Oliveira: soloascenso-partial, position-unverified
+- Cristian Sandoval: soloascenso-partial, position-unverified
+- Cristian Villegas: soloascenso-partial, position-unverified
+- Cristian Zilli: soloascenso-partial, position-unverified
+- Damián Buffa: soloascenso-partial, position-unverified
+- Daniel Fernández: soloascenso-partial, position-unverified
+- Daniel Pinea: soloascenso-partial, position-unverified
+- Dante Verón: soloascenso-partial, position-unverified
+- Dardo Damián Ovejero: soloascenso-partial, position-unverified
+- Darío Palavecino: soloascenso-partial, position-unverified
+- David Benítez: soloascenso-partial, position-unverified
+- David Boquín: soloascenso-partial, position-unverified
+- David Valdebenito: soloascenso-partial, position-unverified
+- Diego Angaroni: soloascenso-partial, position-unverified
+- Diego Velardez: soloascenso-partial, position-unverified
+- Eduardo Córdoba: soloascenso-partial, position-unverified
+- Elías Mayol: soloascenso-partial, position-unverified
+- Elias Medeiro: soloascenso-partial, position-unverified
+- Emanuel Ercoli: soloascenso-partial, position-unverified
+- Emanuel García: soloascenso-partial, position-unverified
+- Emiliano Ábalos: soloascenso-partial, position-unverified
+- Enzo Alvarez: soloascenso-partial, position-unverified
+- Enzo Tejada: soloascenso-partial, position-unverified
+- Esteban Klyniauk: soloascenso-partial, position-unverified
+- Facundo Erramuspe: soloascenso-partial, position-unverified
+- Facundo Vilte: soloascenso-partial, position-unverified
+- Federico Carcamo: soloascenso-partial, position-unverified
+- Federico Gómez: soloascenso-partial, position-unverified
+- Felipe Zabala: soloascenso-partial, position-unverified
+- Franco Barrera: soloascenso-partial, position-unverified
+- Franco Domínguez: soloascenso-partial, position-unverified
+- Fredy Ares: soloascenso-partial, position-unverified
+- Gabriel Hernán Castillo: soloascenso-partial, position-unverified
+- Gabriel López: soloascenso-partial, position-unverified
+- Gabriel Parroni: soloascenso-partial, position-unverified
+- Gabriel Tapia: soloascenso-partial, position-unverified
+- Gastón Chapuis: soloascenso-partial, position-unverified
+- Gastón Gamboa: soloascenso-partial, position-unverified
 - Gastón Portiño: soloascenso-partial, position-unverified
+- Gonzalo Figueroa: soloascenso-partial, position-unverified
+- Gonzalo Policani: soloascenso-partial, position-unverified
+- Guillermo Facines: soloascenso-partial, position-unverified
+- Guillermo Guzmán: soloascenso-partial, position-unverified
+- Gustavo Carballo: soloascenso-partial, position-unverified
+- Gustavo Pereira: soloascenso-partial, position-unverified
+- Hernán Beltramo: soloascenso-partial, position-unverified
+- Horacio Anzorena: soloascenso-partial, position-unverified
+- Horacio Bigurrarena: soloascenso-partial, position-unverified
+- Hugo De Marco: soloascenso-partial, position-unverified
+- Hugo Paniagua: soloascenso-partial, position-unverified
+- Hugo Pirez: soloascenso-partial, position-unverified
+- Ignacio López: soloascenso-partial, position-unverified
+- Ignacio Sequeira: soloascenso-partial, position-unverified
+- Ismael Dias: soloascenso-partial, position-unverified
+- Ivan Luquet: soloascenso-partial, position-unverified
+- Iván Pereyra: soloascenso-partial, position-unverified
+- Jesús Guaymas: soloascenso-partial, position-unverified
+- Jhon Palacios: soloascenso-partial, position-unverified
+- Joel Chávez: soloascenso-partial, position-unverified
+- Jorge Velazco: soloascenso-partial, position-unverified
+- José Damian Salinas: soloascenso-partial, position-unverified
+- Juan Celaya: soloascenso-partial, position-unverified
+- Juan Manuel Abadie: soloascenso-partial, position-unverified
+- Juan Marcelo Guajardo: soloascenso-partial, position-unverified
+- Juan Trentín: soloascenso-partial, position-unverified
+- Julio Ledesma: soloascenso-partial, position-unverified
+- Juniors Agüero: soloascenso-partial, position-unverified
+- Kevin Collazo: soloascenso-partial, position-unverified
+- Kevin Martínez: soloascenso-partial, position-unverified
+- Lautaro RamÍrez Remotti: soloascenso-partial, position-unverified
+- Leandro Celiz: soloascenso-partial, position-unverified
+- Leandro Sola: soloascenso-partial, position-unverified
+- Leonardo Galeano: soloascenso-partial, position-unverified
+- Leonardo Verón: soloascenso-partial, position-unverified
+- Leonel Iriarte: soloascenso-partial, position-unverified
+- Leonel Pietkiewicz: soloascenso-partial, position-unverified
+- Lucas Brizuela: soloascenso-partial, position-unverified
+- Lucas Porta: soloascenso-partial, position-unverified
+- Luciano Araya: soloascenso-partial, position-unverified
+- Luciano Bazán: soloascenso-partial, position-unverified
+- Luciano Cardinali: soloascenso-partial, position-unverified
+- Luciano Ciraco: soloascenso-partial, position-unverified
+- Luis Guillermo Romero: soloascenso-partial, position-unverified
+- Marcelo Huergo: soloascenso-partial, position-unverified
+- Marcelo Rodríguez: soloascenso-partial, position-unverified
+- Marcos Coria: soloascenso-partial, position-unverified
+- Mariano Mendoza: soloascenso-partial, position-unverified
+- Mario Quiroga: soloascenso-partial, position-unverified
+- Martín Montórfano: soloascenso-partial, position-unverified
+- Matías Badano: soloascenso-partial, position-unverified
+- Matías López: soloascenso-partial, position-unverified
+- Matías Ordozgoiti: soloascenso-partial, position-unverified
+- Mauro García: soloascenso-partial, position-unverified
+- Mauro Gómez: soloascenso-partial, position-unverified
+- Maximiliano Sánchez Arriola: soloascenso-partial, position-unverified
+- Maximiliano Solari: soloascenso-partial, position-unverified
+- Nadir Hadad: soloascenso-partial, position-unverified
+- Nahuel Altamirano: soloascenso-partial, position-unverified
+- Nahuel Luna: soloascenso-partial, position-unverified
+- Nahuel Massimino: soloascenso-partial, position-unverified
+- Nahuel Speck: soloascenso-partial, position-unverified
+- Nazareno Rodríguez: soloascenso-partial, position-unverified
+- Néstor Campos: soloascenso-partial, position-unverified
+- Nicolas Figueroa: soloascenso-partial, position-unverified
+- Nicolás Santini: soloascenso-partial, position-unverified
+- Omar Alsogaray: soloascenso-partial, position-unverified
+- Omar Benavidez: soloascenso-partial, position-unverified
+- Osias Barreto: soloascenso-partial, position-unverified
+- Pablo Mujica: soloascenso-partial, position-unverified
+- Pablo Palavecino: soloascenso-partial, position-unverified
+- Paul Martín: soloascenso-partial, position-unverified
+- Pedro Santillán: soloascenso-partial, position-unverified
+- Rodrigo Cerdán: soloascenso-partial, position-unverified
+- Roque Muñoz: soloascenso-partial, position-unverified
+- Santiago Gallardo: soloascenso-partial, position-unverified
+- Santiago Vasquez: soloascenso-partial, position-unverified
+- Santos Bacigalupe: soloascenso-partial, position-unverified
+- Tomas Portillo: soloascenso-partial, position-unverified
+- Uriel Gizzi: soloascenso-partial, position-unverified
+- Valentín Pesse: soloascenso-partial, position-unverified
+- William Cardenas: soloascenso-partial, position-unverified
+- Williams Correa: soloascenso-partial, position-unverified
 - Hugo Gatti: goalkeeper-goals-assumed-zero
 - Ubaldo Fillol: goalkeeper-goals-assumed-zero
 

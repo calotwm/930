@@ -5,13 +5,19 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
+// slugs: every path the page has lived under (the site renamed some divisions)
+// coveredByTm: Transfermarkt totals already include this division, so it only adds missing players
 export const SA_DIVISIONS = {
-  'primera-b': { id: 2, label: 'Primera B Metropolitana' },
+  'primera-nacional': { id: 1, label: 'Primera Nacional / B Nacional', slugs: ['primera-nacional', 'primera-b-nacional'], coveredByTm: true },
+  'primera-b': { id: 2, label: 'Primera B Metropolitana', slugs: ['primera-b', 'primera-b-metropolitana'] },
   'primera-c': { id: 3, label: 'Primera C' },
   'promocional-amateur': { id: 4, label: 'Primera D / Promocional Amateur' },
   'federal-a': { id: 5, label: 'Torneo Federal A' },
+  'federal-b': { id: 6, label: 'Torneo Federal B / Regional Amateur', slugs: ['federal-b', 'regional-amateur'] },
+  'federal-c': { id: 7, label: 'Torneo Federal C' },
 }
-export const saUrl = (div) => `https://www.soloascenso.com.ar/goleadores/${div}/${SA_DIVISIONS[div].id}`
+const slugsOf = (div) => SA_DIVISIONS[div].slugs ?? [div]
+export const saUrl = (div) => `https://www.soloascenso.com.ar/goleadores/${(SA_DIVISIONS[div].slugs ?? [div])[0]}/${SA_DIVISIONS[div].id}`
 
 const DIR = path.resolve(import.meta.dirname, '..', 'data-sources', 'raw', 'soloascenso')
 const UA = '930-dataset-builder/1.0 (https://github.com/calotwm/930)'
@@ -65,13 +71,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     // copies saved with broken accents (decoded with the wrong charset) are downloaded again
     const stored = (fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : []).filter((s) => !JSON.stringify(s.rows).includes('�'))
     const have = new Set(stored.map((s) => s.timestamp))
-    const cdx = await get(
-      `https://web.archive.org/cdx/search/cdx?url=soloascenso.com.ar/goleadores/${div}/${SA_DIVISIONS[div].id}&output=json&fl=timestamp&filter=statuscode:200&collapse=timestamp:8`,
-    )
-    const stamps = cdx ? JSON.parse(cdx).slice(1).map((r) => r[0]) : []
+    const stamps = []
+    for (const sl of slugsOf(div)) {
+      const url = `soloascenso.com.ar/goleadores/${sl}/${SA_DIVISIONS[div].id}`
+      const cdx = await get(`https://web.archive.org/cdx/search/cdx?url=${url}&output=json&fl=timestamp&filter=statuscode:200&collapse=timestamp:8`)
+      for (const [ts] of cdx ? JSON.parse(cdx).slice(1) : []) if (!stamps.some((x) => x.ts.slice(0, 8) === ts.slice(0, 8))) stamps.push({ ts, url })
+    }
     console.log(`${div}: ${stamps.length} copias`)
-    for (const ts of stamps.filter((t) => !have.has(t))) {
-      const html = await get(`https://web.archive.org/web/${ts}id_/${saUrl(div)}`)
+    for (const { ts, url } of stamps.filter((x) => !have.has(x.ts))) {
+      const html = await get(`https://web.archive.org/web/${ts}id_/https://www.${url}`)
       const rows = html ? parseScorers(html) : []
       if (rows.length) stored.push({ timestamp: ts, rows })
       console.log(`  ${ts}: ${rows.length} filas`)

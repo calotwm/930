@@ -323,7 +323,7 @@
   "leagueGoals": 190,
   "club": "Lanús",
   "clubs": [
-   "Colón SF",
+   "Colón",
    "River Plate",
    "Banfield",
    "Lanús",
@@ -367,7 +367,7 @@
   "club": "San Lorenzo",
   "clubs": [
    "San Lorenzo",
-   "Boca",
+   "Boca Juniors",
    "Banfield"
   ],
   "division": "Primera",
@@ -664,7 +664,7 @@
    "Colón",
    "Gimnasia LP",
    "Newell's Old Boys",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Gimnasia",
    "Central Córdoba",
    "Gimnasia y Esgrima (Jujuy)",
@@ -742,7 +742,7 @@
   "clubs": [
    "Racing Club",
    "Estudiantes LP",
-   "Talleres de Córdoba"
+   "Talleres"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -822,7 +822,7 @@
   "club": "Huracán",
   "clubs": [
    "Independiente",
-   "Newell´s Old Boys",
+   "Newell's Old Boys",
    "Huracán",
    "Atlanta",
    "Chacarita Juniors",
@@ -881,7 +881,7 @@
    "Estudiantes LP",
    "Huracán",
    "Racing Club",
-   "Talleres (Córdoba)",
+   "Talleres",
    "Deportivo Español",
    "Lanús"
   ],
@@ -1122,7 +1122,7 @@
   "club": "Huracán",
   "clubs": [
    "Huracán",
-   "Newell´s Old Boys"
+   "Newell's Old Boys"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -1208,7 +1208,7 @@
   "clubs": [
    "River Plate",
    "Boca Juniors",
-   "Talleres de Córdoba",
+   "Talleres",
    "Independiente",
    "Argentinos Juniors"
   ],
@@ -1267,7 +1267,7 @@
    "Boca Juniors",
    "Lanús",
    "Arsenal",
-   "Talleres (Córdoba)",
+   "Talleres",
    "Argentinos Juniors",
    "Aldosivi"
   ],
@@ -1306,7 +1306,7 @@
   "club": "Independiente",
   "clubs": [
    "Independiente",
-   "Newell´s Old Boys"
+   "Newell's Old Boys"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -1587,7 +1587,7 @@
   "clubs": [
    "Argentinos Juniors",
    "Boca Juniors",
-   "Newell´s Old Boys"
+   "Newell's Old Boys"
   ],
   "division": "Primera",
   "scope": "Liga y copas, carrera",
@@ -2283,11 +2283,11 @@
   "position": "ST",
   "goals": 134,
   "leagueGoals": 132,
-  "club": "Talleres (Córdoba)",
+  "club": "Talleres",
   "clubs": [
    "Belgrano (Córdoba)",
    "River Plate",
-   "Talleres (Córdoba)",
+   "Talleres",
    "Loma Negra (Olavarría)",
    "Rosario Central"
   ],
@@ -2432,6 +2432,33 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Emmanuel_Mart%C3%ADnez"
   }
+ },
+ {
+  "id": "daniel-willington",
+  "name": "Daniel Willington",
+  "shortName": "Willington",
+  "position": "AM",
+  "goals": 131,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres",
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "—",
+  "source": {
+   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "secondarySource": {
+   "name": "Corrección manual: Talleres 66 + Vélez 65 (es.wikipedia.org/wiki/Daniel_Willington: 212 partidos y 65 goles en Vélez); enganche",
+   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
+  },
+  "review": [
+   "club-total-only",
+   "manual-correction"
+  ]
  },
  {
   "id": "carlos-babington",
@@ -2810,7 +2837,7 @@
   "leagueGoals": 116,
   "club": "Rosario Central",
   "clubs": [
-   "Instituto (Córdoba)",
+   "Instituto ACC",
    "Rosario Central",
    "River Plate"
   ],
@@ -3095,7 +3122,7 @@
   "leagueGoals": 116,
   "club": "Boca Juniors",
   "clubs": [
-   "Colón (Santa Fe)",
+   "Colón",
    "Vélez Sarsfield",
    "Boca Juniors"
   ],
@@ -3427,8 +3454,7 @@
    "Dep. Maipú",
    "Huracán LH",
    "San Martín (T)",
-   "Gimnasia (M)",
-   "Racing (Cba)"
+   "Gimnasia (M)"
   ],
   "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
@@ -4530,9 +4556,9 @@
   "position": "ST",
   "goals": 105,
   "leagueGoals": 105,
-  "club": "Instituto (Córdoba)",
+  "club": "Instituto ACC",
   "clubs": [
-   "Instituto (Córdoba)",
+   "Instituto ACC",
    "Argentinos Juniors"
   ],
   "division": "Primera",
@@ -5469,7 +5495,7 @@
    "Defensores de Belgrano",
    "San Miguel",
    "Independiente Rivadavia",
-   "Instituto",
+   "Instituto ACC",
    "Chacarita Juniors",
    "Los Andes"
   ],
@@ -6597,7 +6623,7 @@
    "Quilmes",
    "Dep. Morón",
    "Sp. Las Parejas",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Boca Unidos"
   ],
   "division": "Primera Nacional",
@@ -6778,7 +6804,7 @@
    "Central Córdoba",
    "All Boys",
    "Gimnasia (CdU)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Ben Hur",
    "Libertad (C)"
   ],
@@ -7301,31 +7327,6 @@
   "review": [
    "club-total-only",
    "position-unverified"
-  ]
- },
- {
-  "id": "daniel-willington",
-  "name": "Daniel Willington",
-  "shortName": "Willington",
-  "position": "ST",
-  "goals": 66,
-  "club": "Talleres",
-  "clubs": [
-   "Talleres"
-  ],
-  "division": "Primera",
-  "scope": "Goles oficiales en Talleres (incluye Liga Cordobesa)",
-  "era": "—",
-  "source": {
-   "name": "Wikipedia — Anexo:Goleadores del Club Atlético Talleres",
-   "url": "https://es.wikipedia.org/wiki/Anexo%3AGoleadores_del_Club_Atl%C3%A9tico_Talleres"
-  },
-  "secondarySource": {
-   "name": "Wikipedia — posición",
-   "url": "https://es.wikipedia.org/wiki/Daniel_Willington"
-  },
-  "review": [
-   "club-total-only"
   ]
  },
  {
@@ -8797,7 +8798,7 @@
    "Tigre",
    "Mitre (SdE)",
    "Chacarita Juniors",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
@@ -11102,7 +11103,7 @@
   "clubs": [
    "Colón",
    "CBRG",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Almagro",
    "Argentinos Juniors"
   ],
@@ -11339,8 +11340,7 @@
    "Defensores (VR)",
    "Estudiantes RC",
    "Douglas Haig",
-   "Olimpo",
-   "Racing (Cba)"
+   "Olimpo"
   ],
   "division": "Primera Nacional",
   "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
@@ -15122,7 +15122,7 @@
    "Vélez Sarsfield",
    "San Lorenzo",
    "Barracas C.",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -15273,7 +15273,7 @@
    "Boca Juniors",
    "Independiente",
    "Lasallano",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Talleres",
    "Central Córdoba",
    "Aldosivi"
@@ -17474,7 +17474,7 @@
    "Temperley",
    "Racing Club",
    "Olimpo",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Mitre (SdE)",
    "Defensores de Belgrano",
    "Gimnasia y Esgrima (Jujuy)"
@@ -17607,7 +17607,7 @@
    "Colón",
    "Atlético Uruguay",
    "Tiro Federal R",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Sarmiento Junin"
   ],
   "division": "Primera",
@@ -17735,7 +17735,7 @@
    "Santamarina",
    "Independiente Rivadavia",
    "Aldosivi",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Gualeguaychu",
    "Fénix"
   ],
@@ -17769,7 +17769,7 @@
    "Boca Unidos",
    "Patronato",
    "Sp. Belgrano",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga desde 1990/91",
@@ -18764,7 +18764,6 @@
    "Huracán (Tres Arroyos)",
    "All Boys",
    "Belgrano",
-   "Huracan TA",
    "Chacarita Juniors",
    "Instituto ACC",
    "Independiente",
@@ -19256,7 +19255,7 @@
    "Fenix",
    "Sacachispas F.c",
    "Def. de Cambaceres",
-   "Olimpo (bahía Blanca)"
+   "Olimpo"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -20301,7 +20300,7 @@
   "clubs": [
    "San Martín (SJ)",
    "Unión (Santa Fe)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Atlanta",
    "Tristán Suárez",
    "Instituto ACC",
@@ -21130,7 +21129,7 @@
    "San Martín (T)",
    "Mitre (SdE)",
    "Trinidad",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Desamparados",
    "Douglas Haig",
    "General Paz Jrs"
@@ -23658,7 +23657,7 @@
   "club": "Argentinos Juniors",
   "clubs": [
    "Argentinos Juniors",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Independiente Rivadavia",
    "Atlético Tucumán",
    "Gimnasia y Esgrima (Jujuy)",
@@ -23753,7 +23752,6 @@
   "clubs": [
    "Independiente",
    "Huracán (Tres Arroyos)",
-   "Huracan TA",
    "Estudiantes LP",
    "Gimnasia y Esgrima (Jujuy)",
    "Brown (Adrogué)",
@@ -24019,7 +24017,7 @@
   "club": "Belgrano",
   "clubs": [
    "Belgrano",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga desde 1990/91",
@@ -24434,9 +24432,9 @@
   "position": "ST",
   "goals": 23,
   "leagueGoals": 23,
-  "club": "Talleres (r.e)",
+  "club": "Talleres (Remedios de Escalada)",
   "clubs": [
-   "Talleres (r.e)",
+   "Talleres (Remedios de Escalada)",
    "El Porvenir",
    "San Martín (Burzaco)"
   ],
@@ -24467,7 +24465,7 @@
   "club": "Deportivo Madryn",
   "clubs": [
    "Deportivo Madryn",
-   "Gimnasia (Mendoza)",
+   "Gimnasia (M)",
    "Colegiales"
   ],
   "division": "Ascenso",
@@ -24689,7 +24687,7 @@
    "Atlanta",
    "Almirante Brown",
    "Belgrano",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Defensores de Belgrano"
   ],
   "division": "Primera",
@@ -25493,9 +25491,9 @@
   "position": "ST",
   "goals": 22,
   "leagueGoals": 22,
-  "club": "Olimpo (bahía Blanca)",
+  "club": "Olimpo",
   "clubs": [
-   "Olimpo (bahía Blanca)"
+   "Olimpo"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -25815,7 +25813,7 @@
   "clubs": [
    "San Martín (SJ)",
    "Independiente Rivadavia",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Acassuso",
    "Nueva Chicago",
    "Brown (Adrogué)",
@@ -26010,7 +26008,7 @@
    "Sarmiento (Junin)",
    "Sarmiento Junin",
    "9 de Julio",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Talleres",
    "Belgrano",
    "Central Córdoba"
@@ -29170,7 +29168,7 @@
    "San Martín (T)",
    "Guillermo Brown",
    "Independiente Rivadavia",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga desde 1990/91",
@@ -32922,7 +32920,7 @@
    "Unión (Santa Fe)",
    "Talleres",
    "Sarmiento Junin",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Central Norte",
    "Gimnasia y Esgrima (Jujuy)"
   ],
@@ -33970,7 +33968,7 @@
    "Olimpo",
    "Banfield",
    "Newell's Old Boys",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Talleres",
    "Arsenal de Sarandí",
    "Atl. Rafaela",
@@ -34004,7 +34002,7 @@
    "Belgrano",
    "San Martín (T)",
    "Guillermo Brown",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -36161,9 +36159,9 @@
   "position": "ST",
   "goals": 15,
   "leagueGoals": 15,
-  "club": "Racing de Cordoba",
+  "club": "Racing (Córdoba)",
   "clubs": [
-   "Racing de Cordoba",
+   "Racing (Córdoba)",
    "Central Norte (Salta)"
   ],
   "division": "Ascenso",
@@ -36269,7 +36267,7 @@
   "clubs": [
    "Argentino de Quilmes",
    "Colegiales",
-   "Olimpo (Bahía Blanca)"
+   "Olimpo"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -37767,7 +37765,7 @@
    "Atlanta",
    "General Paz Jrs",
    "Luján de Cuyo",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Dep. Español",
    "Estudiantes",
    "Barracas C.",
@@ -39337,7 +39335,7 @@
    "Sp. Belgrano",
    "Luján de Cuyo",
    "Guillermo Brown",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Unión (MdP)",
    "Sol de América",
    "Cipolletti",
@@ -40324,7 +40322,7 @@
   "club": "Belgrano",
   "clubs": [
    "Belgrano",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Atl. Rafaela"
   ],
   "division": "Primera",
@@ -40735,9 +40733,9 @@
   "position": "ST",
   "goals": 13,
   "leagueGoals": 13,
-  "club": "Racing de Cordoba",
+  "club": "Racing (Córdoba)",
   "clubs": [
-   "Racing de Cordoba"
+   "Racing (Córdoba)"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -41294,7 +41292,7 @@
    "Dep. Maipú",
    "Huracán LH",
    "Chacarita Juniors",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Dep. Riestra",
    "Gimnasia y Tiro",
    "FADEP"
@@ -44389,7 +44387,6 @@
    "Tigre",
    "Los Andes",
    "Gimnasia y Esgrima (Jujuy)",
-   "Huracan TA",
    "Aldosivi",
    "Camioneros",
    "SAT"
@@ -50646,9 +50643,9 @@
   "position": "ST",
   "goals": 9,
   "leagueGoals": 9,
-  "club": "Racing de Cordoba",
+  "club": "Racing (Córdoba)",
   "clubs": [
-   "Racing de Cordoba"
+   "Racing (Córdoba)"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -52933,7 +52930,7 @@
    "Instituto ACC",
    "Unión (Santa Fe)",
    "Talleres",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Ben Hur",
    "Argentinos Juniors",
    "Defensa y Justicia",
@@ -55066,7 +55063,7 @@
    "Colón",
    "Central Córdoba",
    "Ciudad Bolívar",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -56441,7 +56438,7 @@
   "club": "Central Córdoba (SdE)",
   "clubs": [
    "Central Córdoba (SdE)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Talleres",
    "Ferro Carril Oeste",
    "Central Córdoba",
@@ -61140,7 +61137,7 @@
    "San Martín (SJ)",
    "Flandria",
    "Alvarado",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Almagro",
    "Comunicaciones"
   ],
@@ -64778,9 +64775,9 @@
   "position": "ST",
   "goals": 6,
   "leagueGoals": 6,
-  "club": "Talleres (r.e)",
+  "club": "Talleres (Remedios de Escalada)",
   "clubs": [
-   "Talleres (r.e)"
+   "Talleres (Remedios de Escalada)"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -65736,7 +65733,7 @@
    "Boca Unidos",
    "Talleres",
    "Atlético Tucumán",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Unión (Santa Fe)",
    "Tiro Federal R",
    "Sarmiento Junin"
@@ -67780,9 +67777,9 @@
   "position": "ST",
   "goals": 6,
   "leagueGoals": 6,
-  "club": "Gimnasia (mendoza)",
+  "club": "Gimnasia (M)",
   "clubs": [
-   "Gimnasia (mendoza)"
+   "Gimnasia (M)"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -67960,7 +67957,7 @@
    "Defensa y Justicia",
    "Belgrano",
    "Unión (Santa Fe)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Estudiantes RC",
    "General Paz Jrs",
    "Banfield",
@@ -70284,7 +70281,7 @@
   "clubs": [
    "Comisión de Actividades Infantiles",
    "CAI",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera Nacional",
   "scope": "Ascenso desde 2008/09",
@@ -72780,9 +72777,9 @@
   "position": "ST",
   "goals": 5,
   "leagueGoals": 5,
-  "club": "Talleres (r.e.)",
+  "club": "Talleres (Remedios de Escalada)",
   "clubs": [
-   "Talleres (r.e.)"
+   "Talleres (Remedios de Escalada)"
   ],
   "division": "Ascenso",
   "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
@@ -76900,7 +76897,7 @@
    "Patronato",
    "Dep. Morón",
    "Atenas",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga desde 1990/91",
@@ -76926,7 +76923,7 @@
    "Independiente Rivadavia",
    "Tigre",
    "Dep. Maipú",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga desde 1990/91",
@@ -82896,7 +82893,7 @@
   "clubs": [
    "Desamparados (San Juan)",
    "Peñarol",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Trinidad",
    "Desamparados",
    "Alvarado",
@@ -82982,7 +82979,7 @@
    "Godoy Cruz",
    "Lanús",
    "Instituto ACC",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Defensa y Justicia",
    "Vélez Sarsfield",
    "Mitre (SdE)",
@@ -85168,7 +85165,7 @@
   "clubs": [
    "Comisión de Actividades Infantiles",
    "CM Crucero del Norte",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "CAI",
    "El Linqueño",
    "Los Andes",
@@ -89520,7 +89517,7 @@
    "Real Arroyo Seco",
    "Almagro",
    "Patronato",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Achirense",
    "Ferroviario"
   ],
@@ -91906,7 +91903,7 @@
   "clubs": [
    "Boca Unidos",
    "Belgrano",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "General Paz Jrs",
    "Cipolletti",
    "Crucero",
@@ -95936,7 +95933,7 @@
   "clubs": [
    "Belgrano",
    "Temperley",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "General Paz Jrs",
    "Ferro (GP)",
    "Alvear FBC"
@@ -97642,7 +97639,7 @@
    "Central Córdoba",
    "Villa Dálmine",
    "Sarmiento Junin",
-   "Racing (Cba)"
+   "Racing (Córdoba)"
   ],
   "division": "Primera",
   "scope": "Liga y copas con clubes argentinos",
@@ -102027,7 +102024,7 @@
   "club": "San Martín (T)",
   "clubs": [
    "San Martín (T)",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "General Roca",
    "Libertad (S)",
    "Gimnasia y Tiro",
@@ -106606,7 +106603,7 @@
    "Tiro Federal Argentino (Rosario)",
    "Tiro Federal R",
    "Desamparados",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "San Martín (M)"
   ],
   "division": "Primera Nacional",
@@ -107101,7 +107098,7 @@
   "club": "Desamparados (San Juan)",
   "clubs": [
    "Desamparados (San Juan)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Desamparados",
    "Central Norte",
    "Union",
@@ -109551,7 +109548,7 @@
   "clubs": [
    "Instituto ACC",
    "Gimnasia y Esgrima (Jujuy)",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "La Emilia",
    "Defensa y Justicia"
   ],
@@ -109580,7 +109577,7 @@
    "Patronato",
    "Gimnasia y Esgrima (Jujuy)",
    "CB Ramón Santamarina",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Quilmes",
    "Instituto ACC",
    "Atl. Rafaela",
@@ -110305,7 +110302,7 @@
    "Boca Unidos",
    "Central Córdoba (SdE)",
    "Atlético Tucumán",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "San Martín (SJ)",
    "Gimnasia (CdU)",
    "Santamarina",
@@ -112208,7 +112205,7 @@
   "club": "Temperley",
   "clubs": [
    "Temperley",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Sarmiento Junin",
    "Santamarina",
    "Central Córdoba"
@@ -120238,7 +120235,7 @@
    "Gimnasia y Esgrima (Jujuy)",
    "Gimnasia y Tiro",
    "Olimpo",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Instituto ACC",
    "Unión (Santa Fe)",
    "San Martín (T)",
@@ -126343,7 +126340,7 @@
   "clubs": [
    "Independiente",
    "Unión (MdP)",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Sp. Italiano",
    "Argentinos Juniors",
    "Vélez Sarsfield",
@@ -130308,7 +130305,7 @@
    "Instituto ACC",
    "Belgrano",
    "Patria",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Tiro Federal R",
    "Desamparados"
   ],
@@ -130711,7 +130708,7 @@
   "clubs": [
    "Temperley",
    "La Plata FC",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Rivadavia",
    "Alumni",
    "Central Córdoba",
@@ -131171,7 +131168,7 @@
    "San Miguel",
    "Almagro",
    "Atl. Rafaela",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Temperley",
    "Sp. Italiano",
    "Dep. Morón",
@@ -136363,7 +136360,7 @@
   "club": "Belgrano",
   "clubs": [
    "Belgrano",
-   "Racing (Cba)",
+   "Racing (Córdoba)",
    "Mitre (SdE)",
    "Gimnasia (CdU)"
   ],
@@ -141158,8 +141155,7 @@
    "Sarmiento (R)",
    "Chacarita Juniors",
    "Comunicaciones",
-   "Chaco For Ever",
-   "Racing (Cba)"
+   "Chaco For Ever"
   ],
   "division": "Primera Nacional",
   "scope": "Ascenso desde 2008/09",
@@ -141600,7 +141596,7 @@
   "club": "Newell's Old Boys",
   "clubs": [
    "Newell's Old Boys",
-   "Huracan TA",
+   "Huracán (Tres Arroyos)",
    "Unión (Santa Fe)",
    "San Martín (SJ)",
    "Aldosivi"

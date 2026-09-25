@@ -800,6 +800,8 @@ function main() {
     const p = players.find((x) => norm(x.name) === norm(c.name) && x.position === c.position)
     const fields = { goals: c.goals, scope: 'Liga y copas con clubes argentinos' }
     if (p) {
+      // `set` overrides card fields too (position, clubs) when a source got them wrong
+      if (c.set) Object.assign(p, c.set)
       if (p.goals !== c.goals) corrected.push(`${p.name}: ${p.goals} → ${c.goals}`)
       Object.assign(p, fields, { review: [...(p.review ?? []), 'manual-correction'], secondarySource: { name: `Corrección manual: ${c.note}`, url: p.source.url } })
     } else if (c.add) {

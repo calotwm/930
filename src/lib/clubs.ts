@@ -19,6 +19,8 @@ export const CLUBS: Club[] = [
   { id: 'huracan', name: 'Huracán', short: 'Huracán', colors: ['#ffffff', '#d7182a'] },
   { id: 'estudiantes', name: 'Estudiantes LP', short: 'Estudiantes', colors: ['#d7182a', '#ffffff'] },
   { id: 'gimnasia', name: 'Gimnasia LP', short: 'Gimnasia', colors: ['#ffffff', '#12245b'] },
+  { id: 'velez', name: 'Vélez Sarsfield', short: 'Vélez', colors: ['#ffffff', '#1c3f94'] },
+  { id: 'newells', name: "Newell's Old Boys", short: "Newell's", colors: ['#d7182a', '#111111'] },
   { id: 'rosario-central', name: 'Rosario Central', short: 'Central', colors: ['#0b3d91', '#f6c200'] },
   { id: 'argentinos', name: 'Argentinos Juniors', short: 'Argentinos', colors: ['#d7182a', '#ffffff'] },
   { id: 'ferro', name: 'Ferro Carril Oeste', short: 'Ferro', colors: ['#00843d', '#ffffff'] },

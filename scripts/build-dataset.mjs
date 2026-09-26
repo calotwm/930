@@ -7,6 +7,7 @@ import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
 import { parseStatsTable } from './player-stats.mjs'
 import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
+import { createNameIndex, nameWithin, norm, sameClub } from './lib/ascenso-matching.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -20,8 +21,6 @@ const CURRENT_YEAR = 2026
 // first season Transfermarkt's all-time scorer lists cover (checked by querying season windows)
 const TM_COVERAGE_START = { P1: 1990, ARG2: 2008 }
 
-const norm = (s) =>
-  s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim()
 const slug = (s) => norm(s).replace(/ /g, '-')
 
 const LOWER_PARTICLES = new Set(['de', 'la', 'del', 'y'])
@@ -397,15 +396,10 @@ function main() {
   const clubDir = path.join(RAW, 'club-lists')
   const { rows: clubRows, rejected: clubRejected } = parseClubLists(clubDir)
   const wikiPos = JSON.parse(fs.readFileSync(path.join(clubDir, 'wikipedia-positions.json'), 'utf8'))
-  const known = players.map((p) => norm(p.name).split(' '))
-  const isKnown = (name) => {
-    const t = norm(name).split(' ')
-    const sur = t.at(-1)
-    return known.some((k) => k.at(-1) === sur && k.some((w) => w !== sur && t.includes(w)))
-  }
+  const nameIndex = createNameIndex(players.map((p) => p.name))
   const clubAdds = new Map()
   for (const r of clubRows) {
-    if (isKnown(r.name)) continue
+    if (nameIndex.isKnown(r.name)) continue
     const wp = wikiPos[`${r.club}|${r.name}`]
     const display = (wp?.title ?? r.name).replace(/\s*\(futbolista[^)]*\)/, '')
     const key = norm(display)
@@ -450,7 +444,7 @@ function main() {
   const wikiDir = path.join(RAW, 'wikipedia')
   const { rows: wikiRows, rejected: wikiRejected } = parseWikiTables(wikiDir)
   const wikiInfo = JSON.parse(fs.readFileSync(path.join(wikiDir, 'positions.json'), 'utf8'))
-  for (const p of players) known.push(norm(p.name).split(' '))
+  for (const p of players) nameIndex.add(p.name)
   const wikiAdds = new Map()
   const primeraCheck = []
   const upgraded = []
@@ -477,7 +471,7 @@ function main() {
         primeraCheck.push(`${existing.name}: dataset ${league} vs Wikipedia ${r.goals} (${r.table.file})`)
       continue
     }
-    if (isKnown(r.name)) continue
+    if (nameIndex.isKnown(r.name)) continue
     const key = norm(r.name)
     const prev = wikiAdds.get(key)
     if (prev) {
@@ -515,7 +509,7 @@ function main() {
   }
   for (const { kind, ...p } of wikiAdds.values()) {
     players.push(p)
-    known.push(norm(p.name).split(' '))
+    nameIndex.add(p.name)
   }
   report.push(
     `Tablas de Wikipedia (${WIKI_TABLES.length}: ${WIKI_TABLES.map((t) => t.club ?? 'Primera').join(', ')}): ${wikiRows.length} filas válidas, ${wikiAdds.size} jugadores agregados, ${wikiRejected.length} filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: ${upgraded.length}${upgraded.length ? ` (${upgraded.join('; ')})` : ''}. Diferencias de 5+ goles con la tabla de Primera: ${primeraCheck.length} (ver abajo).`,
@@ -549,9 +543,6 @@ function main() {
   for (const p of players) nameCount.set(norm(p.name), (nameCount.get(norm(p.name)) ?? 0) + 1)
   const byName = new Map(players.filter((p) => nameCount.get(norm(p.name)) === 1).map((p) => [norm(p.name), p]))
   // a cup row belongs to a dataset player only if one of its teams is one of his clubs
-  const GENERIC = new Set(['club', 'atletico', 'deportivo', 'sportivo', 'social', 'de', 'la', 'y', 'del', 'cultural', 'asociacion', 'ca', 'cd', 'fc', 'lp'])
-  const words = (s) => norm(s).split(' ').filter((w) => w.length > 2 && !GENERIC.has(w))
-  const sameClub = (teams, clubs) => teams.some((t) => clubs.some((c) => words(c).some((w) => words(t).includes(w))))
   const cupLog = { upgraded: 0, exact: 0, added: 0, unmatched: [] }
   const perComp = {}
   for (const w of ed.perPlayer.values()) {
@@ -581,7 +572,7 @@ function main() {
     const dom = (add.copaArgentina ?? 0) + (add.copaLiga ?? 0)
     if (!p) {
       if (!(w.goals.ascenso > 0)) continue // cup-only rows are not enough for a card
-      if (isKnown(w.name)) {
+      if (nameIndex.isKnown(w.name)) {
         cupLog.unmatched.push(w.name)
         continue
       }
@@ -688,7 +679,7 @@ function main() {
       saLog.raised++
       continue
     }
-    if (isKnown(e.name) || nameCount.get(norm(e.name)) > 0) {
+    if (nameIndex.isKnown(e.name) || nameCount.get(norm(e.name)) > 0) {
       saLog.unmatched++
       continue
     }
@@ -921,10 +912,6 @@ function main() {
   report.push(`Máximos goleadores por club (data-sources/club-top-scorers.json): ${topLog.raised} totales subidos, ${topLog.added.length} jugadores agregados (${topLog.added.join(', ')}).`)
 
   // clubs a player also played for (data-sources/club-links.json, from the lists given by the game's author)
-  const nameWithin = (a, b) => {
-    const [s, l] = [norm(a).split(' '), norm(b).split(' ')].sort((x, y) => x.length - y.length)
-    return s.at(-1) === l.at(-1) && s.every((w) => l.includes(w))
-  }
   const linkLog = { clubs: 0, missing: [] }
   for (const l of JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-links.json'), 'utf8'))) {
     let p = players.filter((x) => norm(x.name) === norm(l.name))

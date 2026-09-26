@@ -22,9 +22,14 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Categorías de Wikipedia por club: 2255 clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).
 - Máximos goleadores por club (data-sources/club-top-scorers.json): 26 totales subidos, 57 jugadores agregados (Carlos Spadaro, José Luis Lodico, Harry Hayes, Ennis Hayes, Enrique García, Omar Corbatta, Guillermo Stábile, Omar Larrosa, Claudio García, Juan Ramón Verón, Delio Onnis, Diego Bayo, José Perdomo, Pedro Larraquy, Juan Carlos Carone, Omar Asad, José Oscar Flores, Santiago Santamaría, Roque Alfaro, Sergio Robles, José Canteli, Ariel Cozzoni, Mario Zanabria, Oscar Commisso, Carlos Ereros, Mario Noremberg, Claudio Borghi, Pedro Pasculli, Raúl Savoy, José Pekerman, Sergio Batista, Carlos Alberto Vidal, Héctor Ángel Arregui, Juan Domingo Rocchia, Alberto Piovano, Antonio Garabal, Rodolfo Danza, Alfredo Borgnia, Héctor Berón, Víctor Bianchini, Alberto Montalvo, José Luis Iglesias, Javier López, Juan Haedo, Fernando Pérez, Rafael Sanz, Rubén Galván, Julio Cruz, Miguel Antonio Romero, Pedro Lamberti, José Daniel Valencia, Juan Ramón Santos, Alberto Vázquez, César Romani, Eugenio Bassino, Rubí Cerioni, Horacio Milozzi).
 - Clubes por jugador (data-sources/club-links.json): 22 clubes sumados; sin jugador que coincida: Juan Gilberto Funes, Antonio Mohamed, Maximiliano Rodríguez.
-- Primera: 3351 · Primera Nacional: 1631
+- Primera: 3351 · Primera Nacional: 1631 · Ascenso: 782
 - Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 466 · AM 521 · LW 363 · RW 432 · ST 2218
 - Marcados para revisión: 2835
+
+## Ascenso
+`playedAscenso`: 3405 (línea base) → 3405 (actual, +0).
+Por evidencia: `tm-arg2` 2578 · `wiki-ascenso-editions` 67 · `soloascenso` 976 · `rsssf-arg2` 0 · `bdfa` 0.
+`players.json`: 2571331 → 2642836 bytes (+71505); gzip 273470 → 279145 bytes (+5675).
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192

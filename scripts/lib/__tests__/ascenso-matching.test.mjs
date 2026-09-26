@@ -1,6 +1,7 @@
 // @vitest-environment node
 import { describe, expect, it } from 'vitest'
 import {
+  ADDABLE_SCOPES,
   GENERIC,
   createNameIndex,
   eraOverlap,
@@ -101,5 +102,38 @@ describe('eraOverlap', () => {
 
   it('is false when years is null', () => {
     expect(eraOverlap(null, '1990s')).toBe(false)
+  })
+
+  it('is true when years end right before the era starts and slack covers the gap', () => {
+    // years [1985,1989] end 1989, era '1990s' parses to [1990,1999]; slack=1 bridges the 1-year gap.
+    expect(eraOverlap([1985, 1989], '1990s', 1)).toBe(true)
+  })
+
+  it('is false when years end right before the era starts and slack is 0 (boundary, no bridge)', () => {
+    expect(eraOverlap([1985, 1989], '1990s', 0)).toBe(false)
+  })
+
+  it('is true when years start right after the era ends and slack covers the gap', () => {
+    // years [2000,2005] start 2000, era '1990s' parses to [1990,1999]; slack=1 bridges the 1-year gap.
+    expect(eraOverlap([2000, 2005], '1990s', 1)).toBe(true)
+  })
+
+  it('is false when years start right after the era ends and slack is 0 (boundary, no bridge)', () => {
+    expect(eraOverlap([2000, 2005], '1990s', 0)).toBe(false)
+  })
+})
+
+describe('ADDABLE_SCOPES', () => {
+  it('pins the exact set of scope strings considered safe to add ascenso-source goals on top of', () => {
+    expect(ADDABLE_SCOPES).toBeInstanceOf(Set)
+    expect([...ADDABLE_SCOPES].sort()).toEqual(
+      [
+        'Liga desde 1990/91',
+        'Ascenso desde 2008/09',
+        'Liga y copas desde 1990/91',
+        'Ascenso y copas desde 2008/09',
+        'Liga (Primera), carrera',
+      ].sort(),
+    )
   })
 })

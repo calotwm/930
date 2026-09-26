@@ -1,6 +1,9 @@
 // Pure, side-effect-free name/club/era matching helpers shared by every ascenso source layer
-// (Solo Ascenso recovery, RSSSF ARG2, BDFA). Moved verbatim (behavior-preserving) from
-// scripts/build-dataset.mjs; no logic changes versus the original inline closures.
+// (Solo Ascenso recovery, RSSSF ARG2, BDFA). `norm`, `GENERIC`, `words`, `sameClub`,
+// `nameWithin`, and `createNameIndex` are moved verbatim (behavior-preserving) from
+// scripts/build-dataset.mjs, with no logic changes versus the original inline closures.
+// `parseEra`, `eraOverlap`, and `ADDABLE_SCOPES` are new additions introduced by this change,
+// needed by the Phase 3 `resolveAscensoEntry` corroboration rule.
 
 export const norm = (s) =>
   s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim()

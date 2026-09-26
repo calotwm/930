@@ -8,7 +8,7 @@ import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
 import { parseStatsTable } from './player-stats.mjs'
 import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
-import { createNameIndex, nameWithin, norm, sameClub } from './lib/ascenso-matching.mjs'
+import { ADDABLE_SCOPES, createNameIndex, nameWithin, norm, resolveAscensoEntry, sameClub } from './lib/ascenso-matching.mjs'
 import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso } from './lib/ascenso-flag.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
@@ -663,62 +663,74 @@ function main() {
       const pretty = (x) => (x === x.toUpperCase() ? titleCase(x) : x)
       const name = pretty(rawName)
       const team = pretty(rawTeam)
-      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, extra: 0, teams: [], seasons: [] }
+      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, extra: 0, teams: [], seasons: [], years: [] }
       e.goals += goals
       // goals Transfermarkt totals cannot already include
       if (!SA_DIVISIONS[s.div].coveredByTm) e.extra += goals
       e.teams.push(team)
+      // the capture year of the archived copy stands in for the season year (only known year signal)
+      e.years.push(Number(s.timestamp.slice(0, 4)))
       e.seasons.push(`${s.label} (copia del ${s.timestamp.slice(6, 8)}/${s.timestamp.slice(4, 6)}/${s.timestamp.slice(0, 4)}): ${goals}`)
       saPlayers.set(norm(name), e)
     }
   }
-  const saLog = { added: 0, raised: 0, unmatched: 0 }
-  const SA_ADDABLE = new Set([...TM_SCOPES, 'Liga (Primera), carrera'])
+  // Recovery pass: every entry (including rows a plain sameClub-only check would previously have
+  // discarded as "sin sumar") is routed through the shared strict-corroboration decision function.
+  const saLog = { merged: 0, flagged: 0, added: 0, discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 } }
+  const saEraMatches = []
   for (const e of saPlayers.values()) {
-    const p = byName.get(norm(e.name))
-    if (p) {
+    const years = e.years.length ? [Math.min(...e.years), Math.max(...e.years)] : null
+    const entry = { name: e.name, teams: e.teams, years, extraGoals: e.extra }
+    const result = resolveAscensoEntry(entry, players, {
       // only totals that cannot already include these divisions
-      if (!e.extra || !SA_ADDABLE.has(p.scope.split(' + ')[0]) || !sameClub(e.teams, p.clubs ?? [])) {
-        saLog.unmatched++
-        continue
+      canAddGoals: (p) => entry.extraGoals > 0 && ADDABLE_SCOPES.has(p.scope.split(' + ')[0]),
+    })
+    if (result.action === 'merge' || result.action === 'flag') {
+      const p = result.target
+      if (result.action === 'merge') {
+        p.goals += entry.extraGoals
+        p.leagueGoals = (p.leagueGoals ?? 0) + entry.extraGoals
+        p.scope = `${p.scope} + ascenso metropolitano/federal`
+        p.saSources = e.seasons
       }
-      p.goals += e.extra
-      p.leagueGoals = (p.leagueGoals ?? 0) + e.extra
-      p.scope = `${p.scope} + ascenso metropolitano/federal`
-      p.saSources = e.seasons
       ;(p.review ??= []).push('soloascenso-partial')
+      if (result.eraOnly) {
+        ;(p.review ??= []).push('ascenso-era-match')
+        saEraMatches.push(p.name)
+      }
       addAscensoEvidence(p, EVIDENCE.SOLOASCENSO)
-      saLog.raised++
+      saLog[result.action === 'merge' ? 'merged' : 'flagged']++
       continue
     }
-    if (nameIndex.isKnown(e.name) || nameCount.get(norm(e.name)) > 0) {
-      saLog.unmatched++
+    if (result.action === 'add') {
+      const parts = e.name.split(' ')
+      const p2 = {
+        id: slug(e.name),
+        name: e.name,
+        shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
+        position: 'ST',
+        goals: e.goals,
+        leagueGoals: e.goals,
+        club: mostCommon(e.teams),
+        clubs: [...new Set(e.teams)],
+        division: 'Ascenso',
+        scope: 'Ascenso metropolitano/federal (goleadores por torneo, parcial)',
+        era: '—',
+        source: { name: 'Solo Ascenso — goleadores (copias de Internet Archive)', url: saUrl(e.div) },
+        saSources: e.seasons,
+        review: ['soloascenso-partial', 'position-unverified'],
+      }
+      addAscensoEvidence(p2, EVIDENCE.SOLOASCENSO)
+      players.push(p2)
+      byName.set(norm(p2.name), p2)
+      saLog.added++
       continue
     }
-    const parts = e.name.split(' ')
-    const p2 = {
-      id: slug(e.name),
-      name: e.name,
-      shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
-      position: 'ST',
-      goals: e.goals,
-      leagueGoals: e.goals,
-      club: mostCommon(e.teams),
-      clubs: [...new Set(e.teams)],
-      division: 'Ascenso',
-      scope: 'Ascenso metropolitano/federal (goleadores por torneo, parcial)',
-      era: '—',
-      source: { name: 'Solo Ascenso — goleadores (copias de Internet Archive)', url: saUrl(e.div) },
-      saSources: e.seasons,
-      review: ['soloascenso-partial', 'position-unverified'],
-    }
-    addAscensoEvidence(p2, EVIDENCE.SOLOASCENSO)
-    players.push(p2)
-    byName.set(norm(p2.name), p2)
-    saLog.added++
+    saLog.discarded[result.reason] = (saLog.discarded[result.reason] ?? 0) + 1
   }
+  const saDiscardedTotal = Object.values(saLog.discarded).reduce((a, b) => a + b, 0)
   report.push(
-    `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.raised} totales sumados, ${saLog.added} jugadores de ascenso agregados, ${saLog.unmatched} sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).`,
+    `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.merged} totales sumados, ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores de ascenso agregados, ${saDiscardedTotal} sin sumar (club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}).`,
   )
 
   // Player pages: career table per club and competition. Goals with Argentine clubs replace the
@@ -1018,6 +1030,10 @@ function main() {
       ? `\`playedAscenso\`: ${ascensoBaseline.playedAscenso} (línea base) → ${playedAscensoCount} (actual, ${playedAscensoCount - ascensoBaseline.playedAscenso >= 0 ? '+' : ''}${playedAscensoCount - ascensoBaseline.playedAscenso}).`
       : `\`playedAscenso\`: ${playedAscensoCount} (sin línea base registrada; correr con \`--record-baseline\`).`,
     `Por evidencia: ${Object.values(EVIDENCE).map((tag) => `\`${tag}\` ${count((p) => p.ascensoEvidence?.includes(tag))}`).join(' · ')}.`,
+    `Solo Ascenso (recuperación con corroboración estricta): ${saLog.merged} fusionados (goles sumados), ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores agregados, ${saDiscardedTotal} descartados — club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}.`,
+    saEraMatches.length
+      ? `\`ascenso-era-match\` (corroborado solo por era, sin coincidencia de club — revisar manualmente): ${saEraMatches.join(', ')}.`
+      : '`ascenso-era-match`: ninguno.',
     ascensoBaseline
       ? `\`players.json\`: ${ascensoBaseline.runtimeBytes} → ${runtimeBytes} bytes (${runtimeBytes - ascensoBaseline.runtimeBytes >= 0 ? '+' : ''}${runtimeBytes - ascensoBaseline.runtimeBytes}); gzip ${ascensoBaseline.runtimeGzipBytes} → ${runtimeGzipBytes} bytes (${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes >= 0 ? '+' : ''}${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes}).`
       : `\`players.json\`: ${runtimeBytes} bytes, gzip ${runtimeGzipBytes} bytes (sin línea base registrada).`,
@@ -1045,6 +1061,7 @@ function main() {
     '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
     '- `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
     '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
+    '- `ascenso-era-match`: fuente de ascenso fusionada/marcada por coincidencia de era solamente (sin coincidencia de club); revisar manualmente.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players
       .filter((p) => p.review?.some((r) => r !== 'position-unverified' && !r.startsWith('seasons-before') && r !== 'season-list-truncated'))

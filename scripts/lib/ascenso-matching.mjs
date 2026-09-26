@@ -76,3 +76,48 @@ export const ADDABLE_SCOPES = new Set([
   'Ascenso y copas desde 2008/09',
   'Liga (Primera), carrera',
 ])
+
+// Players matching the same-last-token + at-least-one-other-shared-token namesake rule (the
+// `createNameIndex`/`isKnown` rule), excluding an exact full-name match — used by
+// `resolveAscensoEntry` to distinguish a genuine namesake from the same person.
+export function namesakesOf(name, players) {
+  const t = norm(name).split(' ')
+  const sur = t.at(-1)
+  return players.filter((p) => {
+    if (norm(p.name) === norm(name)) return false
+    const k = norm(p.name).split(' ')
+    return k.at(-1) === sur && k.some((w) => w !== sur && t.includes(w))
+  })
+}
+
+const clubsOf = (p) => p.clubs ?? [p.club]
+const corroboratesClub = (entry, p) => sameClub(entry.teams, clubsOf(p))
+const corroboratesEra = (entry, p) => eraOverlap(entry.years, p.era)
+const corroborates = (entry, p) => corroboratesClub(entry, p) || corroboratesEra(entry, p)
+// era known and provably non-overlapping (no slack) on both sides — used to prove two namesakes
+// are distinct people, not to corroborate a merge (which allows slack).
+const erasKnownDisjoint = (entry, p) => entry.years !== null && parseEra(p.era) !== null && !eraOverlap(entry.years, p.era, 0)
+
+// Single decision function shared by every ascenso source layer (Solo Ascenso recovery, RSSSF
+// ARG2, BDFA). Never merges on a name match alone: a merge into an existing player requires an
+// exact normalized full-name match AND corroboration by club-token overlap or era/season overlap.
+// entry = { name, teams: string[], years: [minYear, maxYear] | null, extraGoals }
+export function resolveAscensoEntry(entry, players, { canAddGoals }) {
+  const exact = players.filter((p) => norm(p.name) === norm(entry.name))
+  if (exact.length > 0) {
+    const corroborated = exact.filter((p) => corroborates(entry, p))
+    if (corroborated.length === 0) return { action: 'discard', reason: 'club-mismatch' }
+    if (corroborated.length > 1) return { action: 'discard', reason: 'ambiguous-name' }
+    const target = corroborated[0]
+    const eraOnly = !corroboratesClub(entry, target) && corroboratesEra(entry, target)
+    const action = canAddGoals(target) ? 'merge' : 'flag'
+    const reason = action === 'merge' ? (eraOnly ? 'era-overlap' : 'club-overlap') : 'already-covered'
+    return { action, target, reason, ...(eraOnly ? { eraOnly: true } : {}) }
+  }
+  const namesakes = namesakesOf(entry.name, players)
+  if (namesakes.length === 0) return { action: 'add', reason: 'unique-name' }
+  if (namesakes.some((p) => corroborates(entry, p))) return { action: 'discard', reason: 'possible-duplicate' }
+  const allProvablyDistinct = namesakes.every((p) => !corroboratesClub(entry, p) && erasKnownDisjoint(entry, p))
+  if (allProvablyDistinct) return { action: 'add', reason: 'namesake-proven-distinct' }
+  return { action: 'discard', reason: 'namesake-unproven' }
+}

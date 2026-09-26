@@ -6,8 +6,9 @@ import { TARGET, totalGoals } from '../../lib/scoring'
 import { findCompletion } from '../../lib/solver'
 import { PLAYERS } from '../players'
 
-// Rounded down to the nearest 100 from the observed count after Phase 2 (flag + evidence recording,
-// before the Phase 3 Solo Ascenso recovery pass and the Phase 4 RSSSF ARG2 layer raise it further).
+// Rounded down to the nearest 100 from the observed count. Phase 2 observed 3405; the Phase 3 Solo
+// Ascenso strict-corroboration recovery pass raised it to 3421 (still rounds down to the same 3400
+// threshold). The Phase 4 RSSSF ARG2 layer is expected to raise it further.
 const MIN_PLAYED_ASCENSO = 3400
 
 describe('dataset', () => {

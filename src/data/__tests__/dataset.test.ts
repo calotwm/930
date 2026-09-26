@@ -6,6 +6,10 @@ import { TARGET, totalGoals } from '../../lib/scoring'
 import { findCompletion } from '../../lib/solver'
 import { PLAYERS } from '../players'
 
+// Rounded down to the nearest 100 from the observed count after Phase 2 (flag + evidence recording,
+// before the Phase 3 Solo Ascenso recovery pass and the Phase 4 RSSSF ARG2 layer raise it further).
+const MIN_PLAYED_ASCENSO = 3400
+
 describe('dataset', () => {
   it('tiene al menos 300 jugadores', () => {
     expect(PLAYERS.length).toBeGreaterThanOrEqual(300)
@@ -33,6 +37,22 @@ describe('dataset', () => {
       expect(['Primera', 'Primera Nacional', 'Ascenso'], p.id).toContain(p.division)
       expect(p.name.trim().length, p.id).toBeGreaterThan(0)
     }
+  })
+
+  it('playedAscenso es boolean o ausente para todos, nunca otro tipo', () => {
+    for (const p of PLAYERS) {
+      expect(p.playedAscenso === undefined || typeof p.playedAscenso === 'boolean', p.id).toBe(true)
+    }
+  })
+
+  it('todo jugador de Primera Nacional o Ascenso tiene playedAscenso true', () => {
+    for (const p of PLAYERS.filter((p) => p.division === 'Primera Nacional' || p.division === 'Ascenso')) {
+      expect(p.playedAscenso, p.id).toBe(true)
+    }
+  })
+
+  it(`al menos ${MIN_PLAYED_ASCENSO} jugadores tienen playedAscenso true`, () => {
+    expect(PLAYERS.filter((p) => p.playedAscenso === true).length).toBeGreaterThanOrEqual(MIN_PLAYED_ASCENSO)
   })
 
   it('hay variedad de jugadores para cada puesto de la formación', () => {

@@ -24,6 +24,8 @@ export interface Player {
   secondarySource?: SourceRef
   discrepancies?: { source: string; goals: number; note?: string }[]
   review?: string[]
+  /** Evidence-based lower bound: true when a source shows ascenso participation. Absent = no evidence. */
+  playedAscenso?: boolean
 }
 
 export type SlotRole = 'ARQ' | 'DEF' | 'MC' | 'MP' | 'DEL'

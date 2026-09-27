@@ -114,7 +114,8 @@
    "manual-correction"
   ],
   "ascensoEvidence": [
-   "tm-arg2"
+   "tm-arg2",
+   "rsssf-arg2"
   ],
   "cupSources": [
    "Copa Argentina 2013: 5"
@@ -339,7 +340,8 @@
    "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Sand"
   },
   "review": [
-   "active-in-source-update-2023"
+   "active-in-source-update-2023",
+   "ascenso-era-match"
   ],
   "discrepancies": [
    {
@@ -352,8 +354,12 @@
    "name": "Transfermarkt — posición",
    "url": "https://www.transfermarkt.com/gustavo-sandoval/profil/spieler/807333"
   },
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
   "cupGoals": 21,
-  "intlGoals": 29
+  "intlGoals": 29,
+  "playedAscenso": true
  },
  {
   "id": "jose-sanfilippo",
@@ -933,8 +939,12 @@
   "review": [
    "position-unverified"
   ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
   "cupGoals": 0,
-  "intlGoals": 3
+  "intlGoals": 3,
+  "playedAscenso": true
  },
  {
   "id": "javier-rossi",
@@ -1403,7 +1413,8 @@
    "manual-correction"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "secondarySource": {
    "name": "Corrección manual: máximo goleador histórico de la Primera B Nacional (160) — es.wikipedia.org/wiki/Primera_B_Nacional; piso: no suma Primera",
@@ -1672,9 +1683,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Carlos_Luna"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -1709,8 +1717,13 @@
    "note": "Total de goles oficiales (liga de Primera + copas nacionales + copas internacionales) según RSSSF (actualizado 17/08/2023); liga: 152. Años: 1970-1976/1979-1982."
   },
   "review": [
-   "position-unverified"
-  ]
+   "position-unverified",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "diego-maradona",
@@ -1749,28 +1762,37 @@
  {
   "id": "luciano-agnolin",
   "name": "Luciano Agnolín",
-  "position": "ST",
   "shortName": "Agnolín",
+  "position": "ST",
+  "goals": 151,
+  "leagueGoals": 41,
   "club": "Temperley",
   "clubs": [
    "Temperley",
-   "Atlanta",
-   "All Boys",
+   "Ferro Carril Oeste",
    "Tigre",
-   "Dock Sud",
-   "Ferro Carril Oeste"
+   "Atlanta",
+   "All Boys"
   ],
-  "division": "Ascenso",
-  "era": "1930s–1940s",
-  "source": {
-   "name": "Wikipedia — Luciano Agnolín",
-   "url": "https://en.wikipedia.org/wiki/Luciano_Agnol%C3%ADn"
-  },
-  "goals": 151,
+  "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
   "review": [
+   "rsssf-arg2-partial",
+   "position-unverified",
    "manual-correction"
   ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: máximo goleador histórico de la segunda categoría: 130 en Temperley + 21 en Atlanta (Primera 1944)",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
   "playedAscenso": true
  },
  {
@@ -2645,9 +2667,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Emmanuel_Gigliotti"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -2735,9 +2754,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Pablo_Vegetti"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -2882,7 +2898,6 @@
    "url": "https://es.wikipedia.org/wiki/Christian_G%C3%B3mez"
   },
   "review": [
-   "soloascenso-partial",
    "manual-correction"
   ],
   "ascensoEvidence": [
@@ -2984,9 +2999,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Claudio_Bieler"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -4116,7 +4128,8 @@
    "manual-correction"
   ],
   "ascensoEvidence": [
-   "tm-arg2"
+   "tm-arg2",
+   "rsssf-arg2"
   ],
   "secondarySource": {
    "name": "Corrección manual: 4.º goleador histórico de la B Nacional (115) — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677; piso",
@@ -4768,25 +4781,36 @@
  {
   "id": "waldino-aguirre",
   "name": "Waldino Aguirre",
-  "position": "ST",
   "shortName": "Aguirre",
+  "position": "ST",
+  "goals": 107,
+  "leagueGoals": 33,
   "club": "Rosario Central",
   "clubs": [
    "Rosario Central",
    "Racing Club",
    "Huracán"
   ],
-  "division": "Primera",
-  "era": "1960s–1970s",
-  "source": {
-   "name": "Wikipedia — Waldino Aguirre",
-   "url": "https://es.wikipedia.org/wiki/Waldino_Aguirre"
-  },
-  "goals": 107,
+  "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
   "review": [
+   "rsssf-arg2-partial",
+   "position-unverified",
    "manual-correction"
-  ]
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Rosario Central)",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "playedAscenso": true
  },
  {
   "id": "carlos-bulla",
@@ -4847,9 +4871,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Emanuel_Dening"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -4967,8 +4988,7 @@
    "url": "https://es.wikipedia.org/wiki/Gabriel_%C3%81valos"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -5981,9 +6001,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Fernando_Telechea"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -6093,29 +6110,33 @@
  {
   "id": "daniel-gimenez",
   "name": "Daniel Giménez",
-  "position": "ST",
   "shortName": "Giménez",
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Godoy Cruz",
-   "Defensores de Belgrano",
-   "San Miguel",
-   "Independiente Rivadavia",
-   "Instituto ACC",
-   "Chacarita Juniors",
-   "Los Andes"
-  ],
-  "division": "Ascenso",
-  "era": "1990s–2010s",
-  "source": {
-   "name": "Solo Ascenso — goleadores históricos de la B Nacional",
-   "url": "https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677"
-  },
+  "position": "ST",
   "goals": 89,
+  "leagueGoals": 13,
+  "club": "Godoy Cruz de Mza",
+  "clubs": [
+   "Godoy Cruz de Mza"
+  ],
+  "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
   "review": [
+   "rsssf-arg2-partial",
+   "position-unverified",
    "manual-correction"
   ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: «Tanque», 89 goles en la B Nacional — https://www.soloascenso.com.ar/notas/platense/los-goleadores-historicos-de-la-b-nacional/148677",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
   "playedAscenso": true
  },
  {
@@ -6225,7 +6246,8 @@
    "Torneo Federal B / Regional Amateur (copia del 01/04/2023): 1"
   ],
   "ascensoEvidence": [
-   "soloascenso"
+   "soloascenso",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -6757,6 +6779,34 @@
   ]
  },
  {
+  "id": "reynaldo-harguinteguy",
+  "name": "Reynaldo Harguinteguy",
+  "shortName": "Harguinteguy",
+  "position": "ST",
+  "goals": 84,
+  "leagueGoals": 84,
+  "club": "El Porvenir",
+  "clubs": [
+   "El Porvenir",
+   "Temperley"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alfredo-graciani",
   "name": "Alfredo Graciani",
   "shortName": "Graciani",
@@ -7019,9 +7069,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Parra"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -7430,9 +7477,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/alejandro-gagliardi/leistungsdaten/spieler/88071"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -7767,8 +7811,7 @@
    "url": "https://es.wikipedia.org/wiki/Mateo_Acosta"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -8139,8 +8182,7 @@
   },
   "review": [
    "season-list-truncated",
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -8375,9 +8417,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gonzalo_Castillejos"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -8486,9 +8525,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/matias-quiroga/leistungsdaten/spieler/103456"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -8651,8 +8687,7 @@
    "url": "https://www.transfermarkt.com/pablo-magnin/leistungsdaten/spieler/144236"
   },
   "review": [
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -8804,7 +8839,8 @@
   ],
   "ascensoEvidence": [
    "tm-arg2",
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "cupSources": [
    "Primera B Nacional / Primera Nacional 2002: 24"
@@ -8838,9 +8874,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Pereyra"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -9196,8 +9229,7 @@
   },
   "review": [
    "season-list-truncated",
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -9341,9 +9373,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/federico-gonzalez/leistungsdaten/spieler/77380"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -10383,8 +10412,7 @@
    "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Vombergar"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -10716,9 +10744,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Prost"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -10750,9 +10775,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Rolle"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -10839,9 +10861,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/V%C3%ADctor_Figueroa"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -11300,9 +11319,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/miguel-caneo/leistungsdaten/spieler/30919"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -11406,9 +11422,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/%C3%81lex_Arce"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -11471,7 +11484,8 @@
    "cups-partial"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "cupSources": [
    "Primera B Nacional / Primera Nacional 2001: 23"
@@ -11622,8 +11636,7 @@
    "url": "https://www.transfermarkt.com/javier-toledo/leistungsdaten/spieler/72620"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -12424,6 +12437,33 @@
   ]
  },
  {
+  "id": "luis-suarez",
+  "name": "Luis Suárez",
+  "shortName": "Suárez",
+  "position": "ST",
+  "goals": 49,
+  "leagueGoals": 49,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s–1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "matias-coselli",
   "name": "Matías Coselli",
   "shortName": "Coselli",
@@ -12571,6 +12611,36 @@
   "playedAscenso": true
  },
  {
+  "id": "carlos-seppaquercia",
+  "name": "Carlos Seppaquercia",
+  "shortName": "Seppaquercia",
+  "position": "ST",
+  "goals": 48,
+  "leagueGoals": 48,
+  "club": "Flandria",
+  "clubs": [
+   "Flandria",
+   "Deportivo Italiano",
+   "River Plate",
+   "Gimnasia LP"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s–1980s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "cesar-pereyra",
   "name": "César Pereyra",
   "shortName": "Pereyra",
@@ -12624,8 +12694,7 @@
    "url": "https://www.transfermarkt.com/cristian-menendez/leistungsdaten/spieler/74086"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -13006,9 +13075,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Juan_S%C3%A1nchez_Sotelo"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -13219,9 +13285,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mauro_Quiroga"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -13435,9 +13498,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Ezequiel_Rescaldani"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -13684,9 +13744,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Benegas"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -13754,8 +13811,7 @@
    "url": "https://es.wikipedia.org/wiki/Ricardo_Dar%C3%ADo_Blanco"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -13899,9 +13955,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Brian_Fern%C3%A1ndez"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -14032,8 +14085,7 @@
    "url": "https://es.wikipedia.org/wiki/Germ%C3%A1n_Rivero"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -14062,9 +14114,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gustavo_Gotti"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -14153,9 +14202,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mauro_Albertengo"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -14403,7 +14449,11 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gast%C3%B3n_Casas"
-  }
+  },
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "gustavo-bou",
@@ -14513,7 +14563,8 @@
   },
   "ascensoEvidence": [
    "tm-arg2",
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -14657,6 +14708,33 @@
   ]
  },
  {
+  "id": "raul-micci",
+  "name": "Raúl Micci",
+  "shortName": "Micci",
+  "position": "ST",
+  "goals": 44,
+  "leagueGoals": 44,
+  "club": "Argentino de Rosario",
+  "clubs": [
+   "Argentino de Rosario"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "urbano-reynoso",
   "name": "Urbano Reynoso",
   "shortName": "Reynoso",
@@ -14710,9 +14788,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Alejandro_Melo"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -14741,8 +14816,7 @@
    "url": "https://es.wikipedia.org/wiki/Brian_Blando"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -15087,8 +15161,7 @@
    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Reniero"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -15575,6 +15648,35 @@
   ]
  },
  {
+  "id": "raul-altuve",
+  "name": "Raúl Altuve",
+  "shortName": "Altuve",
+  "position": "ST",
+  "goals": 42,
+  "leagueGoals": 42,
+  "club": "El Porvenir",
+  "clubs": [
+   "El Porvenir",
+   "Gimnasia LP",
+   "Rosario Central"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alan-bonansea",
   "name": "Alan Bonansea",
   "shortName": "Bonansea",
@@ -15606,8 +15708,7 @@
    "url": "https://www.transfermarkt.com/alan-bonansea/leistungsdaten/spieler/538609"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -15807,12 +15908,10 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ismael-blanco/leistungsdaten/spieler/30715"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
-   "soloascenso"
+   "soloascenso",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -15895,9 +15994,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jorge-velazquez/leistungsdaten/spieler/87356"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -16205,8 +16301,7 @@
    "url": "https://es.wikipedia.org/wiki/Diego_Diellos"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -16488,9 +16583,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Pino"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -16700,9 +16792,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Walter_Acu%C3%B1a"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -17055,6 +17144,36 @@
   "playedAscenso": true
  },
  {
+  "id": "candido-gonzalez",
+  "name": "Cándido González",
+  "shortName": "González",
+  "position": "ST",
+  "goals": 38,
+  "leagueGoals": 38,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "Independiente",
+   "Huracán",
+   "Ferro Carril Oeste"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "carlos-auzqui",
   "name": "Carlos Auzqui",
   "shortName": "Auzqui",
@@ -17172,9 +17291,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/fernando-brandan/leistungsdaten/spieler/358014"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -17759,9 +17875,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/osvaldo-miranda/leistungsdaten/spieler/30856"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -17881,9 +17994,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Rodrigo_Castillo"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -17978,8 +18088,7 @@
    "url": "https://es.wikipedia.org/wiki/%C3%81lvaro_Veliez"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -18039,9 +18148,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Arnaldo_Gonz%C3%A1lez"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -18235,7 +18341,8 @@
    "cups-partial"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "cupSources": [
    "Primera B Nacional / Primera Nacional 2003: 20"
@@ -18309,7 +18416,8 @@
    "editions-partial"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -18507,9 +18615,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Servetto"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -18731,9 +18836,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/santiago-rosales/leistungsdaten/spieler/357424"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -18836,8 +18938,7 @@
    "url": "https://www.transfermarkt.com/claudio-riano/leistungsdaten/spieler/238011"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -18980,6 +19081,33 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Jonatan_Cristaldo"
   }
+ },
+ {
+  "id": "juan-calichio",
+  "name": "Juan Calichio",
+  "shortName": "Calichio",
+  "position": "ST",
+  "goals": 36,
+  "leagueGoals": 36,
+  "club": "Estudiantes de BA",
+  "clubs": [
+   "Estudiantes de BA"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "juan-garro",
@@ -19470,8 +19598,7 @@
    "url": "https://www.transfermarkt.com/tomas-molina/leistungsdaten/spieler/429591"
   },
   "review": [
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -19572,6 +19699,33 @@
   "cupSources": [
    "Copa Argentina 2026: 1"
   ]
+ },
+ {
+  "id": "alfredo-martinez",
+  "name": "Alfredo Martínez",
+  "shortName": "Martínez",
+  "position": "ST",
+  "goals": 35,
+  "leagueGoals": 35,
+  "club": "El Porvenir",
+  "clubs": [
+   "El Porvenir"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "antonio-cerrotti",
@@ -19754,8 +19908,7 @@
    "url": "https://www.transfermarkt.com/federico-anselmo/leistungsdaten/spieler/343163"
   },
   "review": [
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -19906,6 +20059,33 @@
   "playedAscenso": true
  },
  {
+  "id": "jorge-osvaldo-perez",
+  "name": "Jorge Osvaldo Pérez",
+  "shortName": "Osvaldo Pérez",
+  "position": "ST",
+  "goals": 35,
+  "leagueGoals": 35,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "jose-manuel-chatruc",
   "name": "José Manuel Chatruc",
   "shortName": "Manuel Chatruc",
@@ -19962,9 +20142,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Junior_Arias"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -20124,7 +20301,6 @@
    "url": "https://es.wikipedia.org/wiki/Kevin_Retamar"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -20364,8 +20540,7 @@
    "url": "https://www.transfermarkt.com/facundo-bruera/leistungsdaten/spieler/538880"
   },
   "review": [
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -20578,9 +20753,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mauricio-asenjo/leistungsdaten/spieler/333762"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -20691,9 +20863,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Balboa"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -20763,8 +20932,7 @@
    "url": "https://es.wikipedia.org/wiki/Silvio_Alejandro_Mart%C3%ADnez"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -20929,9 +21097,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Pons"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -20963,6 +21128,33 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "francisco-cecchini",
+  "name": "Francisco Cecchini",
+  "shortName": "Cecchini",
+  "position": "ST",
+  "goals": 33,
+  "leagueGoals": 33,
+  "club": "Central Córdoba",
+  "clubs": [
+   "Central Córdoba"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -21089,8 +21281,7 @@
    "url": "https://es.wikipedia.org/wiki/Ignacio_Lago"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -21132,8 +21323,7 @@
   },
   "review": [
    "seasons-before-2008-not-counted",
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -21744,8 +21934,7 @@
    "url": "https://www.transfermarkt.com/juan-manuel-garcia/leistungsdaten/spieler/457244"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -21780,8 +21969,7 @@
    "url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Marcioni"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -22009,9 +22197,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Osmar_Ferreyra"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -22219,7 +22404,11 @@
   "review": [
    "club-total-only",
    "position-unverified"
-  ]
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "benito-albarracin",
@@ -22443,8 +22632,7 @@
    "url": "https://es.wikipedia.org/wiki/Francisco_Gonz%C3%A1lez_Metilli"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -22572,6 +22760,33 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/german-real/leistungsdaten/spieler/16219"
   }
+ },
+ {
+  "id": "hector-catoira",
+  "name": "Héctor Catoira",
+  "shortName": "Catoira",
+  "position": "ST",
+  "goals": 31,
+  "leagueGoals": 31,
+  "club": "Sportivo Dock Sud",
+  "clubs": [
+   "Sportivo Dock Sud"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "hector-fertoli",
@@ -22909,9 +23124,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Pisano"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -23059,9 +23271,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/rodrigo-salinas/leistungsdaten/spieler/125750"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -23101,6 +23310,61 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "alberto-crotti",
+  "name": "Alberto Crotti",
+  "shortName": "Crotti",
+  "position": "ST",
+  "goals": 30,
+  "leagueGoals": 30,
+  "club": "Sportivo Acassuso",
+  "clubs": [
+   "Sportivo Acassuso"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "alejandro-glaria",
+  "name": "Alejandro Glaría",
+  "shortName": "Glaría",
+  "position": "ST",
+  "goals": 30,
+  "leagueGoals": 30,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield",
+   "Talleres"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1990s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -23465,7 +23729,8 @@
    "cups-partial"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "cupSources": [
    "Primera B Nacional / Primera Nacional 1997: 23"
@@ -23524,8 +23789,7 @@
    "url": "https://es.wikipedia.org/wiki/Exequiel_Narese"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -23591,8 +23855,7 @@
    "url": "https://www.transfermarkt.com/felipe-cadenazzi/leistungsdaten/spieler/440979"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -23819,8 +24082,7 @@
    "url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Bonetto"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -23947,9 +24209,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Mateo_Bajamich"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -24113,6 +24372,33 @@
   "playedAscenso": true
  },
  {
+  "id": "alejandro-abaurre",
+  "name": "Alejandro Abaurre",
+  "shortName": "Abaurre",
+  "position": "ST",
+  "goals": 29,
+  "leagueGoals": 29,
+  "club": "Godoy Cruz de Mza",
+  "clubs": [
+   "Godoy Cruz de Mza"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1990s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alexis-canelo",
   "name": "Alexis Canelo",
   "shortName": "Canelo",
@@ -24263,6 +24549,35 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "eduardo-restivo",
+  "name": "Eduardo Restivo",
+  "shortName": "Restivo",
+  "position": "ST",
+  "goals": 29,
+  "leagueGoals": 29,
+  "club": "Chacarita Jrs",
+  "clubs": [
+   "Chacarita Jrs",
+   "Gimnasia LP",
+   "Chacarita Juniors"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -24905,8 +25220,7 @@
    "url": "https://es.wikipedia.org/wiki/Renzo_Tesuri"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -25005,8 +25319,7 @@
    "url": "https://es.wikipedia.org/wiki/Alexis_Dom%C3%ADnguez"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -25036,6 +25349,33 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ariel-lopez/leistungsdaten/spieler/51083"
   }
+ },
+ {
+  "id": "armando-adan",
+  "name": "Armando Adán",
+  "shortName": "Adán",
+  "position": "ST",
+  "goals": 28,
+  "leagueGoals": 28,
+  "club": "Sp.Acassuso",
+  "clubs": [
+   "Sp.Acassuso"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1930s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "christian-bassedas",
@@ -25085,12 +25425,38 @@
    "url": "https://es.wikipedia.org/wiki/Claudio_Salto"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "dante-fernandez",
+  "name": "Dante Fernández",
+  "shortName": "Fernández",
+  "position": "ST",
+  "goals": 28,
+  "leagueGoals": 28,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1990s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -25592,9 +25958,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/matias-gimenez/leistungsdaten/spieler/656112"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -25830,12 +26193,39 @@
   },
   "review": [
    "seasons-before-2008-not-counted",
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "daniel-valledor",
+  "name": "Daniel Valledor",
+  "shortName": "Valledor",
+  "position": "ST",
+  "goals": 27,
+  "leagueGoals": 27,
+  "club": "Deportivo Español",
+  "clubs": [
+   "Deportivo Español",
+   "Colón"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -26015,8 +26405,7 @@
    "url": "https://es.wikipedia.org/wiki/Ijiel_Protti"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -26109,6 +26498,60 @@
   "playedAscenso": true
  },
  {
+  "id": "jose-chirico",
+  "name": "José Chirico",
+  "shortName": "Chirico",
+  "position": "ST",
+  "goals": 27,
+  "leagueGoals": 27,
+  "club": "Gimnasia La Plata",
+  "clubs": [
+   "Gimnasia La Plata"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "jose-ferrero",
+  "name": "José Ferrero",
+  "shortName": "Ferrero",
+  "position": "ST",
+  "goals": 27,
+  "leagueGoals": 27,
+  "club": "Newell's Old Boys",
+  "clubs": [
+   "Newell's Old Boys"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "lautaro-martinez",
   "name": "Lautaro Martínez",
   "shortName": "Martínez",
@@ -26186,7 +26629,6 @@
    "url": "https://es.wikipedia.org/wiki/Luciano_Gim%C3%A9nez"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -26225,6 +26667,36 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "mario-franceschini",
+  "name": "Mario Franceschini",
+  "shortName": "Franceschini",
+  "position": "ST",
+  "goals": 27,
+  "leagueGoals": 27,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago",
+   "Boca Juniors",
+   "Banfield",
+   "Atlanta"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1980s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -26330,6 +26802,33 @@
   ],
   "saSources": [
    "Torneo Federal A (copia del 08/08/2018): 8"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "nicolas-valdivia",
+  "name": "Nicolás Valdivia",
+  "shortName": "Valdivia",
+  "position": "ST",
+  "goals": 27,
+  "leagueGoals": 27,
+  "club": "Deportivo Italiano",
+  "clubs": [
+   "Deportivo Italiano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -26485,12 +26984,38 @@
    "url": "https://www.transfermarkt.com/agustin-colazo/leistungsdaten/spieler/842808"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "carlos-cardozo",
+  "name": "Carlos Cardozo",
+  "shortName": "Cardozo",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Almirante Brown",
+  "clubs": [
+   "Almirante Brown"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1990s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -26526,6 +27051,33 @@
   ],
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "claudio-mir",
+  "name": "Claudio Mir",
+  "shortName": "Mir",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Colón de Santa Fe",
+  "clubs": [
+   "Colón de Santa Fe"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1980s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -26648,6 +27200,33 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "emilio-espinoza",
+  "name": "Emilio Espinoza",
+  "shortName": "Espinoza",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Sarmiento de Junín",
+  "clubs": [
+   "Sarmiento de Junín"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "fabricio-lenci",
@@ -26895,9 +27474,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jose-luis-fernandez/leistungsdaten/spieler/75407"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -26958,9 +27534,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Lucas_Cano"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -27084,8 +27657,7 @@
    "url": "https://www.transfermarkt.com/nazareno-funez/leistungsdaten/spieler/960200"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -27150,8 +27722,7 @@
    "url": "https://www.transfermarkt.com/nicolas-orsini/leistungsdaten/spieler/289149"
   },
   "review": [
-   "cups-partial",
-   "soloascenso-partial"
+   "cups-partial"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -27160,6 +27731,87 @@
   ],
   "cupSources": [
    "Copa Sudamericana 2020: 6"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "orlando-garro",
+  "name": "Orlando Garro",
+  "shortName": "Garro",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Platense",
+  "clubs": [
+   "Platense"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "orlando-ruiz",
+  "name": "Orlando Ruiz",
+  "shortName": "Ruiz",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Unión de Santa Fe",
+  "clubs": [
+   "Unión de Santa Fe"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "roberto-fazzolari",
+  "name": "Roberto Fazzolari",
+  "shortName": "Fazzolari",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 26,
+  "club": "Sportivo Dock Sud",
+  "clubs": [
+   "Sportivo Dock Sud"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -27377,6 +28029,33 @@
   }
  },
  {
+  "id": "casimiro-casado",
+  "name": "Casimiro Casado",
+  "shortName": "Casado",
+  "position": "ST",
+  "goals": 25,
+  "leagueGoals": 25,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "celedonio-fernandez",
   "name": "Celedonio Fernández",
   "shortName": "Fernández",
@@ -27484,8 +28163,7 @@
    "url": "https://es.wikipedia.org/wiki/Claudio_Pombo"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -27600,8 +28278,7 @@
    "url": "https://es.wikipedia.org/wiki/Federico_Jourdan"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -27632,9 +28309,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Francisco_Fydriszewski"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -27801,9 +28475,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Leonardo_Sequeira"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -28405,7 +29076,8 @@
    "position-unverified"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -29036,6 +29708,33 @@
   }
  },
  {
+  "id": "miguel-converti",
+  "name": "Miguel Converti",
+  "shortName": "Converti",
+  "position": "ST",
+  "goals": 24,
+  "leagueGoals": 24,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1980s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "nicolas-contin",
   "name": "Nicolás Contin",
   "shortName": "Contin",
@@ -29060,8 +29759,7 @@
    "url": "https://www.transfermarkt.com/nicolas-contin/leistungsdaten/spieler/340164"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -29090,9 +29788,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/pablo-chavarria/leistungsdaten/spieler/118732"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -29291,8 +29986,7 @@
    "url": "https://es.wikipedia.org/wiki/Rodrigo_Miguel_Moreira"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -29359,7 +30053,8 @@
    "position-unverified"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -30120,8 +30815,7 @@
    "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Maggi"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -30233,6 +30927,33 @@
   "playedAscenso": true
  },
  {
+  "id": "jose-cantelli",
+  "name": "José Cantelli",
+  "shortName": "Cantelli",
+  "position": "ST",
+  "goals": 23,
+  "leagueGoals": 23,
+  "club": "Colón de Santa Fe",
+  "clubs": [
+   "Colón de Santa Fe"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1950s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "juan-galeano",
   "name": "Juan Galeano",
   "shortName": "Galeano",
@@ -30260,9 +30981,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/juan-galeano/leistungsdaten/spieler/196159"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -30487,6 +31205,33 @@
   "playedAscenso": true
  },
  {
+  "id": "omar-porte",
+  "name": "Omar Porté",
+  "shortName": "Porté",
+  "position": "ST",
+  "goals": 23,
+  "leagueGoals": 23,
+  "club": "Atlanta",
+  "clubs": [
+   "Atlanta"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1980s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "pablo-cantero",
   "name": "Pablo Cantero",
   "shortName": "Cantero",
@@ -30574,12 +31319,36 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/pablo-ruiz/leistungsdaten/spieler/68571"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "pedro-coronel",
+  "name": "Pedro Coronel",
+  "shortName": "Coronel",
+  "position": "ST",
+  "goals": 23,
+  "leagueGoals": 23,
+  "club": "San Telmo",
+  "clubs": [
+   "San Telmo"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -30611,6 +31380,40 @@
   "cupSources": [
    "Copa Argentina 2023: 2"
   ]
+ },
+ {
+  "id": "raul-chaparro",
+  "name": "Raúl Chaparro",
+  "shortName": "Chaparro",
+  "position": "ST",
+  "goals": 23,
+  "leagueGoals": 23,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre",
+   "River Plate",
+   "San Lorenzo",
+   "Rosario Central",
+   "Colón",
+   "Instituto ACC",
+   "Chacarita Juniors",
+   "Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "roberto-oste",
@@ -31522,6 +32325,33 @@
   "playedAscenso": true
  },
  {
+  "id": "horacio-corbalan",
+  "name": "Horacio Corbalán",
+  "shortName": "Corbalán",
+  "position": "ST",
+  "goals": 22,
+  "leagueGoals": 22,
+  "club": "Temperley",
+  "clubs": [
+   "Temperley"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "imanol-enriquez",
   "name": "Imanol Enríquez",
   "shortName": "Enríquez",
@@ -31827,9 +32657,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/luciano-nieto/leistungsdaten/spieler/87455"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -32301,6 +33128,35 @@
   "playedAscenso": true
  },
  {
+  "id": "rene-herrera",
+  "name": "René Herrera",
+  "shortName": "Herrera",
+  "position": "ST",
+  "goals": 22,
+  "leagueGoals": 22,
+  "club": "Comunicaciones",
+  "clubs": [
+   "Comunicaciones",
+   "Tigre",
+   "Atlético Tucumán"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "rogelio-funes-mori",
   "name": "Rogelio Funes Mori",
   "shortName": "Funes Mori",
@@ -32379,8 +33235,7 @@
    "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Lom%C3%B3naco"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -33102,7 +33957,6 @@
    "url": "https://es.wikipedia.org/wiki/Ignacio_Sabatini"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -33174,8 +34028,7 @@
    "url": "https://es.wikipedia.org/wiki/Juan_Cruz_Esquivel"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -33370,12 +34223,36 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Lucas_Baldunciel"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "marcelo-ruffini",
+  "name": "Marcelo Ruffini",
+  "shortName": "Ruffini",
+  "position": "ST",
+  "goals": 21,
+  "leagueGoals": 21,
+  "club": "Unión de Santa Fe",
+  "clubs": [
+   "Unión de Santa Fe"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1990s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -33613,7 +34490,8 @@
    "editions-partial"
   ],
   "ascensoEvidence": [
-   "wiki-ascenso-editions"
+   "wiki-ascenso-editions",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -33645,8 +34523,7 @@
    "url": "https://es.wikipedia.org/wiki/Nahuel_Luj%C3%A1n"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -33751,9 +34628,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Oroz"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -33820,8 +34694,7 @@
    "url": "https://es.wikipedia.org/wiki/Oscar_Belinetz"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -33849,6 +34722,33 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/oscar-cardozo/leistungsdaten/spieler/45865"
   }
+ },
+ {
+  "id": "oscar-fuentes",
+  "name": "Oscar Fuentes",
+  "shortName": "Fuentes",
+  "position": "ST",
+  "goals": 21,
+  "leagueGoals": 21,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "pablo-vitti",
@@ -33897,6 +34797,33 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Paulo_D%C3%ADaz"
   }
+ },
+ {
+  "id": "pedro-patti",
+  "name": "Pedro Patti",
+  "shortName": "Patti",
+  "position": "ST",
+  "goals": 21,
+  "leagueGoals": 21,
+  "club": "Los Andes",
+  "clubs": [
+   "Los Andes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "raul-allende",
@@ -34005,9 +34932,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/santiago-solari/leistungsdaten/spieler/866059"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -34399,6 +35323,33 @@
   ]
  },
  {
+  "id": "carlos-viyella",
+  "name": "Carlos Viyella",
+  "shortName": "Viyella",
+  "position": "ST",
+  "goals": 20,
+  "leagueGoals": 20,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1930s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "cesar-delgado",
   "name": "César Delgado",
   "shortName": "Delgado",
@@ -34708,9 +35659,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Castelli"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -34940,9 +35888,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Gonzalo_Baz%C3%A1n_(futbolista)"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -35039,6 +35984,33 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "jorge-weber",
+  "name": "Jorge Weber",
+  "shortName": "Weber",
+  "position": "ST",
+  "goals": 20,
+  "leagueGoals": 20,
+  "club": "Ferrocarril Oeste",
+  "clubs": [
+   "Ferrocarril Oeste"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "juan-arraya",
@@ -35317,9 +36289,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/sergio-gonzalez/leistungsdaten/spieler/359148"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -35407,9 +36376,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/W%C3%A1lter_Mazzantti"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -35556,6 +36522,33 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "carmen-de-jesus-contreras",
+  "name": "Carmen de Jesús Contreras",
+  "shortName": "de Jesús Contreras",
+  "position": "ST",
+  "goals": 19,
+  "leagueGoals": 19,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1940s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -35969,9 +36962,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/fausto-montero/leistungsdaten/spieler/144237"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -36415,6 +37405,35 @@
   "playedAscenso": true
  },
  {
+  "id": "julio-san-lorenzo",
+  "name": "Julio San Lorenzo",
+  "shortName": "San Lorenzo",
+  "position": "ST",
+  "goals": 19,
+  "leagueGoals": 19,
+  "club": "Nueva Chicago",
+  "clubs": [
+   "Nueva Chicago",
+   "Racing Club",
+   "Banfield"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "leonardo-ponzio",
   "name": "Leonardo Ponzio",
   "shortName": "Ponzio",
@@ -36652,8 +37671,7 @@
    "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Viguet"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -36742,8 +37760,7 @@
    "url": "https://www.transfermarkt.com/nicolas-messiniti/leistungsdaten/spieler/546692"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -36878,9 +37895,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Patricio_Vidal"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -36983,8 +37997,7 @@
    "url": "https://www.transfermarkt.com/santiago-vera/leistungsdaten/spieler/539156"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -37335,9 +38348,6 @@
   "editions": [
    "Primera B Nacional / Primera Nacional 2022: 14"
   ],
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "wiki-ascenso-editions",
    "soloascenso"
@@ -37558,6 +38568,33 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "ernesto-scandone",
+  "name": "Ernesto Scandone",
+  "shortName": "Scandone",
+  "position": "ST",
+  "goals": 18,
+  "leagueGoals": 18,
+  "club": "Estudiantes de BA",
+  "clubs": [
+   "Estudiantes de BA"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1930s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -38462,8 +39499,7 @@
    "url": "https://www.transfermarkt.com/sebastian-cocimano/leistungsdaten/spieler/745326"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -38495,8 +39531,7 @@
    "url": "https://es.wikipedia.org/wiki/Thomas_Amilivia"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -38593,8 +39628,7 @@
    "url": "https://es.wikipedia.org/wiki/Aaron_Spetale"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -38627,9 +39661,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Allione"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -39169,9 +40200,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/damian-arce/leistungsdaten/spieler/423708"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -39432,9 +40460,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Lencioni"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -39902,7 +40927,6 @@
    "url": "https://www.transfermarkt.com/jorge-cordoba/leistungsdaten/spieler/89315"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -40168,8 +41192,7 @@
    "url": "https://www.transfermarkt.com/lucas-ambrogio/leistungsdaten/spieler/697584"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -40552,8 +41575,7 @@
    "url": "https://www.transfermarkt.com/nicolas-franco/leistungsdaten/spieler/441421"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -40723,6 +41745,33 @@
   "playedAscenso": true
  },
  {
+  "id": "roberto-juarez",
+  "name": "Roberto Juárez",
+  "shortName": "Juárez",
+  "position": "ST",
+  "goals": 17,
+  "leagueGoals": 17,
+  "club": "Tigre",
+  "clubs": [
+   "Tigre"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "rodrigo-depetris",
   "name": "Rodrigo Depetris",
   "shortName": "Depetris",
@@ -40757,6 +41806,33 @@
   ],
   "saSources": [
    "Torneo Federal A (copia del 20/07/2019): 7"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "ruben-rojas",
+  "name": "Rubén Rojas",
+  "shortName": "Rojas",
+  "position": "ST",
+  "goals": 17,
+  "leagueGoals": 17,
+  "club": "Los Andes",
+  "clubs": [
+   "Los Andes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1970s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -40819,9 +41895,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Santiago_Giordana"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -40959,9 +42032,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/tobias-figueroa/leistungsdaten/spieler/132693"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -41553,8 +42623,7 @@
    "url": "https://www.transfermarkt.com/federico-bisanz/leistungsdaten/spieler/866060"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -41779,7 +42848,6 @@
    "url": "https://www.transfermarkt.com/gonzalo-lencina/leistungsdaten/spieler/660338"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -42743,9 +43811,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/paulo-rosales/leistungsdaten/spieler/26472"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -43547,9 +44612,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/elias-torres/leistungsdaten/spieler/1014363"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -44043,9 +45105,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Guillermo_Vernetti"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -44221,8 +45280,7 @@
    "url": "https://es.wikipedia.org/wiki/Jonathan_Dellarossa"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -44520,9 +45578,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/marcos-astina/leistungsdaten/spieler/288782"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -45012,8 +46067,7 @@
    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Romano_(futbolista)"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -45417,9 +46471,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Abel_Arga%C3%B1araz"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -46362,8 +47413,7 @@
    "url": "https://www.transfermarkt.com/hernan-rivero/leistungsdaten/spieler/418619"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -46990,9 +48040,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Luciano_Ferreyra"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -47078,9 +48125,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/marcos-gelabert/leistungsdaten/spieler/20130"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -47731,9 +48775,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Pablo_Burzio"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -47976,9 +49017,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Tob%C3%ADas_Cervera"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -48554,6 +49592,33 @@
   }
  },
  {
+  "id": "cristian-torres",
+  "name": "Cristian Torres",
+  "shortName": "Torres",
+  "position": "ST",
+  "goals": 13,
+  "leagueGoals": 13,
+  "club": "Quilmes",
+  "clubs": [
+   "Quilmes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "2000s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "damian-diaz",
   "name": "Damián Díaz",
   "shortName": "Díaz",
@@ -48627,9 +49692,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/daniel-imperiale/leistungsdaten/spieler/420445"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -48788,8 +49850,7 @@
    "url": "https://www.transfermarkt.com/emanuel-moreno/leistungsdaten/spieler/148728"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -49681,9 +50742,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jose-mendez/leistungsdaten/spieler/422918"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -49994,9 +51052,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/leandro-garate/leistungsdaten/spieler/300308"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -50120,6 +51175,33 @@
   }
  },
  {
+  "id": "luis-diaz",
+  "name": "Luis Díaz",
+  "shortName": "Díaz",
+  "position": "ST",
+  "goals": 13,
+  "leagueGoals": 13,
+  "club": "ACIA",
+  "clubs": [
+   "ACIA"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "marcelo-scatolaro",
   "name": "Marcelo Scatolaro",
   "shortName": "Scatolaro",
@@ -50182,7 +51264,6 @@
    "url": "https://www.transfermarkt.com/marcos-arturia/leistungsdaten/spieler/636440"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -50243,8 +51324,7 @@
    "url": "https://www.transfermarkt.com/mario-galeano/leistungsdaten/spieler/863400"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -50395,6 +51475,33 @@
   ]
  },
  {
+  "id": "maximiliano-bevacqua",
+  "name": "Maximiliano Bevacqua",
+  "shortName": "Bevacqua",
+  "position": "ST",
+  "goals": 13,
+  "leagueGoals": 13,
+  "club": "CAI de Com.Rivadavia",
+  "clubs": [
+   "CAI de Com.Rivadavia"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "2000s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "maximiliano-salas",
   "name": "Maximiliano Salas",
   "shortName": "Salas",
@@ -50417,9 +51524,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/maximiliano-salas/leistungsdaten/spieler/442231"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -51038,6 +52142,33 @@
   "playedAscenso": true
  },
  {
+  "id": "albino-valentini",
+  "name": "Albino Valentini",
+  "shortName": "Valentini",
+  "position": "ST",
+  "goals": 12,
+  "leagueGoals": 12,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alejandro-silva",
   "name": "Alejandro Silva",
   "shortName": "Silva",
@@ -51276,8 +52407,7 @@
    "url": "https://es.wikipedia.org/wiki/Brian_Orosco"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -51419,7 +52549,6 @@
    "url": "https://www.transfermarkt.com/cristian-bordacahar/leistungsdaten/spieler/282350"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -51853,9 +52982,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/federico-rasic/leistungsdaten/spieler/282483"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -52297,8 +53423,7 @@
    "url": "https://es.wikipedia.org/wiki/Imanol_Gonz%C3%A1lez"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -52470,8 +53595,7 @@
    "url": "https://www.transfermarkt.com/joaquin-quinteros/leistungsdaten/spieler/527165"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -52589,6 +53713,33 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jose-marzo/leistungsdaten/spieler/1182248"
   }
+ },
+ {
+  "id": "jose-solari",
+  "name": "José Solari",
+  "shortName": "Solari",
+  "position": "ST",
+  "goals": 12,
+  "leagueGoals": 12,
+  "club": "Almagro",
+  "clubs": [
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "juan-cavallaro",
@@ -52971,9 +54122,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/marco-borgnino/leistungsdaten/spieler/458171"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -53520,6 +54668,33 @@
   }
  },
  {
+  "id": "roberto-parodi",
+  "name": "Roberto Parodi",
+  "shortName": "Parodi",
+  "position": "ST",
+  "goals": 12,
+  "leagueGoals": 12,
+  "club": "Defensores de Belgrano",
+  "clubs": [
+   "Defensores de Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "1960s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "rodrigo-auzmendi",
   "name": "Rodrigo Auzmendi",
   "shortName": "Auzmendi",
@@ -53859,8 +55034,7 @@
    "url": "https://www.transfermarkt.com/tomas-blanco/leistungsdaten/spieler/613092"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -54247,8 +55421,7 @@
    "url": "https://es.wikipedia.org/wiki/Ariel_Kippes"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -54280,7 +55453,6 @@
    "url": "https://www.transfermarkt.com/brahian-cuello/leistungsdaten/spieler/494219"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -54811,9 +55983,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ezequiel-naya/leistungsdaten/spieler/909314"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -55327,8 +56496,7 @@
    "url": "https://www.transfermarkt.com/javier-cabrera/leistungsdaten/spieler/147131"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -55447,8 +56615,7 @@
    "url": "https://www.transfermarkt.com/jonathan-beron/leistungsdaten/spieler/1043645"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -55692,8 +56859,7 @@
    "url": "https://www.transfermarkt.com/leandro-becerra/leistungsdaten/spieler/87482"
   },
   "review": [
-   "seasons-before-2008-not-counted",
-   "soloascenso-partial"
+   "seasons-before-2008-not-counted"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -55722,8 +56888,7 @@
    "url": "https://www.transfermarkt.com/leandro-godoy/leistungsdaten/spieler/818088"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -56101,8 +57266,7 @@
    "url": "https://es.wikipedia.org/wiki/Marcos_Echeverr%C3%ADa"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -56197,8 +57361,7 @@
    "url": "https://www.transfermarkt.com/mariano-mino/leistungsdaten/spieler/538092"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -57032,8 +58195,7 @@
    "url": "https://es.wikipedia.org/wiki/Rodrigo_Mazur"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -58005,8 +59167,7 @@
    "url": "https://www.transfermarkt.com/delfor-minervino/leistungsdaten/spieler/970644"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -58329,9 +59490,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/esteban-orfano/leistungsdaten/spieler/131216"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -59069,9 +60227,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/ignacio-cacheiro/leistungsdaten/spieler/359040"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -60504,8 +61659,7 @@
    "url": "https://www.transfermarkt.com/pedro-souto/leistungsdaten/spieler/924999"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -60692,6 +61846,33 @@
   "playedAscenso": true
  },
  {
+  "id": "ruben-dario-ferrer",
+  "name": "Rubén Darío Ferrer",
+  "shortName": "Darío Ferrer",
+  "position": "ST",
+  "goals": 10,
+  "leagueGoals": 10,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Segunda división (goleador de la temporada, parcial)",
+  "era": "2000s",
+  "source": {
+   "name": "RSSSF — Argentina Second Level Topscorers",
+   "url": "https://www.rsssf.org/tablesa/arg2tops.html"
+  },
+  "review": [
+   "rsssf-arg2-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "salomon-rondon",
   "name": "Salomón Rondón",
   "shortName": "Rondón",
@@ -60768,8 +61949,7 @@
    "url": "https://www.transfermarkt.com/sergio-quiroga/leistungsdaten/spieler/434715"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -60924,8 +62104,7 @@
    "url": "https://www.transfermarkt.com/yair-gonzalez/leistungsdaten/spieler/646078"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -61303,7 +62482,6 @@
    "url": "https://www.transfermarkt.com/brian-guille/leistungsdaten/spieler/504884"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -61333,9 +62511,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/brian-nievas/leistungsdaten/spieler/661074"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -61395,8 +62570,7 @@
    "url": "https://www.transfermarkt.com/bruno-perez/leistungsdaten/spieler/953172"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -61920,8 +63094,7 @@
    "url": "https://www.transfermarkt.com/diego-vasquez/leistungsdaten/spieler/952150"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -62105,9 +63278,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Emiliano_Amor"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -62590,8 +63760,7 @@
    "url": "https://www.transfermarkt.com/francisco-nouet/leistungsdaten/spieler/541542"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -63740,9 +64909,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/kevin-gissi/leistungsdaten/spieler/232040"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -63834,7 +65000,8 @@
    "seasons-before-2008-not-counted"
   ],
   "ascensoEvidence": [
-   "tm-arg2"
+   "tm-arg2",
+   "rsssf-arg2"
   ],
   "playedAscenso": true
  },
@@ -64532,8 +65699,7 @@
    "url": "https://www.transfermarkt.com/nazareno-bazan/leistungsdaten/spieler/555846"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -64655,8 +65821,7 @@
    "url": "https://www.transfermarkt.com/nicolas-monserrat/leistungsdaten/spieler/873232"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -64854,8 +66019,7 @@
    "url": "https://www.transfermarkt.com/pablo-palacio/leistungsdaten/spieler/655659"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -64955,9 +66119,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ramiro-costa/leistungsdaten/spieler/186296"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -65220,8 +66381,7 @@
    "url": "https://www.transfermarkt.com/tobias-zarate/leistungsdaten/spieler/742603"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -65776,8 +66936,7 @@
    "url": "https://www.transfermarkt.com/angel-almada/leistungsdaten/spieler/996005"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -66108,8 +67267,7 @@
    "url": "https://www.transfermarkt.com/catriel-sanchez/leistungsdaten/spieler/528423"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -66609,8 +67767,7 @@
    "url": "https://www.transfermarkt.com/erik-bodencer/leistungsdaten/spieler/911997"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -66873,8 +68030,7 @@
    "url": "https://www.transfermarkt.com/fernando-bersano/leistungsdaten/spieler/533569"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -67505,9 +68661,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/ibrahim-hesar/leistungsdaten/spieler/695346"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions",
@@ -69240,9 +70393,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Luciano_Nequecaur"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -69564,8 +70714,7 @@
    "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Palavecino"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -70326,8 +71475,7 @@
    "url": "https://www.transfermarkt.com/ramiro-fergonzi/leistungsdaten/spieler/132508"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -70601,8 +71749,7 @@
    "url": "https://www.transfermarkt.com/rodrigo-castro/leistungsdaten/spieler/238661"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -71902,8 +73049,7 @@
    "url": "https://www.transfermarkt.com/brian-guerra/leistungsdaten/spieler/538619"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -72576,8 +73722,7 @@
    "url": "https://www.transfermarkt.com/dylan-glaby/leistungsdaten/spieler/710779"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -72730,9 +73875,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/emiliano-purita/leistungsdaten/spieler/471638"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -72861,8 +74003,7 @@
    "url": "https://www.transfermarkt.com/enzo-hoyos/leistungsdaten/spieler/878779"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -73621,9 +74762,6 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Franco_Negri"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -73711,7 +74849,6 @@
    "url": "https://www.transfermarkt.com/franco-watson/leistungsdaten/spieler/654733"
   },
   "review": [
-   "soloascenso-partial",
    "ascenso-era-match"
   ],
   "ascensoEvidence": [
@@ -73750,9 +74887,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/gabriel-compagnucci/leistungsdaten/spieler/538608"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -74496,8 +75630,7 @@
    "url": "https://www.transfermarkt.com/jose-barreto/leistungsdaten/spieler/655031"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -74530,9 +75663,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/juan-elordi/leistungsdaten/spieler/728602"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -74740,8 +75870,7 @@
    "url": "https://www.transfermarkt.com/juan-pablo-passaglia/leistungsdaten/spieler/128339"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -75930,9 +77059,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/mateo-klimowicz/leistungsdaten/spieler/540302"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -76011,9 +77137,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/matias-cordoba/leistungsdaten/spieler/610254"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -76072,9 +77195,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/matias-gallegos/leistungsdaten/spieler/534622"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -77153,8 +78273,7 @@
    "url": "https://www.transfermarkt.com/rodrigo-mosqueira/leistungsdaten/spieler/1031533"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -77681,9 +78800,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/agustin-gallo/leistungsdaten/spieler/952149"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -78315,8 +79431,7 @@
    "url": "https://www.transfermarkt.com/ariel-chaves/leistungsdaten/spieler/440016"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -78548,9 +79663,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/brian-gomez/leistungsdaten/spieler/434718"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -81203,8 +82315,7 @@
    "url": "https://www.transfermarkt.com/ivan-antunes/leistungsdaten/spieler/878735"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -81917,8 +83028,7 @@
    "url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Vignolo"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -82233,9 +83343,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/leonardo-villalba/leistungsdaten/spieler/269817"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -82293,8 +83400,7 @@
    "url": "https://www.transfermarkt.com/leonel-bontempo/leistungsdaten/spieler/282610"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -83554,9 +84660,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/matias-rojo/leistungsdaten/spieler/538888"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -84666,9 +85769,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/roman-strada/leistungsdaten/spieler/396929"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -84927,9 +86027,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/sebastian-soto/leistungsdaten/spieler/530735"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -85795,9 +86892,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/alberto-stegman/leistungsdaten/spieler/360789"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -86686,8 +87780,7 @@
    "url": "https://www.transfermarkt.com/camilo-viganoni/leistungsdaten/spieler/1146835"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -87926,8 +89019,7 @@
    "url": "https://www.transfermarkt.com/emiliano-mayola/leistungsdaten/spieler/531104"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -88070,8 +89162,7 @@
    "url": "https://www.transfermarkt.com/eric-tovo/leistungsdaten/spieler/697418"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -88300,9 +89391,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/fabricio-alvarenga/leistungsdaten/spieler/381430"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -95437,9 +96525,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/cristian-techera/leistungsdaten/spieler/147105"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -96746,9 +97831,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/facundo-monteseirin/leistungsdaten/spieler/288794"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -99407,9 +100489,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/junior-mendieta/leistungsdaten/spieler/486132"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -111485,9 +112564,6 @@
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/leonel-felice/leistungsdaten/spieler/441113"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -113660,8 +114736,7 @@
    "url": "https://www.transfermarkt.com/nicolas-chaves/leistungsdaten/spieler/661663"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -120368,8 +121443,7 @@
    "url": "https://www.transfermarkt.com/federico-marin/leistungsdaten/spieler/612728"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -121179,9 +122253,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/franco-costa/leistungsdaten/spieler/332254"
   },
-  "review": [
-   "soloascenso-partial"
-  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -122630,8 +123701,7 @@
    "url": "https://www.transfermarkt.com/hernan-lopes/leistungsdaten/spieler/146215"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -132931,8 +134001,7 @@
    "url": "https://www.transfermarkt.com/ariel-coronel/leistungsdaten/spieler/267884"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",
@@ -158920,8 +159989,7 @@
    "url": "https://www.transfermarkt.com/tomas-mantia/leistungsdaten/spieler/747109"
   },
   "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
    "tm-arg2",

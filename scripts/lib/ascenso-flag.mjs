@@ -19,3 +19,16 @@ export function addAscensoEvidence(player, tag) {
 export function derivePlayedAscenso(player) {
   return player.division === 'Primera Nacional' || player.division === 'Ascenso' || (player.ascensoEvidence?.length ?? 0) > 0
 }
+
+// Review tags a `resolveAscensoEntry` merge/flag outcome should push onto the target player.
+// `baseTag` (e.g. 'soloascenso-partial', 'rsssf-arg2-partial') marks the total as a lower bound —
+// only correct when goals were actually raised (a `merge`). A `flag` never touches goals (the
+// player's total was already fully covered by another source), so tagging it "partial" would be
+// misleading; `ascenso-era-match` is added independently whenever corroboration was era-only,
+// regardless of merge/flag, since era-only corroboration is inherently weaker evidence.
+export function partialTagsFor(result, baseTag) {
+  const tags = []
+  if (result.action === 'merge') tags.push(baseTag)
+  if (result.eraOnly) tags.push('ascenso-era-match')
+  return tags
+}

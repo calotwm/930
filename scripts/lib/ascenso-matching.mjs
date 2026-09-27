@@ -90,7 +90,7 @@ export function namesakesOf(name, players) {
   })
 }
 
-const clubsOf = (p) => p.clubs ?? [p.club]
+const clubsOf = (p) => p.clubs ?? (p.club ? [p.club] : [])
 const corroboratesClub = (entry, p) => sameClub(entry.teams, clubsOf(p))
 const corroboratesEra = (entry, p) => eraOverlap(entry.years, p.era)
 const corroborates = (entry, p) => corroboratesClub(entry, p) || corroboratesEra(entry, p)

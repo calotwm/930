@@ -215,6 +215,55 @@ describe('resolveAscensoEntry', () => {
     expect(result.action).toBe('discard')
     expect(result.reason).toBe('namesake-unproven')
   })
+
+  it('does not throw for a player with neither clubs nor club (club-less player), and still merges via era overlap', () => {
+    // clubsOf must not fall back to [p.club] when club is also undefined (that yields [undefined],
+    // which crashes sameClub's norm(undefined) call) — club-less players must corroborate via era only.
+    const players = [{ name: 'Juan Pérez', era: '1990s', scope: 'Liga desde 1990/91' }]
+    const entry = { name: 'Juan Pérez', teams: ['River Plate'], years: [1992, 1994], extraGoals: 5 }
+    expect(() => resolveAscensoEntry(entry, players, { canAddGoals: () => true })).not.toThrow()
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => true })
+    expect(result.action).toBe('merge')
+    expect(result.eraOnly).toBe(true)
+  })
+
+  it('discards with reason club-mismatch for a club-less player with no era overlap either (triangulation)', () => {
+    const players = [{ name: 'Juan Pérez', era: '1970s', scope: 'Liga desde 1990/91' }]
+    const entry = { name: 'Juan Pérez', teams: ['River Plate'], years: [2010, 2012], extraGoals: 5 }
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => true })
+    expect(result.action).toBe('discard')
+    expect(result.reason).toBe('club-mismatch')
+  })
+
+  it('discards with reason namesake-unproven when entry.years is null, even with a club-disjoint namesake (erasKnownDisjoint requires a known entry.years)', () => {
+    const players = [{ name: 'Juan Carlos Pérez', clubs: ['River Plate'], era: '1960s' }]
+    const entry = { name: 'Carlos Pérez', teams: ['Boca Juniors'], years: null, extraGoals: 3 }
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => true })
+    expect(result.action).toBe('discard')
+    expect(result.reason).toBe('namesake-unproven')
+  })
+
+  it('merges via club overlap when entry.years is null (no era corroboration attempted, no crash)', () => {
+    const players = [{ name: 'Juan Pérez', clubs: ['River Plate'], era: '1990s', scope: 'Liga desde 1990/91' }]
+    const entry = { name: 'Juan Pérez', teams: ['River Plate'], years: null, extraGoals: 5 }
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => true })
+    expect(result.action).toBe('merge')
+    expect(result.eraOnly).toBeFalsy()
+  })
+
+  it('is equivalent to the pre-refactor isKnown/nameCount guard: an ambiguous exact-name match is never added silently (regression pin for review finding on the dropped guard)', () => {
+    // Two exact-name candidates in `players` (what the old nameCount ambiguity check caught) —
+    // resolveAscensoEntry's live exact-branch must still discard, never fall through to `add`.
+    const players = [
+      { name: 'Juan Pérez', clubs: ['River Plate'], era: '1990s', scope: 'Liga desde 1990/91' },
+      { name: 'Juan Pérez', clubs: ['Boca Juniors'], era: '1990s', scope: 'Liga desde 1990/91' },
+    ]
+    const entry = { name: 'Juan Pérez', teams: ['River Plate', 'Boca Juniors'], years: [1992, 1994], extraGoals: 5 }
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => true })
+    expect(result.action).not.toBe('add')
+    expect(result.action).toBe('discard')
+    expect(result.reason).toBe('ambiguous-name')
+  })
 })
 
 describe('ADDABLE_SCOPES', () => {

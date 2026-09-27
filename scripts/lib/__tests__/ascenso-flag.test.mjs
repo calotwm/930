@@ -1,6 +1,6 @@
 // @vitest-environment node
 import { describe, expect, it } from 'vitest'
-import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso } from '../ascenso-flag.mjs'
+import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso, partialTagsFor } from '../ascenso-flag.mjs'
 
 describe('derivePlayedAscenso', () => {
   it('is true when division is Primera Nacional', () => {
@@ -41,5 +41,30 @@ describe('addAscensoEvidence', () => {
     const p = { division: 'Primera', ascensoEvidence: [EVIDENCE.SOLOASCENSO] }
     addAscensoEvidence(p, EVIDENCE.WIKI_EDITIONS)
     expect(p.ascensoEvidence).toEqual([EVIDENCE.SOLOASCENSO, EVIDENCE.WIKI_EDITIONS])
+  })
+})
+
+describe('partialTagsFor', () => {
+  it('tags a merge outcome with the source partial tag (goals were actually raised, so the total is a lower bound)', () => {
+    expect(partialTagsFor({ action: 'merge' }, 'soloascenso-partial')).toEqual(['soloascenso-partial'])
+  })
+
+  it('does NOT tag a flag outcome with the partial tag (goals untouched — total already fully covered elsewhere)', () => {
+    expect(partialTagsFor({ action: 'flag' }, 'soloascenso-partial')).toEqual([])
+  })
+
+  it('adds ascenso-era-match on top of the partial tag for an eraOnly merge (triangulation: two tags)', () => {
+    expect(partialTagsFor({ action: 'merge', eraOnly: true }, 'soloascenso-partial')).toEqual([
+      'soloascenso-partial',
+      'ascenso-era-match',
+    ])
+  })
+
+  it('adds only ascenso-era-match for an eraOnly flag (no partial tag, since flag never touches goals)', () => {
+    expect(partialTagsFor({ action: 'flag', eraOnly: true }, 'soloascenso-partial')).toEqual(['ascenso-era-match'])
+  })
+
+  it('uses the given source-specific base tag (triangulation: different source, e.g. RSSSF ARG2)', () => {
+    expect(partialTagsFor({ action: 'merge' }, 'rsssf-arg2-partial')).toEqual(['rsssf-arg2-partial'])
   })
 })

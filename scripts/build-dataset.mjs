@@ -9,7 +9,7 @@ import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl }
 import { parseStatsTable } from './player-stats.mjs'
 import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
 import { ADDABLE_SCOPES, createNameIndex, nameWithin, norm, resolveAscensoEntry, sameClub } from './lib/ascenso-matching.mjs'
-import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso } from './lib/ascenso-flag.mjs'
+import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso, partialTagsFor } from './lib/ascenso-flag.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -693,11 +693,8 @@ function main() {
         p.scope = `${p.scope} + ascenso metropolitano/federal`
         p.saSources = e.seasons
       }
-      ;(p.review ??= []).push('soloascenso-partial')
-      if (result.eraOnly) {
-        ;(p.review ??= []).push('ascenso-era-match')
-        saEraMatches.push(p.name)
-      }
+      for (const tag of partialTagsFor(result, 'soloascenso-partial')) (p.review ??= []).push(tag)
+      if (result.eraOnly) saEraMatches.push(p.name)
       addAscensoEvidence(p, EVIDENCE.SOLOASCENSO)
       saLog[result.action === 'merge' ? 'merged' : 'flagged']++
       continue

@@ -678,7 +678,10 @@ function main() {
   // Recovery pass: every entry (including rows a plain sameClub-only check would previously have
   // discarded as "sin sumar") is routed through the shared strict-corroboration decision function.
   const saLog = { merged: 0, flagged: 0, added: 0, discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 } }
-  const saEraMatches = []
+  // Source-neutral: collects every era-only corroboration (no club overlap) across ALL ascenso
+  // layers below (Solo Ascenso, RSSSF ARG2, and future BDFA), since every one of them shares the
+  // same `ascenso-era-match` review tag and manual-review list.
+  const ascensoEraMatches = []
   for (const e of saPlayers.values()) {
     const years = e.years.length ? [Math.min(...e.years), Math.max(...e.years)] : null
     const entry = { name: e.name, teams: e.teams, years, extraGoals: e.extra }
@@ -695,7 +698,7 @@ function main() {
         p.saSources = e.seasons
       }
       for (const tag of partialTagsFor(result, 'soloascenso-partial')) (p.review ??= []).push(tag)
-      if (result.eraOnly) saEraMatches.push(p.name)
+      if (result.eraOnly) ascensoEraMatches.push(p.name)
       addAscensoEvidence(p, EVIDENCE.SOLOASCENSO)
       saLog[result.action === 'merge' ? 'merged' : 'flagged']++
       continue
@@ -738,16 +741,24 @@ function main() {
   // RSSSF's own per-season scorer coverage is not universal across every division/decade (see
   // research notes), so this parser must tolerate seasons with no scorer row rather than assume
   // every season in the covered range produced a row; parsed/skipped counts are reported below.
-  const arg2Html = fs.readFileSync(path.join(RAW, 'rsssf-arg2tops.html'), 'latin1')
-  const arg2Text = arg2Html.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
-  const { rows: arg2Rows, rejected: arg2Rejected } = parseArg2Tops(arg2Text)
-  const arg2Entries = aggregateArg2(arg2Rows).map((e) => ({ ...e, teams: e.teams.map(cleanClub) }))
-  const arg2Seasons = [...new Set(arg2Rows.map((r) => r.season))].sort()
+  const arg2Path = path.join(RAW, 'rsssf-arg2tops.html')
+  const arg2Available = fs.existsSync(arg2Path)
+  let arg2Rows = []
+  let arg2Rejected = []
+  let arg2Entries = []
   const arg2Log = {
     flagged: 0,
     added: 0,
     discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 },
   }
+  if (arg2Available) {
+    const arg2Html = fs.readFileSync(arg2Path, 'latin1')
+    const arg2Text = arg2Html.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+    ;({ rows: arg2Rows, rejected: arg2Rejected } = parseArg2Tops(arg2Text))
+    arg2Entries = aggregateArg2(arg2Rows).map((e) => ({ ...e, teams: e.teams.map(cleanClub) }))
+  }
+  const arg2Seasons = [...new Set(arg2Rows.map((r) => r.season))].sort()
+  const arg2SeasonsRange = arg2Seasons.length ? `${arg2Seasons[0]}–${arg2Seasons.at(-1)}` : 'sin temporadas'
   for (const entry of arg2Entries) {
     // RSSSF ARG2 never adds goals to an existing player: overlap risk with Wikipedia's summed
     // ascenso editions for the same seasons is too high to sum safely.
@@ -755,6 +766,7 @@ function main() {
     if (result.action === 'merge' || result.action === 'flag') {
       const p = result.target
       for (const tag of partialTagsFor(result, 'rsssf-arg2-partial')) (p.review ??= []).push(tag)
+      if (result.eraOnly) ascensoEraMatches.push(p.name)
       addAscensoEvidence(p, EVIDENCE.RSSSF_ARG2)
       arg2Log.flagged++
       continue
@@ -786,7 +798,9 @@ function main() {
   }
   const arg2DiscardedTotal = Object.values(arg2Log.discarded).reduce((a, b) => a + b, 0)
   report.push(
-    `RSSSF ARG2 (Segunda división histórica, 1937-2007/08): ${arg2Rows.length} filas parseadas en ${arg2Seasons.length} temporadas (${arg2Seasons[0]}–${arg2Seasons.at(-1)}), ${arg2Rejected.length} filas rechazadas por formato; ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados (club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}).`,
+    arg2Available
+      ? `RSSSF ARG2 (Segunda división histórica, 1937-2007/08): ${arg2Rows.length} filas parseadas en ${arg2Seasons.length} temporadas (${arg2SeasonsRange}), ${arg2Rejected.length} filas rechazadas por formato; ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados (club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}).`
+      : 'RSSSF ARG2 (Segunda división histórica, 1937-2007/08): fuente no encontrada (data-sources/raw/rsssf-arg2tops.html ausente); capa omitida.',
   )
   for (const l of arg2Rejected) skipped.push(`RSSSF ARG2 — fila no reconocida: ${l.trim()}`)
 
@@ -1088,10 +1102,12 @@ function main() {
       : `\`playedAscenso\`: ${playedAscensoCount} (sin línea base registrada; correr con \`--record-baseline\`).`,
     `Por evidencia: ${Object.values(EVIDENCE).map((tag) => `\`${tag}\` ${count((p) => p.ascensoEvidence?.includes(tag))}`).join(' · ')}.`,
     `Solo Ascenso (recuperación con corroboración estricta): ${saLog.merged} fusionados (goles sumados), ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores agregados, ${saDiscardedTotal} descartados — club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}.`,
-    saEraMatches.length
-      ? `\`ascenso-era-match\` (corroborado solo por era, sin coincidencia de club — revisar manualmente): ${saEraMatches.join(', ')}.`
+    ascensoEraMatches.length
+      ? `\`ascenso-era-match\` (corroborado solo por era, sin coincidencia de club — revisar manualmente): ${ascensoEraMatches.join(', ')}.`
       : '`ascenso-era-match`: ninguno.',
-    `RSSSF ARG2 (Segunda división histórica, ${arg2Seasons.length} temporadas parseadas de ${arg2Seasons[0]} a ${arg2Seasons.at(-1)}, ${arg2Rejected.length} filas rechazadas por formato): ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados — club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}.`,
+    arg2Available
+      ? `RSSSF ARG2 (Segunda división histórica, ${arg2Seasons.length} temporadas parseadas de ${arg2SeasonsRange}, ${arg2Rejected.length} filas rechazadas por formato): ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados — club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}.`
+      : 'RSSSF ARG2: fuente no encontrada; capa omitida.',
     ascensoBaseline
       ? `\`players.json\`: ${ascensoBaseline.runtimeBytes} → ${runtimeBytes} bytes (${runtimeBytes - ascensoBaseline.runtimeBytes >= 0 ? '+' : ''}${runtimeBytes - ascensoBaseline.runtimeBytes}); gzip ${ascensoBaseline.runtimeGzipBytes} → ${runtimeGzipBytes} bytes (${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes >= 0 ? '+' : ''}${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes}).`
       : `\`players.json\`: ${runtimeBytes} bytes, gzip ${runtimeGzipBytes} bytes (sin línea base registrada).`,

@@ -19,6 +19,10 @@ export function parseArg2Tops(text) {
   const rows = []
   const rejected = []
   let season = null
+  // like `season`, the tournament marker carries forward across tied continuation rows (blank
+  // season, blank marker); an explicit season with no marker resets it (a season without a marker
+  // has no Apertura/Clausura split), and an explicit marker on a carried-forward season updates it.
+  let tournament = null
   for (const rawLine of text.split(/\r?\n/)) {
     const line = rawLine.replace(/\t/g, ' ')
     if (!line.trim()) continue
@@ -28,13 +32,18 @@ export function parseArg2Tops(text) {
     // a real row.
     const trimmedName = m?.[3].trim()
     if (m && trimmedName) {
-      const [, s, tournament, , team, goals] = m
-      if (s) season = s
+      const [, s, marker, , team, goals] = m
+      if (s) {
+        season = s
+        tournament = marker ?? null
+      } else if (marker) {
+        tournament = marker
+      }
       if (!season) {
         rejected.push(rawLine)
         continue
       }
-      rows.push({ season, startYear: startYearFromSeason(season), tournament: tournament ?? null, name: trimmedName, team: team.trim(), goals: Number(goals) })
+      rows.push({ season, startYear: startYearFromSeason(season), tournament, name: trimmedName, team: team.trim(), goals: Number(goals) })
       continue
     }
     if (CANDIDATE_ROW.test(line)) rejected.push(rawLine)
@@ -43,16 +52,40 @@ export function parseArg2Tops(text) {
   return { rows, rejected }
 }
 
+// A namesake gap this wide almost certainly spans two different people sharing a name rather than
+// one career (RSSSF ARG2 covers 1937-2007/08, a 70+ year range); split the group instead of
+// merging their goals/teams/years into one entry.
+const MAX_NAMESAKE_GAP_YEARS = 15
+
+function buildArg2Entry(groupRows) {
+  const years = groupRows.map((r) => r.startYear)
+  return {
+    name: groupRows[0].name,
+    teams: groupRows.map((r) => r.team),
+    years: [Math.min(...years), Math.max(...years)],
+    extraGoals: groupRows.reduce((sum, r) => sum + r.goals, 0),
+  }
+}
+
 export function aggregateArg2(rows) {
   const byName = new Map()
   for (const r of rows) {
     const key = norm(r.name)
-    const e = byName.get(key) ?? { name: r.name, teams: [], goals: 0, minYear: r.startYear, maxYear: r.startYear }
-    e.goals += r.goals
-    e.teams.push(r.team)
-    e.minYear = Math.min(e.minYear, r.startYear)
-    e.maxYear = Math.max(e.maxYear, r.startYear)
-    byName.set(key, e)
+    if (!byName.has(key)) byName.set(key, [])
+    byName.get(key).push(r)
   }
-  return [...byName.values()].map((e) => ({ name: e.name, teams: e.teams, years: [e.minYear, e.maxYear], extraGoals: e.goals }))
+  const entries = []
+  for (const groupRows of byName.values()) {
+    const sorted = [...groupRows].sort((a, b) => a.startYear - b.startYear)
+    let current = []
+    for (const r of sorted) {
+      if (current.length && r.startYear - current[current.length - 1].startYear > MAX_NAMESAKE_GAP_YEARS) {
+        entries.push(buildArg2Entry(current))
+        current = []
+      }
+      current.push(r)
+    }
+    if (current.length) entries.push(buildArg2Entry(current))
+  }
+  return entries
 }

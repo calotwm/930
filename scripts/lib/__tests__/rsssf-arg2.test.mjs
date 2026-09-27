@@ -79,6 +79,12 @@ describe('parseArg2Tops', () => {
     const { rejected } = parseArg2Tops(FIXTURE)
     expect(rejected.some((l) => l.includes('(Sin Nombre)'))).toBe(true)
   })
+
+  it('carries the Ape/Cla tournament marker forward across a tied continuation row with no marker of its own (regression)', () => {
+    const { rows } = parseArg2Tops(FIXTURE)
+    const torres = rows.find((r) => r.name === 'Cristian Torres')
+    expect(torres).toEqual({ season: '2002/03', startYear: 2002, tournament: 'Ape', name: 'Cristian Torres', team: 'Quilmes', goals: 13 })
+  })
 })
 
 describe('aggregateArg2', () => {
@@ -99,5 +105,18 @@ describe('aggregateArg2', () => {
     expect(entries).toHaveLength(2)
     const scandone = entries.find((e) => e.name === 'Ernesto Scandone')
     expect(scandone).toEqual({ name: 'Ernesto Scandone', teams: ['Estudiantes de BA', 'Boca Juniors'], years: [1937, 1940], extraGoals: 23 })
+  })
+
+  it('splits a namesake group into separate entries when consecutive seasons are more than 15 years apart (avoids merging far-apart namesakes)', () => {
+    const rows = [
+      { season: '1937', startYear: 1937, tournament: null, name: 'Juan Pérez', team: 'Club A', goals: 10 },
+      { season: '1938', startYear: 1938, tournament: null, name: 'Juan Pérez', team: 'Club A', goals: 5 },
+      { season: '1960', startYear: 1960, tournament: null, name: 'Juan Pérez', team: 'Club B', goals: 8 },
+    ]
+    const entries = aggregateArg2(rows)
+    const perez = entries.filter((e) => e.name === 'Juan Pérez')
+    expect(perez).toHaveLength(2)
+    expect(perez[0]).toEqual({ name: 'Juan Pérez', teams: ['Club A', 'Club A'], years: [1937, 1938], extraGoals: 15 })
+    expect(perez[1]).toEqual({ name: 'Juan Pérez', teams: ['Club B'], years: [1960, 1960], extraGoals: 8 })
   })
 })

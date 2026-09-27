@@ -7,11 +7,13 @@ export function GameHeader({
   onReset,
   canReset,
   club = null,
+  ascenso = false,
   onHome,
 }: {
   onReset: () => void
   canReset: boolean
   club?: Club | null
+  ascenso?: boolean
   onHome?: () => void
 }) {
   return (
@@ -36,6 +38,8 @@ export function GameHeader({
               <ClubCrest club={club} size="xs" />
               Modo {club.short}
             </span>
+          ) : ascenso ? (
+            <span className="text-[10px] font-extrabold tracking-[0.28em] text-celeste-soft uppercase">Modo ascenso</span>
           ) : (
             <span className="text-[10px] font-extrabold tracking-[0.28em] text-celeste-soft uppercase">Desafío histórico</span>
           )}

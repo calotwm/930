@@ -25,3 +25,14 @@ describe('club mode', () => {
     expect(screen.getByRole('heading', { name: /igualar a Messi/i })).toBeInTheDocument()
   })
 })
+
+describe('ascenso mode', () => {
+  it('starts a game limited to the ascenso pool', () => {
+    render(<App />)
+    fireEvent.click(screen.getByRole('button', { name: /modo ascenso/i }))
+    expect(screen.getByRole('region', { name: 'Marcador' })).toBeInTheDocument()
+    expect(screen.getByText(/Modo ascenso/i)).toBeInTheDocument()
+    fireEvent.click(screen.getByRole('button', { name: /volver al inicio/i }))
+    expect(screen.getByRole('heading', { name: /igualar a Messi/i })).toBeInTheDocument()
+  })
+})

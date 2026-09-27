@@ -10,6 +10,7 @@ import { ProgressBar } from '../components/ProgressBar'
 import { LostScreen, VictoryScreen } from '../components/VictoryScreen'
 import { PLAYERS } from '../data/players'
 import { storageKeyFor, useGame } from '../hooks/useGame'
+import { ascensoPool } from '../lib/ascenso'
 import { clubPool, type Club } from '../lib/clubs'
 import { DEFAULT_FORMATION } from '../lib/formations'
 import { usedPlayerIds } from '../lib/gameRules'
@@ -21,10 +22,19 @@ import type { Player } from '../lib/types'
 
 const formation = DEFAULT_FORMATION
 
-export function Home({ club = null, onHome }: { club?: Club | null; onHome?: () => void }) {
+export function Home({
+  club = null,
+  ascenso = false,
+  onHome,
+}: {
+  club?: Club | null
+  ascenso?: boolean
+  onHome?: () => void
+}) {
   // club mode: only players who played for that club (career goals count)
-  const pool = useMemo(() => (club ? clubPool(PLAYERS, club) : PLAYERS), [club])
-  const game = useGame(formation, pool, storageKeyFor(club?.id ?? null))
+  // ascenso mode: only players with evidence-based ascenso participation
+  const pool = useMemo(() => (club ? clubPool(PLAYERS, club) : ascenso ? ascensoPool(PLAYERS) : PLAYERS), [club, ascenso])
+  const game = useGame(formation, pool, storageKeyFor(club?.id ?? null, ascenso))
   const index = useMemo(() => buildIndex(pool), [pool])
   const [activeSlot, setActiveSlot] = useState<string | null>(null)
   const [shareLabel, setShareLabel] = useState('Compartir resultado')
@@ -66,7 +76,7 @@ export function Home({ club = null, onHome }: { club?: Club | null; onHome?: () 
     <>
       <div className="flag-stripe fixed inset-x-0 top-0 z-30 h-1" aria-hidden="true" />
       <div className="mx-auto flex min-h-dvh w-full max-w-md flex-col gap-4 px-4 pt-[calc(1rem+env(safe-area-inset-top))] pb-[calc(1.25rem+env(safe-area-inset-bottom))] md:max-w-xl lg:max-w-2xl">
-        <GameHeader onReset={restart} canReset={game.filled > 0} club={club} onHome={onHome} />
+        <GameHeader onReset={restart} canReset={game.filled > 0} club={club} ascenso={ascenso} onHome={onHome} />
 
         <section aria-label="Marcador" className="scoreboard space-y-3 rounded-3xl px-4 pt-4 pb-3.5">
           <GoalCounter total={game.total} status={game.status} delta={game.delta} />
@@ -92,6 +102,10 @@ export function Home({ club = null, onHome }: { club?: Club | null; onHome?: () 
               <>
                 ¿Los igualás solo con jugadores que pasaron por <b className="text-chalk">{club.name}</b>? Cuentan los goles de
                 toda su carrera.
+              </>
+            ) : ascenso ? (
+              <>
+                ¿Los igualás solo con jugadores que pasaron por el ascenso? Cuentan los goles de toda su carrera.
               </>
             ) : (
               '¿Los igualás con un XI histórico argentino?'

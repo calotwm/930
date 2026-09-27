@@ -21,8 +21,9 @@ import type { Formation, Lineup, Player } from '../lib/types'
 
 const STORAGE_KEY = '930:game:v4'
 
-/** each mode (classic, one per club) keeps its own saved game */
-export const storageKeyFor = (clubId: string | null) => (clubId ? `${STORAGE_KEY}:club:${clubId}` : STORAGE_KEY)
+/** each mode (classic, one per club, ascenso) keeps its own saved game */
+export const storageKeyFor = (clubId: string | null, ascenso = false) =>
+  ascenso ? `${STORAGE_KEY}:ascenso` : clubId ? `${STORAGE_KEY}:club:${clubId}` : STORAGE_KEY
 
 type Action =
   | { type: 'assign'; slotId: string; player: Player }

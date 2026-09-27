@@ -2,17 +2,23 @@
 // Every number comes from a downloaded source file; nothing is typed by hand.
 import fs from 'node:fs'
 import path from 'node:path'
+import zlib from 'node:zlib'
 import { CLUB_SOURCES, parseClubLists, positionFromWiki } from './club-lists.mjs'
 import { WIKI_TABLES, parseWikiTables } from './wiki-tables.mjs'
 import { COMPS, EDITIONS, argentineClubs, parseAllTime, parseEditions, wikiUrl } from './cup-tables.mjs'
 import { parseStatsTable } from './player-stats.mjs'
 import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
+import { ADDABLE_SCOPES, createNameIndex, nameWithin, norm, resolveAscensoEntry, sameClub } from './lib/ascenso-matching.mjs'
+import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso, partialTagsFor } from './lib/ascenso-flag.mjs'
+import { aggregateArg2, parseArg2Tops } from './lib/rsssf-arg2.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
 const OUT = path.join(ROOT, 'src', 'data', 'players.json')
 const REPORT = path.join(ROOT, 'data-sources', 'REPORT.md')
 const FULL = path.join(ROOT, 'data-sources', 'players.full.json')
+const BASELINE = path.join(ROOT, 'data-sources', 'ascenso-baseline.json')
+const RECORD_BASELINE = process.argv.includes('--record-baseline')
 
 const RSSSF_URL = 'https://www.rsssf.org/tablesa/argtops-allt.html'
 const RSSSF_UPDATED = '17/08/2023'
@@ -20,8 +26,6 @@ const CURRENT_YEAR = 2026
 // first season Transfermarkt's all-time scorer lists cover (checked by querying season windows)
 const TM_COVERAGE_START = { P1: 1990, ARG2: 2008 }
 
-const norm = (s) =>
-  s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim()
 const slug = (s) => norm(s).replace(/ /g, '-')
 
 const LOWER_PARTICLES = new Set(['de', 'la', 'del', 'y'])
@@ -325,6 +329,7 @@ function main() {
           },
         ]
       }
+      if (e.recs.ARG2) addAscensoEvidence(hit.p, EVIDENCE.TM_ARG2)
       // Transfermarkt gives the real position for modern RSSSF players
       hit.p.position = position
       hit.p.review = hit.p.review.filter((x) => x !== 'position-unverified')
@@ -345,7 +350,7 @@ function main() {
       review.push('season-list-truncated')
     }
     const parts = e.name.split(' ')
-    players.push({
+    const tmPlayer = {
       id: slug(e.name),
       name: e.name,
       shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
@@ -374,7 +379,9 @@ function main() {
       },
       tmId: e.tmId,
       review,
-    })
+    }
+    if (e.recs.ARG2) addAscensoEvidence(tmPlayer, EVIDENCE.TM_ARG2)
+    players.push(tmPlayer)
     tmAdded++
   }
   report.push(
@@ -397,15 +404,10 @@ function main() {
   const clubDir = path.join(RAW, 'club-lists')
   const { rows: clubRows, rejected: clubRejected } = parseClubLists(clubDir)
   const wikiPos = JSON.parse(fs.readFileSync(path.join(clubDir, 'wikipedia-positions.json'), 'utf8'))
-  const known = players.map((p) => norm(p.name).split(' '))
-  const isKnown = (name) => {
-    const t = norm(name).split(' ')
-    const sur = t.at(-1)
-    return known.some((k) => k.at(-1) === sur && k.some((w) => w !== sur && t.includes(w)))
-  }
+  const nameIndex = createNameIndex(players.map((p) => p.name))
   const clubAdds = new Map()
   for (const r of clubRows) {
-    if (isKnown(r.name)) continue
+    if (nameIndex.isKnown(r.name)) continue
     const wp = wikiPos[`${r.club}|${r.name}`]
     const display = (wp?.title ?? r.name).replace(/\s*\(futbolista[^)]*\)/, '')
     const key = norm(display)
@@ -450,7 +452,7 @@ function main() {
   const wikiDir = path.join(RAW, 'wikipedia')
   const { rows: wikiRows, rejected: wikiRejected } = parseWikiTables(wikiDir)
   const wikiInfo = JSON.parse(fs.readFileSync(path.join(wikiDir, 'positions.json'), 'utf8'))
-  for (const p of players) known.push(norm(p.name).split(' '))
+  for (const p of players) nameIndex.add(p.name)
   const wikiAdds = new Map()
   const primeraCheck = []
   const upgraded = []
@@ -477,7 +479,7 @@ function main() {
         primeraCheck.push(`${existing.name}: dataset ${league} vs Wikipedia ${r.goals} (${r.table.file})`)
       continue
     }
-    if (isKnown(r.name)) continue
+    if (nameIndex.isKnown(r.name)) continue
     const key = norm(r.name)
     const prev = wikiAdds.get(key)
     if (prev) {
@@ -515,7 +517,7 @@ function main() {
   }
   for (const { kind, ...p } of wikiAdds.values()) {
     players.push(p)
-    known.push(norm(p.name).split(' '))
+    nameIndex.add(p.name)
   }
   report.push(
     `Tablas de Wikipedia (${WIKI_TABLES.length}: ${WIKI_TABLES.map((t) => t.club ?? 'Primera').join(', ')}): ${wikiRows.length} filas válidas, ${wikiAdds.size} jugadores agregados, ${wikiRejected.length} filas descartadas. Totales de un solo club reemplazados por la carrera en Primera: ${upgraded.length}${upgraded.length ? ` (${upgraded.join('; ')})` : ''}. Diferencias de 5+ goles con la tabla de Primera: ${primeraCheck.length} (ver abajo).`,
@@ -549,9 +551,6 @@ function main() {
   for (const p of players) nameCount.set(norm(p.name), (nameCount.get(norm(p.name)) ?? 0) + 1)
   const byName = new Map(players.filter((p) => nameCount.get(norm(p.name)) === 1).map((p) => [norm(p.name), p]))
   // a cup row belongs to a dataset player only if one of its teams is one of his clubs
-  const GENERIC = new Set(['club', 'atletico', 'deportivo', 'sportivo', 'social', 'de', 'la', 'y', 'del', 'cultural', 'asociacion', 'ca', 'cd', 'fc', 'lp'])
-  const words = (s) => norm(s).split(' ').filter((w) => w.length > 2 && !GENERIC.has(w))
-  const sameClub = (teams, clubs) => teams.some((t) => clubs.some((c) => words(c).some((w) => words(t).includes(w))))
   const cupLog = { upgraded: 0, exact: 0, added: 0, unmatched: [] }
   const perComp = {}
   for (const w of ed.perPlayer.values()) {
@@ -579,9 +578,12 @@ function main() {
       .reduce((s, x) => s + +x.split(': ')[1], 0)
     const intl = (add.libertadores ?? 0) + (add.sudamericana ?? 0) + (add.supercopa ?? 0)
     const dom = (add.copaArgentina ?? 0) + (add.copaLiga ?? 0)
+    const hasAscensoEdition = w.editions.some((x) => x.startsWith(COMPS.ascenso.label + ' '))
+    // recorded before the LEAGUE_ONLY early continue below: participation evidence, not a goals decision
+    if (p && hasAscensoEdition) addAscensoEvidence(p, EVIDENCE.WIKI_EDITIONS)
     if (!p) {
       if (!(w.goals.ascenso > 0)) continue // cup-only rows are not enough for a card
-      if (isKnown(w.name)) {
+      if (nameIndex.isKnown(w.name)) {
         cupLog.unmatched.push(w.name)
         continue
       }
@@ -606,6 +608,7 @@ function main() {
         editions: w.editions,
         review: ['editions-partial', ...(position ? [] : ['position-unverified'])],
       }
+      addAscensoEvidence(p2, EVIDENCE.WIKI_EDITIONS)
       players.push(p2)
       byName.set(norm(p2.name), p2)
       cupLog.added++
@@ -661,61 +664,145 @@ function main() {
       const pretty = (x) => (x === x.toUpperCase() ? titleCase(x) : x)
       const name = pretty(rawName)
       const team = pretty(rawTeam)
-      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, extra: 0, teams: [], seasons: [] }
+      const e = saPlayers.get(norm(name)) ?? { name, div: s.div, goals: 0, extra: 0, teams: [], seasons: [], years: [] }
       e.goals += goals
       // goals Transfermarkt totals cannot already include
       if (!SA_DIVISIONS[s.div].coveredByTm) e.extra += goals
       e.teams.push(team)
+      // the capture year of the archived copy stands in for the season year (only known year signal)
+      e.years.push(Number(s.timestamp.slice(0, 4)))
       e.seasons.push(`${s.label} (copia del ${s.timestamp.slice(6, 8)}/${s.timestamp.slice(4, 6)}/${s.timestamp.slice(0, 4)}): ${goals}`)
       saPlayers.set(norm(name), e)
     }
   }
-  const saLog = { added: 0, raised: 0, unmatched: 0 }
-  const SA_ADDABLE = new Set([...TM_SCOPES, 'Liga (Primera), carrera'])
+  // Recovery pass: every entry (including rows a plain sameClub-only check would previously have
+  // discarded as "sin sumar") is routed through the shared strict-corroboration decision function.
+  const saLog = { merged: 0, flagged: 0, added: 0, discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 } }
+  // Source-neutral: collects every era-only corroboration (no club overlap) across ALL ascenso
+  // layers below (Solo Ascenso, RSSSF ARG2, and future BDFA), since every one of them shares the
+  // same `ascenso-era-match` review tag and manual-review list.
+  const ascensoEraMatches = []
   for (const e of saPlayers.values()) {
-    const p = byName.get(norm(e.name))
-    if (p) {
+    const years = e.years.length ? [Math.min(...e.years), Math.max(...e.years)] : null
+    const entry = { name: e.name, teams: e.teams, years, extraGoals: e.extra }
+    const result = resolveAscensoEntry(entry, players, {
       // only totals that cannot already include these divisions
-      if (!e.extra || !SA_ADDABLE.has(p.scope.split(' + ')[0]) || !sameClub(e.teams, p.clubs ?? [])) {
-        saLog.unmatched++
-        continue
+      canAddGoals: (p) => entry.extraGoals > 0 && ADDABLE_SCOPES.has(p.scope.split(' + ')[0]),
+    })
+    if (result.action === 'merge' || result.action === 'flag') {
+      const p = result.target
+      if (result.action === 'merge') {
+        p.goals += entry.extraGoals
+        p.leagueGoals = (p.leagueGoals ?? 0) + entry.extraGoals
+        p.scope = `${p.scope} + ascenso metropolitano/federal`
+        p.saSources = e.seasons
       }
-      p.goals += e.extra
-      p.leagueGoals = (p.leagueGoals ?? 0) + e.extra
-      p.scope = `${p.scope} + ascenso metropolitano/federal`
-      p.saSources = e.seasons
-      ;(p.review ??= []).push('soloascenso-partial')
-      saLog.raised++
+      for (const tag of partialTagsFor(result, 'soloascenso-partial')) (p.review ??= []).push(tag)
+      if (result.eraOnly) ascensoEraMatches.push(p.name)
+      addAscensoEvidence(p, EVIDENCE.SOLOASCENSO)
+      saLog[result.action === 'merge' ? 'merged' : 'flagged']++
       continue
     }
-    if (isKnown(e.name) || nameCount.get(norm(e.name)) > 0) {
-      saLog.unmatched++
+    if (result.action === 'add') {
+      const parts = e.name.split(' ')
+      const p2 = {
+        id: slug(e.name),
+        name: e.name,
+        shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
+        position: 'ST',
+        goals: e.goals,
+        leagueGoals: e.goals,
+        club: mostCommon(e.teams),
+        clubs: [...new Set(e.teams)],
+        division: 'Ascenso',
+        scope: 'Ascenso metropolitano/federal (goleadores por torneo, parcial)',
+        era: '—',
+        source: { name: 'Solo Ascenso — goleadores (copias de Internet Archive)', url: saUrl(e.div) },
+        saSources: e.seasons,
+        review: ['soloascenso-partial', 'position-unverified'],
+      }
+      addAscensoEvidence(p2, EVIDENCE.SOLOASCENSO)
+      players.push(p2)
+      byName.set(norm(p2.name), p2)
+      saLog.added++
       continue
     }
-    const parts = e.name.split(' ')
-    const p2 = {
-      id: slug(e.name),
-      name: e.name,
-      shortName: parts.length > 1 ? parts.slice(1).join(' ') : e.name,
-      position: 'ST',
-      goals: e.goals,
-      leagueGoals: e.goals,
-      club: mostCommon(e.teams),
-      clubs: [...new Set(e.teams)],
-      division: 'Ascenso',
-      scope: 'Ascenso metropolitano/federal (goleadores por torneo, parcial)',
-      era: '—',
-      source: { name: 'Solo Ascenso — goleadores (copias de Internet Archive)', url: saUrl(e.div) },
-      saSources: e.seasons,
-      review: ['soloascenso-partial', 'position-unverified'],
-    }
-    players.push(p2)
-    byName.set(norm(p2.name), p2)
-    saLog.added++
+    saLog.discarded[result.reason] = (saLog.discarded[result.reason] ?? 0) + 1
   }
+  const saDiscardedTotal = Object.values(saLog.discarded).reduce((a, b) => a + b, 0)
   report.push(
-    `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.raised} totales sumados, ${saLog.added} jugadores de ascenso agregados, ${saLog.unmatched} sin sumar (club distinto, nombre ambiguo o total que ya incluye esas divisiones).`,
+    `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.merged} totales sumados, ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores de ascenso agregados, ${saDiscardedTotal} sin sumar (club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}).`,
   )
+
+  // RSSSF ARG2 dormant source: "Argentina - List of Second Level Topscorers" (1937-2007/08), a
+  // plain-text scorer-per-season list covering mostly pre-1986 seasons no other source reaches.
+  // Never raises an existing player's total (many post-1986 seasons already overlap Wikipedia's
+  // summed ascenso editions) — only flags participation evidence or adds brand-new players.
+  // RSSSF's own per-season scorer coverage is not universal across every division/decade (see
+  // research notes), so this parser must tolerate seasons with no scorer row rather than assume
+  // every season in the covered range produced a row; parsed/skipped counts are reported below.
+  const arg2Path = path.join(RAW, 'rsssf-arg2tops.html')
+  const arg2Available = fs.existsSync(arg2Path)
+  let arg2Rows = []
+  let arg2Rejected = []
+  let arg2Entries = []
+  const arg2Log = {
+    flagged: 0,
+    added: 0,
+    discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 },
+  }
+  if (arg2Available) {
+    const arg2Html = fs.readFileSync(arg2Path, 'latin1')
+    const arg2Text = arg2Html.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+    ;({ rows: arg2Rows, rejected: arg2Rejected } = parseArg2Tops(arg2Text))
+    arg2Entries = aggregateArg2(arg2Rows).map((e) => ({ ...e, teams: e.teams.map(cleanClub) }))
+  }
+  const arg2Seasons = [...new Set(arg2Rows.map((r) => r.season))].sort()
+  const arg2SeasonsRange = arg2Seasons.length ? `${arg2Seasons[0]}–${arg2Seasons.at(-1)}` : 'sin temporadas'
+  for (const entry of arg2Entries) {
+    // RSSSF ARG2 never adds goals to an existing player: overlap risk with Wikipedia's summed
+    // ascenso editions for the same seasons is too high to sum safely.
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => false })
+    if (result.action === 'merge' || result.action === 'flag') {
+      const p = result.target
+      for (const tag of partialTagsFor(result, 'rsssf-arg2-partial')) (p.review ??= []).push(tag)
+      if (result.eraOnly) ascensoEraMatches.push(p.name)
+      addAscensoEvidence(p, EVIDENCE.RSSSF_ARG2)
+      arg2Log.flagged++
+      continue
+    }
+    if (result.action === 'add') {
+      const parts = entry.name.split(' ')
+      const p2 = {
+        id: slug(entry.name),
+        name: entry.name,
+        shortName: parts.length > 1 ? parts.slice(1).join(' ') : entry.name,
+        position: 'ST',
+        goals: entry.extraGoals,
+        leagueGoals: entry.extraGoals,
+        club: mostCommon(entry.teams),
+        clubs: [...new Set(entry.teams)],
+        division: 'Primera Nacional',
+        scope: 'Segunda división (goleador de la temporada, parcial)',
+        era: eraFromYears(entry.years[0], entry.years[1]),
+        source: { name: 'RSSSF — Argentina Second Level Topscorers', url: 'https://www.rsssf.org/tablesa/arg2tops.html' },
+        review: ['rsssf-arg2-partial', 'position-unverified'],
+      }
+      addAscensoEvidence(p2, EVIDENCE.RSSSF_ARG2)
+      players.push(p2)
+      byName.set(norm(p2.name), p2)
+      arg2Log.added++
+      continue
+    }
+    arg2Log.discarded[result.reason] = (arg2Log.discarded[result.reason] ?? 0) + 1
+  }
+  const arg2DiscardedTotal = Object.values(arg2Log.discarded).reduce((a, b) => a + b, 0)
+  report.push(
+    arg2Available
+      ? `RSSSF ARG2 (Segunda división histórica, 1937-2007/08): ${arg2Rows.length} filas parseadas en ${arg2Seasons.length} temporadas (${arg2SeasonsRange}), ${arg2Rejected.length} filas rechazadas por formato; ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados (club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}).`
+      : 'RSSSF ARG2 (Segunda división histórica, 1937-2007/08): fuente no encontrada (data-sources/raw/rsssf-arg2tops.html ausente); capa omitida.',
+  )
+  for (const l of arg2Rejected) skipped.push(`RSSSF ARG2 — fila no reconocida: ${l.trim()}`)
 
   // Player pages: career table per club and competition. Goals with Argentine clubs replace the
   // current number when larger (the other sources undercount cups); big drops are only reported.
@@ -921,10 +1008,6 @@ function main() {
   report.push(`Máximos goleadores por club (data-sources/club-top-scorers.json): ${topLog.raised} totales subidos, ${topLog.added.length} jugadores agregados (${topLog.added.join(', ')}).`)
 
   // clubs a player also played for (data-sources/club-links.json, from the lists given by the game's author)
-  const nameWithin = (a, b) => {
-    const [s, l] = [norm(a).split(' '), norm(b).split(' ')].sort((x, y) => x.length - y.length)
-    return s.at(-1) === l.at(-1) && s.every((w) => l.includes(w))
-  }
   const linkLog = { clubs: 0, missing: [] }
   for (const l of JSON.parse(fs.readFileSync(path.join(ROOT, 'data-sources', 'club-links.json'), 'utf8'))) {
     let p = players.filter((x) => norm(x.name) === norm(l.name))
@@ -939,6 +1022,11 @@ function main() {
   }
   report.push(`Clubes por jugador (data-sources/club-links.json): ${linkLog.clubs} clubes sumados; sin jugador que coincida: ${[...new Set(linkLog.missing)].join(', ') || 'ninguno'}.`)
 
+  // playedAscenso: evidence-based lower bound, derived last so later steps above (manual corrections,
+  // club aliases, categories, top scorers, links) cannot desynchronize it from the final record
+  for (const p of players) {
+    if (derivePlayedAscenso(p)) p.playedAscenso = true
+  }
 
   // unique ids
   const seen = new Map()
@@ -959,11 +1047,38 @@ function main() {
 
   // full audit copy (review flags, discrepancies) next to the report; the app ships a slim copy
   fs.writeFileSync(FULL, JSON.stringify(players, null, 1) + '\n')
-  const runtime = players.map(({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, editions: _e, cupSources: _c, saSources: _sa, ...p }) => ({
-    ...p,
-    source: { name: p.source.name, url: p.source.url },
-  }))
-  fs.writeFileSync(OUT, JSON.stringify(runtime))
+  const runtime = players.map(
+    ({ fullName: _f, review: _r, discrepancies: _d, secondarySource: _s, editions: _e, cupSources: _c, saSources: _sa, ascensoEvidence: _ae, ...p }) => ({
+      ...p,
+      source: { name: p.source.name, url: p.source.url },
+    }),
+  )
+  const runtimeJson = JSON.stringify(runtime)
+  const runtimeBytes = Buffer.byteLength(runtimeJson)
+  const runtimeGzipBytes = zlib.gzipSync(runtimeJson).length
+  const playedAscensoCount = players.filter((p) => p.playedAscenso).length
+
+  // baseline captures the pre-overwrite on-disk runtime file's size and this run's derived
+  // playedAscenso count; recorded once (`--record-baseline`) and kept fixed for the rest of this change
+  if (RECORD_BASELINE) {
+    const prevBytes = fs.existsSync(OUT) ? fs.readFileSync(OUT) : Buffer.alloc(0)
+    fs.writeFileSync(
+      BASELINE,
+      JSON.stringify(
+        {
+          players: players.length,
+          playedAscenso: playedAscensoCount,
+          runtimeBytes: prevBytes.length,
+          runtimeGzipBytes: zlib.gzipSync(prevBytes).length,
+        },
+        null,
+        1,
+      ) + '\n',
+    )
+  }
+  const ascensoBaseline = fs.existsSync(BASELINE) ? JSON.parse(fs.readFileSync(BASELINE, 'utf8')) : null
+
+  fs.writeFileSync(OUT, runtimeJson)
 
   const count = (f) => players.filter(f).length
   const md = [
@@ -977,9 +1092,25 @@ function main() {
     '',
     '## Resumen',
     ...report.map((r) => `- ${r}`),
-    `- Primera: ${count((p) => p.division === 'Primera')} · Primera Nacional: ${count((p) => p.division === 'Primera Nacional')}`,
+    `- Primera: ${count((p) => p.division === 'Primera')} · Primera Nacional: ${count((p) => p.division === 'Primera Nacional')} · Ascenso: ${count((p) => p.division === 'Ascenso')}`,
     `- Por posición: ${['GK', 'CB', 'LB', 'RB', 'DM', 'CM', 'AM', 'LW', 'RW', 'ST'].map((x) => `${x} ${count((p) => p.position === x)}`).join(' · ')}`,
     `- Marcados para revisión: ${count((p) => p.review?.length)}`,
+    '',
+    '## Ascenso',
+    ascensoBaseline
+      ? `\`playedAscenso\`: ${ascensoBaseline.playedAscenso} (línea base) → ${playedAscensoCount} (actual, ${playedAscensoCount - ascensoBaseline.playedAscenso >= 0 ? '+' : ''}${playedAscensoCount - ascensoBaseline.playedAscenso}).`
+      : `\`playedAscenso\`: ${playedAscensoCount} (sin línea base registrada; correr con \`--record-baseline\`).`,
+    `Por evidencia: ${Object.values(EVIDENCE).map((tag) => `\`${tag}\` ${count((p) => p.ascensoEvidence?.includes(tag))}`).join(' · ')}.`,
+    `Solo Ascenso (recuperación con corroboración estricta): ${saLog.merged} fusionados (goles sumados), ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores agregados, ${saDiscardedTotal} descartados — club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}.`,
+    ascensoEraMatches.length
+      ? `\`ascenso-era-match\` (corroborado solo por era, sin coincidencia de club — revisar manualmente): ${ascensoEraMatches.join(', ')}.`
+      : '`ascenso-era-match`: ninguno.',
+    arg2Available
+      ? `RSSSF ARG2 (Segunda división histórica, ${arg2Seasons.length} temporadas parseadas de ${arg2SeasonsRange}, ${arg2Rejected.length} filas rechazadas por formato): ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados — club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}.`
+      : 'RSSSF ARG2: fuente no encontrada; capa omitida.',
+    ascensoBaseline
+      ? `\`players.json\`: ${ascensoBaseline.runtimeBytes} → ${runtimeBytes} bytes (${runtimeBytes - ascensoBaseline.runtimeBytes >= 0 ? '+' : ''}${runtimeBytes - ascensoBaseline.runtimeBytes}); gzip ${ascensoBaseline.runtimeGzipBytes} → ${runtimeGzipBytes} bytes (${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes >= 0 ? '+' : ''}${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes}).`
+      : `\`players.json\`: ${runtimeBytes} bytes, gzip ${runtimeGzipBytes} bytes (sin línea base registrada).`,
     '',
     '## Discrepancias entre fuentes (se usa RSSSF)',
     ...(discrepancyLog.length ? discrepancyLog.map((d) => `- ${d}`) : ['- Ninguna']),
@@ -1003,7 +1134,9 @@ function main() {
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
     '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
     '- `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
+    '- `rsssf-arg2-partial`: goles de Segunda división histórica (1937-2007/08) tomados de la lista RSSSF de goleadores por temporada (solo el/los goleador/es de cada temporada); el número real puede ser mayor.',
     '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
+    '- `ascenso-era-match`: fuente de ascenso fusionada/marcada por coincidencia de era solamente (sin coincidencia de club); revisar manualmente.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,
     ...players
       .filter((p) => p.review?.some((r) => r !== 'position-unverified' && !r.startsWith('seasons-before') && r !== 'season-list-truncated'))

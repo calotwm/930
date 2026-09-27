@@ -6,10 +6,12 @@ export function StartScreen({
   playerCount,
   onStart,
   onClubMode,
+  onAscensoMode,
 }: {
   playerCount: number
   onStart: () => void
   onClubMode?: () => void
+  onAscensoMode?: () => void
 }) {
   return (
     <div className="relative min-h-dvh overflow-hidden" role="main" aria-label="Inicio">
@@ -59,6 +61,15 @@ export function StartScreen({
               className="rounded-2xl border border-celeste/40 bg-celeste/10 py-3.5 font-extrabold tracking-wide text-celeste-soft uppercase transition active:scale-[0.98]"
             >
               Modo por club
+            </button>
+          )}
+          {onAscensoMode && (
+            <button
+              type="button"
+              onClick={onAscensoMode}
+              className="rounded-2xl border border-celeste/40 bg-celeste/10 py-3.5 font-extrabold tracking-wide text-celeste-soft uppercase transition active:scale-[0.98]"
+            >
+              Modo ascenso
             </button>
           )}
           <p className="text-[12px] text-chalk-dim">

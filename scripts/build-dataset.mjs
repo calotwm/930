@@ -10,6 +10,7 @@ import { parseStatsTable } from './player-stats.mjs'
 import { SA_DIVISIONS, saUrl } from './fetch-soloascenso.mjs'
 import { ADDABLE_SCOPES, createNameIndex, nameWithin, norm, resolveAscensoEntry, sameClub } from './lib/ascenso-matching.mjs'
 import { EVIDENCE, addAscensoEvidence, derivePlayedAscenso, partialTagsFor } from './lib/ascenso-flag.mjs'
+import { aggregateArg2, parseArg2Tops } from './lib/rsssf-arg2.mjs'
 
 const ROOT = path.resolve(import.meta.dirname, '..')
 const RAW = path.join(ROOT, 'data-sources', 'raw')
@@ -730,6 +731,65 @@ function main() {
     `Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): ${saSeasons.length} torneos, ${saPlayers.size} jugadores; ${saLog.merged} totales sumados, ${saLog.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${saLog.added} jugadores de ascenso agregados, ${saDiscardedTotal} sin sumar (club-mismatch ${saLog.discarded['club-mismatch']}, ambiguous-name ${saLog.discarded['ambiguous-name']}, possible-duplicate ${saLog.discarded['possible-duplicate']}, namesake-unproven ${saLog.discarded['namesake-unproven']}).`,
   )
 
+  // RSSSF ARG2 dormant source: "Argentina - List of Second Level Topscorers" (1937-2007/08), a
+  // plain-text scorer-per-season list covering mostly pre-1986 seasons no other source reaches.
+  // Never raises an existing player's total (many post-1986 seasons already overlap Wikipedia's
+  // summed ascenso editions) — only flags participation evidence or adds brand-new players.
+  // RSSSF's own per-season scorer coverage is not universal across every division/decade (see
+  // research notes), so this parser must tolerate seasons with no scorer row rather than assume
+  // every season in the covered range produced a row; parsed/skipped counts are reported below.
+  const arg2Html = fs.readFileSync(path.join(RAW, 'rsssf-arg2tops.html'), 'latin1')
+  const arg2Text = arg2Html.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+  const { rows: arg2Rows, rejected: arg2Rejected } = parseArg2Tops(arg2Text)
+  const arg2Entries = aggregateArg2(arg2Rows).map((e) => ({ ...e, teams: e.teams.map(cleanClub) }))
+  const arg2Seasons = [...new Set(arg2Rows.map((r) => r.season))].sort()
+  const arg2Log = {
+    flagged: 0,
+    added: 0,
+    discarded: { 'club-mismatch': 0, 'ambiguous-name': 0, 'possible-duplicate': 0, 'namesake-unproven': 0 },
+  }
+  for (const entry of arg2Entries) {
+    // RSSSF ARG2 never adds goals to an existing player: overlap risk with Wikipedia's summed
+    // ascenso editions for the same seasons is too high to sum safely.
+    const result = resolveAscensoEntry(entry, players, { canAddGoals: () => false })
+    if (result.action === 'merge' || result.action === 'flag') {
+      const p = result.target
+      for (const tag of partialTagsFor(result, 'rsssf-arg2-partial')) (p.review ??= []).push(tag)
+      addAscensoEvidence(p, EVIDENCE.RSSSF_ARG2)
+      arg2Log.flagged++
+      continue
+    }
+    if (result.action === 'add') {
+      const parts = entry.name.split(' ')
+      const p2 = {
+        id: slug(entry.name),
+        name: entry.name,
+        shortName: parts.length > 1 ? parts.slice(1).join(' ') : entry.name,
+        position: 'ST',
+        goals: entry.extraGoals,
+        leagueGoals: entry.extraGoals,
+        club: mostCommon(entry.teams),
+        clubs: [...new Set(entry.teams)],
+        division: 'Primera Nacional',
+        scope: 'Segunda división (goleador de la temporada, parcial)',
+        era: eraFromYears(entry.years[0], entry.years[1]),
+        source: { name: 'RSSSF — Argentina Second Level Topscorers', url: 'https://www.rsssf.org/tablesa/arg2tops.html' },
+        review: ['rsssf-arg2-partial', 'position-unverified'],
+      }
+      addAscensoEvidence(p2, EVIDENCE.RSSSF_ARG2)
+      players.push(p2)
+      byName.set(norm(p2.name), p2)
+      arg2Log.added++
+      continue
+    }
+    arg2Log.discarded[result.reason] = (arg2Log.discarded[result.reason] ?? 0) + 1
+  }
+  const arg2DiscardedTotal = Object.values(arg2Log.discarded).reduce((a, b) => a + b, 0)
+  report.push(
+    `RSSSF ARG2 (Segunda división histórica, 1937-2007/08): ${arg2Rows.length} filas parseadas en ${arg2Seasons.length} temporadas (${arg2Seasons[0]}–${arg2Seasons.at(-1)}), ${arg2Rejected.length} filas rechazadas por formato; ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados (club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}).`,
+  )
+  for (const l of arg2Rejected) skipped.push(`RSSSF ARG2 — fila no reconocida: ${l.trim()}`)
+
   // Player pages: career table per club and competition. Goals with Argentine clubs replace the
   // current number when larger (the other sources undercount cups); big drops are only reported.
   const statsFile = path.join(wikiDir, 'player-stats.json')
@@ -1031,6 +1091,7 @@ function main() {
     saEraMatches.length
       ? `\`ascenso-era-match\` (corroborado solo por era, sin coincidencia de club — revisar manualmente): ${saEraMatches.join(', ')}.`
       : '`ascenso-era-match`: ninguno.',
+    `RSSSF ARG2 (Segunda división histórica, ${arg2Seasons.length} temporadas parseadas de ${arg2Seasons[0]} a ${arg2Seasons.at(-1)}, ${arg2Rejected.length} filas rechazadas por formato): ${arg2Log.flagged} marcados sin sumar goles (total ya cubierto por otra fuente), ${arg2Log.added} jugadores agregados, ${arg2DiscardedTotal} descartados — club-mismatch ${arg2Log.discarded['club-mismatch']}, ambiguous-name ${arg2Log.discarded['ambiguous-name']}, possible-duplicate ${arg2Log.discarded['possible-duplicate']}, namesake-unproven ${arg2Log.discarded['namesake-unproven']}.`,
     ascensoBaseline
       ? `\`players.json\`: ${ascensoBaseline.runtimeBytes} → ${runtimeBytes} bytes (${runtimeBytes - ascensoBaseline.runtimeBytes >= 0 ? '+' : ''}${runtimeBytes - ascensoBaseline.runtimeBytes}); gzip ${ascensoBaseline.runtimeGzipBytes} → ${runtimeGzipBytes} bytes (${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes >= 0 ? '+' : ''}${runtimeGzipBytes - ascensoBaseline.runtimeGzipBytes}).`
       : `\`players.json\`: ${runtimeBytes} bytes, gzip ${runtimeGzipBytes} bytes (sin línea base registrada).`,
@@ -1057,6 +1118,7 @@ function main() {
     `- position-unverified: ${count((p) => p.review?.includes('position-unverified'))} jugadores`,
     '- `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.',
     '- `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.',
+    '- `rsssf-arg2-partial`: goles de Segunda división histórica (1937-2007/08) tomados de la lista RSSSF de goleadores por temporada (solo el/los goleador/es de cada temporada); el número real puede ser mayor.',
     '- `editions-partial`: jugador de ascenso agregado solo desde esas tablas por edición.',
     '- `ascenso-era-match`: fuente de ascenso fusionada/marcada por coincidencia de era solamente (sin coincidencia de club); revisar manualmente.',
     `- seasons-before-*-not-counted: ${count((p) => p.review?.some((r) => r.startsWith('seasons-before')))} jugadores`,

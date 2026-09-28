@@ -44,10 +44,10 @@ function place(lineup: Lineup, slotId: string, p: Player): Lineup {
   return r.lineup
 }
 
-/** GK 0 + 4 DEF x10 + 2 MC x20 + MP 10 + DEL 300/290/250 = 930 */
+/** GK 1 + 4 DEF x10 + 2 MC x20 + MP 10 + DEL 300/290/250 = 931 (TARGET) */
 function winningLineup() {
   const players: Record<string, Player> = {
-    arq: mk('GK', 0),
+    arq: mk('GK', 1),
     'def-li': mk('LB', 10),
     'def-cl': mk('CB', 10),
     'def-cr': mk('CB', 10),
@@ -89,40 +89,40 @@ describe('scoring', () => {
   })
 
   it('calcula restantes y exceso', () => {
-    expect(remainingGoals(742)).toBe(188)
+    expect(remainingGoals(742)).toBe(TARGET - 742)
     expect(remainingGoals(943)).toBe(0)
-    expect(overBy(943)).toBe(13)
+    expect(overBy(943)).toBe(943 - TARGET)
     expect(overBy(900)).toBe(0)
   })
 
   it('detecta estados under / exact / over', () => {
-    expect(scoreStatus(929)).toBe('under')
+    expect(scoreStatus(TARGET - 1)).toBe('under')
     expect(scoreStatus(TARGET)).toBe('exact')
-    expect(scoreStatus(931)).toBe('over')
+    expect(scoreStatus(TARGET + 1)).toBe('over')
   })
 })
 
 describe('victoria', () => {
-  it('detecta exactamente 930 con 11 jugadores', () => {
+  it('detecta exactamente el objetivo con 11 jugadores', () => {
     const { lineup } = winningLineup()
-    expect(totalGoals(lineup)).toBe(930)
+    expect(totalGoals(lineup)).toBe(TARGET)
     expect(isComplete(F, lineup)).toBe(true)
     expect(isWin(F, lineup)).toBe(true)
     expect(validateLineup(F, lineup)).toEqual([])
   })
 
-  it('no gana si supera 930', () => {
+  it('no gana si supera el objetivo', () => {
     const { lineup } = winningLineup()
     const l = place(lineup, 'mp', mk('AM', 23))
-    expect(totalGoals(l)).toBe(943)
+    expect(totalGoals(l)).toBe(TARGET + 13)
     expect(isWin(F, l)).toBe(false)
     expect(overBy(totalGoals(l))).toBe(13)
   })
 
-  it('no gana con 930 si faltan jugadores', () => {
+  it('no gana con el objetivo si faltan jugadores', () => {
     let l = emptyLineup(F)
-    l = place(l, 'del-c', mk('ST', 930))
-    expect(totalGoals(l)).toBe(930)
+    l = place(l, 'del-c', mk('ST', TARGET))
+    expect(totalGoals(l)).toBe(TARGET)
     expect(isWin(F, l)).toBe(false)
   })
 
@@ -196,7 +196,7 @@ describe('solver (restricciones futuras / factibilidad)', () => {
     expect(sol).not.toBeNull()
     const lineup = { ...emptyLineup(F), ...sol }
     expect(validateLineup(F, lineup)).toEqual([])
-    expect(totalGoals(lineup)).toBe(930)
+    expect(totalGoals(lineup)).toBe(TARGET)
   })
 
   it('devuelve null cuando es imposible', () => {

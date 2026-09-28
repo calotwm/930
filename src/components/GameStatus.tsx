@@ -1,4 +1,4 @@
-import type { ScoreStatus } from '../lib/scoring'
+import { TARGET, type ScoreStatus } from '../lib/scoring'
 
 export function GameStatus({
   filled,
@@ -24,13 +24,13 @@ export function GameStatus({
   let message: string
   let tone = 'text-chalk'
   if (status === 'exact') {
-    message = filled === slots ? '¡930 exactos!' : `930 con ${filled}. Completá el XI`
+    message = filled === slots ? `¡${TARGET} exactos!` : `${TARGET} con ${filled}. Completá el XI`
     tone = 'text-sol'
   } else if (status === 'over') {
     message = `Te pasaste por ${overBy}`
     tone = 'text-bust'
   } else if (!possible) {
-    message = 'Así ya no llegás a 930'
+    message = `Así ya no llegás a ${TARGET}`
     tone = 'text-bust'
   } else {
     message = `${remaining} goles restantes`

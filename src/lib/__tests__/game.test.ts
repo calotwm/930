@@ -44,10 +44,10 @@ function place(lineup: Lineup, slotId: string, p: Player): Lineup {
   return r.lineup
 }
 
-/** GK 1 + 4 DEF x10 + 2 MC x20 + MP 10 + DEL 300/290/250 = 931 (TARGET) */
+/** GK (TARGET - 930) + 4 DEF x10 + 2 MC x20 + MP 10 + DEL 300/290/250 = TARGET */
 function winningLineup() {
   const players: Record<string, Player> = {
-    arq: mk('GK', 1),
+    arq: mk('GK', TARGET - 930),
     'def-li': mk('LB', 10),
     'def-cl': mk('CB', 10),
     'def-cr': mk('CB', 10),

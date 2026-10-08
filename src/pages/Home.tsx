@@ -97,7 +97,7 @@ export function Home({
         {game.filled === 0 && (
           <p className="-mt-1 text-center text-[13px] leading-snug text-chalk-dim">
             <b className="text-chalk">{TARGET}</b> son los goles oficiales de <b className="text-celeste-soft">Messi</b> (al
-            28/09/2026).{' '}
+            08/10/2026).{' '}
             {club ? (
               <>
                 ¿Los igualás solo con jugadores que pasaron por <b className="text-chalk">{club.name}</b>? Cuentan los goles de

@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **5819** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5821** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -19,13 +19,13 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Solo Ascenso (B Nacional, B Metro, C, D y Federal A/B/C, copias de Internet Archive): 48 torneos, 1493 jugadores; 378 totales sumados, 229 marcados sin sumar goles (total ya cubierto por otra fuente), 782 jugadores de ascenso agregados, 104 sin sumar (club-mismatch 48, ambiguous-name 45, possible-duplicate 8, namesake-unproven 3).
 - RSSSF ARG2 (Segunda división histórica, 1937-2007/08): 87 filas parseadas en 72 temporadas (1937–2007/08), 0 filas rechazadas por formato; 20 marcados sin sumar goles (total ya cubierto por otra fuente), 56 jugadores agregados, 4 descartados (club-mismatch 2, ambiguous-name 0, possible-duplicate 2, namesake-unproven 0).
 - Fichas de jugadores (Wikipedia): 1736 con tabla de estadísticas; 1020 totales subidos a los goles con clubes argentinos de la ficha, 105 sin usar porque ninguna ficha (o más de una) coincide por club, 31 con la ficha 6+ goles por debajo (se mantiene el dataset, ver abajo). Agregados desde data-sources/wiki-player-pages.json: Gabriel Batistuta (31), Hernán Crespo (36), Ramón Díaz (95), Jorge Valdano (14), Oscar Ruggeri (40), Américo Gallego (37), Alfredo Di Stéfano (65), Omar Sívori (29), José Manuel Moreno (191).
-- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 20; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: 13 → 89; Luciano Agnolín: 41 → 151; Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 72 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131; Leandro Lazzaro: 30 → 72; Daniel Tilger: 50 → 69; Juan Marvezy: duplicado quitado; Juan Marvezzi: 103 → 116; Waldino Aguirre: 33 → 107; Paulo Silas: agregado (24); Sergio Almirón: duplicado quitado.
-- Categorías de Wikipedia por club: 2287 clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).
+- Correcciones manuales (data-sources/manual-corrections.json): José Luis Chilavert: 16 → 48; Cristian Lucchetti: 17 → 20; Sebastián Saja: 18 → 19; Nacho González: 1 → 8; Mario Cuenca: 5 → 7; Adrián Czornomaz: 22 → 160; José Alfredo Zelaya: 3 → 130; Juan Abaurre: 1 → 123; Luis Tonelotto: 17 → 115; Luis Salmerón: 37 → 89; Daniel Giménez: 13 → 89; Luciano Agnolín: 41 → 151; Edgardo Bauza: agregado (81); Damián Akerman: 19 → 160; Daniel Vega: 72 → 155; Daniel Bazán Vera: 16 → 273; José Rafael Albrecht: agregado (95); Roberto Bonano: agregado (1); Daniel Willington: 66 → 131; Leandro Lazzaro: 30 → 72; Daniel Tilger: 50 → 69; Juan Marvezy: duplicado quitado; Juan Marvezzi: 103 → 116; Waldino Aguirre: 33 → 107; Paulo Silas: agregado (24); Sergio Almirón: duplicado quitado; Roberto Monserrat: 3 → 58; Héctor Veira: agregado (93); Rubén Darío Insúa: agregado (74).
+- Categorías de Wikipedia por club: 2292 clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).
 - Máximos goleadores por club (data-sources/club-top-scorers.json): 26 totales subidos, 57 jugadores agregados (Carlos Spadaro, José Luis Lodico, Harry Hayes, Ennis Hayes, Enrique García, Omar Corbatta, Guillermo Stábile, Omar Larrosa, Claudio García, Juan Ramón Verón, Delio Onnis, Diego Bayo, José Perdomo, Pedro Larraquy, Juan Carlos Carone, Omar Asad, José Oscar Flores, Santiago Santamaría, Roque Alfaro, Sergio Robles, José Canteli, Ariel Cozzoni, Mario Zanabria, Oscar Commisso, Carlos Ereros, Mario Noremberg, Claudio Borghi, Pedro Pasculli, Raúl Savoy, José Pekerman, Sergio Batista, Carlos Alberto Vidal, Héctor Ángel Arregui, Juan Domingo Rocchia, Alberto Piovano, Antonio Garabal, Rodolfo Danza, Alfredo Borgnia, Héctor Berón, Víctor Bianchini, Alberto Montalvo, José Luis Iglesias, Javier López, Juan Haedo, Fernando Pérez, Rafael Sanz, Rubén Galván, Julio Cruz, Miguel Antonio Romero, Pedro Lamberti, José Daniel Valencia, Juan Ramón Santos, Alberto Vázquez, César Romani, Eugenio Bassino, Rubí Cerioni, Horacio Milozzi).
 - Clubes por jugador (data-sources/club-links.json): 22 clubes sumados; sin jugador que coincida: Juan Gilberto Funes, Antonio Mohamed, Maximiliano Rodríguez.
-- Primera: 3350 · Primera Nacional: 1687 · Ascenso: 782
-- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 466 · AM 521 · LW 363 · RW 432 · ST 2273
-- Marcados para revisión: 2972
+- Primera: 3352 · Primera Nacional: 1687 · Ascenso: 782
+- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 466 · AM 522 · LW 363 · RW 432 · ST 2274
+- Marcados para revisión: 2975
 
 ## Ascenso
 `playedAscenso`: 3405 (línea base) → 3480 (actual, +75).
@@ -33,7 +33,7 @@ Por evidencia: `tm-arg2` 2578 · `wiki-ascenso-editions` 67 · `soloascenso` 138
 Solo Ascenso (recuperación con corroboración estricta): 378 fusionados (goles sumados), 229 marcados sin sumar goles (total ya cubierto por otra fuente), 782 jugadores agregados, 104 descartados — club-mismatch 48, ambiguous-name 45, possible-duplicate 8, namesake-unproven 3.
 `ascenso-era-match` (corroborado solo por era, sin coincidencia de club — revisar manualmente): Jorge Córdoba, Cristian Bordacahar, Brahian Cuello, Gonzalo Lencina, Nicolás Retamar, Franco Watson, Luciano Giménez, Agustín Colazo, Marcos Arturia, Brian Guille, Ignacio Sabatini, Nahuel Benítez, Cristian Amarilla, Diego Dorregaray, Lucas Banegas, Pablo Miranda, Ezequiel Vidal, José Vizcarra, Esteban Pipino, Francisco Vazzoler, Marcos Giménez, Emiliano Carrasco, Diego Galeano, Franco Caballero, Federico Mazur, Guillermo Sánchez, Gabriel Tellas, Horacio Martínez, Esteban Ciaccheri, Lucas Farías, Alejandro Noriega, Guido Dal Casón, Rodrigo Sayavedra, Agustín Auzmendi, Alejandro Aranda, Ángel Prudencio, Enzo Trinidad, Ignacio Vázquez, Lucas Colitto, Diego Medina, Giuliano Cerato, Ignacio Oroná, Iván Sandoval, Diego Aguirre, Santiago Camacho, Enzo López, Leandro Leguizamón, Franco Vedoya, Ángel Luna, Facundo Krüger, Diego Nakache, Franco Pulicastro, Claudio Campostrini, Alexis Vázquez, Nicolás Molina, Javier Martínez, Juan Barbieri, Maximiliano Brito, Santiago Sala, Tomás Asprea, Juan Da Rosa, Mariano Bracamonte, Santiago Patroni, Agustín Campana, Leonel Barrios, Matías Fernández, Gonzalo Gómez, Franco Benítez, Miqueas González, Valentín Gargiulo, Álvaro López, Gonzalo Jaque, Iván Arbello, Maximiliano Rogoski, Santiago Martínez, Ian Vera, Mauro Molina, Diego Guallama, Ramiro Reynoso, Emilio Porro, Joel González, Cristián Sánchez, Leandro Coronel, David Ledesma, Edilio Cardoso, Ariel Rojas, Alan Schönfeld, Cristian Tula, Leandro Caruso, Brian Duarte, Germán Díaz, Matías Martínez, Samuel Portillo, Jorge Piris, Leandro Puig, Agustín Curima, César Carranza, Matías Flores, Valentín Robaldo, Benjamin Giménez, Ariel Torres, Santiago Apa, Juan Cruz Vega, Rodrigo Monserrat, Eladio Ramos, Gonzalo Cañete, Ignacio Huguenet, Franco Romero, Julián Ford, Facundo Leiva, Francisco Cristaldo, Lucas Chaves, Daniel Salvatierra, Diego López, Federico Almerares, Jesús Vera, Nicolás Aguirre, Lautaro Robles, Diego Bielkiewicz, Gustavo Ibáñez, Manuel Bustos, Gustavo Balvorín, Wilson Albarracín, Carlos Herrera, Hernán Altolaguirre, Alejandro Toledo, Diego Magno, Leonardo Marinucci, Marcos Litre, Cristian Fornillo, Diego Galván, Franco Olego, Milton Zárate, Martín Peralta, Emiliano López, Matías Birge, Pablo Vergara, Franco Lonardi, Javier Bayk, Williams Peralta, Mauro Siergiejuk, Fabricio Lenci, Leandro Larrea, Enzo Gaggi, Iván Ortigoza, Martín Rodríguez, Agustin Bellone, Tomás Attis, Germán Lesman, Ramiro Balbuena, Imanol Enríquez, Enzo Avaro, Nicolás Heiz, Augusto Berrondo, Cristian González, Gabriel Obredor, Franco Fagúndez, Hernán Brylko, Lucas López, Marcelo Olivera, Facundo De La Vega, Marcos Machado, Martín Ojeda, Maximiliano Álvarez, Darío Rostagno, Nicolás Ihitz, Tomás Martínez, Tomás Silva, Alex Díaz, Flavio Ciampichetti, Rodrigo Herrera, Francisco Borda, Juan Cruz Giacone, Luciano Ortega, Germán Gigena, Adrián Aranda, Cristian Gutiérrez, Cristian Díaz, Mauro Villegas, Nahuel Cainelli, Jonatan Torres, Lucas de Francesco, Sebastián Díaz, Rubén Tarasco, Ezequiel Petrovelli, Agustín López, Bruno Medina, Nicolás Domínguez, Matías Rojas, Héctor Scotta, José Sand.
 RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007/08, 0 filas rechazadas por formato): 20 marcados sin sumar goles (total ya cubierto por otra fuente), 56 jugadores agregados, 4 descartados — club-mismatch 2, ambiguous-name 0, possible-duplicate 2, namesake-unproven 0.
-`players.json`: 2571331 → 2671635 bytes (+100304); gzip 273470 → 282650 bytes (+9180).
+`players.json`: 2571331 → 2672405 bytes (+101074); gzip 273470 → 282766 bytes (+9296).
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -167,6 +167,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Norberto Outes: club-total-only
 - Ángel Bocanelli: club-total-only
 - Carlos Ereros: club-top-scorers, position-unverified
+- Héctor Veira: manual-correction
 - Mauro Boselli: season-list-truncated, cups-partial
 - Ángel Silva: club-total-only
 - Camilo Cervino: club-total-only
@@ -222,6 +223,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Fernando Pérez: club-top-scorers, position-unverified
 - Gonzalo Vivanco: soloascenso-partial, position-unverified
 - Pedro Pasculli: club-top-scorers, position-unverified
+- Rubén Darío Insúa: manual-correction
 - Braian Romero: season-list-truncated, cups-partial
 - Diego Jara: soloascenso-partial
 - José Perdomo: club-top-scorers, position-unverified
@@ -269,6 +271,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Ariel Cozzoni: club-top-scorers, position-unverified
 - Carlos Godoy: club-total-only, position-unverified
 - Ricardo Ceballos: club-total-only, position-unverified
+- Roberto Monserrat: manual-correction
 - Diego Magno: soloascenso-partial, ascenso-era-match
 - Juan Pablo Zárate: season-list-truncated, soloascenso-partial
 - Mario Zanabria: club-top-scorers, position-unverified

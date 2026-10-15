@@ -5919,6 +5919,29 @@
   ]
  },
  {
+  "id": "hector-veira",
+  "name": "Héctor Veira",
+  "position": "ST",
+  "shortName": "Veira",
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Huracán",
+   "Banfield"
+  ],
+  "division": "Primera",
+  "era": "1960s–1970s",
+  "source": {
+   "name": "Wikipedia — Héctor Veira",
+   "url": "https://es.wikipedia.org/wiki/H%C3%A9ctor_Veira"
+  },
+  "goals": 93,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
+  ]
+ },
+ {
   "id": "mauro-boselli",
   "name": "Mauro Boselli",
   "shortName": "Boselli",
@@ -8152,6 +8175,30 @@
   "review": [
    "club-top-scorers",
    "position-unverified"
+  ]
+ },
+ {
+  "id": "ruben-dario-insua",
+  "name": "Rubén Darío Insúa",
+  "position": "AM",
+  "shortName": "Insúa",
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Independiente",
+   "Estudiantes LP",
+   "Quilmes"
+  ],
+  "division": "Primera",
+  "era": "1980s–1990s",
+  "source": {
+   "name": "Wikipedia — Rubén Darío Insúa",
+   "url": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo_Insua"
+  },
+  "goals": 74,
+  "scope": "Liga y copas con clubes argentinos",
+  "review": [
+   "manual-correction"
   ]
  },
  {
@@ -10533,6 +10580,39 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "roberto-monserrat",
+  "name": "Roberto Monserrat",
+  "shortName": "Monserrat",
+  "position": "RW",
+  "goals": 58,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Racing Club",
+  "clubs": [
+   "Colón",
+   "Racing Club",
+   "Argentinos Juniors",
+   "River Plate",
+   "San Lorenzo",
+   "Belgrano"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1990s–2000s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/roberto-monserrat/leistungsdaten/spieler/222759"
+  },
+  "review": [
+   "manual-correction"
+  ],
+  "secondarySource": {
+   "name": "Corrección manual: aporte del autor del juego (Roberto Carlos Monserrat)",
+   "url": "https://www.transfermarkt.com/roberto-monserrat/leistungsdaten/spieler/222759"
+  }
  },
  {
   "id": "diego-magno",
@@ -107447,28 +107527,6 @@
   }
  },
  {
-  "id": "ezequiel-cannavo",
-  "name": "Ezequiel Cannavo",
-  "shortName": "Cannavo",
-  "position": "RB",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia",
-   "Racing Club"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ezequiel-cannavo/leistungsdaten/spieler/844791"
-  }
- },
- {
   "id": "ezequiel-canete",
   "name": "Ezequiel Cañete",
   "shortName": "Cañete",
@@ -107493,6 +107551,28 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "ezequiel-cannavo",
+  "name": "Ezequiel Cannavo",
+  "shortName": "Cannavo",
+  "position": "RB",
+  "goals": 3,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia",
+   "Racing Club"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/ezequiel-cannavo/leistungsdaten/spieler/844791"
+  }
  },
  {
   "id": "ezequiel-filippetto",
@@ -115727,32 +115807,6 @@
    "tm-arg2"
   ],
   "playedAscenso": true
- },
- {
-  "id": "roberto-monserrat",
-  "name": "Roberto Monserrat",
-  "shortName": "Monserrat",
-  "position": "RW",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Racing Club",
-  "clubs": [
-   "Colón",
-   "Racing Club",
-   "Argentinos Juniors",
-   "River Plate",
-   "San Lorenzo",
-   "Belgrano"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "1990s–2000s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/roberto-monserrat/leistungsdaten/spieler/222759"
-  }
  },
  {
   "id": "rodrigo-bogado",

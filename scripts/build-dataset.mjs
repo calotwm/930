@@ -1018,7 +1018,11 @@ function main() {
     }
     const x = p[0]
     if (!x.clubs) x.clubs = [x.club]
-    for (const c of l.clubs) if (!x.clubs.includes(c)) (x.clubs.push(c), linkLog.clubs++)
+    for (const c of l.clubs) {
+      if (x.clubs.includes(c)) continue
+      x.clubs.push(c)
+      linkLog.clubs++
+    }
   }
   report.push(`Clubes por jugador (data-sources/club-links.json): ${linkLog.clubs} clubes sumados; sin jugador que coincida: ${[...new Set(linkLog.missing)].join(', ') || 'ninguno'}.`)
 
@@ -1026,6 +1030,43 @@ function main() {
   // club aliases, categories, top scorers, links) cannot desynchronize it from the final record
   for (const p of players) {
     if (derivePlayedAscenso(p)) p.playedAscenso = true
+  }
+
+  // weekly Promiedos goals (scripts/fetch-promiedos.mjs): goals scored since the first snapshot,
+  // added to the player found by name (and club when the name repeats); unknown scorers are added
+  const promFile = path.join(ROOT, 'data-sources', 'promiedos', 'goals.json')
+  if (fs.existsSync(promFile)) {
+    const words = (s) => norm(s).split(' ').filter((w) => w.length > 2 && !['club', 'atletico', 'deportivo', 'sportivo'].includes(w))
+    const sameTeam = (team, clubs) => clubs.some((c) => words(c).some((w) => words(team).includes(w)))
+    const log = { added: 0, goals: 0, newPlayers: [] }
+    for (const g of Object.values(JSON.parse(fs.readFileSync(promFile, 'utf8')))) {
+      let p = players.filter((x) => norm(x.name) === norm(g.name))
+      if (p.length > 1) p = p.filter((x) => sameTeam(g.team, x.clubs ?? [x.club]))
+      if (p.length > 1) continue
+      if (p.length === 1) {
+        p[0].goals += g.goals
+        log.added++
+      } else {
+        const parts = g.name.split(' ')
+        players.push({
+          id: slug(g.name),
+          name: g.name,
+          shortName: parts.slice(1).join(' ') || g.name,
+          position: 'ST',
+          goals: g.goals,
+          club: g.team,
+          clubs: [g.team],
+          division: 'Primera',
+          scope: 'Goles desde la actualización semanal de Promiedos',
+          era: '2020s',
+          source: { name: 'Promiedos — goleadores', url: 'https://www.promiedos.com.ar' },
+          review: ['promiedos-new', 'position-unverified'],
+        })
+        log.newPlayers.push(g.name)
+      }
+      log.goals += g.goals
+    }
+    report.push(`Promiedos (data-sources/promiedos/goals.json): ${log.goals} goles sumados a ${log.added} jugadores; nuevos: ${log.newPlayers.join(', ') || 'ninguno'}.`)
   }
 
   // unique ids

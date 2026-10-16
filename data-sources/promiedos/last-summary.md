@@ -1,1 +1,2 @@
-Promiedos 2026-10-16: foto inicial guardada (334 goleadores); los goles se suman desde la próxima.
+Promiedos 2026-10-16: +0 goles de 0 jugadores desde 2026-10-16.
+

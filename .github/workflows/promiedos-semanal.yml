@@ -1,0 +1,52 @@
+# Every Sunday night (Argentina): add the week's goals from Promiedos and open a PR to review.
+name: Goles semanales (Promiedos)
+
+on:
+  schedule:
+    - cron: '0 2 * * 1' # lunes 02:00 UTC = domingo 23:00 en Argentina
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Bajar goleadores de Promiedos
+        run: node scripts/fetch-promiedos.mjs
+      - name: Reconstruir la base
+        run: npm run build:data
+      - name: Tests
+        run: npx vitest run
+      - name: Resumen
+        id: resumen
+        run: |
+          {
+            echo 'body<<EOF'
+            cat data-sources/promiedos/last-summary.md
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+      - name: Abrir PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: promiedos/semanal
+          delete-branch: true
+          commit-message: 'Goles semanales de Promiedos'
+          title: 'Goles semanales de Promiedos'
+          body: |
+            ${{ steps.resumen.outputs.body }}
+
+            Generado por la acción semanal (`.github/workflows/promiedos-semanal.yml`). Revisá los jugadores nuevos y mergeá para publicar.
+          add-paths: |
+            data-sources/promiedos/**
+            data-sources/players.full.json
+            data-sources/REPORT.md
+            src/data/players.json

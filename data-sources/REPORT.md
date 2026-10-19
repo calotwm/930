@@ -1,6 +1,6 @@
 # Reporte del dataset
 
-Generado por `scripts/build-dataset.mjs`. Total: **5821** jugadores.
+Generado por `scripts/build-dataset.mjs`. Total: **5823** jugadores.
 
 ## Definición de goles
 Goles oficiales con clubes argentinos: liga y, cuando hay fuente, copas nacionales (Copa Argentina, Copa de la Liga) e internacionales (Libertadores, Sudamericana, Supercopa; solo con clubes argentinos). Sin selección, sin clubes extranjeros, sin amistosos. El `scope` de cada tarjeta dice qué incluye.
@@ -23,10 +23,10 @@ Prioridad: RSSSF (Primera, carrera) > Transfermarkt Primera (Apertura + Clausura
 - Categorías de Wikipedia por club: 2292 clubes sumados a jugadores que ya estaban (nombre sin ambigüedad).
 - Máximos goleadores por club (data-sources/club-top-scorers.json): 26 totales subidos, 57 jugadores agregados (Carlos Spadaro, José Luis Lodico, Harry Hayes, Ennis Hayes, Enrique García, Omar Corbatta, Guillermo Stábile, Omar Larrosa, Claudio García, Juan Ramón Verón, Delio Onnis, Diego Bayo, José Perdomo, Pedro Larraquy, Juan Carlos Carone, Omar Asad, José Oscar Flores, Santiago Santamaría, Roque Alfaro, Sergio Robles, José Canteli, Ariel Cozzoni, Mario Zanabria, Oscar Commisso, Carlos Ereros, Mario Noremberg, Claudio Borghi, Pedro Pasculli, Raúl Savoy, José Pekerman, Sergio Batista, Carlos Alberto Vidal, Héctor Ángel Arregui, Juan Domingo Rocchia, Alberto Piovano, Antonio Garabal, Rodolfo Danza, Alfredo Borgnia, Héctor Berón, Víctor Bianchini, Alberto Montalvo, José Luis Iglesias, Javier López, Juan Haedo, Fernando Pérez, Rafael Sanz, Rubén Galván, Julio Cruz, Miguel Antonio Romero, Pedro Lamberti, José Daniel Valencia, Juan Ramón Santos, Alberto Vázquez, César Romani, Eugenio Bassino, Rubí Cerioni, Horacio Milozzi).
 - Clubes por jugador (data-sources/club-links.json): 22 clubes sumados; sin jugador que coincida: Juan Gilberto Funes, Antonio Mohamed, Maximiliano Rodríguez.
-- Promiedos (data-sources/promiedos/goals.json): 0 goles sumados a 0 jugadores; nuevos: ninguno.
-- Primera: 3352 · Primera Nacional: 1687 · Ascenso: 782
-- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 466 · AM 522 · LW 363 · RW 432 · ST 2274
-- Marcados para revisión: 2975
+- Promiedos (data-sources/promiedos/goals.json): 59 goles sumados a 35 jugadores; nuevos: Leonel Flores, Ramiro Ruiz.
+- Primera: 3354 · Primera Nacional: 1687 · Ascenso: 782
+- Por posición: GK 89 · CB 802 · LB 271 · RB 267 · DM 335 · CM 466 · AM 522 · LW 363 · RW 432 · ST 2276
+- Marcados para revisión: 2977
 
 ## Ascenso
 `playedAscenso`: 3405 (línea base) → 3480 (actual, +75).
@@ -34,7 +34,7 @@ Por evidencia: `tm-arg2` 2578 · `wiki-ascenso-editions` 67 · `soloascenso` 138
 Solo Ascenso (recuperación con corroboración estricta): 378 fusionados (goles sumados), 229 marcados sin sumar goles (total ya cubierto por otra fuente), 782 jugadores agregados, 104 descartados — club-mismatch 48, ambiguous-name 45, possible-duplicate 8, namesake-unproven 3.
 `ascenso-era-match` (corroborado solo por era, sin coincidencia de club — revisar manualmente): Jorge Córdoba, Cristian Bordacahar, Brahian Cuello, Gonzalo Lencina, Nicolás Retamar, Franco Watson, Luciano Giménez, Agustín Colazo, Marcos Arturia, Brian Guille, Ignacio Sabatini, Nahuel Benítez, Cristian Amarilla, Diego Dorregaray, Lucas Banegas, Pablo Miranda, Ezequiel Vidal, José Vizcarra, Esteban Pipino, Francisco Vazzoler, Marcos Giménez, Emiliano Carrasco, Diego Galeano, Franco Caballero, Federico Mazur, Guillermo Sánchez, Gabriel Tellas, Horacio Martínez, Esteban Ciaccheri, Lucas Farías, Alejandro Noriega, Guido Dal Casón, Rodrigo Sayavedra, Agustín Auzmendi, Alejandro Aranda, Ángel Prudencio, Enzo Trinidad, Ignacio Vázquez, Lucas Colitto, Diego Medina, Giuliano Cerato, Ignacio Oroná, Iván Sandoval, Diego Aguirre, Santiago Camacho, Enzo López, Leandro Leguizamón, Franco Vedoya, Ángel Luna, Facundo Krüger, Diego Nakache, Franco Pulicastro, Claudio Campostrini, Alexis Vázquez, Nicolás Molina, Javier Martínez, Juan Barbieri, Maximiliano Brito, Santiago Sala, Tomás Asprea, Juan Da Rosa, Mariano Bracamonte, Santiago Patroni, Agustín Campana, Leonel Barrios, Matías Fernández, Gonzalo Gómez, Franco Benítez, Miqueas González, Valentín Gargiulo, Álvaro López, Gonzalo Jaque, Iván Arbello, Maximiliano Rogoski, Santiago Martínez, Ian Vera, Mauro Molina, Diego Guallama, Ramiro Reynoso, Emilio Porro, Joel González, Cristián Sánchez, Leandro Coronel, David Ledesma, Edilio Cardoso, Ariel Rojas, Alan Schönfeld, Cristian Tula, Leandro Caruso, Brian Duarte, Germán Díaz, Matías Martínez, Samuel Portillo, Jorge Piris, Leandro Puig, Agustín Curima, César Carranza, Matías Flores, Valentín Robaldo, Benjamin Giménez, Ariel Torres, Santiago Apa, Juan Cruz Vega, Rodrigo Monserrat, Eladio Ramos, Gonzalo Cañete, Ignacio Huguenet, Franco Romero, Julián Ford, Facundo Leiva, Francisco Cristaldo, Lucas Chaves, Daniel Salvatierra, Diego López, Federico Almerares, Jesús Vera, Nicolás Aguirre, Lautaro Robles, Diego Bielkiewicz, Gustavo Ibáñez, Manuel Bustos, Gustavo Balvorín, Wilson Albarracín, Carlos Herrera, Hernán Altolaguirre, Alejandro Toledo, Diego Magno, Leonardo Marinucci, Marcos Litre, Cristian Fornillo, Diego Galván, Franco Olego, Milton Zárate, Martín Peralta, Emiliano López, Matías Birge, Pablo Vergara, Franco Lonardi, Javier Bayk, Williams Peralta, Mauro Siergiejuk, Fabricio Lenci, Leandro Larrea, Enzo Gaggi, Iván Ortigoza, Martín Rodríguez, Agustin Bellone, Tomás Attis, Germán Lesman, Ramiro Balbuena, Imanol Enríquez, Enzo Avaro, Nicolás Heiz, Augusto Berrondo, Cristian González, Gabriel Obredor, Franco Fagúndez, Hernán Brylko, Lucas López, Marcelo Olivera, Facundo De La Vega, Marcos Machado, Martín Ojeda, Maximiliano Álvarez, Darío Rostagno, Nicolás Ihitz, Tomás Martínez, Tomás Silva, Alex Díaz, Flavio Ciampichetti, Rodrigo Herrera, Francisco Borda, Juan Cruz Giacone, Luciano Ortega, Germán Gigena, Adrián Aranda, Cristian Gutiérrez, Cristian Díaz, Mauro Villegas, Nahuel Cainelli, Jonatan Torres, Lucas de Francesco, Sebastián Díaz, Rubén Tarasco, Ezequiel Petrovelli, Agustín López, Bruno Medina, Nicolás Domínguez, Matías Rojas, Héctor Scotta, José Sand.
 RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007/08, 0 filas rechazadas por formato): 20 marcados sin sumar goles (total ya cubierto por otra fuente), 56 jugadores agregados, 4 descartados — club-mismatch 2, ambiguous-name 0, possible-duplicate 2, namesake-unproven 0.
-`players.json`: 2571331 → 2672405 bytes (+101074); gzip 273470 → 282766 bytes (+9296).
+`players.json`: 2571331 → 2673049 bytes (+101718); gzip 273470 → 282924 bytes (+9454).
 
 ## Discrepancias entre fuentes (se usa RSSSF)
 - Martín Palermo: RSSSF 272 vs Transfermarkt 192
@@ -106,7 +106,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - `season-sum-N`: la suma por temporada (N) no coincide con el total histórico de Transfermarkt; se usa el total histórico.
 - `season-list-truncated`: jugó en una temporada cuya lista quedó cortada en 150 filas; puede faltar algún gol.
 - `seasons-before-YYYY-not-counted`: jugó antes del inicio de cobertura de Transfermarkt; sus goles previos no están sumados (el `scope` de la tarjeta lo aclara).
-- position-unverified: 1074 jugadores
+- position-unverified: 1076 jugadores
 - `cups-partial`: goles de copas o ascenso tomados de las tablas de goleadores por edición, que solo listan a los mejores de cada edición; el número real puede ser mayor.
 - `soloascenso-partial`: goles de B Nacional, B Metro, C, D o Federal A/B/C tomados de las tablas de goleadores de Solo Ascenso (solo los mejores de cada torneo); el número real puede ser mayor.
 - `rsssf-arg2-partial`: goles de Segunda división histórica (1937-2007/08) tomados de la lista RSSSF de goleadores por temporada (solo el/los goleador/es de cada temporada); el número real puede ser mayor.
@@ -257,12 +257,12 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Rodolfo Danza: club-top-scorers, position-unverified
 - Alfredo Borgnia: club-top-scorers, position-unverified
 - Horacio Salvatelli: club-total-only, position-unverified
+- Lautaro Parisi: soloascenso-partial
 - Omar Asad: club-top-scorers, position-unverified
 - Walter Bou: season-list-truncated, cups-partial
 - Daniel Picaro: club-total-only, position-unverified
 - Ernesto Pieri: club-total-only
 - Eugenio Bassino: club-top-scorers, position-unverified
-- Lautaro Parisi: soloascenso-partial
 - Héctor Berón: club-top-scorers, position-unverified
 - Bruno Sepúlveda: season-list-truncated, cups-partial, soloascenso-partial
 - Federico Sellecchia: soloascenso-partial, position-unverified
@@ -349,6 +349,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Leonel Barrios: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Octavio Bianchi: season-list-truncated, soloascenso-partial
 - Oscar Altamirano: seasons-before-2008-not-counted, soloascenso-partial
+- Axel Rodríguez: season-list-truncated, soloascenso-partial
 - Carlos Fuentes: club-total-only, position-unverified
 - Facundo Castro: season-list-truncated, soloascenso-partial
 - Gabriel Tellas: soloascenso-partial, ascenso-era-match
@@ -358,11 +359,11 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Pedro Heredia: club-total-only, position-unverified
 - Ramón Héctor Ponce: club-total-only
 - Raúl Altuve: rsssf-arg2-partial, position-unverified
-- Axel Rodríguez: season-list-truncated, soloascenso-partial
 - Ezequiel Reynoso: club-total-only, position-unverified
 - Fernando Walter: club-total-only
 - Francisco Armenante: club-total-only, position-unverified
 - Francisco Taggino: club-total-only
+- Javier Martínez: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Mauricio Carrasco: soloascenso-partial
 - Oscar Pianetti: club-total-only
 - Pablo Bozzo: club-total-only, position-unverified
@@ -398,7 +399,6 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Cristian Ibarra: soloascenso-partial, position-unverified
 - Cristian Núñez: soloascenso-partial
 - Héctor Silva: cups-partial
-- Javier Martínez: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Juan Carlos Almada: editions-partial
 - Martín Batallini: season-list-truncated, soloascenso-partial
 - Maximiliano Casa: season-list-truncated, cups-partial, soloascenso-partial
@@ -528,6 +528,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Matías Samaniego: soloascenso-partial, position-unverified
 - Maximiliano Comba: soloascenso-partial
 - Nicolás Valdivia: rsssf-arg2-partial, position-unverified
+- Rodrigo Monserrat: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Tomás Bolzicco: season-list-truncated, soloascenso-partial
 - Agustín Auzmendi: soloascenso-partial, ascenso-era-match
 - Agustín Colazo: ascenso-era-match
@@ -547,11 +548,11 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Roberto Fazzolari: rsssf-arg2-partial, position-unverified
 - Roberto Ortiz: club-total-only, position-unverified
 - Rodrigo Giorno Paredes: soloascenso-partial, position-unverified
-- Rodrigo Monserrat: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Antonio Alderete: club-total-only
 - Casimiro Casado: rsssf-arg2-partial, position-unverified
 - Celedonio Fernández: club-total-only, position-unverified
 - Emanuel Zagert: soloascenso-partial, position-unverified
+- Guillermo Sánchez: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Jorge Weschta: club-total-only, position-unverified
 - José Luis Pochettino: club-total-only
 - Matías Martínez: soloascenso-partial, ascenso-era-match
@@ -566,7 +567,6 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Ezequiel Gaviglio: soloascenso-partial, position-unverified
 - Fernando Valenzuela: soloascenso-partial, position-unverified
 - Gabriel Pérez Tarifa: soloascenso-partial
-- Guillermo Sánchez: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Ivo Kestler: soloascenso-partial, position-unverified
 - José Michelena: season-list-truncated, cups-partial, soloascenso-partial
 - Miguel Converti: rsssf-arg2-partial, position-unverified
@@ -678,6 +678,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Jonathan Font: soloascenso-partial, position-unverified
 - Jonathan Santana: cups-partial
 - Jorge González: soloascenso-partial, position-unverified
+- José Florentín: season-list-truncated, cups-partial
 - Juan Bueno: soloascenso-partial, position-unverified
 - Juan Reynoso: soloascenso-partial, position-unverified
 - Julio San Lorenzo: rsssf-arg2-partial, position-unverified
@@ -702,7 +703,6 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Javier Arias: soloascenso-partial, position-unverified
 - Jeremías Asencio: soloascenso-partial, position-unverified
 - Jesús Vera: soloascenso-partial, ascenso-era-match
-- José Florentín: season-list-truncated, cups-partial
 - Juan Manuel Aróstegui: seasons-before-2008-not-counted, soloascenso-partial
 - Lucas Vico: soloascenso-partial, position-unverified
 - Luis Vila: soloascenso-partial
@@ -725,12 +725,14 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Fabricio Pedrozo: season-list-truncated, soloascenso-partial
 - Francisco Rivadero: club-total-only
 - Gabriel Serrano: soloascenso-partial, position-unverified
+- Ian Vera: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Iván Sandoval: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Joan Juncos: season-list-truncated, soloascenso-partial
 - Jorge Córdoba: ascenso-era-match
 - Leandro Espejo: season-list-truncated, soloascenso-partial
 - Luis Seco: soloascenso-partial, position-unverified
 - Mariano Mc Coubrey: soloascenso-partial, position-unverified
+- Matías Fernández: soloascenso-partial, ascenso-era-match
 - Matías Machado: season-list-truncated, soloascenso-partial
 - Matías Navarro: soloascenso-partial, position-unverified
 - Nahuel Benítez: soloascenso-partial, ascenso-era-match
@@ -773,13 +775,11 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Franco Pulicastro: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Gastón Grecco: soloascenso-partial, position-unverified
 - Guido Barreyro: soloascenso-partial, position-unverified
-- Ian Vera: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Jean Rousseau: soloascenso-partial, position-unverified
 - Juan Carlos Lescano: soloascenso-partial, position-unverified
 - Juan Pablo Ruiz Gómez: soloascenso-partial, position-unverified
 - Leandro Somoza: cups-partial
 - Mathías Crocco: soloascenso-partial, position-unverified
-- Matías Fernández: soloascenso-partial, ascenso-era-match
 - Mauro Pajón: seasons-before-2008-not-counted, soloascenso-partial
 - Milton Zárate: season-list-truncated, soloascenso-partial, ascenso-era-match
 - Nahuel La Sala: soloascenso-partial, position-unverified
@@ -1306,6 +1306,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Iván Becker: soloascenso-partial, position-unverified
 - Iván Esculino: soloascenso-partial, position-unverified
 - Ivo Hongn: soloascenso-partial, position-unverified
+- Jeremías Lázaro: cups-partial
 - Joan Gaona: soloascenso-partial, position-unverified
 - Joaquín Rikemberg: soloascenso-partial, position-unverified
 - Jonatan Duche: soloascenso-partial, position-unverified
@@ -1452,7 +1453,6 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Franco Carella: soloascenso-partial, position-unverified
 - Gabriel Cedrés: cups-partial
 - Ian Galván: soloascenso-partial, position-unverified
-- Jeremías Lázaro: cups-partial
 - Joaquín Rodríguez: soloascenso-partial, position-unverified
 - Juan Gambarte: soloascenso-partial, position-unverified
 - Juan Vinaccia: soloascenso-partial, position-unverified
@@ -1498,6 +1498,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Nicolás Char: soloascenso-partial, position-unverified
 - Nicolás Inostroza: soloascenso-partial, position-unverified
 - Pablo Macsad: soloascenso-partial, position-unverified
+- Ramiro Ruiz: promiedos-new, position-unverified
 - Sebastián Benites: soloascenso-partial, position-unverified
 - Sebastián Jiménez: soloascenso-partial, position-unverified
 - Sebastián Riquelme: club-unverified, season-list-truncated
@@ -1615,6 +1616,7 @@ RSSSF ARG2 (Segunda división histórica, 72 temporadas parseadas de 1937–2007
 - Leandro Sola: soloascenso-partial, position-unverified
 - Leonardo Galeano: soloascenso-partial, position-unverified
 - Leonardo Verón: soloascenso-partial, position-unverified
+- Leonel Flores: promiedos-new, position-unverified
 - Leonel Iriarte: soloascenso-partial, position-unverified
 - Leonel Pietkiewicz: soloascenso-partial, position-unverified
 - Lucas Brizuela: soloascenso-partial, position-unverified

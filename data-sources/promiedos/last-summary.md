@@ -1,1 +1,39 @@
-Promiedos 2026-10-16: foto inicial guardada (334 goleadores); los goles se suman desde la próxima.
+Promiedos 2026-10-19: +61 goles de 38 jugadores desde 2026-10-16.
+- Andres Vombergar (Aldosivi, liga-profesional): +1
+- Miguel Merentiel (Boca Juniors, liga-profesional): +1
+- Allan Wlk (Lanús, liga-profesional): +1
+- Jose Florentín (Independiente Rivadavia, liga-profesional): +1
+- Tomás Galván (River Plate, liga-profesional): +1
+- Angel Correa (River Plate, liga-profesional): +1
+- Gastón Ávila (Rosario Central, liga-profesional): +3
+- Leonel Flores (Boca Juniors, liga-profesional): +1
+- Maximiliano Meza (Independiente, liga-profesional): +1
+- Thiago Almada (River Plate, liga-profesional): +1
+- Edwuin Cetré (Estudiantes de La Plata, liga-profesional): +1
+- Gabriel Alanís (Estudiantes RC, liga-profesional): +2
+- Jeremías Lázaro (Instituto, liga-profesional): +2
+- Julián Fernández (Rosario Central, liga-profesional): +2
+- Matías Fernández (Independiente Rivadavia, liga-profesional): +2
+- Matías Giménez (Argentinos Juniors, liga-profesional): +2
+- Ramiro Ruiz (Atlético Tucumán, liga-profesional): +2
+- Thiago Silvero (Vélez Sarsfield, liga-profesional): +2
+- Ibrahim Hesar (Estudiantes RC, liga-profesional): +2
+- Martín Pino (Godoy Cruz, primera-nacional): +3
+- Ignacio Lago (Colón, primera-nacional): +1
+- Nazareno Funez (San Martín San Juan, primera-nacional): +1
+- Lautaro Parisi (Ferro Carril Oeste, primera-nacional): +1
+- Guillermo Sánchez (Ciudad De Bolivar, primera-nacional): +1
+- Axel Rodríguez (Godoy Cruz, primera-nacional): +1
+- Bruno Cabrera (San Martín Tucumán, primera-nacional): +2
+- Gabriel Hauche (Temperley, primera-nacional): +1
+- Rodrigo Monserrat (Colegiales, primera-nacional): +1
+- Vicente Poggi (Godoy Cruz, primera-nacional): +1
+- Francisco Molina (Gimnasia de Jujuy, primera-nacional): +1
+- Martiniano Moreno (Atlético Rafaela, primera-nacional): +1
+- Alexis Domínguez (Chacarita Juniors, primera-nacional): +1
+- Diego Becker (Tristan Suárez, primera-nacional): +1
+- Ian Vera (Estudiantes, primera-nacional): +2
+- Mauro Albertengo (Colegiales, primera-nacional): +1
+- Alejo Tabares (All Boys, primera-nacional): +4
+- Javier Martinez (Almirante Brown, primera-nacional): +4
+- Maximiliano Gutiérrez (Ciudad De Bolivar, primera-nacional): +4

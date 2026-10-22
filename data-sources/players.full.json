@@ -83325,6 +83325,27 @@
   "playedAscenso": true
  },
  {
+  "id": "lautaro-di-lollo",
+  "name": "Lautaro Di Lollo",
+  "shortName": "Di Lollo",
+  "position": "CB",
+  "goals": 6,
+  "leagueGoals": 4,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Lautaro_Di_Lollo"
+  }
+ },
+ {
   "id": "lautaro-leguizamon",
   "name": "Lautaro Leguizamón",
   "shortName": "Leguizamón",
@@ -92082,27 +92103,6 @@
    "soloascenso"
   ],
   "playedAscenso": true
- },
- {
-  "id": "lautaro-di-lollo",
-  "name": "Lautaro Di Lollo",
-  "shortName": "Di Lollo",
-  "position": "CB",
-  "goals": 5,
-  "leagueGoals": 4,
-  "cupGoals": 0,
-  "intlGoals": 1,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Lautaro_Di_Lollo"
-  }
  },
  {
   "id": "lautaro-gomez",

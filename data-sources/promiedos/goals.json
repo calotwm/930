@@ -1,1 +1,192 @@
-{}
+{
+ "Andres Vombergar|Aldosivi": {
+  "name": "Andres Vombergar",
+  "team": "Aldosivi",
+  "goals": 1
+ },
+ "Miguel Merentiel|Boca Juniors": {
+  "name": "Miguel Merentiel",
+  "team": "Boca Juniors",
+  "goals": 1
+ },
+ "Allan Wlk|Lanús": {
+  "name": "Allan Wlk",
+  "team": "Lanús",
+  "goals": 1
+ },
+ "Jose Florentín|Independiente Rivadavia": {
+  "name": "Jose Florentín",
+  "team": "Independiente Rivadavia",
+  "goals": 1
+ },
+ "Tomás Galván|River Plate": {
+  "name": "Tomás Galván",
+  "team": "River Plate",
+  "goals": 1
+ },
+ "Angel Correa|River Plate": {
+  "name": "Angel Correa",
+  "team": "River Plate",
+  "goals": 1
+ },
+ "Gastón Ávila|Rosario Central": {
+  "name": "Gastón Ávila",
+  "team": "Rosario Central",
+  "goals": 3
+ },
+ "Leonel Flores|Boca Juniors": {
+  "name": "Leonel Flores",
+  "team": "Boca Juniors",
+  "goals": 1
+ },
+ "Maximiliano Meza|Independiente": {
+  "name": "Maximiliano Meza",
+  "team": "Independiente",
+  "goals": 1
+ },
+ "Thiago Almada|River Plate": {
+  "name": "Thiago Almada",
+  "team": "River Plate",
+  "goals": 1
+ },
+ "Edwuin Cetré|Estudiantes de La Plata": {
+  "name": "Edwuin Cetré",
+  "team": "Estudiantes de La Plata",
+  "goals": 1
+ },
+ "Gabriel Alanís|Estudiantes RC": {
+  "name": "Gabriel Alanís",
+  "team": "Estudiantes RC",
+  "goals": 2
+ },
+ "Jeremías Lázaro|Instituto": {
+  "name": "Jeremías Lázaro",
+  "team": "Instituto",
+  "goals": 2
+ },
+ "Julián Fernández|Rosario Central": {
+  "name": "Julián Fernández",
+  "team": "Rosario Central",
+  "goals": 2
+ },
+ "Matías Fernández|Independiente Rivadavia": {
+  "name": "Matías Fernández",
+  "team": "Independiente Rivadavia",
+  "goals": 2
+ },
+ "Matías Giménez|Argentinos Juniors": {
+  "name": "Matías Giménez",
+  "team": "Argentinos Juniors",
+  "goals": 2
+ },
+ "Ramiro Ruiz|Atlético Tucumán": {
+  "name": "Ramiro Ruiz",
+  "team": "Atlético Tucumán",
+  "goals": 2
+ },
+ "Thiago Silvero|Vélez Sarsfield": {
+  "name": "Thiago Silvero",
+  "team": "Vélez Sarsfield",
+  "goals": 2
+ },
+ "Ibrahim Hesar|Estudiantes RC": {
+  "name": "Ibrahim Hesar",
+  "team": "Estudiantes RC",
+  "goals": 2
+ },
+ "Martín Pino|Godoy Cruz": {
+  "name": "Martín Pino",
+  "team": "Godoy Cruz",
+  "goals": 3
+ },
+ "Ignacio Lago|Colón": {
+  "name": "Ignacio Lago",
+  "team": "Colón",
+  "goals": 1
+ },
+ "Nazareno Funez|San Martín San Juan": {
+  "name": "Nazareno Funez",
+  "team": "San Martín San Juan",
+  "goals": 1
+ },
+ "Lautaro Parisi|Ferro Carril Oeste": {
+  "name": "Lautaro Parisi",
+  "team": "Ferro Carril Oeste",
+  "goals": 1
+ },
+ "Guillermo Sánchez|Ciudad De Bolivar": {
+  "name": "Guillermo Sánchez",
+  "team": "Ciudad De Bolivar",
+  "goals": 1
+ },
+ "Axel Rodríguez|Godoy Cruz": {
+  "name": "Axel Rodríguez",
+  "team": "Godoy Cruz",
+  "goals": 1
+ },
+ "Bruno Cabrera|San Martín Tucumán": {
+  "name": "Bruno Cabrera",
+  "team": "San Martín Tucumán",
+  "goals": 2
+ },
+ "Gabriel Hauche|Temperley": {
+  "name": "Gabriel Hauche",
+  "team": "Temperley",
+  "goals": 1
+ },
+ "Rodrigo Monserrat|Colegiales": {
+  "name": "Rodrigo Monserrat",
+  "team": "Colegiales",
+  "goals": 1
+ },
+ "Vicente Poggi|Godoy Cruz": {
+  "name": "Vicente Poggi",
+  "team": "Godoy Cruz",
+  "goals": 1
+ },
+ "Francisco Molina|Gimnasia de Jujuy": {
+  "name": "Francisco Molina",
+  "team": "Gimnasia de Jujuy",
+  "goals": 1
+ },
+ "Martiniano Moreno|Atlético Rafaela": {
+  "name": "Martiniano Moreno",
+  "team": "Atlético Rafaela",
+  "goals": 1
+ },
+ "Alexis Domínguez|Chacarita Juniors": {
+  "name": "Alexis Domínguez",
+  "team": "Chacarita Juniors",
+  "goals": 1
+ },
+ "Diego Becker|Tristan Suárez": {
+  "name": "Diego Becker",
+  "team": "Tristan Suárez",
+  "goals": 1
+ },
+ "Ian Vera|Estudiantes": {
+  "name": "Ian Vera",
+  "team": "Estudiantes",
+  "goals": 2
+ },
+ "Mauro Albertengo|Colegiales": {
+  "name": "Mauro Albertengo",
+  "team": "Colegiales",
+  "goals": 1
+ },
+ "Alejo Tabares|All Boys": {
+  "name": "Alejo Tabares",
+  "team": "All Boys",
+  "goals": 4
+ },
+ "Javier Martinez|Almirante Brown": {
+  "name": "Javier Martinez",
+  "team": "Almirante Brown",
+  "goals": 4
+ },
+ "Maximiliano Gutiérrez|Ciudad De Bolivar": {
+  "name": "Maximiliano Gutiérrez",
+  "team": "Ciudad De Bolivar",
+  "goals": 4
+ }
+}

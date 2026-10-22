@@ -1,6 +1,6 @@
 import type { Lineup, Player } from './types'
 
-export const TARGET = 934
+export const TARGET = 936
 
 export type ScoreStatus = 'under' | 'exact' | 'over'
 

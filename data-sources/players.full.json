@@ -477,41 +477,11 @@
   ]
  },
  {
-  "id": "domingo-tarasconi",
-  "name": "Domingo Tarasconi",
-  "fullName": "Domingo Alberto Tarasconi",
-  "shortName": "Tarasconi",
-  "position": "ST",
-  "goals": 215,
-  "leagueGoals": 209,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Atlanta",
-   "Boca Juniors",
-   "Sportivo Barracas",
-   "General San Martín",
-   "Argentinos Juniors",
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "1920s–1930s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Domingo_Tarasconi"
-  },
-  "review": [
-   "position-unverified"
-  ],
-  "cupGoals": 0,
-  "intlGoals": 1
- },
- {
   "id": "jonathan-herrera",
   "name": "Jonathan Herrera",
   "shortName": "Herrera",
   "position": "ST",
-  "goals": 210,
+  "goals": 218,
   "leagueGoals": 193,
   "cupGoals": 11,
   "intlGoals": 6,
@@ -559,6 +529,36 @@
    "Primera B Metropolitana (copia del 29/12/2025): 6"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "domingo-tarasconi",
+  "name": "Domingo Tarasconi",
+  "fullName": "Domingo Alberto Tarasconi",
+  "shortName": "Tarasconi",
+  "position": "ST",
+  "goals": 215,
+  "leagueGoals": 209,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Atlanta",
+   "Boca Juniors",
+   "Sportivo Barracas",
+   "General San Martín",
+   "Argentinos Juniors",
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "1920s–1930s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Domingo_Tarasconi"
+  },
+  "review": [
+   "position-unverified"
+  ],
+  "cupGoals": 0,
+  "intlGoals": 1
  },
  {
   "id": "miguel-brindisi",
@@ -2937,6 +2937,63 @@
   "intlGoals": 0
  },
  {
+  "id": "luis-silba",
+  "name": "Luis Silba",
+  "shortName": "Silba",
+  "position": "ST",
+  "goals": 126,
+  "leagueGoals": 112,
+  "cupGoals": 12,
+  "intlGoals": 0,
+  "club": "Estudiantes (Río Cuarto)",
+  "clubs": [
+   "Estudiantes (Río Cuarto)",
+   "Gimnasia (M)",
+   "Deportivo Madryn",
+   "Central Norte",
+   "Unión (Santa Fe)",
+   "San Martín (T)",
+   "Guaraní A. F.",
+   "Tristán Suárez",
+   "San Jorge",
+   "Gimnasia y Tiro",
+   "Sarmiento (R)",
+   "Estudiantes RC",
+   "Dep. Madryn"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Luis_Silba"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "wiki-ascenso-editions",
+   "soloascenso"
+  ],
+  "cupSources": [
+   "Copa Argentina 2018: 5",
+   "Copa Argentina 2019: 3",
+   "Primera B Nacional / Primera Nacional 2022: 14",
+   "Primera B Nacional / Primera Nacional 2026: 12"
+  ],
+  "saSources": [
+   "Primera Nacional / B Nacional (copia del 05/12/2022): 14",
+   "Primera Nacional / B Nacional (copia del 18/12/2024): 12",
+   "Primera Nacional / B Nacional (copia del 29/12/2025): 8",
+   "Torneo Federal A (copia del 08/08/2018): 16",
+   "Torneo Federal A (copia del 20/07/2019): 12",
+   "Torneo Federal A (copia del 22/12/2021): 12"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "mauro-matos",
   "name": "Mauro Matos",
   "shortName": "Matos",
@@ -3063,63 +3120,6 @@
   "review": [
    "position-unverified"
   ]
- },
- {
-  "id": "luis-silba",
-  "name": "Luis Silba",
-  "shortName": "Silba",
-  "position": "ST",
-  "goals": 124,
-  "leagueGoals": 112,
-  "cupGoals": 12,
-  "intlGoals": 0,
-  "club": "Estudiantes (Río Cuarto)",
-  "clubs": [
-   "Estudiantes (Río Cuarto)",
-   "Gimnasia (M)",
-   "Deportivo Madryn",
-   "Central Norte",
-   "Unión (Santa Fe)",
-   "San Martín (T)",
-   "Guaraní A. F.",
-   "Tristán Suárez",
-   "San Jorge",
-   "Gimnasia y Tiro",
-   "Sarmiento (R)",
-   "Estudiantes RC",
-   "Dep. Madryn"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Luis_Silba"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "wiki-ascenso-editions",
-   "soloascenso"
-  ],
-  "cupSources": [
-   "Copa Argentina 2018: 5",
-   "Copa Argentina 2019: 3",
-   "Primera B Nacional / Primera Nacional 2022: 14",
-   "Primera B Nacional / Primera Nacional 2026: 12"
-  ],
-  "saSources": [
-   "Primera Nacional / B Nacional (copia del 05/12/2022): 14",
-   "Primera Nacional / B Nacional (copia del 18/12/2024): 12",
-   "Primera Nacional / B Nacional (copia del 29/12/2025): 8",
-   "Torneo Federal A (copia del 08/08/2018): 16",
-   "Torneo Federal A (copia del 20/07/2019): 12",
-   "Torneo Federal A (copia del 22/12/2021): 12"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "paulo-valentim",
@@ -5548,6 +5548,36 @@
   ]
  },
  {
+  "id": "miguel-merentiel",
+  "name": "Miguel Merentiel",
+  "shortName": "Merentiel",
+  "position": "ST",
+  "goals": 96,
+  "leagueGoals": 49,
+  "cupGoals": 37,
+  "intlGoals": 8,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Godoy Cruz",
+   "Defensa y Justicia",
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Miguel_Merentiel"
+  },
+  "cupSources": [
+   "Copa Argentina 2023: 3",
+   "Copa Argentina 2024: 2",
+   "Copa de la Liga Profesional 2020: 6",
+   "Copa de la Liga Profesional 2023: 7",
+   "Copa de la Liga Profesional 2024: 7"
+  ]
+ },
+ {
   "id": "sergio-martinez",
   "name": "Sergio Martínez",
   "shortName": "Martínez",
@@ -5611,36 +5641,6 @@
   "scope": "Liga y copas con clubes argentinos",
   "review": [
    "manual-correction"
-  ]
- },
- {
-  "id": "miguel-merentiel",
-  "name": "Miguel Merentiel",
-  "shortName": "Merentiel",
-  "position": "ST",
-  "goals": 95,
-  "leagueGoals": 49,
-  "cupGoals": 37,
-  "intlGoals": 8,
-  "club": "Boca Juniors",
-  "clubs": [
-   "Godoy Cruz",
-   "Defensa y Justicia",
-   "Boca Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Miguel_Merentiel"
-  },
-  "cupSources": [
-   "Copa Argentina 2023: 3",
-   "Copa Argentina 2024: 2",
-   "Copa de la Liga Profesional 2020: 6",
-   "Copa de la Liga Profesional 2023: 7",
-   "Copa de la Liga Profesional 2024: 7"
   ]
  },
  {
@@ -8155,6 +8155,34 @@
   "playedAscenso": true
  },
  {
+  "id": "nacho-fernandez",
+  "name": "Nacho Fernández",
+  "shortName": "Fernández",
+  "position": "AM",
+  "goals": 74,
+  "leagueGoals": 44,
+  "cupGoals": 16,
+  "intlGoals": 12,
+  "club": "River Plate",
+  "clubs": [
+   "Gimnasia LP",
+   "River Plate",
+   "Gimnasia",
+   "Temperley"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ignacio_Mart%C3%ADn_Fern%C3%A1ndez"
+  },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "pedro-pasculli",
   "name": "Pedro Pasculli",
   "shortName": "Pasculli",
@@ -8407,34 +8435,6 @@
    "name": "Corrección manual: aporte del autor del juego",
    "url": "https://www.transfermarkt.com/leandro-lazzaro/leistungsdaten/spieler/53131"
   },
-  "playedAscenso": true
- },
- {
-  "id": "nacho-fernandez",
-  "name": "Nacho Fernández",
-  "shortName": "Fernández",
-  "position": "AM",
-  "goals": 72,
-  "leagueGoals": 44,
-  "cupGoals": 16,
-  "intlGoals": 12,
-  "club": "River Plate",
-  "clubs": [
-   "Gimnasia LP",
-   "River Plate",
-   "Gimnasia",
-   "Temperley"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Ignacio_Mart%C3%ADn_Fern%C3%A1ndez"
-  },
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
   "playedAscenso": true
  },
  {
@@ -9291,6 +9291,46 @@
   "playedAscenso": true
  },
  {
+  "id": "diego-aguirre",
+  "name": "Diego Aguirre",
+  "shortName": "Aguirre",
+  "position": "ST",
+  "goals": 65,
+  "leagueGoals": 56,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensores Unidos (Zarate)",
+  "clubs": [
+   "Defensores Unidos (Zarate)",
+   "Independiente",
+   "Nueva Chicago"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/diego-aguirre/leistungsdaten/spieler/267862"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 14",
+   "Primera B Metropolitana (copia del 03/12/2023): 6",
+   "Primera B Metropolitana (copia del 04/01/2025): 18",
+   "Primera C (copia del 07/12/2024): 10",
+   "Primera C (copia del 08/12/2025): 4"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "jose-pekerman",
   "name": "José Pekerman",
   "shortName": "Pekerman",
@@ -10139,6 +10179,87 @@
   ]
  },
  {
+  "id": "andres-vombergar",
+  "name": "Andrés Vombergar",
+  "shortName": "Vombergar",
+  "position": "ST",
+  "goals": 60,
+  "leagueGoals": 58,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Lorenzo",
+  "clubs": [
+   "San Lorenzo",
+   "Aldosivi",
+   "Ituzaingó",
+   "Fénix",
+   "Los Andes"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Vombergar"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "bruno-sepulveda",
+  "name": "Bruno Sepúlveda",
+  "shortName": "Sepúlveda",
+  "position": "ST",
+  "goals": 60,
+  "leagueGoals": 53,
+  "cupGoals": 6,
+  "intlGoals": 0,
+  "club": "Banfield",
+  "clubs": [
+   "Arsenal de Sarandí",
+   "Barracas Central",
+   "Banfield",
+   "Sol de Mayo",
+   "General Roca",
+   "Estudiantes RC",
+   "Barracas C.",
+   "Platense"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91 + copas nacionales + ascenso metropolitano/federal",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/bruno-sepulveda/leistungsdaten/spieler/690718"
+  },
+  "review": [
+   "season-list-truncated",
+   "cups-partial",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "cupSources": [
+   "Copa Argentina 2017: 4",
+   "Copa Argentina 2024: 2"
+  ],
+  "saSources": [
+   "Primera Nacional / B Nacional (copia del 22/11/2020): 7",
+   "Torneo Federal A (copia del 08/08/2018): 5",
+   "Torneo Federal A (copia del 10/09/2018): 1",
+   "Torneo Federal A (copia del 20/07/2019): 12"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "hector-beron",
   "name": "Héctor Berón",
   "shortName": "Berón",
@@ -10210,87 +10331,6 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "andres-vombergar",
-  "name": "Andrés Vombergar",
-  "shortName": "Vombergar",
-  "position": "ST",
-  "goals": 59,
-  "leagueGoals": 58,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Lorenzo",
-  "clubs": [
-   "San Lorenzo",
-   "Aldosivi",
-   "Ituzaingó",
-   "Fénix",
-   "Los Andes"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Vombergar"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "bruno-sepulveda",
-  "name": "Bruno Sepúlveda",
-  "shortName": "Sepúlveda",
-  "position": "ST",
-  "goals": 59,
-  "leagueGoals": 53,
-  "cupGoals": 6,
-  "intlGoals": 0,
-  "club": "Banfield",
-  "clubs": [
-   "Arsenal de Sarandí",
-   "Barracas Central",
-   "Banfield",
-   "Sol de Mayo",
-   "General Roca",
-   "Estudiantes RC",
-   "Barracas C.",
-   "Platense"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91 + copas nacionales + ascenso metropolitano/federal",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/bruno-sepulveda/leistungsdaten/spieler/690718"
-  },
-  "review": [
-   "season-list-truncated",
-   "cups-partial",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "cupSources": [
-   "Copa Argentina 2017: 4",
-   "Copa Argentina 2024: 2"
-  ],
-  "saSources": [
-   "Primera Nacional / B Nacional (copia del 22/11/2020): 7",
-   "Torneo Federal A (copia del 08/08/2018): 5",
-   "Torneo Federal A (copia del 10/09/2018): 1",
-   "Torneo Federal A (copia del 20/07/2019): 12"
   ],
   "playedAscenso": true
  },
@@ -10490,6 +10530,45 @@
   ]
  },
  {
+  "id": "braian-chavez",
+  "name": "Braian Chávez",
+  "shortName": "Chávez",
+  "position": "ST",
+  "goals": 58,
+  "leagueGoals": 51,
+  "club": "Argentino de Quilmes",
+  "clubs": [
+   "Argentino de Quilmes",
+   "Deportivo Laferrere",
+   "San Martín (Burzaco)",
+   "Armenio"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 28/02/2020): 4",
+   "Primera B Metropolitana (copia del 04/01/2025): 7",
+   "Primera B Metropolitana (copia del 29/12/2025): 10",
+   "Primera C (copia del 13/08/2017): 10",
+   "Primera C (copia del 08/08/2018): 7",
+   "Primera C (copia del 24/07/2019): 9",
+   "Primera C (copia del 03/12/2023): 4"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "carlos-godoy",
   "name": "Carlos Godoy",
   "shortName": "Godoy",
@@ -10510,6 +10589,48 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "ignacio-colombini",
+  "name": "Ignacio Colombini",
+  "shortName": "Colombini",
+  "position": "ST",
+  "goals": 58,
+  "leagueGoals": 55,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Atlanta",
+  "clubs": [
+   "Atlanta",
+   "Almirante Brown",
+   "Ferro Carril Oeste",
+   "Racing Club",
+   "Quilmes",
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ignacio-colombini/leistungsdaten/spieler/139931"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera Nacional / B Nacional (copia del 22/12/2021): 11",
+   "Primera Nacional / B Nacional (copia del 13/02/2022): 1",
+   "Primera B Metropolitana (copia del 17/08/2017): 9",
+   "Primera B Metropolitana (copia del 08/08/2018): 9",
+   "Primera B Metropolitana (copia del 24/07/2019): 17"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "javier-saviola",
@@ -10762,46 +10883,6 @@
   ]
  },
  {
-  "id": "diego-aguirre",
-  "name": "Diego Aguirre",
-  "shortName": "Aguirre",
-  "position": "ST",
-  "goals": 56,
-  "leagueGoals": 56,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensores Unidos (Zarate)",
-  "clubs": [
-   "Defensores Unidos (Zarate)",
-   "Independiente",
-   "Nueva Chicago"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/diego-aguirre/leistungsdaten/spieler/267862"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 14",
-   "Primera B Metropolitana (copia del 03/12/2023): 6",
-   "Primera B Metropolitana (copia del 04/01/2025): 18",
-   "Primera C (copia del 07/12/2024): 10",
-   "Primera C (copia del 08/12/2025): 4"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "martin-prost",
   "name": "Martín Prost",
   "shortName": "Prost",
@@ -10993,48 +11074,6 @@
    "club-top-scorers",
    "position-unverified"
   ]
- },
- {
-  "id": "ignacio-colombini",
-  "name": "Ignacio Colombini",
-  "shortName": "Colombini",
-  "position": "ST",
-  "goals": 55,
-  "leagueGoals": 55,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Atlanta",
-  "clubs": [
-   "Atlanta",
-   "Almirante Brown",
-   "Ferro Carril Oeste",
-   "Racing Club",
-   "Quilmes",
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ignacio-colombini/leistungsdaten/spieler/139931"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera Nacional / B Nacional (copia del 22/12/2021): 11",
-   "Primera Nacional / B Nacional (copia del 13/02/2022): 1",
-   "Primera B Metropolitana (copia del 17/08/2017): 9",
-   "Primera B Metropolitana (copia del 08/08/2018): 9",
-   "Primera B Metropolitana (copia del 24/07/2019): 17"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "leonardo-pisculichi",
@@ -11355,6 +11394,39 @@
   "review": [
    "club-total-only"
   ]
+ },
+ {
+  "id": "leandro-fernandez",
+  "name": "Leandro Fernández",
+  "shortName": "Fernández",
+  "position": "ST",
+  "goals": 53,
+  "leagueGoals": 52,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Godoy Cruz",
+   "Independiente",
+   "Vélez Sarsfield",
+   "Defensa y Justicia",
+   "Ferro Carril Oeste",
+   "Argentinos Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/leandro-fernandez/leistungsdaten/spieler/131840"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "lucas-lobos",
@@ -11725,39 +11797,6 @@
   "playedAscenso": true
  },
  {
-  "id": "leandro-fernandez",
-  "name": "Leandro Fernández",
-  "shortName": "Fernández",
-  "position": "ST",
-  "goals": 52,
-  "leagueGoals": 52,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Godoy Cruz",
-   "Independiente",
-   "Vélez Sarsfield",
-   "Defensa y Justicia",
-   "Ferro Carril Oeste",
-   "Argentinos Juniors"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/leandro-fernandez/leistungsdaten/spieler/131840"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "maximiliano-tunessi",
   "name": "Maximiliano Tunessi",
   "shortName": "Tunessi",
@@ -11833,45 +11872,6 @@
   ],
   "cupGoals": 2,
   "intlGoals": 0,
-  "playedAscenso": true
- },
- {
-  "id": "braian-chavez",
-  "name": "Braian Chávez",
-  "shortName": "Chávez",
-  "position": "ST",
-  "goals": 51,
-  "leagueGoals": 51,
-  "club": "Argentino de Quilmes",
-  "clubs": [
-   "Argentino de Quilmes",
-   "Deportivo Laferrere",
-   "San Martín (Burzaco)",
-   "Armenio"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 28/02/2020): 4",
-   "Primera B Metropolitana (copia del 04/01/2025): 7",
-   "Primera B Metropolitana (copia del 29/12/2025): 10",
-   "Primera C (copia del 13/08/2017): 10",
-   "Primera C (copia del 08/08/2018): 7",
-   "Primera C (copia del 24/07/2019): 9",
-   "Primera C (copia del 03/12/2023): 4"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
   "playedAscenso": true
  },
  {
@@ -12298,6 +12298,39 @@
   ]
  },
  {
+  "id": "cristian-menendez",
+  "name": "Cristian Menéndez",
+  "shortName": "Menéndez",
+  "position": "ST",
+  "goals": 49,
+  "leagueGoals": 48,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Atlético Tucumán",
+  "clubs": [
+   "Atlético Tucumán",
+   "Lanús",
+   "Quilmes",
+   "Independiente",
+   "Gimnasia y Esgrima (Jujuy)"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/cristian-menendez/leistungsdaten/spieler/74086"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "daniel-salvatierra",
   "name": "Daniel Salvatierra",
   "shortName": "Salvatierra",
@@ -12446,6 +12479,43 @@
    "Torneo Federal A (copia del 05/12/2022): 11",
    "Torneo Federal A (copia del 13/12/2023): 11",
    "Torneo Federal A (copia del 03/12/2024): 5"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "gabriel-tellas",
+  "name": "Gabriel Tellas",
+  "shortName": "Tellas",
+  "position": "ST",
+  "goals": 49,
+  "leagueGoals": 42,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Chacarita Juniors",
+  "clubs": [
+   "Chacarita Juniors",
+   "Olimpo",
+   "All Boys"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/gabriel-tellas/leistungsdaten/spieler/587869"
+  },
+  "review": [
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 24/07/2019): 18",
+   "Primera C (copia del 01/08/2016): 3",
+   "Primera C (copia del 08/08/2018): 20"
   ],
   "playedAscenso": true
  },
@@ -12746,39 +12816,6 @@
   "ascensoEvidence": [
    "tm-arg2",
    "wiki-ascenso-editions"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "cristian-menendez",
-  "name": "Cristian Menéndez",
-  "shortName": "Menéndez",
-  "position": "ST",
-  "goals": 48,
-  "leagueGoals": 48,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Atlético Tucumán",
-  "clubs": [
-   "Atlético Tucumán",
-   "Lanús",
-   "Quilmes",
-   "Independiente",
-   "Gimnasia y Esgrima (Jujuy)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/cristian-menendez/leistungsdaten/spieler/74086"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -13713,6 +13750,44 @@
   ]
  },
  {
+  "id": "leonel-barrios",
+  "name": "Leonel Barrios",
+  "shortName": "Barrios",
+  "position": "ST",
+  "goals": 46,
+  "leagueGoals": 43,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres (Remedios de Escalada)",
+  "clubs": [
+   "Talleres (Remedios de Escalada)",
+   "Independiente",
+   "Temperley"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/leonel-barrios/leistungsdaten/spieler/357336"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 04/01/2025): 20",
+   "Primera C (copia del 05/12/2022): 4",
+   "Primera C (copia del 03/12/2023): 16"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "mario-fernandez",
   "name": "Mario Fernández",
   "shortName": "Fernández",
@@ -13738,6 +13813,45 @@
   "review": [
    "club-total-only"
   ]
+ },
+ {
+  "id": "martin-gimenez",
+  "name": "Martín Giménez",
+  "shortName": "Giménez",
+  "position": "ST",
+  "goals": 46,
+  "leagueGoals": 33,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Arsenal de Sarandí",
+  "clubs": [
+   "Arsenal de Sarandí",
+   "CADU (Zarate)",
+   "Almirante Brown",
+   "Quilmes",
+   "All Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91 + ascenso metropolitano/federal",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/martin-gimenez/leistungsdaten/spieler/196182"
+  },
+  "review": [
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera Nacional / B Nacional (copia del 03/12/2023): 8",
+   "Primera Nacional / B Nacional (copia del 18/12/2024): 6",
+   "Primera B Metropolitana (copia del 20/11/2022): 6",
+   "Primera C (copia del 01/08/2016): 4"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "mauro-albertengo",
@@ -14287,6 +14401,37 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Marcelo_Gallardo"
   }
+ },
+ {
+  "id": "martin-pino",
+  "name": "Martín Pino",
+  "shortName": "Pino",
+  "position": "ST",
+  "goals": 45,
+  "leagueGoals": 39,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Godoy Cruz",
+   "Instituto ACC",
+   "Gimnasia y Tiro",
+   "Guillermo Brown",
+   "San Martín (T)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Pino"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "wiki-ascenso-editions",
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "michael-santos",
@@ -15127,44 +15272,6 @@
   ]
  },
  {
-  "id": "leonel-barrios",
-  "name": "Leonel Barrios",
-  "shortName": "Barrios",
-  "position": "ST",
-  "goals": 43,
-  "leagueGoals": 43,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres (Remedios de Escalada)",
-  "clubs": [
-   "Talleres (Remedios de Escalada)",
-   "Independiente",
-   "Temperley"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/leonel-barrios/leistungsdaten/spieler/357336"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 04/01/2025): 20",
-   "Primera C (copia del 05/12/2022): 4",
-   "Primera C (copia del 03/12/2023): 16"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "lucas-viatri",
   "name": "Lucas Viatri",
   "shortName": "Viatri",
@@ -15187,37 +15294,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/lucas-viatri/leistungsdaten/spieler/74693"
   }
- },
- {
-  "id": "martin-pino",
-  "name": "Martín Pino",
-  "shortName": "Pino",
-  "position": "ST",
-  "goals": 43,
-  "leagueGoals": 39,
-  "cupGoals": 1,
-  "intlGoals": 0,
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Godoy Cruz",
-   "Instituto ACC",
-   "Gimnasia y Tiro",
-   "Guillermo Brown",
-   "San Martín (T)"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Pino"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "wiki-ascenso-editions",
-   "soloascenso"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "matias-alustiza",
@@ -15536,43 +15612,6 @@
   "playedAscenso": true
  },
  {
-  "id": "gabriel-tellas",
-  "name": "Gabriel Tellas",
-  "shortName": "Tellas",
-  "position": "ST",
-  "goals": 42,
-  "leagueGoals": 42,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Chacarita Juniors",
-  "clubs": [
-   "Chacarita Juniors",
-   "Olimpo",
-   "All Boys"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/gabriel-tellas/leistungsdaten/spieler/587869"
-  },
-  "review": [
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 24/07/2019): 18",
-   "Primera C (copia del 01/08/2016): 3",
-   "Primera C (copia del 08/08/2018): 20"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "jose-vizcarra",
   "name": "José Vizcarra",
   "shortName": "Vizcarra",
@@ -15693,6 +15732,43 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "matias-flores",
+  "name": "Matías Flores",
+  "shortName": "Flores",
+  "position": "AM",
+  "goals": 42,
+  "leagueGoals": 38,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres (Remedios de Escalada)",
+  "clubs": [
+   "Talleres (Remedios de Escalada)",
+   "Ferrocarril Midland"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/matias-flores/leistungsdaten/spieler/902518"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera C (copia del 05/12/2022): 9",
+   "Primera C (copia del 03/12/2023): 5",
+   "Primera C (copia del 07/12/2024): 19"
   ],
   "playedAscenso": true
  },
@@ -15918,6 +15994,44 @@
    "club-total-only",
    "position-unverified"
   ]
+ },
+ {
+  "id": "fernando-enrique",
+  "name": "Fernando Enrique",
+  "shortName": "Enrique",
+  "position": "AM",
+  "goals": 41,
+  "leagueGoals": 36,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres (Remedios de Escalada)",
+  "clubs": [
+   "Talleres (Remedios de Escalada)",
+   "Rosario Central",
+   "Atlanta",
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Fernando_Enrique"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 08/08/2018): 6",
+   "Primera B Metropolitana (copia del 24/07/2019): 5",
+   "Primera B Metropolitana (copia del 03/12/2023): 6"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "fernando-walter",
@@ -16347,6 +16461,40 @@
   "cupSources": [
    "Copa Sudamericana 2014: 4"
   ]
+ },
+ {
+  "id": "ronaldo-martinez",
+  "name": "Ronaldo Martínez",
+  "shortName": "Martínez",
+  "position": "ST",
+  "goals": 41,
+  "leagueGoals": 32,
+  "cupGoals": 6,
+  "intlGoals": 0,
+  "club": "Platense",
+  "clubs": [
+   "Platense",
+   "Talleres",
+   "Central Norte",
+   "Vélez Sarsfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez"
+  },
+  "review": [
+   "soloascenso-partial"
+  ],
+  "saSources": [
+   "Torneo Federal A (copia del 28/09/2020): 5"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "alberto-lorenzo",
@@ -16823,6 +16971,42 @@
   }
  },
  {
+  "id": "rodrigo-salinas",
+  "name": "Rodrigo Salinas",
+  "shortName": "Salinas",
+  "position": "ST",
+  "goals": 40,
+  "leagueGoals": 31,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Godoy Cruz",
+  "clubs": [
+   "Vélez Sarsfield",
+   "Newell's Old Boys",
+   "Sarmiento (Junin)",
+   "Godoy Cruz",
+   "Vil. San Carlos",
+   "Rosario Central",
+   "Unión (Santa Fe)",
+   "Los Andes",
+   "Chacarita Juniors",
+   "Sarmiento Junin",
+   "Mitre (SdE)"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/rodrigo-salinas/leistungsdaten/spieler/125750"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "ruben-galvan",
   "name": "Rubén Galván",
   "shortName": "Galván",
@@ -16916,6 +17100,41 @@
   "playedAscenso": true
  },
  {
+  "id": "alan-salvador",
+  "name": "Alan Salvador",
+  "shortName": "Salvador",
+  "position": "ST",
+  "goals": 39,
+  "leagueGoals": 33,
+  "club": "Argentino de Merlo",
+  "clubs": [
+   "UAI Urquiza",
+   "Argentino de Merlo"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 03/12/2023): 3",
+   "Primera B Metropolitana (copia del 04/01/2025): 9",
+   "Primera B Metropolitana (copia del 29/12/2025): 7",
+   "Primera C (copia del 13/08/2017): 4",
+   "Primera C (copia del 12/03/2020): 10"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "diego-klimowicz",
   "name": "Diego Klimowicz",
   "shortName": "Klimowicz",
@@ -16964,6 +17183,38 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Diego_Alberto_Morales"
   },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "enzo-diaz-610272",
+  "name": "Enzo Díaz",
+  "shortName": "Díaz",
+  "position": "ST",
+  "goals": 39,
+  "leagueGoals": 35,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Ferro Carril Oeste",
+  "clubs": [
+   "Ferro Carril Oeste",
+   "Tigre",
+   "Patronato",
+   "Los Andes",
+   "UAI Urquiza"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/enzo-diaz/leistungsdaten/spieler/610272"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
   "ascensoEvidence": [
    "tm-arg2"
   ],
@@ -17379,6 +17630,43 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/denis-stracqualursi/leistungsdaten/spieler/92544"
   }
+ },
+ {
+  "id": "ezequiel-melillo",
+  "name": "Ezequiel Melillo",
+  "shortName": "Melillo",
+  "position": "AM",
+  "goals": 38,
+  "leagueGoals": 35,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Tristán Suárez",
+  "clubs": [
+   "Tristán Suárez"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ezequiel-melillo/leistungsdaten/spieler/613698"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 17/08/2017): 6",
+   "Primera B Metropolitana (copia del 08/08/2018): 4",
+   "Primera B Metropolitana (copia del 28/02/2020): 5",
+   "Primera B Metropolitana (copia del 03/12/2023): 10",
+   "Primera B Metropolitana (copia del 29/12/2025): 5"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "fernando-brandan",
@@ -17837,43 +18125,6 @@
   "playedAscenso": true
  },
  {
-  "id": "matias-flores",
-  "name": "Matías Flores",
-  "shortName": "Flores",
-  "position": "AM",
-  "goals": 38,
-  "leagueGoals": 38,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres (Remedios de Escalada)",
-  "clubs": [
-   "Talleres (Remedios de Escalada)",
-   "Ferrocarril Midland"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/matias-flores/leistungsdaten/spieler/902518"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera C (copia del 05/12/2022): 9",
-   "Primera C (copia del 03/12/2023): 5",
-   "Primera C (copia del 07/12/2024): 19"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "maximiliano-romero",
   "name": "Maximiliano Romero",
   "shortName": "Romero",
@@ -18117,40 +18368,6 @@
   ],
   "cupSources": [
    "Copa Argentina 2026: 1"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "ronaldo-martinez",
-  "name": "Ronaldo Martínez",
-  "shortName": "Martínez",
-  "position": "ST",
-  "goals": 38,
-  "leagueGoals": 32,
-  "cupGoals": 6,
-  "intlGoals": 0,
-  "club": "Platense",
-  "clubs": [
-   "Platense",
-   "Talleres",
-   "Central Norte",
-   "Vélez Sarsfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Ronaldo_Mart%C3%ADnez"
-  },
-  "review": [
-   "soloascenso-partial"
-  ],
-  "saSources": [
-   "Torneo Federal A (copia del 28/09/2020): 5"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -18430,6 +18647,42 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "gonzalo-gomez",
+  "name": "Gonzalo Gómez",
+  "shortName": "Gómez",
+  "position": "RW",
+  "goals": 37,
+  "leagueGoals": 28,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Maipú",
+  "clubs": [
+   "Maipú"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/gonzalo-gomez/leistungsdaten/spieler/573957"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 04/01/2025): 7",
+   "Primera C (copia del 08/12/2025): 8",
+   "Torneo Federal B / Regional Amateur (copia del 29/07/2019): 12"
   ],
   "playedAscenso": true
  },
@@ -19081,44 +19334,6 @@
   "playedAscenso": true
  },
  {
-  "id": "fernando-enrique",
-  "name": "Fernando Enrique",
-  "shortName": "Enrique",
-  "position": "AM",
-  "goals": 36,
-  "leagueGoals": 36,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres (Remedios de Escalada)",
-  "clubs": [
-   "Talleres (Remedios de Escalada)",
-   "Rosario Central",
-   "Atlanta",
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Fernando_Enrique"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 08/08/2018): 6",
-   "Primera B Metropolitana (copia del 24/07/2019): 5",
-   "Primera B Metropolitana (copia del 03/12/2023): 6"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "hernan-crespo",
   "name": "Hernán Crespo",
   "shortName": "Crespo",
@@ -19690,6 +19905,38 @@
   "playedAscenso": true
  },
  {
+  "id": "adrian-balboa",
+  "name": "Adrián Balboa",
+  "shortName": "Balboa",
+  "position": "ST",
+  "goals": 35,
+  "leagueGoals": 28,
+  "cupGoals": 4,
+  "intlGoals": 1,
+  "club": "Racing Club",
+  "clubs": [
+   "Sarmiento (Junin)",
+   "Patronato",
+   "Belgrano",
+   "Unión (Santa Fe)",
+   "Racing Club",
+   "Sarmiento Junin",
+   "Banfield"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Balboa"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alberto-de-sa",
   "name": "Alberto De Sá",
   "shortName": "De Sá",
@@ -19892,75 +20139,6 @@
   "playedAscenso": true
  },
  {
-  "id": "enzo-diaz-610272",
-  "name": "Enzo Díaz",
-  "shortName": "Díaz",
-  "position": "ST",
-  "goals": 35,
-  "leagueGoals": 35,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Ferro Carril Oeste",
-  "clubs": [
-   "Ferro Carril Oeste",
-   "Tigre",
-   "Patronato",
-   "Los Andes",
-   "UAI Urquiza"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/enzo-diaz/leistungsdaten/spieler/610272"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "ezequiel-melillo",
-  "name": "Ezequiel Melillo",
-  "shortName": "Melillo",
-  "position": "AM",
-  "goals": 35,
-  "leagueGoals": 35,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Tristán Suárez",
-  "clubs": [
-   "Tristán Suárez"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ezequiel-melillo/leistungsdaten/spieler/613698"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 17/08/2017): 6",
-   "Primera B Metropolitana (copia del 08/08/2018): 4",
-   "Primera B Metropolitana (copia del 28/02/2020): 5",
-   "Primera B Metropolitana (copia del 03/12/2023): 10",
-   "Primera B Metropolitana (copia del 29/12/2025): 5"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "federico-anselmo",
   "name": "Federico Anselmo",
   "shortName": "Anselmo",
@@ -20139,6 +20317,75 @@
   "playedAscenso": true
  },
  {
+  "id": "ignacio-lago",
+  "name": "Ignacio Lago",
+  "shortName": "Lago",
+  "position": "LW",
+  "goals": 35,
+  "leagueGoals": 30,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Colón",
+  "clubs": [
+   "San Martín (SJ)",
+   "AMSD Atlético de Rafaela",
+   "Colón",
+   "Almirante Brown",
+   "Talleres",
+   "Atl. Rafaela"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Ignacio_Lago"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "wiki-ascenso-editions",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "jonatan-moran",
+  "name": "Jonatan Morán",
+  "shortName": "Morán",
+  "position": "ST",
+  "goals": 35,
+  "leagueGoals": 28,
+  "club": "Deportivo Merlo",
+  "clubs": [
+   "Deportivo Merlo",
+   "Los Andes",
+   "Real Pilar FC"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 10",
+   "Primera B Metropolitana (copia del 20/11/2022): 13",
+   "Primera B Metropolitana (copia del 29/12/2025): 5"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "jorge-osvaldo-perez",
   "name": "Jorge Osvaldo Pérez",
   "shortName": "Osvaldo Pérez",
@@ -20287,6 +20534,38 @@
   ],
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "mauricio-asenjo",
+  "name": "Mauricio Asenjo",
+  "shortName": "Asenjo",
+  "position": "ST",
+  "goals": 35,
+  "leagueGoals": 34,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Banfield",
+  "clubs": [
+   "Banfield",
+   "Brown (Adrogué)",
+   "Gimnasia y Esgrima (Jujuy)",
+   "Independiente Rivadavia",
+   "Nueva Chicago",
+   "Agropecuario",
+   "Los Andes"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/mauricio-asenjo/leistungsdaten/spieler/333762"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -20723,41 +21002,6 @@
   "playedAscenso": true
  },
  {
-  "id": "ignacio-lago",
-  "name": "Ignacio Lago",
-  "shortName": "Lago",
-  "position": "LW",
-  "goals": 34,
-  "leagueGoals": 30,
-  "cupGoals": 1,
-  "intlGoals": 0,
-  "club": "Colón",
-  "clubs": [
-   "San Martín (SJ)",
-   "AMSD Atlético de Rafaela",
-   "Colón",
-   "Almirante Brown",
-   "Talleres",
-   "Atl. Rafaela"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Ignacio_Lago"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "wiki-ascenso-editions",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "javier-ferreira",
   "name": "Javier Ferreira",
   "shortName": "Ferreira",
@@ -20843,33 +21087,36 @@
   "playedAscenso": true
  },
  {
-  "id": "mauricio-asenjo",
-  "name": "Mauricio Asenjo",
-  "shortName": "Asenjo",
+  "id": "matias-samaniego",
+  "name": "Matías Samaniego",
+  "shortName": "Samaniego",
   "position": "ST",
   "goals": 34,
-  "leagueGoals": 34,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Banfield",
+  "leagueGoals": 27,
+  "club": "Villa San Carlos",
   "clubs": [
-   "Banfield",
-   "Brown (Adrogué)",
-   "Gimnasia y Esgrima (Jujuy)",
-   "Independiente Rivadavia",
-   "Nueva Chicago",
-   "Agropecuario",
-   "Los Andes"
+   "Villa San Carlos",
+   "San Miguel"
   ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
   "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/mauricio-asenjo/leistungsdaten/spieler/333762"
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
   },
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 6",
+   "Primera B Metropolitana (copia del 20/11/2022): 5",
+   "Primera B Metropolitana (copia del 03/12/2023): 4",
+   "Primera B Metropolitana (copia del 04/01/2025): 5",
+   "Primera B Metropolitana (copia del 29/12/2025): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
   "ascensoEvidence": [
-   "tm-arg2",
    "soloascenso"
   ],
   "playedAscenso": true
@@ -20951,73 +21198,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/rodrigo-lopez/leistungsdaten/spieler/58582"
   }
- },
- {
-  "id": "adrian-balboa",
-  "name": "Adrián Balboa",
-  "shortName": "Balboa",
-  "position": "ST",
-  "goals": 33,
-  "leagueGoals": 28,
-  "cupGoals": 4,
-  "intlGoals": 1,
-  "club": "Racing Club",
-  "clubs": [
-   "Sarmiento (Junin)",
-   "Patronato",
-   "Belgrano",
-   "Unión (Santa Fe)",
-   "Racing Club",
-   "Sarmiento Junin",
-   "Banfield"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Balboa"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "alan-salvador",
-  "name": "Alan Salvador",
-  "shortName": "Salvador",
-  "position": "ST",
-  "goals": 33,
-  "leagueGoals": 33,
-  "club": "Argentino de Merlo",
-  "clubs": [
-   "UAI Urquiza",
-   "Argentino de Merlo"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 03/12/2023): 3",
-   "Primera B Metropolitana (copia del 04/01/2025): 9",
-   "Primera B Metropolitana (copia del 29/12/2025): 7",
-   "Primera C (copia del 13/08/2017): 4",
-   "Primera C (copia del 12/03/2020): 10"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "alejandro-martinez",
@@ -21505,45 +21685,6 @@
    "club-total-only",
    "position-unverified"
   ]
- },
- {
-  "id": "martin-gimenez",
-  "name": "Martín Giménez",
-  "shortName": "Giménez",
-  "position": "ST",
-  "goals": 33,
-  "leagueGoals": 33,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal de Sarandí",
-  "clubs": [
-   "Arsenal de Sarandí",
-   "CADU (Zarate)",
-   "Almirante Brown",
-   "Quilmes",
-   "All Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91 + ascenso metropolitano/federal",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/martin-gimenez/leistungsdaten/spieler/196182"
-  },
-  "review": [
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera Nacional / B Nacional (copia del 03/12/2023): 8",
-   "Primera Nacional / B Nacional (copia del 18/12/2024): 6",
-   "Primera B Metropolitana (copia del 20/11/2022): 6",
-   "Primera C (copia del 01/08/2016): 4"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "martin-michel",
@@ -22277,6 +22418,41 @@
   "playedAscenso": true
  },
  {
+  "id": "nicolas-toloza",
+  "name": "Nicolás Toloza",
+  "shortName": "Toloza",
+  "position": "ST",
+  "goals": 32,
+  "leagueGoals": 31,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Colegiales",
+  "clubs": [
+   "Colegiales"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/nicolas-toloza/leistungsdaten/spieler/925438"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 28/02/2020): 4",
+   "Primera B Metropolitana (copia del 22/12/2021): 10",
+   "Primera B Metropolitana (copia del 04/01/2025): 12"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "osmar-ferreyra",
   "name": "Osmar Ferreyra",
   "shortName": "Ferreyra",
@@ -22673,6 +22849,39 @@
    "Primera Nacional / B Nacional (copia del 29/12/2025): 7",
    "Torneo Federal A (copia del 18/07/2017): 7",
    "Torneo Federal A (copia del 08/08/2018): 7"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "federico-martinez",
+  "name": "Federico Martínez",
+  "shortName": "Martínez",
+  "position": "ST",
+  "goals": 31,
+  "leagueGoals": 26,
+  "club": "Colegiales",
+  "clubs": [
+   "Sacachispas F.c",
+   "Colegiales"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 28/02/2020): 5",
+   "Primera B Metropolitana (copia del 22/12/2021): 11",
+   "Primera B Metropolitana (copia del 03/12/2023): 10"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -23257,41 +23466,6 @@
   }
  },
  {
-  "id": "nicolas-toloza",
-  "name": "Nicolás Toloza",
-  "shortName": "Toloza",
-  "position": "ST",
-  "goals": 31,
-  "leagueGoals": 31,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Colegiales",
-  "clubs": [
-   "Colegiales"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/nicolas-toloza/leistungsdaten/spieler/925438"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 28/02/2020): 4",
-   "Primera B Metropolitana (copia del 22/12/2021): 10",
-   "Primera B Metropolitana (copia del 04/01/2025): 12"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "rodrigo-astudillo",
   "name": "Rodrigo Astudillo",
   "shortName": "Astudillo",
@@ -23320,42 +23494,6 @@
   "cupSources": [
    "Copa Sudamericana 2002: 4"
   ]
- },
- {
-  "id": "rodrigo-salinas",
-  "name": "Rodrigo Salinas",
-  "shortName": "Salinas",
-  "position": "ST",
-  "goals": 31,
-  "leagueGoals": 31,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Godoy Cruz",
-  "clubs": [
-   "Vélez Sarsfield",
-   "Newell's Old Boys",
-   "Sarmiento (Junin)",
-   "Godoy Cruz",
-   "Vil. San Carlos",
-   "Rosario Central",
-   "Unión (Santa Fe)",
-   "Los Andes",
-   "Chacarita Juniors",
-   "Sarmiento Junin",
-   "Mitre (SdE)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/rodrigo-salinas/leistungsdaten/spieler/125750"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "sergio-salomone",
@@ -24119,6 +24257,40 @@
   ]
  },
  {
+  "id": "ivo-kestler",
+  "name": "Ivo Kestler",
+  "shortName": "Kestler",
+  "position": "ST",
+  "goals": 30,
+  "leagueGoals": 24,
+  "club": "Comunicaciones",
+  "clubs": [
+   "Comunicaciones",
+   "Colegiales",
+   "Los Andes"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 5",
+   "Primera B Metropolitana (copia del 20/11/2022): 13",
+   "Primera B Metropolitana (copia del 04/01/2025): 6"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "juan-prax",
   "name": "Juan Prax",
   "shortName": "Prax",
@@ -24697,6 +24869,42 @@
   ],
   "ascensoEvidence": [
    "rsssf-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "emanuel-zagert",
+  "name": "Emanuel Zagert",
+  "shortName": "Zagert",
+  "position": "ST",
+  "goals": 29,
+  "leagueGoals": 25,
+  "club": "Villa San Carlos",
+  "clubs": [
+   "San Telmo",
+   "Comunicaciones",
+   "Villa San Carlos",
+   "Gimnasia LP"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 28/02/2020): 4",
+   "Primera B Metropolitana (copia del 22/12/2021): 4",
+   "Primera B Metropolitana (copia del 03/12/2023): 8",
+   "Primera B Metropolitana (copia del 29/12/2025): 9"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -25664,42 +25872,6 @@
   ]
  },
  {
-  "id": "gonzalo-gomez",
-  "name": "Gonzalo Gómez",
-  "shortName": "Gómez",
-  "position": "RW",
-  "goals": 28,
-  "leagueGoals": 28,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Maipú",
-  "clubs": [
-   "Maipú"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/gonzalo-gomez/leistungsdaten/spieler/573957"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 04/01/2025): 7",
-   "Primera C (copia del 08/12/2025): 8",
-   "Torneo Federal B / Regional Amateur (copia del 29/07/2019): 12"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "guido-mainero",
   "name": "Guido Mainero",
   "shortName": "Mainero",
@@ -25755,36 +25927,37 @@
   ]
  },
  {
-  "id": "jonatan-moran",
-  "name": "Jonatan Morán",
-  "shortName": "Morán",
+  "id": "ivan-sandoval",
+  "name": "Iván Sandoval",
+  "shortName": "Sandoval",
   "position": "ST",
   "goals": 28,
-  "leagueGoals": 28,
-  "club": "Deportivo Merlo",
+  "leagueGoals": 17,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensores de Belgrano",
   "clubs": [
-   "Deportivo Merlo",
-   "Los Andes",
-   "Real Pilar FC"
+   "Defensores de Belgrano",
+   "Brown (Adrogué)"
   ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
   "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ivan-sandoval/leistungsdaten/spieler/872182"
   },
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 10",
-   "Primera B Metropolitana (copia del 20/11/2022): 13",
-   "Primera B Metropolitana (copia del 29/12/2025): 5"
-  ],
   "review": [
+   "season-list-truncated",
    "soloascenso-partial",
-   "position-unverified"
+   "ascenso-era-match"
   ],
   "ascensoEvidence": [
+   "tm-arg2",
    "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 28/02/2020): 3"
   ],
   "playedAscenso": true
  },
@@ -26174,6 +26347,38 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "sebastian-vivas",
+  "name": "Sebastián Vivas",
+  "shortName": "Vivas",
+  "position": "ST",
+  "goals": 28,
+  "leagueGoals": 21,
+  "club": "Dock Sud",
+  "clubs": [
+   "Dock Sud",
+   "Deportivo Español"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 03/12/2023): 13",
+   "Primera C (copia del 05/12/2022): 8"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "alejandro-toledo",
@@ -26781,37 +26986,34 @@
   "playedAscenso": true
  },
  {
-  "id": "matias-samaniego",
-  "name": "Matías Samaniego",
-  "shortName": "Samaniego",
+  "id": "matias-romero-853464",
+  "name": "Matías Romero",
+  "shortName": "Romero",
   "position": "ST",
   "goals": 27,
-  "leagueGoals": 27,
-  "club": "Villa San Carlos",
+  "leagueGoals": 25,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Chaco For Ever",
   "clubs": [
-   "Villa San Carlos",
-   "San Miguel"
+   "Chaco For Ever",
+   "Unión Güemes",
+   "Patria",
+   "Dep. Morón",
+   "Nueva Chicago"
   ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s–2020s",
   "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/matias-romero/leistungsdaten/spieler/853464"
   },
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 6",
-   "Primera B Metropolitana (copia del 20/11/2022): 5",
-   "Primera B Metropolitana (copia del 03/12/2023): 4",
-   "Primera B Metropolitana (copia del 04/01/2025): 5",
-   "Primera B Metropolitana (copia del 29/12/2025): 7"
-  ],
   "review": [
-   "soloascenso-partial",
-   "position-unverified"
+   "season-list-truncated"
   ],
   "ascensoEvidence": [
-   "soloascenso"
+   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -27377,6 +27579,39 @@
   ]
  },
  {
+  "id": "eloy-rodriguez",
+  "name": "Eloy Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 22,
+  "club": "Deportivo Laferrere",
+  "clubs": [
+   "Deportivo Laferrere",
+   "Real Pilar FC",
+   "Independiente"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 6",
+   "Primera C (copia del 07/12/2024): 16"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "emilio-espinoza",
   "name": "Emilio Espinoza",
   "shortName": "Espinoza",
@@ -27442,39 +27677,6 @@
   "playedAscenso": true
  },
  {
-  "id": "federico-martinez",
-  "name": "Federico Martínez",
-  "shortName": "Martínez",
-  "position": "ST",
-  "goals": 26,
-  "leagueGoals": 26,
-  "club": "Colegiales",
-  "clubs": [
-   "Sacachispas F.c",
-   "Colegiales"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 28/02/2020): 5",
-   "Primera B Metropolitana (copia del 22/12/2021): 11",
-   "Primera B Metropolitana (copia del 03/12/2023): 10"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "hernan-lamberti",
   "name": "Hernán Lamberti",
   "shortName": "Lamberti",
@@ -27534,6 +27736,36 @@
   ],
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "jeremias-heidenreich",
+  "name": "Jeremías Heidenreich",
+  "shortName": "Heidenreich",
+  "position": "ST",
+  "goals": 26,
+  "leagueGoals": 10,
+  "club": "Cañuelas F.C",
+  "clubs": [
+   "Cañuelas F.C"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 08/12/2025): 10"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -27648,6 +27880,35 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jose-luis-fernandez/leistungsdaten/spieler/75407"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "leonardo-sequeira",
+  "name": "Leonardo Sequeira",
+  "shortName": "Sequeira",
+  "position": "RW",
+  "goals": 26,
+  "leagueGoals": 18,
+  "cupGoals": 5,
+  "intlGoals": 2,
+  "club": "Belgrano",
+  "clubs": [
+   "Belgrano",
+   "Central Córdoba (SdE)",
+   "Huracán",
+   "Central Córdoba"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Leonardo_Sequeira"
   },
   "ascensoEvidence": [
    "tm-arg2",
@@ -28300,42 +28561,6 @@
   }
  },
  {
-  "id": "emanuel-zagert",
-  "name": "Emanuel Zagert",
-  "shortName": "Zagert",
-  "position": "ST",
-  "goals": 25,
-  "leagueGoals": 25,
-  "club": "Villa San Carlos",
-  "clubs": [
-   "San Telmo",
-   "Comunicaciones",
-   "Villa San Carlos",
-   "Gimnasia LP"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 28/02/2020): 4",
-   "Primera B Metropolitana (copia del 22/12/2021): 4",
-   "Primera B Metropolitana (copia del 03/12/2023): 8",
-   "Primera B Metropolitana (copia del 29/12/2025): 9"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "federico-jourdan",
   "name": "Federico Jourdan",
   "shortName": "Jourdan",
@@ -28573,31 +28798,40 @@
   ]
  },
  {
-  "id": "leonardo-sequeira",
-  "name": "Leonardo Sequeira",
-  "shortName": "Sequeira",
-  "position": "RW",
+  "id": "luciano-romero",
+  "name": "Luciano Romero",
+  "shortName": "Romero",
+  "position": "AM",
   "goals": 25,
-  "leagueGoals": 18,
-  "cupGoals": 5,
-  "intlGoals": 2,
-  "club": "Belgrano",
+  "leagueGoals": 22,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Douglas Haig",
   "clubs": [
-   "Belgrano",
-   "Central Córdoba (SdE)",
-   "Huracán",
-   "Central Córdoba"
+   "Douglas Haig",
+   "Barracas Central",
+   "River Plate",
+   "Nueva Chicago"
   ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
   "era": "2010s–2020s",
   "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Leonardo_Sequeira"
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/luciano-romero/leistungsdaten/spieler/728522"
   },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial"
+  ],
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
+  ],
+  "saSources": [
+   "Primera B Metropolitana (copia del 08/08/2018): 7",
+   "Primera B Metropolitana (copia del 24/07/2019): 6",
+   "Primera B Metropolitana (copia del 29/12/2025): 7"
   ],
   "playedAscenso": true
  },
@@ -28698,38 +28932,6 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "matias-romero-853464",
-  "name": "Matías Romero",
-  "shortName": "Romero",
-  "position": "ST",
-  "goals": 25,
-  "leagueGoals": 25,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Chaco For Ever",
-  "clubs": [
-   "Chaco For Ever",
-   "Unión Güemes",
-   "Patria",
-   "Dep. Morón",
-   "Nueva Chicago"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/matias-romero/leistungsdaten/spieler/853464"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -28910,6 +29112,33 @@
   "playedAscenso": true
  },
  {
+  "id": "pablo-chavarria",
+  "name": "Pablo Chavarría",
+  "shortName": "Chavarría",
+  "position": "ST",
+  "goals": 25,
+  "leagueGoals": 24,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Belgrano",
+  "clubs": [
+   "Belgrano",
+   "Racing (Córdoba)"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/pablo-chavarria/leistungsdaten/spieler/118732"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "sebastian-ribas",
   "name": "Sebastián Ribas",
   "shortName": "Ribas",
@@ -29021,6 +29250,27 @@
   "playedAscenso": true
  },
  {
+  "id": "angel-di-maria",
+  "name": "Ángel Di María",
+  "shortName": "Di María",
+  "position": "RW",
+  "goals": 24,
+  "leagueGoals": 21,
+  "cupGoals": 0,
+  "intlGoals": 2,
+  "club": "Rosario Central",
+  "clubs": [
+   "Rosario Central"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa"
+  }
+ },
+ {
   "id": "bruno-zuculini",
   "name": "Bruno Zuculini",
   "shortName": "Zuculini",
@@ -29044,6 +29294,29 @@
   "review": [
    "season-list-truncated"
   ]
+ },
+ {
+  "id": "carlos-izquierdoz",
+  "name": "Carlos Izquierdoz",
+  "shortName": "Izquierdoz",
+  "position": "CB",
+  "goals": 24,
+  "leagueGoals": 14,
+  "cupGoals": 5,
+  "intlGoals": 3,
+  "club": "Lanús",
+  "clubs": [
+   "Boca Juniors",
+   "Lanús",
+   "Atlanta"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2000s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Carlos_Izquierdoz"
+  }
  },
  {
   "id": "christian-soria",
@@ -29554,40 +29827,6 @@
   "playedAscenso": true
  },
  {
-  "id": "ivo-kestler",
-  "name": "Ivo Kestler",
-  "shortName": "Kestler",
-  "position": "ST",
-  "goals": 24,
-  "leagueGoals": 24,
-  "club": "Comunicaciones",
-  "clubs": [
-   "Comunicaciones",
-   "Colegiales",
-   "Los Andes"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 5",
-   "Primera B Metropolitana (copia del 20/11/2022): 13",
-   "Primera B Metropolitana (copia del 04/01/2025): 6"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "jeremias-caggiano",
   "name": "Jeremías Caggiano",
   "shortName": "Caggiano",
@@ -29874,33 +30113,6 @@
   "review": [
    "season-list-truncated"
   ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "pablo-chavarria",
-  "name": "Pablo Chavarría",
-  "shortName": "Chavarría",
-  "position": "ST",
-  "goals": 24,
-  "leagueGoals": 24,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Belgrano",
-  "clubs": [
-   "Belgrano",
-   "Racing (Córdoba)"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/pablo-chavarria/leistungsdaten/spieler/118732"
-  },
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
@@ -30341,27 +30553,6 @@
   ]
  },
  {
-  "id": "angel-di-maria",
-  "name": "Ángel Di María",
-  "shortName": "Di María",
-  "position": "RW",
-  "goals": 23,
-  "leagueGoals": 21,
-  "cupGoals": 0,
-  "intlGoals": 2,
-  "club": "Rosario Central",
-  "clubs": [
-   "Rosario Central"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa"
-  }
- },
- {
   "id": "blas-sosa",
   "name": "Blas Sosa",
   "shortName": "Sosa",
@@ -30712,6 +30903,40 @@
   ],
   "saSources": [
    "Torneo Federal A (copia del 13/12/2023): 6"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "franco-romero",
+  "name": "Franco Romero",
+  "shortName": "Romero",
+  "position": "DM",
+  "goals": 23,
+  "leagueGoals": 10,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente Rivadavia",
+  "clubs": [
+   "Independiente Rivadavia",
+   "Agropecuario",
+   "Defensa y Justicia"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/franco-romero/leistungsdaten/spieler/833115"
+  },
+  "review": [
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "saSources": [
+   "Primera C (copia del 08/12/2025): 8"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -31522,6 +31747,37 @@
   ]
  },
  {
+  "id": "santiago-solari",
+  "name": "Santiago Solari",
+  "shortName": "Solari",
+  "position": "RW",
+  "goals": 23,
+  "leagueGoals": 21,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Racing Club",
+  "clubs": [
+   "Defensa y Justicia",
+   "Racing Club",
+   "S. Victoria",
+   "Atlanta",
+   "Gimnasia (M)",
+   "Newell's Old Boys"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/santiago-solari/leistungsdaten/spieler/866059"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "sergio-aguero",
   "name": "Sergio Agüero",
   "shortName": "Agüero",
@@ -31723,29 +31979,6 @@
   "playedAscenso": true
  },
  {
-  "id": "carlos-izquierdoz",
-  "name": "Carlos Izquierdoz",
-  "shortName": "Izquierdoz",
-  "position": "CB",
-  "goals": 22,
-  "leagueGoals": 14,
-  "cupGoals": 5,
-  "intlGoals": 3,
-  "club": "Lanús",
-  "clubs": [
-   "Boca Juniors",
-   "Lanús",
-   "Atlanta"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2000s–2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Carlos_Izquierdoz"
-  }
- },
- {
   "id": "claudio-sarria",
   "name": "Claudio Sarría",
   "shortName": "Sarría",
@@ -31929,39 +32162,6 @@
   "saSources": [
    "Primera B Metropolitana (copia del 04/01/2025): 9",
    "Primera B Metropolitana (copia del 29/12/2025): 13"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "eloy-rodriguez",
-  "name": "Eloy Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "ST",
-  "goals": 22,
-  "leagueGoals": 22,
-  "club": "Deportivo Laferrere",
-  "clubs": [
-   "Deportivo Laferrere",
-   "Real Pilar FC",
-   "Independiente"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 6",
-   "Primera C (copia del 07/12/2024): 16"
   ],
   "review": [
    "soloascenso-partial",
@@ -32609,6 +32809,39 @@
   }
  },
  {
+  "id": "juan-cruz-vega",
+  "name": "Juan Cruz Vega",
+  "shortName": "Cruz Vega",
+  "position": "AM",
+  "goals": 22,
+  "leagueGoals": 21,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Varios clubes",
+  "clubs": [],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/juan-cruz-vega/leistungsdaten/spieler/1307785"
+  },
+  "review": [
+   "club-unverified",
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera C (copia del 07/12/2024): 15"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "juan-manuel-insaurralde",
   "name": "Juan Manuel Insaurralde",
   "shortName": "Manuel Insaurralde",
@@ -32740,44 +32973,6 @@
   "ascensoEvidence": [
    "tm-arg2",
    "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "luciano-romero",
-  "name": "Luciano Romero",
-  "shortName": "Romero",
-  "position": "AM",
-  "goals": 22,
-  "leagueGoals": 22,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Douglas Haig",
-  "clubs": [
-   "Douglas Haig",
-   "Barracas Central",
-   "River Plate",
-   "Nueva Chicago"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/luciano-romero/leistungsdaten/spieler/728522"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 08/08/2018): 7",
-   "Primera B Metropolitana (copia del 24/07/2019): 6",
-   "Primera B Metropolitana (copia del 29/12/2025): 7"
   ],
   "playedAscenso": true
  },
@@ -34148,39 +34343,6 @@
   "playedAscenso": true
  },
  {
-  "id": "juan-cruz-vega",
-  "name": "Juan Cruz Vega",
-  "shortName": "Cruz Vega",
-  "position": "AM",
-  "goals": 21,
-  "leagueGoals": 21,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Varios clubes",
-  "clubs": [],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/juan-cruz-vega/leistungsdaten/spieler/1307785"
-  },
-  "review": [
-   "club-unverified",
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera C (copia del 07/12/2024): 15"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "julio-buffarini",
   "name": "Julio Buffarini",
   "shortName": "Buffarini",
@@ -35019,37 +35181,6 @@
   ]
  },
  {
-  "id": "santiago-solari",
-  "name": "Santiago Solari",
-  "shortName": "Solari",
-  "position": "RW",
-  "goals": 21,
-  "leagueGoals": 21,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Racing Club",
-  "clubs": [
-   "Defensa y Justicia",
-   "Racing Club",
-   "S. Victoria",
-   "Atlanta",
-   "Gimnasia (M)",
-   "Newell's Old Boys"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/santiago-solari/leistungsdaten/spieler/866059"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "santiago-solari-7527",
   "name": "Santiago Solari",
   "shortName": "Solari",
@@ -35107,38 +35238,6 @@
   "saSources": [
    "Primera Nacional / B Nacional (copia del 08/08/2018): 8",
    "Primera B Metropolitana (copia del 20/11/2022): 7"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "sebastian-vivas",
-  "name": "Sebastián Vivas",
-  "shortName": "Vivas",
-  "position": "ST",
-  "goals": 21,
-  "leagueGoals": 21,
-  "club": "Dock Sud",
-  "clubs": [
-   "Dock Sud",
-   "Deportivo Español"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 03/12/2023): 13",
-   "Primera C (copia del 05/12/2022): 8"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -35244,6 +35343,28 @@
    "wiki-ascenso-editions"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "agustin-modica",
+  "name": "Agustín Módica",
+  "shortName": "Módica",
+  "position": "ST",
+  "goals": 20,
+  "leagueGoals": 15,
+  "cupGoals": 0,
+  "intlGoals": 4,
+  "club": "Gimnasia (M)",
+  "clubs": [
+   "Rosario Central",
+   "Gimnasia (M)"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_M%C3%B3dica"
+  }
  },
  {
   "id": "agustin-principe",
@@ -36246,6 +36367,37 @@
   "playedAscenso": true
  },
  {
+  "id": "mathias-crocco",
+  "name": "Mathías Crocco",
+  "shortName": "Crocco",
+  "position": "ST",
+  "goals": 20,
+  "leagueGoals": 15,
+  "club": "Real Pilar FC",
+  "clubs": [
+   "Real Pilar FC"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 7",
+   "Primera C (copia del 07/12/2024): 8"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "mauro-molina",
   "name": "Mauro Molina",
   "shortName": "Molina",
@@ -36463,26 +36615,36 @@
   "playedAscenso": true
  },
  {
-  "id": "agustin-modica",
-  "name": "Agustín Módica",
-  "shortName": "Módica",
+  "id": "aaron-spetale",
+  "name": "Aaron Spetale",
+  "shortName": "Spetale",
   "position": "ST",
   "goals": 19,
-  "leagueGoals": 15,
-  "cupGoals": 0,
-  "intlGoals": 4,
-  "club": "Gimnasia (M)",
+  "leagueGoals": 16,
+  "cupGoals": 1,
+  "intlGoals": 0,
+  "club": "Nueva Chicago",
   "clubs": [
-   "Rosario Central",
-   "Gimnasia (M)"
+   "Nueva Chicago",
+   "Gimnasia (M)",
+   "Quilmes",
+   "Estudiantes LP"
   ],
-  "division": "Primera",
+  "division": "Primera Nacional",
   "scope": "Liga y copas con clubes argentinos",
   "era": "2020s",
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_M%C3%B3dica"
-  }
+   "url": "https://es.wikipedia.org/wiki/Aaron_Spetale"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "alan-seguel",
@@ -38988,6 +39150,42 @@
   "playedAscenso": true
  },
  {
+  "id": "ignacio-huguenet",
+  "name": "Ignacio Huguenet",
+  "shortName": "Huguenet",
+  "position": "ST",
+  "goals": 18,
+  "leagueGoals": 13,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Instituto ACC",
+  "clubs": [
+   "Instituto ACC",
+   "Newell's Old Boys",
+   "Defensa y Justicia"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ignacio-huguenet/leistungsdaten/spieler/540716"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera C (copia del 08/12/2025): 11"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "javier-arias",
   "name": "Javier Arias",
   "shortName": "Arias",
@@ -39555,6 +39753,36 @@
   "playedAscenso": true
  },
  {
+  "id": "rodrigo-hernandez",
+  "name": "Rodrigo Hernández",
+  "shortName": "Hernández",
+  "position": "ST",
+  "goals": 18,
+  "leagueGoals": 11,
+  "club": "Real Pilar FC",
+  "clubs": [
+   "Real Pilar FC"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 03/12/2023): 11"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "sebastian-cocimano",
   "name": "Sebastián Cocimano",
   "shortName": "Cocimano",
@@ -39681,38 +39909,6 @@
   ],
   "saSources": [
    "Torneo Federal A (copia del 22/12/2021): 7"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "aaron-spetale",
-  "name": "Aaron Spetale",
-  "shortName": "Spetale",
-  "position": "ST",
-  "goals": 17,
-  "leagueGoals": 16,
-  "cupGoals": 1,
-  "intlGoals": 0,
-  "club": "Nueva Chicago",
-  "clubs": [
-   "Nueva Chicago",
-   "Gimnasia (M)",
-   "Quilmes",
-   "Estudiantes LP"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Aaron_Spetale"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -40919,41 +41115,6 @@
   "playedAscenso": true
  },
  {
-  "id": "ivan-sandoval",
-  "name": "Iván Sandoval",
-  "shortName": "Sandoval",
-  "position": "ST",
-  "goals": 17,
-  "leagueGoals": 17,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensores de Belgrano",
-  "clubs": [
-   "Defensores de Belgrano",
-   "Brown (Adrogué)"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ivan-sandoval/leistungsdaten/spieler/872182"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera B Metropolitana (copia del 28/02/2020): 3"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "ivan-zafarana",
   "name": "Iván Zafarana",
   "shortName": "Zafarana",
@@ -42072,6 +42233,40 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/santiago-hirsig/leistungsdaten/spieler/30880"
   }
+ },
+ {
+  "id": "santiago-prim",
+  "name": "Santiago Prim",
+  "shortName": "Prim",
+  "position": "ST",
+  "goals": 17,
+  "leagueGoals": 12,
+  "club": "Uai Urquiza",
+  "clubs": [
+   "Uai Urquiza",
+   "Villa Dálmine",
+   "San Lorenzo",
+   "Estudiantes (Buenos Aires)"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 22/12/2021): 7",
+   "Primera B Metropolitana (copia del 04/01/2025): 5"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "sebastian-grazzini",
@@ -43498,6 +43693,66 @@
   "playedAscenso": true
  },
  {
+  "id": "marcos-riquelme",
+  "name": "Marcos Riquelme",
+  "shortName": "Riquelme",
+  "position": "ST",
+  "goals": 16,
+  "leagueGoals": 11,
+  "club": "Real Pilar FC",
+  "clubs": [
+   "Real Pilar FC",
+   "Olimpo"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 11"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "marcos-roseti",
+  "name": "Marcos Roseti",
+  "shortName": "Roseti",
+  "position": "RW",
+  "goals": 16,
+  "leagueGoals": 15,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Ferrocarril Midland",
+  "clubs": [
+   "Ferrocarril Midland",
+   "Quilmes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Marcos_Roseti"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "mariano-torresi",
   "name": "Mariano Torresi",
   "shortName": "Torresi",
@@ -44350,6 +44605,38 @@
   ]
  },
  {
+  "id": "alan-visco",
+  "name": "Alan Visco",
+  "shortName": "Visco",
+  "position": "ST",
+  "goals": 15,
+  "leagueGoals": 12,
+  "club": "Ferrocarril Midland",
+  "clubs": [
+   "Ferrocarril Midland",
+   "Ituzaingó"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 03/12/2023): 6",
+   "Primera C (copia del 07/12/2024): 6"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "andres-rios",
   "name": "Andrés Ríos",
   "shortName": "Ríos",
@@ -44885,6 +45172,37 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "facundo-lando",
+  "name": "Facundo Lando",
+  "shortName": "Lando",
+  "position": "ST",
+  "goals": 15,
+  "leagueGoals": 12,
+  "club": "Argentino de Quilmes",
+  "clubs": [
+   "Argentino de Quilmes"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 03/12/2023): 5",
+   "Primera B Metropolitana (copia del 04/01/2025): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -45762,35 +46080,6 @@
   "playedAscenso": true
  },
  {
-  "id": "marcos-roseti",
-  "name": "Marcos Roseti",
-  "shortName": "Roseti",
-  "position": "RW",
-  "goals": 15,
-  "leagueGoals": 15,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Ferrocarril Midland",
-  "clubs": [
-   "Ferrocarril Midland",
-   "Quilmes"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Marcos_Roseti"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "martin-mandra",
   "name": "Martín Mandra",
   "shortName": "Mandra",
@@ -45818,35 +46107,30 @@
   }
  },
  {
-  "id": "mathias-crocco",
-  "name": "Mathías Crocco",
-  "shortName": "Crocco",
-  "position": "ST",
+  "id": "matias-sosa",
+  "name": "Matías Sosa",
+  "shortName": "Sosa",
+  "position": "RW",
   "goals": 15,
-  "leagueGoals": 15,
-  "club": "Real Pilar FC",
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
   "clubs": [
-   "Real Pilar FC"
+   "Defensa y Justicia",
+   "Temperley",
+   "Talleres",
+   "Güemes",
+   "Arsenal de Sarandí",
+   "Colón"
   ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
   "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 7",
-   "Primera C (copia del 07/12/2024): 8"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/matias-sosa/leistungsdaten/spieler/841182"
+  }
  },
  {
   "id": "matias-vargas",
@@ -47534,6 +47818,36 @@
   "playedAscenso": true
  },
  {
+  "id": "ignacio-serpa",
+  "name": "Ignacio Serpa",
+  "shortName": "Serpa",
+  "position": "ST",
+  "goals": 14,
+  "leagueGoals": 7,
+  "club": "San Martín (Burzaco)",
+  "clubs": [
+   "San Martín (Burzaco)"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "jacobo-mansilla",
   "name": "Jacobo Mansilla",
   "shortName": "Mansilla",
@@ -47562,6 +47876,36 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/jacobo-mansilla/leistungsdaten/spieler/55928"
   },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "jeremias-puch",
+  "name": "Jeremías Puch",
+  "shortName": "Puch",
+  "position": "AM",
+  "goals": 14,
+  "leagueGoals": 13,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia (M)",
+  "clubs": [
+   "San Martín (SJ)",
+   "Gimnasia (M)",
+   "Atlanta"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/jeremias-puch/leistungsdaten/spieler/821924"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
   "ascensoEvidence": [
    "tm-arg2"
   ],
@@ -47946,6 +48290,38 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Alejandro_Romero_Gamarra"
   }
+ },
+ {
+  "id": "kevin-gimenez",
+  "name": "Kevin Giménez",
+  "shortName": "Giménez",
+  "position": "ST",
+  "goals": 14,
+  "leagueGoals": 7,
+  "club": "Berazategui",
+  "clubs": [
+   "Berazategui",
+   "Colón (Chivilcoy)"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 07/12/2024): 6",
+   "Torneo Federal B / Regional Amateur (copia del 03/12/2024): 1"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "kevin-mac-allister",
@@ -50568,42 +50944,6 @@
   "playedAscenso": true
  },
  {
-  "id": "ignacio-huguenet",
-  "name": "Ignacio Huguenet",
-  "shortName": "Huguenet",
-  "position": "ST",
-  "goals": 13,
-  "leagueGoals": 13,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Instituto ACC",
-  "clubs": [
-   "Instituto ACC",
-   "Newell's Old Boys",
-   "Defensa y Justicia"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ignacio-huguenet/leistungsdaten/spieler/540716"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera C (copia del 08/12/2025): 11"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "israel-roldan",
   "name": "Israel Roldán",
   "shortName": "Roldán",
@@ -50759,36 +51099,6 @@
   ],
   "saSources": [
    "Primera B Metropolitana (copia del 04/01/2025): 10"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "jeremias-puch",
-  "name": "Jeremías Puch",
-  "shortName": "Puch",
-  "position": "AM",
-  "goals": 13,
-  "leagueGoals": 13,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia (M)",
-  "clubs": [
-   "San Martín (SJ)",
-   "Gimnasia (M)",
-   "Atlanta"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/jeremias-puch/leistungsdaten/spieler/821924"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -51654,6 +51964,28 @@
   }
  },
  {
+  "id": "maximo-guzman",
+  "name": "Máximo Guzmán",
+  "shortName": "Guzmán",
+  "position": "ST",
+  "goals": 13,
+  "club": "Sportivo Italiano",
+  "clubs": [
+   "Sportivo Italiano"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "miguel-puntano",
   "name": "Miguel Puntano",
   "shortName": "Puntano",
@@ -52207,38 +52539,6 @@
   "saSources": [
    "Primera Nacional / B Nacional (copia del 05/12/2022): 6",
    "Primera B Metropolitana (copia del 22/12/2021): 4"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "alan-visco",
-  "name": "Alan Visco",
-  "shortName": "Visco",
-  "position": "ST",
-  "goals": 12,
-  "leagueGoals": 12,
-  "club": "Ferrocarril Midland",
-  "clubs": [
-   "Ferrocarril Midland",
-   "Ituzaingó"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
-  },
-  "saSources": [
-   "Primera C (copia del 03/12/2023): 6",
-   "Primera C (copia del 07/12/2024): 6"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -52914,37 +53214,6 @@
   }
  },
  {
-  "id": "facundo-lando",
-  "name": "Facundo Lando",
-  "shortName": "Lando",
-  "position": "ST",
-  "goals": 12,
-  "leagueGoals": 12,
-  "club": "Argentino de Quilmes",
-  "clubs": [
-   "Argentino de Quilmes"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 03/12/2023): 5",
-   "Primera B Metropolitana (copia del 04/01/2025): 7"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "federico-amaya",
   "name": "Federico Amaya",
   "shortName": "Amaya",
@@ -53304,6 +53573,36 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "gonzalo-figueroa",
+  "name": "Gonzalo Figueroa",
+  "shortName": "Figueroa",
+  "position": "ST",
+  "goals": 12,
+  "leagueGoals": 1,
+  "club": "C.A.I (Comodoro Rivadavia)",
+  "clubs": [
+   "C.A.I (Comodoro Rivadavia)"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/federal-b/6"
+  },
+  "saSources": [
+   "Torneo Federal B / Regional Amateur (copia del 14/05/2025): 1"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -54482,6 +54781,36 @@
   "playedAscenso": true
  },
  {
+  "id": "nazareno-diosquez",
+  "name": "Nazareno Diosquez",
+  "shortName": "Diosquez",
+  "position": "ST",
+  "goals": 12,
+  "leagueGoals": 7,
+  "club": "Colegiales",
+  "clubs": [
+   "Colegiales"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 04/01/2025): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "nicolas-pasquini",
   "name": "Nicolás Pasquini",
   "shortName": "Pasquini",
@@ -54931,40 +55260,6 @@
   "saSources": [
    "Primera C (copia del 07/12/2024): 8",
    "Torneo Federal A (copia del 28/09/2020): 4"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "santiago-prim",
-  "name": "Santiago Prim",
-  "shortName": "Prim",
-  "position": "ST",
-  "goals": 12,
-  "leagueGoals": 12,
-  "club": "Uai Urquiza",
-  "clubs": [
-   "Uai Urquiza",
-   "Villa Dálmine",
-   "San Lorenzo",
-   "Estudiantes (Buenos Aires)"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 22/12/2021): 7",
-   "Primera B Metropolitana (copia del 04/01/2025): 5"
   ],
   "review": [
    "soloascenso-partial",
@@ -55557,6 +55852,40 @@
   "playedAscenso": true
  },
  {
+  "id": "benjamin-gimenez",
+  "name": "Benjamin Giménez",
+  "shortName": "Giménez",
+  "position": "ST",
+  "goals": 11,
+  "leagueGoals": 6,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Telmo",
+  "clubs": [
+   "San Telmo"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/benjamin-gimenez/leistungsdaten/spieler/1105950"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Primera C (copia del 05/12/2022): 4"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "brahian-cuello",
   "name": "Brahian Cuello",
   "shortName": "Cuello",
@@ -55797,6 +56126,36 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "diego-barrionuevo",
+  "name": "Diego Barrionuevo",
+  "shortName": "Barrionuevo",
+  "position": "ST",
+  "goals": 11,
+  "leagueGoals": 7,
+  "club": "Sportivo Barracas",
+  "clubs": [
+   "Sportivo Barracas"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 08/12/2025): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -56513,6 +56872,34 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/hugo-brizuela/leistungsdaten/spieler/134009"
   }
+ },
+ {
+  "id": "ibrahim-hesar",
+  "name": "Ibrahim Hesar",
+  "shortName": "Hesar",
+  "position": "LW",
+  "goals": 11,
+  "leagueGoals": 8,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Estudiantes (Río Cuarto)",
+  "clubs": [
+   "Estudiantes (Río Cuarto)",
+   "Belgrano"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/ibrahim-hesar/leistungsdaten/spieler/695346"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "wiki-ascenso-editions",
+   "soloascenso"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "ignacio-risso",
@@ -57402,37 +57789,6 @@
   "playedAscenso": true
  },
  {
-  "id": "marcos-riquelme",
-  "name": "Marcos Riquelme",
-  "shortName": "Riquelme",
-  "position": "ST",
-  "goals": 11,
-  "leagueGoals": 11,
-  "club": "Real Pilar FC",
-  "clubs": [
-   "Real Pilar FC",
-   "Olimpo"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 11"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "mariano-gorosito",
   "name": "Mariano Gorosito",
   "shortName": "Gorosito",
@@ -58237,36 +58593,6 @@
   ],
   "cupSources": [
    "Copa Sudamericana 2006: 4"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "rodrigo-hernandez",
-  "name": "Rodrigo Hernández",
-  "shortName": "Hernández",
-  "position": "ST",
-  "goals": 11,
-  "leagueGoals": 11,
-  "club": "Real Pilar FC",
-  "clubs": [
-   "Real Pilar FC"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
-  },
-  "saSources": [
-   "Primera C (copia del 03/12/2023): 11"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -59672,6 +59998,36 @@
   }
  },
  {
+  "id": "facundo-aguerre",
+  "name": "Facundo Aguerre",
+  "shortName": "Aguerre",
+  "position": "ST",
+  "goals": 10,
+  "leagueGoals": 6,
+  "club": "Deportivo Merlo",
+  "clubs": [
+   "Deportivo Merlo"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 6"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "facundo-kruspzky",
   "name": "Facundo Kruspzky",
   "shortName": "Kruspzky",
@@ -59757,6 +60113,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "federico-aguirre",
+  "name": "Federico Aguirre",
+  "shortName": "Aguirre",
+  "position": "ST",
+  "goals": 10,
+  "club": "Camioneros",
+  "clubs": [
+   "Camioneros"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
   ]
  },
  {
@@ -59942,40 +60320,6 @@
   ],
   "ascensoEvidence": [
    "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "franco-romero",
-  "name": "Franco Romero",
-  "shortName": "Romero",
-  "position": "DM",
-  "goals": 10,
-  "leagueGoals": 10,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente Rivadavia",
-  "clubs": [
-   "Independiente Rivadavia",
-   "Agropecuario",
-   "Defensa y Justicia"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/franco-romero/leistungsdaten/spieler/833115"
-  },
-  "review": [
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "saSources": [
-   "Primera C (copia del 08/12/2025): 8"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -60308,34 +60652,6 @@
   "playedAscenso": true
  },
  {
-  "id": "ibrahim-hesar",
-  "name": "Ibrahim Hesar",
-  "shortName": "Hesar",
-  "position": "LW",
-  "goals": 10,
-  "leagueGoals": 8,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Estudiantes (Río Cuarto)",
-  "clubs": [
-   "Estudiantes (Río Cuarto)",
-   "Belgrano"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/ibrahim-hesar/leistungsdaten/spieler/695346"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "wiki-ascenso-editions",
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "ignacio-cacheiro",
   "name": "Ignacio Cacheiro",
   "shortName": "Cacheiro",
@@ -60597,32 +60913,27 @@
   ]
  },
  {
-  "id": "jeremias-heidenreich",
-  "name": "Jeremías Heidenreich",
-  "shortName": "Heidenreich",
+  "id": "joel-martinez",
+  "name": "Joel Martínez",
+  "shortName": "Martínez",
   "position": "ST",
   "goals": 10,
-  "leagueGoals": 10,
-  "club": "Cañuelas F.C",
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Social y Atlético Guillermo Brown",
   "clubs": [
-   "Cañuelas F.C"
+   "Social y Atlético Guillermo Brown"
   ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s",
   "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/joel-martinez/leistungsdaten/spieler/457247"
   },
-  "saSources": [
-   "Primera C (copia del 08/12/2025): 10"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
   "ascensoEvidence": [
-   "soloascenso"
+   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -60798,6 +61109,40 @@
   }
  },
  {
+  "id": "juan-cruz-giacone",
+  "name": "Juan Cruz Giacone",
+  "shortName": "Cruz Giacone",
+  "position": "ST",
+  "goals": 10,
+  "leagueGoals": 9,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Maipú",
+  "clubs": [
+   "Maipú"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/juan-cruz-giacone/leistungsdaten/spieler/1050478"
+  },
+  "review": [
+   "season-list-truncated",
+   "soloascenso-partial",
+   "ascenso-era-match"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "saSources": [
+   "Torneo Federal A (copia del 29/12/2025): 6"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "juan-manuel-cobo",
   "name": "Juan Manuel Cobo",
   "shortName": "Manuel Cobo",
@@ -60971,6 +61316,27 @@
   "playedAscenso": true
  },
  {
+  "id": "leandro-paredes",
+  "name": "Leandro Paredes",
+  "shortName": "Paredes",
+  "position": "DM",
+  "goals": 10,
+  "leagueGoals": 8,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Boca Juniors",
+  "clubs": [
+   "Boca Juniors"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Leandro_Paredes"
+  }
+ },
+ {
   "id": "leonardo-ferreyra",
   "name": "Leonardo Ferreyra",
   "shortName": "Ferreyra",
@@ -61048,6 +61414,35 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/lisandro-sacripanti/leistungsdaten/spieler/26742"
   }
+ },
+ {
+  "id": "lucas-rebecchi",
+  "name": "Lucas Rebecchi",
+  "shortName": "Rebecchi",
+  "position": "ST",
+  "goals": 10,
+  "leagueGoals": 6,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia y Esgrima (Jujuy)",
+  "clubs": [
+   "Gimnasia y Esgrima (Jujuy)",
+   "Alvarado"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/lucas-rebecchi/leistungsdaten/spieler/1025716"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "luciano-cariaga",
@@ -61565,6 +61960,28 @@
   "playedAscenso": true
  },
  {
+  "id": "maximo-blanco",
+  "name": "Maximo Blanco",
+  "shortName": "Blanco",
+  "position": "ST",
+  "goals": 10,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "michael-hoyos",
   "name": "Michael Hoyos",
   "shortName": "Hoyos",
@@ -61770,6 +62187,36 @@
   },
   "ascensoEvidence": [
    "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "pedro-durante",
+  "name": "Pedro Durante",
+  "shortName": "Durante",
+  "position": "ST",
+  "goals": 10,
+  "leagueGoals": 7,
+  "club": "Berazategui",
+  "clubs": [
+   "Berazategui"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+  },
+  "saSources": [
+   "Primera C (copia del 07/12/2024): 7"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -62276,6 +62723,34 @@
   "playedAscenso": true
  },
  {
+  "id": "adrian-lugones",
+  "name": "Adrián Lugones",
+  "shortName": "Lugones",
+  "position": "ST",
+  "goals": 9,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensores de Belgrano",
+  "clubs": [
+   "Defensores de Belgrano"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/adrian-lugones/leistungsdaten/spieler/441147"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "agustin-faillace",
   "name": "Agustín Faillace",
   "shortName": "Faillace",
@@ -62623,6 +63098,36 @@
   ],
   "ascensoEvidence": [
    "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "brian-martin",
+  "name": "Brian Martín",
+  "shortName": "Martín",
+  "position": "ST",
+  "goals": 9,
+  "leagueGoals": 5,
+  "club": "Real Pilar FC",
+  "clubs": [
+   "Real Pilar FC"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 29/12/2025): 5"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
    "soloascenso"
   ],
   "playedAscenso": true
@@ -63519,6 +64024,35 @@
   "playedAscenso": true
  },
  {
+  "id": "enzo-martinez-924535",
+  "name": "Enzo Martínez",
+  "shortName": "Martínez",
+  "position": "ST",
+  "goals": 9,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente Rivadavia",
+  "clubs": [
+   "Independiente Rivadavia",
+   "Almagro"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/enzo-martinez/leistungsdaten/spieler/924535"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "eros-mancuso",
   "name": "Eros Mancuso",
   "shortName": "Mancuso",
@@ -63586,6 +64120,36 @@
   },
   "saSources": [
    "Primera C (copia del 08/12/2025): 9"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "facundo-gomez",
+  "name": "Facundo Gómez",
+  "shortName": "Gómez",
+  "position": "ST",
+  "goals": 9,
+  "leagueGoals": 4,
+  "club": "Fenix",
+  "clubs": [
+   "Fenix"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 20/11/2022): 4"
   ],
   "review": [
    "soloascenso-partial",
@@ -64809,40 +65373,6 @@
   "playedAscenso": true
  },
  {
-  "id": "juan-cruz-giacone",
-  "name": "Juan Cruz Giacone",
-  "shortName": "Cruz Giacone",
-  "position": "ST",
-  "goals": 9,
-  "leagueGoals": 9,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Maipú",
-  "clubs": [
-   "Maipú"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/juan-cruz-giacone/leistungsdaten/spieler/1050478"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Torneo Federal A (copia del 29/12/2025): 6"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "juan-cruz-kaprof",
   "name": "Juan Cruz Kaprof",
   "shortName": "Cruz Kaprof",
@@ -65105,25 +65635,33 @@
   "playedAscenso": true
  },
  {
-  "id": "leandro-paredes",
-  "name": "Leandro Paredes",
-  "shortName": "Paredes",
-  "position": "DM",
+  "id": "leandro-guzman",
+  "name": "Leandro Guzmán",
+  "shortName": "Guzmán",
+  "position": "RB",
   "goals": 9,
-  "leagueGoals": 8,
+  "leagueGoals": 5,
   "cupGoals": 0,
-  "intlGoals": 1,
-  "club": "Boca Juniors",
+  "intlGoals": 0,
+  "club": "Almirante Brown",
   "clubs": [
-   "Boca Juniors"
+   "Almirante Brown",
+   "Atlanta"
   ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s–2020s",
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
   "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Leandro_Paredes"
-  }
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/leandro-guzman/leistungsdaten/spieler/254379"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "leandro-zarate",
@@ -65230,6 +65768,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "luca-franco",
+  "name": "Luca Franco",
+  "shortName": "Franco",
+  "position": "ST",
+  "goals": 9,
+  "club": "Arsenal de Sarandí",
+  "clubs": [
+   "Arsenal de Sarandí"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "lucas-rios",
@@ -66993,6 +67553,36 @@
   "playedAscenso": true
  },
  {
+  "id": "alejo-tabares",
+  "name": "Alejo Tabares",
+  "shortName": "Tabares",
+  "position": "LB",
+  "goals": 8,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "All Boys",
+  "clubs": [
+   "All Boys",
+   "Newell's Old Boys",
+   "Lanús"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/alejo-tabares/leistungsdaten/spieler/756988"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alex-penoni",
   "name": "Alex Penoni",
   "shortName": "Penoni",
@@ -67379,6 +67969,28 @@
   "playedAscenso": true
  },
  {
+  "id": "bruno-baez",
+  "name": "Bruno Báez",
+  "shortName": "Báez",
+  "position": "ST",
+  "goals": 8,
+  "club": "Brown de Adrogué",
+  "clubs": [
+   "Brown de Adrogué"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "carlos-netto",
   "name": "Carlos Netto",
   "shortName": "Netto",
@@ -67552,6 +68164,36 @@
   "playedAscenso": true
  },
  {
+  "id": "cristian-broggi",
+  "name": "Cristian Broggi",
+  "shortName": "Broggi",
+  "position": "CB",
+  "goals": 8,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Morón",
+  "clubs": [
+   "Morón",
+   "Flandria",
+   "Güemes"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/cristian-broggi/leistungsdaten/spieler/537092"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "cristian-ledesma-1717",
   "name": "Cristian Ledesma",
   "shortName": "Ledesma",
@@ -67624,6 +68266,27 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/cristian-pino/leistungsdaten/spieler/30689"
+  }
+ },
+ {
+  "id": "cristian-rodriguez",
+  "name": "Cristian Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "LW",
+  "goals": 8,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Independiente",
+  "clubs": [
+   "Independiente"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2010s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Cristian_Rodr%C3%ADguez"
   }
  },
  {
@@ -68226,6 +68889,29 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "franco-torres",
+  "name": "Franco Torres",
+  "shortName": "Torres",
+  "position": "RW",
+  "goals": 8,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 1,
+  "club": "Gimnasia LP",
+  "clubs": [
+   "Gimnasia LP",
+   "Gimnasia",
+   "Guillermo Brown"
+  ],
+  "division": "Primera",
+  "scope": "Liga y copas con clubes argentinos",
+  "era": "2020s",
+  "source": {
+   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
+   "url": "https://es.wikipedia.org/wiki/Franco_Torres"
+  }
  },
  {
   "id": "franco-zicarelli",
@@ -71920,6 +72606,34 @@
   "playedAscenso": true
  },
  {
+  "id": "rodrigo-velazquez",
+  "name": "Rodrigo Velázquez",
+  "shortName": "Velázquez",
+  "position": "AM",
+  "goals": 8,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia y Esgrima (Jujuy)",
+  "clubs": [
+   "Gimnasia y Esgrima (Jujuy)"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/rodrigo-velazquez/leistungsdaten/spieler/1013490"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "rolando-garcia-guerreno",
   "name": "Rolando García Guerreño",
   "shortName": "García Guerreño",
@@ -72429,6 +73143,28 @@
   "playedAscenso": true
  },
  {
+  "id": "willian-gimenez",
+  "name": "Willian Giménez",
+  "shortName": "Giménez",
+  "position": "ST",
+  "goals": 8,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "wilson-albarracin",
   "name": "Wilson Albarracín",
   "shortName": "Albarracín",
@@ -72596,6 +73332,36 @@
   "playedAscenso": true
  },
  {
+  "id": "agustin-arias",
+  "name": "Agustín Arias",
+  "shortName": "Arias",
+  "position": "ST",
+  "goals": 7,
+  "leagueGoals": 4,
+  "club": "Ferrocarril Midland",
+  "clubs": [
+   "Ferrocarril Midland"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
+  },
+  "saSources": [
+   "Primera B Metropolitana (copia del 04/01/2025): 4"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "agustin-bellone",
   "name": "Agustin Bellone",
   "shortName": "Bellone",
@@ -72690,6 +73456,28 @@
   }
  },
  {
+  "id": "alejandro-benitez",
+  "name": "Alejandro Benitez",
+  "shortName": "Benitez",
+  "position": "ST",
+  "goals": 7,
+  "club": "Deportivo Laferrere",
+  "clubs": [
+   "Deportivo Laferrere"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "alejandro-cabrera",
   "name": "Alejandro Cabrera",
   "shortName": "Cabrera",
@@ -72777,36 +73565,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/alejandro-molina/leistungsdaten/spieler/538529"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "alejo-tabares",
-  "name": "Alejo Tabares",
-  "shortName": "Tabares",
-  "position": "LB",
-  "goals": 7,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "All Boys",
-  "clubs": [
-   "All Boys",
-   "Newell's Old Boys",
-   "Lanús"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/alejo-tabares/leistungsdaten/spieler/756988"
   },
   "review": [
    "season-list-truncated"
@@ -73707,36 +74465,6 @@
   "playedAscenso": true
  },
  {
-  "id": "diego-barrionuevo",
-  "name": "Diego Barrionuevo",
-  "shortName": "Barrionuevo",
-  "position": "ST",
-  "goals": 7,
-  "leagueGoals": 7,
-  "club": "Sportivo Barracas",
-  "clubs": [
-   "Sportivo Barracas"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
-  },
-  "saSources": [
-   "Primera C (copia del 08/12/2025): 7"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "diego-cisterna",
   "name": "Diego Cisterna",
   "shortName": "Cisterna",
@@ -74342,6 +75070,34 @@
   "playedAscenso": true
  },
  {
+  "id": "ezequiel-ramirez",
+  "name": "Ezequiel Ramírez",
+  "shortName": "Ramírez",
+  "position": "LW",
+  "goals": 7,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Telmo",
+  "clubs": [
+   "San Telmo"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ezequiel-ramirez/leistungsdaten/spieler/636740"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "fabio-escobar",
   "name": "Fabio Escobar",
   "shortName": "Escobar",
@@ -74460,6 +75216,40 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Facundo_Altamira"
   }
+ },
+ {
+  "id": "facundo-ardiles",
+  "name": "Facundo Ardiles",
+  "shortName": "Ardiles",
+  "position": "RB",
+  "goals": 7,
+  "leagueGoals": 6,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Estudiantes",
+  "clubs": [
+   "Estudiantes",
+   "Camioneros",
+   "All Boys",
+   "Los Andes",
+   "Dep. Madryn",
+   "Godoy Cruz",
+   "Alvarado"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/facundo-ardiles/leistungsdaten/spieler/426471"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
  },
  {
   "id": "facundo-cardozo",
@@ -75506,36 +76296,6 @@
   }
  },
  {
-  "id": "ignacio-serpa",
-  "name": "Ignacio Serpa",
-  "shortName": "Serpa",
-  "position": "ST",
-  "goals": 7,
-  "leagueGoals": 7,
-  "club": "San Martín (Burzaco)",
-  "clubs": [
-   "San Martín (Burzaco)"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 7"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "ivan-alonso",
   "name": "Iván Alonso",
   "shortName": "Alonso",
@@ -76249,36 +77009,26 @@
   "playedAscenso": true
  },
  {
-  "id": "kevin-gimenez",
-  "name": "Kevin Giménez",
-  "shortName": "Giménez",
+  "id": "kevin-ghigliazza",
+  "name": "Kevin Ghigliazza",
+  "shortName": "Ghigliazza",
   "position": "ST",
   "goals": 7,
-  "leagueGoals": 7,
-  "club": "Berazategui",
+  "club": "Sportivo Dock Sud",
   "clubs": [
-   "Berazategui",
-   "Colón (Chivilcoy)"
+   "Sportivo Dock Sud"
   ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
   "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
   },
-  "saSources": [
-   "Primera C (copia del 07/12/2024): 6",
-   "Torneo Federal B / Regional Amateur (copia del 03/12/2024): 1"
-  ],
   "review": [
-   "soloascenso-partial",
+   "promiedos-new",
    "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
+  ]
  },
  {
   "id": "lautaro-millan",
@@ -77362,6 +78112,36 @@
   "playedAscenso": true
  },
  {
+  "id": "matias-de-jesus",
+  "name": "Matías De Jesús",
+  "shortName": "De Jesús",
+  "position": "ST",
+  "goals": 7,
+  "leagueGoals": 2,
+  "club": "Camioneros",
+  "clubs": [
+   "Camioneros"
+  ],
+  "division": "Ascenso",
+  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
+  "era": "—",
+  "source": {
+   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
+   "url": "https://www.soloascenso.com.ar/goleadores/federal-b/6"
+  },
+  "saSources": [
+   "Torneo Federal B / Regional Amateur (copia del 03/12/2024): 2"
+  ],
+  "review": [
+   "soloascenso-partial",
+   "position-unverified"
+  ],
+  "ascensoEvidence": [
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "matias-escudero",
   "name": "Matías Escudero",
   "shortName": "Escudero",
@@ -77505,6 +78285,28 @@
   }
  },
  {
+  "id": "matias-polvera",
+  "name": "Matias Pólvera",
+  "shortName": "Pólvera",
+  "position": "ST",
+  "goals": 7,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "mauricio-aguirre",
   "name": "Mauricio Aguirre",
   "shortName": "Aguirre",
@@ -77589,6 +78391,28 @@
    "soloascenso"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "mauro-davila",
+  "name": "Mauro Dávila",
+  "shortName": "Dávila",
+  "position": "ST",
+  "goals": 7,
+  "club": "Deportivo Armenio",
+  "clubs": [
+   "Deportivo Armenio"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "maximiliano-antonelli",
@@ -77955,36 +78779,6 @@
   "playedAscenso": true
  },
  {
-  "id": "nazareno-diosquez",
-  "name": "Nazareno Diosquez",
-  "shortName": "Diosquez",
-  "position": "ST",
-  "goals": 7,
-  "leagueGoals": 7,
-  "club": "Colegiales",
-  "clubs": [
-   "Colegiales"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 04/01/2025): 7"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "nelson-agoglia",
   "name": "Nelson Agoglia",
   "shortName": "Agoglia",
@@ -78253,36 +79047,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/pablo-lima/leistungsdaten/spieler/54782"
   }
- },
- {
-  "id": "pedro-durante",
-  "name": "Pedro Durante",
-  "shortName": "Durante",
-  "position": "ST",
-  "goals": 7,
-  "leagueGoals": 7,
-  "club": "Berazategui",
-  "clubs": [
-   "Berazategui"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-c/3"
-  },
-  "saSources": [
-   "Primera C (copia del 07/12/2024): 7"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "ramiro-caseres",
@@ -78735,6 +79499,28 @@
    "soloascenso"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "tomas-ponzo",
+  "name": "Tomás Ponzo",
+  "shortName": "Ponzo",
+  "position": "ST",
+  "goals": 7,
+  "club": "Villa Dalmine",
+  "clubs": [
+   "Villa Dalmine"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "walter-bardin",
@@ -79237,6 +80023,28 @@
    "soloascenso"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "alcides-miranda",
+  "name": "Alcides Miranda",
+  "shortName": "Miranda",
+  "position": "ST",
+  "goals": 6,
+  "club": "Ituzaingó",
+  "clubs": [
+   "Ituzaingó"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "aldo-paredes",
@@ -79766,40 +80574,6 @@
   }
  },
  {
-  "id": "benjamin-gimenez",
-  "name": "Benjamin Giménez",
-  "shortName": "Giménez",
-  "position": "ST",
-  "goals": 6,
-  "leagueGoals": 6,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Telmo",
-  "clubs": [
-   "San Telmo"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09 + ascenso metropolitano/federal",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/benjamin-gimenez/leistungsdaten/spieler/1105950"
-  },
-  "review": [
-   "season-list-truncated",
-   "soloascenso-partial",
-   "ascenso-era-match"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
-  ],
-  "saSources": [
-   "Primera C (copia del 05/12/2022): 4"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "blas-tapparello",
   "name": "Blas Tapparello",
   "shortName": "Tapparello",
@@ -80161,6 +80935,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/cristian-devallis/leistungsdaten/spieler/76248"
   }
+ },
+ {
+  "id": "cristian-munoz",
+  "name": "Cristian Muñoz",
+  "shortName": "Muñoz",
+  "position": "ST",
+  "goals": 6,
+  "club": "Talleres RE",
+  "clubs": [
+   "Talleres RE"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "cristian-rami",
@@ -81306,70 +82102,6 @@
   "playedAscenso": true
  },
  {
-  "id": "facundo-aguerre",
-  "name": "Facundo Aguerre",
-  "shortName": "Aguerre",
-  "position": "ST",
-  "goals": 6,
-  "leagueGoals": 6,
-  "club": "Deportivo Merlo",
-  "clubs": [
-   "Deportivo Merlo"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 6"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "facundo-ardiles",
-  "name": "Facundo Ardiles",
-  "shortName": "Ardiles",
-  "position": "RB",
-  "goals": 6,
-  "leagueGoals": 6,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Estudiantes",
-  "clubs": [
-   "Estudiantes",
-   "Camioneros",
-   "All Boys",
-   "Los Andes",
-   "Dep. Madryn",
-   "Godoy Cruz",
-   "Alvarado"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/facundo-ardiles/leistungsdaten/spieler/426471"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "facundo-erpen",
   "name": "Facundo Erpen",
   "shortName": "Erpen",
@@ -81671,6 +82403,36 @@
   "playedAscenso": true
  },
  {
+  "id": "franco-costa",
+  "name": "Franco Costa",
+  "shortName": "Costa",
+  "position": "LW",
+  "goals": 6,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "San Martín (T)",
+  "clubs": [
+   "San Martín (T)",
+   "Luján",
+   "Arsenal de Sarandí",
+   "Flandria",
+   "Tristán Suárez"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2010s–2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/franco-costa/leistungsdaten/spieler/332254"
+  },
+  "ascensoEvidence": [
+   "tm-arg2",
+   "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "franco-meritello",
   "name": "Franco Meritello",
   "shortName": "Meritello",
@@ -81724,29 +82486,6 @@
   "source": {
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Franco_Paredes"
-  }
- },
- {
-  "id": "franco-torres",
-  "name": "Franco Torres",
-  "shortName": "Torres",
-  "position": "RW",
-  "goals": 6,
-  "leagueGoals": 5,
-  "cupGoals": 0,
-  "intlGoals": 1,
-  "club": "Gimnasia LP",
-  "clubs": [
-   "Gimnasia LP",
-   "Gimnasia",
-   "Guillermo Brown"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2020s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Franco_Torres"
   }
  },
  {
@@ -82110,6 +82849,36 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/gonzalo-del-bono/leistungsdaten/spieler/87414"
   }
+ },
+ {
+  "id": "gonzalo-torres",
+  "name": "Gonzalo Torres",
+  "shortName": "Torres",
+  "position": "RW",
+  "goals": 6,
+  "leagueGoals": 3,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Central Córdoba (SdE)",
+  "clubs": [
+   "Central Córdoba (SdE)",
+   "Defensores de Belgrano",
+   "Central Córdoba",
+   "Lanús",
+   "Godoy Cruz",
+   "Dep. Madryn",
+   "Villa Dálmine"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/gonzalo-torres/leistungsdaten/spieler/838406"
+  },
+  "review": [
+   "season-list-truncated"
+  ]
  },
  {
   "id": "guillermo-mendoza",
@@ -82724,6 +83493,34 @@
   "playedAscenso": true
  },
  {
+  "id": "jeremias-denis",
+  "name": "Jeremías Denis",
+  "shortName": "Denis",
+  "position": "DM",
+  "goals": 6,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres (Remedios de Escalada)",
+  "clubs": [
+   "Talleres (Remedios de Escalada)"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/jeremias-denis/leistungsdaten/spieler/855069"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "joaquin-correa",
   "name": "Joaquín Correa",
   "shortName": "Correa",
@@ -83031,6 +83828,27 @@
   "playedAscenso": true
  },
  {
+  "id": "juan-gutierrez",
+  "name": "Juan Gutiérrez",
+  "shortName": "Gutiérrez",
+  "position": "LW",
+  "goals": 6,
+  "leagueGoals": 5,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Defensa y Justicia",
+  "clubs": [
+   "Defensa y Justicia"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/juan-gutierrez/leistungsdaten/spieler/581321"
+  }
+ },
+ {
   "id": "juan-jose-weissen",
   "name": "Juan José Weissen",
   "shortName": "José Weissen",
@@ -83262,6 +84080,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "kevin-pavia",
+  "name": "Kevin Pavia",
+  "shortName": "Pavia",
+  "position": "ST",
+  "goals": 6,
+  "club": "Villa San Carlos",
+  "clubs": [
+   "Villa San Carlos"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "laureano-doello",
@@ -83875,35 +84715,6 @@
   "playedAscenso": true
  },
  {
-  "id": "lucas-rebecchi",
-  "name": "Lucas Rebecchi",
-  "shortName": "Rebecchi",
-  "position": "ST",
-  "goals": 6,
-  "leagueGoals": 6,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia y Esgrima (Jujuy)",
-  "clubs": [
-   "Gimnasia y Esgrima (Jujuy)",
-   "Alvarado"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/lucas-rebecchi/leistungsdaten/spieler/1025716"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "lucas-rimoldi",
   "name": "Lucas Rimoldi",
   "shortName": "Rimoldi",
@@ -84389,6 +85200,34 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "mariano-arango",
+  "name": "Mariano Arango",
+  "shortName": "Arango",
+  "position": "LB",
+  "goals": 6,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Almirante Brown",
+  "clubs": [
+   "Almirante Brown"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/mariano-arango/leistungsdaten/spieler/907378"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -85371,6 +86210,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "nicolas-damiolini",
+  "name": "Nicolas Damiolini",
+  "shortName": "Damiolini",
+  "position": "ST",
+  "goals": 6,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "nicolas-fernandez-538617",
@@ -87653,36 +88514,6 @@
   }
  },
  {
-  "id": "brian-martin",
-  "name": "Brian Martín",
-  "shortName": "Martín",
-  "position": "ST",
-  "goals": 5,
-  "leagueGoals": 5,
-  "club": "Real Pilar FC",
-  "clubs": [
-   "Real Pilar FC"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 29/12/2025): 5"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "brian-meza",
   "name": "Brian Meza",
   "shortName": "Meza",
@@ -88123,36 +88954,6 @@
   "cupSources": [
    "Copa Argentina 2026: 1"
   ]
- },
- {
-  "id": "cristian-broggi",
-  "name": "Cristian Broggi",
-  "shortName": "Broggi",
-  "position": "CB",
-  "goals": 5,
-  "leagueGoals": 5,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Morón",
-  "clubs": [
-   "Morón",
-   "Flandria",
-   "Güemes"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/cristian-broggi/leistungsdaten/spieler/537092"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "cristian-carnero",
@@ -89203,35 +90004,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/enzo-arreguin/leistungsdaten/spieler/876389"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "enzo-martinez-924535",
-  "name": "Enzo Martínez",
-  "shortName": "Martínez",
-  "position": "ST",
-  "goals": 5,
-  "leagueGoals": 5,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente Rivadavia",
-  "clubs": [
-   "Independiente Rivadavia",
-   "Almagro"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/enzo-martinez/leistungsdaten/spieler/924535"
   },
   "review": [
    "season-list-truncated"
@@ -91828,27 +92600,6 @@
   "playedAscenso": true
  },
  {
-  "id": "juan-gutierrez",
-  "name": "Juan Gutiérrez",
-  "shortName": "Gutiérrez",
-  "position": "LW",
-  "goals": 5,
-  "leagueGoals": 5,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/juan-gutierrez/leistungsdaten/spieler/581321"
-  }
- },
- {
   "id": "juan-ignacio-baiardino",
   "name": "Juan Ignacio Baiardino",
   "shortName": "Ignacio Baiardino",
@@ -92245,35 +92996,6 @@
   "playedAscenso": true
  },
  {
-  "id": "leandro-guzman",
-  "name": "Leandro Guzmán",
-  "shortName": "Guzmán",
-  "position": "RB",
-  "goals": 5,
-  "leagueGoals": 5,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almirante Brown",
-  "clubs": [
-   "Almirante Brown",
-   "Atlanta"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/leandro-guzman/leistungsdaten/spieler/254379"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "leandro-ledesma",
   "name": "Leandro Ledesma",
   "shortName": "Ledesma",
@@ -92576,6 +93298,34 @@
   "playedAscenso": true
  },
  {
+  "id": "lucas-vallejo",
+  "name": "Lucas Vallejo",
+  "shortName": "Vallejo",
+  "position": "RW",
+  "goals": 5,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "CB Ramón Santamarina",
+  "clubs": [
+   "CB Ramón Santamarina"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/lucas-vallejo/leistungsdaten/spieler/845651"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "luciano-vella",
   "name": "Luciano Vella",
   "shortName": "Vella",
@@ -92845,6 +93595,28 @@
   "playedAscenso": true
  },
  {
+  "id": "martin-lopez",
+  "name": "Martín López",
+  "shortName": "López",
+  "position": "ST",
+  "goals": 5,
+  "club": "Flandria",
+  "clubs": [
+   "Flandria"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "martin-romagnoli",
   "name": "Martín Romagnoli",
   "shortName": "Romagnoli",
@@ -92897,6 +93669,28 @@
    "soloascenso"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "martiniano-compagnucci",
+  "name": "Martiniano Compagnucci",
+  "shortName": "Compagnucci",
+  "position": "ST",
+  "goals": 5,
+  "club": "Argentino de Quilmes",
+  "clubs": [
+   "Argentino de Quilmes"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "martino-dorato",
@@ -93081,6 +93875,34 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
+  ],
+  "playedAscenso": true
+ },
+ {
+  "id": "matias-lucero",
+  "name": "Matías Lucero",
+  "shortName": "Lucero",
+  "position": "RW",
+  "goals": 5,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Arsenal de Sarandí",
+  "clubs": [
+   "Arsenal de Sarandí"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/matias-lucero/leistungsdaten/spieler/1241091"
+  },
+  "review": [
+   "season-list-truncated"
+  ],
+  "ascensoEvidence": [
+   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -94226,6 +95048,32 @@
   }
  },
  {
+  "id": "pablo-cortizo",
+  "name": "Pablo Cortizo",
+  "shortName": "Cortizo",
+  "position": "CM",
+  "goals": 5,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Gimnasia (M)",
+  "clubs": [
+   "Gimnasia (M)",
+   "Atlanta"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/pablo-cortizo/leistungsdaten/spieler/66317"
+  },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "patricio-nunez",
   "name": "Patricio Núñez",
   "shortName": "Núñez",
@@ -94907,6 +95755,28 @@
   "playedAscenso": true
  },
  {
+  "id": "thiago-coria",
+  "name": "Thiago Coria",
+  "shortName": "Coria",
+  "position": "ST",
+  "goals": 5,
+  "club": "Liniers",
+  "clubs": [
+   "Liniers"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "thiago-rodriguez",
   "name": "Thiago Rodríguez",
   "shortName": "Rodríguez",
@@ -95070,6 +95940,28 @@
   }
  },
  {
+  "id": "uriel-la-roza",
+  "name": "Uriel La Roza",
+  "shortName": "La Roza",
+  "position": "ST",
+  "goals": 5,
+  "club": "Arsenal de Sarandí",
+  "clubs": [
+   "Arsenal de Sarandí"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "valentin-haberkon",
   "name": "Valentín Haberkon",
   "shortName": "Haberkon",
@@ -95098,6 +95990,28 @@
    "soloascenso"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "valentin-mancini",
+  "name": "Valentín Mancini",
+  "shortName": "Mancini",
+  "position": "ST",
+  "goals": 5,
+  "club": "Real Pilar",
+  "clubs": [
+   "Real Pilar"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "walter-hermoso",
@@ -95360,36 +96274,6 @@
   "playedAscenso": true
  },
  {
-  "id": "agustin-arias",
-  "name": "Agustín Arias",
-  "shortName": "Arias",
-  "position": "ST",
-  "goals": 4,
-  "leagueGoals": 4,
-  "club": "Ferrocarril Midland",
-  "clubs": [
-   "Ferrocarril Midland"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 04/01/2025): 4"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "agustin-bindella",
   "name": "Agustín Bindella",
   "shortName": "Bindella",
@@ -95599,6 +96483,31 @@
   "playedAscenso": true
  },
  {
+  "id": "alan-espeche",
+  "name": "Alan Espeche",
+  "shortName": "Espeche",
+  "position": "RW",
+  "goals": 4,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "All Boys",
+  "clubs": [
+   "All Boys"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/alan-espeche/leistungsdaten/spieler/579961"
+  },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "alan-sanchez",
   "name": "Alan Sánchez",
   "shortName": "Sánchez",
@@ -95659,6 +96568,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "alejandro-avalos",
+  "name": "Alejandro Ávalos",
+  "shortName": "Ávalos",
+  "position": "ST",
+  "goals": 4,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "alejandro-ayala",
@@ -96289,6 +97220,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "bruno-gauna",
+  "name": "Bruno Gauna",
+  "shortName": "Gauna",
+  "position": "ST",
+  "goals": 4,
+  "club": "Liniers",
+  "clubs": [
+   "Liniers"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "bruno-machuca",
@@ -97223,6 +98176,28 @@
   ]
  },
  {
+  "id": "dylan-vergara",
+  "name": "Dylan Vergara",
+  "shortName": "Vergara",
+  "position": "ST",
+  "goals": 4,
+  "club": "Real Pilar",
+  "clubs": [
+   "Real Pilar"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "eber-garro",
   "name": "Eber Garro",
   "shortName": "Garro",
@@ -97912,36 +98887,6 @@
   "review": [
    "season-list-truncated"
   ]
- },
- {
-  "id": "facundo-gomez",
-  "name": "Facundo Gómez",
-  "shortName": "Gómez",
-  "position": "ST",
-  "goals": 4,
-  "leagueGoals": 4,
-  "club": "Fenix",
-  "clubs": [
-   "Fenix"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/primera-b/2"
-  },
-  "saSources": [
-   "Primera B Metropolitana (copia del 20/11/2022): 4"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "facundo-guch",
@@ -99597,6 +100542,31 @@
   "playedAscenso": true
  },
  {
+  "id": "ivan-alvarez",
+  "name": "Iván Álvarez",
+  "shortName": "Álvarez",
+  "position": "AM",
+  "goals": 4,
+  "leagueGoals": 1,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Morón",
+  "clubs": [
+   "Morón"
+  ],
+  "division": "Primera Nacional",
+  "scope": "Ascenso desde 2008/09",
+  "era": "2010s",
+  "source": {
+   "name": "Transfermarkt — Primera Nacional",
+   "url": "https://www.transfermarkt.com/ivan-alvarez/leistungsdaten/spieler/633748"
+  },
+  "ascensoEvidence": [
+   "tm-arg2"
+  ],
+  "playedAscenso": true
+ },
+ {
   "id": "ivan-cordoba",
   "name": "Iván Córdoba",
   "shortName": "Córdoba",
@@ -100740,6 +101710,28 @@
   ]
  },
  {
+  "id": "lautaro-mena",
+  "name": "Lautaro Mena",
+  "shortName": "Mena",
+  "position": "ST",
+  "goals": 4,
+  "club": "Ituzaingó",
+  "clubs": [
+   "Ituzaingó"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "lautaro-montoya",
   "name": "Lautaro Montoya",
   "shortName": "Montoya",
@@ -101218,6 +102210,28 @@
    "name": "Wikipedia — ficha del jugador (estadísticas por club)",
    "url": "https://es.wikipedia.org/wiki/Luciano_Acosta"
   }
+ },
+ {
+  "id": "luciano-brandan",
+  "name": "Luciano Brandán",
+  "shortName": "Brandán",
+  "position": "ST",
+  "goals": 4,
+  "club": "Villa Dalmine",
+  "clubs": [
+   "Villa Dalmine"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "luciano-guaycochea",
@@ -102491,6 +103505,28 @@
   ]
  },
  {
+  "id": "mirko-coronel",
+  "name": "Mirko Coronel",
+  "shortName": "Coronel",
+  "position": "ST",
+  "goals": 4,
+  "club": "Camioneros",
+  "clubs": [
+   "Camioneros"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "nahuel-menendez",
   "name": "Nahuel Menéndez",
   "shortName": "Menéndez",
@@ -102935,6 +103971,28 @@
   }
  },
  {
+  "id": "pablo-lopez-3",
+  "name": "Pablo López",
+  "shortName": "López",
+  "position": "ST",
+  "goals": 4,
+  "club": "Camioneros",
+  "clubs": [
+   "Camioneros"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "rafael-perez",
   "name": "Rafael Pérez",
   "shortName": "Pérez",
@@ -103205,6 +104263,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/rodolfo-quinteros/leistungsdaten/spieler/30888"
   }
+ },
+ {
+  "id": "rodrigo-acosta-3",
+  "name": "Rodrigo Acosta",
+  "shortName": "Acosta",
+  "position": "ST",
+  "goals": 4,
+  "club": "Camioneros",
+  "clubs": [
+   "Camioneros"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "rodrigo-colombo",
@@ -103687,6 +104767,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/sergio-escudero/leistungsdaten/spieler/54836"
   }
+ },
+ {
+  "id": "sergio-modon",
+  "name": "Sergio Modón",
+  "shortName": "Modón",
+  "position": "ST",
+  "goals": 4,
+  "club": "San Martín Burzaco",
+  "clubs": [
+   "San Martín Burzaco"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "sergio-sanchez",
@@ -104456,6 +105558,27 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "agustin-alvarez",
+  "name": "Agustín Álvarez",
+  "shortName": "Álvarez",
+  "position": "ST",
+  "goals": 3,
+  "leagueGoals": 2,
+  "cupGoals": 0,
+  "intlGoals": 0,
+  "club": "Talleres",
+  "clubs": [
+   "Talleres"
+  ],
+  "division": "Primera",
+  "scope": "Liga desde 1990/91",
+  "era": "2020s",
+  "source": {
+   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
+   "url": "https://www.transfermarkt.com/agustin-alvarez/leistungsdaten/spieler/812625"
+  }
  },
  {
   "id": "agustin-ambrosio",
@@ -105506,6 +106629,28 @@
   "playedAscenso": true
  },
  {
+  "id": "axel-guerra",
+  "name": "Axel Guerra",
+  "shortName": "Guerra",
+  "position": "ST",
+  "goals": 3,
+  "club": "Sportivo Italiano",
+  "clubs": [
+   "Sportivo Italiano"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "ayrton-preciado",
   "name": "Ayrton Preciado",
   "shortName": "Preciado",
@@ -105808,6 +106953,28 @@
    "Torneo Federal B / Regional Amateur (copia del 17/06/2026): 1"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "bruno-villalba",
+  "name": "Bruno Villalba",
+  "shortName": "Villalba",
+  "position": "ST",
+  "goals": 3,
+  "club": "Sportivo Dock Sud",
+  "clubs": [
+   "Sportivo Dock Sud"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "camilo-mayada",
@@ -106222,27 +107389,6 @@
    "tm-arg2"
   ],
   "playedAscenso": true
- },
- {
-  "id": "cristian-rodriguez",
-  "name": "Cristian Rodríguez",
-  "shortName": "Rodríguez",
-  "position": "LW",
-  "goals": 3,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Independiente",
-  "clubs": [
-   "Independiente"
-  ],
-  "division": "Primera",
-  "scope": "Liga y copas con clubes argentinos",
-  "era": "2010s",
-  "source": {
-   "name": "Wikipedia — ficha del jugador (estadísticas por club)",
-   "url": "https://es.wikipedia.org/wiki/Cristian_Rodr%C3%ADguez"
-  }
  },
  {
   "id": "cristian-romero",
@@ -107999,6 +109145,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "facundo-pansardi",
+  "name": "Facundo Pansardi",
+  "shortName": "Pansardi",
+  "position": "ST",
+  "goals": 3,
+  "club": "Real Pilar",
+  "clubs": [
+   "Real Pilar"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "facundo-perez-castro",
@@ -109966,36 +111134,6 @@
   "playedAscenso": true
  },
  {
-  "id": "gonzalo-torres",
-  "name": "Gonzalo Torres",
-  "shortName": "Torres",
-  "position": "RW",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Central Córdoba (SdE)",
-  "clubs": [
-   "Central Córdoba (SdE)",
-   "Defensores de Belgrano",
-   "Central Córdoba",
-   "Lanús",
-   "Godoy Cruz",
-   "Dep. Madryn",
-   "Villa Dálmine"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/gonzalo-torres/leistungsdaten/spieler/838406"
-  },
-  "review": [
-   "season-list-truncated"
-  ]
- },
- {
   "id": "guido-rancez",
   "name": "Guido Rancez",
   "shortName": "Rancez",
@@ -110473,6 +111611,28 @@
   "playedAscenso": true
  },
  {
+  "id": "isaias-ciavarelli",
+  "name": "Isaias Ciavarelli",
+  "shortName": "Ciavarelli",
+  "position": "ST",
+  "goals": 3,
+  "club": "Talleres RE",
+  "clubs": [
+   "Talleres RE"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "israel-coll",
   "name": "Israel Coll",
   "shortName": "Coll",
@@ -110799,31 +111959,6 @@
   "source": {
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/joel-barbosa/leistungsdaten/spieler/19944"
-  },
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "joel-martinez",
-  "name": "Joel Martínez",
-  "shortName": "Martínez",
-  "position": "ST",
-  "goals": 3,
-  "leagueGoals": 3,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Social y Atlético Guillermo Brown",
-  "clubs": [
-   "Social y Atlético Guillermo Brown"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/joel-martinez/leistungsdaten/spieler/457247"
   },
   "ascensoEvidence": [
    "tm-arg2"
@@ -114091,6 +115226,28 @@
   }
  },
  {
+  "id": "matias-alaniz",
+  "name": "Matias Alaniz",
+  "shortName": "Alaniz",
+  "position": "ST",
+  "goals": 3,
+  "club": "Excursionistas",
+  "clubs": [
+   "Excursionistas"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "matias-espindola",
   "name": "Matías Espíndola",
   "shortName": "Espíndola",
@@ -114754,6 +115911,28 @@
   "playedAscenso": true
  },
  {
+  "id": "nahuel-sica",
+  "name": "Nahuel Sica",
+  "shortName": "Sica",
+  "position": "ST",
+  "goals": 3,
+  "club": "Argentino Merlo",
+  "clubs": [
+   "Argentino Merlo"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "nelson-olveira",
   "name": "Nelson Olveira",
   "shortName": "Olveira",
@@ -114910,6 +116089,28 @@
   },
   "review": [
    "season-list-truncated"
+  ]
+ },
+ {
+  "id": "nicolas-gauna",
+  "name": "Nicolás Gauna",
+  "shortName": "Gauna",
+  "position": "ST",
+  "goals": 3,
+  "club": "San Martín Burzaco",
+  "clubs": [
+   "San Martín Burzaco"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
   ]
  },
  {
@@ -115464,6 +116665,28 @@
   }
  },
  {
+  "id": "pablo-caceres",
+  "name": "Pablo Cáceres",
+  "shortName": "Cáceres",
+  "position": "ST",
+  "goals": 3,
+  "club": "Sportivo Italiano",
+  "clubs": [
+   "Sportivo Italiano"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "pablo-calandria",
   "name": "Pablo Calandria",
   "shortName": "Calandria",
@@ -115723,6 +116946,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "ramiro-ruiz",
+  "name": "Ramiro Ruiz",
+  "shortName": "Ruiz",
+  "position": "ST",
+  "goals": 3,
+  "club": "Atlético Tucumán",
+  "clubs": [
+   "Atlético Tucumán"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "ribair-rodriguez",
@@ -116084,6 +117329,28 @@
    "tm-arg2"
   ],
   "playedAscenso": true
+ },
+ {
+  "id": "santiago-formichelli",
+  "name": "Santiago Formichelli",
+  "shortName": "Formichelli",
+  "position": "ST",
+  "goals": 3,
+  "club": "Liniers",
+  "clubs": [
+   "Liniers"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "santiago-gauna",
@@ -116825,6 +118092,28 @@
   "playedAscenso": true
  },
  {
+  "id": "victor-lopez-3",
+  "name": "Victor López",
+  "shortName": "López",
+  "position": "ST",
+  "goals": 3,
+  "club": "Argentino Merlo",
+  "clubs": [
+   "Argentino Merlo"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "victor-soto",
   "name": "Víctor Soto",
   "shortName": "Soto",
@@ -117077,34 +118366,6 @@
   }
  },
  {
-  "id": "adrian-lugones",
-  "name": "Adrián Lugones",
-  "shortName": "Lugones",
-  "position": "ST",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensores de Belgrano",
-  "clubs": [
-   "Defensores de Belgrano"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/adrian-lugones/leistungsdaten/spieler/441147"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "adrian-toloza",
   "name": "Adrián Toloza",
   "shortName": "Toloza",
@@ -117184,27 +118445,6 @@
    "tm-arg2"
   ],
   "playedAscenso": true
- },
- {
-  "id": "agustin-alvarez",
-  "name": "Agustín Álvarez",
-  "shortName": "Álvarez",
-  "position": "ST",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres",
-  "clubs": [
-   "Talleres"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/agustin-alvarez/leistungsdaten/spieler/812625"
-  }
  },
  {
   "id": "agustin-araujo",
@@ -120667,6 +121907,28 @@
   "playedAscenso": true
  },
  {
+  "id": "enzo-taborda",
+  "name": "Enzo Taborda",
+  "shortName": "Taborda",
+  "position": "ST",
+  "goals": 2,
+  "club": "Barracas Central",
+  "clubs": [
+   "Barracas Central"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
+ },
+ {
   "id": "equi-fernandez",
   "name": "Equi Fernández",
   "shortName": "Fernández",
@@ -120834,34 +122096,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/ezequiel-neira/leistungsdaten/spieler/840918"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "ezequiel-ramirez",
-  "name": "Ezequiel Ramírez",
-  "shortName": "Ramírez",
-  "position": "LW",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Telmo",
-  "clubs": [
-   "San Telmo"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ezequiel-ramirez/leistungsdaten/spieler/636740"
   },
   "review": [
    "season-list-truncated"
@@ -122301,36 +123535,6 @@
   ],
   "ascensoEvidence": [
    "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "franco-costa",
-  "name": "Franco Costa",
-  "shortName": "Costa",
-  "position": "LW",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "San Martín (T)",
-  "clubs": [
-   "San Martín (T)",
-   "Luján",
-   "Arsenal de Sarandí",
-   "Flandria",
-   "Tristán Suárez"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2010s–2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/franco-costa/leistungsdaten/spieler/332254"
-  },
-  "ascensoEvidence": [
-   "tm-arg2",
-   "soloascenso"
   ],
   "playedAscenso": true
  },
@@ -124479,34 +125683,6 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/javier-cappelletti/leistungsdaten/spieler/808325"
   }
- },
- {
-  "id": "jeremias-denis",
-  "name": "Jeremías Denis",
-  "shortName": "Denis",
-  "position": "DM",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Talleres (Remedios de Escalada)",
-  "clubs": [
-   "Talleres (Remedios de Escalada)"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/jeremias-denis/leistungsdaten/spieler/855069"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
  },
  {
   "id": "jeremias-james",
@@ -127057,34 +128233,6 @@
   "playedAscenso": true
  },
  {
-  "id": "lucas-vallejo",
-  "name": "Lucas Vallejo",
-  "shortName": "Vallejo",
-  "position": "RW",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "CB Ramón Santamarina",
-  "clubs": [
-   "CB Ramón Santamarina"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/lucas-vallejo/leistungsdaten/spieler/845651"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "lucas-vesco",
   "name": "Lucas Vesco",
   "shortName": "Vesco",
@@ -128205,36 +129353,6 @@
   "playedAscenso": true
  },
  {
-  "id": "matias-de-jesus",
-  "name": "Matías De Jesús",
-  "shortName": "De Jesús",
-  "position": "ST",
-  "goals": 2,
-  "leagueGoals": 2,
-  "club": "Camioneros",
-  "clubs": [
-   "Camioneros"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/federal-b/6"
-  },
-  "saSources": [
-   "Torneo Federal B / Regional Amateur (copia del 03/12/2024): 2"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "matias-di-gregorio",
   "name": "Matías di Gregorio",
   "shortName": "di Gregorio",
@@ -128404,34 +129522,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/matias-gonzalez/leistungsdaten/spieler/985004"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "matias-lucero",
-  "name": "Matías Lucero",
-  "shortName": "Lucero",
-  "position": "RW",
-  "goals": 2,
-  "leagueGoals": 2,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Arsenal de Sarandí",
-  "clubs": [
-   "Arsenal de Sarandí"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/matias-lucero/leistungsdaten/spieler/1241091"
   },
   "review": [
    "season-list-truncated"
@@ -130667,28 +131757,6 @@
    "tm-arg2"
   ],
   "playedAscenso": true
- },
- {
-  "id": "ramiro-ruiz",
-  "name": "Ramiro Ruiz",
-  "shortName": "Ruiz",
-  "position": "ST",
-  "goals": 2,
-  "club": "Atlético Tucumán",
-  "clubs": [
-   "Atlético Tucumán"
-  ],
-  "division": "Primera",
-  "scope": "Goles desde la actualización semanal de Promiedos",
-  "era": "2020s",
-  "source": {
-   "name": "Promiedos — goleadores",
-   "url": "https://www.promiedos.com.ar"
-  },
-  "review": [
-   "promiedos-new",
-   "position-unverified"
-  ]
  },
  {
   "id": "ramon-pedro-ortiz",
@@ -133156,31 +134224,6 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "alan-espeche",
-  "name": "Alan Espeche",
-  "shortName": "Espeche",
-  "position": "RW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "All Boys",
-  "clubs": [
-   "All Boys"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/alan-espeche/leistungsdaten/spieler/579961"
-  },
-  "ascensoEvidence": [
-   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -143053,36 +144096,6 @@
   }
  },
  {
-  "id": "gonzalo-figueroa",
-  "name": "Gonzalo Figueroa",
-  "shortName": "Figueroa",
-  "position": "ST",
-  "goals": 1,
-  "leagueGoals": 1,
-  "club": "C.A.I (Comodoro Rivadavia)",
-  "clubs": [
-   "C.A.I (Comodoro Rivadavia)"
-  ],
-  "division": "Ascenso",
-  "scope": "Ascenso metropolitano/federal (goleadores por torneo, parcial)",
-  "era": "—",
-  "source": {
-   "name": "Solo Ascenso — goleadores (copias de Internet Archive)",
-   "url": "https://www.soloascenso.com.ar/goleadores/federal-b/6"
-  },
-  "saSources": [
-   "Torneo Federal B / Regional Amateur (copia del 14/05/2025): 1"
-  ],
-  "review": [
-   "soloascenso-partial",
-   "position-unverified"
-  ],
-  "ascensoEvidence": [
-   "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "gonzalo-freitas",
   "name": "Gonzalo Freitas",
   "shortName": "Freitas",
@@ -145012,31 +146025,6 @@
   ],
   "ascensoEvidence": [
    "soloascenso"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "ivan-alvarez",
-  "name": "Iván Álvarez",
-  "shortName": "Álvarez",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Morón",
-  "clubs": [
-   "Morón"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/ivan-alvarez/leistungsdaten/spieler/633748"
-  },
-  "ascensoEvidence": [
-   "tm-arg2"
   ],
   "playedAscenso": true
  },
@@ -151404,34 +152392,6 @@
   "playedAscenso": true
  },
  {
-  "id": "mariano-arango",
-  "name": "Mariano Arango",
-  "shortName": "Arango",
-  "position": "LB",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Almirante Brown",
-  "clubs": [
-   "Almirante Brown"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/mariano-arango/leistungsdaten/spieler/907378"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
   "id": "mariano-bettini",
   "name": "Mariano Bettini",
   "shortName": "Bettini",
@@ -153318,32 +154278,6 @@
   "playedAscenso": true
  },
  {
-  "id": "matias-sosa",
-  "name": "Matías Sosa",
-  "shortName": "Sosa",
-  "position": "RW",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Defensa y Justicia",
-  "clubs": [
-   "Defensa y Justicia",
-   "Temperley",
-   "Talleres",
-   "Güemes",
-   "Arsenal de Sarandí",
-   "Colón"
-  ],
-  "division": "Primera",
-  "scope": "Liga desde 1990/91",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — liga argentina (Primera y ascenso)",
-   "url": "https://www.transfermarkt.com/matias-sosa/leistungsdaten/spieler/841182"
-  }
- },
- {
   "id": "matias-valdez",
   "name": "Matías Valdez",
   "shortName": "Valdez",
@@ -154320,6 +155254,28 @@
    "name": "Transfermarkt — liga argentina (Primera y ascenso)",
    "url": "https://www.transfermarkt.com/mosquito/leistungsdaten/spieler/288508"
   }
+ },
+ {
+  "id": "nacho-rodriguez",
+  "name": "Nacho Rodríguez",
+  "shortName": "Rodríguez",
+  "position": "ST",
+  "goals": 1,
+  "club": "Atlanta",
+  "clubs": [
+   "Atlanta"
+  ],
+  "division": "Primera",
+  "scope": "Goles desde la actualización semanal de Promiedos",
+  "era": "2020s",
+  "source": {
+   "name": "Promiedos — goleadores",
+   "url": "https://www.promiedos.com.ar"
+  },
+  "review": [
+   "promiedos-new",
+   "position-unverified"
+  ]
  },
  {
   "id": "nadir-hadad",
@@ -156074,32 +157030,6 @@
   "review": [
    "seasons-before-2008-not-counted"
   ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "pablo-cortizo",
-  "name": "Pablo Cortizo",
-  "shortName": "Cortizo",
-  "position": "CM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia (M)",
-  "clubs": [
-   "Gimnasia (M)",
-   "Atlanta"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2010s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/pablo-cortizo/leistungsdaten/spieler/66317"
-  },
   "ascensoEvidence": [
    "tm-arg2"
   ],
@@ -158197,34 +159127,6 @@
   "source": {
    "name": "Transfermarkt — Primera Nacional",
    "url": "https://www.transfermarkt.com/rodrigo-tapia/leistungsdaten/spieler/422398"
-  },
-  "review": [
-   "season-list-truncated"
-  ],
-  "ascensoEvidence": [
-   "tm-arg2"
-  ],
-  "playedAscenso": true
- },
- {
-  "id": "rodrigo-velazquez",
-  "name": "Rodrigo Velázquez",
-  "shortName": "Velázquez",
-  "position": "AM",
-  "goals": 1,
-  "leagueGoals": 1,
-  "cupGoals": 0,
-  "intlGoals": 0,
-  "club": "Gimnasia y Esgrima (Jujuy)",
-  "clubs": [
-   "Gimnasia y Esgrima (Jujuy)"
-  ],
-  "division": "Primera Nacional",
-  "scope": "Ascenso desde 2008/09",
-  "era": "2020s",
-  "source": {
-   "name": "Transfermarkt — Primera Nacional",
-   "url": "https://www.transfermarkt.com/rodrigo-velazquez/leistungsdaten/spieler/1013490"
   },
   "review": [
    "season-list-truncated"

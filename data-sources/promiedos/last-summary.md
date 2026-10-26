@@ -1,39 +1,138 @@
-Promiedos 2026-10-19: +61 goles de 38 jugadores desde 2026-10-16.
+Promiedos 2026-10-26: +616 goles de 137 jugadores desde 2026-10-19.
+- Ronaldo Martínez (Vélez Sarsfield, liga-profesional): +3
+- Agustin Modica (Gimnasia de Mendoza, liga-profesional): +1
 - Andres Vombergar (Aldosivi, liga-profesional): +1
-- Miguel Merentiel (Boca Juniors, liga-profesional): +1
-- Allan Wlk (Lanús, liga-profesional): +1
-- Jose Florentín (Independiente Rivadavia, liga-profesional): +1
-- Tomás Galván (River Plate, liga-profesional): +1
-- Angel Correa (River Plate, liga-profesional): +1
-- Gastón Ávila (Rosario Central, liga-profesional): +3
-- Leonel Flores (Boca Juniors, liga-profesional): +1
-- Maximiliano Meza (Independiente, liga-profesional): +1
-- Thiago Almada (River Plate, liga-profesional): +1
-- Edwuin Cetré (Estudiantes de La Plata, liga-profesional): +1
-- Gabriel Alanís (Estudiantes RC, liga-profesional): +2
-- Jeremías Lázaro (Instituto, liga-profesional): +2
-- Julián Fernández (Rosario Central, liga-profesional): +2
-- Matías Fernández (Independiente Rivadavia, liga-profesional): +2
-- Matías Giménez (Argentinos Juniors, liga-profesional): +2
-- Ramiro Ruiz (Atlético Tucumán, liga-profesional): +2
-- Thiago Silvero (Vélez Sarsfield, liga-profesional): +2
-- Ibrahim Hesar (Estudiantes RC, liga-profesional): +2
-- Martín Pino (Godoy Cruz, primera-nacional): +3
+- Ángel Di María (Rosario Central, liga-profesional): +1
+- Bruno Sepúlveda (Platense, liga-profesional): +1
+- Leandro Fernandez (Defensa y Justicia, liga-profesional): +1
+- Juan Gutiérrez (Defensa y Justicia, liga-profesional): +1
+- Ramiro Ruiz (Atlético Tucumán, liga-profesional): +1
+- Agustín Álvarez (Talleres de Córdoba, liga-profesional): +1
+- Ibrahim Hesar (Estudiantes RC, liga-profesional): +1
+- Leonardo Sequeira (Central Córdoba SdE, liga-profesional): +1
+- Adrián Balboa (Banfield, liga-profesional): +2
+- Carlos Izquierdoz (Lanús, liga-profesional): +2
+- Enzo Taborda (Barracas Central, liga-profesional): +2
+- Franco Torres (Gimnasia La Plata, liga-profesional): +2
+- Nacho Fernández (Gimnasia La Plata, liga-profesional): +2
+- Santiago Solari (Newell's Old Boys, liga-profesional): +2
+- Martín Pino (Godoy Cruz, primera-nacional): +2
+- Luis Silba (Deportivo Madryn, primera-nacional): +2
 - Ignacio Lago (Colón, primera-nacional): +1
-- Nazareno Funez (San Martín San Juan, primera-nacional): +1
-- Lautaro Parisi (Ferro Carril Oeste, primera-nacional): +1
-- Guillermo Sánchez (Ciudad De Bolivar, primera-nacional): +1
-- Axel Rodríguez (Godoy Cruz, primera-nacional): +1
-- Bruno Cabrera (San Martín Tucumán, primera-nacional): +2
-- Gabriel Hauche (Temperley, primera-nacional): +1
-- Rodrigo Monserrat (Colegiales, primera-nacional): +1
-- Vicente Poggi (Godoy Cruz, primera-nacional): +1
-- Francisco Molina (Gimnasia de Jujuy, primera-nacional): +1
-- Martiniano Moreno (Atlético Rafaela, primera-nacional): +1
-- Alexis Domínguez (Chacarita Juniors, primera-nacional): +1
-- Diego Becker (Tristan Suárez, primera-nacional): +1
-- Ian Vera (Estudiantes, primera-nacional): +2
-- Mauro Albertengo (Colegiales, primera-nacional): +1
-- Alejo Tabares (All Boys, primera-nacional): +4
-- Javier Martinez (Almirante Brown, primera-nacional): +4
-- Maximiliano Gutiérrez (Ciudad De Bolivar, primera-nacional): +4
+- Pablo Chavarria (Racing de Córdoba, primera-nacional): +1
+- Mauricio Asenjo (Los Andes, primera-nacional): +1
+- Aarón Spetale (Quilmes, primera-nacional): +2
+- Matías Romero (Chaco For Ever, primera-nacional): +2
+- Facundo Ardiles (Estudiantes, primera-nacional): +1
+- Juan Cruz Vega (Agropecuario, primera-nacional): +1
+- Cristian Menéndez (Gimnasia de Jujuy, primera-nacional): +1
+- Nicolás Toloza (Colegiales, primera-nacional): +1
+- Alejo Tabares (All Boys, primera-nacional): +1
+- Jeremías Puch (Atlanta, primera-nacional): +1
+- Juan Cruz Giacone (Deportivo Maipú, primera-nacional): +1
+- Marcos Roseti (Midland, primera-nacional): +1
+- Nacho Rodríguez (Atlanta, primera-nacional): +1
+- Enzo Martínez (Almagro, primera-nacional): +4
+- Matías Flores (Midland, primera-nacional): +4
+- Jeremías Heidenreich (Comunicaciones, primera-b-metro): +16
+- Matías Sosa (Arsenal de Sarandí, primera-b-metro): +14
+- Franco Romero (Deportivo Laferrere, primera-b-metro): +13
+- Máximo Guzmán (Sportivo Italiano, primera-b-metro): +13
+- Martín Giménez (Defensores Unidos, primera-b-metro): +13
+- Gonzalo Figueroa (Deportivo Armenio, primera-b-metro): +11
+- Iván Sandoval (Deportivo Merlo, primera-b-metro): +11
+- Federico Aguirre (Camioneros, primera-b-metro): +10
+- Maximo Blanco (Excursionistas, primera-b-metro): +10
+- Diego Aguirre (Argentino Merlo, primera-b-metro): +9
+- Gonzalo Gómez (Sportivo Dock Sud, primera-b-metro): +9
+- Rodrigo Salinas (Villa San Carlos, primera-b-metro): +9
+- Luca Franco (Arsenal de Sarandí, primera-b-metro): +9
+- Willian Giménez (Excursionistas, primera-b-metro): +8
+- Bruno Báez (Brown de Adrogué, primera-b-metro): +8
+- Jonathan Herrera (Deportivo Armenio, primera-b-metro): +8
+- Adrián Lugones (Villa San Carlos, primera-b-metro): +7
+- Alejandro Benitez (Deportivo Laferrere, primera-b-metro): +7
+- Gabriel Tellas (Excursionistas, primera-b-metro): +7
+- Kevin Ghigliazza (Sportivo Dock Sud, primera-b-metro): +7
+- Kevin Gimenez (Sportivo Italiano, primera-b-metro): +7
+- Matias Pólvera (Excursionistas, primera-b-metro): +7
+- Matias Samaniego (Talleres RE, primera-b-metro): +7
+- Mauro Dávila (Deportivo Armenio, primera-b-metro): +7
+- Rodrigo Hernández (Deportivo Merlo, primera-b-metro): +7
+- Rodrigo Velazquez (San Martín Burzaco, primera-b-metro): +7
+- Ignacio Serpa (undefined, primera-b-metro): +7
+- Joel Martínez (Argentino de Quilmes, primera-b-metro): +7
+- Tomás Ponzo (Villa Dalmine, primera-b-metro): +7
+- Braian Chávez (San Martín Burzaco, primera-b-metro): +7
+- Jonatan Moran (Deportivo Laferrere, primera-b-metro): +7
+- Sebastian Vivas (Sportivo Dock Sud, primera-b-metro): +7
+- Cristian Muñoz (Talleres RE, primera-b-metro): +6
+- Kevin Pavia (Villa San Carlos, primera-b-metro): +6
+- Nicolas Damiolini (Excursionistas, primera-b-metro): +6
+- Alan Salvador (Argentino Merlo, primera-b-metro): +6
+- Ivo Kestler (Arsenal de Sarandí, primera-b-metro): +6
+- Alcides Miranda (Ituzaingó, primera-b-metro): +6
+- Cristian Rodriguez (Liniers, primera-b-metro): +5
+- Ezequiel Ramírez (Comunicaciones, primera-b-metro): +5
+- Facundo Gomez (Sportivo Italiano, primera-b-metro): +5
+- Federico Martínez (Talleres RE, primera-b-metro): +5
+- Marcos Riquelme (Real Pilar, primera-b-metro): +5
+- Martín López (Flandria, primera-b-metro): +5
+- Martiniano Compagnucci (Argentino de Quilmes, primera-b-metro): +5
+- Mathias Crocco (Real Pilar, primera-b-metro): +5
+- Matias De Jesús (Camioneros, primera-b-metro): +5
+- Nazareno Diosquez (Flandria, primera-b-metro): +5
+- Thiago Coria (Liniers, primera-b-metro): +5
+- Uriel La Roza (Arsenal de Sarandí, primera-b-metro): +5
+- Valentín Mancini (Real Pilar, primera-b-metro): +5
+- Benjamin Gimenez (Flandria, primera-b-metro): +5
+- Fernando Enrique (Talleres RE, primera-b-metro): +5
+- Ignacio Huguenet (Camioneros, primera-b-metro): +5
+- Mariano Arango (Excursionistas, primera-b-metro): +5
+- Santiago Prim (Villa Dalmine, primera-b-metro): +5
+- Alejandro Ávalos (Excursionistas, primera-b-metro): +4
+- Brian Martin (Real Pilar, primera-b-metro): +4
+- Bruno Gauna (Liniers, primera-b-metro): +4
+- Diego Barrionuevo (Deportivo Armenio, primera-b-metro): +4
+- Dylan Vergara (Real Pilar, primera-b-metro): +4
+- Emanuel Zagert (San Martín Burzaco, primera-b-metro): +4
+- Enzo Diaz (UAI Urquiza, primera-b-metro): +4
+- Facundo Aguerre (Deportivo Merlo, primera-b-metro): +4
+- Franco Costa (Flandria, primera-b-metro): +4
+- Jeremías Denis (Deportivo Laferrere, primera-b-metro): +4
+- Lautaro Mena (Ituzaingó, primera-b-metro): +4
+- Leandro Guzmán (Argentino de Quilmes, primera-b-metro): +4
+- Lucas Rebecchi (Deportivo Laferrere, primera-b-metro): +4
+- Mirko Coronel (Camioneros, primera-b-metro): +4
+- Pablo Cortizo (Talleres RE, primera-b-metro): +4
+- Pablo López (Camioneros, primera-b-metro): +4
+- Rodrigo Acosta (Camioneros, primera-b-metro): +4
+- Sergio Modón (San Martín Burzaco, primera-b-metro): +4
+- Eloy Rodriguez (Real Pilar, primera-b-metro): +4
+- Luciano Brandán (Villa Dalmine, primera-b-metro): +4
+- Agustin Arias (Sportivo Dock Sud, primera-b-metro): +3
+- Alan Espeche (Excursionistas, primera-b-metro): +3
+- Alan Visco (Deportivo Laferrere, primera-b-metro): +3
+- Axel Guerra (Sportivo Italiano, primera-b-metro): +3
+- Bruno Villalba (Sportivo Dock Sud, primera-b-metro): +3
+- Cristian Broggi (Villa Dalmine, primera-b-metro): +3
+- Facundo Lando (Argentino de Quilmes, primera-b-metro): +3
+- Facundo Pansardi (Real Pilar, primera-b-metro): +3
+- Gonzalo Torres (Villa Dalmine, primera-b-metro): +3
+- Isaias Ciavarelli (Talleres RE, primera-b-metro): +3
+- Iván Álvarez (Sportivo Dock Sud, primera-b-metro): +3
+- Leonel Barrios (Talleres RE, primera-b-metro): +3
+- Lucas Vallejo (Deportivo Merlo, primera-b-metro): +3
+- Matias Alaniz (Excursionistas, primera-b-metro): +3
+- Matias Lucero (Arsenal de Sarandí, primera-b-metro): +3
+- Nahuel Sica (Argentino Merlo, primera-b-metro): +3
+- Nicolás Gauna (San Martín Burzaco, primera-b-metro): +3
+- Pedro Durante (Sportivo Italiano, primera-b-metro): +3
+- Santiago Formichelli (Liniers, primera-b-metro): +3
+- Victor López (Argentino Merlo, primera-b-metro): +3
+- Ezequiel Melillo (Villa San Carlos, primera-b-metro): +3
+- Ignacio Colombini (Talleres RE, primera-b-metro): +3
+- Luciano Romero (Argentino Merlo, primera-b-metro): +3
+- Pablo Cáceres (Sportivo Italiano, primera-b-metro): +3
+- Miguel Merentiel (Boca Juniors, sudamericana): +1
+- Leandro Paredes (Boca Juniors, sudamericana): +1

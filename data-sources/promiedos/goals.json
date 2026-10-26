@@ -2,12 +2,12 @@
  "Andres Vombergar|Aldosivi": {
   "name": "Andres Vombergar",
   "team": "Aldosivi",
-  "goals": 1
+  "goals": 2
  },
  "Miguel Merentiel|Boca Juniors": {
   "name": "Miguel Merentiel",
   "team": "Boca Juniors",
-  "goals": 1
+  "goals": 2
  },
  "Allan Wlk|Lanús": {
   "name": "Allan Wlk",
@@ -82,7 +82,7 @@
  "Ramiro Ruiz|Atlético Tucumán": {
   "name": "Ramiro Ruiz",
   "team": "Atlético Tucumán",
-  "goals": 2
+  "goals": 3
  },
  "Thiago Silvero|Vélez Sarsfield": {
   "name": "Thiago Silvero",
@@ -92,17 +92,17 @@
  "Ibrahim Hesar|Estudiantes RC": {
   "name": "Ibrahim Hesar",
   "team": "Estudiantes RC",
-  "goals": 2
+  "goals": 3
  },
  "Martín Pino|Godoy Cruz": {
   "name": "Martín Pino",
   "team": "Godoy Cruz",
-  "goals": 3
+  "goals": 5
  },
  "Ignacio Lago|Colón": {
   "name": "Ignacio Lago",
   "team": "Colón",
-  "goals": 1
+  "goals": 2
  },
  "Nazareno Funez|San Martín San Juan": {
   "name": "Nazareno Funez",
@@ -177,7 +177,7 @@
  "Alejo Tabares|All Boys": {
   "name": "Alejo Tabares",
   "team": "All Boys",
-  "goals": 4
+  "goals": 5
  },
  "Javier Martinez|Almirante Brown": {
   "name": "Javier Martinez",
@@ -191,6 +191,655 @@
  },
  "Lautaro Di Lollo|Boca Juniors": {
   "name": "Lautaro Di Lollo",
+  "team": "Boca Juniors",
+  "goals": 1
+ },
+ "Ronaldo Martínez|Vélez Sarsfield": {
+  "name": "Ronaldo Martínez",
+  "team": "Vélez Sarsfield",
+  "goals": 3
+ },
+ "Agustin Modica|Gimnasia de Mendoza": {
+  "name": "Agustin Modica",
+  "team": "Gimnasia de Mendoza",
+  "goals": 1
+ },
+ "Ángel Di María|Rosario Central": {
+  "name": "Ángel Di María",
+  "team": "Rosario Central",
+  "goals": 1
+ },
+ "Bruno Sepúlveda|Platense": {
+  "name": "Bruno Sepúlveda",
+  "team": "Platense",
+  "goals": 1
+ },
+ "Leandro Fernandez|Defensa y Justicia": {
+  "name": "Leandro Fernandez",
+  "team": "Defensa y Justicia",
+  "goals": 1
+ },
+ "Juan Gutiérrez|Defensa y Justicia": {
+  "name": "Juan Gutiérrez",
+  "team": "Defensa y Justicia",
+  "goals": 1
+ },
+ "Agustín Álvarez|Talleres de Córdoba": {
+  "name": "Agustín Álvarez",
+  "team": "Talleres de Córdoba",
+  "goals": 1
+ },
+ "Leonardo Sequeira|Central Córdoba SdE": {
+  "name": "Leonardo Sequeira",
+  "team": "Central Córdoba SdE",
+  "goals": 1
+ },
+ "Adrián Balboa|Banfield": {
+  "name": "Adrián Balboa",
+  "team": "Banfield",
+  "goals": 2
+ },
+ "Carlos Izquierdoz|Lanús": {
+  "name": "Carlos Izquierdoz",
+  "team": "Lanús",
+  "goals": 2
+ },
+ "Enzo Taborda|Barracas Central": {
+  "name": "Enzo Taborda",
+  "team": "Barracas Central",
+  "goals": 2
+ },
+ "Franco Torres|Gimnasia La Plata": {
+  "name": "Franco Torres",
+  "team": "Gimnasia La Plata",
+  "goals": 2
+ },
+ "Nacho Fernández|Gimnasia La Plata": {
+  "name": "Nacho Fernández",
+  "team": "Gimnasia La Plata",
+  "goals": 2
+ },
+ "Santiago Solari|Newell's Old Boys": {
+  "name": "Santiago Solari",
+  "team": "Newell's Old Boys",
+  "goals": 2
+ },
+ "Luis Silba|Deportivo Madryn": {
+  "name": "Luis Silba",
+  "team": "Deportivo Madryn",
+  "goals": 2
+ },
+ "Pablo Chavarria|Racing de Córdoba": {
+  "name": "Pablo Chavarria",
+  "team": "Racing de Córdoba",
+  "goals": 1
+ },
+ "Mauricio Asenjo|Los Andes": {
+  "name": "Mauricio Asenjo",
+  "team": "Los Andes",
+  "goals": 1
+ },
+ "Aarón Spetale|Quilmes": {
+  "name": "Aarón Spetale",
+  "team": "Quilmes",
+  "goals": 2
+ },
+ "Matías Romero|Chaco For Ever": {
+  "name": "Matías Romero",
+  "team": "Chaco For Ever",
+  "goals": 2
+ },
+ "Facundo Ardiles|Estudiantes": {
+  "name": "Facundo Ardiles",
+  "team": "Estudiantes",
+  "goals": 1
+ },
+ "Juan Cruz Vega|Agropecuario": {
+  "name": "Juan Cruz Vega",
+  "team": "Agropecuario",
+  "goals": 1
+ },
+ "Cristian Menéndez|Gimnasia de Jujuy": {
+  "name": "Cristian Menéndez",
+  "team": "Gimnasia de Jujuy",
+  "goals": 1
+ },
+ "Nicolás Toloza|Colegiales": {
+  "name": "Nicolás Toloza",
+  "team": "Colegiales",
+  "goals": 1
+ },
+ "Jeremías Puch|Atlanta": {
+  "name": "Jeremías Puch",
+  "team": "Atlanta",
+  "goals": 1
+ },
+ "Juan Cruz Giacone|Deportivo Maipú": {
+  "name": "Juan Cruz Giacone",
+  "team": "Deportivo Maipú",
+  "goals": 1
+ },
+ "Marcos Roseti|Midland": {
+  "name": "Marcos Roseti",
+  "team": "Midland",
+  "goals": 1
+ },
+ "Nacho Rodríguez|Atlanta": {
+  "name": "Nacho Rodríguez",
+  "team": "Atlanta",
+  "goals": 1
+ },
+ "Enzo Martínez|Almagro": {
+  "name": "Enzo Martínez",
+  "team": "Almagro",
+  "goals": 4
+ },
+ "Matías Flores|Midland": {
+  "name": "Matías Flores",
+  "team": "Midland",
+  "goals": 4
+ },
+ "Jeremías Heidenreich|Comunicaciones": {
+  "name": "Jeremías Heidenreich",
+  "team": "Comunicaciones",
+  "goals": 16
+ },
+ "Matías Sosa|Arsenal de Sarandí": {
+  "name": "Matías Sosa",
+  "team": "Arsenal de Sarandí",
+  "goals": 14
+ },
+ "Franco Romero|Deportivo Laferrere": {
+  "name": "Franco Romero",
+  "team": "Deportivo Laferrere",
+  "goals": 13
+ },
+ "Máximo Guzmán|Sportivo Italiano": {
+  "name": "Máximo Guzmán",
+  "team": "Sportivo Italiano",
+  "goals": 13
+ },
+ "Martín Giménez|Defensores Unidos": {
+  "name": "Martín Giménez",
+  "team": "Defensores Unidos",
+  "goals": 13
+ },
+ "Gonzalo Figueroa|Deportivo Armenio": {
+  "name": "Gonzalo Figueroa",
+  "team": "Deportivo Armenio",
+  "goals": 11
+ },
+ "Iván Sandoval|Deportivo Merlo": {
+  "name": "Iván Sandoval",
+  "team": "Deportivo Merlo",
+  "goals": 11
+ },
+ "Federico Aguirre|Camioneros": {
+  "name": "Federico Aguirre",
+  "team": "Camioneros",
+  "goals": 10
+ },
+ "Maximo Blanco|Excursionistas": {
+  "name": "Maximo Blanco",
+  "team": "Excursionistas",
+  "goals": 10
+ },
+ "Diego Aguirre|Argentino Merlo": {
+  "name": "Diego Aguirre",
+  "team": "Argentino Merlo",
+  "goals": 9
+ },
+ "Gonzalo Gómez|Sportivo Dock Sud": {
+  "name": "Gonzalo Gómez",
+  "team": "Sportivo Dock Sud",
+  "goals": 9
+ },
+ "Rodrigo Salinas|Villa San Carlos": {
+  "name": "Rodrigo Salinas",
+  "team": "Villa San Carlos",
+  "goals": 9
+ },
+ "Luca Franco|Arsenal de Sarandí": {
+  "name": "Luca Franco",
+  "team": "Arsenal de Sarandí",
+  "goals": 9
+ },
+ "Willian Giménez|Excursionistas": {
+  "name": "Willian Giménez",
+  "team": "Excursionistas",
+  "goals": 8
+ },
+ "Bruno Báez|Brown de Adrogué": {
+  "name": "Bruno Báez",
+  "team": "Brown de Adrogué",
+  "goals": 8
+ },
+ "Jonathan Herrera|Deportivo Armenio": {
+  "name": "Jonathan Herrera",
+  "team": "Deportivo Armenio",
+  "goals": 8
+ },
+ "Adrián Lugones|Villa San Carlos": {
+  "name": "Adrián Lugones",
+  "team": "Villa San Carlos",
+  "goals": 7
+ },
+ "Alejandro Benitez|Deportivo Laferrere": {
+  "name": "Alejandro Benitez",
+  "team": "Deportivo Laferrere",
+  "goals": 7
+ },
+ "Gabriel Tellas|Excursionistas": {
+  "name": "Gabriel Tellas",
+  "team": "Excursionistas",
+  "goals": 7
+ },
+ "Kevin Ghigliazza|Sportivo Dock Sud": {
+  "name": "Kevin Ghigliazza",
+  "team": "Sportivo Dock Sud",
+  "goals": 7
+ },
+ "Kevin Gimenez|Sportivo Italiano": {
+  "name": "Kevin Gimenez",
+  "team": "Sportivo Italiano",
+  "goals": 7
+ },
+ "Matias Pólvera|Excursionistas": {
+  "name": "Matias Pólvera",
+  "team": "Excursionistas",
+  "goals": 7
+ },
+ "Matias Samaniego|Talleres RE": {
+  "name": "Matias Samaniego",
+  "team": "Talleres RE",
+  "goals": 7
+ },
+ "Mauro Dávila|Deportivo Armenio": {
+  "name": "Mauro Dávila",
+  "team": "Deportivo Armenio",
+  "goals": 7
+ },
+ "Rodrigo Hernández|Deportivo Merlo": {
+  "name": "Rodrigo Hernández",
+  "team": "Deportivo Merlo",
+  "goals": 7
+ },
+ "Rodrigo Velazquez|San Martín Burzaco": {
+  "name": "Rodrigo Velazquez",
+  "team": "San Martín Burzaco",
+  "goals": 7
+ },
+ "Ignacio Serpa|undefined": {
+  "name": "Ignacio Serpa",
+  "goals": 7
+ },
+ "Joel Martínez|Argentino de Quilmes": {
+  "name": "Joel Martínez",
+  "team": "Argentino de Quilmes",
+  "goals": 7
+ },
+ "Tomás Ponzo|Villa Dalmine": {
+  "name": "Tomás Ponzo",
+  "team": "Villa Dalmine",
+  "goals": 7
+ },
+ "Braian Chávez|San Martín Burzaco": {
+  "name": "Braian Chávez",
+  "team": "San Martín Burzaco",
+  "goals": 7
+ },
+ "Jonatan Moran|Deportivo Laferrere": {
+  "name": "Jonatan Moran",
+  "team": "Deportivo Laferrere",
+  "goals": 7
+ },
+ "Sebastian Vivas|Sportivo Dock Sud": {
+  "name": "Sebastian Vivas",
+  "team": "Sportivo Dock Sud",
+  "goals": 7
+ },
+ "Cristian Muñoz|Talleres RE": {
+  "name": "Cristian Muñoz",
+  "team": "Talleres RE",
+  "goals": 6
+ },
+ "Kevin Pavia|Villa San Carlos": {
+  "name": "Kevin Pavia",
+  "team": "Villa San Carlos",
+  "goals": 6
+ },
+ "Nicolas Damiolini|Excursionistas": {
+  "name": "Nicolas Damiolini",
+  "team": "Excursionistas",
+  "goals": 6
+ },
+ "Alan Salvador|Argentino Merlo": {
+  "name": "Alan Salvador",
+  "team": "Argentino Merlo",
+  "goals": 6
+ },
+ "Ivo Kestler|Arsenal de Sarandí": {
+  "name": "Ivo Kestler",
+  "team": "Arsenal de Sarandí",
+  "goals": 6
+ },
+ "Alcides Miranda|Ituzaingó": {
+  "name": "Alcides Miranda",
+  "team": "Ituzaingó",
+  "goals": 6
+ },
+ "Cristian Rodriguez|Liniers": {
+  "name": "Cristian Rodriguez",
+  "team": "Liniers",
+  "goals": 5
+ },
+ "Ezequiel Ramírez|Comunicaciones": {
+  "name": "Ezequiel Ramírez",
+  "team": "Comunicaciones",
+  "goals": 5
+ },
+ "Facundo Gomez|Sportivo Italiano": {
+  "name": "Facundo Gomez",
+  "team": "Sportivo Italiano",
+  "goals": 5
+ },
+ "Federico Martínez|Talleres RE": {
+  "name": "Federico Martínez",
+  "team": "Talleres RE",
+  "goals": 5
+ },
+ "Marcos Riquelme|Real Pilar": {
+  "name": "Marcos Riquelme",
+  "team": "Real Pilar",
+  "goals": 5
+ },
+ "Martín López|Flandria": {
+  "name": "Martín López",
+  "team": "Flandria",
+  "goals": 5
+ },
+ "Martiniano Compagnucci|Argentino de Quilmes": {
+  "name": "Martiniano Compagnucci",
+  "team": "Argentino de Quilmes",
+  "goals": 5
+ },
+ "Mathias Crocco|Real Pilar": {
+  "name": "Mathias Crocco",
+  "team": "Real Pilar",
+  "goals": 5
+ },
+ "Matias De Jesús|Camioneros": {
+  "name": "Matias De Jesús",
+  "team": "Camioneros",
+  "goals": 5
+ },
+ "Nazareno Diosquez|Flandria": {
+  "name": "Nazareno Diosquez",
+  "team": "Flandria",
+  "goals": 5
+ },
+ "Thiago Coria|Liniers": {
+  "name": "Thiago Coria",
+  "team": "Liniers",
+  "goals": 5
+ },
+ "Uriel La Roza|Arsenal de Sarandí": {
+  "name": "Uriel La Roza",
+  "team": "Arsenal de Sarandí",
+  "goals": 5
+ },
+ "Valentín Mancini|Real Pilar": {
+  "name": "Valentín Mancini",
+  "team": "Real Pilar",
+  "goals": 5
+ },
+ "Benjamin Gimenez|Flandria": {
+  "name": "Benjamin Gimenez",
+  "team": "Flandria",
+  "goals": 5
+ },
+ "Fernando Enrique|Talleres RE": {
+  "name": "Fernando Enrique",
+  "team": "Talleres RE",
+  "goals": 5
+ },
+ "Ignacio Huguenet|Camioneros": {
+  "name": "Ignacio Huguenet",
+  "team": "Camioneros",
+  "goals": 5
+ },
+ "Mariano Arango|Excursionistas": {
+  "name": "Mariano Arango",
+  "team": "Excursionistas",
+  "goals": 5
+ },
+ "Santiago Prim|Villa Dalmine": {
+  "name": "Santiago Prim",
+  "team": "Villa Dalmine",
+  "goals": 5
+ },
+ "Alejandro Ávalos|Excursionistas": {
+  "name": "Alejandro Ávalos",
+  "team": "Excursionistas",
+  "goals": 4
+ },
+ "Brian Martin|Real Pilar": {
+  "name": "Brian Martin",
+  "team": "Real Pilar",
+  "goals": 4
+ },
+ "Bruno Gauna|Liniers": {
+  "name": "Bruno Gauna",
+  "team": "Liniers",
+  "goals": 4
+ },
+ "Diego Barrionuevo|Deportivo Armenio": {
+  "name": "Diego Barrionuevo",
+  "team": "Deportivo Armenio",
+  "goals": 4
+ },
+ "Dylan Vergara|Real Pilar": {
+  "name": "Dylan Vergara",
+  "team": "Real Pilar",
+  "goals": 4
+ },
+ "Emanuel Zagert|San Martín Burzaco": {
+  "name": "Emanuel Zagert",
+  "team": "San Martín Burzaco",
+  "goals": 4
+ },
+ "Enzo Diaz|UAI Urquiza": {
+  "name": "Enzo Diaz",
+  "team": "UAI Urquiza",
+  "goals": 4
+ },
+ "Facundo Aguerre|Deportivo Merlo": {
+  "name": "Facundo Aguerre",
+  "team": "Deportivo Merlo",
+  "goals": 4
+ },
+ "Franco Costa|Flandria": {
+  "name": "Franco Costa",
+  "team": "Flandria",
+  "goals": 4
+ },
+ "Jeremías Denis|Deportivo Laferrere": {
+  "name": "Jeremías Denis",
+  "team": "Deportivo Laferrere",
+  "goals": 4
+ },
+ "Lautaro Mena|Ituzaingó": {
+  "name": "Lautaro Mena",
+  "team": "Ituzaingó",
+  "goals": 4
+ },
+ "Leandro Guzmán|Argentino de Quilmes": {
+  "name": "Leandro Guzmán",
+  "team": "Argentino de Quilmes",
+  "goals": 4
+ },
+ "Lucas Rebecchi|Deportivo Laferrere": {
+  "name": "Lucas Rebecchi",
+  "team": "Deportivo Laferrere",
+  "goals": 4
+ },
+ "Mirko Coronel|Camioneros": {
+  "name": "Mirko Coronel",
+  "team": "Camioneros",
+  "goals": 4
+ },
+ "Pablo Cortizo|Talleres RE": {
+  "name": "Pablo Cortizo",
+  "team": "Talleres RE",
+  "goals": 4
+ },
+ "Pablo López|Camioneros": {
+  "name": "Pablo López",
+  "team": "Camioneros",
+  "goals": 4
+ },
+ "Rodrigo Acosta|Camioneros": {
+  "name": "Rodrigo Acosta",
+  "team": "Camioneros",
+  "goals": 4
+ },
+ "Sergio Modón|San Martín Burzaco": {
+  "name": "Sergio Modón",
+  "team": "San Martín Burzaco",
+  "goals": 4
+ },
+ "Eloy Rodriguez|Real Pilar": {
+  "name": "Eloy Rodriguez",
+  "team": "Real Pilar",
+  "goals": 4
+ },
+ "Luciano Brandán|Villa Dalmine": {
+  "name": "Luciano Brandán",
+  "team": "Villa Dalmine",
+  "goals": 4
+ },
+ "Agustin Arias|Sportivo Dock Sud": {
+  "name": "Agustin Arias",
+  "team": "Sportivo Dock Sud",
+  "goals": 3
+ },
+ "Alan Espeche|Excursionistas": {
+  "name": "Alan Espeche",
+  "team": "Excursionistas",
+  "goals": 3
+ },
+ "Alan Visco|Deportivo Laferrere": {
+  "name": "Alan Visco",
+  "team": "Deportivo Laferrere",
+  "goals": 3
+ },
+ "Axel Guerra|Sportivo Italiano": {
+  "name": "Axel Guerra",
+  "team": "Sportivo Italiano",
+  "goals": 3
+ },
+ "Bruno Villalba|Sportivo Dock Sud": {
+  "name": "Bruno Villalba",
+  "team": "Sportivo Dock Sud",
+  "goals": 3
+ },
+ "Cristian Broggi|Villa Dalmine": {
+  "name": "Cristian Broggi",
+  "team": "Villa Dalmine",
+  "goals": 3
+ },
+ "Facundo Lando|Argentino de Quilmes": {
+  "name": "Facundo Lando",
+  "team": "Argentino de Quilmes",
+  "goals": 3
+ },
+ "Facundo Pansardi|Real Pilar": {
+  "name": "Facundo Pansardi",
+  "team": "Real Pilar",
+  "goals": 3
+ },
+ "Gonzalo Torres|Villa Dalmine": {
+  "name": "Gonzalo Torres",
+  "team": "Villa Dalmine",
+  "goals": 3
+ },
+ "Isaias Ciavarelli|Talleres RE": {
+  "name": "Isaias Ciavarelli",
+  "team": "Talleres RE",
+  "goals": 3
+ },
+ "Iván Álvarez|Sportivo Dock Sud": {
+  "name": "Iván Álvarez",
+  "team": "Sportivo Dock Sud",
+  "goals": 3
+ },
+ "Leonel Barrios|Talleres RE": {
+  "name": "Leonel Barrios",
+  "team": "Talleres RE",
+  "goals": 3
+ },
+ "Lucas Vallejo|Deportivo Merlo": {
+  "name": "Lucas Vallejo",
+  "team": "Deportivo Merlo",
+  "goals": 3
+ },
+ "Matias Alaniz|Excursionistas": {
+  "name": "Matias Alaniz",
+  "team": "Excursionistas",
+  "goals": 3
+ },
+ "Matias Lucero|Arsenal de Sarandí": {
+  "name": "Matias Lucero",
+  "team": "Arsenal de Sarandí",
+  "goals": 3
+ },
+ "Nahuel Sica|Argentino Merlo": {
+  "name": "Nahuel Sica",
+  "team": "Argentino Merlo",
+  "goals": 3
+ },
+ "Nicolás Gauna|San Martín Burzaco": {
+  "name": "Nicolás Gauna",
+  "team": "San Martín Burzaco",
+  "goals": 3
+ },
+ "Pedro Durante|Sportivo Italiano": {
+  "name": "Pedro Durante",
+  "team": "Sportivo Italiano",
+  "goals": 3
+ },
+ "Santiago Formichelli|Liniers": {
+  "name": "Santiago Formichelli",
+  "team": "Liniers",
+  "goals": 3
+ },
+ "Victor López|Argentino Merlo": {
+  "name": "Victor López",
+  "team": "Argentino Merlo",
+  "goals": 3
+ },
+ "Ezequiel Melillo|Villa San Carlos": {
+  "name": "Ezequiel Melillo",
+  "team": "Villa San Carlos",
+  "goals": 3
+ },
+ "Ignacio Colombini|Talleres RE": {
+  "name": "Ignacio Colombini",
+  "team": "Talleres RE",
+  "goals": 3
+ },
+ "Luciano Romero|Argentino Merlo": {
+  "name": "Luciano Romero",
+  "team": "Argentino Merlo",
+  "goals": 3
+ },
+ "Pablo Cáceres|Sportivo Italiano": {
+  "name": "Pablo Cáceres",
+  "team": "Sportivo Italiano",
+  "goals": 3
+ },
+ "Leandro Paredes|Boca Juniors": {
+  "name": "Leandro Paredes",
   "team": "Boca Juniors",
   "goals": 1
  }
